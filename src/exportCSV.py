@@ -21,9 +21,7 @@ def execute(source, mappings):
       dir = os.path.join(os.path.dirname(__file__), default_directory + k)
       if not os.path.exists(dir):
         os.makedirs(dir)
-      #csvwriter = csv.writer(dir + "/language.xml")
       with open(dir + "/language.csv", "wb") as f:
-        #csv.DictWriter(f, fieldnames=('code', 'name'), restval='raise')
         csvwriter = csv.writer(f)
         for lang_code, lang_name in sorted(v.iteritems()):
           csvwriter.writerow([lang_code, lang_name])
