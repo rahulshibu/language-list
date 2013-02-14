@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Creates text file(s) from the given language code/name mappings.
+Creates YAML file(s) from the given language code/name mappings.
 
 Order is alphabetical by language code.
 
 """
-import os
+import os, yaml
 
 def execute(source, mappings):
-  """Writes the given language code/name mappings to text files.
+  """Writes the given language code/name mappings to YAML files.
 
   source = string indicating source of the data, for example, 'cldr'
   mappings = list of dictionaries containing mappings"""
@@ -21,6 +21,5 @@ def execute(source, mappings):
       dir = os.path.join(os.path.dirname(__file__), default_directory + k)
       if not os.path.exists(dir):
         os.makedirs(dir)
-      with open(dir + "/language.txt", "w") as f:
-        for lang_code, lang_name in sorted(v.iteritems()):
-          f.write("%s (%s)\n" % (lang_name, lang_code))
+      with open(dir + "/language.yaml", "w") as f:
+        f.write(yaml.safe_dump(v, default_flow_style=False))

@@ -24,8 +24,9 @@ Where does the data come from?
 Setup
 -----
 
-Install [Requests](http://docs.python-requests.org/en/latest/user/install/):
+Install required packages:
 
+    pip install pyyaml
     pip install requests
 
 Clone this repository:

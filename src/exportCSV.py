@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Creates text file(s) from the given language code/name mappings.
+Creates CSV file(s) from the given language code/name mappings.
 
-Order is alphabetical by language code.
+Ordering is alphabetical by langauge code.
 
 """
-import os
+import csv, os
 
 def execute(source, mappings):
-  """Writes the given language code/name mappings to text files.
+  """Writes the given language code/name mappings to CSV files.
 
   source = string indicating source of the data, for example, 'cldr'
   mappings = list of dictionaries containing mappings"""
@@ -21,6 +21,9 @@ def execute(source, mappings):
       dir = os.path.join(os.path.dirname(__file__), default_directory + k)
       if not os.path.exists(dir):
         os.makedirs(dir)
-      with open(dir + "/language.txt", "w") as f:
+      #csvwriter = csv.writer(dir + "/language.xml")
+      with open(dir + "/language.csv", "wb") as f:
+        #csv.DictWriter(f, fieldnames=('code', 'name'), restval='raise')
+        csvwriter = csv.writer(f)
         for lang_code, lang_name in sorted(v.iteritems()):
-          f.write("%s (%s)\n" % (lang_name, lang_code))
+          csvwriter.writerow([lang_code, lang_name])

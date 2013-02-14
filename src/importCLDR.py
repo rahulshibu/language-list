@@ -46,12 +46,12 @@ def execute(language):
           if xml_data != None:
             extracted_data = extract_data(xml_data)
             if extracted_data != None:
-              mappings = dict([(lang, extract_data(xml_data))])
+              mappings = dict([(lang, extracted_data)])
               l.append(mappings)
       return l
     finally:
       zf.close()
-    
+
   if language != '*':
     try:
       xml_data = zf.read(zipfile_path + language + '.xml')
@@ -59,16 +59,16 @@ def execute(language):
         extracted_data = extract_data(xml_data)
         if extracted_data == None:
           return None
-        mappings = dict([(lang, extract_data(xml_data))])
-        l = list()        
+        mappings = dict([(language, extracted_data)])
+        l = list()
         l.append(mappings)
         return l
     finally:
-      zf.close() 
+      zf.close()
 
 def extract_data(xml_data):
   """Import the data from XML into a dictionary
-  
+
   xml_data: string containing all XML from CLDR for a language code or locale code"""
   root = ET.fromstring(xml_data)
   try:
@@ -79,13 +79,13 @@ def extract_data(xml_data):
     return None
   mappings = dict()
   for child in langs:
-    # Skip alternate names. For example, code 'az' has 'Azerbaijani' and alternate name 'Azeri'    
+    # Skip alternate names. For example, code 'az' has 'Azerbaijani' and alternate name 'Azeri'
     try:
       child.attrib['alt']
       continue
     except:
-      pass 
+      pass
     mappings[child.attrib['type']] = child.text.encode("utf-8")
   if len(mappings) == 0:
     return None
-  return mappings    
+  return mappings

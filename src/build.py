@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan 30 13:37:20 2013
+Builds a list of language codes and associated language names in different languages and formats.
 
-@author: Robert
 """
 import argparse
 import importCLDR
-import exportTXT
+import exportCSV, exportJSON, exportTXT, exportXML, exportYAML
 
 # Set defaults
 default_source = "cldr" # Currently only 'cldr' is supported
 default_language = "*" # A two-letter code, or '*' for all languages
-default_fileformat = "*" # Currently only 'txt' is supported
+default_fileformat = "*" # 'csv', 'json', 'txt', 'xml', 'yaml', or '*' for all formats
 
 source = ""
 language = ""
@@ -22,16 +21,23 @@ def configure(src, lang, fmt):
   source = src
   language = lang
   fileformat = fmt
-    
+
 def execute():
-  if source == "*" or source == "cldr":
-    # Run the importer for CLDR
-    mappings = importCLDR.execute(language)  
-  
+  # For a data import source, only CLDR is implemented
+  mappings = importCLDR.execute(language)
+
   # Run the exporter
   if mappings != None:
-    exportTXT.execute(source, mappings)
-
+    if fileformat == "csv" or fileformat == "*":
+      exportCSV.execute(source, mappings)
+    if fileformat == "json" or fileformat == "*":
+      exportJSON.execute(source, mappings)
+    if fileformat == "txt" or fileformat == "*":
+      exportTXT.execute(source, mappings)
+    if fileformat == "xml" or fileformat == "*":
+      exportXML.execute(source, mappings)
+    if fileformat == "yaml" or fileformat == "*":
+      exportYAML.execute(source, mappings)
 
 def main():
   # Get command line arguments
