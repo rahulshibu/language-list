@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>აფარი</name>
+  </language>
+  <language>
     <code>ab</code>
     <name>აფხაზური</name>
+  </language>
+  <language>
+    <code>ace</code>
+    <name>აჩეხური</name>
+  </language>
+  <language>
+    <code>ach</code>
+    <name>აჩოლი</name>
+  </language>
+  <language>
+    <code>ada</code>
+    <name>ადანგმე</name>
   </language>
   <language>
     <code>ady</code>
@@ -10,23 +26,55 @@
   </language>
   <language>
     <code>ae</code>
-    <name>ავესტა</name>
+    <name>ავესტური</name>
   </language>
   <language>
     <code>af</code>
-    <name>აფრიკული</name>
+    <name>აფრიკაანსი</name>
+  </language>
+  <language>
+    <code>agq</code>
+    <name>აღემი</name>
   </language>
   <language>
     <code>ain</code>
-    <name>აინუ</name>
+    <name>აინუური</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>აკანი</name>
+  </language>
+  <language>
+    <code>akk</code>
+    <name>აქადური</name>
   </language>
   <language>
     <code>ale</code>
     <name>ალეუტური</name>
   </language>
   <language>
+    <code>alg</code>
+    <name>ალგონკინური ენა</name>
+  </language>
+  <language>
+    <code>alt</code>
+    <name>სამხრეთ ალთაური</name>
+  </language>
+  <language>
+    <code>am</code>
+    <name>ამჰარული</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>არაგონული</name>
+  </language>
+  <language>
     <code>ang</code>
     <name>ძველი ინგლისური</name>
+  </language>
+  <language>
+    <code>anp</code>
+    <name>ანგიკა</name>
   </language>
   <language>
     <code>ar</code>
@@ -37,24 +85,96 @@
     <name>არამეული</name>
   </language>
   <language>
+    <code>arn</code>
+    <name>მაპუდუნგუნი</name>
+  </language>
+  <language>
+    <code>arp</code>
+    <name>არაპაჰო</name>
+  </language>
+  <language>
     <code>art</code>
-    <name>ხელოვნური სხვა</name>
+    <name>ხელოვნური ენა</name>
+  </language>
+  <language>
+    <code>arw</code>
+    <name>არავაკი</name>
   </language>
   <language>
     <code>as</code>
     <name>ასამური</name>
   </language>
   <language>
+    <code>asa</code>
+    <name>ასუ</name>
+  </language>
+  <language>
     <code>ast</code>
-    <name>ავსტრიული</name>
+    <name>ასტურიული</name>
+  </language>
+  <language>
+    <code>ath</code>
+    <name>ათაბასკური ენა</name>
+  </language>
+  <language>
+    <code>av</code>
+    <name>ხუნძური</name>
+  </language>
+  <language>
+    <code>awa</code>
+    <name>ავადი</name>
+  </language>
+  <language>
+    <code>ay</code>
+    <name>აიმარა</name>
   </language>
   <language>
     <code>az</code>
     <name>აზერბაიჯანული</name>
   </language>
   <language>
+    <code>ba</code>
+    <name>ბაშკირული</name>
+  </language>
+  <language>
+    <code>bal</code>
+    <name>ბელუჯი</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>ბალინური</name>
+  </language>
+  <language>
+    <code>bas</code>
+    <name>ბასა</name>
+  </language>
+  <language>
+    <code>bat</code>
+    <name>ბალტიური ენა</name>
+  </language>
+  <language>
+    <code>bax</code>
+    <name>ბამუნი</name>
+  </language>
+  <language>
     <code>be</code>
     <name>ბელორუსული</name>
+  </language>
+  <language>
+    <code>bej</code>
+    <name>ბეჯა</name>
+  </language>
+  <language>
+    <code>bem</code>
+    <name>ბემბა</name>
+  </language>
+  <language>
+    <code>ber</code>
+    <name>ბერბერული</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>ბენა</name>
   </language>
   <language>
     <code>bg</code>
@@ -65,12 +185,32 @@
     <name>ბიჰარი</name>
   </language>
   <language>
+    <code>bho</code>
+    <name>ბოჯპური</name>
+  </language>
+  <language>
+    <code>bn</code>
+    <name>ბენგალური</name>
+  </language>
+  <language>
+    <code>bnt</code>
+    <name>ბანტუ</name>
+  </language>
+  <language>
     <code>bo</code>
     <name>ტიბეტური</name>
   </language>
   <language>
     <code>br</code>
     <name>ბრეტონული</name>
+  </language>
+  <language>
+    <code>bra</code>
+    <name>ბრაჯი</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>ბოდო</name>
   </language>
   <language>
     <code>bs</code>
@@ -81,12 +221,20 @@
     <name>ბურიატული</name>
   </language>
   <language>
+    <code>byn</code>
+    <name>ბილინი</name>
+  </language>
+  <language>
     <code>ca</code>
     <name>კატალანური</name>
   </language>
   <language>
     <code>cau</code>
-    <name>კავკასიური სხვა</name>
+    <name>კავკასიური ენა</name>
+  </language>
+  <language>
+    <code>cay</code>
+    <name>კაიუგა</name>
   </language>
   <language>
     <code>ce</code>
@@ -94,15 +242,71 @@
   </language>
   <language>
     <code>cel</code>
-    <name>კელტური სხვა</name>
+    <name>კელტური ენა</name>
+  </language>
+  <language>
+    <code>chb</code>
+    <name>ჩიბჩა</name>
+  </language>
+  <language>
+    <code>chm</code>
+    <name>მარიული</name>
+  </language>
+  <language>
+    <code>chn</code>
+    <name>ჩინუკი ვავა</name>
+  </language>
+  <language>
+    <code>cho</code>
+    <name>ჩოკტო</name>
+  </language>
+  <language>
+    <code>chp</code>
+    <name>დენე სულინე</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>ჩეროკი</name>
+  </language>
+  <language>
+    <code>chy</code>
+    <name>ჩეიენი</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>სორანი ქურთული</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>კორსიკული</name>
+  </language>
+  <language>
+    <code>cop</code>
+    <name>კოპტური</name>
+  </language>
+  <language>
+    <code>cr</code>
+    <name>კრი</name>
+  </language>
+  <language>
+    <code>crh</code>
+    <name>ყირიმულ-თურქული</name>
   </language>
   <language>
     <code>cs</code>
     <name>ჩეხური</name>
   </language>
   <language>
+    <code>csb</code>
+    <name>კაშუბური</name>
+  </language>
+  <language>
     <code>cu</code>
     <name>საეკლესიო სლავური</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>ჩუვაშური</name>
   </language>
   <language>
     <code>cy</code>
@@ -111,6 +315,18 @@
   <language>
     <code>da</code>
     <name>დანიური</name>
+  </language>
+  <language>
+    <code>dak</code>
+    <name>დაკოტა</name>
+  </language>
+  <language>
+    <code>dar</code>
+    <name>დარგუული</name>
+  </language>
+  <language>
+    <code>dav</code>
+    <name>ტაიტა</name>
   </language>
   <language>
     <code>de</code>
@@ -122,11 +338,71 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>შვეიცარიული მაღალი გერმანული</name>
+    <name>შვეიცარიული ზემოგერმანული</name>
+  </language>
+  <language>
+    <code>del</code>
+    <name>დელავარული</name>
+  </language>
+  <language>
+    <code>den</code>
+    <name>სლეივი</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>დოგრიბი</name>
+  </language>
+  <language>
+    <code>din</code>
+    <name>დინკა</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>ზარმა</name>
+  </language>
+  <language>
+    <code>doi</code>
+    <name>დოგრი</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>დუალა</name>
+  </language>
+  <language>
+    <code>dum</code>
+    <name>საშუალო ჰოლანდიური</name>
+  </language>
+  <language>
+    <code>dv</code>
+    <name>დივეჰი</name>
+  </language>
+  <language>
+    <code>dyo</code>
+    <name>დიოლა</name>
+  </language>
+  <language>
+    <code>dyu</code>
+    <name>დიულა</name>
+  </language>
+  <language>
+    <code>dz</code>
+    <name>ძონგხა</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>ემბუ</name>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>ევე</name>
+  </language>
+  <language>
+    <code>efi</code>
+    <name>ეფიკი</name>
   </language>
   <language>
     <code>egy</code>
-    <name>ეგვიპტური</name>
+    <name>ძველეგვიპტური</name>
   </language>
   <language>
     <code>el</code>
@@ -153,6 +429,10 @@
     <name>ამერიკული ინგლისური</name>
   </language>
   <language>
+    <code>enm</code>
+    <name>საშუალო ინგლისური</name>
+  </language>
+  <language>
     <code>eo</code>
     <name>ესპერანტო</name>
   </language>
@@ -166,7 +446,7 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>იბერიული ესპანური</name>
+    <name>ევროპული ესპანური</name>
   </language>
   <language>
     <code>et</code>
@@ -175,6 +455,10 @@
   <language>
     <code>eu</code>
     <name>ბასკური</name>
+  </language>
+  <language>
+    <code>ewo</code>
+    <name>ევონდო</name>
   </language>
   <language>
     <code>fa</code>
@@ -189,6 +473,18 @@
     <name>ფილიპინური</name>
   </language>
   <language>
+    <code>fj</code>
+    <name>ფიჯი</name>
+  </language>
+  <language>
+    <code>fo</code>
+    <name>ფარერული</name>
+  </language>
+  <language>
+    <code>fon</code>
+    <name>ფონი</name>
+  </language>
+  <language>
     <code>fr</code>
     <name>ფრანგული</name>
   </language>
@@ -201,20 +497,56 @@
     <name>შვეიცარიული ფრანგული</name>
   </language>
   <language>
+    <code>frm</code>
+    <name>საშუალო ფრანგული</name>
+  </language>
+  <language>
     <code>fro</code>
     <name>ძველი ფრანგული</name>
+  </language>
+  <language>
+    <code>frr</code>
+    <name>ჩრდილოფრიზიული</name>
+  </language>
+  <language>
+    <code>frs</code>
+    <name>აღმოსავლეთფრიზიული</name>
+  </language>
+  <language>
+    <code>fur</code>
+    <name>ფრიულური</name>
+  </language>
+  <language>
+    <code>fy</code>
+    <name>დასავლეთფრიზიული</name>
   </language>
   <language>
     <code>ga</code>
     <name>ირლანდიური</name>
   </language>
   <language>
+    <code>gba</code>
+    <name>გბაია</name>
+  </language>
+  <language>
     <code>gd</code>
-    <name>შოტლანდიურ-გალური</name>
+    <name>შოტლანდიური გელური</name>
+  </language>
+  <language>
+    <code>gem</code>
+    <name>გერმანიკული ენა</name>
+  </language>
+  <language>
+    <code>gez</code>
+    <name>გეეზი</name>
   </language>
   <language>
     <code>gl</code>
-    <name>გალური</name>
+    <name>გალისიური</name>
+  </language>
+  <language>
+    <code>gmh</code>
+    <name>საშუალო ზემოგერმანული</name>
   </language>
   <language>
     <code>gn</code>
@@ -222,7 +554,15 @@
   </language>
   <language>
     <code>goh</code>
-    <name>ძველი გერმანული</name>
+    <name>ძველი ზემოგერმანული</name>
+  </language>
+  <language>
+    <code>gon</code>
+    <name>გონდი</name>
+  </language>
+  <language>
+    <code>got</code>
+    <name>გოთური</name>
   </language>
   <language>
     <code>grc</code>
@@ -237,6 +577,18 @@
     <name>გუჯარათი</name>
   </language>
   <language>
+    <code>gv</code>
+    <name>მენური</name>
+  </language>
+  <language>
+    <code>ha</code>
+    <name>ჰაუსა</name>
+  </language>
+  <language>
+    <code>haw</code>
+    <name>ჰავაიური</name>
+  </language>
+  <language>
     <code>he</code>
     <name>ებრაული</name>
   </language>
@@ -245,8 +597,16 @@
     <name>ჰინდი</name>
   </language>
   <language>
+    <code>hit</code>
+    <name>ხეთური ენა</name>
+  </language>
+  <language>
     <code>hr</code>
-    <name>ხორვატიული</name>
+    <name>ხორვატული</name>
+  </language>
+  <language>
+    <code>ht</code>
+    <name>ჰაიტიური</name>
   </language>
   <language>
     <code>hu</code>
@@ -261,6 +621,14 @@
     <name>ინტერლინგუალური</name>
   </language>
   <language>
+    <code>iba</code>
+    <name>იბანი</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>იბიბიო</name>
+  </language>
+  <language>
     <code>id</code>
     <name>ინდონეზიური</name>
   </language>
@@ -269,8 +637,32 @@
     <name>ინტერლინგი</name>
   </language>
   <language>
+    <code>ig</code>
+    <name>იგბო</name>
+  </language>
+  <language>
+    <code>inc</code>
+    <name>ინდური ენა</name>
+  </language>
+  <language>
     <code>ine</code>
-    <name>ინდო-ევროპული სხვა</name>
+    <name>ინდოევროპული ენა</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>ინგუშური</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>იდო</name>
+  </language>
+  <language>
+    <code>ira</code>
+    <name>ირანული ენა</name>
+  </language>
+  <language>
+    <code>iro</code>
+    <name>იროკეზული ენა</name>
   </language>
   <language>
     <code>is</code>
@@ -281,36 +673,148 @@
     <name>იტალიური</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>ინუკტიტუტი</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>იაპონური</name>
   </language>
   <language>
+    <code>jbo</code>
+    <name>ლოჟბანი</name>
+  </language>
+  <language>
+    <code>jpr</code>
+    <name>იუდეო-სპარსული</name>
+  </language>
+  <language>
+    <code>jrb</code>
+    <name>იუდეო-არაბული</name>
+  </language>
+  <language>
     <code>jv</code>
-    <name>იავანური</name>
+    <name>იავური</name>
   </language>
   <language>
     <code>ka</code>
     <name>ქართული</name>
   </language>
   <language>
+    <code>kaa</code>
+    <name>ყარაყალფახური</name>
+  </language>
+  <language>
+    <code>kac</code>
+    <name>კაჩინი</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>კამბა</name>
+  </language>
+  <language>
+    <code>kbd</code>
+    <name>ყაბარდოული</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>კაბუვერდიანუ</name>
+  </language>
+  <language>
     <code>kg</code>
     <name>კონგო</name>
+  </language>
+  <language>
+    <code>khi</code>
+    <name>კოისანური ენა</name>
   </language>
   <language>
     <code>kk</code>
     <name>ყაზახური</name>
   </language>
   <language>
+    <code>kl</code>
+    <name>გრენლანდიური</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>კალენჯინი</name>
+  </language>
+  <language>
     <code>km</code>
-    <name>კამბოჯიური</name>
+    <name>ქმერული</name>
+  </language>
+  <language>
+    <code>kmb</code>
+    <name>კიმბუნდუ</name>
+  </language>
+  <language>
+    <code>kn</code>
+    <name>კანადა</name>
   </language>
   <language>
     <code>ko</code>
     <name>კორეული</name>
   </language>
   <language>
+    <code>kok</code>
+    <name>კონკანი</name>
+  </language>
+  <language>
+    <code>kos</code>
+    <name>კუსაიე</name>
+  </language>
+  <language>
+    <code>kpe</code>
+    <name>კპელე</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>კანური</name>
+  </language>
+  <language>
+    <code>krc</code>
+    <name>ყარაჩაულ-ბალყარული</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>კარელიური</name>
+  </language>
+  <language>
+    <code>kru</code>
+    <name>კურუქი</name>
+  </language>
+  <language>
+    <code>ks</code>
+    <name>ქაშმირული</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>შამბალა</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>ბაფია</name>
+  </language>
+  <language>
     <code>ku</code>
     <name>ქურთული</name>
+  </language>
+  <language>
+    <code>kum</code>
+    <name>ყუმუხური</name>
+  </language>
+  <language>
+    <code>kut</code>
+    <name>კუტენაი</name>
+  </language>
+  <language>
+    <code>kv</code>
+    <name>კომი</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>კორნული</name>
   </language>
   <language>
     <code>ky</code>
@@ -321,8 +825,36 @@
     <name>ლათინური</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>ლადინო</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>ლანგი</name>
+  </language>
+  <language>
+    <code>lah</code>
+    <name>ლანდა</name>
+  </language>
+  <language>
+    <code>lam</code>
+    <name>ლამბა</name>
+  </language>
+  <language>
     <code>lb</code>
     <name>ლუქსემბურგული</name>
+  </language>
+  <language>
+    <code>lez</code>
+    <name>ლეზგიური</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>განდა</name>
+  </language>
+  <language>
+    <code>li</code>
+    <name>ლიმბურგული</name>
   </language>
   <language>
     <code>ln</code>
@@ -333,76 +865,320 @@
     <name>ლაოსური</name>
   </language>
   <language>
+    <code>lol</code>
+    <name>მონგო</name>
+  </language>
+  <language>
+    <code>loz</code>
+    <name>ლოზი</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>ლიტვური</name>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>ლუბა-კატანგა</name>
+  </language>
+  <language>
+    <code>lua</code>
+    <name>ლუბა-კასაი</name>
+  </language>
+  <language>
+    <code>lui</code>
+    <name>ლუისენიო</name>
+  </language>
+  <language>
+    <code>lun</code>
+    <name>ლუნდა</name>
+  </language>
+  <language>
+    <code>luo</code>
+    <name>ლუო</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>მიზო</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>ლუჰია</name>
   </language>
   <language>
     <code>lv</code>
     <name>ლატვიური</name>
   </language>
   <language>
+    <code>maf</code>
+    <name>მაფა</name>
+  </language>
+  <language>
+    <code>mag</code>
+    <name>მაგაჰი</name>
+  </language>
+  <language>
+    <code>mai</code>
+    <name>მაითილი</name>
+  </language>
+  <language>
+    <code>map</code>
+    <name>ავსტრონეზიური ენა</name>
+  </language>
+  <language>
+    <code>mde</code>
+    <name>მაბა</name>
+  </language>
+  <language>
+    <code>mdf</code>
+    <name>მოქშა</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>მენდე</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>მერუ</name>
+  </language>
+  <language>
+    <code>mg</code>
+    <name>მალაგასიური</name>
+  </language>
+  <language>
+    <code>mga</code>
+    <name>საშუალო ირლანდიური</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>მაქუვა-მეეტო</name>
+  </language>
+  <language>
+    <code>mi</code>
+    <name>მაორი</name>
+  </language>
+  <language>
+    <code>mic</code>
+    <name>მიკმაკი</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>მინანგკაბაუ</name>
+  </language>
+  <language>
     <code>mk</code>
-    <name>მაკედონიური</name>
+    <name>მაკედონური</name>
+  </language>
+  <language>
+    <code>mkh</code>
+    <name>მონ-ქმერული ენა</name>
+  </language>
+  <language>
+    <code>ml</code>
+    <name>მალაიალამური</name>
   </language>
   <language>
     <code>mn</code>
     <name>მონღოლური</name>
   </language>
   <language>
+    <code>mnc</code>
+    <name>მანჯურიული</name>
+  </language>
+  <language>
+    <code>mni</code>
+    <name>მანიპური</name>
+  </language>
+  <language>
+    <code>mno</code>
+    <name>მანობო ენა</name>
+  </language>
+  <language>
     <code>mo</code>
-    <name>მოლდოვური</name>
+    <name>მოლდავური</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>მოჰავკი</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>მოორე</name>
+  </language>
+  <language>
+    <code>mr</code>
+    <name>მარათჰი</name>
   </language>
   <language>
     <code>ms</code>
-    <name>მალაიზიური</name>
+    <name>მალაიური</name>
+  </language>
+  <language>
+    <code>mt</code>
+    <name>მალტური</name>
+  </language>
+  <language>
+    <code>mua</code>
+    <name>მუნდანგი</name>
+  </language>
+  <language>
+    <code>mun</code>
+    <name>მუნდა ენა</name>
+  </language>
+  <language>
+    <code>mus</code>
+    <name>კრიკი</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>მირანდული</name>
+  </language>
+  <language>
+    <code>mwr</code>
+    <name>მარვარი</name>
+  </language>
+  <language>
+    <code>my</code>
+    <name>ბირმული</name>
+  </language>
+  <language>
+    <code>mye</code>
+    <name>მიენე</name>
   </language>
   <language>
     <code>myn</code>
-    <name>მაიას ენები</name>
+    <name>მაია ენა</name>
+  </language>
+  <language>
+    <code>myv</code>
+    <name>ერზია</name>
+  </language>
+  <language>
+    <code>na</code>
+    <name>ნაურუ</name>
+  </language>
+  <language>
+    <code>nah</code>
+    <name>ნაუატლი</name>
   </language>
   <language>
     <code>nap</code>
     <name>ნეაპოლიტანური</name>
   </language>
   <language>
+    <code>naq</code>
+    <name>ნამა</name>
+  </language>
+  <language>
+    <code>nb</code>
+    <name>ნორვეგიული ბუკმოლი</name>
+  </language>
+  <language>
+    <code>nds</code>
+    <name>ქვემოგერმანული</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>ნეპალური</name>
   </language>
   <language>
+    <code>new</code>
+    <name>ნევარი</name>
+  </language>
+  <language>
     <code>nl</code>
-    <name>ჰოლანდიური</name>
+    <name>ნიდერლანდური</name>
   </language>
   <language>
     <code>nl_BE</code>
-    <name>ფლომანდიური</name>
+    <name>ფლამანდიური</name>
   </language>
   <language>
     <code>nn</code>
-    <name>ნორვეგიული ნინორსკი</name>
+    <name>ნორვეგიული ნიუნორსკი</name>
   </language>
   <language>
     <code>no</code>
     <name>ნორვეგიული</name>
   </language>
   <language>
+    <code>nog</code>
+    <name>ნოღაური</name>
+  </language>
+  <language>
+    <code>non</code>
+    <name>ძველსკანდინავიური</name>
+  </language>
+  <language>
+    <code>nqo</code>
+    <name>ნკო</name>
+  </language>
+  <language>
     <code>nv</code>
     <name>ნავახო</name>
   </language>
   <language>
+    <code>nwc</code>
+    <name>კლასიკური ნევარული</name>
+  </language>
+  <language>
+    <code>ny</code>
+    <name>ნიანჯა</name>
+  </language>
+  <language>
+    <code>nym</code>
+    <name>ნიამვეზი</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>ნიანკოლე</name>
+  </language>
+  <language>
+    <code>nyo</code>
+    <name>ნიორო</name>
+  </language>
+  <language>
+    <code>nzi</code>
+    <name>ნზიმა</name>
+  </language>
+  <language>
     <code>oc</code>
-    <name>ოციტანური</name>
+    <name>ოქსიტანური</name>
+  </language>
+  <language>
+    <code>oj</code>
+    <name>ოჯიბვე</name>
   </language>
   <language>
     <code>or</code>
-    <name>ორიული</name>
+    <name>ორია</name>
   </language>
   <language>
     <code>os</code>
     <name>ოსური</name>
   </language>
   <language>
+    <code>oto</code>
+    <name>ოტომანგური ენა</name>
+  </language>
+  <language>
+    <code>pa</code>
+    <name>პენჯაბური</name>
+  </language>
+  <language>
+    <code>pal</code>
+    <name>ფალავი</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>ძველი სპარსული</name>
+  </language>
+  <language>
+    <code>phn</code>
+    <name>ფინიკიური</name>
+  </language>
+  <language>
+    <code>pi</code>
+    <name>პალი</name>
   </language>
   <language>
     <code>pl</code>
@@ -410,7 +1186,11 @@
   </language>
   <language>
     <code>pra</code>
-    <name>პრაკრიტის ენები</name>
+    <name>პრაკრიტის ენა</name>
+  </language>
+  <language>
+    <code>pro</code>
+    <name>ძველი პროვანსული</name>
   </language>
   <language>
     <code>ps</code>
@@ -426,19 +1206,63 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>იბერიულ-პორტუგალიური</name>
+    <name>ევროპული პორტუგალიური</name>
+  </language>
+  <language>
+    <code>qu</code>
+    <name>კეჩუა</name>
+  </language>
+  <language>
+    <code>raj</code>
+    <name>რაჯასთანი</name>
+  </language>
+  <language>
+    <code>rap</code>
+    <name>რაპანუი</name>
+  </language>
+  <language>
+    <code>rar</code>
+    <name>რაროტონგული</name>
+  </language>
+  <language>
+    <code>rm</code>
+    <name>რეტორომანული</name>
+  </language>
+  <language>
+    <code>rn</code>
+    <name>რუნდი</name>
   </language>
   <language>
     <code>ro</code>
     <name>რუმინული</name>
   </language>
   <language>
+    <code>roa</code>
+    <name>რომანული ენა</name>
+  </language>
+  <language>
+    <code>rom</code>
+    <name>ბოშური</name>
+  </language>
+  <language>
     <code>ru</code>
-    <name>ru</name>
+    <name>რუსული</name>
   </language>
   <language>
     <code>sa</code>
     <name>სანსკრიტი</name>
+  </language>
+  <language>
+    <code>sah</code>
+    <name>იაკუტური</name>
+  </language>
+  <language>
+    <code>sal</code>
+    <name>სალიშური ენა</name>
+  </language>
+  <language>
+    <code>sam</code>
+    <name>სამარიულ-არამეული</name>
   </language>
   <language>
     <code>sc</code>
@@ -450,7 +1274,19 @@
   </language>
   <language>
     <code>sd</code>
-    <name>სინდური</name>
+    <name>სინდჰური</name>
+  </language>
+  <language>
+    <code>see</code>
+    <name>სენეკა</name>
+  </language>
+  <language>
+    <code>sel</code>
+    <name>სელკუპური</name>
+  </language>
+  <language>
+    <code>sem</code>
+    <name>სემიტური ენა</name>
   </language>
   <language>
     <code>sga</code>
@@ -461,8 +1297,28 @@
     <name>სერბულ-ხორვატული</name>
   </language>
   <language>
+    <code>shi</code>
+    <name>შილჰა</name>
+  </language>
+  <language>
+    <code>shn</code>
+    <name>შანი</name>
+  </language>
+  <language>
+    <code>shu</code>
+    <name>ჩადური არაბული</name>
+  </language>
+  <language>
     <code>si</code>
     <name>სინჰალური</name>
+  </language>
+  <language>
+    <code>sio</code>
+    <name>სიუ ენა</name>
+  </language>
+  <language>
+    <code>sit</code>
+    <name>ჩინურ-ტიბეტური ენა</name>
   </language>
   <language>
     <code>sk</code>
@@ -474,7 +1330,11 @@
   </language>
   <language>
     <code>sla</code>
-    <name>სლავური სხვა</name>
+    <name>სლავური ენა</name>
+  </language>
+  <language>
+    <code>sm</code>
+    <name>სამოა</name>
   </language>
   <language>
     <code>so</code>
@@ -493,6 +1353,10 @@
     <name>სამხრეთ სოთოს ენა</name>
   </language>
   <language>
+    <code>su</code>
+    <name>სუნდური</name>
+  </language>
+  <language>
     <code>sux</code>
     <name>შუმერული</name>
   </language>
@@ -505,12 +1369,44 @@
     <name>სუაჰილი</name>
   </language>
   <language>
+    <code>swb</code>
+    <name>კომორული</name>
+  </language>
+  <language>
+    <code>syc</code>
+    <name>კლასიკური სირიული</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>სირიული</name>
+  </language>
+  <language>
+    <code>ta</code>
+    <name>ტამილური</name>
+  </language>
+  <language>
+    <code>tai</code>
+    <name>ტაი ენა</name>
+  </language>
+  <language>
+    <code>te</code>
+    <name>ტელუგუ</name>
+  </language>
+  <language>
     <code>tg</code>
     <name>ტაჯიკური</name>
   </language>
   <language>
     <code>th</code>
-    <name>ტაილანდური</name>
+    <name>ტაი</name>
+  </language>
+  <language>
+    <code>ti</code>
+    <name>ტიგრინია</name>
+  </language>
+  <language>
+    <code>tig</code>
+    <name>ტიგრე</name>
   </language>
   <language>
     <code>tk</code>
@@ -525,20 +1421,44 @@
     <name>ტსვანა</name>
   </language>
   <language>
+    <code>to</code>
+    <name>ტონგანური</name>
+  </language>
+  <language>
     <code>tr</code>
     <name>თურქული</name>
+  </language>
+  <language>
+    <code>tt</code>
+    <name>თათრული</name>
+  </language>
+  <language>
+    <code>tup</code>
+    <name>ტუპი ენა</name>
+  </language>
+  <language>
+    <code>tut</code>
+    <name>ალთაური</name>
   </language>
   <language>
     <code>tw</code>
     <name>თუი</name>
   </language>
   <language>
+    <code>tyv</code>
+    <name>ტუვა</name>
+  </language>
+  <language>
     <code>udm</code>
-    <name>უდმურტიული</name>
+    <name>უდმურტული</name>
   </language>
   <language>
     <code>ug</code>
-    <name>უიგურული</name>
+    <name>უიღურული</name>
+  </language>
+  <language>
+    <code>uga</code>
+    <name>უგარითული</name>
   </language>
   <language>
     <code>uk</code>
@@ -546,7 +1466,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>უცნობი ან არასწორი ენა</name>
+    <name>უცნობი ენა</name>
   </language>
   <language>
     <code>ur</code>
@@ -557,16 +1477,56 @@
     <name>უზბეკური</name>
   </language>
   <language>
+    <code>vai</code>
+    <name>ვაი</name>
+  </language>
+  <language>
     <code>vi</code>
     <name>ვიეტნამური</name>
   </language>
   <language>
+    <code>wak</code>
+    <name>ვაკაშური ენა</name>
+  </language>
+  <language>
+    <code>wal</code>
+    <name>ველაითა</name>
+  </language>
+  <language>
+    <code>wo</code>
+    <name>ვოლოფური</name>
+  </language>
+  <language>
+    <code>xal</code>
+    <name>ყალმუხური</name>
+  </language>
+  <language>
     <code>xh</code>
-    <name>ქსოზა</name>
+    <name>ქჰოსა</name>
   </language>
   <language>
     <code>yi</code>
     <name>იდიში</name>
+  </language>
+  <language>
+    <code>yo</code>
+    <name>იორუბა</name>
+  </language>
+  <language>
+    <code>ypk</code>
+    <name>იუპიკური ენა</name>
+  </language>
+  <language>
+    <code>yue</code>
+    <name>კანტონური</name>
+  </language>
+  <language>
+    <code>zbl</code>
+    <name>ბლისსიმბოლოები</name>
+  </language>
+  <language>
+    <code>zen</code>
+    <name>ზენაგა</name>
   </language>
   <language>
     <code>zh</code>
@@ -581,7 +1541,19 @@
     <name>ტრადიციული ჩინური</name>
   </language>
   <language>
+    <code>znd</code>
+    <name>ზანდე</name>
+  </language>
+  <language>
     <code>zu</code>
     <name>ზულუ</name>
+  </language>
+  <language>
+    <code>zxx</code>
+    <name>ლინგვისტური შიგთავსი არ არის</name>
+  </language>
+  <language>
+    <code>zza</code>
+    <name>ზაზაკი</name>
   </language>
 </languages>

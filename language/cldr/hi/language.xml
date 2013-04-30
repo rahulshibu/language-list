@@ -26,7 +26,7 @@
   </language>
   <language>
     <code>ae</code>
-    <name>अवेस्तन</name>
+    <name>अवस्ताई</name>
   </language>
   <language>
     <code>af</code>
@@ -34,7 +34,7 @@
   </language>
   <language>
     <code>afa</code>
-    <name>अफ्रो-एशियाई भाषाएँ</name>
+    <name>अफ़्रीकी-एशियाई भाषा</name>
   </language>
   <language>
     <code>afh</code>
@@ -50,7 +50,7 @@
   </language>
   <language>
     <code>akk</code>
-    <name>अक्केदिअन</name>
+    <name>अक्कादी</name>
   </language>
   <language>
     <code>ale</code>
@@ -66,7 +66,7 @@
   </language>
   <language>
     <code>am</code>
-    <name>अम्हारिक्</name>
+    <name>अम्हारी</name>
   </language>
   <language>
     <code>an</code>
@@ -89,12 +89,16 @@
     <name>अरबी</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>आधुनिक मानक अरबी</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>ऐरेमेक</name>
   </language>
   <language>
     <code>arn</code>
-    <name>एरोकैनियन</name>
+    <name>मापूचे</name>
   </language>
   <language>
     <code>arp</code>
@@ -110,7 +114,7 @@
   </language>
   <language>
     <code>as</code>
-    <name>असामी</name>
+    <name>आसामी</name>
   </language>
   <language>
     <code>ast</code>
@@ -138,7 +142,7 @@
   </language>
   <language>
     <code>az</code>
-    <name>अज़रबैंजानी</name>
+    <name>अज़रबैजानी</name>
   </language>
   <language>
     <code>ba</code>
@@ -170,7 +174,7 @@
   </language>
   <language>
     <code>be</code>
-    <name>बैलोरूशियन्</name>
+    <name>बेलारूसी</name>
   </language>
   <language>
     <code>bej</code>
@@ -186,7 +190,7 @@
   </language>
   <language>
     <code>bg</code>
-    <name>बल्गेरियाई</name>
+    <name>बुल्गारियाई</name>
   </language>
   <language>
     <code>bh</code>
@@ -218,7 +222,7 @@
   </language>
   <language>
     <code>bn</code>
-    <name>बँगाली</name>
+    <name>बंगाली</name>
   </language>
   <language>
     <code>bnt</code>
@@ -326,7 +330,7 @@
   </language>
   <language>
     <code>chr</code>
-    <name>शेरूकी</name>
+    <name>चेरोकी</name>
   </language>
   <language>
     <code>chy</code>
@@ -350,11 +354,11 @@
   </language>
   <language>
     <code>cpe</code>
-    <name>अंग्रेजी आधारित क्रेओल या पिजिन</name>
+    <name>अंग्रेज़ी आधारित क्रेओल या पिजिन</name>
   </language>
   <language>
     <code>cpf</code>
-    <name>फ्रेंच आधारित क्रेओल या पिजिन</name>
+    <name>फ़्रांसीसी आधारित क्रेओल या पिजिन</name>
   </language>
   <language>
     <code>cpp</code>
@@ -398,7 +402,7 @@
   </language>
   <language>
     <code>da</code>
-    <name>डैनीश</name>
+    <name>डेनिश</name>
   </language>
   <language>
     <code>dak</code>
@@ -414,11 +418,7 @@
   </language>
   <language>
     <code>de</code>
-    <name>ज़र्मन</name>
-  </language>
-  <language>
-    <code>de_AT</code>
-    <name>जर्मन (ऑस्ट्रिया)</name>
+    <name>जर्मन</name>
   </language>
   <language>
     <code>de_CH</code>
@@ -446,7 +446,7 @@
   </language>
   <language>
     <code>dra</code>
-    <name>द्रविण भाषा</name>
+    <name>द्रविड़ भाषा</name>
   </language>
   <language>
     <code>dsb</code>
@@ -490,7 +490,7 @@
   </language>
   <language>
     <code>el</code>
-    <name>ग्रीक</name>
+    <name>यूनानी</name>
   </language>
   <language>
     <code>elx</code>
@@ -498,27 +498,11 @@
   </language>
   <language>
     <code>en</code>
-    <name>अंग्रेजी</name>
-  </language>
-  <language>
-    <code>en_AU</code>
-    <name>अंग्रेज़ी (ऑस्ट्रेलिया)</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>अंग्रेज़ी(कनाडाई)</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>अंग्रेजी(ब्रिटिश)</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>अंग्रेज़ी अमेरीकी</name>
+    <name>अंग्रेज़ी</name>
   </language>
   <language>
     <code>enm</code>
-    <name>मिडिल अंग्रजी</name>
+    <name>मध्यकालीन अंग्रेज़ी</name>
   </language>
   <language>
     <code>eo</code>
@@ -526,23 +510,19 @@
   </language>
   <language>
     <code>es</code>
-    <name>स्पेनिश</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>लेटिन अमेरिकी स्पेनिश</name>
+    <name>स्पेनी</name>
   </language>
   <language>
     <code>es_ES</code>
-    <name>ईवेरियाई स्पेनिश</name>
+    <name>स्पेनी (यूरोप)</name>
   </language>
   <language>
     <code>et</code>
-    <name>ऐस्तोनियन्</name>
+    <name>एस्टोनियाई</name>
   </language>
   <language>
     <code>eu</code>
-    <name>बास्क्</name>
+    <name>बास्क</name>
   </language>
   <language>
     <code>ewo</code>
@@ -550,7 +530,7 @@
   </language>
   <language>
     <code>fa</code>
-    <name>पर्शियन्</name>
+    <name>फ़ारसी</name>
   </language>
   <language>
     <code>fan</code>
@@ -566,11 +546,11 @@
   </language>
   <language>
     <code>fi</code>
-    <name>फिनिश</name>
+    <name>फ़िनिश</name>
   </language>
   <language>
     <code>fil</code>
-    <name>फिलिपिनो</name>
+    <name>फ़िलिपीनो</name>
   </language>
   <language>
     <code>fiu</code>
@@ -590,23 +570,15 @@
   </language>
   <language>
     <code>fr</code>
-    <name>फ्रेंच</name>
-  </language>
-  <language>
-    <code>fr_CA</code>
-    <name>फ़्रेंच(कनाडाई)</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>स्विस फ़्रेंच</name>
+    <name>फ़्रांसीसी</name>
   </language>
   <language>
     <code>frm</code>
-    <name>मिडिल फ्रेंच</name>
+    <name>मध्यकालीन फ़्रांसीसी</name>
   </language>
   <language>
     <code>fro</code>
-    <name>पुरानी फ्रांसीसी</name>
+    <name>पुरातन फ़्रांसीसी</name>
   </language>
   <language>
     <code>frr</code>
@@ -626,7 +598,7 @@
   </language>
   <language>
     <code>ga</code>
-    <name>आयरिश</name>
+    <name>आइरिश</name>
   </language>
   <language>
     <code>gaa</code>
@@ -698,7 +670,7 @@
   </language>
   <language>
     <code>gu</code>
-    <name>गुज़राती</name>
+    <name>गुजराती</name>
   </language>
   <language>
     <code>gv</code>
@@ -718,7 +690,7 @@
   </language>
   <language>
     <code>haw</code>
-    <name>हावाइयन</name>
+    <name>हवाई</name>
   </language>
   <language>
     <code>he</code>
@@ -750,7 +722,7 @@
   </language>
   <language>
     <code>hr</code>
-    <name>क्रोएशन्</name>
+    <name>क्रोएशियाई</name>
   </language>
   <language>
     <code>hsb</code>
@@ -786,7 +758,7 @@
   </language>
   <language>
     <code>id</code>
-    <name>इन्डोनेशियाई</name>
+    <name>इंडोनीशियाई</name>
   </language>
   <language>
     <code>ie</code>
@@ -838,7 +810,7 @@
   </language>
   <language>
     <code>is</code>
-    <name>आईस्लैंडिक्</name>
+    <name>आइसलैंडी</name>
   </language>
   <language>
     <code>it</code>
@@ -870,7 +842,7 @@
   </language>
   <language>
     <code>ka</code>
-    <name>जॉर्जीयन्</name>
+    <name>जॉर्जियाई</name>
   </language>
   <language>
     <code>kaa</code>
@@ -958,7 +930,7 @@
   </language>
   <language>
     <code>ko</code>
-    <name>कोरीयन्</name>
+    <name>कोरियाई</name>
   </language>
   <language>
     <code>kok</code>
@@ -998,7 +970,7 @@
   </language>
   <language>
     <code>ku</code>
-    <name>कुरदीश</name>
+    <name>कुर्दी</name>
   </language>
   <language>
     <code>kum</code>
@@ -1022,7 +994,7 @@
   </language>
   <language>
     <code>la</code>
-    <name>लैटीन</name>
+    <name>लातिनी</name>
   </language>
   <language>
     <code>lad</code>
@@ -1058,7 +1030,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>लाओथीयन्</name>
+    <name>लाओ</name>
   </language>
   <language>
     <code>lol</code>
@@ -1070,7 +1042,7 @@
   </language>
   <language>
     <code>lt</code>
-    <name>लिथुनियन्</name>
+    <name>लिथुएनियाई</name>
   </language>
   <language>
     <code>lu</code>
@@ -1150,7 +1122,7 @@
   </language>
   <language>
     <code>mga</code>
-    <name>मिडिल आइरिश</name>
+    <name>मध्यकाल आइरिश</name>
   </language>
   <language>
     <code>mh</code>
@@ -1158,7 +1130,7 @@
   </language>
   <language>
     <code>mi</code>
-    <name>मेओरी</name>
+    <name>माओरी</name>
   </language>
   <language>
     <code>mic</code>
@@ -1174,7 +1146,7 @@
   </language>
   <language>
     <code>mk</code>
-    <name>मैसेडोनियन्</name>
+    <name>मैसिडोनियाई</name>
   </language>
   <language>
     <code>mkh</code>
@@ -1222,7 +1194,7 @@
   </language>
   <language>
     <code>mt</code>
-    <name>मालटिस्</name>
+    <name>माल्टी</name>
   </language>
   <language>
     <code>mul</code>
@@ -1246,7 +1218,7 @@
   </language>
   <language>
     <code>my</code>
-    <name>बर्लिस</name>
+    <name>बर्मी</name>
   </language>
   <language>
     <code>myn</code>
@@ -1274,7 +1246,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>नॉर्वेजियन बोकमाल</name>
+    <name>नॉर्वेजियाई बोकमाल</name>
   </language>
   <language>
     <code>nd</code>
@@ -1310,7 +1282,7 @@
   </language>
   <language>
     <code>nl</code>
-    <name>डच्</name>
+    <name>डच</name>
   </language>
   <language>
     <code>nl_BE</code>
@@ -1318,11 +1290,11 @@
   </language>
   <language>
     <code>nn</code>
-    <name>नॉर्वेजियन नाइनोर्स्क</name>
+    <name>नॉर्वेजियाई नाइनोर्स्क</name>
   </language>
   <language>
     <code>no</code>
-    <name>नार्वेजियन</name>
+    <name>नॉर्वेजियाई</name>
   </language>
   <language>
     <code>nog</code>
@@ -1454,7 +1426,7 @@
   </language>
   <language>
     <code>pl</code>
-    <name>पॉलिश</name>
+    <name>पोलिश</name>
   </language>
   <language>
     <code>pon</code>
@@ -1470,19 +1442,15 @@
   </language>
   <language>
     <code>ps</code>
-    <name>पॉशतो</name>
+    <name>पश्तो</name>
   </language>
   <language>
     <code>pt</code>
     <name>पुर्तगाली</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>पुर्तगाली (ब्राज़ील)</name>
-  </language>
-  <language>
     <code>pt_PT</code>
-    <name>ईवेरियाई पुर्तगाली</name>
+    <name>पुर्तगाली (यूरोप)</name>
   </language>
   <language>
     <code>qu</code>
@@ -1502,7 +1470,7 @@
   </language>
   <language>
     <code>rm</code>
-    <name>रहेय्टो-रोमान्स</name>
+    <name>रोमान्श</name>
   </language>
   <language>
     <code>rn</code>
@@ -1618,7 +1586,7 @@
   </language>
   <language>
     <code>si</code>
-    <name>शिंघालीस्</name>
+    <name>सिंहली</name>
   </language>
   <language>
     <code>sid</code>
@@ -1634,7 +1602,7 @@
   </language>
   <language>
     <code>sk</code>
-    <name>स्लोवाक्</name>
+    <name>स्लोवाक</name>
   </language>
   <language>
     <code>sl</code>
@@ -1694,7 +1662,7 @@
   </language>
   <language>
     <code>sr</code>
-    <name>सर्बियन्</name>
+    <name>सर्बी</name>
   </language>
   <language>
     <code>srn</code>
@@ -1734,7 +1702,7 @@
   </language>
   <language>
     <code>sv</code>
-    <name>स्विडिश</name>
+    <name>स्वीडिश</name>
   </language>
   <language>
     <code>sw</code>
@@ -1762,7 +1730,7 @@
   </language>
   <language>
     <code>te</code>
-    <name>तेलेगु</name>
+    <name>तेलुगू</name>
   </language>
   <language>
     <code>tem</code>
@@ -1778,7 +1746,7 @@
   </language>
   <language>
     <code>tg</code>
-    <name>ताजिक्</name>
+    <name>ताजिक</name>
   </language>
   <language>
     <code>th</code>
@@ -1798,7 +1766,7 @@
   </language>
   <language>
     <code>tk</code>
-    <name>तुक्रमेन</name>
+    <name>तुर्कमेन</name>
   </language>
   <language>
     <code>tkl</code>
@@ -1902,7 +1870,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>अज्ञात या अवैध भाषा</name>
+    <name>अज्ञात भाषा</name>
   </language>
   <language>
     <code>ur</code>
@@ -1922,7 +1890,7 @@
   </language>
   <language>
     <code>vi</code>
-    <name>वियेतनामी</name>
+    <name>वियतनामी</name>
   </language>
   <language>
     <code>vo</code>
@@ -1958,7 +1926,7 @@
   </language>
   <language>
     <code>wo</code>
-    <name>वोलोफ</name>
+    <name>वोलोफ़</name>
   </language>
   <language>
     <code>xal</code>
@@ -1966,7 +1934,7 @@
   </language>
   <language>
     <code>xh</code>
-    <name>षोसा</name>
+    <name>ख़ोसा</name>
   </language>
   <language>
     <code>yao</code>
@@ -2011,14 +1979,6 @@
   <language>
     <code>zh</code>
     <name>चीनी</name>
-  </language>
-  <language>
-    <code>zh_Hans</code>
-    <name>चीनी (सरलीकृत)</name>
-  </language>
-  <language>
-    <code>zh_Hant</code>
-    <name>चीनी (पारम्परिक)</name>
   </language>
   <language>
     <code>znd</code>
