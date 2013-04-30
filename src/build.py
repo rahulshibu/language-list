@@ -1,52 +1,49 @@
 # -*- coding: utf-8 -*-
 """
-Builds a list of language codes and associated language names in different languages and formats.
-
+Builds a set of files in several formats, each of which contains a list of language codes and
+a corresponding list of language names.
 """
 import argparse
-import importCLDR
-import exportCSV, exportJSON, exportTXT, exportXML, exportYAML
+from Importer import *
+from Exporter import *
 
-# Set defaults
-default_source = "cldr" # Currently only 'cldr' is supported
-default_language = "*" # A two-letter code, or '*' for all languages
-default_fileformat = "*" # 'csv', 'json', 'txt', 'xml', 'yaml', or '*' for all formats
+# Set default
+default_language = "*" # A two-letter language code, or '*' for all languages
 
-source = ""
+# The list of importers to use (but only ClDR is currently implemented)
+importers = [ImportCLDR()]
+
+# The list of exporters to use
+exporters = [ExportCSV(), ExportJSON(), ExportTXT(), ExportXML(), ExportYAML()]
+
 language = ""
-fileformat = ""
 
-def configure(src, lang, fmt):
-  global source, language, fileformat
-  source = src
+def configure(lang):
+  global language
   language = lang
-  fileformat = fmt
 
 def execute():
-  # For a data import source, only CLDR is implemented
-  mappings = importCLDR.execute(language)
+  data_sets = []
 
-  # Run the exporter
-  if mappings != None:
-    if fileformat == "csv" or fileformat == "*":
-      exportCSV.execute(source, mappings)
-    if fileformat == "json" or fileformat == "*":
-      exportJSON.execute(source, mappings)
-    if fileformat == "txt" or fileformat == "*":
-      exportTXT.execute(source, mappings)
-    if fileformat == "xml" or fileformat == "*":
-      exportXML.execute(source, mappings)
-    if fileformat == "yaml" or fileformat == "*":
-      exportYAML.execute(source, mappings)
+  # Import using importers for all data sources
+  for importer in importers:
+    (mappings, source) = importer.execute(language)
+    data_sets.append((mappings, source))
+
+  # Export using exporters for all data output formats
+  for data_set in data_sets:
+    mappings = data_set[0]
+    source = data_set[1]
+    if mappings != None:
+      for exporter in exporters:
+        exporter.execute(mappings, source)
 
 def main():
   # Get command line arguments
   parser = argparse.ArgumentParser(add_help=True)
-  parser.add_argument('-i', nargs='?', help='profile filename', default=default_source, required=False)
   parser.add_argument('-l', nargs='?', help='language', default=default_language, required=False)
-  parser.add_argument('-f', nargs='?', help='file format', default=default_fileformat, required=False)
   opts = parser.parse_args()
-  configure(opts.i, opts.l, opts.f)
+  configure(opts.l)
   execute()
 
 if __name__ == "__main__":
