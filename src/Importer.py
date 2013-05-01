@@ -14,6 +14,15 @@ class ImportCLDR(Importer):
   Imports language code/name mappings from Unicode CLDR data.
   Skips alternate names for languages. Only the first language name for a language code is reported.
   """
+  # Download location for CLDR data file
+  download_location = "http://unicode.org/Public/cldr/latest/core.zip"
+
+  # Path within zip file where language files -- for example, "en.xml" -- are located
+  zipfile_path = "common/main/"
+
+  # String identifying the data source
+  source = "cldr"
+
   def execute(self, language):
     """Retrieve and import language data.
 
@@ -21,15 +30,9 @@ class ImportCLDR(Importer):
 
     Returns: list of dictionaries
     """
-    # Download location for CLDR data file
-    download_location = "http://unicode.org/Public/cldr/latest/core.zip"
-
-    # Path within zip file where language files -- for example, "en.xml" -- are located
-    zipfile_path = "common/main/"
-
-    # String identifying the data source
-    source = "cldr"
-
+    download_location = self.download_location
+    source = self.source
+    zipfile_path = self.zipfile_path
     pathname, filename = os.path.split(download_location)
     # Warning: If zip file exists in current directory, it will not be re-downloaded
     if not os.path.exists(filename):

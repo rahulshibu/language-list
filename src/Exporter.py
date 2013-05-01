@@ -11,19 +11,19 @@ class Exporter:
   def execute(self):
     raise NotImplementedError("Subclass must implement abstract method")
 
+  # Set the export directory, relative to this script's directory
+  def get_directory(self, source):
+    return "../language/%s/" % source
+
 class ExportCSV(Exporter):
   def execute(self, mappings, source):
     """Writes the given language code/name mappings to CSV files.
 
     source = string indicating source of the data, for example, 'cldr'
     mappings = list of dictionaries containing mappings"""
-
-    # Set the export directory, relative to this script's directory
-    default_directory = "../language/%s/" % source
-
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), default_directory + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/language.csv", "wb") as f:
@@ -37,13 +37,9 @@ class ExportJSON(Exporter):
 
     source = string indicating source of the data, for example, 'cldr'
     mappings = list of dictionaries containing mappings"""
-
-    # Set the export directory, relative to this script's directory
-    default_directory = "../language/%s/" % source
-
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), default_directory + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/language.json", "w") as f:
@@ -55,13 +51,9 @@ class ExportTXT(Exporter):
 
     source = string indicating source of the data, for example, 'cldr'
     mappings = list of dictionaries containing mappings"""
-
-    # Set the export directory, relative to this script's directory
-    default_directory = "../language/%s/" % source
-
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), default_directory + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/language.txt", "w") as f:
@@ -74,13 +66,9 @@ class ExportXML(Exporter):
 
     source = string indicating source of the data, for example, 'cldr'
     mappings = list of dictionaries containing mappings"""
-
-    # Set the export directory, relative to this script's directory
-    default_directory = "../language/%s/" % source
-
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), default_directory + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/language.xml", "w") as f:
@@ -106,13 +94,9 @@ class ExportYAML(Exporter):
 
     source = string indicating source of the data, for example, 'cldr'
     mappings = list of dictionaries containing mappings"""
-
-    # Set the export directory, relative to this script's directory
-    default_directory = "../language/%s/" % source
-
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), default_directory + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/language.yaml", "w") as f:
