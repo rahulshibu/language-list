@@ -17,12 +17,20 @@
     <name>ਅਫ਼ਰੀਕੀ</name>
   </language>
   <language>
+    <code>am</code>
+    <name>ਅਮਹਾਰਿਕ</name>
+  </language>
+  <language>
     <code>apa</code>
     <name>ਅਪਾਚੇ ਭਾਸ਼ਾ</name>
   </language>
   <language>
     <code>ar</code>
     <name>ਅਰਬੀ</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>ਆਧੁਨਿਕ ਸਟੈਂਡਰਡ ਅਰਬੀ</name>
   </language>
   <language>
     <code>as</code>
@@ -34,7 +42,7 @@
   </language>
   <language>
     <code>az</code>
-    <name>ਅਜ਼ੇਰਬੈਜਨਿ</name>
+    <name>ਅਜ਼ਰਬੈਜਾਨੀ</name>
   </language>
   <language>
     <code>bat</code>
@@ -42,11 +50,35 @@
   </language>
   <language>
     <code>be</code>
-    <name>ਬੇਲਾਰੂਸੀਅਨ</name>
+    <name>ਬੇਲਾਰੂਸੀ</name>
+  </language>
+  <language>
+    <code>bg</code>
+    <name>ਬੁਲਗਾਰੀਅਨ</name>
   </language>
   <language>
     <code>bn</code>
     <name>ਬੰਗਾਲੀ</name>
+  </language>
+  <language>
+    <code>bo</code>
+    <name>ਤਿੱਬਤੀ</name>
+  </language>
+  <language>
+    <code>bs</code>
+    <name>ਬੋਸਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>ca</code>
+    <name>ਕੈਟਾਲਾਨ</name>
+  </language>
+  <language>
+    <code>cs</code>
+    <name>ਚੈਕ</name>
+  </language>
+  <language>
+    <code>cy</code>
+    <name>ਵੈਲਸ਼</name>
   </language>
   <language>
     <code>da</code>
@@ -57,36 +89,164 @@
     <name>ਜਰਮਨ</name>
   </language>
   <language>
+    <code>de_AT</code>
+    <name>ਔਸਟ੍ਰੀਅਨ ਜਰਮਨ</name>
+  </language>
+  <language>
+    <code>de_CH</code>
+    <name>ਸਵਿਸ</name>
+  </language>
+  <language>
+    <code>el</code>
+    <name>ਗ੍ਰੀਕ</name>
+  </language>
+  <language>
     <code>en</code>
     <name>ਅੰਗਰੇਜ਼ੀ</name>
   </language>
   <language>
+    <code>en_AU</code>
+    <name>ਆਸਟ੍ਰੇਲੀਆਈ ਅੰਗਰੇਜ਼ੀ</name>
+  </language>
+  <language>
+    <code>en_CA</code>
+    <name>ਕਨੈਡੀਅਨ ਅੰਗਰੇਜ਼ੀ</name>
+  </language>
+  <language>
+    <code>en_GB</code>
+    <name>ਬ੍ਰਿਟਿਸ਼ ਅੰਗਰੇਜ਼ੀ</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>ਅਮਰੀਕੀ ਅੰਗਰੇਜ਼ੀ</name>
+  </language>
+  <language>
     <code>eo</code>
-    <name>ਏਸਪਰੇਂਟੋ</name>
+    <name>ਇਸਪੇਰਾਂਟੋ</name>
   </language>
   <language>
     <code>es</code>
-    <name>ਸਪੇਨਿਸ਼</name>
+    <name>ਸਪੈਨਿਸ਼</name>
+  </language>
+  <language>
+    <code>es_419</code>
+    <name>ਲੈਟਿਨ ਅਮਰੀਕੀ ਸਪੈਨਿਸ਼</name>
+  </language>
+  <language>
+    <code>es_ES</code>
+    <name>ਯੂਰੋਪੀਅਨ ਸਪੈਨਿਸ਼</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>ਮੈਕਸੀਕਨ ਸਪੈਨਿਸ਼</name>
+  </language>
+  <language>
+    <code>et</code>
+    <name>ਇਸਟੋਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>eu</code>
+    <name>ਬਾਸਕੀ</name>
+  </language>
+  <language>
+    <code>fa</code>
+    <name>ਫ਼ਾਰਸੀ</name>
   </language>
   <language>
     <code>fi</code>
     <name>ਫਿਨਿਸ਼</name>
   </language>
   <language>
+    <code>fil</code>
+    <name>ਫਿਲੀਪਿਨੋ</name>
+  </language>
+  <language>
+    <code>fj</code>
+    <name>ਫਿਜੀਅਨ</name>
+  </language>
+  <language>
+    <code>fo</code>
+    <name>ਫ਼ੇਰੋਸੇ</name>
+  </language>
+  <language>
     <code>fr</code>
-    <name>ਫਰੈਂਚ</name>
+    <name>ਫ੍ਰੈਂਚ</name>
+  </language>
+  <language>
+    <code>fr_CA</code>
+    <name>ਕਨੈਡੀਅਨ ਫ੍ਰੈਂਚ</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>ਸਵਿਸ ਫ੍ਰੈਂਚ</name>
+  </language>
+  <language>
+    <code>fy</code>
+    <name>ਪਛਮੀ ਫ੍ਰਿਸ਼ੀਅਨ</name>
+  </language>
+  <language>
+    <code>ga</code>
+    <name>ਆਇਰਿਸ਼</name>
+  </language>
+  <language>
+    <code>gl</code>
+    <name>ਗੈਲਿਸ਼ਿਅਨ</name>
+  </language>
+  <language>
+    <code>gn</code>
+    <name>ਗੁਆਰਾਨੀ</name>
+  </language>
+  <language>
+    <code>gsw</code>
+    <name>ਸਵਿਸ ਜਰਮਨ</name>
   </language>
   <language>
     <code>gu</code>
     <name>ਗੁਜਰਾਤੀ</name>
   </language>
   <language>
+    <code>ha</code>
+    <name>ਹੌਸਾ</name>
+  </language>
+  <language>
+    <code>haw</code>
+    <name>ਹਵਾਈਅਨ</name>
+  </language>
+  <language>
+    <code>he</code>
+    <name>ਯਹੂਦੀ</name>
+  </language>
+  <language>
     <code>hi</code>
     <name>ਹਿੰਦੀ</name>
   </language>
   <language>
+    <code>hr</code>
+    <name>ਕ੍ਰੋਏਸ਼ਿਆਈ</name>
+  </language>
+  <language>
+    <code>ht</code>
+    <name>ਹਾਈਟਿਅਨ</name>
+  </language>
+  <language>
+    <code>hu</code>
+    <name>ਹੰਗੇਰੀਅਨ</name>
+  </language>
+  <language>
+    <code>hy</code>
+    <name>ਆਰਮੀਨੀਅਨ</name>
+  </language>
+  <language>
     <code>id</code>
     <name>ਇੰਡੋਨੇਸ਼ੀਆਈ</name>
+  </language>
+  <language>
+    <code>ig</code>
+    <name>ਇਗਬੋ</name>
+  </language>
+  <language>
+    <code>is</code>
+    <name>ਆਈਸਲੈਂਡਿਕ</name>
   </language>
   <language>
     <code>it</code>
@@ -97,40 +257,240 @@
     <name>ਜਾਪਾਨੀ</name>
   </language>
   <language>
+    <code>jv</code>
+    <name>ਜਾਵਾਨੀਜ਼</name>
+  </language>
+  <language>
+    <code>ka</code>
+    <name>ਜਾਰਜੀਅਨ</name>
+  </language>
+  <language>
+    <code>kk</code>
+    <name>ਕਜ਼ਾਖ਼</name>
+  </language>
+  <language>
+    <code>km</code>
+    <name>ਖਮੇਰ</name>
+  </language>
+  <language>
+    <code>kn</code>
+    <name>ਕੰਨੜ</name>
+  </language>
+  <language>
+    <code>ko</code>
+    <name>ਕੋਰੀਆਈ</name>
+  </language>
+  <language>
+    <code>ks</code>
+    <name>ਕਸ਼ਮੀਰੀ</name>
+  </language>
+  <language>
+    <code>ku</code>
+    <name>ਕੁਰਦਿਸ਼</name>
+  </language>
+  <language>
+    <code>ky</code>
+    <name>ਕਿਰਗੀਜ਼</name>
+  </language>
+  <language>
+    <code>la</code>
+    <name>ਲੈਟਿਨ</name>
+  </language>
+  <language>
+    <code>lb</code>
+    <name>ਲਕਜ਼ਮਬਰਗਿਸ਼</name>
+  </language>
+  <language>
+    <code>lo</code>
+    <name>ਲਾਓ</name>
+  </language>
+  <language>
+    <code>lt</code>
+    <name>ਲਿਥੁਆਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>lv</code>
+    <name>ਲਾਟਵਿਅਨ</name>
+  </language>
+  <language>
+    <code>mg</code>
+    <name>ਮਾਲਾਗੈਸੀ</name>
+  </language>
+  <language>
+    <code>mi</code>
+    <name>ਮਾਉਰੀ</name>
+  </language>
+  <language>
     <code>mk</code>
-    <name>ਮੈਕੇਡੋਨੀਅਨ</name>
+    <name>ਮੈਕਡੋਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>ml</code>
+    <name>ਮਲਿਆਲਮ</name>
+  </language>
+  <language>
+    <code>mr</code>
+    <name>ਮਰਾਠੀ</name>
+  </language>
+  <language>
+    <code>ms</code>
+    <name>ਮਲਯ</name>
+  </language>
+  <language>
+    <code>mt</code>
+    <name>ਮਾਲਟੀਜ਼</name>
+  </language>
+  <language>
+    <code>my</code>
+    <name>ਬਰਮੀ</name>
+  </language>
+  <language>
+    <code>nb</code>
+    <name>ਨੌਰਵੇਜਿਅਨ ਬੋਕਮਲ</name>
+  </language>
+  <language>
+    <code>ne</code>
+    <name>ਨੇਪਾਲੀ</name>
   </language>
   <language>
     <code>nl</code>
     <name>ਡੱਚ</name>
   </language>
   <language>
+    <code>nl_BE</code>
+    <name>ਫਲੈਮਿਸ਼</name>
+  </language>
+  <language>
+    <code>nn</code>
+    <name>ਨੌਰਵੇਜਿਅਨ ਨਿਨੋਰਸ੍ਕ</name>
+  </language>
+  <language>
     <code>no</code>
     <name>ਨਾਰਵੇਜੀਅਨ</name>
+  </language>
+  <language>
+    <code>or</code>
+    <name>ਉੜੀਆ</name>
   </language>
   <language>
     <code>pa</code>
     <name>ਪੰਜਾਬੀ</name>
   </language>
   <language>
+    <code>pl</code>
+    <name>ਪੋਲਿਸ਼</name>
+  </language>
+  <language>
+    <code>ps</code>
+    <name>ਪਸ਼ਤੋ</name>
+  </language>
+  <language>
     <code>pt</code>
-    <name>ਪੋਰਤੂਗੂਈਸ</name>
+    <name>ਪੁਰਤਗਾਲੀ</name>
+  </language>
+  <language>
+    <code>pt_BR</code>
+    <name>ਬ੍ਰਾਜ਼ਿਲੀਅਨ ਪੁਰਤਗਾਲੀ</name>
+  </language>
+  <language>
+    <code>pt_PT</code>
+    <name>ਯੂਰੋਪੀਅਨ ਪੁਰਤਗਾਲੀ</name>
+  </language>
+  <language>
+    <code>qu</code>
+    <name>ਕਿਊਚੁਆ</name>
+  </language>
+  <language>
+    <code>rm</code>
+    <name>ਰੋਮਾਂਸ਼</name>
+  </language>
+  <language>
+    <code>ro</code>
+    <name>ਰੋਮਾਨੀਆਈ</name>
+  </language>
+  <language>
+    <code>ru</code>
+    <name>ਰੂਸੀ</name>
+  </language>
+  <language>
+    <code>sa</code>
+    <name>ਸੰਸਕ੍ਰਿਤ</name>
+  </language>
+  <language>
+    <code>sd</code>
+    <name>ਸਿੰਧੀ</name>
+  </language>
+  <language>
+    <code>si</code>
+    <name>ਸਿੰਹਾਲਾ</name>
+  </language>
+  <language>
+    <code>sk</code>
+    <name>ਸਲੋਵਾਕ</name>
+  </language>
+  <language>
+    <code>sl</code>
+    <name>ਸਲੋਵੇਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>so</code>
+    <name>ਸੋਮਾਲੀ</name>
+  </language>
+  <language>
+    <code>sq</code>
+    <name>ਅਲਬਾਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>sr</code>
+    <name>ਸਰਬਿਆਈ</name>
+  </language>
+  <language>
+    <code>su</code>
+    <name>ਸੂਡਾਨੀ</name>
   </language>
   <language>
     <code>sv</code>
-    <name>ਸਵੈਡਿਸ਼</name>
+    <name>ਸਵੀਡਿਸ਼</name>
+  </language>
+  <language>
+    <code>sw</code>
+    <name>ਸਵਾਹਿਲੀ</name>
   </language>
   <language>
     <code>ta</code>
-    <name>ਤਾਮਿਲ</name>
+    <name>ਤਮਿਲ</name>
   </language>
   <language>
     <code>te</code>
     <name>ਤੇਲਗੂ</name>
   </language>
   <language>
+    <code>tg</code>
+    <name>ਤਾਜਿਕ</name>
+  </language>
+  <language>
     <code>th</code>
     <name>ਥਾਈ</name>
+  </language>
+  <language>
+    <code>ti</code>
+    <name>ਟਿਗਰੀਨਿਆ</name>
+  </language>
+  <language>
+    <code>tk</code>
+    <name>ਤੁਰਕਮੇਨ</name>
+  </language>
+  <language>
+    <code>to</code>
+    <name>ਟੌਂਗਨ</name>
+  </language>
+  <language>
+    <code>tr</code>
+    <name>ਤੁਰਕਿਸ਼</name>
+  </language>
+  <language>
+    <code>tt</code>
+    <name>ਤਤਾਰ</name>
   </language>
   <language>
     <code>tw</code>
@@ -138,6 +498,62 @@
   </language>
   <language>
     <code>ug</code>
-    <name>ਉਇਘੁਰ</name>
+    <name>ਉਇਗੁਰ</name>
+  </language>
+  <language>
+    <code>uk</code>
+    <name>ਯੂਕਰੇਨੀਅਨ</name>
+  </language>
+  <language>
+    <code>und</code>
+    <name>ਅਗਿਆਤ ਭਾਸ਼ਾ</name>
+  </language>
+  <language>
+    <code>ur</code>
+    <name>ਉਰਦੂ</name>
+  </language>
+  <language>
+    <code>uz</code>
+    <name>ਉਜ਼ਬੇਕ</name>
+  </language>
+  <language>
+    <code>vi</code>
+    <name>ਵਿਯਤਨਾਮੀ</name>
+  </language>
+  <language>
+    <code>wo</code>
+    <name>ਵੋਲੋਫ</name>
+  </language>
+  <language>
+    <code>xh</code>
+    <name>ਖੋਸਾ</name>
+  </language>
+  <language>
+    <code>yo</code>
+    <name>ਯੋਰੂਬਾ</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>ਸਟੈਂਡਰਡ ਮੋਰੋਕੈਨ ਟੈਮਾਜ਼ਾਈਟ</name>
+  </language>
+  <language>
+    <code>zh</code>
+    <name>ਚੀਨੀ</name>
+  </language>
+  <language>
+    <code>zh_Hans</code>
+    <name>ਸਰਲ ਕੀਤੀ ਚੀਨੀ</name>
+  </language>
+  <language>
+    <code>zh_Hant</code>
+    <name>ਰਵਾਇਤੀ ਚੀਨੀ</name>
+  </language>
+  <language>
+    <code>zu</code>
+    <name>ਜ਼ੁਲੂ</name>
+  </language>
+  <language>
+    <code>zxx</code>
+    <name>ਕੋਈ ਭਾਸ਼ਾ-ਵਿਗਿਆਨਿਕ ਸਮੱਗਰੀ ਨਹੀਂ</name>
   </language>
 </languages>

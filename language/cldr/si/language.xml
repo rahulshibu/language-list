@@ -17,12 +17,16 @@
     <name>අරාබි</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>නවීන සම්මත අරාබි</name>
+  </language>
+  <language>
     <code>as</code>
     <name>ඇසෑම්</name>
   </language>
   <language>
     <code>az</code>
-    <name>අසර්බයිජාත්</name>
+    <name>අසර්බයිජාන්</name>
   </language>
   <language>
     <code>be</code>
@@ -54,7 +58,7 @@
   </language>
   <language>
     <code>cy</code>
-    <name>වෙල්ස්</name>
+    <name>වේල්ස්</name>
   </language>
   <language>
     <code>da</code>
@@ -94,7 +98,7 @@
   </language>
   <language>
     <code>en_GB</code>
-    <name>බ්‍රිතාන්‍ය ඉංග්‍රීසින්‍ය</name>
+    <name>බ්‍රිතාන්‍ය ඉංග්‍රීසි</name>
   </language>
   <language>
     <code>en_US</code>
@@ -117,6 +121,10 @@
     <name>යුරෝපීය ස්පාඤ්ඤ</name>
   </language>
   <language>
+    <code>es_MX</code>
+    <name>මෙක්සිකානු ස්පාඤ්ඤ</name>
+  </language>
+  <language>
     <code>et</code>
     <name>එස්තෝනියානු</name>
   </language>
@@ -130,7 +138,7 @@
   </language>
   <language>
     <code>fi</code>
-    <name>ෆිනිශ්</name>
+    <name>ෆින්ලන්ත</name>
   </language>
   <language>
     <code>fil</code>
@@ -142,7 +150,7 @@
   </language>
   <language>
     <code>fo</code>
-    <name>ෆේරෝස්</name>
+    <name>ෆාරෝස්</name>
   </language>
   <language>
     <code>fr</code>
@@ -162,7 +170,7 @@
   </language>
   <language>
     <code>ga</code>
-    <name>අයිරිෂ්</name>
+    <name>අයර්ලන්ත</name>
   </language>
   <language>
     <code>gl</code>
@@ -234,7 +242,7 @@
   </language>
   <language>
     <code>jv</code>
-    <name>ජවාන්ස්</name>
+    <name>ජාවා</name>
   </language>
   <language>
     <code>ka</code>
@@ -242,7 +250,7 @@
   </language>
   <language>
     <code>kk</code>
-    <name>කශාහ්</name>
+    <name>කසක්</name>
   </language>
   <language>
     <code>km</code>
@@ -262,7 +270,7 @@
   </language>
   <language>
     <code>ku</code>
-    <name>කුර්දිශ්</name>
+    <name>කුර්දි</name>
   </language>
   <language>
     <code>ky</code>
@@ -278,7 +286,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>ලාවෝ</name>
+    <name>ලාඕ</name>
   </language>
   <language>
     <code>lt</code>
@@ -306,7 +314,7 @@
   </language>
   <language>
     <code>mr</code>
-    <name>මරාටි</name>
+    <name>මරාති</name>
   </language>
   <language>
     <code>ms</code>
@@ -318,7 +326,7 @@
   </language>
   <language>
     <code>my</code>
-    <name>බර්මිස්</name>
+    <name>බුරුම</name>
   </language>
   <language>
     <code>nb</code>
@@ -346,7 +354,7 @@
   </language>
   <language>
     <code>pa</code>
-    <name>ජන්ජාබ්</name>
+    <name>ජන්ජාබි</name>
   </language>
   <language>
     <code>pl</code>
@@ -370,7 +378,7 @@
   </language>
   <language>
     <code>qu</code>
-    <name>ක්වීකුවා</name>
+    <name>ක්වීචුවා</name>
   </language>
   <language>
     <code>rm</code>
@@ -378,7 +386,7 @@
   </language>
   <language>
     <code>ro</code>
-    <name>රෝමානු</name>
+    <name>රොමේනියානු</name>
   </language>
   <language>
     <code>ru</code>
@@ -418,15 +426,15 @@
   </language>
   <language>
     <code>su</code>
-    <name>සන්ඩන්ස්</name>
+    <name>සන්ඩනීසියානු</name>
   </language>
   <language>
     <code>sv</code>
-    <name>ස්වෙඩිශ්</name>
+    <name>ස්වීඩන්</name>
   </language>
   <language>
     <code>sw</code>
-    <name>ටර්ක්මෙන්</name>
+    <name>ස්වාහිලි</name>
   </language>
   <language>
     <code>ta</code>
@@ -434,7 +442,7 @@
   </language>
   <language>
     <code>te</code>
-    <name>තෙලිඟු</name>
+    <name>තෙළිඟු</name>
   </language>
   <language>
     <code>tg</code>
@@ -450,7 +458,7 @@
   </language>
   <language>
     <code>tk</code>
-    <name>ටර්මෙන්</name>
+    <name>ටර්ක්මෙන්</name>
   </language>
   <language>
     <code>to</code>
@@ -474,7 +482,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>නොදත් භාෂා</name>
+    <name>නොදන්නා භාෂාව</name>
   </language>
   <language>
     <code>ur</code>
@@ -501,12 +509,16 @@
     <name>යොරූබා</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>සම්මත මොරොක්කෝ ටමසිග්ත්</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>චීන</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>සරල චීන</name>
+    <name>සුළුකළ චීන</name>
   </language>
   <language>
     <code>zh_Hant</code>

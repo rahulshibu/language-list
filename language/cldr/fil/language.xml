@@ -25,6 +25,10 @@
     <name>Arabic</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>Modern Standard Arabic</name>
+  </language>
+  <language>
     <code>as</code>
     <name>Assamese</name>
   </language>
@@ -126,7 +130,7 @@
   </language>
   <language>
     <code>el</code>
-    <name>Griyego</name>
+    <name>Greek</name>
   </language>
   <language>
     <code>en</code>
@@ -146,7 +150,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>Ingles sa U.S.</name>
+    <name>Ingles (US)</name>
   </language>
   <language>
     <code>eo</code>
@@ -154,15 +158,19 @@
   </language>
   <language>
     <code>es</code>
-    <name>Espanyol</name>
+    <name>Spanish</name>
   </language>
   <language>
     <code>es_419</code>
-    <name>Espanyol sa Latin America</name>
+    <name>Latin American Spanish</name>
   </language>
   <language>
     <code>es_ES</code>
     <name>European Spanish</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>Mexican Spanish</name>
   </language>
   <language>
     <code>et</code>
@@ -190,11 +198,11 @@
   </language>
   <language>
     <code>fo</code>
-    <name>Faroeso</name>
+    <name>Faroese</name>
   </language>
   <language>
     <code>fr</code>
-    <name>Pranses</name>
+    <name>French</name>
   </language>
   <language>
     <code>fr_CA</code>
@@ -246,7 +254,7 @@
   </language>
   <language>
     <code>he</code>
-    <name>Hebreo</name>
+    <name>Hebrew</name>
   </language>
   <language>
     <code>hi</code>
@@ -290,7 +298,7 @@
   </language>
   <language>
     <code>it</code>
-    <name>Italyano</name>
+    <name>Italian</name>
   </language>
   <language>
     <code>ja</code>
@@ -482,11 +490,11 @@
   </language>
   <language>
     <code>pt</code>
-    <name>Portuges</name>
+    <name>Portuguese</name>
   </language>
   <language>
     <code>pt_BR</code>
-    <name>Portuges sa Brazil</name>
+    <name>Brazilian Portuguese</name>
   </language>
   <language>
     <code>pt_PT</code>
@@ -498,7 +506,7 @@
   </language>
   <language>
     <code>rm</code>
-    <name>Rhaeto-Romance</name>
+    <name>Romansh</name>
   </language>
   <language>
     <code>rn</code>
@@ -666,7 +674,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>Uighur</name>
+    <name>Uyghur</name>
   </language>
   <language>
     <code>uk</code>
@@ -713,16 +721,20 @@
     <name>Cantonese</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>Standard Moroccan Tamazight</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>Chinese</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>Chinese (pinasimple)</name>
+    <name>Simplified Chinese</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>Chinese (tradisyunal)</name>
+    <name>Traditional Chinese</name>
   </language>
   <language>
     <code>zu</code>

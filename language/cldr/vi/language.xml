@@ -93,6 +93,10 @@
     <name>Tiếng Ả Rập</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>Tiếng Ả Rập Hiện đại</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>Tiếng Aramaic</name>
   </language>
@@ -146,7 +150,7 @@
   </language>
   <language>
     <code>az</code>
-    <name>Tiếng Ai-déc-bai-gian</name>
+    <name>Tiếng Azerbaijan</name>
   </language>
   <language>
     <code>ba</code>
@@ -186,7 +190,7 @@
   </language>
   <language>
     <code>be</code>
-    <name>Tiếng Bê-la-rút</name>
+    <name>Tiếng Belarus</name>
   </language>
   <language>
     <code>bej</code>
@@ -210,7 +214,7 @@
   </language>
   <language>
     <code>bg</code>
-    <name>Tiếng Bun-ga-ri</name>
+    <name>Tiếng Bulgaria</name>
   </language>
   <language>
     <code>bh</code>
@@ -302,7 +306,7 @@
   </language>
   <language>
     <code>ca</code>
-    <name>Tiếng Ca-ta-lăng</name>
+    <name>Tiếng Catalan</name>
   </language>
   <language>
     <code>cad</code>
@@ -446,7 +450,7 @@
   </language>
   <language>
     <code>cy</code>
-    <name>Tiếng Xentơ</name>
+    <name>Tiếng Wales</name>
   </language>
   <language>
     <code>da</code>
@@ -474,7 +478,7 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>Tiếng Đức Chuẩn (Thụy Sĩ)</name>
+    <name>Tiếng Thượng Giéc-man (Thụy Sĩ)</name>
   </language>
   <language>
     <code>del</code>
@@ -569,10 +573,6 @@
     <name>Tiếng Anh</name>
   </language>
   <language>
-    <code>en_CA</code>
-    <name>Tiếng Anh (Canada)</name>
-  </language>
-  <language>
     <code>en_GB</code>
     <name>Tiếng Anh (Anh)</name>
   </language>
@@ -602,7 +602,7 @@
   </language>
   <language>
     <code>et</code>
-    <name>Tiếng E-xtô-ni-a</name>
+    <name>Tiếng Estonia</name>
   </language>
   <language>
     <code>eu</code>
@@ -657,10 +657,6 @@
     <name>Tiếng Pháp</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>Tiếng Pháp (Canada)</name>
-  </language>
-  <language>
     <code>frm</code>
     <name>Tiếng Pháp Trung cổ</name>
   </language>
@@ -682,7 +678,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>Tiếng Frisian</name>
+    <name>Tiếng Frisia</name>
   </language>
   <language>
     <code>ga</code>
@@ -690,7 +686,7 @@
   </language>
   <language>
     <code>gaa</code>
-    <name>Ga</name>
+    <name>Tiếng Ga</name>
   </language>
   <language>
     <code>gay</code>
@@ -754,7 +750,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>Tiếng Đức Thụy Sĩ</name>
+    <name>Tiếng Đức (Thụy Sĩ)</name>
   </language>
   <language>
     <code>gu</code>
@@ -786,11 +782,11 @@
   </language>
   <language>
     <code>he</code>
-    <name>Tiếng Hê-brơ</name>
+    <name>Tiếng Do Thái</name>
   </language>
   <language>
     <code>hi</code>
-    <name>Tiếng Hin-đi</name>
+    <name>Tiếng Hindi</name>
   </language>
   <language>
     <code>hil</code>
@@ -814,7 +810,7 @@
   </language>
   <language>
     <code>hr</code>
-    <name>Tiếng Crô-a-ti-a</name>
+    <name>Tiếng Croatia</name>
   </language>
   <language>
     <code>hsb</code>
@@ -826,7 +822,7 @@
   </language>
   <language>
     <code>hu</code>
-    <name>Tiếng Hung-ga-ri</name>
+    <name>Tiếng Hungary</name>
   </language>
   <language>
     <code>hup</code>
@@ -834,7 +830,7 @@
   </language>
   <language>
     <code>hy</code>
-    <name>Tiếng Ác-mê-ni</name>
+    <name>Tiếng Armenia</name>
   </language>
   <language>
     <code>hz</code>
@@ -854,7 +850,7 @@
   </language>
   <language>
     <code>id</code>
-    <name>Tiếng In-đô-nê-xia</name>
+    <name>Tiếng Indonesia</name>
   </language>
   <language>
     <code>ie</code>
@@ -906,7 +902,7 @@
   </language>
   <language>
     <code>is</code>
-    <name>Tiếng Ai-xơ-len</name>
+    <name>Tiếng Iceland</name>
   </language>
   <language>
     <code>it</code>
@@ -938,11 +934,11 @@
   </language>
   <language>
     <code>jv</code>
-    <name>Tiếng Gia-va</name>
+    <name>Tiếng Java</name>
   </language>
   <language>
     <code>ka</code>
-    <name>Tiếng Georgian</name>
+    <name>Tiếng Gruzia</name>
   </language>
   <language>
     <code>kaa</code>
@@ -1050,7 +1046,7 @@
   </language>
   <language>
     <code>kn</code>
-    <name>Tiếng Kan-na-đa</name>
+    <name>Tiếng Kannada</name>
   </language>
   <language>
     <code>ko</code>
@@ -1214,7 +1210,7 @@
   </language>
   <language>
     <code>lv</code>
-    <name>Tiếng Lát-vi-a</name>
+    <name>Tiếng Latvia</name>
   </language>
   <language>
     <code>mad</code>
@@ -1306,7 +1302,7 @@
   </language>
   <language>
     <code>mk</code>
-    <name>Tiếng Ma-xê-đô-ni-a</name>
+    <name>Tiếng Macedonia</name>
   </language>
   <language>
     <code>mkh</code>
@@ -1350,11 +1346,11 @@
   </language>
   <language>
     <code>ms</code>
-    <name>Tiếng Ma-lay-xi-a</name>
+    <name>Tiếng Malaysia</name>
   </language>
   <language>
     <code>mt</code>
-    <name>Tiếng Mantơ</name>
+    <name>Tiếng Malt</name>
   </language>
   <language>
     <code>mua</code>
@@ -1430,7 +1426,7 @@
   </language>
   <language>
     <code>ne</code>
-    <name>Tiếng Nê-pan</name>
+    <name>Tiếng Nepal</name>
   </language>
   <language>
     <code>new</code>
@@ -1566,7 +1562,7 @@
   </language>
   <language>
     <code>pa</code>
-    <name>Tiếng Punjabi</name>
+    <name>Tiếng Punjab</name>
   </language>
   <language>
     <code>paa</code>
@@ -1626,7 +1622,7 @@
   </language>
   <language>
     <code>ps</code>
-    <name>Tiếng Pa-tô</name>
+    <name>Tiếng Pashto</name>
   </language>
   <language>
     <code>pt</code>
@@ -1666,7 +1662,7 @@
   </language>
   <language>
     <code>ro</code>
-    <name>Tiếng Ru-ma-ni</name>
+    <name>Tiếng Romania</name>
   </language>
   <language>
     <code>roa</code>
@@ -1758,7 +1754,7 @@
   </language>
   <language>
     <code>sd</code>
-    <name>Tiếng Sin-hi</name>
+    <name>Tiếng Sindhi</name>
   </language>
   <language>
     <code>se</code>
@@ -1830,11 +1826,11 @@
   </language>
   <language>
     <code>sk</code>
-    <name>Tiếng Xlô-vác</name>
+    <name>Tiếng Slovak</name>
   </language>
   <language>
     <code>sl</code>
-    <name>Tiếng Xlô-ven</name>
+    <name>Tiếng Slovenia</name>
   </language>
   <language>
     <code>sla</code>
@@ -1874,7 +1870,7 @@
   </language>
   <language>
     <code>so</code>
-    <name>Tiếng Xô-ma-li</name>
+    <name>Tiếng Somali</name>
   </language>
   <language>
     <code>sog</code>
@@ -1890,7 +1886,7 @@
   </language>
   <language>
     <code>sr</code>
-    <name>Tiếng Séc-bi</name>
+    <name>Tiếng Serbia</name>
   </language>
   <language>
     <code>srn</code>
@@ -1918,7 +1914,7 @@
   </language>
   <language>
     <code>su</code>
-    <name>Tiếng Xu đăng</name>
+    <name>Tiếng Sudan</name>
   </language>
   <language>
     <code>suk</code>
@@ -2006,7 +2002,7 @@
   </language>
   <language>
     <code>tk</code>
-    <name>Tiếng Tuôc-men</name>
+    <name>Tiếng Turk</name>
   </language>
   <language>
     <code>tkl</code>
@@ -2106,7 +2102,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>Tiếng Uighur</name>
+    <name>Tiếng Duy Ngô Nhĩ</name>
   </language>
   <language>
     <code>uga</code>
@@ -2114,7 +2110,7 @@
   </language>
   <language>
     <code>uk</code>
-    <name>Tiếng U-crai-na</name>
+    <name>Tiếng Ucraina</name>
   </language>
   <language>
     <code>umb</code>
@@ -2122,7 +2118,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>Tiếng không xác định</name>
+    <name>Ngôn ngữ không xác định</name>
   </language>
   <language>
     <code>ur</code>
@@ -2130,7 +2126,7 @@
   </language>
   <language>
     <code>uz</code>
-    <name>Tiếng U-dơ-bếch</name>
+    <name>Tiếng Uzbek</name>
   </language>
   <language>
     <code>vai</code>
@@ -2247,6 +2243,10 @@
   <language>
     <code>zen</code>
     <name>Tiếng Zenaga</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>Tiếng Tamazight Chuẩn của Ma-rốc</name>
   </language>
   <language>
     <code>zh</code>

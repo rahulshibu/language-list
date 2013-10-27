@@ -6,7 +6,7 @@
   </language>
   <language>
     <code>ach</code>
-    <name>Acoli</name>
+    <name>acoli</name>
   </language>
   <language>
     <code>af</code>
@@ -18,7 +18,7 @@
   </language>
   <language>
     <code>ak</code>
-    <name>Akán</name>
+    <name>akán</name>
   </language>
   <language>
     <code>alg</code>
@@ -39,6 +39,10 @@
   <language>
     <code>ar</code>
     <name>árabe</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>árabe estándar moderno</name>
   </language>
   <language>
     <code>arc</code>
@@ -78,7 +82,7 @@
   </language>
   <language>
     <code>bem</code>
-    <name>Bemba</name>
+    <name>bemba</name>
   </language>
   <language>
     <code>bg</code>
@@ -86,7 +90,7 @@
   </language>
   <language>
     <code>bh</code>
-    <name>Bihariano</name>
+    <name>bihari</name>
   </language>
   <language>
     <code>bn</code>
@@ -98,7 +102,7 @@
   </language>
   <language>
     <code>br</code>
-    <name>Bretón</name>
+    <name>bretón</name>
   </language>
   <language>
     <code>bs</code>
@@ -122,15 +126,15 @@
   </language>
   <language>
     <code>chr</code>
-    <name>Cheroqui</name>
+    <name>cheroqui</name>
   </language>
   <language>
     <code>ckb</code>
-    <name>Kurdo soraní</name>
+    <name>curdo soraní</name>
   </language>
   <language>
     <code>co</code>
-    <name>Corso</name>
+    <name>corso</name>
   </language>
   <language>
     <code>cs</code>
@@ -170,7 +174,7 @@
   </language>
   <language>
     <code>ee</code>
-    <name>Ewé</name>
+    <name>ewé</name>
   </language>
   <language>
     <code>efi</code>
@@ -202,7 +206,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>inglés americano</name>
+    <name>inglés dos Estados Unidos</name>
   </language>
   <language>
     <code>eo</code>
@@ -219,6 +223,10 @@
   <language>
     <code>es_ES</code>
     <name>castelán</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>español de México</name>
   </language>
   <language>
     <code>et</code>
@@ -274,7 +282,7 @@
   </language>
   <language>
     <code>gaa</code>
-    <name>Ga</name>
+    <name>ga</name>
   </language>
   <language>
     <code>gd</code>
@@ -338,7 +346,7 @@
   </language>
   <language>
     <code>ia</code>
-    <name>Interlingua</name>
+    <name>interlingua</name>
   </language>
   <language>
     <code>id</code>
@@ -378,7 +386,7 @@
   </language>
   <language>
     <code>kg</code>
-    <name>Congolés</name>
+    <name>kongo</name>
   </language>
   <language>
     <code>kk</code>
@@ -406,7 +414,7 @@
   </language>
   <language>
     <code>ky</code>
-    <name>kyrgiz</name>
+    <name>quirguiz</name>
   </language>
   <language>
     <code>la</code>
@@ -418,7 +426,7 @@
   </language>
   <language>
     <code>lg</code>
-    <name>Ganda</name>
+    <name>ganda</name>
   </language>
   <language>
     <code>ln</code>
@@ -430,7 +438,7 @@
   </language>
   <language>
     <code>loz</code>
-    <name>Lozi</name>
+    <name>lozi</name>
   </language>
   <language>
     <code>lt</code>
@@ -438,7 +446,7 @@
   </language>
   <language>
     <code>lua</code>
-    <name>Luba-Lulua</name>
+    <name>luba-lulua</name>
   </language>
   <language>
     <code>lv</code>
@@ -446,7 +454,7 @@
   </language>
   <language>
     <code>mfe</code>
-    <name>Crioulo mauritano</name>
+    <name>crioulo mauritano</name>
   </language>
   <language>
     <code>mg</code>
@@ -526,7 +534,7 @@
   </language>
   <language>
     <code>nso</code>
-    <name>Sesotho sa leboa</name>
+    <name>sesotho sa leboa</name>
   </language>
   <language>
     <code>nub</code>
@@ -538,15 +546,15 @@
   </language>
   <language>
     <code>nyn</code>
-    <name>Nyankole</name>
+    <name>nyankole</name>
   </language>
   <language>
     <code>oc</code>
-    <name>Occitano</name>
+    <name>occitano</name>
   </language>
   <language>
     <code>om</code>
-    <name>Oromo</name>
+    <name>oromo</name>
   </language>
   <language>
     <code>or</code>
@@ -582,7 +590,7 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>Portugués europeo</name>
+    <name>portugués europeo</name>
   </language>
   <language>
     <code>qu</code>
@@ -738,7 +746,7 @@
   </language>
   <language>
     <code>tlh</code>
-    <name>Clingon</name>
+    <name>klingon</name>
   </language>
   <language>
     <code>tn</code>
@@ -766,7 +774,7 @@
   </language>
   <language>
     <code>tum</code>
-    <name>Tumbuka</name>
+    <name>tumbuka</name>
   </language>
   <language>
     <code>tut</code>
@@ -818,11 +826,15 @@
   </language>
   <language>
     <code>yi</code>
-    <name>Yiddish</name>
+    <name>yiddish</name>
   </language>
   <language>
     <code>yo</code>
     <name>ioruba</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>tamazight de Marrocos estándar</name>
   </language>
   <language>
     <code>zh</code>

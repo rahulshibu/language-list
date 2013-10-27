@@ -93,6 +93,10 @@
     <name>arabisk</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>moderne standardarabisk</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>aramæisk</name>
   </language>
@@ -246,7 +250,7 @@
   </language>
   <language>
     <code>bn</code>
-    <name>bengalsk</name>
+    <name>bengali</name>
   </language>
   <language>
     <code>bnt</code>
@@ -609,6 +613,10 @@
     <name>europæisk spansk</name>
   </language>
   <language>
+    <code>es_MX</code>
+    <name>mexicansk spansk</name>
+  </language>
+  <language>
     <code>et</code>
     <name>estisk</name>
   </language>
@@ -937,6 +945,10 @@
     <name>lojban</name>
   </language>
   <language>
+    <code>jgo</code>
+    <name>ngomba</name>
+  </language>
+  <language>
     <code>jmc</code>
     <name>machame</name>
   </language>
@@ -1062,7 +1074,7 @@
   </language>
   <language>
     <code>kn</code>
-    <name>kannaresisk</name>
+    <name>kannada</name>
   </language>
   <language>
     <code>ko</code>
@@ -1182,7 +1194,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>laotisk</name>
+    <name>lao</name>
   </language>
   <language>
     <code>lol</code>
@@ -1286,7 +1298,7 @@
   </language>
   <language>
     <code>mg</code>
-    <name>malagasy</name>
+    <name>malagassisk</name>
   </language>
   <language>
     <code>mga</code>
@@ -1295,6 +1307,10 @@
   <language>
     <code>mgh</code>
     <name>makhuwa-meetto</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>meta</name>
   </language>
   <language>
     <code>mh</code>
@@ -2118,7 +2134,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>uigurisk</name>
+    <name>uygurisk</name>
   </language>
   <language>
     <code>uga</code>
@@ -2259,6 +2275,10 @@
   <language>
     <code>zen</code>
     <name>zenaga</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>tamazight</name>
   </language>
   <language>
     <code>zh</code>

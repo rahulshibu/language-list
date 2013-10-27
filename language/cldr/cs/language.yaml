@@ -21,6 +21,7 @@ ang: "staroangli\u010Dtina"
 anp: angika
 apa: "apa\u010Dsk\xE9 jazyky"
 ar: "arab\u0161tina"
+ar_001: "arab\u0161tina (modern\xED standardn\xED)"
 arc: "aramej\u0161tina"
 arn: "arauk\xE1n\u0161tina"
 arp: "arapa\u017E\u0161tina"
@@ -56,6 +57,7 @@ bho: "bhojpur\u0161tina"
 bi: "bislam\u0161tina"
 bik: "bikol\u0161tina"
 bin: bini
+bkm: kom
 bla: siksika
 bm: "bambar\u0161tina"
 bn: "beng\xE1l\u0161tina"
@@ -117,7 +119,7 @@ day: "daj\xE1\u010Dtina"
 de: "n\u011Bm\u010Dina"
 de_CH: "n\u011Bm\u010Dina standardn\xED (\u0160v\xFDcarsko)"
 del: "delawar\u0161tina"
-den: slave
+den: "slejv\u0161tina (athabask\xFD jazyk)"
 dgr: dogrib
 din: "dink\u0161tina"
 dje: "zarm\u0161tina"
@@ -125,8 +127,8 @@ doi: "dogar\u0161tina"
 dra: "dr\xE1vidsk\xE9 jazyky"
 dsb: "dolnolu\u017Eick\xE1 srb\u0161tina"
 dua: "dual\u0161tina"
-dum: "st\u0159edoholand\u0161tina"
-dv: divehi
+dum: "holand\u0161tina (st\u0159edov\u011Bk\xE1)"
+dv: "malediv\u0161tina"
 dyo: jola-fonyi
 dyu: djula
 dz: "dzongk\xE4"
@@ -140,7 +142,7 @@ el: "\u0159e\u010Dtina"
 elx: "elamit\u0161tina"
 en: "angli\u010Dtina"
 en_US: "angli\u010Dtina (USA)"
-enm: "st\u0159edov\u011Bk\xE1 angli\u010Dtina"
+enm: "angli\u010Dtina (st\u0159edov\u011Bk\xE1)"
 eo: esperanto
 es: "\u0161pan\u011Bl\u0161tina"
 es_ES: "\u0161pan\u011Bl\u0161tina (Evropa)"
@@ -150,7 +152,7 @@ ewo: ewondo
 fa: "per\u0161tina"
 fan: fang
 fat: "fant\u0161tina"
-ff: "fulah\u0161tina"
+ff: "fulb\u0161tina"
 fi: "fin\u0161tina"
 fil: "filip\xEDn\u0161tina"
 fiu: "ugrofinsk\xE9 jazyky"
@@ -158,11 +160,11 @@ fj: "fid\u017Eij\u0161tina"
 fo: "faer\u0161tina"
 fon: "fon\u0161tina"
 fr: "francouz\u0161tina"
-frm: "st\u0159edov\u011Bk\xE1 francouz\u0161tina"
-fro: "starofrancouz\u0161tina"
+frm: "francouz\u0161tina (st\u0159edov\u011Bk\xE1)"
+fro: "francouz\u0161tina (star\xE1)"
 frr: "fr\xED\u0161tina (severn\xED)"
 frs: "fr\xED\u0161tina (v\xFDchodn\xED)"
-fur: "furland\u0161tina"
+fur: "furlan\u0161tina"
 fy: "fr\xED\u0161tina"
 ga: "ir\u0161tina"
 gaa: "ga\u0161tina"
@@ -191,7 +193,7 @@ hai: "haid\u0161tina"
 haw: "havaj\u0161tina"
 he: "hebrej\u0161tina"
 hi: "hind\u0161tina"
-hil: "hiligaynon\u0161tina"
+hil: "hiligajnon\u0161tina"
 him: "him\xE1\u010Dal\u0161tina"
 hit: "chetit\u0161tina"
 hmn: "hmong\u0161tina"
@@ -209,6 +211,7 @@ ibb: ibibio
 id: "indon\xE9\u0161tina"
 ie: interlingue
 ig: "igbo\u0161tina"
+ii: "s'-\u010Dchuan i"
 ijo: "id\u017Eo"
 ik: "inupiak\u0161tina"
 ilo: "ilok\xE1n\u0161tina"
@@ -223,7 +226,8 @@ it: "ital\u0161tina"
 iu: "inuktitut\u0161tina"
 ja: "japon\u0161tina"
 jbo: lojban
-jmc: machame
+jgo: ngomba
+jmc: "ma\u0161ame"
 jpr: "judeoper\u0161tina"
 jrb: "judeoarab\u0161tina"
 jv: "jav\xE1n\u0161tina"
@@ -245,11 +249,13 @@ kg: "kon\u017E\u0161tina"
 kha: "kh\xE1s\xED"
 khi: "kojsansk\xE9 jazyky"
 kho: "chot\xE1n\u0161tina"
+khq: koyra chiini
 ki: "kikuj\u0161tina"
 kj: "kua\u0148am\u0161tina"
 kk: "kaza\u0161tina"
 kkj: kako
 kl: "gr\xF3n\u0161tina"
+kln: "kalend\u017Ein"
 km: "khm\xE9r\u0161tina"
 kmb: "kimbund\u0161tina"
 kn: "kannad\u0161tina"
@@ -265,10 +271,10 @@ kru: "kuruch\u0161tina"
 ks: "ka\u0161m\xEDr\u0161tina"
 ksb: shambala
 ksf: bafia
-ksh: "k\xF6lsch"
+ksh: "kol\xEDn\u0161tina"
 ku: "kurd\u0161tina"
 kum: "kumy\u010Dtina"
-kut: kutenai
+kut: "kutenaj\u0161tina"
 kv: "komij\u0161tina"
 kw: "korn\u0161tina"
 ky: "kyrgyz\u0161tina"
@@ -291,7 +297,7 @@ lua: "luba-lulua\u0161tina"
 lui: "luise\u0148o"
 lun: "lund\u0161tina"
 luo: "luo\u0161tina"
-lus: "li\u0161\xE1\xED"
+lus: "mizo\u0161tina"
 luy: luhja
 lv: "loty\u0161tina"
 mad: "madur\u0161tina"
@@ -309,7 +315,8 @@ men: mende
 mer: meru
 mfe: "mauricijsk\xE1 kreol\u0161tina"
 mg: "malga\u0161tina"
-mga: "st\u0159edoir\u0161tina"
+mga: "ir\u0161tina (st\u0159edov\u011Bk\xE1)"
+mgh: makhuwa-meetto
 mh: "mar\u0161\xE1l\u0161tina"
 mi: "maor\u0161tina"
 mic: micmac
@@ -317,7 +324,7 @@ min: minangkabau
 mis: "r\u016Fzn\xE9 jazyky"
 mk: "makedon\u0161tina"
 mkh: "mon-khmersk\xE9 jazyky"
-ml: "malabar\u0161tina"
+ml: "malaj\xE1lam\u0161tina"
 mn: "mongol\u0161tina"
 mnc: "mand\u017Eu\u0161tina"
 mni: "manipur\u0161tina"
@@ -331,7 +338,7 @@ mt: "malt\u0161tina"
 mua: mundang
 mul: "slo\u017Een\xE9 (v\xEDce\u0159\xE1dkov\xE9) jazyky"
 mun: "mundsk\xE9 jazyky"
-mus: muskogee (creek)
+mus: "kr\xEDk\u0161tina"
 mwl: "mirand\u0161tina"
 mwr: "m\xE1rv\xE1r\u0161tina"
 my: "barm\u0161tina"
@@ -342,6 +349,7 @@ na: "naur\u0161tina"
 nah: nahuatl
 nai: "severoamerick\xE9 indi\xE1nsk\xE9 jazyky"
 nap: "neapol\u0161tina"
+naq: nama
 nb: "nor\u0161tina (bokm\xE5l)"
 nd: ndebele (Zimbabwe)
 nds: "dolnon\u011Bm\u010Dina"
@@ -353,6 +361,7 @@ nic: "nigero-kordof\xE1nsk\xE9 jazyky"
 niu: "niue\u0161tina"
 nl: "nizozem\u0161tina"
 nl_BE: "vl\xE1m\u0161tina"
+nmg: kwasio
 nn: "nor\u0161tina (nynorsk)"
 nnh: ngiemboon
 'no': "nor\u0161tina"
@@ -367,8 +376,8 @@ nv: "nava\u017E\u0161tina"
 nwc: "newar\u0161tina (klasick\xE1)"
 ny: "\u0148and\u017E\u0161tina"
 nym: "\u0148amwe\u017E\u0161tina"
-nyn: nyankole
-nyo: "nyor\u0161tina"
+nyn: "\u0148ankol\u0161tina"
+nyo: "\u0148or\u0161tina"
 nzi: nzima
 oc: "okcit\xE1n\u0161tina"
 oj: "od\u017Eibvej\u0161tina"
@@ -398,8 +407,8 @@ pt: "portugal\u0161tina"
 pt_PT: "portugal\u0161tina (Evropa)"
 qu: "ke\u010Du\xE1n\u0161tina"
 raj: "r\xE1d\u017East\xE1n\u0161tina"
-rap: "rapanui\u0161tina"
-rar: "rarotonga\u0161tina"
+rap: "rapanuj\u0161tina"
+rar: "rarotong\xE1n\u0161tina"
 rm: "r\xE9torom\xE1n\u0161tina"
 rn: "kirund\u0161tina"
 ro: "rumun\u0161tina"
@@ -408,7 +417,7 @@ rof: rombo
 rom: "rom\u0161tina"
 ru: "ru\u0161tina"
 rup: "arumun\u0161tina"
-rw: "kinyarwand\u0161tina"
+rw: "ki\u0148arwand\u0161tina"
 rwk: rwa
 sa: sanskrt
 sad: "sandaw\u0161tina"
@@ -432,9 +441,10 @@ sel: "selkup\u0161tina"
 sem: "semitsk\xE9 jazyky"
 ses: koyraboro senni
 sg: "sang\u0161tina"
-sga: "staroir\u0161tina"
+sga: "ir\u0161tina (star\xE1)"
 sgn: "znakov\xE9 jazyky"
 sh: "srbochorvat\u0161tina"
+shi: tachelhit
 shn: "\u0161an\u0161tina"
 shu: "arab\u0161tina (\u010Dadsk\xE1)"
 si: "sinh\xE1l\u0161tina"
@@ -454,7 +464,7 @@ sn: "\u0161on\u0161tina"
 snk: "sonik\u0161tina"
 so: "som\xE1l\u0161tina"
 sog: "sogd\u0161tina"
-son: "songhaj\u0161tina"
+son: "songaj\u0161tina"
 sq: "alb\xE1n\u0161tina"
 sr: "srb\u0161tina"
 srn: sranan tongo
@@ -493,6 +503,7 @@ tli: tlingit
 tmh: "tama\u0161ek"
 tn: "setswan\u0161tina"
 to: "tong\xE1n\u0161tina"
+tog: "ton\u017E\u0161tina (nyasa)"
 tpi: tok pisin
 tr: "ture\u010Dtina"
 trv: taroko
@@ -504,9 +515,10 @@ tup: "tupijsk\xE9 jazyky"
 tut: "altajsk\xE9 jazyky"
 tvl: "tuval\u0161tina"
 tw: twi
+twq: tasawaq
 ty: "tahit\u0161tina"
 tyv: "tuvin\u0161tina"
-tzm: "tamazight (St\u0159edn\xED Maroko)"
+tzm: "tamazight (st\u0159edn\xED Maroko)"
 udm: "udmurt\u0161tina"
 ug: "ujgur\u0161tina"
 uga: "ugarit\u0161tina"
@@ -519,12 +531,13 @@ vai: vai
 ve: venda
 vi: "vietnam\u0161tina"
 vo: volapuk
-vot: "votiat\u0161tina"
+vot: "vot\u0161tina"
+vun: vunjo
 wa: "valon\u0161tina"
 wae: "n\u011Bm\u010Dina (walser)"
 wak: "waka\u0161sk\xE9 jazyky"
-wal: "walam\u0161tina"
-war: waray
+wal: "wolajt\u0161tina"
+war: "waraj\u0161tina"
 was: "wa\u0161tina"
 wen: "lu\u017Eickosrbsk\xE9 jazyky"
 wo: "wolof\u0161tina"
@@ -532,8 +545,8 @@ xal: "kalmy\u010Dtina"
 xh: "xho\u0161tina"
 xog: "sog\u0161tina"
 yao: "jao\u0161tina"
-yap: yapese
-yav: yangben
+yap: "jap\u0161tina"
+yav: "jangben\u0161tina"
 ybb: yemba
 yi: "jidi\u0161"
 yo: "jorub\u0161tina"
@@ -543,6 +556,7 @@ za: "\u010Duang\u0161tina"
 zap: "zapot\xE9\u010Dtina"
 zbl: "bliss syst\xE9m"
 zen: zenaga
+zgh: "tamazight (standardn\xED marock\xFD)"
 zh: "\u010D\xEDn\u0161tina"
 zh_Hans: "\u010D\xEDn\u0161tina (zjednodu\u0161en\xE1)"
 znd: "zand\u0161tina"

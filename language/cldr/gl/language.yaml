@@ -1,13 +1,14 @@
 ab: abkhazo
-ach: Acoli
+ach: acoli
 af: afrikaans
 afa: "lingua afro-asi\xE1tica"
-ak: "Ak\xE1n"
+ak: "ak\xE1n"
 alg: lingua algonquina
 am: "am\xE1rico"
 an: "aragon\xE9s"
 apa: lingua apache
 ar: "\xE1rabe"
+ar_001: "\xE1rabe est\xE1ndar moderno"
 arc: arameo
 art: lingua artificial
 as: "assam\xE9s"
@@ -17,20 +18,20 @@ ay: "aimar\xE1"
 az: azerbaiano
 bat: "lingua b\xE1ltica"
 be: bielorruso
-bem: Bemba
+bem: bemba
 bg: "b\xFAlgaro"
-bh: Bihariano
+bh: bihari
 bn: "bengal\xED"
 bo: tibetano
-br: "Bret\xF3n"
+br: "bret\xF3n"
 bs: bosnio
 ca: "catal\xE1n"
 cai: lingua india centroamericana
 cau: "lingua cauc\xE1sica"
 cel: "lingua c\xE9ltica"
-chr: Cheroqui
-ckb: "Kurdo soran\xED"
-co: Corso
+chr: cheroqui
+ckb: "curdo soran\xED"
+co: corso
 cs: checo
 cu: "eslavo eclesi\xE1stico"
 cy: "gal\xE9s"
@@ -40,7 +41,7 @@ de_AT: "alem\xE1n de austria"
 de_CH: "alto alem\xE1n su\xEDzo"
 dv: divehi
 dz: dzongkha
-ee: "Ew\xE9"
+ee: "ew\xE9"
 efi: ibibio
 egy: exipcio antigo
 el: grego
@@ -48,11 +49,12 @@ en: "ingl\xE9s"
 en_AU: "ingl\xE9s australiano"
 en_CA: "ingl\xE9s canadiano"
 en_GB: "ingl\xE9s brit\xE1nico"
-en_US: "ingl\xE9s americano"
+en_US: "ingl\xE9s dos Estados Unidos"
 eo: esperanto
 es: "espa\xF1ol"
 es_419: "espa\xF1ol latinoamericano"
 es_ES: "castel\xE1n"
+es_MX: "espa\xF1ol de M\xE9xico"
 et: estoniano
 eu: "\xE9uscaro"
 fa: persa
@@ -66,7 +68,7 @@ fr_CA: "franc\xE9s canadiano"
 fr_CH: "franc\xE9s su\xEDzo"
 fy: "fris\xF3n"
 ga: "irland\xE9s"
-gaa: Ga
+gaa: ga
 gd: "ga\xE9lico escoc\xE9s"
 gem: "lingua xerm\xE1nica"
 gl: galego
@@ -82,7 +84,7 @@ hr: croata
 ht: haitiano
 hu: "h\xFAngaro"
 hy: armenio
-ia: Interlingua
+ia: interlingua
 id: indonesio
 ig: ibo
 inc: "lingua \xEDndica"
@@ -92,24 +94,24 @@ it: italiano
 ja: "xapon\xE9s"
 jv: "xavan\xE9s"
 ka: xeorxiano
-kg: "Congol\xE9s"
+kg: kongo
 kk: casaco
 km: cambodiano
 kn: kannada
 ko: coreano
 ks: cachemir
 ku: kurdo
-ky: kyrgiz
+ky: quirguiz
 la: "lat\xEDn"
 lb: "luxemburgu\xE9s"
-lg: Ganda
+lg: ganda
 ln: lingala
 lo: laotiano
-loz: Lozi
+loz: lozi
 lt: lituano
-lua: Luba-Lulua
+lua: luba-lulua
 lv: "let\xF3n"
-mfe: Crioulo mauritano
+mfe: crioulo mauritano
 mg: malgaxe
 mi: "maor\xED"
 mis: "lingua miscel\xE1nea"
@@ -129,12 +131,12 @@ nl: "holand\xE9s"
 nl_BE: flamenco
 nn: "noruegu\xE9s nynorsk"
 'no': "noruegu\xE9s"
-nso: Sesotho sa leboa
+nso: sesotho sa leboa
 nub: lingua nubia
 ny: chewa
-nyn: Nyankole
-oc: Occitano
-om: Oromo
+nyn: nyankole
+oc: occitano
+om: oromo
 or: oriya
 os: osetio
 pa: punjabi
@@ -143,7 +145,7 @@ pl: polaco
 ps: "paxt\xFAn"
 pt: "portugu\xE9s"
 pt_BR: "portugu\xE9s brasileiro"
-pt_PT: "Portugu\xE9s europeo"
+pt_PT: "portugu\xE9s europeo"
 qu: quechua
 rm: romanche
 rn: rundi
@@ -182,14 +184,14 @@ th: "tailand\xE9s"
 ti: "tigri\xF1a"
 tk: turcomano
 tl: tagalo
-tlh: Clingon
+tlh: klingon
 tn: tswana
 to: "tongan\xE9s"
 tpi: tok pisin
 tr: turco
 ts: xitsonga
 tt: "t\xE1rtaro"
-tum: Tumbuka
+tum: tumbuka
 tut: lingua altaica
 tw: twi
 ty: tahitiano
@@ -202,8 +204,9 @@ ve: venda
 vi: vietnamita
 wo: "w\xF3lof"
 xh: xhosa
-yi: Yiddish
+yi: yiddish
 yo: ioruba
+zgh: "tamazight de Marrocos est\xE1ndar"
 zh: "chin\xE9s"
 zh_Hans: "chin\xE9s simplificado"
 zh_Hant: "chin\xE9s tradicional"

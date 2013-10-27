@@ -89,6 +89,10 @@
     <name>আরবী</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>আধুনিক আদর্শ আরবী</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>আরামাইক</name>
   </language>
@@ -230,7 +234,7 @@
   </language>
   <language>
     <code>br</code>
-    <name>ব্রেটোন</name>
+    <name>ব্রেটন</name>
   </language>
   <language>
     <code>bra</code>
@@ -474,7 +478,7 @@
   </language>
   <language>
     <code>ee</code>
-    <name>ইওয়ে</name>
+    <name>ইউই</name>
   </language>
   <language>
     <code>efi</code>
@@ -534,7 +538,11 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>আইবেরিয়ান স্প্যানিশ</name>
+    <name>ইউরোপীয় স্প্যানিশ</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>ম্যাক্সিকান স্প্যানিশ</name>
   </language>
   <language>
     <code>et</code>
@@ -914,7 +922,7 @@
   </language>
   <language>
     <code>kg</code>
-    <name>কোঙ্গো</name>
+    <name>কঙ্গো</name>
   </language>
   <language>
     <code>kha</code>
@@ -1046,7 +1054,7 @@
   </language>
   <language>
     <code>lg</code>
-    <name>গ্যান্ডা</name>
+    <name>গান্ডা</name>
   </language>
   <language>
     <code>li</code>
@@ -1070,7 +1078,7 @@
   </language>
   <language>
     <code>lt</code>
-    <name>লিথুয়েনীয</name>
+    <name>লিথুয়েনীয়</name>
   </language>
   <language>
     <code>lu</code>
@@ -1174,7 +1182,7 @@
   </language>
   <language>
     <code>mk</code>
-    <name>ম্যাসেডোনীয</name>
+    <name>ম্যাসেডোনীয়</name>
   </language>
   <language>
     <code>mkh</code>
@@ -1390,7 +1398,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>উড়িয়া</name>
+    <name>ওড়িয়া</name>
   </language>
   <language>
     <code>os</code>
@@ -1482,7 +1490,7 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>আইবেরিয়ান পর্তুগিজ</name>
+    <name>ইউরোপিয় পর্তুগীজ</name>
   </language>
   <language>
     <code>qu</code>
@@ -1826,7 +1834,7 @@
   </language>
   <language>
     <code>to</code>
-    <name>টঙ্গা</name>
+    <name>টোঙ্গান</name>
   </language>
   <language>
     <code>tog</code>
@@ -1886,7 +1894,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>উইঘুর</name>
+    <name>উইগুর</name>
   </language>
   <language>
     <code>uga</code>
@@ -1902,7 +1910,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>অজানা বা ভুল ভাষা</name>
+    <name>অজানা ভাষা</name>
   </language>
   <language>
     <code>ur</code>
@@ -2009,16 +2017,20 @@
     <name>জেনাগা</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>আদর্শ মরক্কোন তামাজিগাত</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>চীনা</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>সহজ চীনা</name>
+    <name>সরলীকৃত চীনা</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>প্রথাগত চীনা</name>
+    <name>ঐতিহ্যবাহি চীনা</name>
   </language>
   <language>
     <code>znd</code>

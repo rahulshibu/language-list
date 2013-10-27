@@ -93,6 +93,10 @@
     <name>阿拉伯文</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>现代标准阿拉伯文</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>阿拉米文</name>
   </language>
@@ -582,11 +586,11 @@
   </language>
   <language>
     <code>en_GB</code>
-    <name>英国英文</name>
+    <name>英式英文</name>
   </language>
   <language>
     <code>en_US</code>
-    <name>美国英文</name>
+    <name>美式英文</name>
   </language>
   <language>
     <code>enm</code>
@@ -606,7 +610,11 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>西班牙语（伊比利亚）</name>
+    <name>欧洲西班牙文</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>墨西哥西班牙文</name>
   </language>
   <language>
     <code>et</code>
@@ -926,7 +934,7 @@
   </language>
   <language>
     <code>iu</code>
-    <name>伊努伊特文</name>
+    <name>因纽特文</name>
   </language>
   <language>
     <code>ja</code>
@@ -935,6 +943,10 @@
   <language>
     <code>jbo</code>
     <name>逻辑文</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>恩艮巴</name>
   </language>
   <language>
     <code>jmc</code>
@@ -1297,6 +1309,10 @@
     <name>马夸文</name>
   </language>
   <language>
+    <code>mgo</code>
+    <name>梅塔</name>
+  </language>
+  <language>
     <code>mh</code>
     <name>马绍尔文</name>
   </language>
@@ -1558,7 +1574,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>欧里亚文</name>
+    <name>奥里亚文</name>
   </language>
   <language>
     <code>os</code>
@@ -2259,6 +2275,10 @@
   <language>
     <code>zen</code>
     <name>泽纳加文</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>标准摩洛哥塔马塞特文</name>
   </language>
   <language>
     <code>zh</code>

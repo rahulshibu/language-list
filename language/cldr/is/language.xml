@@ -93,6 +93,10 @@
     <name>arabíska</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>stöðluð nútímaarabíska</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>arameíska</name>
   </language>
@@ -578,11 +582,15 @@
   </language>
   <language>
     <code>es_419</code>
-    <name>latnesk-amerísk spænska</name>
+    <name>rómanskamerísk spænska</name>
   </language>
   <language>
     <code>es_ES</code>
     <name>evrópsk spænska</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>mexíkósk spænska</name>
   </language>
   <language>
     <code>et</code>
@@ -618,7 +626,7 @@
   </language>
   <language>
     <code>fil</code>
-    <name>filipínska</name>
+    <name>filippseyska</name>
   </language>
   <language>
     <code>fiu</code>
@@ -670,7 +678,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>frísneska</name>
+    <name>vesturfrísneska</name>
   </language>
   <language>
     <code>ga</code>
@@ -2097,6 +2105,10 @@
     <name>senaga</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>staðlað marokkóskt tamazight</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>kínverska</name>
   </language>
@@ -2122,7 +2134,7 @@
   </language>
   <language>
     <code>zxx</code>
-    <name>ekkert tungutengt efni</name>
+    <name>ekkert tungumálaefni</name>
   </language>
   <language>
     <code>zza</code>

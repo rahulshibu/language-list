@@ -93,6 +93,10 @@
     <name>arabų</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>šiuolaikinė standartinė arabų</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>aramaikų</name>
   </language>
@@ -478,7 +482,7 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>aukštoji Šveicarijos vokiečių</name>
+    <name>Šveicarijos aukštutinė vokiečių</name>
   </language>
   <language>
     <code>del</code>
@@ -582,11 +586,11 @@
   </language>
   <language>
     <code>en_GB</code>
-    <name>anglų (britų)</name>
+    <name>Didžiosios Britanijos anglų</name>
   </language>
   <language>
     <code>en_US</code>
-    <name>anglų (amerikiečių)</name>
+    <name>Jungtinių Valstijų anglų</name>
   </language>
   <language>
     <code>enm</code>
@@ -607,6 +611,10 @@
   <language>
     <code>es_ES</code>
     <name>Europos ispanų</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>Meksikos ispanų</name>
   </language>
   <language>
     <code>et</code>
@@ -642,7 +650,7 @@
   </language>
   <language>
     <code>fil</code>
-    <name>tagalų</name>
+    <name>filipiniečių</name>
   </language>
   <language>
     <code>fiu</code>
@@ -794,7 +802,7 @@
   </language>
   <language>
     <code>haw</code>
-    <name>havajų</name>
+    <name>havajiečių</name>
   </language>
   <language>
     <code>he</code>
@@ -834,7 +842,7 @@
   </language>
   <language>
     <code>ht</code>
-    <name>haičio</name>
+    <name>Haičio</name>
   </language>
   <language>
     <code>hu</code>
@@ -866,7 +874,7 @@
   </language>
   <language>
     <code>id</code>
-    <name>indonieziečių</name>
+    <name>indoneziečių</name>
   </language>
   <language>
     <code>ie</code>
@@ -1430,7 +1438,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>Norvegijos būkmolų</name>
+    <name>Norvegijos rašytinė – būkmolų</name>
   </language>
   <language>
     <code>nd</code>
@@ -1442,7 +1450,7 @@
   </language>
   <language>
     <code>ne</code>
-    <name>nepalų</name>
+    <name>nepaliečių</name>
   </language>
   <language>
     <code>new</code>
@@ -1714,7 +1722,7 @@
   </language>
   <language>
     <code>sa</code>
-    <name>sanskrito</name>
+    <name>sanskritas</name>
   </language>
   <language>
     <code>sad</code>
@@ -1886,7 +1894,7 @@
   </language>
   <language>
     <code>so</code>
-    <name>somalių</name>
+    <name>somaliečių</name>
   </language>
   <language>
     <code>sog</code>
@@ -1950,7 +1958,7 @@
   </language>
   <language>
     <code>sw</code>
-    <name>svahilių</name>
+    <name>suahilių</name>
   </language>
   <language>
     <code>swb</code>
@@ -2261,12 +2269,16 @@
     <name>zenaga</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>standartinė Maroko tamazigtų</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>kinų</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>supaprastina kinų</name>
+    <name>supaprastintoji kinų</name>
   </language>
   <language>
     <code>zh_Hant</code>

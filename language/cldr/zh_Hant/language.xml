@@ -93,6 +93,10 @@
     <name>阿拉伯文</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>現代標準阿拉伯文</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>阿拉米文</name>
   </language>
@@ -534,7 +538,7 @@
   </language>
   <language>
     <code>dz</code>
-    <name>不丹文</name>
+    <name>宗卡文</name>
   </language>
   <language>
     <code>dzg</code>
@@ -594,7 +598,7 @@
   </language>
   <language>
     <code>eo</code>
-    <name>世界語</name>
+    <name>世界文</name>
   </language>
   <language>
     <code>es</code>
@@ -607,6 +611,10 @@
   <language>
     <code>es_ES</code>
     <name>西班牙文 (歐洲)</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>西班牙文 (墨西哥)</name>
   </language>
   <language>
     <code>et</code>
@@ -665,10 +673,6 @@
     <name>法文</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>法文 (加拿大)</name>
-  </language>
-  <language>
     <code>fr_CH</code>
     <name>法文 (瑞士)</name>
   </language>
@@ -714,7 +718,7 @@
   </language>
   <language>
     <code>gd</code>
-    <name>蘇格蘭 - 蓋爾文</name>
+    <name>蘇格蘭蓋爾文</name>
   </language>
   <language>
     <code>gem</code>
@@ -770,7 +774,7 @@
   </language>
   <language>
     <code>gu</code>
-    <name>吉亞拉塔文</name>
+    <name>古吉拉特文</name>
   </language>
   <language>
     <code>guz</code>
@@ -906,7 +910,7 @@
   </language>
   <language>
     <code>io</code>
-    <name>伊朗文</name>
+    <name>伊多文</name>
   </language>
   <language>
     <code>ira</code>
@@ -1102,7 +1106,7 @@
   </language>
   <language>
     <code>ks</code>
-    <name>克什米爾文</name>
+    <name>喀什米爾文</name>
   </language>
   <language>
     <code>ksb</code>
@@ -1182,7 +1186,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>寮國文</name>
+    <name>寮文</name>
   </language>
   <language>
     <code>lol</code>
@@ -1430,7 +1434,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>挪威波克默爾文</name>
+    <name>巴克摩挪威文</name>
   </language>
   <language>
     <code>nd</code>
@@ -1470,7 +1474,7 @@
   </language>
   <language>
     <code>nl_BE</code>
-    <name>法蘭德斯文</name>
+    <name>佛蘭芒文</name>
   </language>
   <language>
     <code>nmg</code>
@@ -1478,7 +1482,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>新挪威文</name>
+    <name>耐諾斯克挪威文</name>
   </language>
   <language>
     <code>nnh</code>
@@ -1518,7 +1522,7 @@
   </language>
   <language>
     <code>nv</code>
-    <name>納瓦約文</name>
+    <name>納瓦霍文</name>
   </language>
   <language>
     <code>nwc</code>
@@ -1558,7 +1562,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>歐里亞文</name>
+    <name>歐利亞文</name>
   </language>
   <language>
     <code>os</code>
@@ -1645,16 +1649,12 @@
     <name>葡萄牙文</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>葡萄牙文 (巴西)</name>
-  </language>
-  <language>
     <code>pt_PT</code>
     <name>葡萄牙文 (歐洲)</name>
   </language>
   <language>
     <code>qu</code>
-    <name>蓋丘亞文</name>
+    <name>蓋楚瓦文</name>
   </language>
   <language>
     <code>raj</code>
@@ -1670,7 +1670,7 @@
   </language>
   <language>
     <code>rm</code>
-    <name>里托羅曼斯文</name>
+    <name>羅曼斯文</name>
   </language>
   <language>
     <code>rn</code>
@@ -1930,7 +1930,7 @@
   </language>
   <language>
     <code>su</code>
-    <name>巽他語</name>
+    <name>巽他文</name>
   </language>
   <language>
     <code>suk</code>
@@ -2134,11 +2134,11 @@
   </language>
   <language>
     <code>und</code>
-    <name>不確定語言</name>
+    <name>未知語言</name>
   </language>
   <language>
     <code>ur</code>
-    <name>烏爾都文</name>
+    <name>烏都文</name>
   </language>
   <language>
     <code>uz</code>
@@ -2198,7 +2198,7 @@
   </language>
   <language>
     <code>wo</code>
-    <name>沃爾夫文</name>
+    <name>沃洛夫文</name>
   </language>
   <language>
     <code>xal</code>
@@ -2259,6 +2259,10 @@
   <language>
     <code>zen</code>
     <name>澤納加文</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>標準摩洛哥塔馬塞特文</name>
   </language>
   <language>
     <code>zh</code>

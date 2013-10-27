@@ -89,6 +89,10 @@
     <name>அரபு</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>மாடர்ன் ஸ்டாண்டர்ட் அரபிக்</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>அராமைக்</name>
   </language>
@@ -514,7 +518,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>ஆங்கிலம் (யூஎஸ்)</name>
+    <name>அமெரிக்க ஆங்கிலம்</name>
   </language>
   <language>
     <code>enm</code>
@@ -535,6 +539,10 @@
   <language>
     <code>es_ES</code>
     <name>ஐரோப்பிய ஸ்பானிஷ்</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>மெக்சிகன் ஸ்பானிஷ்</name>
   </language>
   <language>
     <code>et</code>
@@ -598,7 +606,7 @@
   </language>
   <language>
     <code>fr_CH</code>
-    <name>ஸ்விஸ் பிரன்சு</name>
+    <name>ஸ்விஸ் பிரெஞ்ச்</name>
   </language>
   <language>
     <code>frm</code>
@@ -622,7 +630,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>மேற்கத்திய பிரிஷிய</name>
+    <name>மேற்கத்திய ஃப்ரிஷியன்</name>
   </language>
   <language>
     <code>ga</code>
@@ -1018,7 +1026,7 @@
   </language>
   <language>
     <code>ky</code>
-    <name>கிர்கிஷ்</name>
+    <name>கிர்கிஸ்</name>
   </language>
   <language>
     <code>la</code>
@@ -1058,7 +1066,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>லோத்தியன்</name>
+    <name>லாவோ</name>
   </language>
   <language>
     <code>lol</code>
@@ -2009,12 +2017,20 @@
     <name>ஜெனகா</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>ஸ்டாண்டர்ட் மொராக்கன் தமாசைட்</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>சீனம்</name>
   </language>
   <language>
+    <code>zh_Hans</code>
+    <name>எளிதாக்கப்பட்ட சீனம்</name>
+  </language>
+  <language>
     <code>zh_Hant</code>
-    <name>சீனம் (மரபுவழி)</name>
+    <name>பாரம்பரிய சீனம்</name>
   </language>
   <language>
     <code>znd</code>

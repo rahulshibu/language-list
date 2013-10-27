@@ -21,6 +21,7 @@ ang: "senoji angl\u0173"
 anp: "angik\u0173"
 apa: "apa\u010Di\u0173 kalba"
 ar: "arab\u0173"
+ar_001: "\u0161iuolaikin\u0117 standartin\u0117 arab\u0173"
 arc: "aramaik\u0173"
 arn: "araukan\u0173"
 arp: "arapah\u0173"
@@ -117,7 +118,7 @@ dav: "tait\u0173"
 day: bidayuh kalba
 de: "vokie\u010Di\u0173"
 de_AT: "Austrijos vokie\u010Di\u0173"
-de_CH: "auk\u0161toji \u0160veicarijos vokie\u010Di\u0173"
+de_CH: "\u0160veicarijos auk\u0161tutin\u0117 vokie\u010Di\u0173"
 del: delavero
 den: slave
 dgr: "dogrib\u0173"
@@ -143,13 +144,14 @@ elx: "elamit\u0173"
 en: "angl\u0173"
 en_AU: "Australijos angl\u0173"
 en_CA: "Kanados angl\u0173"
-en_GB: "angl\u0173 (brit\u0173)"
-en_US: "angl\u0173 (amerikie\u010Di\u0173)"
+en_GB: "Did\u017Eiosios Britanijos angl\u0173"
+en_US: "Jungtini\u0173 Valstij\u0173 angl\u0173"
 enm: Vidurio Anglijos
 eo: esperanto
 es: "ispan\u0173"
 es_419: "Lotyn\u0173 Amerikos ispan\u0173"
 es_ES: "Europos ispan\u0173"
+es_MX: "Meksikos ispan\u0173"
 et: "est\u0173"
 eu: "bask\u0173"
 ewo: evondo
@@ -158,7 +160,7 @@ fan: fang
 fat: fanti
 ff: "fulah\u0173"
 fi: "suomi\u0173"
-fil: "tagal\u0173"
+fil: "filipinie\u010Di\u0173"
 fiu: "finougr\u0173 kalba"
 fj: "fid\u017Ei\u0173"
 fo: "farer\u0173"
@@ -196,7 +198,7 @@ gv: manks
 gwi: "gvi\u010Dino"
 ha: "haus\u0173"
 hai: haido
-haw: "havaj\u0173"
+haw: "havajie\u010Di\u0173"
 he: "hebraj\u0173"
 hi: hindi
 hil: hiligainon
@@ -206,7 +208,7 @@ hmn: hmong
 ho: hiri motu
 hr: "kroat\u0173"
 hsb: "vir\u0161utin\u0117 sorbian"
-ht: "hai\u010Dio"
+ht: "Hai\u010Dio"
 hu: "vengr\u0173"
 hup: hupa
 hy: "arm\u0117n\u0173"
@@ -214,7 +216,7 @@ hz: herero
 ia: interlingva
 iba: iban
 ibb: ibibio
-id: "indoniezie\u010Di\u0173"
+id: "indonezie\u010Di\u0173"
 ie: interkalba
 ig: "igb\u0173"
 ii: "si\u010Duan ji"
@@ -355,10 +357,10 @@ nah: "nahuatl\u0173"
 nai: "\u0160iaur\u0117s Amerikos ind\u0117n\u0173 kalba"
 nap: "neapolie\u010Di\u0173"
 naq: "nam\u0173"
-nb: "Norvegijos b\u016Bkmol\u0173"
+nb: "Norvegijos ra\u0161ytin\u0117 \u2013 b\u016Bkmol\u0173"
 nd: "\u0161iaur\u0117s ndebel\u0173"
 nds: "\u017Demutin\u0117s Vokietijos"
-ne: "nepal\u0173"
+ne: "nepalie\u010Di\u0173"
 new: nevari
 ng: "ndong\u0173"
 nia: nias
@@ -426,7 +428,7 @@ ru: "rus\u0173"
 rup: "aromani\u0173"
 rw: kinjarvanda
 rwk: rwa
-sa: sanskrito
+sa: sanskritas
 sad: sandavi
 sah: "jakut\u0173"
 sai: "Piet\u0173 Amerikos ind\u0117n\u0173 kalba"
@@ -469,7 +471,7 @@ smn: inari sami
 sms: skolt sami
 sn: "\u0161ona"
 snk: soninke
-so: "somali\u0173"
+so: "somalie\u010Di\u0173"
 sog: sogdien
 son: songhai
 sq: "alban\u0173"
@@ -485,7 +487,7 @@ suk: sukuma
 sus: susu
 sux: "\u0161umer\u0173"
 sv: "\u0161ved\u0173"
-sw: "svahili\u0173"
+sw: "suahili\u0173"
 swb: Comorian
 swc: Kongo svahili
 syc: "klasikin\u0117 sirie\u010Di\u0173"
@@ -563,8 +565,9 @@ za: chuang
 zap: "zapotek\u0173"
 zbl: "\u201EBliss\u201C simboli\u0173"
 zen: zenaga
+zgh: "standartin\u0117 Maroko tamazigt\u0173"
 zh: "kin\u0173"
-zh_Hans: "supaprastina kin\u0173"
+zh_Hans: "supaprastintoji kin\u0173"
 zh_Hant: "tradicin\u0117 kin\u0173"
 znd: zande
 zu: "zul\u0173"

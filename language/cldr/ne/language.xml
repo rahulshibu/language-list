@@ -17,6 +17,10 @@
     <name>अरबी</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>अधुनिक प्रमाणिक अरबी</name>
+  </language>
+  <language>
     <code>as</code>
     <name>आसामी</name>
   </language>
@@ -54,7 +58,7 @@
   </language>
   <language>
     <code>cs</code>
-    <name>चेख</name>
+    <name>चेक</name>
   </language>
   <language>
     <code>cy</code>
@@ -62,7 +66,7 @@
   </language>
   <language>
     <code>da</code>
-    <name>ड्यानिश</name>
+    <name>डेनिश</name>
   </language>
   <language>
     <code>de</code>
@@ -82,23 +86,23 @@
   </language>
   <language>
     <code>en</code>
-    <name>अँग्रेजी</name>
+    <name>अंग्रेजी</name>
   </language>
   <language>
     <code>en_AU</code>
-    <name>अष्ट्रेलियाली अँग्रेजी</name>
+    <name>अष्ट्रेलियाली अंग्रेजी</name>
   </language>
   <language>
     <code>en_CA</code>
-    <name>क्यानाडाली अँग्रेजी</name>
+    <name>क्यानाडाली अंग्रेजी</name>
   </language>
   <language>
     <code>en_GB</code>
-    <name>वेलायती अँग्रेजी</name>
+    <name>वेलायती अंग्रेजी</name>
   </language>
   <language>
     <code>en_US</code>
-    <name>अमेरिकी अँग्रेजी</name>
+    <name>अमेरिकी अंग्रेजी</name>
   </language>
   <language>
     <code>eo</code>
@@ -106,7 +110,7 @@
   </language>
   <language>
     <code>es</code>
-    <name>स्प्यानिश</name>
+    <name>स्पेनिस</name>
   </language>
   <language>
     <code>es_419</code>
@@ -114,7 +118,11 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>युरोपी स्पेनिस</name>
+    <name>युरोपेली स्पेनिस</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>स्पेनिस (मेक्सिकन)</name>
   </language>
   <language>
     <code>et</code>
@@ -146,7 +154,7 @@
   </language>
   <language>
     <code>fr</code>
-    <name>फ्रांसेली</name>
+    <name>फ्रान्सेली</name>
   </language>
   <language>
     <code>fr_CA</code>
@@ -278,7 +286,7 @@
   </language>
   <language>
     <code>ky</code>
-    <name>किर्घिज</name>
+    <name>किर्गिज</name>
   </language>
   <language>
     <code>la</code>
@@ -386,15 +394,11 @@
   </language>
   <language>
     <code>pt</code>
-    <name>पोर्तुगाली</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>पर्तुगाली (ब्राजिल्याली)</name>
+    <name>पोर्तुगी</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>पोर्तुगाली (युरोपी)</name>
+    <name>पोर्तुगी (युरोप)</name>
   </language>
   <language>
     <code>qu</code>
@@ -422,7 +426,7 @@
   </language>
   <language>
     <code>si</code>
-    <name>सिन्हाल</name>
+    <name>सिन्हाला</name>
   </language>
   <language>
     <code>sk</code>
@@ -514,7 +518,7 @@
   </language>
   <language>
     <code>uz</code>
-    <name>उज़्बेक</name>
+    <name>उज्बेकी</name>
   </language>
   <language>
     <code>vi</code>
@@ -535,6 +539,10 @@
   <language>
     <code>yo</code>
     <name>योरूवा</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>प्रमाणिक मोरोक्कोन तामाज्ईट</name>
   </language>
   <language>
     <code>zh</code>

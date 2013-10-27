@@ -21,6 +21,7 @@ ang,staroangličtina
 anp,angika
 apa,apačské jazyky
 ar,arabština
+ar_001,arabština (moderní standardní)
 arc,aramejština
 arn,araukánština
 arp,arapažština
@@ -56,6 +57,7 @@ bho,bhojpurština
 bi,bislamština
 bik,bikolština
 bin,bini
+bkm,kom
 bla,siksika
 bm,bambarština
 bn,bengálština
@@ -117,7 +119,7 @@ day,dajáčtina
 de,němčina
 de_CH,němčina standardní (Švýcarsko)
 del,delawarština
-den,slave
+den,slejvština (athabaský jazyk)
 dgr,dogrib
 din,dinkština
 dje,zarmština
@@ -125,8 +127,8 @@ doi,dogarština
 dra,drávidské jazyky
 dsb,dolnolužická srbština
 dua,dualština
-dum,středoholandština
-dv,divehi
+dum,holandština (středověká)
+dv,maledivština
 dyo,jola-fonyi
 dyu,djula
 dz,dzongkä
@@ -140,7 +142,7 @@ el,řečtina
 elx,elamitština
 en,angličtina
 en_US,angličtina (USA)
-enm,středověká angličtina
+enm,angličtina (středověká)
 eo,esperanto
 es,španělština
 es_ES,španělština (Evropa)
@@ -150,7 +152,7 @@ ewo,ewondo
 fa,perština
 fan,fang
 fat,fantština
-ff,fulahština
+ff,fulbština
 fi,finština
 fil,filipínština
 fiu,ugrofinské jazyky
@@ -158,11 +160,11 @@ fj,fidžijština
 fo,faerština
 fon,fonština
 fr,francouzština
-frm,středověká francouzština
-fro,starofrancouzština
+frm,francouzština (středověká)
+fro,francouzština (stará)
 frr,fríština (severní)
 frs,fríština (východní)
-fur,furlandština
+fur,furlanština
 fy,fríština
 ga,irština
 gaa,gaština
@@ -191,7 +193,7 @@ hai,haidština
 haw,havajština
 he,hebrejština
 hi,hindština
-hil,hiligaynonština
+hil,hiligajnonština
 him,himáčalština
 hit,chetitština
 hmn,hmongština
@@ -209,6 +211,7 @@ ibb,ibibio
 id,indonéština
 ie,interlingue
 ig,igboština
+ii,s'-čchuan i
 ijo,idžo
 ik,inupiakština
 ilo,ilokánština
@@ -223,7 +226,8 @@ it,italština
 iu,inuktitutština
 ja,japonština
 jbo,lojban
-jmc,machame
+jgo,ngomba
+jmc,mašame
 jpr,judeoperština
 jrb,judeoarabština
 jv,javánština
@@ -245,11 +249,13 @@ kg,konžština
 kha,khásí
 khi,kojsanské jazyky
 kho,chotánština
+khq,koyra chiini
 ki,kikujština
 kj,kuaňamština
 kk,kazaština
 kkj,kako
 kl,grónština
+kln,kalendžin
 km,khmérština
 kmb,kimbundština
 kn,kannadština
@@ -265,10 +271,10 @@ kru,kuruchština
 ks,kašmírština
 ksb,shambala
 ksf,bafia
-ksh,kölsch
+ksh,kolínština
 ku,kurdština
 kum,kumyčtina
-kut,kutenai
+kut,kutenajština
 kv,komijština
 kw,kornština
 ky,kyrgyzština
@@ -291,7 +297,7 @@ lua,luba-luluaština
 lui,luiseňo
 lun,lundština
 luo,luoština
-lus,lišáí
+lus,mizoština
 luy,luhja
 lv,lotyština
 mad,madurština
@@ -309,7 +315,8 @@ men,mende
 mer,meru
 mfe,mauricijská kreolština
 mg,malgaština
-mga,středoirština
+mga,irština (středověká)
+mgh,makhuwa-meetto
 mh,maršálština
 mi,maorština
 mic,micmac
@@ -317,7 +324,7 @@ min,minangkabau
 mis,různé jazyky
 mk,makedonština
 mkh,mon-khmerské jazyky
-ml,malabarština
+ml,malajálamština
 mn,mongolština
 mnc,mandžuština
 mni,manipurština
@@ -331,7 +338,7 @@ mt,maltština
 mua,mundang
 mul,složené (víceřádkové) jazyky
 mun,mundské jazyky
-mus,muskogee (creek)
+mus,kríkština
 mwl,mirandština
 mwr,márvárština
 my,barmština
@@ -342,6 +349,7 @@ na,naurština
 nah,nahuatl
 nai,severoamerické indiánské jazyky
 nap,neapolština
+naq,nama
 nb,norština (bokmål)
 nd,ndebele (Zimbabwe)
 nds,dolnoněmčina
@@ -353,6 +361,7 @@ nic,nigero-kordofánské jazyky
 niu,niueština
 nl,nizozemština
 nl_BE,vlámština
+nmg,kwasio
 nn,norština (nynorsk)
 nnh,ngiemboon
 no,norština
@@ -367,8 +376,8 @@ nv,navažština
 nwc,newarština (klasická)
 ny,ňandžština
 nym,ňamwežština
-nyn,nyankole
-nyo,nyorština
+nyn,ňankolština
+nyo,ňorština
 nzi,nzima
 oc,okcitánština
 oj,odžibvejština
@@ -398,8 +407,8 @@ pt,portugalština
 pt_PT,portugalština (Evropa)
 qu,kečuánština
 raj,rádžastánština
-rap,rapanuiština
-rar,rarotongaština
+rap,rapanujština
+rar,rarotongánština
 rm,rétorománština
 rn,kirundština
 ro,rumunština
@@ -408,7 +417,7 @@ rof,rombo
 rom,romština
 ru,ruština
 rup,arumunština
-rw,kinyarwandština
+rw,kiňarwandština
 rwk,rwa
 sa,sanskrt
 sad,sandawština
@@ -432,9 +441,10 @@ sel,selkupština
 sem,semitské jazyky
 ses,koyraboro senni
 sg,sangština
-sga,staroirština
+sga,irština (stará)
 sgn,znakové jazyky
 sh,srbochorvatština
+shi,tachelhit
 shn,šanština
 shu,arabština (čadská)
 si,sinhálština
@@ -454,7 +464,7 @@ sn,šonština
 snk,sonikština
 so,somálština
 sog,sogdština
-son,songhajština
+son,songajština
 sq,albánština
 sr,srbština
 srn,sranan tongo
@@ -493,6 +503,7 @@ tli,tlingit
 tmh,tamašek
 tn,setswanština
 to,tongánština
+tog,tonžština (nyasa)
 tpi,tok pisin
 tr,turečtina
 trv,taroko
@@ -504,9 +515,10 @@ tup,tupijské jazyky
 tut,altajské jazyky
 tvl,tuvalština
 tw,twi
+twq,tasawaq
 ty,tahitština
 tyv,tuvinština
-tzm,tamazight (Střední Maroko)
+tzm,tamazight (střední Maroko)
 udm,udmurtština
 ug,ujgurština
 uga,ugaritština
@@ -519,12 +531,13 @@ vai,vai
 ve,venda
 vi,vietnamština
 vo,volapuk
-vot,votiatština
+vot,votština
+vun,vunjo
 wa,valonština
 wae,němčina (walser)
 wak,wakašské jazyky
-wal,walamština
-war,waray
+wal,wolajtština
+war,warajština
 was,waština
 wen,lužickosrbské jazyky
 wo,wolofština
@@ -532,8 +545,8 @@ xal,kalmyčtina
 xh,xhoština
 xog,sogština
 yao,jaoština
-yap,yapese
-yav,yangben
+yap,japština
+yav,jangbenština
 ybb,yemba
 yi,jidiš
 yo,jorubština
@@ -543,6 +556,7 @@ za,čuangština
 zap,zapotéčtina
 zbl,bliss systém
 zen,zenaga
+zgh,tamazight (standardní marocký)
 zh,čínština
 zh_Hans,čínština (zjednodušená)
 znd,zandština

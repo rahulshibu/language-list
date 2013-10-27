@@ -93,6 +93,10 @@
     <name>арабська</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>сучасна стандартна арабська</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>арамейська</name>
   </language>
@@ -473,12 +477,8 @@
     <name>німецька</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>німецька австрійська</name>
-  </language>
-  <language>
     <code>de_CH</code>
-    <name>верхньонімецька швейцарська</name>
+    <name>верхньонімецька (Швейцарія)</name>
   </language>
   <language>
     <code>del</code>
@@ -573,20 +573,8 @@
     <name>англійська</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>англійська австралійська</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>англійська канадська</name>
-  </language>
-  <language>
     <code>en_GB</code>
     <name>англійська британська</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>англійська США</name>
   </language>
   <language>
     <code>enm</code>
@@ -601,12 +589,8 @@
     <name>іспанська</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>латиноамериканська іспанська</name>
-  </language>
-  <language>
     <code>es_ES</code>
-    <name>іберійська іспанська</name>
+    <name>іспанська (Європа)</name>
   </language>
   <language>
     <code>et</code>
@@ -614,7 +598,7 @@
   </language>
   <language>
     <code>eu</code>
-    <name>басків</name>
+    <name>баскська</name>
   </language>
   <language>
     <code>ewo</code>
@@ -665,14 +649,6 @@
     <name>французька</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>французька канадська</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>французька швейцарська</name>
-  </language>
-  <language>
     <code>frm</code>
     <name>середньофранцузька</name>
   </language>
@@ -694,7 +670,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>фризька</name>
+    <name>західно-фризька</name>
   </language>
   <language>
     <code>ga</code>
@@ -1326,7 +1302,7 @@
   </language>
   <language>
     <code>ml</code>
-    <name>малайялам</name>
+    <name>малаялам</name>
   </language>
   <language>
     <code>mn</code>
@@ -1645,12 +1621,8 @@
     <name>португальська</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>португальська бразильська</name>
-  </language>
-  <language>
     <code>pt_PT</code>
-    <name>португальська іберійська</name>
+    <name>португальська (Європа)</name>
   </language>
   <language>
     <code>qu</code>
@@ -2006,7 +1978,7 @@
   </language>
   <language>
     <code>ti</code>
-    <name>тигріні</name>
+    <name>тигринья</name>
   </language>
   <language>
     <code>tig</code>
@@ -2046,7 +2018,7 @@
   </language>
   <language>
     <code>to</code>
-    <name>тонга</name>
+    <name>тонганська</name>
   </language>
   <language>
     <code>tog</code>
@@ -2221,6 +2193,10 @@
     <name>яп</name>
   </language>
   <language>
+    <code>yav</code>
+    <name>янгбен</name>
+  </language>
+  <language>
     <code>ybb</code>
     <name>ємба</name>
   </language>
@@ -2255,6 +2231,10 @@
   <language>
     <code>zen</code>
     <name>зенага</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>стандартна марокканська берберська</name>
   </language>
   <language>
     <code>zh</code>

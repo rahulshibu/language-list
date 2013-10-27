@@ -93,6 +93,10 @@
     <name>아랍어</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>현대 표준 아랍어</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>아람어</name>
   </language>
@@ -186,7 +190,7 @@
   </language>
   <language>
     <code>be</code>
-    <name>벨로루시어</name>
+    <name>벨라루스어</name>
   </language>
   <language>
     <code>bej</code>
@@ -471,10 +475,6 @@
   <language>
     <code>de</code>
     <name>독일어</name>
-  </language>
-  <language>
-    <code>de_AT</code>
-    <name>독일어 (오스트리아)</name>
   </language>
   <language>
     <code>de_CH</code>
@@ -954,7 +954,7 @@
   </language>
   <language>
     <code>ka</code>
-    <name>그루지야어</name>
+    <name>조지아어</name>
   </language>
   <language>
     <code>kaa</code>
@@ -1062,7 +1062,7 @@
   </language>
   <language>
     <code>kn</code>
-    <name>카나다어</name>
+    <name>칸나다어</name>
   </language>
   <language>
     <code>ko</code>
@@ -1286,7 +1286,7 @@
   </language>
   <language>
     <code>mg</code>
-    <name>마다가스카르어</name>
+    <name>말라가시어</name>
   </language>
   <language>
     <code>mga</code>
@@ -1638,7 +1638,7 @@
   </language>
   <language>
     <code>ps</code>
-    <name>파시토어 (푸시토)</name>
+    <name>파슈토어</name>
   </language>
   <language>
     <code>pt</code>
@@ -2259,6 +2259,10 @@
   <language>
     <code>zen</code>
     <name>제나가어</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>표준 모로코 타마제크어</name>
   </language>
   <language>
     <code>zh</code>

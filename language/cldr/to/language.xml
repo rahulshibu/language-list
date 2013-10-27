@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>lea fakaʻafāla</name>
+  </language>
+  <language>
     <code>ab</code>
-    <name>lea fakaʻapakasi</name>
+    <name>lea fakaʻapakasia</name>
+  </language>
+  <language>
+    <code>ace</code>
+    <name>lea fakaʻatisē</name>
+  </language>
+  <language>
+    <code>ach</code>
+    <name>lea fakaʻakoli</name>
+  </language>
+  <language>
+    <code>ada</code>
+    <name>lea fakaʻatangimē</name>
   </language>
   <language>
     <code>ady</code>
-    <name>lea fakaʻatike</name>
+    <name>lea fakaʻatikē</name>
+  </language>
+  <language>
+    <code>ae</code>
+    <name>lea fakaʻavesitani</name>
   </language>
   <language>
     <code>af</code>
@@ -14,7 +34,7 @@
   </language>
   <language>
     <code>agq</code>
-    <name>lea fakaʻakemi</name>
+    <name>lea fakaʻakihemi</name>
   </language>
   <language>
     <code>ain</code>
@@ -25,20 +45,60 @@
     <name>lea fakaʻakani</name>
   </language>
   <language>
+    <code>akk</code>
+    <name>lea fakaʻakatia</name>
+  </language>
+  <language>
+    <code>ale</code>
+    <name>lea fakaʻaleuti</name>
+  </language>
+  <language>
+    <code>alt</code>
+    <name>lea fakaʻalitai-tonga</name>
+  </language>
+  <language>
     <code>am</code>
-    <name>lea ʻameliki</name>
+    <name>lea fakaʻameliki</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>lea fakaʻalakoni</name>
+  </language>
+  <language>
+    <code>anp</code>
+    <name>lea fakaʻangika</name>
   </language>
   <language>
     <code>ar</code>
     <name>lea fakaʻalepea</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>lea fakaʻalepea (māmani)</name>
+  </language>
+  <language>
+    <code>arc</code>
+    <name>lea fakaʻalāmiti</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>lea fakamapuse</name>
+  </language>
+  <language>
+    <code>arp</code>
+    <name>lea fakaʻalapaho</name>
+  </language>
+  <language>
     <code>art</code>
     <name>lea faʻu</name>
   </language>
   <language>
+    <code>arw</code>
+    <name>lea fakaʻalauaki</name>
+  </language>
+  <language>
     <code>as</code>
-    <name>lea ʻasamisi</name>
+    <name>lea fakaʻasamia</name>
   </language>
   <language>
     <code>asa</code>
@@ -49,8 +109,16 @@
     <name>lea fakaʻasitūlia</name>
   </language>
   <language>
+    <code>aus</code>
+    <name>lea fakaʻaositelēlia</name>
+  </language>
+  <language>
     <code>av</code>
     <name>lea fakaʻavaliki</name>
+  </language>
+  <language>
+    <code>awa</code>
+    <name>lea fakaʻauati</name>
   </language>
   <language>
     <code>ay</code>
@@ -63,6 +131,14 @@
   <language>
     <code>ba</code>
     <name>lea fakapasikili</name>
+  </language>
+  <language>
+    <code>bal</code>
+    <name>lea fakapalusi</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>lea fakapali</name>
   </language>
   <language>
     <code>bas</code>
@@ -78,7 +154,11 @@
   </language>
   <language>
     <code>be</code>
-    <name>lea fakapelelusi</name>
+    <name>lea fakapelalusi</name>
+  </language>
+  <language>
+    <code>bej</code>
+    <name>lea fakapesa</name>
   </language>
   <language>
     <code>bem</code>
@@ -94,15 +174,35 @@
   </language>
   <language>
     <code>bg</code>
-    <name>lea fakapokalia</name>
+    <name>lea fakapulukalia</name>
+  </language>
+  <language>
+    <code>bh</code>
+    <name>lea fakapihali</name>
+  </language>
+  <language>
+    <code>bho</code>
+    <name>lea fakaposipuli</name>
   </language>
   <language>
     <code>bi</code>
     <name>lea fakapisilama</name>
   </language>
   <language>
+    <code>bik</code>
+    <name>lea fakapikoli</name>
+  </language>
+  <language>
+    <code>bin</code>
+    <name>lea fakapini</name>
+  </language>
+  <language>
     <code>bkm</code>
     <name>lea fakakome</name>
+  </language>
+  <language>
+    <code>bla</code>
+    <name>lea fakasikesikā</name>
   </language>
   <language>
     <code>bm</code>
@@ -110,15 +210,19 @@
   </language>
   <language>
     <code>bn</code>
-    <name>lea fakapengila</name>
+    <name>lea fakapengikali</name>
   </language>
   <language>
     <code>bo</code>
-    <name>lea fakataipeti</name>
+    <name>lea fakatipeti</name>
   </language>
   <language>
     <code>br</code>
     <name>lea fakapeletoni</name>
+  </language>
+  <language>
+    <code>bra</code>
+    <name>lea fakapalai</name>
   </language>
   <language>
     <code>brx</code>
@@ -133,8 +237,20 @@
     <name>lea fakaʻakōse</name>
   </language>
   <language>
+    <code>bua</code>
+    <name>lea puliati</name>
+  </language>
+  <language>
+    <code>bug</code>
+    <name>lea fakapukisi</name>
+  </language>
+  <language>
     <code>bum</code>
     <name>lea fakapulu</name>
+  </language>
+  <language>
+    <code>byn</code>
+    <name>lea fakapilini</name>
   </language>
   <language>
     <code>byv</code>
@@ -142,7 +258,23 @@
   </language>
   <language>
     <code>ca</code>
-    <name>lea fakaketalani</name>
+    <name>lea fakakatalani</name>
+  </language>
+  <language>
+    <code>cad</code>
+    <name>lea fakakato</name>
+  </language>
+  <language>
+    <code>car</code>
+    <name>lea fakakalipa</name>
+  </language>
+  <language>
+    <code>cay</code>
+    <name>lea fakakaiuka</name>
+  </language>
+  <language>
+    <code>cch</code>
+    <name>lea fakaʻatisami</name>
   </language>
   <language>
     <code>ce</code>
@@ -153,6 +285,10 @@
     <name>lea fakasepuano</name>
   </language>
   <language>
+    <code>cgg</code>
+    <name>lea fakakika</name>
+  </language>
+  <language>
     <code>ch</code>
     <name>lea fakakamolo</name>
   </language>
@@ -161,12 +297,68 @@
     <name>lea fakatūke</name>
   </language>
   <language>
+    <code>chm</code>
+    <name>lea fakamalī</name>
+  </language>
+  <language>
+    <code>chn</code>
+    <name>lea fakasinuki-takote</name>
+  </language>
+  <language>
+    <code>cho</code>
+    <name>lea fakasokitau</name>
+  </language>
+  <language>
+    <code>chp</code>
+    <name>lea fakasipeuiani</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>lea fakaselokī</name>
+  </language>
+  <language>
+    <code>chy</code>
+    <name>lea fakaseiene</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>lea fakakūtisi-solani</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>lea fakakōsika</name>
+  </language>
+  <language>
     <code>cop</code>
     <name>lea fakakopitika</name>
   </language>
   <language>
+    <code>cpe</code>
+    <name>lea takote-fakapilitānia</name>
+  </language>
+  <language>
+    <code>cr</code>
+    <name>lea fakakelī</name>
+  </language>
+  <language>
+    <code>crh</code>
+    <name>lea fakatoake-kilimea</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>lea fakaseki</name>
+  </language>
+  <language>
+    <code>csb</code>
+    <name>lea fakakasiupia</name>
+  </language>
+  <language>
+    <code>cu</code>
+    <name>lea fakasilavia fakasiasi</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>lea fakasuvasa</name>
   </language>
   <language>
     <code>cy</code>
@@ -177,16 +369,56 @@
     <name>lea fakatenimaʻake</name>
   </language>
   <language>
+    <code>dak</code>
+    <name>lea fakatakota</name>
+  </language>
+  <language>
+    <code>dar</code>
+    <name>lea fakatalakuā</name>
+  </language>
+  <language>
+    <code>dav</code>
+    <name>lea fakataita</name>
+  </language>
+  <language>
     <code>de</code>
     <name>lea fakasiamane</name>
   </language>
   <language>
     <code>de_AT</code>
-    <name>lea fakasiamani ʻaositulia</name>
+    <name>lea fakasiamane-ʻaositulia</name>
   </language>
   <language>
     <code>de_CH</code>
-    <name>lea fakasiamani suitisālani ma'olunga</name>
+    <name>lea fakasiamane-suisisālani ma'olunga</name>
+  </language>
+  <language>
+    <code>del</code>
+    <name>lea fakatelauale</name>
+  </language>
+  <language>
+    <code>den</code>
+    <name>lea fakasilave</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>lea fakatōkelipi</name>
+  </language>
+  <language>
+    <code>din</code>
+    <name>lea fakatingikā</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>lea fakatisāma</name>
+  </language>
+  <language>
+    <code>doi</code>
+    <name>lea fakatokili</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>lea fakasōpia-hifo</name>
   </language>
   <language>
     <code>dua</code>
@@ -199,6 +431,10 @@
   <language>
     <code>dyo</code>
     <name>lea fakaiola-fonī</name>
+  </language>
+  <language>
+    <code>dyu</code>
+    <name>lea fakatiula</name>
   </language>
   <language>
     <code>dz</code>
@@ -221,6 +457,10 @@
     <name>lea fakaʻisipitemuʻa</name>
   </language>
   <language>
+    <code>eka</code>
+    <name>lea fakaʻekaiuki</name>
+  </language>
+  <language>
     <code>el</code>
     <name>lea fakakalisi</name>
   </language>
@@ -230,11 +470,11 @@
   </language>
   <language>
     <code>en_AU</code>
-    <name>lea fakapālangi ʻaositelēlia</name>
+    <name>lea fakapālangi-ʻaositelēlia</name>
   </language>
   <language>
     <code>en_CA</code>
-    <name>lea fakapālangi kānata</name>
+    <name>lea fakapālangi-kānata</name>
   </language>
   <language>
     <code>en_GB</code>
@@ -242,7 +482,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>lea fakapālangi ʻamelika</name>
+    <name>lea fakapālangi-ʻamelika</name>
   </language>
   <language>
     <code>eo</code>
@@ -254,11 +494,15 @@
   </language>
   <language>
     <code>es_419</code>
-    <name>lea fakasipēnisi lātini ʻamelika</name>
+    <name>lea fakasipēnisi lātini-ʻamelika</name>
   </language>
   <language>
     <code>es_ES</code>
-    <name>lea fakasipēnisi ʻaipilieni</name>
+    <name>lea fakasipēnisi-'iulope</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>lea fakasipēnisi-mekisikou</name>
   </language>
   <language>
     <code>et</code>
@@ -266,7 +510,7 @@
   </language>
   <language>
     <code>eu</code>
-    <name>lea pasiki</name>
+    <name>lea fakapāsiki</name>
   </language>
   <language>
     <code>ewo</code>
@@ -293,6 +537,10 @@
     <name>lea fakafilipaini</name>
   </language>
   <language>
+    <code>fiu</code>
+    <name>lea fakafino-ʻūkilia</name>
+  </language>
+  <language>
     <code>fj</code>
     <name>lea fakafisi</name>
   </language>
@@ -301,16 +549,32 @@
     <name>lea fakafaloe</name>
   </language>
   <language>
+    <code>fon</code>
+    <name>lea fakafōngi</name>
+  </language>
+  <language>
     <code>fr</code>
     <name>lea fakafalanisē</name>
   </language>
   <language>
     <code>fr_CA</code>
-    <name>lea fakafalanisē kānata</name>
+    <name>lea fakafalanisē-kānata</name>
   </language>
   <language>
     <code>fr_CH</code>
-    <name>lea fakafalanisē suitisālani</name>
+    <name>lea fakafalanisē-suisisālani</name>
+  </language>
+  <language>
+    <code>frr</code>
+    <name>lea fakafilisia tokelau</name>
+  </language>
+  <language>
+    <code>frs</code>
+    <name>lea fakafilisia hahake</name>
+  </language>
+  <language>
+    <code>fur</code>
+    <name>lea fakafulilāni</name>
   </language>
   <language>
     <code>fy</code>
@@ -325,8 +589,20 @@
     <name>lea fakakā</name>
   </language>
   <language>
+    <code>gay</code>
+    <name>lea fakakaio</name>
+  </language>
+  <language>
+    <code>gba</code>
+    <name>lea fakakapaia</name>
+  </language>
+  <language>
     <code>gd</code>
     <name>lea fakakaeliki</name>
+  </language>
+  <language>
+    <code>gez</code>
+    <name>lea fakasiʻisi</name>
   </language>
   <language>
     <code>gil</code>
@@ -334,11 +610,27 @@
   </language>
   <language>
     <code>gl</code>
-    <name>lea kalisieni</name>
+    <name>lea fakakalisia</name>
   </language>
   <language>
     <code>gn</code>
-    <name>lea kualani</name>
+    <name>lea fakakualani</name>
+  </language>
+  <language>
+    <code>gon</code>
+    <name>lea fakakonitī</name>
+  </language>
+  <language>
+    <code>gor</code>
+    <name>lea fakakolonitalo</name>
+  </language>
+  <language>
+    <code>got</code>
+    <name>lea fakakotika</name>
+  </language>
+  <language>
+    <code>grb</code>
+    <name>lea fakakēpo</name>
   </language>
   <language>
     <code>grc</code>
@@ -346,15 +638,31 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>lea fakasiamani suitisālani</name>
+    <name>lea fakasiamane-suisisālani</name>
   </language>
   <language>
     <code>gu</code>
-    <name>lea kutalati</name>
+    <name>lea fakakutalati</name>
+  </language>
+  <language>
+    <code>guz</code>
+    <name>lea fakakusī</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>lea fakamangikī</name>
+  </language>
+  <language>
+    <code>gwi</code>
+    <name>lea fakaʻuīsini</name>
   </language>
   <language>
     <code>ha</code>
-    <name>lea hausa</name>
+    <name>lea fakahausa</name>
+  </language>
+  <language>
+    <code>hai</code>
+    <name>lea fakahaita</name>
   </language>
   <language>
     <code>haw</code>
@@ -373,12 +681,24 @@
     <name>lea fakahilikainoni</name>
   </language>
   <language>
+    <code>hit</code>
+    <name>lea fakahitite</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>lea fakamōngi</name>
+  </language>
+  <language>
     <code>ho</code>
-    <name>lea fakahilimotu</name>
+    <name>lea fakahili-motu</name>
   </language>
   <language>
     <code>hr</code>
     <name>lea fakakuloisia</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>lea fakasōpia-hake</name>
   </language>
   <language>
     <code>ht</code>
@@ -386,11 +706,27 @@
   </language>
   <language>
     <code>hu</code>
-    <name>lea fakahangakalia</name>
+    <name>lea fakahungakalia</name>
+  </language>
+  <language>
+    <code>hup</code>
+    <name>lea fakahupa</name>
   </language>
   <language>
     <code>hy</code>
-    <name>lea fakaʻaminiume</name>
+    <name>lea fakaʻāmenia</name>
+  </language>
+  <language>
+    <code>hz</code>
+    <name>lea fakahelelo</name>
+  </language>
+  <language>
+    <code>ia</code>
+    <name>lea fakavahaʻalea</name>
+  </language>
+  <language>
+    <code>iba</code>
+    <name>lea fakaʻipani</name>
   </language>
   <language>
     <code>ibb</code>
@@ -402,7 +738,15 @@
   </language>
   <language>
     <code>ig</code>
-    <name>lea ʻikipō</name>
+    <name>lea fakaʻikipō</name>
+  </language>
+  <language>
+    <code>ii</code>
+    <name>lea fakasisiuani-ī</name>
+  </language>
+  <language>
+    <code>ik</code>
+    <name>lea fakaʻinupiaki</name>
   </language>
   <language>
     <code>ilo</code>
@@ -421,8 +765,28 @@
     <name>lea fakaʻītali</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>lea fakaʻinuketituti</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>lea fakasiapani</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>lea fakanikōmipa</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>lea fakamasame</name>
+  </language>
+  <language>
+    <code>jpr</code>
+    <name>lea fakaʻiuteo-pēsia</name>
+  </language>
+  <language>
+    <code>jrb</code>
+    <name>lea fakaʻiuteo-ʻalepea</name>
   </language>
   <language>
     <code>jv</code>
@@ -430,11 +794,47 @@
   </language>
   <language>
     <code>ka</code>
-    <name>lea fakasōsia</name>
+    <name>lea fakaseōsia</name>
+  </language>
+  <language>
+    <code>kaa</code>
+    <name>lea fakakala-kalipaki</name>
+  </language>
+  <language>
+    <code>kab</code>
+    <name>lea fakakapile</name>
+  </language>
+  <language>
+    <code>kac</code>
+    <name>lea fakakasini</name>
+  </language>
+  <language>
+    <code>kaj</code>
+    <name>lea fakasisū</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>lea fakakamipa</name>
   </language>
   <language>
     <code>kbd</code>
     <name>lea fakakapālitia</name>
+  </language>
+  <language>
+    <code>kcg</code>
+    <name>lea fakatiapi</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>lea fakamakōnite</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>lea fakakapuvelitianu</name>
+  </language>
+  <language>
+    <code>kfo</code>
+    <name>lea fakakolo</name>
   </language>
   <language>
     <code>kg</code>
@@ -445,12 +845,20 @@
     <name>lea fakakāsi</name>
   </language>
   <language>
+    <code>khq</code>
+    <name>lea fakakoila-sīni</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>lea fakakikuiu</name>
+  </language>
+  <language>
     <code>kj</code>
     <name>lea fakakuaniama</name>
   </language>
   <language>
     <code>kk</code>
-    <name>lea fakakasakiteni</name>
+    <name>lea fakakasaki</name>
   </language>
   <language>
     <code>kkj</code>
@@ -461,12 +869,20 @@
     <name>lea fakakalaʻalisuti</name>
   </language>
   <language>
+    <code>kln</code>
+    <name>lea fakakalenisini</name>
+  </language>
+  <language>
     <code>km</code>
     <name>lea fakakemipōtia</name>
   </language>
   <language>
+    <code>kmb</code>
+    <name>lea fakakimipūnitu</name>
+  </language>
+  <language>
     <code>kn</code>
-    <name>lea kanata</name>
+    <name>lea fakakanata</name>
   </language>
   <language>
     <code>ko</code>
@@ -474,11 +890,15 @@
   </language>
   <language>
     <code>kok</code>
-    <name>lea fakakonikani</name>
+    <name>lea fakakonikanī</name>
   </language>
   <language>
     <code>kos</code>
-    <name>lea fakakosirae</name>
+    <name>lea fakakosilae</name>
+  </language>
+  <language>
+    <code>kpe</code>
+    <name>lea fakakepele</name>
   </language>
   <language>
     <code>kr</code>
@@ -493,36 +913,68 @@
     <name>lea fakakalelia</name>
   </language>
   <language>
+    <code>kru</code>
+    <name>lea fakakuluki</name>
+  </language>
+  <language>
     <code>ks</code>
     <name>lea fakakesimia</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>lea fakasiamipala</name>
   </language>
   <language>
     <code>ksf</code>
     <name>lea fakapafia</name>
   </language>
   <language>
+    <code>ksh</code>
+    <name>lea fakakolongia</name>
+  </language>
+  <language>
     <code>ku</code>
-    <name>lea kētisi</name>
+    <name>lea fakakētisi</name>
   </language>
   <language>
     <code>kum</code>
     <name>lea fakakumiki</name>
   </language>
   <language>
+    <code>kut</code>
+    <name>lea fakakutenai</name>
+  </language>
+  <language>
     <code>kv</code>
     <name>lea fakakomi</name>
   </language>
   <language>
+    <code>kw</code>
+    <name>lea fakakoniuali</name>
+  </language>
+  <language>
     <code>ky</code>
-    <name>lea fakakekisiteni</name>
+    <name>lea fakakiataisi</name>
   </language>
   <language>
     <code>la</code>
     <name>lea fakalatina</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>lea fakalatino</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>lea fakalangi</name>
+  </language>
+  <language>
     <code>lah</code>
     <name>lea lanita</name>
+  </language>
+  <language>
+    <code>lam</code>
+    <name>lea fakalamipā</name>
   </language>
   <language>
     <code>lb</code>
@@ -533,6 +985,14 @@
     <name>lea fakalesikia</name>
   </language>
   <language>
+    <code>lg</code>
+    <name>lea fakakanita</name>
+  </language>
+  <language>
+    <code>li</code>
+    <name>lea fakalimipūliki</name>
+  </language>
+  <language>
     <code>ln</code>
     <name>lea lingikala</name>
   </language>
@@ -541,8 +1001,16 @@
     <name>lea fakalau</name>
   </language>
   <language>
+    <code>lol</code>
+    <name>lea fakamongikō</name>
+  </language>
+  <language>
+    <code>loz</code>
+    <name>lea fakalosi</name>
+  </language>
+  <language>
     <code>lt</code>
-    <name>lea fakalifiuenia</name>
+    <name>lea fakalituania</name>
   </language>
   <language>
     <code>lu</code>
@@ -553,6 +1021,22 @@
     <name>lea fakalupa-lulua</name>
   </language>
   <language>
+    <code>lui</code>
+    <name>lea fakaluiseno</name>
+  </language>
+  <language>
+    <code>lun</code>
+    <name>lea fakalunitā</name>
+  </language>
+  <language>
+    <code>luo</code>
+    <name>lea fakaluo</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>lea fakamiso</name>
+  </language>
+  <language>
     <code>luy</code>
     <name>lea fakaluīa</name>
   </language>
@@ -561,24 +1045,68 @@
     <name>lea fakalativia</name>
   </language>
   <language>
+    <code>mad</code>
+    <name>lea fakamatula</name>
+  </language>
+  <language>
     <code>maf</code>
     <name>lea fakamafa</name>
   </language>
   <language>
+    <code>mag</code>
+    <name>lea fakamakahi</name>
+  </language>
+  <language>
     <code>mai</code>
-    <name>mea fakamaitili</name>
+    <name>lea fakamaitili</name>
+  </language>
+  <language>
+    <code>mak</code>
+    <name>lea fakamakasali</name>
+  </language>
+  <language>
+    <code>man</code>
+    <name>lea fakamanitīngiko</name>
+  </language>
+  <language>
+    <code>map</code>
+    <name>lea fakaʻaositelēliamotu</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>lea fakamasai</name>
   </language>
   <language>
     <code>mdf</code>
-    <name>lea fakamokisā</name>
+    <name>lea fakamokisiā</name>
+  </language>
+  <language>
+    <code>mdr</code>
+    <name>lea fakamanetali</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>lea fakamenetī</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>lea fakamelu</name>
+  </language>
+  <language>
+    <code>mfe</code>
+    <name>lea fakamolisieni</name>
   </language>
   <language>
     <code>mg</code>
-    <name>lea fakamatakasika</name>
+    <name>lea fakamalakasi</name>
   </language>
   <language>
     <code>mgh</code>
     <name>lea fakamakūa-meʻeto</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>lea fakameta</name>
   </language>
   <language>
     <code>mh</code>
@@ -587,6 +1115,14 @@
   <language>
     <code>mi</code>
     <name>lea fakamauli</name>
+  </language>
+  <language>
+    <code>mic</code>
+    <name>lea fakamikemaki</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>lea fakaminangikapau</name>
   </language>
   <language>
     <code>mis</code>
@@ -598,15 +1134,35 @@
   </language>
   <language>
     <code>ml</code>
-    <name>lea fakaʻinitia malāialemi</name>
+    <name>lea fakaʻinitia-malāialami</name>
   </language>
   <language>
     <code>mn</code>
     <name>lea fakamongokōlia</name>
   </language>
   <language>
+    <code>mnc</code>
+    <name>lea fakamanisū</name>
+  </language>
+  <language>
+    <code>mni</code>
+    <name>lea fakamanipuli</name>
+  </language>
+  <language>
+    <code>mo</code>
+    <name>lea fakamolitāvia</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>lea fakamohauki</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>lea fakamosi</name>
+  </language>
+  <language>
     <code>mr</code>
-    <name>lea malati</name>
+    <name>lea fakamalati</name>
   </language>
   <language>
     <code>ms</code>
@@ -625,6 +1181,18 @@
     <name>lea tuifio</name>
   </language>
   <language>
+    <code>mus</code>
+    <name>lea fakakileki</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>lea fakamilanitēsi</name>
+  </language>
+  <language>
+    <code>mwr</code>
+    <name>lea fakamaliwali</name>
+  </language>
+  <language>
     <code>my</code>
     <name>lea fakapema</name>
   </language>
@@ -641,16 +1209,40 @@
     <name>lea fakanaulu</name>
   </language>
   <language>
+    <code>nap</code>
+    <name>lea fakanapoletano</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>lea fakanama</name>
+  </language>
+  <language>
     <code>nb</code>
-    <name>lea fakanouei pokimali</name>
+    <name>lea fakanouaē-pokimali</name>
   </language>
   <language>
     <code>nd</code>
     <name>lea netepele fakatokelau</name>
   </language>
   <language>
+    <code>nds</code>
+    <name>lea fakasiamane-hifo</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>lea fakanepali</name>
+  </language>
+  <language>
+    <code>new</code>
+    <name>lea fakanewali</name>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>lea fakanetongikā</name>
+  </language>
+  <language>
+    <code>nia</code>
+    <name>lea fakaniasi</name>
   </language>
   <language>
     <code>niu</code>
@@ -662,7 +1254,7 @@
   </language>
   <language>
     <code>nl_BE</code>
-    <name>lea fakahōlani pelesiume</name>
+    <name>lea fakahōlani-pelesiume</name>
   </language>
   <language>
     <code>nmg</code>
@@ -670,7 +1262,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>lea fakanouei nosiki</name>
+    <name>lea fakanoauē-ninosiki</name>
   </language>
   <language>
     <code>nnh</code>
@@ -685,8 +1277,12 @@
     <name>lea fakanokai</name>
   </language>
   <language>
+    <code>nqo</code>
+    <name>lea fakanikō</name>
+  </language>
+  <language>
     <code>nr</code>
-    <name>lea fakanetepele fakatonga</name>
+    <name>lea fakanetepele-tonga</name>
   </language>
   <language>
     <code>nso</code>
@@ -697,20 +1293,56 @@
     <name>lea fakanueli</name>
   </language>
   <language>
+    <code>nv</code>
+    <name>lea fakanavaho</name>
+  </language>
+  <language>
     <code>ny</code>
     <name>lea sua</name>
   </language>
   <language>
+    <code>nym</code>
+    <name>lea fakaniamiuesi</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>lea fakanianikole</name>
+  </language>
+  <language>
+    <code>nyo</code>
+    <name>lea fakaniolo</name>
+  </language>
+  <language>
+    <code>nzi</code>
+    <name>lea fakanesima</name>
+  </language>
+  <language>
+    <code>oc</code>
+    <name>lea fakaʻokitane</name>
+  </language>
+  <language>
+    <code>oj</code>
+    <name>lea fakaʻosipiuā</name>
+  </language>
+  <language>
+    <code>om</code>
+    <name>lea fakaʻolomo</name>
+  </language>
+  <language>
     <code>or</code>
-    <name>lea fakaʻinitia ʻolāea</name>
+    <name>lea fakaʻinitia-ʻolāea</name>
   </language>
   <language>
     <code>os</code>
     <name>lea ʻosetiki</name>
   </language>
   <language>
+    <code>osa</code>
+    <name>lea fakaʻosēse</name>
+  </language>
+  <language>
     <code>pa</code>
-    <name>lea punusapi</name>
+    <name>lea fakapūnusapi</name>
   </language>
   <language>
     <code>pag</code>
@@ -721,12 +1353,28 @@
     <name>lea fakapālavi</name>
   </language>
   <language>
+    <code>pam</code>
+    <name>lea fakapamipanga</name>
+  </language>
+  <language>
     <code>pap</code>
     <name>lea fakapapiamēnito</name>
   </language>
   <language>
     <code>pau</code>
     <name>lea fakapalau</name>
+  </language>
+  <language>
+    <code>peo</code>
+    <name>lea fakapēsia motuʻa</name>
+  </language>
+  <language>
+    <code>phn</code>
+    <name>lea fakafoinikia</name>
+  </language>
+  <language>
+    <code>pi</code>
+    <name>lea fakapāli</name>
   </language>
   <language>
     <code>pl</code>
@@ -737,8 +1385,12 @@
     <name>lea fakaponapē</name>
   </language>
   <language>
+    <code>pra</code>
+    <name>lea fakapalakiliti</name>
+  </language>
+  <language>
     <code>ps</code>
-    <name>lea pasito</name>
+    <name>lea fakapasitō</name>
   </language>
   <language>
     <code>pt</code>
@@ -750,11 +1402,15 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>lea fakapotukali ʻaipilieni</name>
+    <name>lea fakapotukali-ʻeulope</name>
   </language>
   <language>
     <code>qu</code>
-    <name>lea kuetisa</name>
+    <name>lea fakakuetisa</name>
+  </language>
+  <language>
+    <code>raj</code>
+    <name>lea fakalasasitani</name>
   </language>
   <language>
     <code>rap</code>
@@ -766,7 +1422,7 @@
   </language>
   <language>
     <code>rm</code>
-    <name>lea laito-lomēnia</name>
+    <name>lea fakalaito-lomēnia</name>
   </language>
   <language>
     <code>rn</code>
@@ -781,8 +1437,16 @@
     <name>lea fakalomipō</name>
   </language>
   <language>
+    <code>rom</code>
+    <name>lea fakalomani</name>
+  </language>
+  <language>
     <code>ru</code>
     <name>lea fakalūsia</name>
+  </language>
+  <language>
+    <code>rup</code>
+    <name>lea fakaʻalomania</name>
   </language>
   <language>
     <code>rw</code>
@@ -794,11 +1458,27 @@
   </language>
   <language>
     <code>sa</code>
-    <name>lea sanisukuliti</name>
+    <name>lea fakasanisukuliti</name>
+  </language>
+  <language>
+    <code>sad</code>
+    <name>lea fakasanitaue</name>
   </language>
   <language>
     <code>sah</code>
     <name>lea fakasaka</name>
+  </language>
+  <language>
+    <code>sam</code>
+    <name>lea fakasamalitani-ʻalāmiti</name>
+  </language>
+  <language>
+    <code>saq</code>
+    <name>lea fakasamipulu</name>
+  </language>
+  <language>
+    <code>sas</code>
+    <name>lea fakasasaki</name>
   </language>
   <language>
     <code>sat</code>
@@ -809,20 +1489,48 @@
     <name>lea fakasangu</name>
   </language>
   <language>
+    <code>sc</code>
+    <name>lea fakasaletīnia</name>
+  </language>
+  <language>
+    <code>scn</code>
+    <name>lea fakasisīlia</name>
+  </language>
+  <language>
     <code>sco</code>
     <name>lea fakasikotilani</name>
   </language>
   <language>
     <code>sd</code>
-    <name>lea siniti</name>
+    <name>lea fakasīniti</name>
   </language>
   <language>
     <code>se</code>
     <name>lea sami fakatokelau</name>
   </language>
   <language>
+    <code>see</code>
+    <name>lea fakaseneka</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>lea fakasena</name>
+  </language>
+  <language>
+    <code>sel</code>
+    <name>lea fakaselikupi</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>lea fakakoilapolo-seni</name>
+  </language>
+  <language>
     <code>sg</code>
     <name>lea sango</name>
+  </language>
+  <language>
+    <code>sga</code>
+    <name>lea fakaʻaelani-motuʻa</name>
   </language>
   <language>
     <code>sgn</code>
@@ -833,8 +1541,20 @@
     <name>lea sēpia-kuloisia</name>
   </language>
   <language>
+    <code>shi</code>
+    <name>lea fakataselihiti</name>
+  </language>
+  <language>
+    <code>shn</code>
+    <name>lea fakasiani</name>
+  </language>
+  <language>
     <code>si</code>
-    <name>lea fakaselengika</name>
+    <name>lea fakasingihala</name>
+  </language>
+  <language>
+    <code>sid</code>
+    <name>lea fakasitamo</name>
   </language>
   <language>
     <code>sk</code>
@@ -850,7 +1570,7 @@
   </language>
   <language>
     <code>sma</code>
-    <name>lea fakasami fakatonga</name>
+    <name>lea fakasami-tonga</name>
   </language>
   <language>
     <code>smi</code>
@@ -873,8 +1593,16 @@
     <name>lea sona</name>
   </language>
   <language>
+    <code>snk</code>
+    <name>lea fakasoninekē</name>
+  </language>
+  <language>
     <code>so</code>
     <name>lea fakasomali</name>
+  </language>
+  <language>
+    <code>son</code>
+    <name>lea fakasongai</name>
   </language>
   <language>
     <code>sq</code>
@@ -885,8 +1613,20 @@
     <name>lea fakasēpia</name>
   </language>
   <language>
+    <code>srn</code>
+    <name>lea fakasuranane-tongikō</name>
+  </language>
+  <language>
+    <code>srr</code>
+    <name>lea fakasēlēle</name>
+  </language>
+  <language>
     <code>ss</code>
     <name>lea fakasuasilani</name>
+  </language>
+  <language>
+    <code>ssy</code>
+    <name>lea fakasaho</name>
   </language>
   <language>
     <code>st</code>
@@ -894,27 +1634,59 @@
   </language>
   <language>
     <code>su</code>
-    <name>lea sanita</name>
+    <name>lea fakasunitā</name>
+  </language>
+  <language>
+    <code>suk</code>
+    <name>lea fakasukuma</name>
+  </language>
+  <language>
+    <code>sus</code>
+    <name>lea fakasusū</name>
   </language>
   <language>
     <code>sv</code>
-    <name>lea fakasueteni</name>
+    <name>lea fakasuēteni</name>
   </language>
   <language>
     <code>sw</code>
-    <name>lea suahile</name>
+    <name>lea fakasuahili</name>
   </language>
   <language>
     <code>swb</code>
     <name>lea fakakomolo</name>
   </language>
   <language>
+    <code>swc</code>
+    <name>lea fakakongo suahilī</name>
+  </language>
+  <language>
+    <code>syc</code>
+    <name>lea fakasailiakimuʻa</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>lea fakasuliāiā</name>
+  </language>
+  <language>
     <code>ta</code>
-    <name>lea fakatemole</name>
+    <name>lea fakatamili</name>
   </language>
   <language>
     <code>te</code>
-    <name>lea fakaʻinitia teluku</name>
+    <name>lea fakaʻinitia-teluku</name>
+  </language>
+  <language>
+    <code>tem</code>
+    <name>lea fakatimenē</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>lea fakateso</name>
+  </language>
+  <language>
+    <code>ter</code>
+    <name>lea fakateleno</name>
   </language>
   <language>
     <code>tet</code>
@@ -922,7 +1694,7 @@
   </language>
   <language>
     <code>tg</code>
-    <name>lea fakatetiki</name>
+    <name>lea fakatāsiki</name>
   </language>
   <language>
     <code>th</code>
@@ -930,11 +1702,19 @@
   </language>
   <language>
     <code>ti</code>
-    <name>lea fakatikilina</name>
+    <name>lea fakatikilinia</name>
+  </language>
+  <language>
+    <code>tig</code>
+    <name>lea fakatikilīnia</name>
+  </language>
+  <language>
+    <code>tiv</code>
+    <name>lea fakativi</name>
   </language>
   <language>
     <code>tk</code>
-    <name>lea tekimeni</name>
+    <name>lea fakatēkimeni</name>
   </language>
   <language>
     <code>tkl</code>
@@ -945,12 +1725,28 @@
     <name>lea fakatekaloka</name>
   </language>
   <language>
+    <code>tlh</code>
+    <name>lea fakatilingoni</name>
+  </language>
+  <language>
+    <code>tli</code>
+    <name>lea fakalingikīte</name>
+  </language>
+  <language>
+    <code>tmh</code>
+    <name>lea fakatamasieki</name>
+  </language>
+  <language>
     <code>tn</code>
     <name>lea suana</name>
   </language>
   <language>
     <code>to</code>
     <name>lea fakatonga</name>
+  </language>
+  <language>
+    <code>tog</code>
+    <name>lea fakaniasa-tonga</name>
   </language>
   <language>
     <code>tpi</code>
@@ -961,12 +1757,28 @@
     <name>lea fakatoake</name>
   </language>
   <language>
+    <code>trv</code>
+    <name>lea fakataloko</name>
+  </language>
+  <language>
     <code>ts</code>
     <name>lea songa</name>
   </language>
   <language>
+    <code>tsi</code>
+    <name>lea fakatisīmisiani</name>
+  </language>
+  <language>
     <code>tt</code>
     <name>lea fakatatale</name>
+  </language>
+  <language>
+    <code>tum</code>
+    <name>lea fakatumepuka</name>
+  </language>
+  <language>
+    <code>tut</code>
+    <name>lea fakaʻalitai</name>
   </language>
   <language>
     <code>tvl</code>
@@ -985,16 +1797,28 @@
     <name>lea fakatuvīnia</name>
   </language>
   <language>
+    <code>tzm</code>
+    <name>lea fakatamasaiti ʻatilasi-loloto</name>
+  </language>
+  <language>
     <code>udm</code>
     <name>lea fakaʻutimuliti</name>
   </language>
   <language>
     <code>ug</code>
-    <name>lea fakaʻuika</name>
+    <name>lea fakaʻuikūli</name>
+  </language>
+  <language>
+    <code>uga</code>
+    <name>lea fakaʻūkaliti</name>
   </language>
   <language>
     <code>uk</code>
     <name>lea fakaʻiukālia</name>
+  </language>
+  <language>
+    <code>umb</code>
+    <name>lea fakaʻumipūnitu</name>
   </language>
   <language>
     <code>und</code>
@@ -1021,20 +1845,60 @@
     <name>lea fakavietinemi</name>
   </language>
   <language>
+    <code>vo</code>
+    <name>lea fakavolapiki</name>
+  </language>
+  <language>
+    <code>vot</code>
+    <name>lea fakavotiki</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>lea fakavūniso</name>
+  </language>
+  <language>
+    <code>wa</code>
+    <name>lea fakaʻualonia</name>
+  </language>
+  <language>
     <code>wae</code>
     <name>lea fakaʻualiseli</name>
+  </language>
+  <language>
+    <code>wak</code>
+    <name>lea fakaʻuasiani</name>
+  </language>
+  <language>
+    <code>wal</code>
+    <name>lea fakaʻuolaita</name>
   </language>
   <language>
     <code>war</code>
     <name>lea fakaʻualai</name>
   </language>
   <language>
+    <code>was</code>
+    <name>lea fakaʻuasiō</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>lea fakaʻuolofo</name>
   </language>
   <language>
+    <code>xal</code>
+    <name>lea fakakalimiki</name>
+  </language>
+  <language>
     <code>xh</code>
     <name>lea fakatōsa</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>lea fakasoka</name>
+  </language>
+  <language>
+    <code>yao</code>
+    <name>lea fakaʻiao</name>
   </language>
   <language>
     <code>yap</code>
@@ -1049,6 +1913,10 @@
     <name>lea fakaʻiēmipa</name>
   </language>
   <language>
+    <code>yi</code>
+    <name>lea fakaītisi</name>
+  </language>
+  <language>
     <code>yo</code>
     <name>lea fakaʻiōlupa</name>
   </language>
@@ -1061,23 +1929,43 @@
     <name>lea fakasuangi</name>
   </language>
   <language>
+    <code>zap</code>
+    <name>lea fakasapoteki</name>
+  </language>
+  <language>
+    <code>zen</code>
+    <name>lea fakasenaka</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>lea fakatamasaiti moloko</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>lea fakasiaina</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>lea fakasiaina fakangofua</name>
+    <name>lea fakasiaina-fakafaingofua</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>lea fakasiaina tukufakaholo</name>
+    <name>lea fakasiaina-tukufakaholo</name>
   </language>
   <language>
     <code>zu</code>
     <name>lea fakasulu</name>
   </language>
   <language>
+    <code>zun</code>
+    <name>lea fakasuni</name>
+  </language>
+  <language>
     <code>zxx</code>
     <name>ʻikai ha lea</name>
+  </language>
+  <language>
+    <code>zza</code>
+    <name>lea fakasāsā</name>
   </language>
 </languages>

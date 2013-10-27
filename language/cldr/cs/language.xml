@@ -93,6 +93,10 @@
     <name>arabština</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>arabština (moderní standardní)</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>aramejština</name>
   </language>
@@ -231,6 +235,10 @@
   <language>
     <code>bin</code>
     <name>bini</name>
+  </language>
+  <language>
+    <code>bkm</code>
+    <name>kom</name>
   </language>
   <language>
     <code>bla</code>
@@ -478,7 +486,7 @@
   </language>
   <language>
     <code>den</code>
-    <name>slave</name>
+    <name>slejvština (athabaský jazyk)</name>
   </language>
   <language>
     <code>dgr</code>
@@ -510,11 +518,11 @@
   </language>
   <language>
     <code>dum</code>
-    <name>středoholandština</name>
+    <name>holandština (středověká)</name>
   </language>
   <language>
     <code>dv</code>
-    <name>divehi</name>
+    <name>maledivština</name>
   </language>
   <language>
     <code>dyo</code>
@@ -570,7 +578,7 @@
   </language>
   <language>
     <code>enm</code>
-    <name>středověká angličtina</name>
+    <name>angličtina (středověká)</name>
   </language>
   <language>
     <code>eo</code>
@@ -610,7 +618,7 @@
   </language>
   <language>
     <code>ff</code>
-    <name>fulahština</name>
+    <name>fulbština</name>
   </language>
   <language>
     <code>fi</code>
@@ -642,11 +650,11 @@
   </language>
   <language>
     <code>frm</code>
-    <name>středověká francouzština</name>
+    <name>francouzština (středověká)</name>
   </language>
   <language>
     <code>fro</code>
-    <name>starofrancouzština</name>
+    <name>francouzština (stará)</name>
   </language>
   <language>
     <code>frr</code>
@@ -658,7 +666,7 @@
   </language>
   <language>
     <code>fur</code>
-    <name>furlandština</name>
+    <name>furlanština</name>
   </language>
   <language>
     <code>fy</code>
@@ -774,7 +782,7 @@
   </language>
   <language>
     <code>hil</code>
-    <name>hiligaynonština</name>
+    <name>hiligajnonština</name>
   </language>
   <language>
     <code>him</code>
@@ -845,6 +853,10 @@
     <name>igboština</name>
   </language>
   <language>
+    <code>ii</code>
+    <name>s'-čchuan i</name>
+  </language>
+  <language>
     <code>ijo</code>
     <name>idžo</name>
   </language>
@@ -901,8 +913,12 @@
     <name>lojban</name>
   </language>
   <language>
+    <code>jgo</code>
+    <name>ngomba</name>
+  </language>
+  <language>
     <code>jmc</code>
-    <name>machame</name>
+    <name>mašame</name>
   </language>
   <language>
     <code>jpr</code>
@@ -989,6 +1005,10 @@
     <name>chotánština</name>
   </language>
   <language>
+    <code>khq</code>
+    <name>koyra chiini</name>
+  </language>
+  <language>
     <code>ki</code>
     <name>kikujština</name>
   </language>
@@ -1007,6 +1027,10 @@
   <language>
     <code>kl</code>
     <name>grónština</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>kalendžin</name>
   </language>
   <language>
     <code>km</code>
@@ -1070,7 +1094,7 @@
   </language>
   <language>
     <code>ksh</code>
-    <name>kölsch</name>
+    <name>kolínština</name>
   </language>
   <language>
     <code>ku</code>
@@ -1082,7 +1106,7 @@
   </language>
   <language>
     <code>kut</code>
-    <name>kutenai</name>
+    <name>kutenajština</name>
   </language>
   <language>
     <code>kv</code>
@@ -1174,7 +1198,7 @@
   </language>
   <language>
     <code>lus</code>
-    <name>lišáí</name>
+    <name>mizoština</name>
   </language>
   <language>
     <code>luy</code>
@@ -1246,7 +1270,11 @@
   </language>
   <language>
     <code>mga</code>
-    <name>středoirština</name>
+    <name>irština (středověká)</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>makhuwa-meetto</name>
   </language>
   <language>
     <code>mh</code>
@@ -1278,7 +1306,7 @@
   </language>
   <language>
     <code>ml</code>
-    <name>malabarština</name>
+    <name>malajálamština</name>
   </language>
   <language>
     <code>mn</code>
@@ -1334,7 +1362,7 @@
   </language>
   <language>
     <code>mus</code>
-    <name>muskogee (creek)</name>
+    <name>kríkština</name>
   </language>
   <language>
     <code>mwl</code>
@@ -1375,6 +1403,10 @@
   <language>
     <code>nap</code>
     <name>neapolština</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>nama</name>
   </language>
   <language>
     <code>nb</code>
@@ -1419,6 +1451,10 @@
   <language>
     <code>nl_BE</code>
     <name>vlámština</name>
+  </language>
+  <language>
+    <code>nmg</code>
+    <name>kwasio</name>
   </language>
   <language>
     <code>nn</code>
@@ -1478,11 +1514,11 @@
   </language>
   <language>
     <code>nyn</code>
-    <name>nyankole</name>
+    <name>ňankolština</name>
   </language>
   <language>
     <code>nyo</code>
-    <name>nyorština</name>
+    <name>ňorština</name>
   </language>
   <language>
     <code>nzi</code>
@@ -1602,11 +1638,11 @@
   </language>
   <language>
     <code>rap</code>
-    <name>rapanuiština</name>
+    <name>rapanujština</name>
   </language>
   <language>
     <code>rar</code>
-    <name>rarotongaština</name>
+    <name>rarotongánština</name>
   </language>
   <language>
     <code>rm</code>
@@ -1642,7 +1678,7 @@
   </language>
   <language>
     <code>rw</code>
-    <name>kinyarwandština</name>
+    <name>kiňarwandština</name>
   </language>
   <language>
     <code>rwk</code>
@@ -1738,7 +1774,7 @@
   </language>
   <language>
     <code>sga</code>
-    <name>staroirština</name>
+    <name>irština (stará)</name>
   </language>
   <language>
     <code>sgn</code>
@@ -1747,6 +1783,10 @@
   <language>
     <code>sh</code>
     <name>srbochorvatština</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>tachelhit</name>
   </language>
   <language>
     <code>shn</code>
@@ -1826,7 +1866,7 @@
   </language>
   <language>
     <code>son</code>
-    <name>songhajština</name>
+    <name>songajština</name>
   </language>
   <language>
     <code>sq</code>
@@ -1981,6 +2021,10 @@
     <name>tongánština</name>
   </language>
   <language>
+    <code>tog</code>
+    <name>tonžština (nyasa)</name>
+  </language>
+  <language>
     <code>tpi</code>
     <name>tok pisin</name>
   </language>
@@ -2025,6 +2069,10 @@
     <name>twi</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>tasawaq</name>
+  </language>
+  <language>
     <code>ty</code>
     <name>tahitština</name>
   </language>
@@ -2034,7 +2082,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>tamazight (Střední Maroko)</name>
+    <name>tamazight (střední Maroko)</name>
   </language>
   <language>
     <code>udm</code>
@@ -2086,7 +2134,11 @@
   </language>
   <language>
     <code>vot</code>
-    <name>votiatština</name>
+    <name>votština</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>vunjo</name>
   </language>
   <language>
     <code>wa</code>
@@ -2102,11 +2154,11 @@
   </language>
   <language>
     <code>wal</code>
-    <name>walamština</name>
+    <name>wolajtština</name>
   </language>
   <language>
     <code>war</code>
-    <name>waray</name>
+    <name>warajština</name>
   </language>
   <language>
     <code>was</code>
@@ -2138,11 +2190,11 @@
   </language>
   <language>
     <code>yap</code>
-    <name>yapese</name>
+    <name>japština</name>
   </language>
   <language>
     <code>yav</code>
-    <name>yangben</name>
+    <name>jangbenština</name>
   </language>
   <language>
     <code>ybb</code>
@@ -2179,6 +2231,10 @@
   <language>
     <code>zen</code>
     <name>zenaga</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>tamazight (standardní marocký)</name>
   </language>
   <language>
     <code>zh</code>

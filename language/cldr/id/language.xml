@@ -26,7 +26,7 @@
   </language>
   <language>
     <code>ae</code>
-    <name>Avestan</name>
+    <name>Avesta</name>
   </language>
   <language>
     <code>af</code>
@@ -91,6 +91,10 @@
   <language>
     <code>ar</code>
     <name>Arab</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>Arab Standar Modern</name>
   </language>
   <language>
     <code>arc</code>
@@ -218,7 +222,7 @@
   </language>
   <language>
     <code>bho</code>
-    <name>Bhojpur</name>
+    <name>Bhojpuri</name>
   </language>
   <language>
     <code>bi</code>
@@ -586,7 +590,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>Inggris A.S.</name>
+    <name>Inggris Amerika</name>
   </language>
   <language>
     <code>enm</code>
@@ -609,8 +613,12 @@
     <name>Spanyol Eropa</name>
   </language>
   <language>
+    <code>es_MX</code>
+    <name>Spanyol Meksiko</name>
+  </language>
+  <language>
     <code>et</code>
-    <name>Estonia</name>
+    <name>Esti</name>
   </language>
   <language>
     <code>eu</code>
@@ -1218,7 +1226,7 @@
   </language>
   <language>
     <code>lus</code>
-    <name>Lushai</name>
+    <name>Mizo</name>
   </language>
   <language>
     <code>luy</code>
@@ -1714,7 +1722,7 @@
   </language>
   <language>
     <code>sa</code>
-    <name>Sansekerta</name>
+    <name>Sanskerta</name>
   </language>
   <language>
     <code>sad</code>
@@ -2118,7 +2126,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>Uighur</name>
+    <name>Uyghur</name>
   </language>
   <language>
     <code>uga</code>
@@ -2259,6 +2267,10 @@
   <language>
     <code>zen</code>
     <name>Zenaga</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>Tamazight Maroko Standar</name>
   </language>
   <language>
     <code>zh</code>

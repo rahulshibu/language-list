@@ -15,12 +15,13 @@ akk: akkadian
 ale: aleutski
 alg: algonquian
 alt: "ju\u017Eni altai"
-am: amharik
+am: amharski
 an: aragonski
 ang: staroengleski
 anp: angika
 apa: "apa\u0161ki"
 ar: arapski
+ar_001: moderni standardni arapski
 arc: aramejski
 arn: araukanski
 arp: arapaho
@@ -141,16 +142,17 @@ eka: ekajuk
 el: "gr\u010Dki"
 elx: elamitski
 en: engleski
-en_AU: engleski (australski)
+en_AU: australski engleski
 en_CA: kanadski engleski
-en_GB: engleski (britanski)
-en_US: "engleski (ameri\u010Dki)"
+en_GB: britanski engleski
+en_US: "ameri\u010Dki engleski"
 enm: engleski, srednji
 eo: esperanto
 es: "\u0161panjolski"
-es_419: "\u0161panjolski (latinoameri\u010Dki)"
+es_419: "latinoameri\u010Dki \u0161panjolski"
 es_ES: "europski \u0161panjolski"
-et: estonijski
+es_MX: "meksi\u010Dki \u0161panjolski"
+et: estonski
 eu: baskijski
 ewo: ewondo
 fa: perzijski
@@ -161,7 +163,7 @@ fi: finski
 fil: filipino
 fiu: ugro-finski jezik
 fj: "fid\u017Eijski"
-fo: faroanski
+fo: ferojski
 fon: fon
 fr: francuski
 fr_CA: kanadski francuski
@@ -190,7 +192,7 @@ got: gothic
 grb: grebo
 grc: "starogr\u010Dki"
 gsw: "\u0161vicarski njema\u010Dki"
-gu: gujarati
+gu: "gud\u017Earatski"
 guz: gusii
 gv: manx
 gwi: gwich'in
@@ -296,7 +298,7 @@ ln: lingala
 lo: laoski
 lol: mongo
 loz: lozi
-lt: litvanski
+lt: litavski
 lu: luba-katanga
 lua: luba-lulua
 lui: luiseno
@@ -337,7 +339,7 @@ mno: manobo
 mo: moldavski
 moh: mohawk
 mos: mossi
-mr: marathi
+mr: marathski
 ms: malajski
 mt: "malte\u0161ki"
 mua: mundang
@@ -392,7 +394,7 @@ os: osetski
 osa: osage
 ota: turski - otomanski
 oto: otomijski
-pa: punjabi
+pa: "pand\u017Eapski"
 paa: papuanski
 pag: pangasinan
 pal: pahlavi
@@ -411,7 +413,7 @@ ps: "pa\u0161tu"
 pt: portugalski
 pt_BR: brazilski portugalski
 pt_PT: europski portugalski
-qu: quechua
+qu: "ke\u010Dua"
 raj: rajasthani
 rap: rapa nui
 rar: "raroton\u0161ki"
@@ -497,7 +499,7 @@ tem: temne
 teo: teso
 ter: tereno
 tet: tetum
-tg: tajik
+tg: "tad\u017Ei\u010Dki"
 th: tajlandski
 ti: tigrinya
 tig: "tigri\u0161ki"
@@ -563,6 +565,7 @@ za: zhuang
 zap: zapotec
 zbl: blissymbols
 zen: zenaga
+zgh: standardni marokanski tamazight
 zh: kineski
 zh_Hans: kineski (pojednostavljeni)
 zh_Hant: kineski (tradicionalni)

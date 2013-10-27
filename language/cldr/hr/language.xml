@@ -70,7 +70,7 @@
   </language>
   <language>
     <code>am</code>
-    <name>amharik</name>
+    <name>amharski</name>
   </language>
   <language>
     <code>an</code>
@@ -91,6 +91,10 @@
   <language>
     <code>ar</code>
     <name>arapski</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>moderni standardni arapski</name>
   </language>
   <language>
     <code>arc</code>
@@ -574,7 +578,7 @@
   </language>
   <language>
     <code>en_AU</code>
-    <name>engleski (australski)</name>
+    <name>australski engleski</name>
   </language>
   <language>
     <code>en_CA</code>
@@ -582,11 +586,11 @@
   </language>
   <language>
     <code>en_GB</code>
-    <name>engleski (britanski)</name>
+    <name>britanski engleski</name>
   </language>
   <language>
     <code>en_US</code>
-    <name>engleski (američki)</name>
+    <name>američki engleski</name>
   </language>
   <language>
     <code>enm</code>
@@ -602,15 +606,19 @@
   </language>
   <language>
     <code>es_419</code>
-    <name>španjolski (latinoamerički)</name>
+    <name>latinoamerički španjolski</name>
   </language>
   <language>
     <code>es_ES</code>
     <name>europski španjolski</name>
   </language>
   <language>
+    <code>es_MX</code>
+    <name>meksički španjolski</name>
+  </language>
+  <language>
     <code>et</code>
-    <name>estonijski</name>
+    <name>estonski</name>
   </language>
   <language>
     <code>eu</code>
@@ -654,7 +662,7 @@
   </language>
   <language>
     <code>fo</code>
-    <name>faroanski</name>
+    <name>ferojski</name>
   </language>
   <language>
     <code>fon</code>
@@ -770,7 +778,7 @@
   </language>
   <language>
     <code>gu</code>
-    <name>gujarati</name>
+    <name>gudžaratski</name>
   </language>
   <language>
     <code>guz</code>
@@ -1194,7 +1202,7 @@
   </language>
   <language>
     <code>lt</code>
-    <name>litvanski</name>
+    <name>litavski</name>
   </language>
   <language>
     <code>lu</code>
@@ -1358,7 +1366,7 @@
   </language>
   <language>
     <code>mr</code>
-    <name>marathi</name>
+    <name>marathski</name>
   </language>
   <language>
     <code>ms</code>
@@ -1578,7 +1586,7 @@
   </language>
   <language>
     <code>pa</code>
-    <name>punjabi</name>
+    <name>pandžapski</name>
   </language>
   <language>
     <code>paa</code>
@@ -1654,7 +1662,7 @@
   </language>
   <language>
     <code>qu</code>
-    <name>quechua</name>
+    <name>kečua</name>
   </language>
   <language>
     <code>raj</code>
@@ -1998,7 +2006,7 @@
   </language>
   <language>
     <code>tg</code>
-    <name>tajik</name>
+    <name>tadžički</name>
   </language>
   <language>
     <code>th</code>
@@ -2259,6 +2267,10 @@
   <language>
     <code>zen</code>
     <name>zenaga</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>standardni marokanski tamazight</name>
   </language>
   <language>
     <code>zh</code>

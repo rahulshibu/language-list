@@ -6,7 +6,7 @@
   </language>
   <language>
     <code>ab</code>
-    <name>абхазски</name>
+    <name>абхазки</name>
   </language>
   <language>
     <code>ace</code>
@@ -89,6 +89,10 @@
     <name>арабски</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>съвременен стандартен арабски</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>арамейски</name>
   </language>
@@ -138,7 +142,7 @@
   </language>
   <language>
     <code>az</code>
-    <name>азърбайджански</name>
+    <name>азербайджански</name>
   </language>
   <language>
     <code>ba</code>
@@ -334,7 +338,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>кюрдски [сорани]</name>
+    <name>кюрдски (сорани)</name>
   </language>
   <language>
     <code>cmc</code>
@@ -529,12 +533,8 @@
     <name>испански</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>латиноамерикански испански</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>иберийски испански</name>
+    <code>es_MX</code>
+    <name>мексикански испански</name>
   </language>
   <language>
     <code>et</code>
@@ -1018,7 +1018,7 @@
   </language>
   <language>
     <code>ky</code>
-    <name>киргизски</name>
+    <name>киргизки</name>
   </language>
   <language>
     <code>la</code>
@@ -1214,7 +1214,7 @@
   </language>
   <language>
     <code>mr</code>
-    <name>маратхи</name>
+    <name>марати</name>
   </language>
   <language>
     <code>ms</code>
@@ -1274,7 +1274,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>норвежки бокмал</name>
+    <name>норвежки букмол</name>
   </language>
   <language>
     <code>nd</code>
@@ -1310,7 +1310,7 @@
   </language>
   <language>
     <code>nl</code>
-    <name>холандски</name>
+    <name>нидерландски</name>
   </language>
   <language>
     <code>nl_BE</code>
@@ -1318,7 +1318,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>съвременен норвежки</name>
+    <name>норвежки нюнорск</name>
   </language>
   <language>
     <code>no</code>
@@ -1475,14 +1475,6 @@
   <language>
     <code>pt</code>
     <name>португалски</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>бразилски португалски</name>
-  </language>
-  <language>
-    <code>pt_PT</code>
-    <name>европейски португалски</name>
   </language>
   <language>
     <code>qu</code>
@@ -1782,7 +1774,7 @@
   </language>
   <language>
     <code>th</code>
-    <name>таи</name>
+    <name>тайски</name>
   </language>
   <language>
     <code>ti</code>
@@ -2007,6 +1999,10 @@
   <language>
     <code>zen</code>
     <name>зенага</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>стандартен марокански тамазигт</name>
   </language>
   <language>
     <code>zh</code>

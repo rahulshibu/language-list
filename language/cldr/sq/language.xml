@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>ab</code>
+    <name>Abkazisht</name>
+  </language>
+  <language>
     <code>af</code>
-    <name>Afrikanisht</name>
+    <name>Afrikane</name>
   </language>
   <language>
     <code>am</code>
-    <name>Amharike</name>
+    <name>Amarike</name>
   </language>
   <language>
     <code>ar</code>
     <name>Arabisht</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>Arabishte Standarde Moderne</name>
   </language>
   <language>
     <code>as</code>
@@ -18,7 +26,7 @@
   </language>
   <language>
     <code>az</code>
-    <name>Azerbajxhanisht</name>
+    <name>Azere</name>
   </language>
   <language>
     <code>be</code>
@@ -35,6 +43,10 @@
   <language>
     <code>bn</code>
     <name>Bengalisht</name>
+  </language>
+  <language>
+    <code>bo</code>
+    <name>Tibetiane</name>
   </language>
   <language>
     <code>br</code>
@@ -65,12 +77,20 @@
     <name>Gjermanisht</name>
   </language>
   <language>
+    <code>de_CH</code>
+    <name>Gjermanisht (Zvicër-Dialekti i Alpeve)</name>
+  </language>
+  <language>
     <code>el</code>
     <name>Greqisht</name>
   </language>
   <language>
     <code>en</code>
     <name>Anglisht</name>
+  </language>
+  <language>
+    <code>en_GB</code>
+    <name>Anglisht (Britani)</name>
   </language>
   <language>
     <code>eo</code>
@@ -81,12 +101,16 @@
     <name>Spanjisht</name>
   </language>
   <language>
+    <code>es_ES</code>
+    <name>Spanjisht (Europë)</name>
+  </language>
+  <language>
     <code>et</code>
     <name>Estonisht</name>
   </language>
   <language>
     <code>eu</code>
-    <name>Baskisht</name>
+    <name>Baske</name>
   </language>
   <language>
     <code>fa</code>
@@ -98,7 +122,11 @@
   </language>
   <language>
     <code>fil</code>
-    <name>Tagalogisht</name>
+    <name>Filipinase</name>
+  </language>
+  <language>
+    <code>fj</code>
+    <name>Fixhiane</name>
   </language>
   <language>
     <code>fo</code>
@@ -106,7 +134,7 @@
   </language>
   <language>
     <code>fr</code>
-    <name>Frengjisht</name>
+    <name>Frëngjisht</name>
   </language>
   <language>
     <code>fy</code>
@@ -122,15 +150,27 @@
   </language>
   <language>
     <code>gl</code>
-    <name>Galicianisht</name>
+    <name>Galike</name>
   </language>
   <language>
     <code>gn</code>
-    <name>Guarani</name>
+    <name>Guarane</name>
+  </language>
+  <language>
+    <code>gsw</code>
+    <name>Gjermanisht (Zvicër)</name>
   </language>
   <language>
     <code>gu</code>
-    <name>Guxharati</name>
+    <name>Guxharatisht</name>
+  </language>
+  <language>
+    <code>ha</code>
+    <name>Hausisht</name>
+  </language>
+  <language>
+    <code>haw</code>
+    <name>Havajane</name>
   </language>
   <language>
     <code>he</code>
@@ -138,11 +178,15 @@
   </language>
   <language>
     <code>hi</code>
-    <name>Hindi</name>
+    <name>Indisht</name>
   </language>
   <language>
     <code>hr</code>
     <name>Kroatisht</name>
+  </language>
+  <language>
+    <code>ht</code>
+    <name>Haitianshe</name>
   </language>
   <language>
     <code>hu</code>
@@ -150,7 +194,7 @@
   </language>
   <language>
     <code>hy</code>
-    <name>Armen</name>
+    <name>Armenisht</name>
   </language>
   <language>
     <code>ia</code>
@@ -165,6 +209,10 @@
     <name>Gjuha nderkombtare</name>
   </language>
   <language>
+    <code>ig</code>
+    <name>Igbe</name>
+  </language>
+  <language>
     <code>is</code>
     <name>Islandisht</name>
   </language>
@@ -174,7 +222,7 @@
   </language>
   <language>
     <code>ja</code>
-    <name>Japanisht</name>
+    <name>Japonisht</name>
   </language>
   <language>
     <code>jv</code>
@@ -185,8 +233,12 @@
     <name>Gjeorgjisht</name>
   </language>
   <language>
+    <code>kk</code>
+    <name>Kazake</name>
+  </language>
+  <language>
     <code>km</code>
-    <name>Kamboxhiane</name>
+    <name>Kmere (Kamboxhiane)</name>
   </language>
   <language>
     <code>kn</code>
@@ -194,19 +246,27 @@
   </language>
   <language>
     <code>ko</code>
-    <name>Koreançe</name>
+    <name>Koreanisht</name>
+  </language>
+  <language>
+    <code>ks</code>
+    <name>Kashmire</name>
   </language>
   <language>
     <code>ku</code>
-    <name>Kurd</name>
+    <name>Kurde</name>
   </language>
   <language>
     <code>ky</code>
-    <name>Kyrgyz</name>
+    <name>Kirgize</name>
   </language>
   <language>
     <code>la</code>
     <name>Latinisht</name>
+  </language>
+  <language>
+    <code>lb</code>
+    <name>Luksemburgase</name>
   </language>
   <language>
     <code>ln</code>
@@ -225,12 +285,20 @@
     <name>Letonisht</name>
   </language>
   <language>
+    <code>mg</code>
+    <name>Malageze</name>
+  </language>
+  <language>
+    <code>mi</code>
+    <name>Maorisht</name>
+  </language>
+  <language>
     <code>mk</code>
     <name>Maqedonisht</name>
   </language>
   <language>
     <code>ml</code>
-    <name>Malajalam</name>
+    <name>Malajalame</name>
   </language>
   <language>
     <code>mn</code>
@@ -238,15 +306,23 @@
   </language>
   <language>
     <code>mr</code>
-    <name>Marati</name>
+    <name>Maratisht</name>
   </language>
   <language>
     <code>ms</code>
-    <name>Malajzisht</name>
+    <name>Malajisht</name>
   </language>
   <language>
     <code>mt</code>
-    <name>Maltisht</name>
+    <name>Malteze</name>
+  </language>
+  <language>
+    <code>my</code>
+    <name>Birmanisht</name>
+  </language>
+  <language>
+    <code>nb</code>
+    <name>Bokmalisht (Norvegji)</name>
   </language>
   <language>
     <code>ne</code>
@@ -257,8 +333,12 @@
     <name>Holandisht</name>
   </language>
   <language>
+    <code>nl_BE</code>
+    <name>Fleminge</name>
+  </language>
+  <language>
     <code>nn</code>
-    <name>Norvegjisht (Nynorsk)</name>
+    <name>Ninorske (Norvegji)</name>
   </language>
   <language>
     <code>no</code>
@@ -270,11 +350,11 @@
   </language>
   <language>
     <code>or</code>
-    <name>Orija</name>
+    <name>Orije</name>
   </language>
   <language>
     <code>pa</code>
-    <name>Punxhabi</name>
+    <name>Panxhabe</name>
   </language>
   <language>
     <code>pl</code>
@@ -286,15 +366,19 @@
   </language>
   <language>
     <code>pt</code>
-    <name>Portugeze</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>Portugalisht (Brazil)</name>
+    <name>Portugalisht</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>Portugalisht (Portugali)</name>
+    <name>Portugalisht (Europë)</name>
+  </language>
+  <language>
+    <code>qu</code>
+    <name>Keçua</name>
+  </language>
+  <language>
+    <code>rm</code>
+    <name>Rome</name>
   </language>
   <language>
     <code>ro</code>
@@ -310,7 +394,7 @@
   </language>
   <language>
     <code>sd</code>
-    <name>Si'ndi</name>
+    <name>Sindi</name>
   </language>
   <language>
     <code>sh</code>
@@ -318,7 +402,7 @@
   </language>
   <language>
     <code>si</code>
-    <name>Sinhalezisht</name>
+    <name>Sinhale</name>
   </language>
   <language>
     <code>sk</code>
@@ -334,7 +418,7 @@
   </language>
   <language>
     <code>sq</code>
-    <name>shqip</name>
+    <name>Shqip</name>
   </language>
   <language>
     <code>sr</code>
@@ -354,15 +438,19 @@
   </language>
   <language>
     <code>sw</code>
-    <name>Suahilisht</name>
+    <name>Suahili</name>
   </language>
   <language>
     <code>ta</code>
-    <name>Tamil</name>
+    <name>Tamile</name>
   </language>
   <language>
     <code>te</code>
-    <name>Telugu</name>
+    <name>Teluge</name>
+  </language>
+  <language>
+    <code>tg</code>
+    <name>Taxhikisht</name>
   </language>
   <language>
     <code>th</code>
@@ -370,19 +458,27 @@
   </language>
   <language>
     <code>ti</code>
-    <name>Tigrinja</name>
+    <name>Tigrinje</name>
   </language>
   <language>
     <code>tk</code>
-    <name>Turk</name>
+    <name>Turkmenisht</name>
   </language>
   <language>
     <code>tlh</code>
     <name>Klingon</name>
   </language>
   <language>
+    <code>to</code>
+    <name>Tonganisht</name>
+  </language>
+  <language>
     <code>tr</code>
     <name>Turqisht</name>
+  </language>
+  <language>
+    <code>tt</code>
+    <name>Tatarisht</name>
   </language>
   <language>
     <code>tw</code>
@@ -390,11 +486,15 @@
   </language>
   <language>
     <code>ug</code>
-    <name>Ujgur</name>
+    <name>Ujgure</name>
   </language>
   <language>
     <code>uk</code>
     <name>Ukrainisht</name>
+  </language>
+  <language>
+    <code>und</code>
+    <name>E panjohur</name>
   </language>
   <language>
     <code>ur</code>
@@ -402,26 +502,50 @@
   </language>
   <language>
     <code>uz</code>
-    <name>Uzbekistanisht</name>
+    <name>Uzbeke</name>
   </language>
   <language>
     <code>vi</code>
     <name>Vietnamisht</name>
   </language>
   <language>
+    <code>wo</code>
+    <name>Ulufisht</name>
+  </language>
+  <language>
     <code>xh</code>
-    <name>Xhosa</name>
+    <name>Xhose</name>
   </language>
   <language>
     <code>yi</code>
     <name>Jiden</name>
   </language>
   <language>
+    <code>yo</code>
+    <name>Jorubisht</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>Tamazishte Standarde Marokene</name>
+  </language>
+  <language>
     <code>zh</code>
-    <name>Kineze</name>
+    <name>Kinezisht</name>
+  </language>
+  <language>
+    <code>zh_Hans</code>
+    <name>Kinezçe e Thjeshtuar</name>
+  </language>
+  <language>
+    <code>zh_Hant</code>
+    <name>Kinezçe Tradicionale</name>
   </language>
   <language>
     <code>zu</code>
     <name>Zulu</name>
+  </language>
+  <language>
+    <code>zxx</code>
+    <name>Mungesë përmbajtjeje gjuhësore</name>
   </language>
 </languages>

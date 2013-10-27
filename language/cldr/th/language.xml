@@ -93,6 +93,10 @@
     <name>อาหรับ</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>อาหรับมาตรฐานสมัยใหม่</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>อราเมอิก</name>
   </language>
@@ -602,7 +606,7 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>สเปนในยุโรป</name>
+    <name>สเปน (ยุโรป)</name>
   </language>
   <language>
     <code>et</code>
@@ -659,10 +663,6 @@
   <language>
     <code>fr</code>
     <name>ฝรั่งเศส</name>
-  </language>
-  <language>
-    <code>fr_CA</code>
-    <name>ฝรั่งเศสในแคนาดา</name>
   </language>
   <language>
     <code>fr_CH</code>
@@ -1646,7 +1646,7 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>โปรตุเกสในยุโรป</name>
+    <name>โปรตุเกส​ (ยุโรป)</name>
   </language>
   <language>
     <code>qu</code>
@@ -2130,7 +2130,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>ไม่มีข้อมูล</name>
+    <name>ภาษาที่ไม่รู้จัก</name>
   </language>
   <language>
     <code>ur</code>
@@ -2257,16 +2257,20 @@
     <name>เซนากา</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>ทามาไซต์โมร็อกโกมาตรฐาน</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>จีน</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>จีนประยุกต์</name>
+    <name>จีนตัวย่อ</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>จีนดั้งเดิม</name>
+    <name>จีนตัวเต็ม</name>
   </language>
   <language>
     <code>znd</code>

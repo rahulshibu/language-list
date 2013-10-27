@@ -10,7 +10,7 @@
   </language>
   <language>
     <code>af</code>
-    <name>afrikaans</name>
+    <name>afrikaansa</name>
   </language>
   <language>
     <code>ak</code>
@@ -18,11 +18,15 @@
   </language>
   <language>
     <code>am</code>
-    <name>amharikera</name>
+    <name>amharera</name>
   </language>
   <language>
     <code>ar</code>
     <name>arabiera</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>arabiera moderno estandarra</name>
   </language>
   <language>
     <code>as</code>
@@ -138,11 +142,7 @@
   </language>
   <language>
     <code>es</code>
-    <name>gaztelania</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>espainiera (Latinoamerika)</name>
+    <name>espainiera</name>
   </language>
   <language>
     <code>es_ES</code>
@@ -158,7 +158,7 @@
   </language>
   <language>
     <code>fa</code>
-    <name>pertsiera</name>
+    <name>persiera</name>
   </language>
   <language>
     <code>fi</code>
@@ -166,7 +166,7 @@
   </language>
   <language>
     <code>fil</code>
-    <name>tagalo</name>
+    <name>tagaloga</name>
   </language>
   <language>
     <code>fj</code>
@@ -294,7 +294,7 @@
   </language>
   <language>
     <code>kn</code>
-    <name>kannada</name>
+    <name>kannadera</name>
   </language>
   <language>
     <code>ko</code>
@@ -354,7 +354,7 @@
   </language>
   <language>
     <code>mg</code>
-    <name>malgaxea</name>
+    <name>malagasyera</name>
   </language>
   <language>
     <code>mi</code>
@@ -442,7 +442,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>oriya</name>
+    <name>oriyera</name>
   </language>
   <language>
     <code>os</code>
@@ -570,7 +570,7 @@
   </language>
   <language>
     <code>te</code>
-    <name>telugua</name>
+    <name>teluguera</name>
   </language>
   <language>
     <code>tet</code>
@@ -586,7 +586,7 @@
   </language>
   <language>
     <code>ti</code>
-    <name>tigrinya</name>
+    <name>tigriñera</name>
   </language>
   <language>
     <code>tk</code>
@@ -650,7 +650,7 @@
   </language>
   <language>
     <code>ur</code>
-    <name>urdu</name>
+    <name>urdua</name>
   </language>
   <language>
     <code>uz</code>
@@ -670,7 +670,7 @@
   </language>
   <language>
     <code>xh</code>
-    <name>xhosa</name>
+    <name>xhosera</name>
   </language>
   <language>
     <code>yi</code>
@@ -681,16 +681,20 @@
     <name>yorubera</name>
   </language>
   <language>
+    <code>zgh</code>
+    <name>tamazight estandarra</name>
+  </language>
+  <language>
     <code>zh</code>
     <name>txinera</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>txinera (soildua)</name>
+    <name>txinera soildua</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>txinera (tradizionala)</name>
+    <name>txinera tradizionala</name>
   </language>
   <language>
     <code>zu</code>

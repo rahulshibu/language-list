@@ -21,6 +21,7 @@ ang: ancien anglais
 anp: angika
 apa: langue apache
 ar: arabe
+ar_001: arabe standard moderne
 arc: "aram\xE9en"
 arn: araukan
 arp: arapaho
@@ -113,7 +114,7 @@ cy: gallois
 da: danois
 dak: dakota
 dar: dargwa
-dav: dawida
+dav: taita
 day: dayak
 de: allemand
 de_AT: allemand autrichien
@@ -133,7 +134,7 @@ dyo: diola-fogny
 dyu: dioula
 dz: dzongkha
 dzg: dazaga
-ebu: kiembu
+ebu: embou
 ee: "\xE9w\xE9"
 efi: efik
 egy: "\xE9gyptien ancien"
@@ -150,6 +151,7 @@ eo: "esp\xE9ranto"
 es: espagnol
 es_419: "espagnol latino-am\xE9ricain"
 es_ES: "espagnol d\u2019Europe"
+es_MX: espagnol mexicain
 et: estonien
 eu: basque
 ewo: "\xE9wondo"
@@ -171,7 +173,7 @@ fro: "ancien fran\xE7ais"
 frr: frison du Nord
 frs: frison oriental
 fur: frioulan
-fy: frison
+fy: frison occidental
 ga: irlandais
 gaa: ga
 gay: gayo
@@ -190,7 +192,7 @@ got: gotique
 grb: grebo
 grc: grec ancien
 gsw: "al\xE9manique"
-gu: "goudjar\xE2t\xEE"
+gu: gujarati
 guz: gusii
 gv: manx
 gwi: "gwich\u02BCin"
@@ -232,6 +234,7 @@ it: italien
 iu: inuktitut
 ja: japonais
 jbo: lojban
+jgo: ngomba
 jmc: machame
 jpr: "jud\xE9o-persan"
 jrb: "jud\xE9o-arabe"
@@ -254,7 +257,7 @@ kg: kongo
 kha: khasi
 khi: "langue kho\xEFsan"
 kho: khotanais
-khq: songhay
+khq: koyra chiini
 ki: kikuyu
 kj: kuanyama
 kk: kazakh
@@ -273,7 +276,7 @@ krc: "karatcha\xEF balkar"
 krl: "car\xE9lien"
 kro: krou
 kru: kurukh
-ks: "k\xE2shm\xEEr\xEE"
+ks: kashmiri
 ksb: chambala
 ksf: bafia
 ksh: francique ripuaire
@@ -303,7 +306,7 @@ lui: luiseno
 lun: lunda
 luo: luo
 lus: lushai
-luy: louhya
+luy: oluluyia
 lv: letton
 mad: madurais
 maf: mafa
@@ -317,11 +320,12 @@ mde: maba
 mdf: moksa
 mdr: mandar
 men: "mend\xE9"
-mer: meru
+mer: merou
 mfe: "cr\xE9ole mauricien"
 mg: malgache
 mga: moyen irlandais
 mgh: makhuwa-meetto
+mgo: "m\xE9ta'"
 mh: marshall
 mi: maori
 mic: micmac
@@ -354,7 +358,7 @@ na: nauruan
 nah: nahuatl
 nai: "langue am\xE9rindienne du Nord"
 nap: napolitain
-naq: nama khoe
+naq: nama
 nb: "norv\xE9gien bokm\xE5l"
 nd: "nd\xE9b\xE9l\xE9 du Nord"
 nds: bas-allemand
@@ -440,13 +444,13 @@ sbp: sangu
 sc: sarde
 scn: sicilien
 sco: "\xE9cossais"
-sd: "sindh\xEE"
+sd: sindhi
 se: sami du Nord
 see: seneca
 seh: sena
 sel: selkoupe
 sem: "langue s\xE9mitique"
-ses: "songha\xEF koyraboro senni"
+ses: koyraboro senni
 sg: sangho
 sga: ancien irlandais
 sgn: langue des signes
@@ -509,7 +513,7 @@ tlh: klingon
 tli: tlingit
 tmh: tamacheq
 tn: tswana
-to: tongien
+to: tonguien
 tog: tonga nyasa
 tpi: tok pisin
 tr: turc
@@ -554,7 +558,7 @@ xog: soga
 yao: yao
 yap: yapois
 yav: yangben
-ybb: "y\xE9mba"
+ybb: yemba
 yi: yiddish
 yo: yoruba
 ypk: langues yupik
@@ -563,6 +567,7 @@ za: zhuang
 zap: "zapot\xE8que"
 zbl: symboles Bliss
 zen: zenaga
+zgh: amazighe standard marocain
 zh: chinois
 zh_Hans: "chinois simplifi\xE9"
 zh_Hant: chinois traditionnel

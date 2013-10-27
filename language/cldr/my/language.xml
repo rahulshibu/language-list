@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>ab</code>
+    <name>အက္ခါဇူအန်</name>
+  </language>
+  <language>
+    <code>af</code>
+    <name>အာဖရိကန်းစ်</name>
+  </language>
+  <language>
+    <code>am</code>
+    <name>အန္ဟာရစ်ခ်</name>
+  </language>
+  <language>
     <code>ang</code>
     <name>အင်္ဂလိပ်စာဟောင်း</name>
   </language>
@@ -9,8 +21,20 @@
     <name>အာရေဗီ</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>အရေဗီ(ပုံမှန်)</name>
+  </language>
+  <language>
     <code>art</code>
     <name>အယောင်ဆောင် ဘာသာစကား</name>
+  </language>
+  <language>
+    <code>as</code>
+    <name>အက္စမီစ်</name>
+  </language>
+  <language>
+    <code>az</code>
+    <name>အော်ဇောဘိုင်ဂျောနီ</name>
   </language>
   <language>
     <code>ban</code>
@@ -43,6 +67,10 @@
   <language>
     <code>bs</code>
     <name>ဘော့စ်နီးယား</name>
+  </language>
+  <language>
+    <code>ca</code>
+    <name>ကာတာလန်</name>
   </language>
   <language>
     <code>cai</code>
@@ -145,6 +173,10 @@
     <name>အလယ်ပိုင်း အင်္ဂလိပ်</name>
   </language>
   <language>
+    <code>eo</code>
+    <name>အက္စပရန္တို</name>
+  </language>
+  <language>
     <code>es</code>
     <name>စပိန်</name>
   </language>
@@ -153,8 +185,16 @@
     <name>လက်တင်အမေရိက စပိန်</name>
   </language>
   <language>
+    <code>es_ES</code>
+    <name>စပိန်(ဥရောပ)</name>
+  </language>
+  <language>
     <code>et</code>
     <name>အက်စ်တိုးနီးရန်း</name>
+  </language>
+  <language>
+    <code>eu</code>
+    <name>ဘစ်က္ကီ</name>
   </language>
   <language>
     <code>fa</code>
@@ -171,6 +211,10 @@
   <language>
     <code>fj</code>
     <name>ဖီဂျီ</name>
+  </language>
+  <language>
+    <code>fo</code>
+    <name>ဖာရိုအိစ်</name>
   </language>
   <language>
     <code>fr</code>
@@ -213,8 +257,16 @@
     <name>ဂျာမန် အခြေခံဘာသာစကား</name>
   </language>
   <language>
+    <code>gl</code>
+    <name>ဂါလာစီယံ</name>
+  </language>
+  <language>
     <code>gmh</code>
     <name>အလယ်ပိုင်းအမြင့်ဂျာမန်</name>
+  </language>
+  <language>
+    <code>gn</code>
+    <name>ဂူအာရာနီ</name>
   </language>
   <language>
     <code>grc</code>
@@ -227,6 +279,10 @@
   <language>
     <code>gu</code>
     <name>ဂူဂျာရသီ</name>
+  </language>
+  <language>
+    <code>ha</code>
+    <name>ဟာဥစာ</name>
   </language>
   <language>
     <code>haw</code>
@@ -245,12 +301,24 @@
     <name>ခရိုအေရှန်</name>
   </language>
   <language>
+    <code>ht</code>
+    <name>ဟာအီတီအန်</name>
+  </language>
+  <language>
     <code>hu</code>
     <name>ဟန်ဂေရီ</name>
   </language>
   <language>
+    <code>hy</code>
+    <name>အာမေနီအန်</name>
+  </language>
+  <language>
     <code>id</code>
     <name>အင်ဒိုနီးရှား</name>
+  </language>
+  <language>
+    <code>ig</code>
+    <name>အစ္ဂဘို</name>
   </language>
   <language>
     <code>ii</code>
@@ -263,6 +331,10 @@
   <language>
     <code>ira</code>
     <name>အီရန် အခြေခံ ဘာသာစကား</name>
+  </language>
+  <language>
+    <code>is</code>
+    <name>အိုင်စ်လန္ဒီ</name>
   </language>
   <language>
     <code>it</code>
@@ -305,36 +377,72 @@
     <name>ခါစီ</name>
   </language>
   <language>
+    <code>kk</code>
+    <name>ခါဇါခ်</name>
+  </language>
+  <language>
     <code>km</code>
     <name>ခမာ</name>
   </language>
   <language>
     <code>kn</code>
-    <name>ကန်နာဒါ</name>
+    <name>ကန္နာဒါ</name>
   </language>
   <language>
     <code>ko</code>
     <name>ကိုးရီးယား</name>
   </language>
   <language>
+    <code>ks</code>
+    <name>ကက်ရှ်မီရီ</name>
+  </language>
+  <language>
     <code>ku</code>
     <name>ကဒ်</name>
+  </language>
+  <language>
+    <code>ky</code>
+    <name>ခရူဂစ်</name>
   </language>
   <language>
     <code>la</code>
     <name>လက်တင်</name>
   </language>
   <language>
+    <code>lb</code>
+    <name>လူဇင်ဘတ်က်</name>
+  </language>
+  <language>
     <code>lo</code>
     <name>လာအို</name>
+  </language>
+  <language>
+    <code>lt</code>
+    <name>လစ္သူအာနီယံ</name>
+  </language>
+  <language>
+    <code>lv</code>
+    <name>လက္ဘီအံ</name>
+  </language>
+  <language>
+    <code>mg</code>
+    <name>အာလာဂါစီ</name>
   </language>
   <language>
     <code>mga</code>
     <name>အလယ်ပိုင်း အိုင်းရစ်</name>
   </language>
   <language>
+    <code>mi</code>
+    <name>ေမာင္းရီ (နယူးဇီလန္ကၽြန္းရွိ ပင္ရင္းတိုင္းရင္းသားလူမ်ိဳး)</name>
+  </language>
+  <language>
     <code>mis</code>
     <name>အမျိုးမျိုးသော ဘာသာစကား</name>
+  </language>
+  <language>
+    <code>mk</code>
+    <name>မာစီဒိုနီယံ</name>
   </language>
   <language>
     <code>mkh</code>
@@ -369,6 +477,10 @@
     <name>မလေး</name>
   </language>
   <language>
+    <code>mt</code>
+    <name>မောလ္တီစ်</name>
+  </language>
+  <language>
     <code>mul</code>
     <name>အကြိမ်များစွာ ဘာသာစကားများ</name>
   </language>
@@ -377,24 +489,40 @@
     <name>ဗမာ</name>
   </language>
   <language>
+    <code>nb</code>
+    <name>ဘွတ်မော်လ်</name>
+  </language>
+  <language>
     <code>nds</code>
     <name>အနိမ့် ဂျာမန်</name>
   </language>
   <language>
     <code>ne</code>
-    <name>နီပေါလ်</name>
+    <name>နီပါလီ</name>
   </language>
   <language>
     <code>nl</code>
     <name>ဒတ်ချ်</name>
   </language>
   <language>
+    <code>nl_BE</code>
+    <name>ဖလီမစ်ရှ်</name>
+  </language>
+  <language>
+    <code>nn</code>
+    <name>နော်ဝေး နီးနော်စ်ခ်</name>
+  </language>
+  <language>
     <code>no</code>
     <name>နော်ဝေး</name>
   </language>
   <language>
+    <code>or</code>
+    <name>အိုရီရာ</name>
+  </language>
+  <language>
     <code>pa</code>
-    <name>ပန်ဂျာပီ</name>
+    <name>ပန်ချာပီ</name>
   </language>
   <language>
     <code>paa</code>
@@ -417,12 +545,24 @@
     <name>ပိုလန်</name>
   </language>
   <language>
+    <code>ps</code>
+    <name>ပါရှ်တို</name>
+  </language>
+  <language>
     <code>pt</code>
     <name>ပေါ်တူဂီ</name>
   </language>
   <language>
     <code>pt_BR</code>
     <name>ဘရာဇီး ပေါ်တူဂီ</name>
+  </language>
+  <language>
+    <code>qu</code>
+    <name>ခက်ချ်ဝါ</name>
+  </language>
+  <language>
+    <code>rm</code>
+    <name>ရောမ</name>
   </language>
   <language>
     <code>ro</code>
@@ -513,6 +653,10 @@
     <name>ဆွီဒင်</name>
   </language>
   <language>
+    <code>sw</code>
+    <name>ဆြာဟီလီ</name>
+  </language>
+  <language>
     <code>ta</code>
     <name>တမီးလ်</name>
   </language>
@@ -521,12 +665,44 @@
     <name>တိုင် ဘာသာစကား</name>
   </language>
   <language>
+    <code>te</code>
+    <name>တီလီဂု</name>
+  </language>
+  <language>
+    <code>tg</code>
+    <name>တာဂွီခ်</name>
+  </language>
+  <language>
     <code>th</code>
     <name>ထိုင်း</name>
   </language>
   <language>
+    <code>ti</code>
+    <name>တီဂ်ရင်ရာ</name>
+  </language>
+  <language>
+    <code>tk</code>
+    <name>တခ္မင်</name>
+  </language>
+  <language>
+    <code>to</code>
+    <name>တွန်ဂါ</name>
+  </language>
+  <language>
+    <code>tr</code>
+    <name>တာကစ်</name>
+  </language>
+  <language>
+    <code>tt</code>
+    <name>တတာ</name>
+  </language>
+  <language>
     <code>tup</code>
     <name>တူပီ ဘာသာစကား</name>
+  </language>
+  <language>
+    <code>ug</code>
+    <name>ဝီဂါ</name>
   </language>
   <language>
     <code>uk</code>
@@ -537,8 +713,32 @@
     <name>မသိ သို့မဟုတ် မရှိ သော ဘာသာစကား</name>
   </language>
   <language>
+    <code>ur</code>
+    <name>အော်ဒူ</name>
+  </language>
+  <language>
+    <code>uz</code>
+    <name>ဦးဇ်ဘက်</name>
+  </language>
+  <language>
     <code>vi</code>
     <name>ဗီယက်နမ်</name>
+  </language>
+  <language>
+    <code>wo</code>
+    <name>ဝူလိုဖ်</name>
+  </language>
+  <language>
+    <code>xh</code>
+    <name>ဇိုစာ</name>
+  </language>
+  <language>
+    <code>yo</code>
+    <name>ရိုရုဘာ</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>မိုရိုကန် တွမ်မဇိုတ် စံ</name>
   </language>
   <language>
     <code>zh</code>
