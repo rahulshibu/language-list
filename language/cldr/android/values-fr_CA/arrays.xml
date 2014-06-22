@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Canadian French (fr_CA) -->
+  <string-array name="languages_all">
+    <!-- es_ES - European Spanish -->
+    <item>espagnol ibérique</item>
+    <!-- fy - Western Frisian -->
+    <item>frison</item>
+    <!-- gu - Gujarati -->
+    <item>goudjarâtî</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>portugais ibérique</item>
+    <!-- si - Sinhala -->
+    <item>singhalais</item>
+    <!-- to - Tongan -->
+    <item>tongan</item>
+    <!-- ug - Uyghur -->
+    <item>ouïgour</item>
+    <!-- und - Unknown Language -->
+    <item>indéterminé</item>
+    <!-- ybb - Yemba -->
+    <item>yémba</item>
+  </string-array>
+</resources>

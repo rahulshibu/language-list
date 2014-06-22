@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Esperanto (eo) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>afara</item>
+    <!-- ab - Abkhazian -->
+    <item>abĥaza</item>
+    <!-- af - Afrikaans -->
+    <item>afrikansa</item>
+    <!-- am - Amharic -->
+    <item>amhara</item>
+    <!-- ar - Arabic -->
+    <item>araba</item>
+    <!-- as - Assamese -->
+    <item>asama</item>
+    <!-- ay - Aymara -->
+    <item>ajmara</item>
+    <!-- az - Azerbaijani -->
+    <item>azerbajĝana</item>
+    <!-- ba - Bashkir -->
+    <item>baŝkira</item>
+    <!-- be - Belarusian -->
+    <item>belorusa</item>
+    <!-- bg - Bulgarian -->
+    <item>bulgara</item>
+    <!-- bi - Bislama -->
+    <item>bislamo</item>
+    <!-- bn - Bengali -->
+    <item>bengala</item>
+    <!-- bo - Tibetan -->
+    <item>tibeta</item>
+    <!-- br - Breton -->
+    <item>bretona</item>
+    <!-- bs - Bosnian -->
+    <item>bosnia</item>
+    <!-- ca - Catalan -->
+    <item>kataluna</item>
+    <!-- co - Corsican -->
+    <item>korsika</item>
+    <!-- cs - Czech -->
+    <item>ĉeĥa</item>
+    <!-- cy - Welsh -->
+    <item>kimra</item>
+    <!-- da - Danish -->
+    <item>dana</item>
+    <!-- de - German -->
+    <item>germana</item>
+    <!-- dv - Divehi -->
+    <item>mahla</item>
+    <!-- dz - Dzongkha -->
+    <item>dzonko</item>
+    <!-- efi - Efik -->
+    <item>ibibioefika</item>
+    <!-- el - Greek -->
+    <item>greka</item>
+    <!-- en - English -->
+    <item>angla</item>
+    <!-- eo - Esperanto -->
+    <item>esperanto</item>
+    <!-- es - Spanish -->
+    <item>hispana</item>
+    <!-- et - Estonian -->
+    <item>estona</item>
+    <!-- eu - Basque -->
+    <item>eŭska</item>
+    <!-- fa - Persian -->
+    <item>persa</item>
+    <!-- fi - Finnish -->
+    <item>finna</item>
+    <!-- fil - Filipino -->
+    <item>filipina</item>
+    <!-- fj - Fijian -->
+    <item>fiĝia</item>
+    <!-- fo - Faroese -->
+    <item>feroa</item>
+    <!-- fr - French -->
+    <item>franca</item>
+    <!-- fy - Western Frisian -->
+    <item>frisa</item>
+    <!-- ga - Irish -->
+    <item>irlanda</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>gaela</item>
+    <!-- gl - Galician -->
+    <item>galega</item>
+    <!-- gn - Guarani -->
+    <item>gvarania</item>
+    <!-- gu - Gujarati -->
+    <item>guĝarata</item>
+    <!-- ha - Hausa -->
+    <item>haŭsa</item>
+    <!-- haw - Hawaiian -->
+    <item>havaja</item>
+    <!-- he - Hebrew -->
+    <item>hebrea</item>
+    <!-- hi - Hindi -->
+    <item>hinda</item>
+    <!-- hr - Croatian -->
+    <item>kroata</item>
+    <!-- ht - Haitian -->
+    <item>haitia kreola</item>
+    <!-- hu - Hungarian -->
+    <item>hungara</item>
+    <!-- hy - Armenian -->
+    <item>armena</item>
+    <!-- ia - Interlingua -->
+    <item>interlingvao</item>
+    <!-- id - Indonesian -->
+    <item>indonezia</item>
+    <!-- ie - Interlingue -->
+    <item>okcidentalo</item>
+    <!-- ik - Inupiaq -->
+    <item>eskima</item>
+    <!-- is - Icelandic -->
+    <item>islanda</item>
+    <!-- it - Italian -->
+    <item>itala</item>
+    <!-- iu - Inuktitut -->
+    <item>inuita</item>
+    <!-- ja - Japanese -->
+    <item>japana</item>
+    <!-- jv - Javanese -->
+    <item>java</item>
+    <!-- ka - Georgian -->
+    <item>kartvela</item>
+    <!-- kk - Kazakh -->
+    <item>kazaĥa</item>
+    <!-- kl - Kalaallisut -->
+    <item>gronlanda</item>
+    <!-- km - Khmer -->
+    <item>kmera</item>
+    <!-- kn - Kannada -->
+    <item>kanara</item>
+    <!-- ko - Korean -->
+    <item>korea</item>
+    <!-- ks - Kashmiri -->
+    <item>kaŝmira</item>
+    <!-- ku - Kurdish -->
+    <item>kurda</item>
+    <!-- ky - Kyrgyz -->
+    <item>kirgiza</item>
+    <!-- la - Latin -->
+    <item>latino</item>
+    <!-- lb - Luxembourgish -->
+    <item>luksemburga</item>
+    <!-- ln - Lingala -->
+    <item>lingala</item>
+    <!-- lo - Lao -->
+    <item>laŭa</item>
+    <!-- lt - Lithuanian -->
+    <item>litova</item>
+    <!-- lv - Latvian -->
+    <item>latva</item>
+    <!-- mg - Malagasy -->
+    <item>malagasa</item>
+    <!-- mi - Maori -->
+    <item>maoria</item>
+    <!-- mk - Macedonian -->
+    <item>makedona</item>
+    <!-- ml - Malayalam -->
+    <item>malajalama</item>
+    <!-- mn - Mongolian -->
+    <item>mongola</item>
+    <!-- mr - Marathi -->
+    <item>marata</item>
+    <!-- ms - Malay -->
+    <item>malaja</item>
+    <!-- mt - Maltese -->
+    <item>malta</item>
+    <!-- mul - Multiple Languages -->
+    <item>pluraj lingvoj</item>
+    <!-- my - Burmese -->
+    <item>birma</item>
+    <!-- na - Nauru -->
+    <item>naura</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>dannorvega</item>
+    <!-- ne - Nepali -->
+    <item>nepala</item>
+    <!-- nl - Dutch -->
+    <item>nederlanda</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>novnorvega</item>
+    <!-- no - Norwegian -->
+    <item>norvega</item>
+    <!-- oc - Occitan -->
+    <item>okcitana</item>
+    <!-- om - Oromo -->
+    <item>oroma</item>
+    <!-- or - Oriya -->
+    <item>orijo</item>
+    <!-- pa - Punjabi -->
+    <item>panĝaba</item>
+    <!-- pl - Polish -->
+    <item>pola</item>
+    <!-- ps - Pashto -->
+    <item>paŝtoa</item>
+    <!-- pt - Portuguese -->
+    <item>portugala</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>brazilportugala</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>eŭropportugala</item>
+    <!-- qu - Quechua -->
+    <item>keĉua</item>
+    <!-- rm - Romansh -->
+    <item>romanĉa</item>
+    <!-- rn - Rundi -->
+    <item>burunda</item>
+    <!-- ro - Romanian -->
+    <item>rumana</item>
+    <!-- ru - Russian -->
+    <item>rusa</item>
+    <!-- rw - Kinyarwanda -->
+    <item>ruanda</item>
+    <!-- sa - Sanskrit -->
+    <item>sanskrito</item>
+    <!-- sd - Sindhi -->
+    <item>sinda</item>
+    <!-- sg - Sango -->
+    <item>sangoa</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>serbo-Kroata</item>
+    <!-- si - Sinhala -->
+    <item>sinhala</item>
+    <!-- sk - Slovak -->
+    <item>slovaka</item>
+    <!-- sl - Slovenian -->
+    <item>slovena</item>
+    <!-- sm - Samoan -->
+    <item>samoa</item>
+    <!-- sn - Shona -->
+    <item>ŝona</item>
+    <!-- so - Somali -->
+    <item>somala</item>
+    <!-- sq - Albanian -->
+    <item>albana</item>
+    <!-- sr - Serbian -->
+    <item>serba</item>
+    <!-- ss - Swati -->
+    <item>svazia</item>
+    <!-- st - Southern Sotho -->
+    <item>sota</item>
+    <!-- su - Sundanese -->
+    <item>sunda</item>
+    <!-- sv - Swedish -->
+    <item>sveda</item>
+    <!-- sw - Swahili -->
+    <item>svahila</item>
+    <!-- ta - Tamil -->
+    <item>tamila</item>
+    <!-- te - Telugu -->
+    <item>telugua</item>
+    <!-- tg - Tajik -->
+    <item>taĝika</item>
+    <!-- th - Thai -->
+    <item>taja</item>
+    <!-- ti - Tigrinya -->
+    <item>tigraja</item>
+    <!-- tk - Turkmen -->
+    <item>turkmena</item>
+    <!-- tl - Tagalog -->
+    <item>tagaloga</item>
+    <!-- tlh - Klingon -->
+    <item>klingona</item>
+    <!-- tn - Tswana -->
+    <item>cvana</item>
+    <!-- to - Tongan -->
+    <item>tongaa</item>
+    <!-- tr - Turkish -->
+    <item>turka</item>
+    <!-- ts - Tsonga -->
+    <item>conga</item>
+    <!-- tt - Tatar -->
+    <item>tatara</item>
+    <!-- tw - Twi -->
+    <item>akana</item>
+    <!-- ug - Uyghur -->
+    <item>ujgura</item>
+    <!-- uk - Ukrainian -->
+    <item>ukraina</item>
+    <!-- und - Unknown Language -->
+    <item>nekonata lingvo</item>
+    <!-- ur - Urdu -->
+    <item>urduo</item>
+    <!-- uz - Uzbek -->
+    <item>uzbeka</item>
+    <!-- vi - Vietnamese -->
+    <item>vjetnama</item>
+    <!-- vo - Volapük -->
+    <item>volapuko</item>
+    <!-- wo - Wolof -->
+    <item>volofa</item>
+    <!-- xh - Xhosa -->
+    <item>ksosa</item>
+    <!-- yi - Yiddish -->
+    <item>jida</item>
+    <!-- yo - Yoruba -->
+    <item>joruba</item>
+    <!-- za - Zhuang -->
+    <item>ĝuanga</item>
+    <!-- zh - Chinese -->
+    <item>ĉina</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>ĉina simpligita</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>ĉina tradicia</item>
+    <!-- zu - Zulu -->
+    <item>zulua</item>
+    <!-- zxx - No linguistic content -->
+    <item>nelingvaĵo</item>
+  </string-array>
+</resources>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Lakota (lkt) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>Abkhaz Iyápi</item>
+    <!-- ady - Adyghe -->
+    <item>Adyghe Iyápi</item>
+    <!-- ae - Avestan -->
+    <item>Avestan Iyápi</item>
+    <!-- af - Afrikaans -->
+    <item>Afrikaans Iyápi</item>
+    <!-- alt - Southern Altai -->
+    <item>Itóǧata Altai Iyápi</item>
+    <!-- am - Amharic -->
+    <item>Amharic Iyápi</item>
+    <!-- ar - Arabic -->
+    <item>Arab Iyápi</item>
+    <!-- arp - Arapaho -->
+    <item>Maȟpíya Tȟó Iyápi</item>
+    <!-- as - Assamese -->
+    <item>Assamese Iyápi</item>
+    <!-- av - Avaric -->
+    <item>Avaric Iyápi</item>
+    <!-- az - Azerbaijani -->
+    <item>Azerbaijani Iyápi</item>
+    <!-- ba - Bashkir -->
+    <item>Bashkir Iyápi</item>
+    <!-- bal - Baluchi -->
+    <item>Baluchi Iyápi</item>
+    <!-- bax - Bamun -->
+    <item>Bamun Iyápi</item>
+    <!-- be - Belarusian -->
+    <item>Belarus Iyápi</item>
+    <!-- bej - Beja -->
+    <item>Beja Iyápi</item>
+    <!-- bg - Bulgarian -->
+    <item>Bulgar Iyápi</item>
+    <!-- bn - Bengali -->
+    <item>Bengali Iyápi</item>
+    <!-- bo - Tibetan -->
+    <item>Tibetan Iyápi</item>
+    <!-- bs - Bosnian -->
+    <item>Bosnia Iyápi</item>
+    <!-- bua - Buriat -->
+    <item>Buriat Iyápi</item>
+    <!-- ca - Catalan -->
+    <item>Catalan Iyápi</item>
+    <!-- ce - Chechen -->
+    <item>Chechen Iyápi</item>
+    <!-- chm - Mari -->
+    <item>Mari Iyápi</item>
+    <!-- chr - Cherokee -->
+    <item>Cherokee Iyápi</item>
+    <!-- chy - Cheyenne -->
+    <item>Šahíyela Iyápi</item>
+    <!-- cop - Coptic -->
+    <item>Coptic Iyápi</item>
+    <!-- cr - Cree -->
+    <item>Maštíŋča Oyáte Iyápi</item>
+    <!-- crh - Crimean Turkish -->
+    <item>Crimean Turkish Iyápi</item>
+    <!-- cs - Czech -->
+    <item>Czech Iyápi</item>
+    <!-- cv - Chuvash -->
+    <item>Chuvash Iyápi</item>
+    <!-- cy - Welsh -->
+    <item>Wales Iyápi</item>
+    <!-- da - Danish -->
+    <item>Dane Iyápi</item>
+    <!-- dak - Dakota -->
+    <item>Dakȟótiyapi</item>
+    <!-- dar - Dargwa -->
+    <item>Dargwa Iyápi</item>
+    <!-- de - German -->
+    <item>Iyášiča Iyápi</item>
+    <!-- doi - Dogri -->
+    <item>Dogri Iyápi</item>
+    <!-- el - Greek -->
+    <item>Greece Iyápi</item>
+    <!-- en - English -->
+    <item>Wašíčuiyapi</item>
+    <!-- en_GB - British English -->
+    <item>Šagláša Wašíčuiyapi</item>
+    <!-- en_US - American English -->
+    <item>Mílahaŋska Wašíčuiyapi</item>
+    <!-- eo - Esperanto -->
+    <item>Esperanto Iyápi</item>
+    <!-- es - Spanish -->
+    <item>Spayóla Iyápi</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Wiyóȟpeyata Spayóla Iyápi</item>
+    <!-- es_ES - European Spanish -->
+    <item>Spayólaȟča Iyápi</item>
+    <!-- et - Estonian -->
+    <item>Estonia Iyápi</item>
+    <!-- eu - Basque -->
+    <item>Basque Iyápi</item>
+    <!-- fa - Persian -->
+    <item>Persian Iyápi</item>
+    <!-- fi - Finnish -->
+    <item>Finnish Iyápi</item>
+    <!-- fil - Filipino -->
+    <item>Filipino Iyápi</item>
+    <!-- fj - Fijian -->
+    <item>Fiji Iyápi</item>
+    <!-- fo - Faroese -->
+    <item>Faroese Iyápi</item>
+    <!-- fr - French -->
+    <item>Wašíču Ikčéka Iyápi</item>
+    <!-- ga - Irish -->
+    <item>Irish Iyápi</item>
+    <!-- gba - Gbaya -->
+    <item>Gbaya Iyápi</item>
+    <!-- gl - Galician -->
+    <item>Galician Iyápi</item>
+    <!-- gn - Guarani -->
+    <item>Guarani Iyápi</item>
+    <!-- gu - Gujarati -->
+    <item>Gujarati Iyápi</item>
+    <!-- ha - Hausa -->
+    <item>Hausa Iyápi</item>
+    <!-- haw - Hawaiian -->
+    <item>Hawaiian Iyápi</item>
+    <!-- he - Hebrew -->
+    <item>Hebrew Iyápi</item>
+    <!-- hi - Hindi -->
+    <item>Hindi Iyápi</item>
+    <!-- hr - Croatian -->
+    <item>Croatian Iyápi</item>
+    <!-- ht - Haitian -->
+    <item>Haiti Iyápi</item>
+    <!-- hu - Hungarian -->
+    <item>Hungary Iyápi</item>
+    <!-- hy - Armenian -->
+    <item>Armenia Iyápi</item>
+    <!-- id - Indonesian -->
+    <item>Indonesia Iyápi</item>
+    <!-- ig - Igbo -->
+    <item>Igbo Iyápi</item>
+    <!-- inh - Ingush -->
+    <item>Ingush Iyápi</item>
+    <!-- is - Icelandic -->
+    <item>Iceland Iyápi</item>
+    <!-- it - Italian -->
+    <item>Italia Iyápi</item>
+    <!-- ja - Japanese -->
+    <item>Kisúŋla Iyápi</item>
+    <!-- jv - Javanese -->
+    <item>Java Iyápi</item>
+    <!-- ka - Georgian -->
+    <item>Georia Iyápi</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>Kara-Kalpak Iyápi</item>
+    <!-- kbd - Kabardian -->
+    <item>Kabardian Iyápi</item>
+    <!-- kk - Kazakh -->
+    <item>Kazakh Iyápi</item>
+    <!-- km - Khmer -->
+    <item>Khmer Iyápi</item>
+    <!-- kn - Kannada -->
+    <item>Kannada Iyápi</item>
+    <!-- ko - Korean -->
+    <item>Korea Iyápi</item>
+    <!-- ks - Kashmiri -->
+    <item>Kashmir Iyápi</item>
+    <!-- ku - Kurdish -->
+    <item>Kurd Iyápi</item>
+    <!-- ky - Kyrgyz -->
+    <item>Kirghiz Iyápi</item>
+    <!-- la - Latin -->
+    <item>Latin Iyápi</item>
+    <!-- lah - Lahnda -->
+    <item>Lahnda Iyápi</item>
+    <!-- lb - Luxembourgish -->
+    <item>Luxembourg Iyápi</item>
+    <!-- lkt - Lakota -->
+    <item>Lakȟólʼiyapi</item>
+    <!-- lo - Lao -->
+    <item>Lao Iyápi</item>
+    <!-- lt - Lithuanian -->
+    <item>Lithuania Iyápilt</item>
+    <!-- lus - Mizo -->
+    <item>Mizo Iyápi</item>
+    <!-- lv - Latvian -->
+    <item>Latvia Iyápi</item>
+    <!-- mg - Malagasy -->
+    <item>Malagasy Iyápi</item>
+    <!-- mi - Maori -->
+    <item>Maori Iyápi</item>
+    <!-- mk - Macedonian -->
+    <item>Macedonia Iyápi</item>
+    <!-- ml - Malayalam -->
+    <item>Malayalam Iyápi</item>
+    <!-- mni - Manipuri -->
+    <item>Namipuri Iyápi</item>
+    <!-- mr - Marathi -->
+    <item>Marathi Iyápi</item>
+    <!-- ms - Malay -->
+    <item>Malay Iyápi</item>
+    <!-- mt - Maltese -->
+    <item>Maltese Iyápi</item>
+    <!-- my - Burmese -->
+    <item>Burmese Iyápi</item>
+    <!-- ne - Nepali -->
+    <item>Nepal Iyápi</item>
+    <!-- nl - Dutch -->
+    <item>Dutch Iyápi</item>
+    <!-- nl_BE - Flemish -->
+    <item>Flemish Iyápi</item>
+    <!-- nv - Navajo -->
+    <item>Šináglegleǧa Iyápi</item>
+    <!-- oj - Ojibwa -->
+    <item>Ȟaȟátȟuŋwaŋ Iyápi</item>
+    <!-- or - Oriya -->
+    <item>Oriya Iyápi</item>
+    <!-- pa - Punjabi -->
+    <item>Punjabi Iyápi</item>
+    <!-- pl - Polish -->
+    <item>Polish Iyápi</item>
+    <!-- ps - Pashto -->
+    <item>Pashto Iyápi</item>
+    <!-- pt - Portuguese -->
+    <item>Portuguese Iyápi</item>
+    <!-- qu - Quechua -->
+    <item>Quechua Iyápi</item>
+    <!-- rm - Romansh -->
+    <item>Romansh Iyápi</item>
+    <!-- ro - Romanian -->
+    <item>Romanian Iyápi</item>
+    <!-- ru - Russian -->
+    <item>Russia Iyápi</item>
+    <!-- sa - Sanskrit -->
+    <item>Sanskrit Iyápi</item>
+    <!-- sd - Sindhi -->
+    <item>Sindhi Iyápi</item>
+    <!-- si - Sinhala -->
+    <item>Sinhala Iyápi</item>
+    <!-- sk - Slovak -->
+    <item>Slovak Iyápi</item>
+    <!-- sl - Slovenian -->
+    <item>Slovenian Iyápi</item>
+    <!-- so - Somali -->
+    <item>Somali Iyápi</item>
+    <!-- sq - Albanian -->
+    <item>Albanian Iyápi</item>
+    <!-- sr - Serbian -->
+    <item>Serbia Iyápi</item>
+    <!-- su - Sundanese -->
+    <item>Sundanese Iyápi</item>
+    <!-- sv - Swedish -->
+    <item>Swedish Iyápi</item>
+    <!-- sw - Swahili -->
+    <item>Swahili Iyápi</item>
+    <!-- swb - Comorian -->
+    <item>Comonian Iyápi</item>
+    <!-- ta - Tamil -->
+    <item>Tamil Iyápi</item>
+    <!-- te - Telugu -->
+    <item>Telugu Iyápi</item>
+    <!-- tg - Tajik -->
+    <item>Tajik Iyápi</item>
+    <!-- th - Thai -->
+    <item>Thai Iyápi</item>
+    <!-- ti - Tigrinya -->
+    <item>Tigrinya Iyápi</item>
+    <!-- tk - Turkmen -->
+    <item>Turkmen Iyápi</item>
+    <!-- to - Tongan -->
+    <item>Tongan Iyápi</item>
+    <!-- tr - Turkish -->
+    <item>Turkish Iyápi</item>
+    <!-- tt - Tatar -->
+    <item>Tatar Iyápi</item>
+    <!-- ug - Uyghur -->
+    <item>Uyghur Iyápi</item>
+    <!-- uk - Ukrainian -->
+    <item>Ukrain Iyápi</item>
+    <!-- und - Unknown Language -->
+    <item>Tukté iyápi tȟaŋíŋ šni</item>
+    <!-- ur - Urdu -->
+    <item>Urdu Iyápi</item>
+    <!-- uz - Uzbek -->
+    <item>Uzbek Iyápi</item>
+    <!-- vi - Vietnamese -->
+    <item>Vietnamese Iyápi</item>
+    <!-- wo - Wolof -->
+    <item>Wolof Iyápi</item>
+    <!-- xh - Xhosa -->
+    <item>Xhosa Iyápi</item>
+    <!-- yo - Yoruba -->
+    <item>Yoruba Iyápi</item>
+    <!-- zh - Chinese -->
+    <item>Pȟečhókaŋ Háŋska Iyápi</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>Pȟečhókaŋ Háŋska Iyápi Ikčéka</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>Pȟečhókaŋ Háŋska Iyápi Ȟče</item>
+    <!-- zu - Zulu -->
+    <item>Zulu Iyápi</item>
+    <!-- zza - Zaza -->
+    <item>Zaza Iyápi</item>
+  </string-array>
+</resources>

@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Kannada (kn) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>ಅಫಾರ್</item>
+    <!-- ab - Abkhazian -->
+    <item>ಅಬ್ಖಾಜಿಯನ್</item>
+    <!-- ace - Achinese -->
+    <item>ಅಛಿನೀಸ್</item>
+    <!-- ach - Acoli -->
+    <item>ಅಕೋಲಿ</item>
+    <!-- ada - Adangme -->
+    <item>ಅಡಂಗ್‌ಮೆ</item>
+    <!-- ady - Adyghe -->
+    <item>ಅಡೈಘೆ</item>
+    <!-- ae - Avestan -->
+    <item>ಅವೆಸ್ಟನ್</item>
+    <!-- af - Afrikaans -->
+    <item>ಆಫ್ರಿಕಾನ್ಸ್</item>
+    <!-- afh - Afrihili -->
+    <item>ಆಫ್ರಿಹಿಲಿ</item>
+    <!-- ain - Ainu -->
+    <item>ಐನು</item>
+    <!-- ak - Akan -->
+    <item>ಅಕಾನ್</item>
+    <!-- akk - Akkadian -->
+    <item>ಅಕ್ಕಾಡಿಯನ್</item>
+    <!-- ale - Aleut -->
+    <item>ಅಲೆಯುಟ್</item>
+    <!-- alt - Southern Altai -->
+    <item>ದಕ್ಷಿಣ ಅಲ್ಟಾಯ್</item>
+    <!-- am - Amharic -->
+    <item>ಅಂಹರಿಕ್</item>
+    <!-- an - Aragonese -->
+    <item>ಅರಗೊನೀಸ್</item>
+    <!-- ang - Old English -->
+    <item>ಪ್ರಾಚೀನ ಇಂಗ್ಲೀಷ್</item>
+    <!-- anp - Angika -->
+    <item>ಆಂಗಿಕಾ</item>
+    <!-- ar - Arabic -->
+    <item>ಅರೇಬಿಕ್</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>ಆಧುನಿಕ ಪ್ರಮಾಣಿತ ಅರೇಬಿಕ್</item>
+    <!-- arc - Aramaic -->
+    <item>ಅರಾಮಿಕ್</item>
+    <!-- arn - Mapuche -->
+    <item>ಅರೌಕೇನಿಯನ್</item>
+    <!-- arp - Arapaho -->
+    <item>ಅರಪಾಹೋ</item>
+    <!-- arw - Arawak -->
+    <item>ಅರಾವಾಕ್</item>
+    <!-- as - Assamese -->
+    <item>ಅಸ್ಸಾಮೀಸ್</item>
+    <!-- ast - Asturian -->
+    <item>ಆಸ್ಟುರಿಯನ್</item>
+    <!-- av - Avaric -->
+    <item>ಅವರಿಕ್</item>
+    <!-- awa - Awadhi -->
+    <item>ಅವಧಿ</item>
+    <!-- ay - Aymara -->
+    <item>ಅಯ್ಮಾರಾ</item>
+    <!-- az - Azerbaijani -->
+    <item>ಅಜೆರ್ಬೈಜಾನಿ</item>
+    <!-- ba - Bashkir -->
+    <item>ಬಶ್ಕಿರ್</item>
+    <!-- bal - Baluchi -->
+    <item>ಬಲೂಚಿ</item>
+    <!-- ban - Balinese -->
+    <item>ಬಲಿನೀಸ್</item>
+    <!-- bas - Basaa -->
+    <item>ಬಸಾ</item>
+    <!-- be - Belarusian -->
+    <item>ಬೆಲರೂಸಿಯನ್</item>
+    <!-- bej - Beja -->
+    <item>ಬೇಜಾ</item>
+    <!-- bem - Bemba -->
+    <item>ಬೆಂಬಾ</item>
+    <!-- bg - Bulgarian -->
+    <item>ಬಲ್ಗೇರಿಯನ್</item>
+    <!-- bho - Bhojpuri -->
+    <item>ಭೋಜಪುರಿ</item>
+    <!-- bi - Bislama -->
+    <item>ಬಿಸ್ಲಾಮಾ</item>
+    <!-- bik - Bikol -->
+    <item>ಬಿಕೊಲ್</item>
+    <!-- bin - Bini -->
+    <item>ಬಿನಿ</item>
+    <!-- bla - Siksika -->
+    <item>ಸಿಕ್ಸಿಕಾ</item>
+    <!-- bm - Bambara -->
+    <item>ಬಂಬಾರಾ</item>
+    <!-- bn - Bengali -->
+    <item>ಬೆಂಗಾಲಿ</item>
+    <!-- bo - Tibetan -->
+    <item>ಟಿಬೇಟಿಯನ್</item>
+    <!-- br - Breton -->
+    <item>ಬ್ರೆಟನ್</item>
+    <!-- bra - Braj -->
+    <item>ಬ್ರಾಜ್</item>
+    <!-- bs - Bosnian -->
+    <item>ಬೋಸ್ನಿಯನ್</item>
+    <!-- bua - Buriat -->
+    <item>ಬುರಿಯಟ್</item>
+    <!-- bug - Buginese -->
+    <item>ಬುಗಿನೀಸ್</item>
+    <!-- byn - Blin -->
+    <item>ಬ್ಲಿನ್</item>
+    <!-- ca - Catalan -->
+    <item>ಕೆಟಲಾನ್</item>
+    <!-- cad - Caddo -->
+    <item>ಕ್ಯಾಡ್ಡೋ</item>
+    <!-- car - Carib -->
+    <item>ಕಾರಿಬ್</item>
+    <!-- cch - Atsam -->
+    <item>ಅಟ್ಸಮ್</item>
+    <!-- ce - Chechen -->
+    <item>ಚೆಚನ್</item>
+    <!-- ceb - Cebuano -->
+    <item>ಸೆಬುಆನೋ</item>
+    <!-- ch - Chamorro -->
+    <item>ಕಮೊರೊ</item>
+    <!-- chb - Chibcha -->
+    <item>ಚಿಬ್ಚಾ</item>
+    <!-- chg - Chagatai -->
+    <item>ಚಗಟಾಯ್</item>
+    <!-- chk - Chuukese -->
+    <item>ಚೂಕಿಸೆ</item>
+    <!-- chm - Mari -->
+    <item>ಮಾರಿ</item>
+    <!-- chn - Chinook Jargon -->
+    <item>ಚಿನೂಕ್ ಜಾರ್ಗೋನ್</item>
+    <!-- cho - Choctaw -->
+    <item>ಚೋಕ್ಟಾವ್</item>
+    <!-- chp - Chipewyan -->
+    <item>ಚಿಪೆವ್ಯಾನ್</item>
+    <!-- chr - Cherokee -->
+    <item>ಚೆರೋಕೀ</item>
+    <!-- chy - Cheyenne -->
+    <item>ಚೀಯೆನ್ನೇ</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>ಸೊರಾನಿ ಕುರ್ದಿಷ್</item>
+    <!-- co - Corsican -->
+    <item>ಕೋರ್ಸಿಕನ್</item>
+    <!-- cop - Coptic -->
+    <item>ಕೊಪ್ಟಿಕ್</item>
+    <!-- cr - Cree -->
+    <item>ಕ್ರೀ</item>
+    <!-- crh - Crimean Turkish -->
+    <item>ಕ್ರಿಮೀಯನ್ ಟರ್ಕಿಷ್</item>
+    <!-- cs - Czech -->
+    <item>ಜೆಕ್</item>
+    <!-- csb - Kashubian -->
+    <item>ಕಶುಬಿಯನ್</item>
+    <!-- cu - Church Slavic -->
+    <item>ಚರ್ಚ್ ಸ್ಲಾವಿಕ್</item>
+    <!-- cv - Chuvash -->
+    <item>ಚುವಾಶ್</item>
+    <!-- cy - Welsh -->
+    <item>ವೆಲ್ಶ್</item>
+    <!-- da - Danish -->
+    <item>ಡ್ಯಾನಿಶ್</item>
+    <!-- dak - Dakota -->
+    <item>ಡಕೋಟ</item>
+    <!-- dar - Dargwa -->
+    <item>ದರ್ಗ್ವಾ</item>
+    <!-- de - German -->
+    <item>ಜರ್ಮನ್</item>
+    <!-- de_AT - Austrian German -->
+    <item>ಆಸ್ಟ್ರಿಯನ್ ಜರ್ಮನ್</item>
+    <!-- de_CH - Swiss High German -->
+    <item>ಸ್ವಿಸ್ ಹೈ ಜರ್ಮನ್</item>
+    <!-- del - Delaware -->
+    <item>ಡೆಲಾವೇರ್</item>
+    <!-- den - Slave -->
+    <item>ಸ್ಲೇವ್</item>
+    <!-- dgr - Dogrib -->
+    <item>ಡೋಗ್ರಿಬ್</item>
+    <!-- din - Dinka -->
+    <item>ಡಿಂಕಾ</item>
+    <!-- doi - Dogri -->
+    <item>ಡೋಗ್ರಿ</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>ಲೋವರ್ ಸೋರ್ಬಿಯನ್</item>
+    <!-- dua - Duala -->
+    <item>ಡುವಾಲಾ</item>
+    <!-- dum - Middle Dutch -->
+    <item>ಮಧ್ಯ ಡಚ್</item>
+    <!-- dv - Divehi -->
+    <item>ದಿವೆಹಿ</item>
+    <!-- dyu - Dyula -->
+    <item>ಡ್ಯೂಲಾ</item>
+    <!-- dz - Dzongkha -->
+    <item>ಜೋಂಗ್‌ಖಾ</item>
+    <!-- ee - Ewe -->
+    <item>ಎವ್</item>
+    <!-- efi - Efik -->
+    <item>ಎಫಿಕ್</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>ಪ್ರಾಚೀನ ಈಜಿಪ್ಟಿಯನ್</item>
+    <!-- eka - Ekajuk -->
+    <item>ಎಕಾಜುಕ್</item>
+    <!-- el - Greek -->
+    <item>ಗ್ರೀಕ್</item>
+    <!-- elx - Elamite -->
+    <item>ಎಲಾಮೈಟ್</item>
+    <!-- en - English -->
+    <item>ಇಂಗ್ಲೀಷ್</item>
+    <!-- en_AU - Australian English -->
+    <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಇಂಗ್ಲೀಷ್</item>
+    <!-- en_CA - Canadian English -->
+    <item>ಕೆನೆಡಿಯನ್ ಇಂಗ್ಲೀಷ್</item>
+    <!-- en_GB - British English -->
+    <item>ಬ್ರಿಟಿಷ್ ಇಂಗ್ಲೀಷ್</item>
+    <!-- en_US - American English -->
+    <item>ಯು.ಎಸ್. ಇಂಗ್ಲೀಷ್</item>
+    <!-- enm - Middle English -->
+    <item>ಮಧ್ಯ ಇಂಗ್ಲೀಷ್</item>
+    <!-- eo - Esperanto -->
+    <item>ಎಸ್ಪೆರಾಂಟೊ</item>
+    <!-- es - Spanish -->
+    <item>ಸ್ಪ್ಯಾನಿಷ್</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>ಲ್ಯಾಟಿನ್ ಅಮೇರಿಕನ್ ಸ್ಪ್ಯಾನಿಶ್</item>
+    <!-- es_ES - European Spanish -->
+    <item>ಯುರೋಪಿಯನ್ ಸ್ಪ್ಯಾನಿಷ್</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>ಮೆಕ್ಸಿಕನ್ ಸ್ಪ್ಯಾನಿಷ್</item>
+    <!-- et - Estonian -->
+    <item>ಎಸ್ಟೊನಿಯನ್</item>
+    <!-- eu - Basque -->
+    <item>ಬಾಸ್ಕ್</item>
+    <!-- ewo - Ewondo -->
+    <item>ಇವಾಂಡೋ</item>
+    <!-- fa - Persian -->
+    <item>ಪರ್ಶಿಯನ್</item>
+    <!-- fan - Fang -->
+    <item>ಫೆಂಗ್</item>
+    <!-- fat - Fanti -->
+    <item>ಫಾಂಟಿ</item>
+    <!-- ff - Fulah -->
+    <item>ಫುಲಾಹ್</item>
+    <!-- fi - Finnish -->
+    <item>ಫಿನ್ನಿಶ್</item>
+    <!-- fil - Filipino -->
+    <item>ಫಿಲಿಪಿನೊ</item>
+    <!-- fj - Fijian -->
+    <item>ಫಿಜಿಯನ್</item>
+    <!-- fo - Faroese -->
+    <item>ಫರೋಸಿ</item>
+    <!-- fon - Fon -->
+    <item>ಫೋನ್</item>
+    <!-- fr - French -->
+    <item>ಫ್ರೆಂಚ್</item>
+    <!-- fr_CA - Canadian French -->
+    <item>ಕೆನೆಡಿಯನ್ ಫ್ರೆಂಚ್</item>
+    <!-- fr_CH - Swiss French -->
+    <item>ಸ್ವಿಸ್ ಫ್ರೆಂಚ್</item>
+    <!-- frm - Middle French -->
+    <item>ಮಧ್ಯ ಫ್ರೆಂಚ್</item>
+    <!-- fro - Old French -->
+    <item>ಪ್ರಾಚೀನ ಫ್ರೆಂಚ್</item>
+    <!-- frr - Northern Frisian -->
+    <item>ಉತ್ತರ ಫ್ರಿಸಿಯನ್</item>
+    <!-- frs - Eastern Frisian -->
+    <item>ಪೂರ್ವ ಫ್ರಿಸಿಯನ್</item>
+    <!-- fur - Friulian -->
+    <item>ಫ್ರಿಯುಲಿಯನ್</item>
+    <!-- fy - Western Frisian -->
+    <item>ಪಶ್ಚಿಮ ಫ್ರಿಸಿಯನ್</item>
+    <!-- ga - Irish -->
+    <item>ಐರಿಷ್</item>
+    <!-- gaa - Ga -->
+    <item>ಗ</item>
+    <!-- gay - Gayo -->
+    <item>ಗಾಯೋ</item>
+    <!-- gba - Gbaya -->
+    <item>ಗ್ಬಾಯಾ</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>ಸ್ಕಾಟಿಶ್ ಗ್ಯಾಲಿಕ್</item>
+    <!-- gez - Geez -->
+    <item>ಗೀಝ್</item>
+    <!-- gil - Gilbertese -->
+    <item>ಗಿಲ್ಬರ್ಟೀಸ್</item>
+    <!-- gl - Galician -->
+    <item>ಗ್ಯಾಲಿಶಿಯನ್</item>
+    <!-- gmh - Middle High German -->
+    <item>ಮಧ್ಯ ಹೈ ಜರ್ಮನ್</item>
+    <!-- gn - Guarani -->
+    <item>ಗೌರಾನಿ</item>
+    <!-- goh - Old High German -->
+    <item>ಪ್ರಾಚೀನ ಹೈ ಜರ್ಮನ್</item>
+    <!-- gon - Gondi -->
+    <item>ಗೊಂಡಿ</item>
+    <!-- gor - Gorontalo -->
+    <item>ಗೊರೊಂಟಾಲೋ</item>
+    <!-- got - Gothic -->
+    <item>ಗೋಥಿಕ್</item>
+    <!-- grb - Grebo -->
+    <item>ಗ್ರೇಬೋ</item>
+    <!-- grc - Ancient Greek -->
+    <item>ಪ್ರಾಚೀನ ಗ್ರೀಕ್</item>
+    <!-- gsw - Swiss German -->
+    <item>ಸ್ವಿಸ್ ಜರ್ಮನ್</item>
+    <!-- gu - Gujarati -->
+    <item>ಗುಜರಾತಿ</item>
+    <!-- gv - Manx -->
+    <item>ಮ್ಯಾಂಕ್ಸ್</item>
+    <!-- gwi - Gwichʼin -->
+    <item>ಗ್ವಿಚ್‌ಇನ್</item>
+    <!-- ha - Hausa -->
+    <item>ಹೌಸಾ</item>
+    <!-- hai - Haida -->
+    <item>ಹೈಡಾ</item>
+    <!-- haw - Hawaiian -->
+    <item>ಹವಾಯಿಯನ್</item>
+    <!-- he - Hebrew -->
+    <item>ಹೀಬ್ರ್ಯೂ</item>
+    <!-- hi - Hindi -->
+    <item>ಹಿಂದಿ</item>
+    <!-- hil - Hiligaynon -->
+    <item>ಹಿಲಿಗೇನನ್</item>
+    <!-- hit - Hittite -->
+    <item>ಹಿಟ್ಟಿಟೆ</item>
+    <!-- hmn - Hmong -->
+    <item>ಮೋಂಗ್</item>
+    <!-- ho - Hiri Motu -->
+    <item>ಹಿರಿ ಮೊಟು</item>
+    <!-- hr - Croatian -->
+    <item>ಕ್ರೊಯೇಶಿಯನ್</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>ಅಪ್ಪರ್ ಸರ್ಬಿಯನ್</item>
+    <!-- ht - Haitian -->
+    <item>ಹೈತಿಯನ್</item>
+    <!-- hu - Hungarian -->
+    <item>ಹಂಗೇರಿಯನ್</item>
+    <!-- hup - Hupa -->
+    <item>ಹೂಪಾ</item>
+    <!-- hy - Armenian -->
+    <item>ಅರ್ಮೇನಿಯನ್</item>
+    <!-- hz - Herero -->
+    <item>ಹೆರೆರೊ</item>
+    <!-- ia - Interlingua -->
+    <item>ಇಂಟರ್‌ಲಿಂಗ್ವಾ</item>
+    <!-- iba - Iban -->
+    <item>ಇಬಾನ್</item>
+    <!-- id - Indonesian -->
+    <item>ಇಂಡೋನೇಶಿಯನ್</item>
+    <!-- ie - Interlingue -->
+    <item>ಇಂಟರ್ಲಿಂಗ್</item>
+    <!-- ig - Igbo -->
+    <item>ಇಗ್ಬೊ</item>
+    <!-- ii - Sichuan Yi -->
+    <item>ಸಿಚುಅನ್ ಯಿ</item>
+    <!-- ik - Inupiaq -->
+    <item>ಇನುಪಿಯಾಕ್</item>
+    <!-- ilo - Iloko -->
+    <item>ಇಲ್ಲಿಕೋ</item>
+    <!-- inh - Ingush -->
+    <item>ಇಂಗುಷ್</item>
+    <!-- io - Ido -->
+    <item>ಇಡೊ</item>
+    <!-- is - Icelandic -->
+    <item>ಐಸ್ಲಾಂಡಿಕ್</item>
+    <!-- it - Italian -->
+    <item>ಇಟಾಲಿಯನ್</item>
+    <!-- iu - Inuktitut -->
+    <item>ಇನುಕ್ಟಿಟುಟ್</item>
+    <!-- ja - Japanese -->
+    <item>ಜಾಪನೀಸ್</item>
+    <!-- jbo - Lojban -->
+    <item>ಲೊಜ್ಬಾನ್</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>ಜೂಡಿಯೋ-ಪರ್ಶಿಯನ್</item>
+    <!-- jrb - Judeo-Arabic -->
+    <item>ಜೂಡಿಯೋ-ಅರೇಬಿಕ್</item>
+    <!-- jv - Javanese -->
+    <item>ಜಾವಾನೀಸ್</item>
+    <!-- ka - Georgian -->
+    <item>ಜಾರ್ಜಿಯನ್</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>ಕಾರಾ-ಕಲ್ಪಾಕ್</item>
+    <!-- kab - Kabyle -->
+    <item>ಕಬೈಲ್</item>
+    <!-- kac - Kachin -->
+    <item>ಕಚಿನ್</item>
+    <!-- kaj - Jju -->
+    <item>ಜ್ಜು</item>
+    <!-- kam - Kamba -->
+    <item>ಕಂಬಾ</item>
+    <!-- kaw - Kawi -->
+    <item>ಕಾವಿ</item>
+    <!-- kbd - Kabardian -->
+    <item>ಕಬರ್ಡಿಯನ್</item>
+    <!-- kcg - Tyap -->
+    <item>ಟ್ಯಾಪ್</item>
+    <!-- kfo - Koro -->
+    <item>ಕೋರೋ</item>
+    <!-- kg - Kongo -->
+    <item>ಕೊಂಗೊ</item>
+    <!-- kha - Khasi -->
+    <item>ಖಾಸಿ</item>
+    <!-- kho - Khotanese -->
+    <item>ಖೋಟಾನೀಸ್</item>
+    <!-- ki - Kikuyu -->
+    <item>ಕಿಕುಯು</item>
+    <!-- kj - Kuanyama -->
+    <item>ಕ್ವಾನ್‌ಯಾಮಾ</item>
+    <!-- kk - Kazakh -->
+    <item>ಕಝಕ್</item>
+    <!-- kl - Kalaallisut -->
+    <item>ಕಲಾಲ್ಲಿಸುಟ್</item>
+    <!-- km - Khmer -->
+    <item>ಖಮೇರ್</item>
+    <!-- kmb - Kimbundu -->
+    <item>ಕಿಂಬುಂಡು</item>
+    <!-- kn - Kannada -->
+    <item>ಕನ್ನಡ</item>
+    <!-- ko - Korean -->
+    <item>ಕೋರಿಯನ್</item>
+    <!-- kok - Konkani -->
+    <item>ಕೊಂಕಣಿ</item>
+    <!-- kos - Kosraean -->
+    <item>ಕೊಸರಿಯನ್</item>
+    <!-- kpe - Kpelle -->
+    <item>ಕಪೆಲ್ಲೆ</item>
+    <!-- kr - Kanuri -->
+    <item>ಕನುರಿ</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>ಕರಚಯ್-ಬಲ್ಕಾರ್</item>
+    <!-- krl - Karelian -->
+    <item>ಕರೇಲಿಯನ್</item>
+    <!-- kru - Kurukh -->
+    <item>ಕುರುಖ್</item>
+    <!-- ks - Kashmiri -->
+    <item>ಕಾಶ್ಮೀರಿ</item>
+    <!-- ku - Kurdish -->
+    <item>ಕುರ್ದಿಷ್</item>
+    <!-- kum - Kumyk -->
+    <item>ಕುಮೈಕ್</item>
+    <!-- kut - Kutenai -->
+    <item>ಕುಟೇನಾಯ್</item>
+    <!-- kv - Komi -->
+    <item>ಕೋಮಿ</item>
+    <!-- kw - Cornish -->
+    <item>ಕೋರ್ನಿಷ್</item>
+    <!-- ky - Kyrgyz -->
+    <item>ಕಿರ್ಜಿಝ್</item>
+    <!-- la - Latin -->
+    <item>ಲ್ಯಾಟಿನ್</item>
+    <!-- lad - Ladino -->
+    <item>ಕಾಡಿನೋ</item>
+    <!-- lah - Lahnda -->
+    <item>ಲಹಂಡಾ</item>
+    <!-- lam - Lamba -->
+    <item>ಲಂಬಾ</item>
+    <!-- lb - Luxembourgish -->
+    <item>ಲಕ್ಸಂಬರ್ಗ್</item>
+    <!-- lez - Lezghian -->
+    <item>ಲೆಜ್ಘಿಯನ್</item>
+    <!-- lg - Ganda -->
+    <item>ಗಾಂಡಾ</item>
+    <!-- li - Limburgish -->
+    <item>ಲಿಂಬರ್ಗಿಶ್</item>
+    <!-- ln - Lingala -->
+    <item>ಲಿಂಗಾಲ</item>
+    <!-- lo - Lao -->
+    <item>ಲಾವೋ</item>
+    <!-- lol - Mongo -->
+    <item>ಮೊಂಗೋ</item>
+    <!-- loz - Lozi -->
+    <item>ಲೋಝಿ</item>
+    <!-- lt - Lithuanian -->
+    <item>ಲಿಥುವೇನಿಯನ್</item>
+    <!-- lu - Luba-Katanga -->
+    <item>ಲೂಬಾ-ಕಟಾಂಗಾ</item>
+    <!-- lua - Luba-Lulua -->
+    <item>ಲುಬ-ಲುಲಾ</item>
+    <!-- lui - Luiseno -->
+    <item>ಲೂಯಿಸೆನೋ</item>
+    <!-- lun - Lunda -->
+    <item>ಲುಂಡಾ</item>
+    <!-- luo - Luo -->
+    <item>ಲುವೋ</item>
+    <!-- lus - Mizo -->
+    <item>ಲುಶಾಯ್</item>
+    <!-- lv - Latvian -->
+    <item>ಲಟ್ವಿಯನ್</item>
+    <!-- mad - Madurese -->
+    <item>ಮದುರೀಸ್</item>
+    <!-- mag - Magahi -->
+    <item>ಮಗಾಹಿ</item>
+    <!-- mai - Maithili -->
+    <item>ಮೈಥಿಲಿ</item>
+    <!-- mak - Makasar -->
+    <item>ಮಕಾಸರ್</item>
+    <!-- man - Mandingo -->
+    <item>ಮಂಡಿಂಗೊ</item>
+    <!-- mas - Masai -->
+    <item>ಮಸಾಯ್</item>
+    <!-- mdf - Moksha -->
+    <item>ಮೋಕ್ಷ</item>
+    <!-- mdr - Mandar -->
+    <item>ಮಂದಾರ್</item>
+    <!-- men - Mende -->
+    <item>ಮೆಂಡೆ</item>
+    <!-- mfe - Morisyen -->
+    <item>ಮೊರಿಸನ್</item>
+    <!-- mg - Malagasy -->
+    <item>ಮಲಗಾಸಿ</item>
+    <!-- mga - Middle Irish -->
+    <item>ಮಧ್ಯ ಐರಿಷ್</item>
+    <!-- mh - Marshallese -->
+    <item>ಮಾರ್ಶಲ್ಲೀಸ್</item>
+    <!-- mi - Maori -->
+    <item>ಮಾವೋರಿ</item>
+    <!-- mic - Micmac -->
+    <item>ಮಿಕ್‌ಮ್ಯಾಕ್</item>
+    <!-- min - Minangkabau -->
+    <item>ಮಿನಂಗ್‌ಕಬಾವು</item>
+    <!-- mk - Macedonian -->
+    <item>ಮೆಸಿಡೋನಿಯನ್</item>
+    <!-- ml - Malayalam -->
+    <item>ಮಲಯಾಳಂ</item>
+    <!-- mn - Mongolian -->
+    <item>ಮಂಗೋಲಿಯನ್</item>
+    <!-- mnc - Manchu -->
+    <item>ಮಂಚು</item>
+    <!-- mni - Manipuri -->
+    <item>ಮಣಿಪುರಿ</item>
+    <!-- moh - Mohawk -->
+    <item>ಮೊಹಾವ್ಕ್</item>
+    <!-- mos - Mossi -->
+    <item>ಮೊಸ್ಸಿ</item>
+    <!-- mr - Marathi -->
+    <item>ಮರಾಠಿ</item>
+    <!-- ms - Malay -->
+    <item>ಮಲಯ</item>
+    <!-- mt - Maltese -->
+    <item>ಮಾಲ್ಟೀಸ್</item>
+    <!-- mul - Multiple Languages -->
+    <item>ಬಹುಸಂಖ್ಯೆಯ ಭಾಷೆಗಳು</item>
+    <!-- mus - Creek -->
+    <item>ಕ್ರೀಕ್</item>
+    <!-- mwl - Mirandese -->
+    <item>ಕಿರಾಂಡೀಸ್</item>
+    <!-- mwr - Marwari -->
+    <item>ಮಾರ್ವಾಡಿ</item>
+    <!-- my - Burmese -->
+    <item>ಬರ್ಮೀಸ್</item>
+    <!-- myv - Erzya -->
+    <item>ಎರ್‌ಝ್ಯಾ</item>
+    <!-- na - Nauru -->
+    <item>ನೌರು</item>
+    <!-- nap - Neapolitan -->
+    <item>ನಿಯಾಪೊಲಿಟನ್</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>ನಾರ್ವೇಜಿಯನ್ ಬೊಕ್ಮಲ್</item>
+    <!-- nd - North Ndebele -->
+    <item>ಉತ್ತರ ದೆಬೆಲೆ</item>
+    <!-- nds - Low German -->
+    <item>ಲೋ ಜರ್ಮನ್</item>
+    <!-- ne - Nepali -->
+    <item>ನೇಪಾಳಿ</item>
+    <!-- new - Newari -->
+    <item>ನೇವಾರೀ</item>
+    <!-- ng - Ndonga -->
+    <item>ಡೋಂಗಾ</item>
+    <!-- nia - Nias -->
+    <item>ನಿಯಾಸ್</item>
+    <!-- niu - Niuean -->
+    <item>ನಿಯುವನ್</item>
+    <!-- nl - Dutch -->
+    <item>ಡಚ್</item>
+    <!-- nl_BE - Flemish -->
+    <item>ಫ್ಲೆಮಿಷ್</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ನಾರ್ವೇಜಿಯನ್ ನೂನಾರ್ಸ್ಕ್</item>
+    <!-- no - Norwegian -->
+    <item>ನಾರ್ವೇಜಿಯನ್</item>
+    <!-- nog - Nogai -->
+    <item>ನೊಗಾಯ್</item>
+    <!-- non - Old Norse -->
+    <item>ಪ್ರಾಚೀನ ನೋರ್ಸ್</item>
+    <!-- nqo - N’Ko -->
+    <item>ಎನ್‌ಕೋ</item>
+    <!-- nr - South Ndebele -->
+    <item>ದಕ್ಷಿಣ ದೆಬೆಲೆ</item>
+    <!-- nso - Northern Sotho -->
+    <item>ಉತ್ತರ ಸೋಥೋ</item>
+    <!-- nv - Navajo -->
+    <item>ನವಾಜೊ</item>
+    <!-- nwc - Classical Newari -->
+    <item>ಶಾಸ್ತ್ರೀಯ ನೇವಾರಿ</item>
+    <!-- ny - Nyanja -->
+    <item>ನ್ಯಾಂಜಾ</item>
+    <!-- nym - Nyamwezi -->
+    <item>ನ್ಯಾಮ್‌ವೆಂಜಿ</item>
+    <!-- nyn - Nyankole -->
+    <item>ನ್ಯಾನ್‌ಕೋಲೆ</item>
+    <!-- nyo - Nyoro -->
+    <item>ನ್ಯೋರೋ</item>
+    <!-- nzi - Nzima -->
+    <item>ಜೀಮಾ</item>
+    <!-- oc - Occitan -->
+    <item>ಒಸಿಟನ್</item>
+    <!-- oj - Ojibwa -->
+    <item>ಒಜಿಬ್ವಾ</item>
+    <!-- om - Oromo -->
+    <item>ಓರೊಮೋ</item>
+    <!-- or - Oriya -->
+    <item>ಓರಿಯಾ</item>
+    <!-- os - Ossetic -->
+    <item>ಒಸ್ಸೆಟಿಕ್</item>
+    <!-- osa - Osage -->
+    <item>ಓಸಾಜ್</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>ಒಟ್ಟೋಮನ್ ತುರ್ಕಿಷ್</item>
+    <!-- pa - Punjabi -->
+    <item>ಪಂಜಾಬಿ</item>
+    <!-- pag - Pangasinan -->
+    <item>ಪಂಗಾಸಿನನ್</item>
+    <!-- pal - Pahlavi -->
+    <item>ಪಹ್ಲವಿ</item>
+    <!-- pam - Pampanga -->
+    <item>ಪಂಪಾಂಗಾ</item>
+    <!-- pap - Papiamento -->
+    <item>ಪಾಪಿಯಮೆಂಟೋ</item>
+    <!-- pau - Palauan -->
+    <item>ಪಲುಆನ್</item>
+    <!-- peo - Old Persian -->
+    <item>ಪ್ರಾಚೀನ ಪರ್ಶಿಯನ್</item>
+    <!-- phn - Phoenician -->
+    <item>ಫೀನಿಷಿಯನ್</item>
+    <!-- pi - Pali -->
+    <item>ಪಾಲಿ</item>
+    <!-- pl - Polish -->
+    <item>ಪೋಲಿಶ್</item>
+    <!-- pon - Pohnpeian -->
+    <item>ಪೋನ್‌‌ಪಿಯನ್</item>
+    <!-- pro - Old Provençal -->
+    <item>ಪ್ರಾಚೀನ ಪ್ರೊವೆನ್ಶಿಯಲ್</item>
+    <!-- ps - Pashto -->
+    <item>ಪಾಷ್ಟೋ</item>
+    <!-- pt - Portuguese -->
+    <item>ಪೋರ್ಚುಗೀಸ್</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>ಬ್ರೆಜಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ಯೂರೋಪಿಯನ್ ಪೋರ್ಚುಗೀಸ್</item>
+    <!-- qu - Quechua -->
+    <item>ಕ್ವೆಚುವಾ</item>
+    <!-- raj - Rajasthani -->
+    <item>ರಾಜಾಸ್ಥಾನಿ</item>
+    <!-- rap - Rapanui -->
+    <item>ರಾಪಾನುಯಿ</item>
+    <!-- rar - Rarotongan -->
+    <item>ರಾರೋಟೊಂಗನ್</item>
+    <!-- rm - Romansh -->
+    <item>ರೋಮ್ಯಾನ್ಸ್</item>
+    <!-- rn - Rundi -->
+    <item>ರುಂಡಿ</item>
+    <!-- ro - Romanian -->
+    <item>ರೊಮೇನಿಯನ್</item>
+    <!-- ro_MD - Moldavian -->
+    <item>ಮಾಲ್ಡೀವಿಯನ್</item>
+    <!-- rom - Romany -->
+    <item>ರೋಮಾನಿ</item>
+    <!-- root - Root -->
+    <item>ರೂಟ್</item>
+    <!-- ru - Russian -->
+    <item>ರಶಿಯನ್</item>
+    <!-- rup - Aromanian -->
+    <item>ಅರೋಮಾನಿಯನ್</item>
+    <!-- rw - Kinyarwanda -->
+    <item>ಕೀನ್ಯಾರುವಾಂಡಾ</item>
+    <!-- sa - Sanskrit -->
+    <item>ಸಂಸ್ಕೃತ</item>
+    <!-- sad - Sandawe -->
+    <item>ಸಂಡಾವೇ</item>
+    <!-- sah - Sakha -->
+    <item>ಯಾಕುಟ್</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>ಸಮರಿಟನ್ ಅರಾಮಿಕ್</item>
+    <!-- sas - Sasak -->
+    <item>ಸಸಾಕ್</item>
+    <!-- sat - Santali -->
+    <item>ಸಂತಾಲಿ</item>
+    <!-- sc - Sardinian -->
+    <item>ಸರ್ಡೀನಿಯನ್</item>
+    <!-- scn - Sicilian -->
+    <item>ಸಿಸಿಲಿಯನ್</item>
+    <!-- sco - Scots -->
+    <item>ಸ್ಕೋಟ್ಸ್</item>
+    <!-- sd - Sindhi -->
+    <item>ಸಿಂಧಿ</item>
+    <!-- se - Northern Sami -->
+    <item>ಉತ್ತರ ಸಾಮಿ</item>
+    <!-- sel - Selkup -->
+    <item>ಸೆಲ್ಕಪ್</item>
+    <!-- sg - Sango -->
+    <item>ಸಾಂಗೋ</item>
+    <!-- sga - Old Irish -->
+    <item>ಪ್ರಾಚೀನ ಐರಿಷ್</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>ಸರ್ಬೋ-ಕ್ರೊಯೇಶಿಯನ್</item>
+    <!-- shn - Shan -->
+    <item>ಶಾನ್</item>
+    <!-- si - Sinhala -->
+    <item>ಸಿಂಹಳ</item>
+    <!-- sid - Sidamo -->
+    <item>ಸಿಡಾಮೋ</item>
+    <!-- sk - Slovak -->
+    <item>ಸ್ಲೋವಾಕ್</item>
+    <!-- sl - Slovenian -->
+    <item>ಸ್ಲೋವೇನಿಯನ್</item>
+    <!-- sm - Samoan -->
+    <item>ಸಮೋವನ್</item>
+    <!-- sma - Southern Sami -->
+    <item>ದಕ್ಷಿಣ ಸಾಮಿ</item>
+    <!-- smj - Lule Sami -->
+    <item>ಲೂಲ್ ಸಾಮಿ</item>
+    <!-- smn - Inari Sami -->
+    <item>ಇನರಿ ಸಾಮಿ</item>
+    <!-- sms - Skolt Sami -->
+    <item>ಸ್ಕೋಟ್ ಸಾಮಿ</item>
+    <!-- sn - Shona -->
+    <item>ಶೋನಾ</item>
+    <!-- snk - Soninke -->
+    <item>ಸೋನಿಂಕೆ</item>
+    <!-- so - Somali -->
+    <item>ಸೊಮಾಲಿ</item>
+    <!-- sog - Sogdien -->
+    <item>ಸೋಗ್ಡಿಏನ್</item>
+    <!-- sq - Albanian -->
+    <item>ಅಲ್ಬೇನಿಯನ್</item>
+    <!-- sr - Serbian -->
+    <item>ಸರ್ಬಿಯನ್</item>
+    <!-- srn - Sranan Tongo -->
+    <item>ಸ್ರಾನನ್ ಟೋಂಗೋ</item>
+    <!-- srr - Serer -->
+    <item>ಸೇರೇರ್</item>
+    <!-- ss - Swati -->
+    <item>ಸ್ವಾತಿ</item>
+    <!-- st - Southern Sotho -->
+    <item>ದಕ್ಷಿಣ ಸೋಥೋ</item>
+    <!-- su - Sundanese -->
+    <item>ಸುಂಡಾನೀಸ್</item>
+    <!-- suk - Sukuma -->
+    <item>ಸುಕುಮಾ</item>
+    <!-- sus - Susu -->
+    <item>ಸುಸು</item>
+    <!-- sux - Sumerian -->
+    <item>ಸುಮೇರಿಯನ್</item>
+    <!-- sv - Swedish -->
+    <item>ಸ್ವೀಡಿಷ್</item>
+    <!-- sw - Swahili -->
+    <item>ಸ್ವಹಿಲಿ</item>
+    <!-- swb - Comorian -->
+    <item>ಕೊಮೊರಿಯನ್</item>
+    <!-- syc - Classical Syriac -->
+    <item>ಶಾಸ್ತ್ರೀಯ ಸಿರಿಯಕ್</item>
+    <!-- syr - Syriac -->
+    <item>ಸಿರಿಯಕ್</item>
+    <!-- ta - Tamil -->
+    <item>ತಮಿಳು</item>
+    <!-- te - Telugu -->
+    <item>ತೆಲುಗು</item>
+    <!-- tem - Timne -->
+    <item>ಟಿಮ್ನೆ</item>
+    <!-- ter - Tereno -->
+    <item>ಟೆರೆನೋ</item>
+    <!-- tet - Tetum -->
+    <item>ಟೇಟಮ್</item>
+    <!-- tg - Tajik -->
+    <item>ತಾಜಿಕ್</item>
+    <!-- th - Thai -->
+    <item>ಥಾಯ್</item>
+    <!-- ti - Tigrinya -->
+    <item>ಟಿಗ್ರಿನ್ಯಾ</item>
+    <!-- tig - Tigre -->
+    <item>ಟೈಗ್ರೆ</item>
+    <!-- tiv - Tiv -->
+    <item>ಟಿವ್</item>
+    <!-- tk - Turkmen -->
+    <item>ಟರ್ಕ್‌ಮೆನ್</item>
+    <!-- tkl - Tokelau -->
+    <item>ಟೊಕೆಲಾವ್</item>
+    <!-- tl - Tagalog -->
+    <item>ಟ್ಯಾಗಲೋಗ್</item>
+    <!-- tlh - Klingon -->
+    <item>ಕ್ಲಿಂಗನ್</item>
+    <!-- tli - Tlingit -->
+    <item>ಟ್ಲಿಂಗಿಟ್</item>
+    <!-- tmh - Tamashek -->
+    <item>ಟಮಾಷೆಕ್</item>
+    <!-- tn - Tswana -->
+    <item>ಸ್ವಾನಾ</item>
+    <!-- to - Tongan -->
+    <item>ಟೋಂಗನ್</item>
+    <!-- tog - Nyasa Tonga -->
+    <item>ನ್ಯಾಸಾ ಟೋಂಗಾ</item>
+    <!-- tpi - Tok Pisin -->
+    <item>ಟೋಕ್ ಪಿಸಿನ್</item>
+    <!-- tr - Turkish -->
+    <item>ಟರ್ಕಿಶ್</item>
+    <!-- ts - Tsonga -->
+    <item>ಸೋಂಗಾ</item>
+    <!-- tsi - Tsimshian -->
+    <item>ಸಿಂಶಿಯನ್</item>
+    <!-- tt - Tatar -->
+    <item>ಟಾಟರ್</item>
+    <!-- tum - Tumbuka -->
+    <item>ತುಂಬುಕಾ</item>
+    <!-- tvl - Tuvalu -->
+    <item>ಟುವಾಲು</item>
+    <!-- tw - Twi -->
+    <item>ಟ್ವಿ</item>
+    <!-- ty - Tahitian -->
+    <item>ತಹಿತಿಯನ್</item>
+    <!-- tyv - Tuvinian -->
+    <item>ಟುವಿನಿಯನ್</item>
+    <!-- udm - Udmurt -->
+    <item>ಉಡ್‌ಮುರ್ಟ್</item>
+    <!-- ug - Uyghur -->
+    <item>ಉಯಿಘರ್</item>
+    <!-- uga - Ugaritic -->
+    <item>ಉಗಾರಿಟಿಕ್</item>
+    <!-- uk - Ukrainian -->
+    <item>ಉಕ್ರೈನಿಯನ್</item>
+    <!-- umb - Umbundu -->
+    <item>ಉಂಬುಂಡು</item>
+    <!-- und - Unknown Language -->
+    <item>ಅಪರಿಚಿತ ಅಥವಾ ಅಮಾನ್ಯ ಭಾಷೆ</item>
+    <!-- ur - Urdu -->
+    <item>ಉರ್ದು</item>
+    <!-- uz - Uzbek -->
+    <item>ಉಜ್ಬೇಕ್</item>
+    <!-- vai - Vai -->
+    <item>ವಾಯಿ</item>
+    <!-- ve - Venda -->
+    <item>ವೆಂಡಾ</item>
+    <!-- vi - Vietnamese -->
+    <item>ವಿಯೇಟ್ನಾಮೀಸ್</item>
+    <!-- vo - Volapük -->
+    <item>ವೋಲಾಪುಕ್</item>
+    <!-- vot - Votic -->
+    <item>ವೋಟಿಕ್</item>
+    <!-- wa - Walloon -->
+    <item>ವಾಲೂನ್</item>
+    <!-- wal - Wolaytta -->
+    <item>ವಲಾಮೋ</item>
+    <!-- war - Waray -->
+    <item>ವರಾಯ್</item>
+    <!-- was - Washo -->
+    <item>ವಾಷೋ</item>
+    <!-- wo - Wolof -->
+    <item>ವೋಲೋಫ್</item>
+    <!-- xal - Kalmyk -->
+    <item>ಕಲ್‌ಮೈಕ್</item>
+    <!-- xh - Xhosa -->
+    <item>ಷೋಸಾ</item>
+    <!-- yao - Yao -->
+    <item>ಯಾಓ</item>
+    <!-- yap - Yapese -->
+    <item>ಯಪೀಸೆ</item>
+    <!-- yi - Yiddish -->
+    <item>ಯಡ್ಡಿಶ್</item>
+    <!-- yo - Yoruba -->
+    <item>ಯೊರುಬಾ</item>
+    <!-- yue - Cantonese -->
+    <item>ಕಾಂಟೊನೀಸ್</item>
+    <!-- za - Zhuang -->
+    <item>ಝೂವಾಂಗ್</item>
+    <!-- zap - Zapotec -->
+    <item>ಝೋಪೊಟೆಕ್</item>
+    <!-- zbl - Blissymbols -->
+    <item>ಬ್ಲಿಸ್‌ಸಿಂಬಲ್ಸ್</item>
+    <!-- zen - Zenaga -->
+    <item>ಝೆನಾಗಾ</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಮೊರಾಕಿಯನ್ ತಮಜೈಟ್</item>
+    <!-- zh - Chinese -->
+    <item>ಚೈನೀಸ್</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>ಸಿಂಪ್ಲಿಫೈಡ್ ಚೈನೀಸ್</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>ಸಾಂಪ್ರದಾಯಿಕ ಚೈನೀಸ್</item>
+    <!-- zu - Zulu -->
+    <item>ಜುಲು</item>
+    <!-- zun - Zuni -->
+    <item>ಝೂನಿ</item>
+    <!-- zxx - No linguistic content -->
+    <item>ಯಾವುದೇ ಭಾಷಾಸಂಬಂಧಿ ವಿಷಯವಿಲ್ಲ</item>
+    <!-- zza - Zaza -->
+    <item>ಜಾಝಾ</item>
+  </string-array>
+</resources>

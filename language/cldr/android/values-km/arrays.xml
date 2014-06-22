@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Khmer (km) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>ភាសាអាហ្វារ</item>
+    <!-- ab - Abkhazian -->
+    <item>អាប់ខាហ៊្សាន</item>
+    <!-- ae - Avestan -->
+    <item>ភាសាអាវែស្តង់</item>
+    <!-- af - Afrikaans -->
+    <item>អាហ្វ្រីកាអាន</item>
+    <!-- am - Amharic -->
+    <item>អាមហារីច</item>
+    <!-- an - Aragonese -->
+    <item>ភាសាអារ៉ាហ្គោន</item>
+    <!-- ar - Arabic -->
+    <item>អារ៉ាប់</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>អារ៉ាប់​ស្តង់ដារ​ទំនើប</item>
+    <!-- as - Assamese -->
+    <item>អាសាមីស</item>
+    <!-- ay - Aymara -->
+    <item>ភាសាអីម៉ារ៉ា</item>
+    <!-- az - Azerbaijani -->
+    <item>អាហ៊្សែរបែហ្សង់</item>
+    <!-- be - Belarusian -->
+    <item>បេឡារុស្ស</item>
+    <!-- bg - Bulgarian -->
+    <item>ប៊ុលហ្ការី</item>
+    <!-- bm - Bambara -->
+    <item>ភាសាបាម្បារា</item>
+    <!-- bn - Bengali -->
+    <item>បង់ក្លាដែស</item>
+    <!-- bo - Tibetan -->
+    <item>ទីបេ</item>
+    <!-- br - Breton -->
+    <item>ប្រីស្តុន</item>
+    <!-- bs - Bosnian -->
+    <item>បូស្នី</item>
+    <!-- ca - Catalan -->
+    <item>កាតាឡាន</item>
+    <!-- cs - Czech -->
+    <item>ឆេក</item>
+    <!-- cy - Welsh -->
+    <item>វេល</item>
+    <!-- da - Danish -->
+    <item>ដាណឺម៉ាក</item>
+    <!-- de - German -->
+    <item>អាល្លឺម៉ង់</item>
+    <!-- de_AT - Austrian German -->
+    <item>អាល្លឺម៉ង់ អូទ្រីស</item>
+    <!-- de_CH - Swiss High German -->
+    <item>អាល្លឺម៉ង់ ស្វីស</item>
+    <!-- dz - Dzongkha -->
+    <item>ភាសាប៊ូតាន</item>
+    <!-- el - Greek -->
+    <item>ក្រិច</item>
+    <!-- en - English -->
+    <item>អង់គ្លេស</item>
+    <!-- en_AU - Australian English -->
+    <item>អង់គ្លេស អូស្ត្រាលី</item>
+    <!-- en_CA - Canadian English -->
+    <item>អង់គ្លេស កាណាដា</item>
+    <!-- en_GB - British English -->
+    <item>អង់គ្លេស ចក្រភព​អង់គ្លេស</item>
+    <!-- en_US - American English -->
+    <item>អង់គ្លេស អាមេរិក</item>
+    <!-- eo - Esperanto -->
+    <item>អេស្ពេរ៉ាន់តូ</item>
+    <!-- es - Spanish -->
+    <item>អេស្ប៉ាញ</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>អេស្ប៉ាញ អាមេរីកឡាតាំង</item>
+    <!-- es_ES - European Spanish -->
+    <item>អេស្ប៉ាញ អឺរ៉ុប</item>
+    <!-- et - Estonian -->
+    <item>អេស្តូនី</item>
+    <!-- eu - Basque -->
+    <item>បាស្កេ</item>
+    <!-- fa - Persian -->
+    <item>ភឺសៀន</item>
+    <!-- fi - Finnish -->
+    <item>ហ្វាំងឡង់</item>
+    <!-- fil - Filipino -->
+    <item>ហ្វីលីពីន</item>
+    <!-- fj - Fijian -->
+    <item>ហ៊្វីជី</item>
+    <!-- fo - Faroese -->
+    <item>ហ្វារូស</item>
+    <!-- fr - French -->
+    <item>បារាំង</item>
+    <!-- fy - Western Frisian -->
+    <item>ហ្វ្រីស៊ានខាងលិច</item>
+    <!-- ga - Irish -->
+    <item>អៀរឡង់</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>ភាសាហ្កែលិគ (gd)</item>
+    <!-- gl - Galician -->
+    <item>ហ្គាលីស្យាន</item>
+    <!-- gn - Guarani -->
+    <item>ហ្គូរ៉ានី</item>
+    <!-- gsw - Swiss German -->
+    <item>អាល្លឺម៉ង ស្វីស</item>
+    <!-- gu - Gujarati -->
+    <item>ហ្កុយ៉ារាទី</item>
+    <!-- ha - Hausa -->
+    <item>ហូសា</item>
+    <!-- haw - Hawaiian -->
+    <item>ហាវៃ</item>
+    <!-- he - Hebrew -->
+    <item>អ៊ីស្រាអែល</item>
+    <!-- hi - Hindi -->
+    <item>ហិណ្ឌូ</item>
+    <!-- hr - Croatian -->
+    <item>ក្រូអាត</item>
+    <!-- ht - Haitian -->
+    <item>ហៃទី</item>
+    <!-- hu - Hungarian -->
+    <item>ហុងគ្រី</item>
+    <!-- hy - Armenian -->
+    <item>អារមេនី</item>
+    <!-- ia - Interlingua -->
+    <item>អីនធើលីង</item>
+    <!-- id - Indonesian -->
+    <item>ឥណ្ឌូណេស៊ី</item>
+    <!-- ig - Igbo -->
+    <item>អ៊ីកបូ</item>
+    <!-- is - Icelandic -->
+    <item>អ៊ីស្លង់</item>
+    <!-- it - Italian -->
+    <item>អ៊ីតាលី</item>
+    <!-- ja - Japanese -->
+    <item>ជប៉ុន</item>
+    <!-- jv - Javanese -->
+    <item>ជ្វា</item>
+    <!-- ka - Georgian -->
+    <item>ហ្សក​ហ្ស៊ី</item>
+    <!-- kk - Kazakh -->
+    <item>កាហ្សាក់ស្តង់់</item>
+    <!-- km - Khmer -->
+    <item>ខ្មែរ</item>
+    <!-- kn - Kannada -->
+    <item>កន្នដ</item>
+    <!-- ko - Korean -->
+    <item>កូរ៉េ</item>
+    <!-- ks - Kashmiri -->
+    <item>កាស្មៀរ</item>
+    <!-- ku - Kurdish -->
+    <item>ឃឺដ</item>
+    <!-- ky - Kyrgyz -->
+    <item>គៀរហ្គីស្តង់</item>
+    <!-- la - Latin -->
+    <item>ឡាតំាង</item>
+    <!-- lb - Luxembourgish -->
+    <item>លុចហ្សំបួរ</item>
+    <!-- ln - Lingala -->
+    <item>លីនកាឡា</item>
+    <!-- lo - Lao -->
+    <item>ឡាវ</item>
+    <!-- lt - Lithuanian -->
+    <item>លីទុយអានី</item>
+    <!-- lv - Latvian -->
+    <item>ឡាតវីយ៉ា</item>
+    <!-- mg - Malagasy -->
+    <item>ម៉ាឡាហ្គាស៊ី</item>
+    <!-- mi - Maori -->
+    <item>ម៉ោរី</item>
+    <!-- mk - Macedonian -->
+    <item>ម៉ាសេដូនី</item>
+    <!-- ml - Malayalam -->
+    <item>មលយាល័ម</item>
+    <!-- mn - Mongolian -->
+    <item>ភាសាម៉ុងហ្គោលី</item>
+    <!-- mr - Marathi -->
+    <item>មរាធិ</item>
+    <!-- ms - Malay -->
+    <item>ម៉ាឡេស៊ី</item>
+    <!-- mt - Maltese -->
+    <item>ម៉ាល់តា</item>
+    <!-- my - Burmese -->
+    <item>ភូមា</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>ន័រវែស បុកម៉ាល់</item>
+    <!-- ne - Nepali -->
+    <item>នេប៉ាល់</item>
+    <!-- nl - Dutch -->
+    <item>ហុល្លង់</item>
+    <!-- nl_BE - Flemish -->
+    <item>ផ្លាមីស</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ន័រវែស នីនូស</item>
+    <!-- no - Norwegian -->
+    <item>ភាសាន័រវែស</item>
+    <!-- oc - Occitan -->
+    <item>អូសីតាន់</item>
+    <!-- or - Oriya -->
+    <item>អូរីយ៉ា</item>
+    <!-- pa - Punjabi -->
+    <item>បឹនជាពិ</item>
+    <!-- pl - Polish -->
+    <item>ប៉ូឡូញ</item>
+    <!-- ps - Pashto -->
+    <item>បាស្តូ</item>
+    <!-- pt - Portuguese -->
+    <item>ព័រទុយហ្កាល់</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>ព័រទុយហ្គាល់ ប្រេស៊ីល</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ព័រទុយហ្គាល់ អឺរ៉ុប</item>
+    <!-- qu - Quechua -->
+    <item>កេទជួអា</item>
+    <!-- rm - Romansh -->
+    <item>រ៉ូម៉ង់</item>
+    <!-- rn - Rundi -->
+    <item>ភាសារូន្ឌី</item>
+    <!-- ro - Romanian -->
+    <item>រូម៉ានី</item>
+    <!-- ro_MD - Moldavian -->
+    <item>ភាសាម៉ុលដាវី</item>
+    <!-- ru - Russian -->
+    <item>រុស្ស៊ី</item>
+    <!-- sa - Sanskrit -->
+    <item>សំស្ក្រឹត</item>
+    <!-- sd - Sindhi -->
+    <item>​​ស៊ីន្តី</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>សើបូក្រូទៀន</item>
+    <!-- si - Sinhala -->
+    <item>ស្រីលង្កា</item>
+    <!-- sk - Slovak -->
+    <item>ស្លូវ៉ាគី</item>
+    <!-- sl - Slovenian -->
+    <item>ស្លូវ៉ានី</item>
+    <!-- sm - Samoan -->
+    <item>ភាសាសាមូអា</item>
+    <!-- so - Somali -->
+    <item>សូម៉ាលី</item>
+    <!-- sq - Albanian -->
+    <item>អាល់បានី</item>
+    <!-- sr - Serbian -->
+    <item>សើប</item>
+    <!-- st - Southern Sotho -->
+    <item>សេសូដូ</item>
+    <!-- su - Sundanese -->
+    <item>ស៊ូដង់</item>
+    <!-- sv - Swedish -->
+    <item>ស៊ុយអែដ</item>
+    <!-- sw - Swahili -->
+    <item>ស្វាហ៊ីលី</item>
+    <!-- ta - Tamil -->
+    <item>តាមីល</item>
+    <!-- te - Telugu -->
+    <item>តេលុគុ</item>
+    <!-- tg - Tajik -->
+    <item>តាដហ្សីគីស្តង់</item>
+    <!-- th - Thai -->
+    <item>ថៃ</item>
+    <!-- ti - Tigrinya -->
+    <item>ទីរិនយា</item>
+    <!-- tk - Turkmen -->
+    <item>ទួគមេនីស្តង់</item>
+    <!-- tlh - Klingon -->
+    <item>ខ្លិងសុន</item>
+    <!-- to - Tongan -->
+    <item>តុងហ្គោ</item>
+    <!-- tr - Turkish -->
+    <item>ទួរគី</item>
+    <!-- tt - Tatar -->
+    <item>តាតារ</item>
+    <!-- tw - Twi -->
+    <item>ទ្វី</item>
+    <!-- ug - Uyghur -->
+    <item>អ៊ុយហ្គឺរ</item>
+    <!-- uk - Ukrainian -->
+    <item>អ៊ុយក្រែន</item>
+    <!-- und - Unknown Language -->
+    <item>មិន​ស្គាល់​ភាសា</item>
+    <!-- ur - Urdu -->
+    <item>អ៊ូរឌូ</item>
+    <!-- uz - Uzbek -->
+    <item>អ៊ូហ្សបេគីស្តង់</item>
+    <!-- vi - Vietnamese -->
+    <item>វៀតណាម</item>
+    <!-- wo - Wolof -->
+    <item>វូឡុហ្វ</item>
+    <!-- xh - Xhosa -->
+    <item>ឃសា</item>
+    <!-- yi - Yiddish -->
+    <item>ភាសាយីឌីហ្ស</item>
+    <!-- yo - Yoruba -->
+    <item>យរូបា</item>
+    <!-- za - Zhuang -->
+    <item>ភាសាចួង</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ម៉ារ៉ុក</item>
+    <!-- zh - Chinese -->
+    <item>ចិន</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>អក្សរ​ចិន​កាត់</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>អក្សរ​ចិន​ពេញ</item>
+    <!-- zu - Zulu -->
+    <item>សូលូ</item>
+    <!-- zxx - No linguistic content -->
+    <item>គ្មាន​ទិន្នន័យ​ភាសា</item>
+  </string-array>
+</resources>

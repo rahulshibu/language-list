@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Swiss German (gsw) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>Afar</item>
+    <!-- ab - Abkhazian -->
+    <item>Abchasisch</item>
+    <!-- ace - Achinese -->
+    <item>Aceh</item>
+    <!-- ach - Acoli -->
+    <item>Acholi</item>
+    <!-- ada - Adangme -->
+    <item>Adangme</item>
+    <!-- ady - Adyghe -->
+    <item>Adygai</item>
+    <!-- ae - Avestan -->
+    <item>Avestisch</item>
+    <!-- af - Afrikaans -->
+    <item>Afrikaans</item>
+    <!-- afh - Afrihili -->
+    <item>Afrihili</item>
+    <!-- ain - Ainu -->
+    <item>Ainu</item>
+    <!-- ak - Akan -->
+    <item>Akan</item>
+    <!-- akk - Akkadian -->
+    <item>Akkadisch</item>
+    <!-- ale - Aleut -->
+    <item>Aleutisch</item>
+    <!-- alt - Southern Altai -->
+    <item>Süüd-Altaisch</item>
+    <!-- am - Amharic -->
+    <item>Amharisch</item>
+    <!-- an - Aragonese -->
+    <item>Aragonesisch</item>
+    <!-- ang - Old English -->
+    <item>Altänglisch</item>
+    <!-- anp - Angika -->
+    <item>Angika</item>
+    <!-- ar - Arabic -->
+    <item>Arabisch</item>
+    <!-- arc - Aramaic -->
+    <item>Aramääisch</item>
+    <!-- arn - Mapuche -->
+    <item>Araukanisch</item>
+    <!-- arp - Arapaho -->
+    <item>Arapaho</item>
+    <!-- arw - Arawak -->
+    <item>Arawak</item>
+    <!-- as - Assamese -->
+    <item>Assamesisch</item>
+    <!-- asa - Asu -->
+    <item>Asu (Tanzania)</item>
+    <!-- ast - Asturian -->
+    <item>Aschturianisch</item>
+    <!-- av - Avaric -->
+    <item>Awarisch</item>
+    <!-- awa - Awadhi -->
+    <item>Awadhi</item>
+    <!-- ay - Aymara -->
+    <item>Aymara</item>
+    <!-- az - Azerbaijani -->
+    <item>Aserbaidschanisch</item>
+    <!-- ba - Bashkir -->
+    <item>Baschkirisch</item>
+    <!-- bal - Baluchi -->
+    <item>Belutschisch</item>
+    <!-- ban - Balinese -->
+    <item>Balinesisch</item>
+    <!-- bas - Basaa -->
+    <item>Basaa</item>
+    <!-- be - Belarusian -->
+    <item>Wiissrussisch</item>
+    <!-- bej - Beja -->
+    <item>Bedauye</item>
+    <!-- bem - Bemba -->
+    <item>Bemba</item>
+    <!-- bez - Bena -->
+    <item>Bena (Tanzania)</item>
+    <!-- bg - Bulgarian -->
+    <item>Bulgaarisch</item>
+    <!-- bho - Bhojpuri -->
+    <item>Bhodschpuri</item>
+    <!-- bi - Bislama -->
+    <item>Bislama</item>
+    <!-- bik - Bikol -->
+    <item>Bikolisch</item>
+    <!-- bin - Bini -->
+    <item>Bini</item>
+    <!-- bla - Siksika -->
+    <item>Blackfoot-Schpraach</item>
+    <!-- bm - Bambara -->
+    <item>Bambara</item>
+    <!-- bn - Bengali -->
+    <item>Bengalisch</item>
+    <!-- bo - Tibetan -->
+    <item>Tibeetisch</item>
+    <!-- br - Breton -->
+    <item>Brötoonisch</item>
+    <!-- bra - Braj -->
+    <item>Braj-Bhakha</item>
+    <!-- bs - Bosnian -->
+    <item>Bosnisch</item>
+    <!-- bua - Buriat -->
+    <item>Burjatisch</item>
+    <!-- bug - Buginese -->
+    <item>Bugineesisch</item>
+    <!-- byn - Blin -->
+    <item>Blin</item>
+    <!-- ca - Catalan -->
+    <item>Katalaanisch</item>
+    <!-- cad - Caddo -->
+    <item>Caddo</item>
+    <!-- car - Carib -->
+    <item>Kariibisch</item>
+    <!-- cch - Atsam -->
+    <item>Atsam</item>
+    <!-- ce - Chechen -->
+    <item>Tschetscheenisch</item>
+    <!-- ceb - Cebuano -->
+    <item>Cebuano</item>
+    <!-- ch - Chamorro -->
+    <item>Chamorro</item>
+    <!-- chb - Chibcha -->
+    <item>Tschibtscha</item>
+    <!-- chg - Chagatai -->
+    <item>Tschagataisch</item>
+    <!-- chk - Chuukese -->
+    <item>Trukesisch</item>
+    <!-- chm - Mari -->
+    <item>Tscheremissisch</item>
+    <!-- chn - Chinook Jargon -->
+    <item>Chinook</item>
+    <!-- cho - Choctaw -->
+    <item>Choctaw</item>
+    <!-- chp - Chipewyan -->
+    <item>Chipewyan</item>
+    <!-- chr - Cherokee -->
+    <item>Cherokee</item>
+    <!-- chy - Cheyenne -->
+    <item>Cheyenne</item>
+    <!-- co - Corsican -->
+    <item>Korsisch</item>
+    <!-- cop - Coptic -->
+    <item>Koptisch</item>
+    <!-- cr - Cree -->
+    <item>Cree</item>
+    <!-- crh - Crimean Turkish -->
+    <item>Krimtatarisch</item>
+    <!-- cs - Czech -->
+    <item>Tschechisch</item>
+    <!-- csb - Kashubian -->
+    <item>Kaschubisch</item>
+    <!-- cu - Church Slavic -->
+    <item>Chileslawisch</item>
+    <!-- cv - Chuvash -->
+    <item>Tschuwaschisch</item>
+    <!-- cy - Welsh -->
+    <item>Walisisch</item>
+    <!-- da - Danish -->
+    <item>Tänisch</item>
+    <!-- dak - Dakota -->
+    <item>Takota</item>
+    <!-- dar - Dargwa -->
+    <item>Targiinisch</item>
+    <!-- de - German -->
+    <item>Tüütsch</item>
+    <!-- de_AT - Austrian German -->
+    <item>Öschtriichischs Tüütsch</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Schwiizer Hochtüütsch</item>
+    <!-- del - Delaware -->
+    <item>Delaware-Schpraach</item>
+    <!-- den - Slave -->
+    <item>Slavey</item>
+    <!-- dgr - Dogrib -->
+    <item>Togrib</item>
+    <!-- din - Dinka -->
+    <item>Tinka</item>
+    <!-- doi - Dogri -->
+    <item>Togri</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>Nidersorbisch</item>
+    <!-- dua - Duala -->
+    <item>Tuala</item>
+    <!-- dum - Middle Dutch -->
+    <item>Mittelniderländisch</item>
+    <!-- dv - Divehi -->
+    <item>Malediivisch</item>
+    <!-- dyu - Dyula -->
+    <item>Tiula</item>
+    <!-- dz - Dzongkha -->
+    <item>Dschongkha</item>
+    <!-- ee - Ewe -->
+    <item>Ewe</item>
+    <!-- efi - Efik -->
+    <item>Efikisch</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>Altägyptisch</item>
+    <!-- eka - Ekajuk -->
+    <item>Ekajuk</item>
+    <!-- el - Greek -->
+    <item>Griechisch</item>
+    <!-- elx - Elamite -->
+    <item>Elamisch</item>
+    <!-- en - English -->
+    <item>Änglisch</item>
+    <!-- en_AU - Australian English -->
+    <item>Auschtralischs Änglisch</item>
+    <!-- en_CA - Canadian English -->
+    <item>Kanadischs Änglisch</item>
+    <!-- en_GB - British English -->
+    <item>Britischs Änglisch</item>
+    <!-- en_US - American English -->
+    <item>Amerikanischs Änglisch</item>
+    <!-- enm - Middle English -->
+    <item>Mittelänglisch</item>
+    <!-- eo - Esperanto -->
+    <item>Eschperanto</item>
+    <!-- es - Spanish -->
+    <item>Schpanisch</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Latiinamerikanischs Schpanisch</item>
+    <!-- es_ES - European Spanish -->
+    <item>Ibeerischs Schpanisch</item>
+    <!-- et - Estonian -->
+    <item>Eestnisch</item>
+    <!-- eu - Basque -->
+    <item>Baskisch</item>
+    <!-- ewo - Ewondo -->
+    <item>Ewondo</item>
+    <!-- fa - Persian -->
+    <item>Persisch</item>
+    <!-- fan - Fang -->
+    <item>Pangwe-Schpraach</item>
+    <!-- fat - Fanti -->
+    <item>Fanti-Schpraach</item>
+    <!-- ff - Fulah -->
+    <item>Ful</item>
+    <!-- fi - Finnish -->
+    <item>Finnisch</item>
+    <!-- fil - Filipino -->
+    <item>Filipino</item>
+    <!-- fj - Fijian -->
+    <item>Fidschianisch</item>
+    <!-- fo - Faroese -->
+    <item>Färöisch</item>
+    <!-- fon - Fon -->
+    <item>Fon</item>
+    <!-- fr - French -->
+    <item>Französisch</item>
+    <!-- fr_CA - Canadian French -->
+    <item>Kanadischs Französisch</item>
+    <!-- fr_CH - Swiss French -->
+    <item>Schwiizer Französisch</item>
+    <!-- frm - Middle French -->
+    <item>Mittelfranzösisch</item>
+    <!-- fro - Old French -->
+    <item>Altfranzösisch</item>
+    <!-- frr - Northern Frisian -->
+    <item>Nordfriesisch</item>
+    <!-- frs - Eastern Frisian -->
+    <item>Oschtfriesisch</item>
+    <!-- fur - Friulian -->
+    <item>Friulisch</item>
+    <!-- fy - Western Frisian -->
+    <item>Friesisch</item>
+    <!-- ga - Irish -->
+    <item>Iirisch</item>
+    <!-- gaa - Ga -->
+    <item>Ga</item>
+    <!-- gay - Gayo -->
+    <item>Gayo</item>
+    <!-- gba - Gbaya -->
+    <item>Gbaya</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Schottisch-Gäälisch</item>
+    <!-- gez - Geez -->
+    <item>Geez</item>
+    <!-- gil - Gilbertese -->
+    <item>Gilbertesisch</item>
+    <!-- gl - Galician -->
+    <item>Galizisch</item>
+    <!-- gmh - Middle High German -->
+    <item>Mittelhochtüütsch</item>
+    <!-- gn - Guarani -->
+    <item>Guarani</item>
+    <!-- goh - Old High German -->
+    <item>Althochtüütsch</item>
+    <!-- gon - Gondi -->
+    <item>Gondi</item>
+    <!-- gor - Gorontalo -->
+    <item>Mongondou</item>
+    <!-- got - Gothic -->
+    <item>Gotisch</item>
+    <!-- grb - Grebo -->
+    <item>Grebo</item>
+    <!-- grc - Ancient Greek -->
+    <item>Altgriechisch</item>
+    <!-- gsw - Swiss German -->
+    <item>Schwiizertüütsch</item>
+    <!-- gu - Gujarati -->
+    <item>Gujarati</item>
+    <!-- gv - Manx -->
+    <item>Manx-Gäälisch</item>
+    <!-- gwi - Gwichʼin -->
+    <item>Kutchinisch</item>
+    <!-- ha - Hausa -->
+    <item>Haussa</item>
+    <!-- hai - Haida -->
+    <item>Haida</item>
+    <!-- haw - Hawaiian -->
+    <item>Hawaiianisch</item>
+    <!-- he - Hebrew -->
+    <item>Hebräisch</item>
+    <!-- hi - Hindi -->
+    <item>Hindi</item>
+    <!-- hil - Hiligaynon -->
+    <item>Hiligaynonisch</item>
+    <!-- hit - Hittite -->
+    <item>Hethitisch</item>
+    <!-- hmn - Hmong -->
+    <item>Miao</item>
+    <!-- ho - Hiri Motu -->
+    <item>Hiri-Motu</item>
+    <!-- hr - Croatian -->
+    <item>Kroazisch</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>Obersorbisch</item>
+    <!-- ht - Haitian -->
+    <item>Haitisch</item>
+    <!-- hu - Hungarian -->
+    <item>Ungarisch</item>
+    <!-- hup - Hupa -->
+    <item>Hupa</item>
+    <!-- hy - Armenian -->
+    <item>Armenisch</item>
+    <!-- hz - Herero -->
+    <item>Herero</item>
+    <!-- ia - Interlingua -->
+    <item>Interlingua</item>
+    <!-- iba - Iban -->
+    <item>Ibanisch</item>
+    <!-- id - Indonesian -->
+    <item>Indonesisch</item>
+    <!-- ie - Interlingue -->
+    <item>Interlingue</item>
+    <!-- ig - Igbo -->
+    <item>Igbo</item>
+    <!-- ii - Sichuan Yi -->
+    <item>Sezuanischs Yi</item>
+    <!-- ik - Inupiaq -->
+    <item>Inupiak</item>
+    <!-- ilo - Iloko -->
+    <item>Ilokano</item>
+    <!-- inh - Ingush -->
+    <item>Inguschisch</item>
+    <!-- io - Ido -->
+    <item>Ido</item>
+    <!-- is - Icelandic -->
+    <item>Iisländisch</item>
+    <!-- it - Italian -->
+    <item>Italiänisch</item>
+    <!-- iu - Inuktitut -->
+    <item>Inukitut</item>
+    <!-- ja - Japanese -->
+    <item>Japanisch</item>
+    <!-- jbo - Lojban -->
+    <item>Lojbanisch</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>Jüüdisch-Persisch</item>
+    <!-- jrb - Judeo-Arabic -->
+    <item>Jüüdisch-Arabisch</item>
+    <!-- jv - Javanese -->
+    <item>Javanisch</item>
+    <!-- ka - Georgian -->
+    <item>Georgisch</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>Karakalpakisch</item>
+    <!-- kab - Kabyle -->
+    <item>Kabylisch</item>
+    <!-- kac - Kachin -->
+    <item>Kachin-Schpraach</item>
+    <!-- kaj - Jju -->
+    <item>Jju</item>
+    <!-- kam - Kamba -->
+    <item>Kamba</item>
+    <!-- kaw - Kawi -->
+    <item>Kawi</item>
+    <!-- kbd - Kabardian -->
+    <item>Kabardinisch</item>
+    <!-- kcg - Tyap -->
+    <item>Tyap</item>
+    <!-- kea - Kabuverdianu -->
+    <item>Kabuverdianu</item>
+    <!-- kfo - Koro -->
+    <item>Koro</item>
+    <!-- kg - Kongo -->
+    <item>Kongolesisch</item>
+    <!-- kha - Khasi -->
+    <item>Khasisch</item>
+    <!-- kho - Khotanese -->
+    <item>Sakisch</item>
+    <!-- ki - Kikuyu -->
+    <item>Kikuyu-Schpraach</item>
+    <!-- kj - Kuanyama -->
+    <item>Kwanyama</item>
+    <!-- kk - Kazakh -->
+    <item>Kasachisch</item>
+    <!-- kl - Kalaallisut -->
+    <item>Gröönländisch</item>
+    <!-- km - Khmer -->
+    <item>Kambodschanisch</item>
+    <!-- kmb - Kimbundu -->
+    <item>Kimbundu-Schpraach</item>
+    <!-- kn - Kannada -->
+    <item>Kannada</item>
+    <!-- ko - Korean -->
+    <item>Koreaanisch</item>
+    <!-- kok - Konkani -->
+    <item>Konkani</item>
+    <!-- kos - Kosraean -->
+    <item>Kosraeanisch</item>
+    <!-- kpe - Kpelle -->
+    <item>Kpelle-Schpraach</item>
+    <!-- kr - Kanuri -->
+    <item>Kanuri-Schpraach</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>Karatschaiisch-Balkarisch</item>
+    <!-- krl - Karelian -->
+    <item>Karelisch</item>
+    <!-- kru - Kurukh -->
+    <item>Oraon-Schpraach</item>
+    <!-- ks - Kashmiri -->
+    <item>Kaschmirisch</item>
+    <!-- ku - Kurdish -->
+    <item>Kurdisch</item>
+    <!-- kum - Kumyk -->
+    <item>Kumükisch</item>
+    <!-- kut - Kutenai -->
+    <item>Kutenai-Schpraach</item>
+    <!-- kv - Komi -->
+    <item>Komi-Schpraach</item>
+    <!-- kw - Cornish -->
+    <item>Kornisch</item>
+    <!-- ky - Kyrgyz -->
+    <item>Kirgiisisch</item>
+    <!-- la - Latin -->
+    <item>Latiin</item>
+    <!-- lad - Ladino -->
+    <item>Ladino</item>
+    <!-- lah - Lahnda -->
+    <item>Lahndanisch</item>
+    <!-- lam - Lamba -->
+    <item>Lambanisch</item>
+    <!-- lb - Luxembourgish -->
+    <item>Luxemburgisch</item>
+    <!-- lez - Lezghian -->
+    <item>Lesgisch</item>
+    <!-- lg - Ganda -->
+    <item>Ganda-Schpraach</item>
+    <!-- li - Limburgish -->
+    <item>Limburgisch</item>
+    <!-- ln - Lingala -->
+    <item>Lingala</item>
+    <!-- lo - Lao -->
+    <item>Laozisch</item>
+    <!-- lol - Mongo -->
+    <item>Mongo</item>
+    <!-- loz - Lozi -->
+    <item>Rotse-Schpraach</item>
+    <!-- lt - Lithuanian -->
+    <item>Litauisch</item>
+    <!-- lu - Luba-Katanga -->
+    <item>Luba</item>
+    <!-- lua - Luba-Lulua -->
+    <item>Luba-Lulua</item>
+    <!-- lui - Luiseno -->
+    <item>Luiseno-Schpraach</item>
+    <!-- lun - Lunda -->
+    <item>Lunda-Schpraach</item>
+    <!-- luo - Luo -->
+    <item>Luo-Schpraach</item>
+    <!-- lus - Mizo -->
+    <item>Lushai-Schpraach</item>
+    <!-- luy - Luyia -->
+    <item>Olulujia</item>
+    <!-- lv - Latvian -->
+    <item>Lettisch</item>
+    <!-- mad - Madurese -->
+    <item>Maduresisch</item>
+    <!-- mag - Magahi -->
+    <item>Khotta</item>
+    <!-- mai - Maithili -->
+    <item>Maithili</item>
+    <!-- mak - Makasar -->
+    <item>Makassarisch</item>
+    <!-- man - Mandingo -->
+    <item>Manding-Schpraach</item>
+    <!-- mas - Masai -->
+    <item>Massai-Schpraach</item>
+    <!-- mdf - Moksha -->
+    <item>Mokschamordwinisch</item>
+    <!-- mdr - Mandar -->
+    <item>Mandaresisch</item>
+    <!-- men - Mende -->
+    <item>Mende-Schpraach</item>
+    <!-- mg - Malagasy -->
+    <item>Madagassisch</item>
+    <!-- mga - Middle Irish -->
+    <item>Mittelirisch</item>
+    <!-- mh - Marshallese -->
+    <item>Marschallesisch</item>
+    <!-- mi - Maori -->
+    <item>Maori</item>
+    <!-- mic - Micmac -->
+    <item>Micmac-Schpraach</item>
+    <!-- min - Minangkabau -->
+    <item>Minangkabau-Schpraach</item>
+    <!-- mk - Macedonian -->
+    <item>Mazedonisch</item>
+    <!-- ml - Malayalam -->
+    <item>Malayalam</item>
+    <!-- mn - Mongolian -->
+    <item>Mongolisch</item>
+    <!-- mnc - Manchu -->
+    <item>Mandschurisch</item>
+    <!-- mni - Manipuri -->
+    <item>Meithei-Schpraach</item>
+    <!-- moh - Mohawk -->
+    <item>Mohawk-Schpraach</item>
+    <!-- mos - Mossi -->
+    <item>Mossi-Schpraach</item>
+    <!-- mr - Marathi -->
+    <item>Marathi</item>
+    <!-- ms - Malay -->
+    <item>Malaiisch</item>
+    <!-- mt - Maltese -->
+    <item>Maltesisch</item>
+    <!-- mul - Multiple Languages -->
+    <item>Mehrschpraachig</item>
+    <!-- mus - Creek -->
+    <item>Muskogee-Schpraach</item>
+    <!-- mwl - Mirandese -->
+    <item>Mirandesisch</item>
+    <!-- mwr - Marwari -->
+    <item>Marwarisch</item>
+    <!-- my - Burmese -->
+    <item>Birmanisch</item>
+    <!-- myv - Erzya -->
+    <item>Erzya</item>
+    <!-- na - Nauru -->
+    <item>Nauruisch</item>
+    <!-- nap - Neapolitan -->
+    <item>Neapolitanisch</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>Norwegisch Bokmål</item>
+    <!-- nd - North Ndebele -->
+    <item>Nord-Ndebele-Schpraach</item>
+    <!-- nds - Low German -->
+    <item>Nidertüütsch</item>
+    <!-- ne - Nepali -->
+    <item>Nepalesisch</item>
+    <!-- new - Newari -->
+    <item>Newarisch</item>
+    <!-- ng - Ndonga -->
+    <item>Ndonga</item>
+    <!-- nia - Nias -->
+    <item>Nias-Schpraach</item>
+    <!-- niu - Niuean -->
+    <item>Niue-Schpraach</item>
+    <!-- nl - Dutch -->
+    <item>Niderländisch</item>
+    <!-- nl_BE - Flemish -->
+    <item>Fläämisch</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Norwegisch Nynorsk</item>
+    <!-- no - Norwegian -->
+    <item>Norwegisch</item>
+    <!-- nog - Nogai -->
+    <item>Nogaisch</item>
+    <!-- non - Old Norse -->
+    <item>Altnordisch</item>
+    <!-- nqo - N’Ko -->
+    <item>N’Ko</item>
+    <!-- nr - South Ndebele -->
+    <item>Süüd-Ndebele-Schpraach</item>
+    <!-- nso - Northern Sotho -->
+    <item>Nord-Sotho-Schpraach</item>
+    <!-- nv - Navajo -->
+    <item>Navajo-Schpraach</item>
+    <!-- nwc - Classical Newari -->
+    <item>Alt-Newari</item>
+    <!-- ny - Nyanja -->
+    <item>Chewa-Schpraach</item>
+    <!-- nym - Nyamwezi -->
+    <item>Nyamwezi-Schpraach</item>
+    <!-- nyn - Nyankole -->
+    <item>Nyankole</item>
+    <!-- nyo - Nyoro -->
+    <item>Nyoro</item>
+    <!-- nzi - Nzima -->
+    <item>Nzima</item>
+    <!-- oc - Occitan -->
+    <item>Okzitanisch</item>
+    <!-- oj - Ojibwa -->
+    <item>Ojibwa-Schpraach</item>
+    <!-- om - Oromo -->
+    <item>Oromo</item>
+    <!-- or - Oriya -->
+    <item>Orija</item>
+    <!-- os - Ossetic -->
+    <item>Ossezisch</item>
+    <!-- osa - Osage -->
+    <item>Osage-Schpraach</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>Osmanisch</item>
+    <!-- pa - Punjabi -->
+    <item>Pandschabisch</item>
+    <!-- pag - Pangasinan -->
+    <item>Pangasinanisch</item>
+    <!-- pal - Pahlavi -->
+    <item>Mittelpersisch</item>
+    <!-- pam - Pampanga -->
+    <item>Pampanggan-Schpraach</item>
+    <!-- pap - Papiamento -->
+    <item>Papiamento</item>
+    <!-- pau - Palauan -->
+    <item>Palau</item>
+    <!-- peo - Old Persian -->
+    <item>Altpersisch</item>
+    <!-- phn - Phoenician -->
+    <item>Phönikisch</item>
+    <!-- pi - Pali -->
+    <item>Pali</item>
+    <!-- pl - Polish -->
+    <item>Polnisch</item>
+    <!-- pon - Pohnpeian -->
+    <item>Ponapeanisch</item>
+    <!-- pro - Old Provençal -->
+    <item>Altprovenzalisch</item>
+    <!-- ps - Pashto -->
+    <item>Paschtu</item>
+    <!-- pt - Portuguese -->
+    <item>Portugiisisch</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Brasilianischs Portugiisisch</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Iberischs Portugiisisch</item>
+    <!-- qu - Quechua -->
+    <item>Quechua</item>
+    <!-- raj - Rajasthani -->
+    <item>Rajasthani</item>
+    <!-- rap - Rapanui -->
+    <item>Oschterinsel-Schpraach</item>
+    <!-- rar - Rarotongan -->
+    <item>Rarotonganisch</item>
+    <!-- rm - Romansh -->
+    <item>Rätoromanisch</item>
+    <!-- rn - Rundi -->
+    <item>Rundi-Schpraach</item>
+    <!-- ro - Romanian -->
+    <item>Rumänisch</item>
+    <!-- ro_MD - Moldavian -->
+    <item>Moldawisch</item>
+    <!-- rom - Romany -->
+    <item>Zigüünerschpraach</item>
+    <!-- root - Root -->
+    <item>Root</item>
+    <!-- ru - Russian -->
+    <item>Russisch</item>
+    <!-- rup - Aromanian -->
+    <item>Aromunisch</item>
+    <!-- rw - Kinyarwanda -->
+    <item>Ruandisch</item>
+    <!-- sa - Sanskrit -->
+    <item>Sanschkrit</item>
+    <!-- sad - Sandawe -->
+    <item>Sandawe-Schpraach</item>
+    <!-- sah - Sakha -->
+    <item>Jakutisch</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>Samaritanisch</item>
+    <!-- sas - Sasak -->
+    <item>Sasak</item>
+    <!-- sat - Santali -->
+    <item>Santali</item>
+    <!-- sc - Sardinian -->
+    <item>Sardisch</item>
+    <!-- scn - Sicilian -->
+    <item>Sizilianisch</item>
+    <!-- sco - Scots -->
+    <item>Schottisch</item>
+    <!-- sd - Sindhi -->
+    <item>Sindhi</item>
+    <!-- se - Northern Sami -->
+    <item>Nord-Samisch</item>
+    <!-- sel - Selkup -->
+    <item>Selkupisch</item>
+    <!-- sg - Sango -->
+    <item>Sango</item>
+    <!-- sga - Old Irish -->
+    <item>Altirisch</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Serbo-Kroatisch</item>
+    <!-- shn - Shan -->
+    <item>Schan-Schpraach</item>
+    <!-- si - Sinhala -->
+    <item>Singhalesisch</item>
+    <!-- sid - Sidamo -->
+    <item>Sidamo</item>
+    <!-- sk - Slovak -->
+    <item>Slowakisch</item>
+    <!-- sl - Slovenian -->
+    <item>Slowenisch</item>
+    <!-- sm - Samoan -->
+    <item>Samoanisch</item>
+    <!-- sma - Southern Sami -->
+    <item>Süüd-Samisch</item>
+    <!-- smj - Lule Sami -->
+    <item>Lule-Samisch</item>
+    <!-- smn - Inari Sami -->
+    <item>Inari-Samisch</item>
+    <!-- sms - Skolt Sami -->
+    <item>Skolt-Samisch</item>
+    <!-- sn - Shona -->
+    <item>Schhona</item>
+    <!-- snk - Soninke -->
+    <item>Soninke-Schpraach</item>
+    <!-- so - Somali -->
+    <item>Somali</item>
+    <!-- sog - Sogdien -->
+    <item>Sogdisch</item>
+    <!-- sq - Albanian -->
+    <item>Albanisch</item>
+    <!-- sr - Serbian -->
+    <item>Serbisch</item>
+    <!-- srn - Sranan Tongo -->
+    <item>Srananisch</item>
+    <!-- srr - Serer -->
+    <item>Serer-Schpraach</item>
+    <!-- ss - Swati -->
+    <item>Swazi</item>
+    <!-- st - Southern Sotho -->
+    <item>Süüd-Sotho-Schpraach</item>
+    <!-- su - Sundanese -->
+    <item>Sundanesisch</item>
+    <!-- suk - Sukuma -->
+    <item>Sukuma-Schpraach</item>
+    <!-- sus - Susu -->
+    <item>Susu</item>
+    <!-- sux - Sumerian -->
+    <item>Sumerisch</item>
+    <!-- sv - Swedish -->
+    <item>Schwedisch</item>
+    <!-- sw - Swahili -->
+    <item>Suaheli</item>
+    <!-- swb - Comorian -->
+    <item>Shimaorisch</item>
+    <!-- syc - Classical Syriac -->
+    <item>Altsyrisch</item>
+    <!-- syr - Syriac -->
+    <item>Syrisch</item>
+    <!-- ta - Tamil -->
+    <item>Tamilisch</item>
+    <!-- te - Telugu -->
+    <item>Telugu</item>
+    <!-- tem - Timne -->
+    <item>Temne</item>
+    <!-- ter - Tereno -->
+    <item>Tereno-Schpraach</item>
+    <!-- tet - Tetum -->
+    <item>Tetum-Schpraach</item>
+    <!-- tg - Tajik -->
+    <item>Tadschikisch</item>
+    <!-- th - Thai -->
+    <item>Thailändisch</item>
+    <!-- ti - Tigrinya -->
+    <item>Tigrinja</item>
+    <!-- tig - Tigre -->
+    <item>Tigre</item>
+    <!-- tiv - Tiv -->
+    <item>Tiv-Schpraach</item>
+    <!-- tk - Turkmen -->
+    <item>Turkmenisch</item>
+    <!-- tkl - Tokelau -->
+    <item>Tokelauanisch</item>
+    <!-- tl - Tagalog -->
+    <item>Tagalog</item>
+    <!-- tlh - Klingon -->
+    <item>Klingonisch</item>
+    <!-- tli - Tlingit -->
+    <item>Tlingit-Schpraach</item>
+    <!-- tmh - Tamashek -->
+    <item>Tamaseq</item>
+    <!-- tn - Tswana -->
+    <item>Tswana-Schpraach</item>
+    <!-- to - Tongan -->
+    <item>Tongaisch</item>
+    <!-- tog - Nyasa Tonga -->
+    <item>Tsonga-Schpraach</item>
+    <!-- tpi - Tok Pisin -->
+    <item>Neumelanesisch</item>
+    <!-- tr - Turkish -->
+    <item>Türkisch</item>
+    <!-- ts - Tsonga -->
+    <item>Tsonga</item>
+    <!-- tsi - Tsimshian -->
+    <item>Tsimshian-Schpraach</item>
+    <!-- tt - Tatar -->
+    <item>Tatarisch</item>
+    <!-- tum - Tumbuka -->
+    <item>Tumbuka-Schpraach</item>
+    <!-- tvl - Tuvalu -->
+    <item>Elliceanisch</item>
+    <!-- tw - Twi -->
+    <item>Twi</item>
+    <!-- ty - Tahitian -->
+    <item>Tahitisch</item>
+    <!-- tyv - Tuvinian -->
+    <item>Tuwinisch</item>
+    <!-- udm - Udmurt -->
+    <item>Udmurtisch</item>
+    <!-- ug - Uyghur -->
+    <item>Uigurisch</item>
+    <!-- uga - Ugaritic -->
+    <item>Ugaritisch</item>
+    <!-- uk - Ukrainian -->
+    <item>Ukrainisch</item>
+    <!-- umb - Umbundu -->
+    <item>Mbundu-Schpraach</item>
+    <!-- und - Unknown Language -->
+    <item>Unbeschtimmti Schpraach</item>
+    <!-- ur - Urdu -->
+    <item>Urdu</item>
+    <!-- uz - Uzbek -->
+    <item>Usbekisch</item>
+    <!-- vai - Vai -->
+    <item>Vai-Schpraach</item>
+    <!-- ve - Venda -->
+    <item>Venda-Schpraach</item>
+    <!-- vi - Vietnamese -->
+    <item>Vietnamesisch</item>
+    <!-- vo - Volapük -->
+    <item>Volapük</item>
+    <!-- vot - Votic -->
+    <item>Wotisch</item>
+    <!-- wa - Walloon -->
+    <item>Wallonisch</item>
+    <!-- wal - Wolaytta -->
+    <item>Walamo-Schpraach</item>
+    <!-- war - Waray -->
+    <item>Waray</item>
+    <!-- was - Washo -->
+    <item>Washo-Schpraach</item>
+    <!-- wo - Wolof -->
+    <item>Wolof</item>
+    <!-- xal - Kalmyk -->
+    <item>Kalmückisch</item>
+    <!-- xh - Xhosa -->
+    <item>Xhosa</item>
+    <!-- yao - Yao -->
+    <item>Yao-Schpraach</item>
+    <!-- yap - Yapese -->
+    <item>Yapesisch</item>
+    <!-- yi - Yiddish -->
+    <item>Jiddisch</item>
+    <!-- yo - Yoruba -->
+    <item>Yoruba</item>
+    <!-- yue - Cantonese -->
+    <item>Kantonesisch</item>
+    <!-- za - Zhuang -->
+    <item>Zhuang</item>
+    <!-- zap - Zapotec -->
+    <item>Zapotekisch</item>
+    <!-- zbl - Blissymbols -->
+    <item>Bliss-Symbool</item>
+    <!-- zen - Zenaga -->
+    <item>Zenaga</item>
+    <!-- zh - Chinese -->
+    <item>Chineesisch</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>Veräifachts Chineesisch</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>Tradizionells Chineesisch</item>
+    <!-- zu - Zulu -->
+    <item>Zulu</item>
+    <!-- zun - Zuni -->
+    <item>Zuni-Schpraach</item>
+    <!-- zxx - No linguistic content -->
+    <item>Kän schpraachliche Inhalt</item>
+    <!-- zza - Zaza -->
+    <item>Zaza</item>
+  </string-array>
+</resources>

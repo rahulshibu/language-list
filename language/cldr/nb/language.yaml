@@ -6,53 +6,42 @@ ada: adangme
 ady: adyghe
 ae: avestisk
 af: afrikaans
-afa: "afroasiatisk spr\xE5k"
 afh: afrihili
 agq: aghem
 ain: ainu
 ak: akan
 akk: akkadisk
 ale: aleutisk
-alg: "algonkinsk spr\xE5k"
 alt: "s\xF8raltaisk"
 am: amharisk
 an: aragonsk
 ang: gammelengelsk
 anp: angika
-apa: "apachespr\xE5k"
 ar: arabisk
 ar_001: moderne standard arabisk
 arc: arameisk
 arn: araukansk
 arp: arapaho
-art: "kunstig spr\xE5k"
 arw: arawak
 as: assamisk
 asa: asu
 ast: asturisk
-ath: "athapaskansk spr\xE5k"
-aus: "australsk spr\xE5k"
 av: avarisk
 awa: awadhi
 ay: aymara
 az: aserbajdsjansk
 ba: basjkirsk
-bad: banda
-bai: "bamilekisk spr\xE5k"
 bal: baluchi
 ban: balinesisk
 bas: basa
-bat: "baltisk spr\xE5k"
 bax: bamun
 bbj: ghomala
 be: hviterussisk
 bej: beja
 bem: bemba
-ber: berbisk
 bez: bena
 bfd: bafut
 bg: bulgarsk
-bh: bihari
 bho: bhojpuri
 bi: bislama
 bik: bikol
@@ -61,14 +50,12 @@ bkm: kom
 bla: siksika
 bm: bambara
 bn: bengali
-bnt: bantu
 bo: tibetansk
 br: bretonsk
 bra: braj
 brx: bodo
 bs: bosnisk
 bss: akose
-btk: batak
 bua: buriat
 bug: buginesisk
 bum: bulu
@@ -76,14 +63,11 @@ byn: blin
 byv: medumba
 ca: katalansk
 cad: caddo
-cai: "sentralamerikansk indiansk spr\xE5k"
 car: karibisk
-cau: "kaukasisk spr\xE5k"
 cay: cayuga
 cch: atsam
 ce: tsjetsjensk
 ceb: cebuansk
-cel: "keltisk spr\xE5k"
 cgg: kiga
 ch: chamorro
 chb: chibcha
@@ -96,26 +80,19 @@ chp: chipewiansk
 chr: cherokee
 chy: cheyenne
 ckb: kurdisk (sorani)
-cmc: "kamisk spr\xE5k"
 co: korsikansk
 cop: koptisk
-cpe: "engelskbasert kreol- eller pidginspr\xE5k"
-cpf: "franskbasert kreol- eller pidginspr\xE5k"
-cpp: "portugisiskbasert kreol- eller pidginspr\xE5k"
 cr: cree
 crh: krimtatarisk
-crp: "kreol- eller pidginspr\xE5k"
 cs: tsjekkisk
 csb: kasjubisk
 cu: kirkeslavisk
-cus: "kusjitisk spr\xE5k"
 cv: tsjuvansk
 cy: walisisk
 da: dansk
 dak: dakota
 dar: dargwa
 dav: taita
-day: dayak
 de: tysk
 de_AT: "\xF8sterriksk tysk"
 de_CH: "sveitsisk h\xF8ytysk"
@@ -125,7 +102,6 @@ dgr: dogrib
 din: dinka
 dje: zarma
 doi: dogri
-dra: "dravidisk spr\xE5k"
 dsb: lavsorbisk
 dua: duala
 dum: mellomnederlandsk
@@ -161,7 +137,6 @@ fat: fanti
 ff: fulani
 fi: finsk
 fil: filippinsk
-fiu: "finsk-ugrisk spr\xE5k"
 fj: fijiansk
 fo: "f\xE6r\xF8ysk"
 fon: fon
@@ -179,7 +154,6 @@ gaa: ga
 gay: gayo
 gba: gbaya
 gd: "skotsk g\xE6lisk"
-gem: "germansk spr\xE5k"
 gez: ges
 gil: kiribatisk
 gl: galisisk
@@ -202,7 +176,6 @@ haw: hawaiisk
 he: hebraisk
 hi: hindi
 hil: hiligaynon
-him: himachali
 hit: hettittisk
 hmn: hmong
 ho: hiri motu
@@ -220,20 +193,16 @@ id: indonesisk
 ie: interlingue
 ig: ibo
 ii: sichuan-yi
-ijo: ijo
 ik: inupiak
 ilo: iloko
-inc: "indisk spr\xE5k"
-ine: "indoeuropeisk spr\xE5k"
 inh: ingusjisk
 io: ido
-ira: "iransk spr\xE5k"
-iro: "irokansk spr\xE5k"
 is: islandsk
 it: italiensk
 iu: inuktitut
 ja: japansk
 jbo: lojban
+jgo: ngomba
 jmc: machame
 jpr: "j\xF8depersisk"
 jrb: "j\xF8dearabisk"
@@ -244,7 +213,6 @@ kab: kabylsk
 kac: kachin
 kaj: jju
 kam: kamba
-kar: karensk
 kaw: kawi
 kbd: kabardisk
 kbl: kanembu
@@ -254,7 +222,6 @@ kea: kappverdisk
 kfo: koro
 kg: kikongo
 kha: khasi
-khi: "khoisanspr\xE5k"
 kho: khotanesisk
 khq: koyra chiini
 ki: kikuyu
@@ -273,7 +240,6 @@ kpe: kpelle
 kr: kanuri
 krc: karachay-balkar
 krl: karelsk
-kro: kru
 kru: kurukh
 ks: kasjmiri
 ksb: shambala
@@ -313,7 +279,6 @@ mag: magahi
 mai: maithili
 mak: makasar
 man: mandingo
-map: "austronesisk spr\xE5k"
 mas: masai
 mde: maba
 mdf: moksha
@@ -324,19 +289,16 @@ mfe: mauritisk-kreolsk
 mg: madagassisk
 mga: mellomirsk
 mgh: makhuwa-meetto
+mgo: meta'
 mh: marshallesisk
 mi: maori
 mic: micmac
 min: minangkabau
-mis: "annet spr\xE5k"
 mk: makedonsk
-mkh: "mon-khmerspr\xE5k"
 ml: malayalam
 mn: mongolsk
 mnc: mandsju
 mni: manipuri
-mno: "manobospr\xE5k"
-mo: moldavisk
 moh: mohawk
 mos: mossi
 mr: marathi
@@ -344,17 +306,13 @@ ms: malayisk
 mt: maltesisk
 mua: mundang
 mul: "flere spr\xE5k"
-mun: "mundaspr\xE5k"
 mus: creek
 mwl: mirandesisk
 mwr: marwari
 my: burmesisk
 mye: myene
-myn: "mayaspr\xE5k"
 myv: erzya
 na: nauru
-nah: nahuatl
-nai: "nordamerikansk indiansk spr\xE5k"
 nap: napolitansk
 naq: nama
 nb: "norsk bokm\xE5l"
@@ -364,7 +322,6 @@ ne: nepalsk
 new: newari
 ng: ndonga
 nia: nias
-nic: "niger-kordofiansk spr\xE5k"
 niu: niueansk
 nl: nederlandsk
 nl_BE: flamsk
@@ -377,7 +334,6 @@ non: gammelnorsk
 nqo: "nk\xE5"
 nr: "s\xF8r-ndebele"
 nso: nord-sotho
-nub: "nubisk spr\xE5k"
 nus: nuer
 nv: navajo
 nwc: klassisk newari
@@ -393,21 +349,17 @@ or: oriya
 os: ossetisk
 osa: osage
 ota: ottomansk tyrkisk
-oto: "otomisk spr\xE5k"
 pa: panjabi
-paa: "papuisk spr\xE5k"
 pag: pangasinan
 pal: pahlavi
 pam: pampanga
 pap: papiamento
 pau: palauisk
 peo: gammelpersisk
-phi: "filippinsk spr\xE5k"
 phn: "f\xF8nikisk"
 pi: pali
 pl: polsk
 pon: ponapisk
-pra: "prakritspr\xE5k"
 pro: "gammelproven\xE7alsk"
 ps: pashto
 pt: portugisisk
@@ -420,7 +372,7 @@ rar: rarotongansk
 rm: retoromansk
 rn: rundi
 ro: rumensk
-roa: "romansk spr\xE5k"
+ro_MD: moldavisk
 rof: rombo
 rom: romani
 root: rot
@@ -431,8 +383,6 @@ rwk: rwa
 sa: sanskrit
 sad: sandawe
 sah: jakutsk
-sai: "s\xF8ramerikansk indiansk spr\xE5k"
-sal: "salishansk spr\xE5k"
 sam: samaritansk arameisk
 saq: samburu
 sas: sasak
@@ -447,25 +397,19 @@ se: nordsamisk
 see: seneca
 seh: sena
 sel: selkupisk
-sem: "semittisk spr\xE5k"
 ses: koyraboro senni
 sg: sango
 sga: gammelirsk
-sgn: "tegnspr\xE5k"
 sh: serbokroatisk
 shi: tachelhit
 shn: shan
 shu: Tsjad-arabisk
 si: singalesisk
 sid: sidamo
-sio: "siouxspr\xE5k"
-sit: "sino-tibetansk spr\xE5k"
 sk: slovakisk
 sl: slovensk
-sla: "slavisk spr\xE5k"
 sm: samoansk
 sma: "s\xF8rsamisk"
-smi: "samisk spr\xE5k"
 smj: lulesamisk
 smn: enaresamisk
 sms: skoltesamisk
@@ -473,13 +417,11 @@ sn: shona
 snk: soninke
 so: somali
 sog: sogdisk
-son: songhai
 sq: albansk
 sr: serbisk
 srn: sranan tongo
 srr: serer
 ss: swati
-ssa: "nilo-saharaspr\xE5k"
 ssy: saho
 st: "s\xF8r-sotho"
 su: sundanesisk
@@ -493,7 +435,6 @@ swc: kongolesisk swahili
 syc: klassisk syrisk
 syr: syrisk
 ta: tamil
-tai: "taispr\xE5k"
 te: telugu
 tem: temne
 teo: teso
@@ -520,8 +461,6 @@ ts: tsonga
 tsi: tsimshian
 tt: tatarisk
 tum: tumbuka
-tup: "tupispr\xE5k"
-tut: "altaisk spr\xE5k"
 tvl: tuvalu
 tw: twi
 twq: tasawaq
@@ -544,11 +483,9 @@ vot: votisk
 vun: vunjo
 wa: vallonsk
 wae: walser
-wak: "wakasjansk spr\xE5k"
 wal: walamo
 war: waray
 was: washo
-wen: "sorbisk spr\xE5k"
 wo: wolof
 xal: kalmyk
 xh: xhosa
@@ -559,7 +496,6 @@ yav: yangben
 ybb: yemba
 yi: jiddisk
 yo: joruba
-ypk: "jupisk spr\xE5k"
 yue: kantonesisk
 za: zhuang
 zap: zapotec
@@ -569,7 +505,6 @@ zgh: standard marrokansk tamazight
 zh: kinesisk
 zh_Hans: forenklet kinesisk
 zh_Hant: tradisjonell kinesisk
-znd: zande
 zu: zulu
 zun: zuni
 zxx: "uten spr\xE5klig innhold"

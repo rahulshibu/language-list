@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Standard Moroccan Tamazight (zgh) -->
+  <string-array name="languages_all">
+    <!-- ak - Akan -->
+    <item>ⵜⴰⴽⴰⵏⵜ</item>
+    <!-- am - Amharic -->
+    <item>ⵜⴰⵎⵀⴰⵔⵉⵜ</item>
+    <!-- ar - Arabic -->
+    <item>ⵜⴰⵄⵔⴰⴱⵜ</item>
+    <!-- be - Belarusian -->
+    <item>ⵜⴰⴱⵉⵍⴰⵔⵓⵙⵜ</item>
+    <!-- bg - Bulgarian -->
+    <item>ⵜⴰⴱⵍⵖⴰⵔⵉⵜ</item>
+    <!-- bn - Bengali -->
+    <item>ⵜⴰⴱⵏⵖⴰⵍⵉⵜ</item>
+    <!-- cs - Czech -->
+    <item>ⵜⴰⵜⵛⵉⴽⵉⵜ</item>
+    <!-- de - German -->
+    <item>ⵜⴰⵍⵉⵎⴰⵏⵜ</item>
+    <!-- el - Greek -->
+    <item>ⵜⴰⴳⵔⵉⴳⵉⵜ</item>
+    <!-- en - English -->
+    <item>ⵜⴰⵏⴳⵍⵉⵣⵜ</item>
+    <!-- es - Spanish -->
+    <item>ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ</item>
+    <!-- fa - Persian -->
+    <item>ⵜⴰⴼⵓⵔⵙⵉⵜ</item>
+    <!-- fr - French -->
+    <item>ⵜⴰⴼⵔⴰⵏⵙⵉⵙⵜ</item>
+    <!-- ha - Hausa -->
+    <item>ⵜⴰⵀⴰⵡⵙⴰⵜ</item>
+    <!-- hi - Hindi -->
+    <item>ⵜⴰⵀⵉⵏⴷⵉⵜ</item>
+    <!-- hu - Hungarian -->
+    <item>ⵜⴰⵀⵏⵖⴰⵔⵉⵜ</item>
+    <!-- id - Indonesian -->
+    <item>ⵜⴰⵏⴷⵓⵏⵉⵙⵉⵜ</item>
+    <!-- ig - Igbo -->
+    <item>ⵜⵉⴳⴱⵓⵜ</item>
+    <!-- it - Italian -->
+    <item>ⵜⴰⵟⴰⵍⵢⴰⵏⵜ</item>
+    <!-- ja - Japanese -->
+    <item>ⵜⴰⵊⴰⴱⴱⵓⵏⵉⵜ</item>
+    <!-- jv - Javanese -->
+    <item>ⵜⴰⵊⴰⴱⴰⵏⵉⵜ</item>
+    <!-- km - Khmer -->
+    <item>ⵜⴰⵅⵎⵉⵔⵜ</item>
+    <!-- ko - Korean -->
+    <item>ⵜⴰⴽⵓⵔⵉⵜ</item>
+    <!-- ms - Malay -->
+    <item>ⵜⴰⵎⴰⵍⴰⵡⵉⵜ</item>
+    <!-- my - Burmese -->
+    <item>ⵜⴰⴱⵉⵔⵎⴰⵏⵉⵜ</item>
+    <!-- ne - Nepali -->
+    <item>ⵜⴰⵏⵉⴱⴰⵍⵉⵜ</item>
+    <!-- nl - Dutch -->
+    <item>ⵜⴰⵀⵓⵍⴰⵏⴷⵉⵜ</item>
+    <!-- pa - Punjabi -->
+    <item>ⵜⴰⴱⵏⵊⴰⴱⵉⵜ</item>
+    <!-- pl - Polish -->
+    <item>ⵜⴰⴱⵓⵍⵓⵏⵉⵜ</item>
+    <!-- pt - Portuguese -->
+    <item>ⵜⴰⴱⵕⵟⵇⵉⵣⵜ</item>
+    <!-- ro - Romanian -->
+    <item>ⵜⴰⵔⵓⵎⴰⵏⵉⵜ</item>
+    <!-- ru - Russian -->
+    <item>ⵜⴰⵔⵓⵙⵉⵜ</item>
+    <!-- rw - Kinyarwanda -->
+    <item>ⵜⴰⵔⵓⵡⴰⵏⴷⵉⵜ</item>
+    <!-- so - Somali -->
+    <item>ⵜⴰⵙⵓⵎⴰⵍⵉⵜ</item>
+    <!-- sv - Swedish -->
+    <item>ⵜⴰⵙⵡⵉⴷⵉⵜ</item>
+    <!-- ta - Tamil -->
+    <item>ⵜⴰⵜⴰⵎⵉⵍⵜ</item>
+    <!-- th - Thai -->
+    <item>ⵜⴰⵜⴰⵢⵍⴰⵏⴷⵉⵜ</item>
+    <!-- tr - Turkish -->
+    <item>ⵜⴰⵜⵓⵔⴽⵉⵜ</item>
+    <!-- uk - Ukrainian -->
+    <item>ⵜⵓⴽⵔⴰⵏⵉⵜ</item>
+    <!-- ur - Urdu -->
+    <item>ⵜⵓⵔⴷⵓⵜ</item>
+    <!-- vi - Vietnamese -->
+    <item>ⵜⴰⴱⵉⵜⵏⴰⵎⵉⵜ</item>
+    <!-- yo - Yoruba -->
+    <item>ⵜⴰⵢⵔⵓⴱⴰⵜ</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ⵜⴰⵎⴰⵣⵉⵖⵜ</item>
+    <!-- zh - Chinese -->
+    <item>ⵜⴰⵛⵉⵏⵡⵉⵜ</item>
+    <!-- zu - Zulu -->
+    <item>ⵜⴰⵣⵓⵍⵓⵜ</item>
+  </string-array>
+</resources>

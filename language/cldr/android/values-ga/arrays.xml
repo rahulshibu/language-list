@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Irish (ga) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>aa</item>
+    <!-- ab - Abkhazian -->
+    <item>Abcáisis</item>
+    <!-- ae - Avestan -->
+    <item>Aivéistis</item>
+    <!-- af - Afrikaans -->
+    <item>Afracáinis</item>
+    <!-- am - Amharic -->
+    <item>Amarais</item>
+    <!-- ar - Arabic -->
+    <item>Araibis</item>
+    <!-- as - Assamese -->
+    <item>Asaimis</item>
+    <!-- az - Azerbaijani -->
+    <item>Asarbaiseáinis</item>
+    <!-- ba - Bashkir -->
+    <item>Baiscíris</item>
+    <!-- be - Belarusian -->
+    <item>Bealarúisis</item>
+    <!-- bg - Bulgarian -->
+    <item>Bulgáiris</item>
+    <!-- bn - Bengali -->
+    <item>Beangáilis</item>
+    <!-- bo - Tibetan -->
+    <item>Tibéadais</item>
+    <!-- br - Breton -->
+    <item>Briotáinis</item>
+    <!-- bs - Bosnian -->
+    <item>Boisnis</item>
+    <!-- ca - Catalan -->
+    <item>Catalóinis</item>
+    <!-- ce - Chechen -->
+    <item>Sisinis</item>
+    <!-- co - Corsican -->
+    <item>Corsaicis</item>
+    <!-- cr - Cree -->
+    <item>Craíais</item>
+    <!-- cs - Czech -->
+    <item>Seicis</item>
+    <!-- cu - Church Slavic -->
+    <item>Slavais na hEaglaise</item>
+    <!-- cv - Chuvash -->
+    <item>Suvaisis</item>
+    <!-- cy - Welsh -->
+    <item>Breatnais</item>
+    <!-- da - Danish -->
+    <item>Danmhairgis</item>
+    <!-- de - German -->
+    <item>Gearmáinis</item>
+    <!-- de_AT - Austrian German -->
+    <item>Gearmáinis Ostarach</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Ardghearmáinis Elvéiseach</item>
+    <!-- el - Greek -->
+    <item>Gréigis</item>
+    <!-- en - English -->
+    <item>Béarla</item>
+    <!-- en_AU - Australian English -->
+    <item>Béarla Astrálach</item>
+    <!-- en_CA - Canadian English -->
+    <item>Béarla Ceanadach</item>
+    <!-- en_GB - British English -->
+    <item>Béarla Briotanach</item>
+    <!-- en_US - American English -->
+    <item>Béarla Meiriceánach</item>
+    <!-- eo - Esperanto -->
+    <item>Esperanto</item>
+    <!-- es - Spanish -->
+    <item>Spáinnis</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Spáinnis Mheiriceá Laidinigh</item>
+    <!-- es_ES - European Spanish -->
+    <item>Spáinnis Eorpach</item>
+    <!-- et - Estonian -->
+    <item>Eastóinis</item>
+    <!-- eu - Basque -->
+    <item>Bascais</item>
+    <!-- fa - Persian -->
+    <item>Peirsis</item>
+    <!-- fi - Finnish -->
+    <item>Fionlainnis</item>
+    <!-- fil - Filipino -->
+    <item>Filipínis</item>
+    <!-- fj - Fijian -->
+    <item>Fidsis</item>
+    <!-- fo - Faroese -->
+    <item>Faróis</item>
+    <!-- fr - French -->
+    <item>Fraincis</item>
+    <!-- fr_CA - Canadian French -->
+    <item>Fraincis Ceanadach</item>
+    <!-- fr_CH - Swiss French -->
+    <item>Fraincis Elvéiseach</item>
+    <!-- fy - Western Frisian -->
+    <item>Freaslainnis Iartharach</item>
+    <!-- ga - Irish -->
+    <item>Gaeilge</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Gaeilge na hAlban</item>
+    <!-- gl - Galician -->
+    <item>Gailísis</item>
+    <!-- gn - Guarani -->
+    <item>Guaráinis</item>
+    <!-- gsw - Swiss German -->
+    <item>Gearmáinis Elvéiseach</item>
+    <!-- gu - Gujarati -->
+    <item>Gúisearáitis</item>
+    <!-- gv - Manx -->
+    <item>Mannainis</item>
+    <!-- ha - Hausa -->
+    <item>Hásais</item>
+    <!-- haw - Hawaiian -->
+    <item>Haváíais</item>
+    <!-- he - Hebrew -->
+    <item>Eabhrais</item>
+    <!-- hi - Hindi -->
+    <item>Hiondúis</item>
+    <!-- hr - Croatian -->
+    <item>Cróitis</item>
+    <!-- ht - Haitian -->
+    <item>Háítis</item>
+    <!-- hu - Hungarian -->
+    <item>Ungáiris</item>
+    <!-- hy - Armenian -->
+    <item>Airméinis</item>
+    <!-- ia - Interlingua -->
+    <item>Interlingua</item>
+    <!-- id - Indonesian -->
+    <item>Indinéisis</item>
+    <!-- ie - Interlingue -->
+    <item>Interlingue</item>
+    <!-- ig - Igbo -->
+    <item>Íogbóis</item>
+    <!-- ik - Inupiaq -->
+    <item>Inupiaq</item>
+    <!-- io - Ido -->
+    <item>Ido</item>
+    <!-- is - Icelandic -->
+    <item>Íoslainnis</item>
+    <!-- it - Italian -->
+    <item>Iodáilis</item>
+    <!-- iu - Inuktitut -->
+    <item>Ionúitis</item>
+    <!-- ja - Japanese -->
+    <item>Seapáinis</item>
+    <!-- jv - Javanese -->
+    <item>Iávais</item>
+    <!-- ka - Georgian -->
+    <item>Seoirsis</item>
+    <!-- kk - Kazakh -->
+    <item>Casachais</item>
+    <!-- km - Khmer -->
+    <item>Cambóidis</item>
+    <!-- kn - Kannada -->
+    <item>Cannadais</item>
+    <!-- ko - Korean -->
+    <item>Cóiréis</item>
+    <!-- ks - Kashmiri -->
+    <item>Caismíris</item>
+    <!-- ku - Kurdish -->
+    <item>Coirdis</item>
+    <!-- kw - Cornish -->
+    <item>Cornais</item>
+    <!-- ky - Kyrgyz -->
+    <item>Cirgeasais</item>
+    <!-- la - Latin -->
+    <item>Laidin</item>
+    <!-- lb - Luxembourgish -->
+    <item>Leitseabuirgis</item>
+    <!-- ln - Lingala -->
+    <item>ln</item>
+    <!-- lo - Lao -->
+    <item>Laosais</item>
+    <!-- lt - Lithuanian -->
+    <item>Liotuáinis</item>
+    <!-- lv - Latvian -->
+    <item>Laitvis</item>
+    <!-- mg - Malagasy -->
+    <item>Malagásais</item>
+    <!-- mi - Maori -->
+    <item>Maorais</item>
+    <!-- mk - Macedonian -->
+    <item>Macadóinis</item>
+    <!-- ml - Malayalam -->
+    <item>Mailéalaimis</item>
+    <!-- mn - Mongolian -->
+    <item>Mongóilis</item>
+    <!-- mr - Marathi -->
+    <item>Maraitis</item>
+    <!-- ms - Malay -->
+    <item>Malaeis</item>
+    <!-- mt - Maltese -->
+    <item>Maltais</item>
+    <!-- my - Burmese -->
+    <item>Burmais</item>
+    <!-- na - Nauru -->
+    <item>Nárúis</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>Ioruais Bokmål</item>
+    <!-- ne - Nepali -->
+    <item>Neipealais</item>
+    <!-- nl - Dutch -->
+    <item>Ollainnis</item>
+    <!-- nl_BE - Flemish -->
+    <item>Pléimeannais</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Ioruais Nynorsk</item>
+    <!-- no - Norwegian -->
+    <item>Ioruais</item>
+    <!-- nv - Navajo -->
+    <item>Navachóis</item>
+    <!-- oc - Occitan -->
+    <item>Ocatáinis</item>
+    <!-- or - Oriya -->
+    <item>Oraisis</item>
+    <!-- os - Ossetic -->
+    <item>Óiséitis</item>
+    <!-- pa - Punjabi -->
+    <item>Puinseáibis</item>
+    <!-- pl - Polish -->
+    <item>Polainnis</item>
+    <!-- ps - Pashto -->
+    <item>Paistis</item>
+    <!-- pt - Portuguese -->
+    <item>Portaingéilis</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Portaingéilis Bhrasaíleach</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Portaingéilis Ibéireach</item>
+    <!-- qu - Quechua -->
+    <item>Ceatsuais</item>
+    <!-- rm - Romansh -->
+    <item>Rómainis</item>
+    <!-- ro - Romanian -->
+    <item>Rómáinis</item>
+    <!-- ro_MD - Moldavian -->
+    <item>Moldáivis</item>
+    <!-- ru - Russian -->
+    <item>Rúisis</item>
+    <!-- sa - Sanskrit -->
+    <item>Sanscrait</item>
+    <!-- sc - Sardinian -->
+    <item>Sairdínis</item>
+    <!-- sd - Sindhi -->
+    <item>Sindis</item>
+    <!-- se - Northern Sami -->
+    <item>Sáimis Thuaidh</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Seirbea-Chróitis</item>
+    <!-- si - Sinhala -->
+    <item>Siolóinis</item>
+    <!-- sk - Slovak -->
+    <item>Slóvaicis</item>
+    <!-- sl - Slovenian -->
+    <item>Slóivéinis</item>
+    <!-- sm - Samoan -->
+    <item>Samóis</item>
+    <!-- so - Somali -->
+    <item>Somáilis</item>
+    <!-- sq - Albanian -->
+    <item>Albáinis</item>
+    <!-- sr - Serbian -->
+    <item>Seirbis</item>
+    <!-- st - Southern Sotho -->
+    <item>Sótais Dheisceartach</item>
+    <!-- su - Sundanese -->
+    <item>Sundais</item>
+    <!-- sv - Swedish -->
+    <item>Sualainnis</item>
+    <!-- sw - Swahili -->
+    <item>Svahaílis</item>
+    <!-- ta - Tamil -->
+    <item>Tamailis</item>
+    <!-- te - Telugu -->
+    <item>Teileagúis</item>
+    <!-- tg - Tajik -->
+    <item>Táidsícis</item>
+    <!-- th - Thai -->
+    <item>Téalainnis</item>
+    <!-- ti - Tigrinya -->
+    <item>Tigrinis</item>
+    <!-- tk - Turkmen -->
+    <item>Tuircméinis</item>
+    <!-- tl - Tagalog -->
+    <item>Tagálaigis</item>
+    <!-- tlh - Klingon -->
+    <item>Klingon</item>
+    <!-- to - Tongan -->
+    <item>Tongais</item>
+    <!-- tr - Turkish -->
+    <item>Tuircis</item>
+    <!-- tt - Tatar -->
+    <item>Tatarais</item>
+    <!-- tw - Twi -->
+    <item>Tvís</item>
+    <!-- ty - Tahitian -->
+    <item>Taihítis</item>
+    <!-- ug - Uyghur -->
+    <item>ug</item>
+    <!-- uk - Ukrainian -->
+    <item>Úcráinis</item>
+    <!-- und - Unknown Language -->
+    <item>Teanga Anaithnid nó Neamhbhailí</item>
+    <!-- ur - Urdu -->
+    <item>Urdais</item>
+    <!-- uz - Uzbek -->
+    <item>Úisbéicis</item>
+    <!-- vi - Vietnamese -->
+    <item>Vítneamais</item>
+    <!-- wa - Walloon -->
+    <item>Vallúnais</item>
+    <!-- wo - Wolof -->
+    <item>Volaifis</item>
+    <!-- xh - Xhosa -->
+    <item>Cósais</item>
+    <!-- yi - Yiddish -->
+    <item>Giúdais</item>
+    <!-- yo - Yoruba -->
+    <item>Iarúibis</item>
+    <!-- zh - Chinese -->
+    <item>Sínis</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>Sínis Shimplithe</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>Sínis Thraidisiúnta</item>
+    <!-- zu - Zulu -->
+    <item>Súlúis</item>
+    <!-- zxx - No linguistic content -->
+    <item>Gan ábhar teangeolaíoch</item>
+  </string-array>
+</resources>

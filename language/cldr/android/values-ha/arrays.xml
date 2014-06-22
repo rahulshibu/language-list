@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Hausa (ha) -->
+  <string-array name="languages_all">
+    <!-- af - Afrikaans -->
+    <item>Afirkanci</item>
+    <!-- ak - Akan -->
+    <item>Akan</item>
+    <!-- am - Amharic -->
+    <item>Amharik</item>
+    <!-- ar - Arabic -->
+    <item>Larabci</item>
+    <!-- as - Assamese -->
+    <item>Asamisanci</item>
+    <!-- az - Azerbaijani -->
+    <item>Azerbaijanci</item>
+    <!-- be - Belarusian -->
+    <item>Belarusanci</item>
+    <!-- bg - Bulgarian -->
+    <item>Bulgaranci</item>
+    <!-- bn - Bengali -->
+    <item>Bengali</item>
+    <!-- br - Breton -->
+    <item>Buretananci</item>
+    <!-- bs - Bosnian -->
+    <item>Bosniyanci</item>
+    <!-- ca - Catalan -->
+    <item>Kataloniyanci</item>
+    <!-- cs - Czech -->
+    <item>Harshen Cak</item>
+    <!-- cy - Welsh -->
+    <item>Kabilar Welsh</item>
+    <!-- da - Danish -->
+    <item>Danish</item>
+    <!-- de - German -->
+    <item>Jamusanci</item>
+    <!-- el - Greek -->
+    <item>Girkanci</item>
+    <!-- en - English -->
+    <item>Turanci</item>
+    <!-- eo - Esperanto -->
+    <item>D'an/'Yar Kabilar Andalus</item>
+    <!-- es - Spanish -->
+    <item>Ispaniyanci</item>
+    <!-- et - Estonian -->
+    <item>Istoniyanci</item>
+    <!-- eu - Basque -->
+    <item>Dan/'Yar Kabilar Bas</item>
+    <!-- fa - Persian -->
+    <item>Parisanci</item>
+    <!-- fi - Finnish -->
+    <item>Yaren mutanen Finland</item>
+    <!-- fil - Filipino -->
+    <item>Dan Filifin</item>
+    <!-- fo - Faroese -->
+    <item>Faroese</item>
+    <!-- fr - French -->
+    <item>Faransanci</item>
+    <!-- fy - Western Frisian -->
+    <item>K'abilan Firsi</item>
+    <!-- ga - Irish -->
+    <item>Dan Ailan</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>K'abilan Scots Gaelic</item>
+    <!-- gl - Galician -->
+    <item>Bagalike</item>
+    <!-- gn - Guarani -->
+    <item>Guwaraniyanci</item>
+    <!-- gu - Gujarati -->
+    <item>Gujarati</item>
+    <!-- ha - Hausa -->
+    <item>Hausa</item>
+    <!-- he - Hebrew -->
+    <item>Yahudanci</item>
+    <!-- hi - Hindi -->
+    <item>Harshen Hindi</item>
+    <!-- hr - Croatian -->
+    <item>Kuroshiyan</item>
+    <!-- hu - Hungarian -->
+    <item>Harshen Hungari</item>
+    <!-- hy - Armenian -->
+    <item>Armeniyanci</item>
+    <!-- ia - Interlingua -->
+    <item>Yare Tsakanin Kasashe</item>
+    <!-- id - Indonesian -->
+    <item>Harshen Indunusiya</item>
+    <!-- ie - Interlingue -->
+    <item>Intagulanci</item>
+    <!-- ig - Igbo -->
+    <item>Inyamuranci</item>
+    <!-- is - Icelandic -->
+    <item>Yaren mutanen Iceland</item>
+    <!-- it - Italian -->
+    <item>Italiyanci</item>
+    <!-- ja - Japanese -->
+    <item>Japananci</item>
+    <!-- jv - Javanese -->
+    <item>Jabananci</item>
+    <!-- ka - Georgian -->
+    <item>Jojiyanci</item>
+    <!-- km - Khmer -->
+    <item>Harshen Kimar</item>
+    <!-- kn - Kannada -->
+    <item>Dan/'Yar Kabilar Kannada</item>
+    <!-- ko - Korean -->
+    <item>Harshen Koreya</item>
+    <!-- ku - Kurdish -->
+    <item>Kurdanci</item>
+    <!-- ky - Kyrgyz -->
+    <item>Kirgizanci</item>
+    <!-- la - Latin -->
+    <item>Dan Kabilar Latin</item>
+    <!-- ln - Lingala -->
+    <item>Lingala</item>
+    <!-- lo - Lao -->
+    <item>Laothian</item>
+    <!-- lt - Lithuanian -->
+    <item>Lituweniyanci</item>
+    <!-- lv - Latvian -->
+    <item>Latbiyanci</item>
+    <!-- mk - Macedonian -->
+    <item>Dan Masedoniya</item>
+    <!-- ml - Malayalam -->
+    <item>Kabilar Maleyalam</item>
+    <!-- mn - Mongolian -->
+    <item>Mongolian</item>
+    <!-- mr - Marathi -->
+    <item>K'abilan Marathi</item>
+    <!-- ms - Malay -->
+    <item>Harshen Malai</item>
+    <!-- mt - Maltese -->
+    <item>Harshen Maltis</item>
+    <!-- my - Burmese -->
+    <item>Burmanci</item>
+    <!-- ne - Nepali -->
+    <item>Nepali</item>
+    <!-- nl - Dutch -->
+    <item>Holanci</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Yaren Kasar Norway</item>
+    <!-- no - Norwegian -->
+    <item>Yaren mutanen Norway</item>
+    <!-- oc - Occitan -->
+    <item>Ositanci</item>
+    <!-- or - Oriya -->
+    <item>Oriyanci</item>
+    <!-- pa - Punjabi -->
+    <item>Punjabi</item>
+    <!-- pl - Polish -->
+    <item>Harshen Polan</item>
+    <!-- ps - Pashto -->
+    <item>Pashtanci</item>
+    <!-- pt - Portuguese -->
+    <item>Harshen Portugal</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Fotigis (Burazil)</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Yaren Kasar Portugal</item>
+    <!-- ro - Romanian -->
+    <item>Romaniyanci</item>
+    <!-- ru - Russian -->
+    <item>Rashanci</item>
+    <!-- rw - Kinyarwanda -->
+    <item>Kiniyaruwanda</item>
+    <!-- sa - Sanskrit -->
+    <item>sanskrit</item>
+    <!-- sd - Sindhi -->
+    <item>Sindiyanci</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Kuroweshiyancin-Sabiya</item>
+    <!-- si - Sinhala -->
+    <item>Sinhalanci</item>
+    <!-- sk - Slovak -->
+    <item>Basulake</item>
+    <!-- sl - Slovenian -->
+    <item>Basulabe</item>
+    <!-- so - Somali -->
+    <item>Somali</item>
+    <!-- sq - Albanian -->
+    <item>D'an/'Yar Kabilar Albaniya</item>
+    <!-- sr - Serbian -->
+    <item>Sabiyan</item>
+    <!-- st - Southern Sotho -->
+    <item>Sesotanci</item>
+    <!-- su - Sundanese -->
+    <item>Sundanese</item>
+    <!-- sv - Swedish -->
+    <item>Harshen Suwedan</item>
+    <!-- sw - Swahili -->
+    <item>Harshen Suwahili</item>
+    <!-- ta - Tamil -->
+    <item>Tamil</item>
+    <!-- te - Telugu -->
+    <item>D'an/'Yar Kabilar Telug</item>
+    <!-- th - Thai -->
+    <item>Thai</item>
+    <!-- ti - Tigrinya -->
+    <item>Tigriyanci</item>
+    <!-- tk - Turkmen -->
+    <item>Tukmenistanci</item>
+    <!-- tlh - Klingon -->
+    <item>Klingon</item>
+    <!-- tr - Turkish -->
+    <item>Harshen Turkiyya</item>
+    <!-- tw - Twi -->
+    <item>Tiwiniyanci</item>
+    <!-- ug - Uyghur -->
+    <item>Ugiranci</item>
+    <!-- uk - Ukrainian -->
+    <item>Harshen Yukuren</item>
+    <!-- ur - Urdu -->
+    <item>Harshen Urdu</item>
+    <!-- uz - Uzbek -->
+    <item>Uzbek</item>
+    <!-- vi - Vietnamese -->
+    <item>Harshen Biyetinam</item>
+    <!-- xh - Xhosa -->
+    <item>Bazosa</item>
+    <!-- yo - Yoruba -->
+    <item>Yarbanci</item>
+    <!-- zh - Chinese -->
+    <item>Harshen Sin</item>
+    <!-- zu - Zulu -->
+    <item>Harshen Zulu</item>
+  </string-array>
+</resources>

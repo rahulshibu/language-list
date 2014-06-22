@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- en_Dsrt -->
+  <string-array name="languages_all">
+    <!-- an -->
+    <item>𐐈𐑉𐐲𐑀𐐱𐑌𐐨𐑆</item>
+    <!-- apa -->
+    <item>𐐊𐐹𐐰𐐽𐐨 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- ar -->
+    <item>𐐇𐑉𐐲𐐺𐐮𐐿</item>
+    <!-- art -->
+    <item>𐐂𐑉𐐻𐐮𐑁𐐮𐑇𐐲𐑊 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- bat -->
+    <item>𐐒𐐪𐑊𐐻𐐮𐐿 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- ber -->
+    <item>𐐒𐐲𐑉𐐺𐐲𐑉</item>
+    <!-- bnt -->
+    <item>𐐒𐐰𐑌𐐻𐐭</item>
+    <!-- br -->
+    <item>𐐒𐑉𐐯𐐻𐐲𐑌</item>
+    <!-- byn -->
+    <item>𐐒𐑊𐐮𐑌</item>
+    <!-- ca -->
+    <item>𐐗𐐪𐐻𐐲𐑊𐐪𐑌</item>
+    <!-- cel -->
+    <item>𐐗𐐯𐑊𐐻𐐮𐐿 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- chr -->
+    <item>𐐕𐐯𐑉𐐬𐐿𐐨</item>
+    <!-- chy -->
+    <item>𐐟𐐴𐐰𐑌</item>
+    <!-- co -->
+    <item>𐐗𐐬𐑉𐑅𐐮𐐿𐐲𐑌</item>
+    <!-- cop -->
+    <item>𐐗𐐬𐐹𐐻𐐮𐐿</item>
+    <!-- cpe -->
+    <item>𐐀𐑍𐑊𐐮𐑇-𐐺𐐩𐑅𐐻 𐐗𐑉𐐨𐐬𐑊 𐐬𐑉 𐐑𐐮𐐾𐐮𐑌</item>
+    <!-- cpf -->
+    <item>𐐙𐑉𐐯𐑌𐐽-𐐺𐐩𐑅𐐻 𐐗𐑉𐐨𐐬𐑊 𐐬𐑉 𐐑𐐮𐐾𐐮𐑌</item>
+    <!-- cr -->
+    <item>𐐗𐑉𐐨</item>
+    <!-- crp -->
+    <item>𐐗𐑉𐐨𐐬𐑊 𐐬𐑉 𐐑𐐮𐐾𐐮𐑌</item>
+    <!-- cs -->
+    <item>𐐕𐐯𐐿</item>
+    <!-- cy -->
+    <item>𐐎𐐯𐑊𐑇</item>
+    <!-- da -->
+    <item>𐐔𐐩𐑌𐐮𐑇</item>
+    <!-- dak -->
+    <item>𐐔𐐲𐐿𐐬𐐻𐐲</item>
+    <!-- de -->
+    <item>𐐖𐐲𐑉𐑋𐑌𐐲</item>
+    <!-- dsb -->
+    <item>𐐢𐐬𐐲𐑉 𐐝𐐬𐑉𐐺𐐨𐐲𐑌</item>
+    <!-- dum -->
+    <item>𐐣𐐮𐐼𐐲𐑊 𐐔𐐲𐐽</item>
+    <!-- egy -->
+    <item>𐐁𐑌𐐽𐐲𐑌𐐻 𐐀𐐾𐐮𐐹𐐽𐐲𐑌</item>
+    <!-- el -->
+    <item>𐐘𐑉𐐨𐐿</item>
+    <!-- en -->
+    <item>𐐀𐑍𐑊𐐮𐑇</item>
+    <!-- enm -->
+    <item>𐐣𐐮𐐼𐐲𐑊 𐐀𐑍𐑊𐐮𐑇</item>
+    <!-- eo -->
+    <item>𐐇𐑅𐐹𐐯𐑉𐐪𐑌𐐻𐐬</item>
+    <!-- es -->
+    <item>𐐝𐐹𐐰𐑌𐐮𐑇</item>
+    <!-- et -->
+    <item>𐐀𐑅𐐻𐐬𐑌𐐨𐐲𐑌</item>
+    <!-- eu -->
+    <item>𐐒𐐰𐑅𐐿</item>
+    <!-- fr -->
+    <item>𐐙𐑉𐐯𐑌𐐽</item>
+    <!-- frm -->
+    <item>𐐣𐐮𐐼𐐲𐑊 𐐙𐑉𐐯𐑌𐐽</item>
+    <!-- ga -->
+    <item>𐐌𐑉𐐮𐑇</item>
+    <!-- gem -->
+    <item>𐐖𐐲𐑉𐑋𐐰𐑌𐐮𐐿 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- gil -->
+    <item>𐐘𐐮𐑊𐐺𐐯𐑉𐐻𐐨𐑆</item>
+    <!-- gmh -->
+    <item>𐐣𐐮𐐼𐐲𐑊 𐐐𐐴 𐐖𐐲𐑉𐑋𐐲𐑌</item>
+    <!-- got -->
+    <item>𐐘𐐱𐑃𐐮𐐿</item>
+    <!-- grc -->
+    <item>𐐁𐑌𐐽𐐲𐑌𐐻 𐐘𐑉𐐨𐐿</item>
+    <!-- gv -->
+    <item>𐐣𐐰𐑌𐐿𐑅</item>
+    <!-- haw -->
+    <item>𐐐𐐲𐐶𐐴𐐲𐑌</item>
+    <!-- hi -->
+    <item>𐐐𐐮𐑌𐐼𐐨</item>
+    <!-- hit -->
+    <item>𐐐𐐮𐐻𐐴𐐻</item>
+    <!-- hr -->
+    <item>𐐗𐑉𐐬𐐩𐑇𐐲𐑌</item>
+    <!-- ht -->
+    <item>𐐐𐐩𐑇𐐲𐑌</item>
+    <!-- hy -->
+    <item>𐐂𐑉𐑋𐐨𐑌𐐨𐐲𐑌</item>
+    <!-- ia -->
+    <item>𐐆𐑌𐐻𐐲𐑉𐑊𐐮𐑍𐐶𐐲</item>
+    <!-- id -->
+    <item>𐐆𐑌𐐼𐐬𐑌𐐨𐑈𐐲𐑌</item>
+    <!-- inc -->
+    <item>𐐆𐑌𐐼𐐮𐐿 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- ine -->
+    <item>𐐆𐑌𐐼𐐬-𐐏𐐯𐑉𐐬𐐹𐐨𐐲𐑌 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- is -->
+    <item>𐐌𐑅𐑊𐐰𐑌𐐼𐐮𐐿</item>
+    <!-- it -->
+    <item>𐐆𐐻𐐰𐑊𐐷𐐲𐑌</item>
+    <!-- ja -->
+    <item>𐐖𐐰𐐹𐐲𐑌𐐨𐑆</item>
+    <!-- jpr -->
+    <item>𐐖𐐭𐐼𐐨𐐬-𐐑𐐯𐑉𐑈𐐲𐑌</item>
+    <!-- jrb -->
+    <item>𐐖𐐭𐐼𐐨𐐬-𐐈𐑉𐐲𐐺𐐮𐐿</item>
+    <!-- jv -->
+    <item>𐐖𐐪𐑂𐐲𐑌𐐨𐑆</item>
+    <!-- ka -->
+    <item>𐐖𐐬𐑉𐐾𐐲𐑌</item>
+    <!-- km -->
+    <item>𐐗𐐲𐑋𐐯𐑉</item>
+    <!-- ko -->
+    <item>𐐗𐐬𐑉𐐨𐐲𐑌</item>
+    <!-- ku -->
+    <item>𐐗𐐲𐑉𐐼𐐮𐑇</item>
+    <!-- kut -->
+    <item>𐐢𐐰𐐼𐐨𐑌𐐬</item>
+    <!-- kw -->
+    <item>𐐗𐐬𐑉𐑌𐐮𐑇</item>
+    <!-- la -->
+    <item>𐐢𐐰𐐻𐐮𐑌</item>
+    <!-- lb -->
+    <item>𐐢𐐲𐐿𐑅𐐯𐑋𐐺𐐲𐑉𐑀𐐮𐑇</item>
+    <!-- lo -->
+    <item>𐐢𐐵</item>
+    <!-- lv -->
+    <item>𐐢𐐰𐐻𐑂𐐨𐐲𐑌</item>
+    <!-- mga -->
+    <item>𐐣𐐮𐐼𐐲𐑊 𐐌𐑉𐐮𐑇</item>
+    <!-- mi -->
+    <item>𐐣𐐵𐑉𐐨</item>
+    <!-- mis -->
+    <item>𐐣𐐮𐑅𐐲𐑊𐐩𐑌𐐨𐐲𐑅 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- mk -->
+    <item>𐐣𐐰𐑅𐐯𐐼𐐬𐑌𐐨𐐲𐑌</item>
+    <!-- mn -->
+    <item>𐐣𐐱𐑍𐐬𐑊𐐨𐐲𐑌</item>
+    <!-- mnc -->
+    <item>𐐣𐐰𐑌𐐽𐐭</item>
+    <!-- mo -->
+    <item>𐐣𐐬𐑊𐐼𐐩𐑂𐐨𐐲𐑌</item>
+    <!-- moh -->
+    <item>𐐐𐐬𐐸𐐪𐐿</item>
+    <!-- mul -->
+    <item>𐐣𐐲𐑊𐐻𐐮𐐹𐐲𐑊 𐐢𐐩𐑍𐐶𐐮𐐾𐐲𐑆</item>
+    <!-- mus -->
+    <item>𐐗𐑉𐐨𐐿</item>
+    <!-- my -->
+    <item>𐐒𐐲𐑉𐑋𐐨𐑆</item>
+    <!-- myn -->
+    <item>𐐣𐐴𐐲𐑌 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- nai -->
+    <item>𐐤𐐬𐑉𐑃 𐐊𐑋𐐯𐑉𐐮𐐿𐐲𐑌 𐐆𐑌𐐼𐐨𐐲𐑌 𐐢𐐩𐑍𐐶𐐮𐐾</item>
+    <!-- nap -->
+    <item>𐐤𐐨𐐲𐐹𐐱𐑊𐐮𐐻𐐲𐑌</item>
+    <!-- nds -->
+    <item>𐐢𐐬 𐐖𐐯𐑉𐑋𐐲𐑌</item>
+    <!-- nl -->
+    <item>𐐔𐐲𐐽</item>
+    <!-- nv -->
+    <item>𐐤𐐪𐑂𐐲𐐸𐐬</item>
+    <!-- tlh -->
+    <item>𐐗𐑊𐐮𐑍𐐱𐑌</item>
+    <!-- zbl -->
+    <item>𐐒𐑊𐐮𐑅-𐑅𐐮𐑋𐐺𐐲𐑊𐑆</item>
+    <!-- zh -->
+    <item>𐐕𐐴𐑌𐐨𐑆</item>
+    <!-- zxx -->
+    <item>𐐤𐐬 𐑊𐐨𐑍𐐶𐐮𐑅𐐻𐐮𐐿 𐐿𐐱𐑌𐐻𐐯𐑌𐐻</item>
+  </string-array>
+</resources>

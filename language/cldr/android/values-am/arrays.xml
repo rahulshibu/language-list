@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Amharic (am) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>አፋርኛ</item>
+    <!-- ab - Abkhazian -->
+    <item>አብሐዚኛ</item>
+    <!-- ach - Acoli -->
+    <item>አኮሊኛ</item>
+    <!-- af - Afrikaans -->
+    <item>አፍሪካንኛ</item>
+    <!-- ak - Akan -->
+    <item>አካንኛ</item>
+    <!-- am - Amharic -->
+    <item>አማርኛ</item>
+    <!-- ar - Arabic -->
+    <item>ዐርቢኛ</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>ዘመናዊ መደበኛ አረብኛ</item>
+    <!-- as - Assamese -->
+    <item>አሳሜዛዊ</item>
+    <!-- ay - Aymara -->
+    <item>አያማርኛ</item>
+    <!-- az - Azerbaijani -->
+    <item>አዘርባጃንኛ</item>
+    <!-- ba - Bashkir -->
+    <item>ባስኪርኛ</item>
+    <!-- be - Belarusian -->
+    <item>ቤላራሻኛ</item>
+    <!-- bem - Bemba -->
+    <item>ቤምባ</item>
+    <!-- bg - Bulgarian -->
+    <item>ቡልጋሪኛ</item>
+    <!-- bi - Bislama -->
+    <item>ቢስላምኛ</item>
+    <!-- bn - Bengali -->
+    <item>ቤንጋሊኛ</item>
+    <!-- bo - Tibetan -->
+    <item>ቲቤታንኛ</item>
+    <!-- br - Breton -->
+    <item>ብሬቶንኛ</item>
+    <!-- bs - Bosnian -->
+    <item>ቦስኒያንኛ</item>
+    <!-- byn - Blin -->
+    <item>ብሊን</item>
+    <!-- ca - Catalan -->
+    <item>ካታላንኛ</item>
+    <!-- chr - Cherokee -->
+    <item>ቼሮኬኛ</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>የሶራኒ ኩርድኛ</item>
+    <!-- co - Corsican -->
+    <item>ኮርሲካኛ</item>
+    <!-- cs - Czech -->
+    <item>ቼክኛ</item>
+    <!-- cy - Welsh -->
+    <item>ወልሽ</item>
+    <!-- da - Danish -->
+    <item>ዴኒሽ</item>
+    <!-- de - German -->
+    <item>ጀርመን</item>
+    <!-- de_AT - Austrian German -->
+    <item>የኦስትሪያ ጀርመን</item>
+    <!-- de_CH - Swiss High German -->
+    <item>የስዊዝ ከፍተኛ ጀርመንኛ</item>
+    <!-- dv - Divehi -->
+    <item>ዲቬህ</item>
+    <!-- dz - Dzongkha -->
+    <item>ድዞንግኻኛ</item>
+    <!-- ee - Ewe -->
+    <item>ኢዊ</item>
+    <!-- efi - Efik -->
+    <item>ኤፊክ</item>
+    <!-- el - Greek -->
+    <item>ግሪክኛ</item>
+    <!-- en - English -->
+    <item>እንግሊዝኛ</item>
+    <!-- en_AU - Australian English -->
+    <item>የአውስትራሊያ እንግሊዝኛ</item>
+    <!-- en_CA - Canadian English -->
+    <item>የካናዳ እንግሊዝኛ</item>
+    <!-- en_GB - British English -->
+    <item>የብሪቲሽ እንግሊዝኛ</item>
+    <!-- en_US - American English -->
+    <item>የአሜሪካ እንግሊዝኛ</item>
+    <!-- eo - Esperanto -->
+    <item>ኤስፐራንቶ</item>
+    <!-- es - Spanish -->
+    <item>ስፓኒሽ</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>የላቲን አሜሪካ ስፓኒሽ</item>
+    <!-- es_ES - European Spanish -->
+    <item>የአውሮፓ እስፓንኛ</item>
+    <!-- et - Estonian -->
+    <item>ኢስቶኒያንኛ</item>
+    <!-- eu - Basque -->
+    <item>ባስክኛ</item>
+    <!-- fa - Persian -->
+    <item>ፐርሺያኛ</item>
+    <!-- fi - Finnish -->
+    <item>ፊኒሽ</item>
+    <!-- fil - Filipino -->
+    <item>ፊሊፒንኛ</item>
+    <!-- fj - Fijian -->
+    <item>ፊጂኛ</item>
+    <!-- fo - Faroese -->
+    <item>ፋሮኛ</item>
+    <!-- fr - French -->
+    <item>ፈረንሳይኛ</item>
+    <!-- fr_CA - Canadian French -->
+    <item>የካናዳ ፈረንሳይኛ</item>
+    <!-- fr_CH - Swiss French -->
+    <item>የስዊዝ ፈረንሳይኛ</item>
+    <!-- fy - Western Frisian -->
+    <item>የምዕራብ ፍሪስኛ</item>
+    <!-- ga - Irish -->
+    <item>አይሪሽ</item>
+    <!-- gaa - Ga -->
+    <item>ጋ</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>እስኮትስ ጌልክኛ</item>
+    <!-- gez - Geez -->
+    <item>ግዕዝኛ</item>
+    <!-- gl - Galician -->
+    <item>ጌሊክ</item>
+    <!-- gn - Guarani -->
+    <item>ጓራኒኛ</item>
+    <!-- gsw - Swiss German -->
+    <item>የስዊዝ ጀርመን</item>
+    <!-- gu - Gujarati -->
+    <item>ጉጃርቲኛ</item>
+    <!-- ha - Hausa -->
+    <item>ሃውሳኛ</item>
+    <!-- haw - Hawaiian -->
+    <item>ሃዊያኛ</item>
+    <!-- he - Hebrew -->
+    <item>ዕብራስጥ</item>
+    <!-- hi - Hindi -->
+    <item>ሒንዱኛ</item>
+    <!-- hr - Croatian -->
+    <item>ክሮሽያንኛ</item>
+    <!-- ht - Haitian -->
+    <item>ሃይትኛ</item>
+    <!-- hu - Hungarian -->
+    <item>ሀንጋሪኛ</item>
+    <!-- hy - Armenian -->
+    <item>አርመናዊ</item>
+    <!-- ia - Interlingua -->
+    <item>ኢንቴርሊንጓ</item>
+    <!-- id - Indonesian -->
+    <item>ኢንዶኔዥኛ</item>
+    <!-- ie - Interlingue -->
+    <item>እንተርሊንግወ</item>
+    <!-- ig - Igbo -->
+    <item>ኢግቦኛ</item>
+    <!-- ik - Inupiaq -->
+    <item>እኑፒያቅኛ</item>
+    <!-- is - Icelandic -->
+    <item>አይስላንድኛ</item>
+    <!-- it - Italian -->
+    <item>ጣሊያንኛ</item>
+    <!-- iu - Inuktitut -->
+    <item>እኑክቲቱትኛ</item>
+    <!-- ja - Japanese -->
+    <item>ጃፓንኛ</item>
+    <!-- jv - Javanese -->
+    <item>ጃቫንኛ</item>
+    <!-- ka - Georgian -->
+    <item>ጆርጂያን</item>
+    <!-- kg - Kongo -->
+    <item>ኮንጎኛ</item>
+    <!-- kk - Kazakh -->
+    <item>ካዛክኛ</item>
+    <!-- kl - Kalaallisut -->
+    <item>ካላሊሱትኛ</item>
+    <!-- km - Khmer -->
+    <item>ክመርኛ ማእከላዊ</item>
+    <!-- kn - Kannada -->
+    <item>ካናዳኛ</item>
+    <!-- ko - Korean -->
+    <item>ኮሪያኛ</item>
+    <!-- ks - Kashmiri -->
+    <item>ካሽሚርኛ</item>
+    <!-- ku - Kurdish -->
+    <item>ኩርድሽኛ</item>
+    <!-- ky - Kyrgyz -->
+    <item>ኪርጊዝኛ</item>
+    <!-- la - Latin -->
+    <item>ላቲንኛ</item>
+    <!-- lb - Luxembourgish -->
+    <item>ሉክዘምበርገርኛ</item>
+    <!-- lg - Ganda -->
+    <item>ጋንዳኛ</item>
+    <!-- ln - Lingala -->
+    <item>ሊንጋላኛ</item>
+    <!-- lo - Lao -->
+    <item>ላውስኛ</item>
+    <!-- loz - Lozi -->
+    <item>ሎዚኛ</item>
+    <!-- lt - Lithuanian -->
+    <item>ሉቴንያንኛ</item>
+    <!-- lua - Luba-Lulua -->
+    <item>ሉባ-ሉሏ</item>
+    <!-- lv - Latvian -->
+    <item>ላትቪያን</item>
+    <!-- mfe - Morisyen -->
+    <item>ሞሪሲየኛ</item>
+    <!-- mg - Malagasy -->
+    <item>ማላጋስኛ</item>
+    <!-- mi - Maori -->
+    <item>ማዮሪኛ</item>
+    <!-- mk - Macedonian -->
+    <item>ማሴዶንኛ</item>
+    <!-- ml - Malayalam -->
+    <item>ማላያላምኛ</item>
+    <!-- mn - Mongolian -->
+    <item>ሞንጎላዊኛ</item>
+    <!-- mr - Marathi -->
+    <item>ማራቲኛ</item>
+    <!-- ms - Malay -->
+    <item>ማላይኛ</item>
+    <!-- mt - Maltese -->
+    <item>ማልቲስኛ</item>
+    <!-- my - Burmese -->
+    <item>ቡርማኛ</item>
+    <!-- na - Nauru -->
+    <item>ናኡሩ</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>የኖርዌይ ቦክማል</item>
+    <!-- nd - North Ndebele -->
+    <item>ሰሜን ንዴብሌ</item>
+    <!-- ne - Nepali -->
+    <item>ኔፓሊኛ</item>
+    <!-- nl - Dutch -->
+    <item>ደች</item>
+    <!-- nl_BE - Flemish -->
+    <item>ፍሌሚሽ</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>የኖርዌይ ናይኖርስክ</item>
+    <!-- no - Norwegian -->
+    <item>ኖርዌጂያን</item>
+    <!-- nso - Northern Sotho -->
+    <item>ሰሜናዊ ሶቶ</item>
+    <!-- ny - Nyanja -->
+    <item>ንያንጃ</item>
+    <!-- nyn - Nyankole -->
+    <item>ኒያንኮልኛ</item>
+    <!-- oc - Occitan -->
+    <item>ኦኪታንኛ</item>
+    <!-- om - Oromo -->
+    <item>ኦሮሞኛ</item>
+    <!-- or - Oriya -->
+    <item>ኦሪያኛ</item>
+    <!-- os - Ossetic -->
+    <item>ኦሴቲክ</item>
+    <!-- pa - Punjabi -->
+    <item>ፑንጃብኛ</item>
+    <!-- pl - Polish -->
+    <item>ፖሊሽኛ</item>
+    <!-- ps - Pashto -->
+    <item>ፓሽቶኛ</item>
+    <!-- pt - Portuguese -->
+    <item>ፖርቹጋልኛ</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>የብራዚል ፖርቹጋልኛ</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>የአውሮፓ ፖርቹጋልኛ</item>
+    <!-- qu - Quechua -->
+    <item>ኵቿኛ</item>
+    <!-- rm - Romansh -->
+    <item>ሮማንሽ</item>
+    <!-- rn - Rundi -->
+    <item>ሩንዲኛ</item>
+    <!-- ro - Romanian -->
+    <item>ሮማኒያን</item>
+    <!-- ro_MD - Moldavian -->
+    <item>ሞልዳቫዊና</item>
+    <!-- ru - Russian -->
+    <item>ራሽኛ</item>
+    <!-- rw - Kinyarwanda -->
+    <item>ኪንያርዋንድኛ</item>
+    <!-- sa - Sanskrit -->
+    <item>ሳንስክሪትኛ</item>
+    <!-- sd - Sindhi -->
+    <item>ሲንድሂኛ</item>
+    <!-- se - Northern Sami -->
+    <item>ሰሜናዊ ሳሚ</item>
+    <!-- sg - Sango -->
+    <item>ሳንጎኛ</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>ሰርቦ-ክሮኤሽያኛ</item>
+    <!-- si - Sinhala -->
+    <item>ሲንሃልኛ</item>
+    <!-- sid - Sidamo -->
+    <item>ሲዳምኛ</item>
+    <!-- sk - Slovak -->
+    <item>ስሎቫክኛ</item>
+    <!-- sl - Slovenian -->
+    <item>ስሎቪኛ</item>
+    <!-- sm - Samoan -->
+    <item>ሳሞአኛ</item>
+    <!-- sn - Shona -->
+    <item>ሾናኛ</item>
+    <!-- so - Somali -->
+    <item>ሱማልኛ</item>
+    <!-- sq - Albanian -->
+    <item>ልቤኒኛ</item>
+    <!-- sr - Serbian -->
+    <item>ሰርቢኛ</item>
+    <!-- ss - Swati -->
+    <item>ስዋቲኛ</item>
+    <!-- st - Southern Sotho -->
+    <item>ሶዞኛ</item>
+    <!-- su - Sundanese -->
+    <item>ሱዳንኛ</item>
+    <!-- sv - Swedish -->
+    <item>ስዊድንኛ</item>
+    <!-- sw - Swahili -->
+    <item>ስዋሂሊኛ</item>
+    <!-- ta - Tamil -->
+    <item>ታሚልኛ</item>
+    <!-- te - Telugu -->
+    <item>ተሉጉኛ</item>
+    <!-- tet - Tetum -->
+    <item>ቴተም</item>
+    <!-- tg - Tajik -->
+    <item>ታጂኪኛ</item>
+    <!-- th - Thai -->
+    <item>ታይኛ</item>
+    <!-- ti - Tigrinya -->
+    <item>ትግርኛ</item>
+    <!-- tig - Tigre -->
+    <item>ትግረ</item>
+    <!-- tk - Turkmen -->
+    <item>ቱርክመንኛ</item>
+    <!-- tl - Tagalog -->
+    <item>ታጋሎገኛ</item>
+    <!-- tlh - Klingon -->
+    <item>ክሊንጎንኛ</item>
+    <!-- tn - Tswana -->
+    <item>ጽዋናዊኛ</item>
+    <!-- to - Tongan -->
+    <item>ቶንጋኛ</item>
+    <!-- tpi - Tok Pisin -->
+    <item>ቶክ ፒሲን</item>
+    <!-- tr - Turkish -->
+    <item>ቱርክኛ</item>
+    <!-- ts - Tsonga -->
+    <item>ጾንጋኛ</item>
+    <!-- tt - Tatar -->
+    <item>ታታርኛ</item>
+    <!-- tum - Tumbuka -->
+    <item>ቱምቡካ</item>
+    <!-- tw - Twi -->
+    <item>ትዊኛ</item>
+    <!-- ty - Tahitian -->
+    <item>ታሂታንኛ</item>
+    <!-- ug - Uyghur -->
+    <item>ኡዊግሁርኛ</item>
+    <!-- uk - Ukrainian -->
+    <item>ዩክሬንኛ</item>
+    <!-- und - Unknown Language -->
+    <item>ያልታወቀ ቋንቋ</item>
+    <!-- ur - Urdu -->
+    <item>ኡርዱኛ</item>
+    <!-- uz - Uzbek -->
+    <item>ኡዝቤክኛ</item>
+    <!-- ve - Venda -->
+    <item>ቬንዳ</item>
+    <!-- vi - Vietnamese -->
+    <item>ቪትናምኛ</item>
+    <!-- vo - Volapük -->
+    <item>ቮላፑክኛ</item>
+    <!-- wo - Wolof -->
+    <item>ዎሎፍኛ</item>
+    <!-- xh - Xhosa -->
+    <item>ዞሳኛ</item>
+    <!-- yi - Yiddish -->
+    <item>ይዲሽኛ</item>
+    <!-- yo - Yoruba -->
+    <item>ዮሩባዊኛ</item>
+    <!-- za - Zhuang -->
+    <item>ዡዋንግኛ</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>zgh</item>
+    <!-- zh - Chinese -->
+    <item>ቻይንኛ</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>ቀለል ያለ ቻይንኛ</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>ባህላዊ ቻይንኛ</item>
+    <!-- zu - Zulu -->
+    <item>ዙሉኛ</item>
+    <!-- zxx - No linguistic content -->
+    <item>ቋንቋዊ ይዘት አይደለም</item>
+  </string-array>
+</resources>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Albanian (sq) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>Abkazisht</item>
+    <!-- af - Afrikaans -->
+    <item>Afrikane</item>
+    <!-- am - Amharic -->
+    <item>Amarike</item>
+    <!-- ar - Arabic -->
+    <item>Arabisht</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>Arabishte Standarde Moderne</item>
+    <!-- as - Assamese -->
+    <item>Asamezisht</item>
+    <!-- az - Azerbaijani -->
+    <item>Azere</item>
+    <!-- be - Belarusian -->
+    <item>Bjellorusisht</item>
+    <!-- bg - Bulgarian -->
+    <item>Bullgarisht</item>
+    <!-- bn - Bengali -->
+    <item>Bengalisht</item>
+    <!-- bo - Tibetan -->
+    <item>Tibetiane</item>
+    <!-- br - Breton -->
+    <item>Breton</item>
+    <!-- bs - Bosnian -->
+    <item>Boshnjakisht</item>
+    <!-- ca - Catalan -->
+    <item>Katalonisht</item>
+    <!-- cs - Czech -->
+    <item>Çekisht</item>
+    <!-- cy - Welsh -->
+    <item>Uellsisht</item>
+    <!-- da - Danish -->
+    <item>Danisht</item>
+    <!-- de - German -->
+    <item>Gjermanisht</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Gjermanisht (Zvicër-Dialekti i Alpeve)</item>
+    <!-- el - Greek -->
+    <item>Greqisht</item>
+    <!-- en - English -->
+    <item>Anglisht</item>
+    <!-- en_GB - British English -->
+    <item>Anglisht (Britani)</item>
+    <!-- eo - Esperanto -->
+    <item>Esperanto</item>
+    <!-- es - Spanish -->
+    <item>Spanjisht</item>
+    <!-- es_ES - European Spanish -->
+    <item>Spanjisht (Europë)</item>
+    <!-- et - Estonian -->
+    <item>Estonisht</item>
+    <!-- eu - Basque -->
+    <item>Baske</item>
+    <!-- fa - Persian -->
+    <item>Persisht</item>
+    <!-- fi - Finnish -->
+    <item>Finlandisht</item>
+    <!-- fil - Filipino -->
+    <item>Filipinase</item>
+    <!-- fj - Fijian -->
+    <item>Fixhiane</item>
+    <!-- fo - Faroese -->
+    <item>Faroisht</item>
+    <!-- fr - French -->
+    <item>Frëngjisht</item>
+    <!-- fy - Western Frisian -->
+    <item>Frizianisht</item>
+    <!-- ga - Irish -->
+    <item>Irlandisht</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Galisht</item>
+    <!-- gl - Galician -->
+    <item>Galike</item>
+    <!-- gn - Guarani -->
+    <item>Guarane</item>
+    <!-- gsw - Swiss German -->
+    <item>Gjermanisht (Zvicër)</item>
+    <!-- gu - Gujarati -->
+    <item>Guxharatisht</item>
+    <!-- ha - Hausa -->
+    <item>Hausisht</item>
+    <!-- haw - Hawaiian -->
+    <item>Havajane</item>
+    <!-- he - Hebrew -->
+    <item>Hebraisht</item>
+    <!-- hi - Hindi -->
+    <item>Indisht</item>
+    <!-- hr - Croatian -->
+    <item>Kroatisht</item>
+    <!-- ht - Haitian -->
+    <item>Haitianshe</item>
+    <!-- hu - Hungarian -->
+    <item>Hungarisht</item>
+    <!-- hy - Armenian -->
+    <item>Armenisht</item>
+    <!-- ia - Interlingua -->
+    <item>Interlingua</item>
+    <!-- id - Indonesian -->
+    <item>Indonezisht</item>
+    <!-- ie - Interlingue -->
+    <item>Gjuha nderkombtare</item>
+    <!-- ig - Igbo -->
+    <item>Igbe</item>
+    <!-- is - Icelandic -->
+    <item>Islandisht</item>
+    <!-- it - Italian -->
+    <item>Italisht</item>
+    <!-- ja - Japanese -->
+    <item>Japonisht</item>
+    <!-- jv - Javanese -->
+    <item>Javanisht</item>
+    <!-- ka - Georgian -->
+    <item>Gjeorgjisht</item>
+    <!-- kk - Kazakh -->
+    <item>Kazake</item>
+    <!-- km - Khmer -->
+    <item>Kmere (Kamboxhiane)</item>
+    <!-- kn - Kannada -->
+    <item>Kanada</item>
+    <!-- ko - Korean -->
+    <item>Koreanisht</item>
+    <!-- ks - Kashmiri -->
+    <item>Kashmire</item>
+    <!-- ku - Kurdish -->
+    <item>Kurde</item>
+    <!-- ky - Kyrgyz -->
+    <item>Kirgize</item>
+    <!-- la - Latin -->
+    <item>Latinisht</item>
+    <!-- lb - Luxembourgish -->
+    <item>Luksemburgase</item>
+    <!-- ln - Lingala -->
+    <item>Lingala</item>
+    <!-- lo - Lao -->
+    <item>Laosisht</item>
+    <!-- lt - Lithuanian -->
+    <item>Lituanisht</item>
+    <!-- lv - Latvian -->
+    <item>Letonisht</item>
+    <!-- mg - Malagasy -->
+    <item>Malageze</item>
+    <!-- mi - Maori -->
+    <item>Maorisht</item>
+    <!-- mk - Macedonian -->
+    <item>Maqedonisht</item>
+    <!-- ml - Malayalam -->
+    <item>Malajalame</item>
+    <!-- mn - Mongolian -->
+    <item>Mongolisht</item>
+    <!-- mr - Marathi -->
+    <item>Maratisht</item>
+    <!-- ms - Malay -->
+    <item>Malajisht</item>
+    <!-- mt - Maltese -->
+    <item>Malteze</item>
+    <!-- my - Burmese -->
+    <item>Birmanisht</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>Bokmalisht (Norvegji)</item>
+    <!-- ne - Nepali -->
+    <item>Nepalisht</item>
+    <!-- nl - Dutch -->
+    <item>Holandisht</item>
+    <!-- nl_BE - Flemish -->
+    <item>Fleminge</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Ninorske (Norvegji)</item>
+    <!-- no - Norwegian -->
+    <item>Norvegjisht</item>
+    <!-- oc - Occitan -->
+    <item>Oksitanisht</item>
+    <!-- or - Oriya -->
+    <item>Orije</item>
+    <!-- pa - Punjabi -->
+    <item>Panxhabe</item>
+    <!-- pl - Polish -->
+    <item>Polonisht</item>
+    <!-- ps - Pashto -->
+    <item>Pashto</item>
+    <!-- pt - Portuguese -->
+    <item>Portugalisht</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Portugalisht (Europë)</item>
+    <!-- qu - Quechua -->
+    <item>Keçua</item>
+    <!-- rm - Romansh -->
+    <item>Rome</item>
+    <!-- ro - Romanian -->
+    <item>Rumanisht</item>
+    <!-- ru - Russian -->
+    <item>Rusisht</item>
+    <!-- sa - Sanskrit -->
+    <item>Sanskritisht</item>
+    <!-- sd - Sindhi -->
+    <item>Sindi</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Serbo-Kroatisht</item>
+    <!-- si - Sinhala -->
+    <item>Sinhale</item>
+    <!-- sk - Slovak -->
+    <item>Sllovakisht</item>
+    <!-- sl - Slovenian -->
+    <item>Sllovenisht</item>
+    <!-- so - Somali -->
+    <item>Somalisht</item>
+    <!-- sq - Albanian -->
+    <item>Shqip</item>
+    <!-- sr - Serbian -->
+    <item>Serbisht</item>
+    <!-- st - Southern Sotho -->
+    <item>Sesotho</item>
+    <!-- su - Sundanese -->
+    <item>Sundanisht</item>
+    <!-- sv - Swedish -->
+    <item>Suedisht</item>
+    <!-- sw - Swahili -->
+    <item>Suahili</item>
+    <!-- ta - Tamil -->
+    <item>Tamile</item>
+    <!-- te - Telugu -->
+    <item>Teluge</item>
+    <!-- tg - Tajik -->
+    <item>Taxhikisht</item>
+    <!-- th - Thai -->
+    <item>Tajlandisht</item>
+    <!-- ti - Tigrinya -->
+    <item>Tigrinje</item>
+    <!-- tk - Turkmen -->
+    <item>Turkmenisht</item>
+    <!-- tlh - Klingon -->
+    <item>Klingon</item>
+    <!-- to - Tongan -->
+    <item>Tonganisht</item>
+    <!-- tr - Turkish -->
+    <item>Turqisht</item>
+    <!-- tt - Tatar -->
+    <item>Tatarisht</item>
+    <!-- tw - Twi -->
+    <item>Twi</item>
+    <!-- ug - Uyghur -->
+    <item>Ujgure</item>
+    <!-- uk - Ukrainian -->
+    <item>Ukrainisht</item>
+    <!-- und - Unknown Language -->
+    <item>E panjohur</item>
+    <!-- ur - Urdu -->
+    <item>Urdu</item>
+    <!-- uz - Uzbek -->
+    <item>Uzbeke</item>
+    <!-- vi - Vietnamese -->
+    <item>Vietnamisht</item>
+    <!-- wo - Wolof -->
+    <item>Ulufisht</item>
+    <!-- xh - Xhosa -->
+    <item>Xhose</item>
+    <!-- yi - Yiddish -->
+    <item>Jiden</item>
+    <!-- yo - Yoruba -->
+    <item>Jorubisht</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>Tamazishte Standarde Marokene</item>
+    <!-- zh - Chinese -->
+    <item>Kinezisht</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>Kinezçe e Thjeshtuar</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>Kinezçe Tradicionale</item>
+    <!-- zu - Zulu -->
+    <item>Zulu</item>
+    <!-- zxx - No linguistic content -->
+    <item>Mungesë përmbajtjeje gjuhësore</item>
+  </string-array>
+</resources>

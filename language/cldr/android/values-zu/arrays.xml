@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Zulu (zu) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>isi-Abkhazian</item>
+    <!-- ach - Acoli -->
+    <item>Isi-Acoli</item>
+    <!-- af - Afrikaans -->
+    <item>isi-Afrikaans</item>
+    <!-- ak - Akan -->
+    <item>I-Akan</item>
+    <!-- am - Amharic -->
+    <item>isi-Amharic</item>
+    <!-- ar - Arabic -->
+    <item>isi-Arabic</item>
+    <!-- as - Assamese -->
+    <item>isi-Assamese</item>
+    <!-- ay - Aymara -->
+    <item>isi-Aymara</item>
+    <!-- az - Azerbaijani -->
+    <item>isi-Azerbaijani</item>
+    <!-- be - Belarusian -->
+    <item>isi-Belarusian</item>
+    <!-- bem - Bemba -->
+    <item>Isi-Bemba</item>
+    <!-- bg - Bulgarian -->
+    <item>isi-Bulgari</item>
+    <!-- bn - Bengali -->
+    <item>isi-Bengali</item>
+    <!-- bo - Tibetan -->
+    <item>isi-Tibetan</item>
+    <!-- br - Breton -->
+    <item>Isi-Breton</item>
+    <!-- bs - Bosnian -->
+    <item>isi-Bosnian</item>
+    <!-- ca - Catalan -->
+    <item>isi-Catalan</item>
+    <!-- chr - Cherokee -->
+    <item>Isi-Cherokee</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>Isi-Sorani Kurdish</item>
+    <!-- co - Corsican -->
+    <item>isi-Corsican</item>
+    <!-- cs - Czech -->
+    <item>isi-Czech</item>
+    <!-- cy - Welsh -->
+    <item>isi-Welsh</item>
+    <!-- da - Danish -->
+    <item>isi-Danish</item>
+    <!-- de - German -->
+    <item>isi-German</item>
+    <!-- de_AT - Austrian German -->
+    <item>isi-Austrian German</item>
+    <!-- de_CH - Swiss High German -->
+    <item>isi-Swiss High German</item>
+    <!-- dv - Divehi -->
+    <item>isi-Divehi</item>
+    <!-- dz - Dzongkha -->
+    <item>isi-Dzongkha</item>
+    <!-- ee - Ewe -->
+    <item>Isi-Ewe</item>
+    <!-- efi - Efik -->
+    <item>isi-Efik</item>
+    <!-- el - Greek -->
+    <item>isi-Greek</item>
+    <!-- en - English -->
+    <item>isiNgisi</item>
+    <!-- en_AU - Australian English -->
+    <item>isi-Austrillian English</item>
+    <!-- en_CA - Canadian English -->
+    <item>i-Canadian English</item>
+    <!-- en_GB - British English -->
+    <item>i-British English</item>
+    <!-- en_US - American English -->
+    <item>i-U.S. English</item>
+    <!-- eo - Esperanto -->
+    <item>isi-Esperanto</item>
+    <!-- es - Spanish -->
+    <item>isi-Spanish</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>isi-Latin American Spanish</item>
+    <!-- es_ES - European Spanish -->
+    <item>Isipenishi saseYurophu</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>isi-Mexican Spanish</item>
+    <!-- et - Estonian -->
+    <item>isi-Estonia</item>
+    <!-- eu - Basque -->
+    <item>isi-Basque</item>
+    <!-- fa - Persian -->
+    <item>isi-Persian</item>
+    <!-- fi - Finnish -->
+    <item>isi-Finnish</item>
+    <!-- fil - Filipino -->
+    <item>isi-Filipino</item>
+    <!-- fj - Fijian -->
+    <item>isi-Fijian</item>
+    <!-- fo - Faroese -->
+    <item>isi-Faroese</item>
+    <!-- fr - French -->
+    <item>isiFulentshi</item>
+    <!-- fr_CA - Canadian French -->
+    <item>i-Canadian French</item>
+    <!-- fr_CH - Swiss French -->
+    <item>isi-Swiss French</item>
+    <!-- fy - Western Frisian -->
+    <item>isi-Western Frisian</item>
+    <!-- ga - Irish -->
+    <item>isi-Irish</item>
+    <!-- gaa - Ga -->
+    <item>Isi-Ga</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>i-Scottish Gaelic</item>
+    <!-- gl - Galician -->
+    <item>isi-Galicia</item>
+    <!-- gn - Guarani -->
+    <item>isi-Guarani</item>
+    <!-- gsw - Swiss German -->
+    <item>isi-Swiss German</item>
+    <!-- gu - Gujarati -->
+    <item>isi-Gujarati</item>
+    <!-- ha - Hausa -->
+    <item>isi-Hausa</item>
+    <!-- haw - Hawaiian -->
+    <item>isi-Hawaiian</item>
+    <!-- he - Hebrew -->
+    <item>isi-Hebrew</item>
+    <!-- hi - Hindi -->
+    <item>isi-Hindi</item>
+    <!-- hr - Croatian -->
+    <item>isi-Croatian</item>
+    <!-- ht - Haitian -->
+    <item>isi-Haitian</item>
+    <!-- hu - Hungarian -->
+    <item>isi-Hungarian</item>
+    <!-- hy - Armenian -->
+    <item>isi-Armenia</item>
+    <!-- ia - Interlingua -->
+    <item>Izilimi ezihlangene</item>
+    <!-- id - Indonesian -->
+    <item>isi-Indonesian</item>
+    <!-- ie - Interlingue -->
+    <item>Izilimu</item>
+    <!-- ig - Igbo -->
+    <item>isi-Igbo</item>
+    <!-- is - Icelandic -->
+    <item>isi-Icelandic</item>
+    <!-- it - Italian -->
+    <item>isi-Italian</item>
+    <!-- ja - Japanese -->
+    <item>isi-Japanese</item>
+    <!-- jv - Javanese -->
+    <item>isi-Javanese</item>
+    <!-- ka - Georgian -->
+    <item>isi-Georgian</item>
+    <!-- kg - Kongo -->
+    <item>Isi-Kongo</item>
+    <!-- kk - Kazakh -->
+    <item>isi-Kazakh</item>
+    <!-- km - Khmer -->
+    <item>isi-Khmer</item>
+    <!-- kn - Kannada -->
+    <item>isi-Kannada</item>
+    <!-- ko - Korean -->
+    <item>isi-Korean</item>
+    <!-- ks - Kashmiri -->
+    <item>isi-Kashmiri</item>
+    <!-- ku - Kurdish -->
+    <item>isi-Kurdish</item>
+    <!-- ky - Kyrgyz -->
+    <item>isi-Kirghiz</item>
+    <!-- la - Latin -->
+    <item>isi-Latin</item>
+    <!-- lb - Luxembourgish -->
+    <item>isi-Luxembourgish</item>
+    <!-- lg - Ganda -->
+    <item>Isi-Ganda</item>
+    <!-- ln - Lingala -->
+    <item>isi-Lingala</item>
+    <!-- lo - Lao -->
+    <item>i-Lao</item>
+    <!-- loz - Lozi -->
+    <item>Isi-Lozi</item>
+    <!-- lt - Lithuanian -->
+    <item>isi-Lithuanian</item>
+    <!-- lua - Luba-Lulua -->
+    <item>Isi-Luba-Lulua</item>
+    <!-- lv - Latvian -->
+    <item>isi-Latvia</item>
+    <!-- mfe - Morisyen -->
+    <item>Isi-Morisyen</item>
+    <!-- mg - Malagasy -->
+    <item>isi-Malagasy</item>
+    <!-- mi - Maori -->
+    <item>isi-Maori</item>
+    <!-- mk - Macedonian -->
+    <item>isi-Macedonia</item>
+    <!-- ml - Malayalam -->
+    <item>isi-Malayalam</item>
+    <!-- mn - Mongolian -->
+    <item>isi-Mongolian</item>
+    <!-- mr - Marathi -->
+    <item>isi-Marathi</item>
+    <!-- ms - Malay -->
+    <item>isi-Malay</item>
+    <!-- mt - Maltese -->
+    <item>isi-Malta</item>
+    <!-- my - Burmese -->
+    <item>isi-Burmese</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>i-Norwegian Bokmål</item>
+    <!-- nd - North Ndebele -->
+    <item>isi-North Ndebele</item>
+    <!-- ne - Nepali -->
+    <item>isi-Nepali</item>
+    <!-- nl - Dutch -->
+    <item>i-Dutch</item>
+    <!-- nl_BE - Flemish -->
+    <item>isi-Flemish</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>i-Norwegian Nynorsk</item>
+    <!-- no - Norwegian -->
+    <item>IsiNoweyi</item>
+    <!-- nso - Northern Sotho -->
+    <item>isi-Northern Sotho</item>
+    <!-- ny - Nyanja -->
+    <item>isi-Nyanja</item>
+    <!-- nyn - Nyankole -->
+    <item>Isi-Nyankole</item>
+    <!-- oc - Occitan -->
+    <item>Isi-Osithani</item>
+    <!-- om - Oromo -->
+    <item>Isi-Oromo</item>
+    <!-- or - Oriya -->
+    <item>isi-Oriya</item>
+    <!-- os - Ossetic -->
+    <item>isi-Ossetic</item>
+    <!-- pa - Punjabi -->
+    <item>isi-Punjabi</item>
+    <!-- pl - Polish -->
+    <item>isi-Polish</item>
+    <!-- ps - Pashto -->
+    <item>isi-Pashto</item>
+    <!-- pt - Portuguese -->
+    <item>isi-Portuguese</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>isi-Brazillian Portuguese</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Isiputukezi saseYurophu</item>
+    <!-- qu - Quechua -->
+    <item>isi-Quechua</item>
+    <!-- rm - Romansh -->
+    <item>isi-Romansh</item>
+    <!-- rn - Rundi -->
+    <item>isi-Rundi</item>
+    <!-- ro - Romanian -->
+    <item>isi-Romanian</item>
+    <!-- ru - Russian -->
+    <item>isi-Russian</item>
+    <!-- rw - Kinyarwanda -->
+    <item>isi-Kinyarwanda</item>
+    <!-- sa - Sanskrit -->
+    <item>isi-Sanskrit</item>
+    <!-- sd - Sindhi -->
+    <item>isi-Sindhi</item>
+    <!-- se - Northern Sami -->
+    <item>e-Northern Sami</item>
+    <!-- sg - Sango -->
+    <item>isi-Sango</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Serbo-Croatian</item>
+    <!-- si - Sinhala -->
+    <item>i-Sinhala</item>
+    <!-- sk - Slovak -->
+    <item>isi-Slovak</item>
+    <!-- sl - Slovenian -->
+    <item>isi-Slovenian</item>
+    <!-- sm - Samoan -->
+    <item>isi-Samoan</item>
+    <!-- sn - Shona -->
+    <item>isiShona</item>
+    <!-- so - Somali -->
+    <item>isi-Somali</item>
+    <!-- sq - Albanian -->
+    <item>isi-Albania</item>
+    <!-- sr - Serbian -->
+    <item>isi-Serbian</item>
+    <!-- ss - Swati -->
+    <item>isiSwati</item>
+    <!-- st - Southern Sotho -->
+    <item>isiSuthu</item>
+    <!-- su - Sundanese -->
+    <item>isi-Sundanese</item>
+    <!-- sv - Swedish -->
+    <item>isi-Swedish</item>
+    <!-- sw - Swahili -->
+    <item>isiSwahili</item>
+    <!-- ta - Tamil -->
+    <item>isi-Tamil</item>
+    <!-- te - Telugu -->
+    <item>isi-Telugu</item>
+    <!-- tet - Tetum -->
+    <item>isi-Tetum</item>
+    <!-- tg - Tajik -->
+    <item>isi-Tajik</item>
+    <!-- th - Thai -->
+    <item>isi-Thai</item>
+    <!-- ti - Tigrinya -->
+    <item>isi-Tigrinya</item>
+    <!-- tk - Turkmen -->
+    <item>isi-Turkmen</item>
+    <!-- tlh - Klingon -->
+    <item>Isi-Klingon</item>
+    <!-- tn - Tswana -->
+    <item>isi-Tswana</item>
+    <!-- to - Tongan -->
+    <item>Isi-Tongan</item>
+    <!-- tpi - Tok Pisin -->
+    <item>isi-Tok Pisin</item>
+    <!-- tr - Turkish -->
+    <item>isi-Turkish</item>
+    <!-- ts - Tsonga -->
+    <item>isi-Tsonga</item>
+    <!-- tt - Tatar -->
+    <item>isi-Tatar</item>
+    <!-- tum - Tumbuka -->
+    <item>Isi-Tumbuka</item>
+    <!-- tw - Twi -->
+    <item>Twi</item>
+    <!-- ty - Tahitian -->
+    <item>isi-Tahitian</item>
+    <!-- ug - Uyghur -->
+    <item>isi-Uighur</item>
+    <!-- uk - Ukrainian -->
+    <item>isi-Ukrainian</item>
+    <!-- und - Unknown Language -->
+    <item>Ulimi olungaziwa</item>
+    <!-- ur - Urdu -->
+    <item>isi-Urdu</item>
+    <!-- uz - Uzbek -->
+    <item>isi-Uzbek</item>
+    <!-- ve - Venda -->
+    <item>isi-Venda</item>
+    <!-- vi - Vietnamese -->
+    <item>isi-Vietnamese</item>
+    <!-- wo - Wolof -->
+    <item>isi-Wolof</item>
+    <!-- xh - Xhosa -->
+    <item>isiXhosa</item>
+    <!-- yi - Yiddish -->
+    <item>Isi-Yidish</item>
+    <!-- yo - Yoruba -->
+    <item>isi-Yoruba</item>
+    <!-- zh - Chinese -->
+    <item>isi-Chinese</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>isi-Sipmlified Chinese</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>isi-Traditional Chinese</item>
+    <!-- zu - Zulu -->
+    <item>isiZulu</item>
+    <!-- zxx - No linguistic content -->
+    <item>Akukho okuqukethwe kolimi</item>
+  </string-array>
+</resources>

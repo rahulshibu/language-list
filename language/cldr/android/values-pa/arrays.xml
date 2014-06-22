@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Punjabi (pa) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>ਅਬਖਾਜ਼ੀਅਨ</item>
+    <!-- ace - Achinese -->
+    <item>ਅਚੀਨੀ</item>
+    <!-- ach - Acoli -->
+    <item>ਅਕੋਲੀ</item>
+    <!-- af - Afrikaans -->
+    <item>ਅਫ਼ਰੀਕੀ</item>
+    <!-- am - Amharic -->
+    <item>ਅਮਹਾਰਿਕ</item>
+    <!-- ar - Arabic -->
+    <item>ਅਰਬੀ</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>ਆਧੁਨਿਕ ਸਟੈਂਡਰਡ ਅਰਬੀ</item>
+    <!-- as - Assamese -->
+    <item>ਅਸਾਮੀ</item>
+    <!-- az - Azerbaijani -->
+    <item>ਅਜ਼ਰਬੈਜਾਨੀ</item>
+    <!-- be - Belarusian -->
+    <item>ਬੇਲਾਰੂਸੀ</item>
+    <!-- bg - Bulgarian -->
+    <item>ਬੁਲਗਾਰੀਅਨ</item>
+    <!-- bn - Bengali -->
+    <item>ਬੰਗਾਲੀ</item>
+    <!-- bo - Tibetan -->
+    <item>ਤਿੱਬਤੀ</item>
+    <!-- bs - Bosnian -->
+    <item>ਬੋਸਨੀਅਨ</item>
+    <!-- ca - Catalan -->
+    <item>ਕੈਟਾਲਾਨ</item>
+    <!-- cs - Czech -->
+    <item>ਚੈਕ</item>
+    <!-- cy - Welsh -->
+    <item>ਵੈਲਸ਼</item>
+    <!-- da - Danish -->
+    <item>ਡੈਨਿਸ਼</item>
+    <!-- de - German -->
+    <item>ਜਰਮਨ</item>
+    <!-- de_AT - Austrian German -->
+    <item>ਔਸਟ੍ਰੀਅਨ ਜਰਮਨ</item>
+    <!-- de_CH - Swiss High German -->
+    <item>ਸਵਿਸ</item>
+    <!-- el - Greek -->
+    <item>ਗ੍ਰੀਕ</item>
+    <!-- en - English -->
+    <item>ਅੰਗਰੇਜ਼ੀ</item>
+    <!-- en_AU - Australian English -->
+    <item>ਆਸਟ੍ਰੇਲੀਆਈ ਅੰਗਰੇਜ਼ੀ</item>
+    <!-- en_CA - Canadian English -->
+    <item>ਕਨੈਡੀਅਨ ਅੰਗਰੇਜ਼ੀ</item>
+    <!-- en_GB - British English -->
+    <item>ਬ੍ਰਿਟਿਸ਼ ਅੰਗਰੇਜ਼ੀ</item>
+    <!-- en_US - American English -->
+    <item>ਅਮਰੀਕੀ ਅੰਗਰੇਜ਼ੀ</item>
+    <!-- eo - Esperanto -->
+    <item>ਇਸਪੇਰਾਂਟੋ</item>
+    <!-- es - Spanish -->
+    <item>ਸਪੈਨਿਸ਼</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>ਲੈਟਿਨ ਅਮਰੀਕੀ ਸਪੈਨਿਸ਼</item>
+    <!-- es_ES - European Spanish -->
+    <item>ਯੂਰੋਪੀਅਨ ਸਪੈਨਿਸ਼</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>ਮੈਕਸੀਕਨ ਸਪੈਨਿਸ਼</item>
+    <!-- et - Estonian -->
+    <item>ਇਸਟੋਨੀਅਨ</item>
+    <!-- eu - Basque -->
+    <item>ਬਾਸਕੀ</item>
+    <!-- fa - Persian -->
+    <item>ਫ਼ਾਰਸੀ</item>
+    <!-- fi - Finnish -->
+    <item>ਫਿਨਿਸ਼</item>
+    <!-- fil - Filipino -->
+    <item>ਫਿਲੀਪਿਨੋ</item>
+    <!-- fj - Fijian -->
+    <item>ਫਿਜੀਅਨ</item>
+    <!-- fo - Faroese -->
+    <item>ਫ਼ੇਰੋਸੇ</item>
+    <!-- fr - French -->
+    <item>ਫ੍ਰੈਂਚ</item>
+    <!-- fr_CA - Canadian French -->
+    <item>ਕਨੈਡੀਅਨ ਫ੍ਰੈਂਚ</item>
+    <!-- fr_CH - Swiss French -->
+    <item>ਸਵਿਸ ਫ੍ਰੈਂਚ</item>
+    <!-- fy - Western Frisian -->
+    <item>ਪਛਮੀ ਫ੍ਰਿਸ਼ੀਅਨ</item>
+    <!-- ga - Irish -->
+    <item>ਆਇਰਿਸ਼</item>
+    <!-- gl - Galician -->
+    <item>ਗੈਲਿਸ਼ਿਅਨ</item>
+    <!-- gn - Guarani -->
+    <item>ਗੁਆਰਾਨੀ</item>
+    <!-- gsw - Swiss German -->
+    <item>ਸਵਿਸ ਜਰਮਨ</item>
+    <!-- gu - Gujarati -->
+    <item>ਗੁਜਰਾਤੀ</item>
+    <!-- ha - Hausa -->
+    <item>ਹੌਸਾ</item>
+    <!-- haw - Hawaiian -->
+    <item>ਹਵਾਈਅਨ</item>
+    <!-- he - Hebrew -->
+    <item>ਯਹੂਦੀ</item>
+    <!-- hi - Hindi -->
+    <item>ਹਿੰਦੀ</item>
+    <!-- hr - Croatian -->
+    <item>ਕ੍ਰੋਏਸ਼ਿਆਈ</item>
+    <!-- ht - Haitian -->
+    <item>ਹਾਈਟਿਅਨ</item>
+    <!-- hu - Hungarian -->
+    <item>ਹੰਗੇਰੀਅਨ</item>
+    <!-- hy - Armenian -->
+    <item>ਆਰਮੀਨੀਅਨ</item>
+    <!-- id - Indonesian -->
+    <item>ਇੰਡੋਨੇਸ਼ੀਆਈ</item>
+    <!-- ig - Igbo -->
+    <item>ਇਗਬੋ</item>
+    <!-- is - Icelandic -->
+    <item>ਆਈਸਲੈਂਡਿਕ</item>
+    <!-- it - Italian -->
+    <item>ਇਤਾਲਵੀ</item>
+    <!-- ja - Japanese -->
+    <item>ਜਾਪਾਨੀ</item>
+    <!-- jv - Javanese -->
+    <item>ਜਾਵਾਨੀਜ਼</item>
+    <!-- ka - Georgian -->
+    <item>ਜਾਰਜੀਅਨ</item>
+    <!-- kk - Kazakh -->
+    <item>ਕਜ਼ਾਖ਼</item>
+    <!-- km - Khmer -->
+    <item>ਖਮੇਰ</item>
+    <!-- kn - Kannada -->
+    <item>ਕੰਨੜ</item>
+    <!-- ko - Korean -->
+    <item>ਕੋਰੀਆਈ</item>
+    <!-- ks - Kashmiri -->
+    <item>ਕਸ਼ਮੀਰੀ</item>
+    <!-- ku - Kurdish -->
+    <item>ਕੁਰਦਿਸ਼</item>
+    <!-- ky - Kyrgyz -->
+    <item>ਕਿਰਗੀਜ਼</item>
+    <!-- la - Latin -->
+    <item>ਲੈਟਿਨ</item>
+    <!-- lb - Luxembourgish -->
+    <item>ਲਕਜ਼ਮਬਰਗਿਸ਼</item>
+    <!-- lo - Lao -->
+    <item>ਲਾਓ</item>
+    <!-- lt - Lithuanian -->
+    <item>ਲਿਥੁਆਨੀਅਨ</item>
+    <!-- lv - Latvian -->
+    <item>ਲਾਟਵਿਅਨ</item>
+    <!-- mg - Malagasy -->
+    <item>ਮਾਲਾਗੈਸੀ</item>
+    <!-- mi - Maori -->
+    <item>ਮਾਉਰੀ</item>
+    <!-- mk - Macedonian -->
+    <item>ਮੈਕਡੋਨੀਅਨ</item>
+    <!-- ml - Malayalam -->
+    <item>ਮਲਿਆਲਮ</item>
+    <!-- mr - Marathi -->
+    <item>ਮਰਾਠੀ</item>
+    <!-- ms - Malay -->
+    <item>ਮਲਯ</item>
+    <!-- mt - Maltese -->
+    <item>ਮਾਲਟੀਜ਼</item>
+    <!-- my - Burmese -->
+    <item>ਬਰਮੀ</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>ਨੌਰਵੇਜਿਅਨ ਬੋਕਮਲ</item>
+    <!-- ne - Nepali -->
+    <item>ਨੇਪਾਲੀ</item>
+    <!-- nl - Dutch -->
+    <item>ਡੱਚ</item>
+    <!-- nl_BE - Flemish -->
+    <item>ਫਲੈਮਿਸ਼</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ਨੌਰਵੇਜਿਅਨ ਨਿਨੋਰਸ੍ਕ</item>
+    <!-- no - Norwegian -->
+    <item>ਨਾਰਵੇਜੀਅਨ</item>
+    <!-- or - Oriya -->
+    <item>ਉੜੀਆ</item>
+    <!-- pa - Punjabi -->
+    <item>ਪੰਜਾਬੀ</item>
+    <!-- pl - Polish -->
+    <item>ਪੋਲਿਸ਼</item>
+    <!-- ps - Pashto -->
+    <item>ਪਸ਼ਤੋ</item>
+    <!-- pt - Portuguese -->
+    <item>ਪੁਰਤਗਾਲੀ</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>ਬ੍ਰਾਜ਼ਿਲੀਅਨ ਪੁਰਤਗਾਲੀ</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ਯੂਰੋਪੀਅਨ ਪੁਰਤਗਾਲੀ</item>
+    <!-- qu - Quechua -->
+    <item>ਕਿਊਚੁਆ</item>
+    <!-- rm - Romansh -->
+    <item>ਰੋਮਾਂਸ਼</item>
+    <!-- ro - Romanian -->
+    <item>ਰੋਮਾਨੀਆਈ</item>
+    <!-- ru - Russian -->
+    <item>ਰੂਸੀ</item>
+    <!-- sa - Sanskrit -->
+    <item>ਸੰਸਕ੍ਰਿਤ</item>
+    <!-- sd - Sindhi -->
+    <item>ਸਿੰਧੀ</item>
+    <!-- si - Sinhala -->
+    <item>ਸਿੰਹਾਲਾ</item>
+    <!-- sk - Slovak -->
+    <item>ਸਲੋਵਾਕ</item>
+    <!-- sl - Slovenian -->
+    <item>ਸਲੋਵੇਨੀਅਨ</item>
+    <!-- so - Somali -->
+    <item>ਸੋਮਾਲੀ</item>
+    <!-- sq - Albanian -->
+    <item>ਅਲਬਾਨੀਅਨ</item>
+    <!-- sr - Serbian -->
+    <item>ਸਰਬਿਆਈ</item>
+    <!-- su - Sundanese -->
+    <item>ਸੂਡਾਨੀ</item>
+    <!-- sv - Swedish -->
+    <item>ਸਵੀਡਿਸ਼</item>
+    <!-- sw - Swahili -->
+    <item>ਸਵਾਹਿਲੀ</item>
+    <!-- ta - Tamil -->
+    <item>ਤਮਿਲ</item>
+    <!-- te - Telugu -->
+    <item>ਤੇਲਗੂ</item>
+    <!-- tg - Tajik -->
+    <item>ਤਾਜਿਕ</item>
+    <!-- th - Thai -->
+    <item>ਥਾਈ</item>
+    <!-- ti - Tigrinya -->
+    <item>ਟਿਗਰੀਨਿਆ</item>
+    <!-- tk - Turkmen -->
+    <item>ਤੁਰਕਮੇਨ</item>
+    <!-- to - Tongan -->
+    <item>ਟੌਂਗਨ</item>
+    <!-- tr - Turkish -->
+    <item>ਤੁਰਕਿਸ਼</item>
+    <!-- tt - Tatar -->
+    <item>ਤਤਾਰ</item>
+    <!-- tw - Twi -->
+    <item>ਤ੍ਵਿ</item>
+    <!-- ug - Uyghur -->
+    <item>ਉਇਗੁਰ</item>
+    <!-- uk - Ukrainian -->
+    <item>ਯੂਕਰੇਨੀਅਨ</item>
+    <!-- und - Unknown Language -->
+    <item>ਅਗਿਆਤ ਭਾਸ਼ਾ</item>
+    <!-- ur - Urdu -->
+    <item>ਉਰਦੂ</item>
+    <!-- uz - Uzbek -->
+    <item>ਉਜ਼ਬੇਕ</item>
+    <!-- vi - Vietnamese -->
+    <item>ਵਿਯਤਨਾਮੀ</item>
+    <!-- wo - Wolof -->
+    <item>ਵੋਲੋਫ</item>
+    <!-- xh - Xhosa -->
+    <item>ਖੋਸਾ</item>
+    <!-- yo - Yoruba -->
+    <item>ਯੋਰੂਬਾ</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ਸਟੈਂਡਰਡ ਮੋਰੋਕੈਨ ਟੈਮਾਜ਼ਾਈਟ</item>
+    <!-- zh - Chinese -->
+    <item>ਚੀਨੀ</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>ਸਰਲ ਕੀਤੀ ਚੀਨੀ</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>ਰਵਾਇਤੀ ਚੀਨੀ</item>
+    <!-- zu - Zulu -->
+    <item>ਜ਼ੁਲੂ</item>
+    <!-- zxx - No linguistic content -->
+    <item>ਕੋਈ ਭਾਸ਼ਾ-ਵਿਗਿਆਨਿਕ ਸਮੱਗਰੀ ਨਹੀਂ</item>
+  </string-array>
+</resources>

@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Tongan (to) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>lea fakaʻafāla</item>
+    <!-- ab - Abkhazian -->
+    <item>lea fakaʻapakasia</item>
+    <!-- ace - Achinese -->
+    <item>lea fakaʻatisē</item>
+    <!-- ach - Acoli -->
+    <item>lea fakaʻakoli</item>
+    <!-- ada - Adangme -->
+    <item>lea fakaʻatangimē</item>
+    <!-- ady - Adyghe -->
+    <item>lea fakaʻatikē</item>
+    <!-- ae - Avestan -->
+    <item>lea fakaʻavesitani</item>
+    <!-- af - Afrikaans -->
+    <item>lea fakaʻafilikana</item>
+    <!-- agq - Aghem -->
+    <item>lea fakaʻakihemi</item>
+    <!-- ain - Ainu -->
+    <item>lea fakaʻainu</item>
+    <!-- ak - Akan -->
+    <item>lea fakaʻakani</item>
+    <!-- akk - Akkadian -->
+    <item>lea fakaʻakatia</item>
+    <!-- ale - Aleut -->
+    <item>lea fakaʻaleuti</item>
+    <!-- alt - Southern Altai -->
+    <item>lea fakaʻalitai-tonga</item>
+    <!-- am - Amharic -->
+    <item>lea fakaʻameliki</item>
+    <!-- an - Aragonese -->
+    <item>lea fakaʻalakoni</item>
+    <!-- anp - Angika -->
+    <item>lea fakaʻangika</item>
+    <!-- ar - Arabic -->
+    <item>lea fakaʻalepea</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>lea fakaʻalepea (māmani)</item>
+    <!-- arc - Aramaic -->
+    <item>lea fakaʻalāmiti</item>
+    <!-- arn - Mapuche -->
+    <item>lea fakamapuse</item>
+    <!-- arp - Arapaho -->
+    <item>lea fakaʻalapaho</item>
+    <!-- arw - Arawak -->
+    <item>lea fakaʻalauaki</item>
+    <!-- as - Assamese -->
+    <item>lea fakaʻasamia</item>
+    <!-- asa - Asu -->
+    <item>lea fakaʻasu</item>
+    <!-- ast - Asturian -->
+    <item>lea fakaʻasitūlia</item>
+    <!-- av - Avaric -->
+    <item>lea fakaʻavaliki</item>
+    <!-- awa - Awadhi -->
+    <item>lea fakaʻauati</item>
+    <!-- ay - Aymara -->
+    <item>lea ʻaimala</item>
+    <!-- az - Azerbaijani -->
+    <item>lea fakaʻasapaisani</item>
+    <!-- ba - Bashkir -->
+    <item>lea fakapasikili</item>
+    <!-- bal - Baluchi -->
+    <item>lea fakapalusi</item>
+    <!-- ban - Balinese -->
+    <item>lea fakapali</item>
+    <!-- bas - Basaa -->
+    <item>lea fakapasaʻa</item>
+    <!-- bax - Bamun -->
+    <item>lea fakapamuni</item>
+    <!-- bbj - Ghomala -->
+    <item>lea fakakomala</item>
+    <!-- be - Belarusian -->
+    <item>lea fakapelalusi</item>
+    <!-- bej - Beja -->
+    <item>lea fakapesa</item>
+    <!-- bem - Bemba -->
+    <item>lea fakapēmipa</item>
+    <!-- bez - Bena -->
+    <item>lea fakapena</item>
+    <!-- bfd - Bafut -->
+    <item>lea fakapafuti</item>
+    <!-- bg - Bulgarian -->
+    <item>lea fakapulukalia</item>
+    <!-- bho - Bhojpuri -->
+    <item>lea fakaposipuli</item>
+    <!-- bi - Bislama -->
+    <item>lea fakapisilama</item>
+    <!-- bik - Bikol -->
+    <item>lea fakapikoli</item>
+    <!-- bin - Bini -->
+    <item>lea fakapini</item>
+    <!-- bkm - Kom -->
+    <item>lea fakakome</item>
+    <!-- bla - Siksika -->
+    <item>lea fakasikesikā</item>
+    <!-- bm - Bambara -->
+    <item>lea fakapamipala</item>
+    <!-- bn - Bengali -->
+    <item>lea fakapengikali</item>
+    <!-- bo - Tibetan -->
+    <item>lea fakatipeti</item>
+    <!-- br - Breton -->
+    <item>lea fakapeletoni</item>
+    <!-- bra - Braj -->
+    <item>lea fakapalai</item>
+    <!-- brx - Bodo -->
+    <item>lea fakapōto</item>
+    <!-- bs - Bosnian -->
+    <item>lea fakaposinia</item>
+    <!-- bss - Akoose -->
+    <item>lea fakaʻakōse</item>
+    <!-- bua - Buriat -->
+    <item>lea puliati</item>
+    <!-- bug - Buginese -->
+    <item>lea fakapukisi</item>
+    <!-- bum - Bulu -->
+    <item>lea fakapulu</item>
+    <!-- byn - Blin -->
+    <item>lea fakapilini</item>
+    <!-- byv - Medumba -->
+    <item>lea fakametūmipa</item>
+    <!-- ca - Catalan -->
+    <item>lea fakakatalani</item>
+    <!-- cad - Caddo -->
+    <item>lea fakakato</item>
+    <!-- car - Carib -->
+    <item>lea fakakalipa</item>
+    <!-- cay - Cayuga -->
+    <item>lea fakakaiuka</item>
+    <!-- cch - Atsam -->
+    <item>lea fakaʻatisami</item>
+    <!-- ce - Chechen -->
+    <item>lea fakasese</item>
+    <!-- ceb - Cebuano -->
+    <item>lea fakasepuano</item>
+    <!-- cgg - Chiga -->
+    <item>lea fakakika</item>
+    <!-- ch - Chamorro -->
+    <item>lea fakakamolo</item>
+    <!-- chk - Chuukese -->
+    <item>lea fakatūke</item>
+    <!-- chm - Mari -->
+    <item>lea fakamalī</item>
+    <!-- chn - Chinook Jargon -->
+    <item>lea fakasinuki-takote</item>
+    <!-- cho - Choctaw -->
+    <item>lea fakasokitau</item>
+    <!-- chp - Chipewyan -->
+    <item>lea fakasipeuiani</item>
+    <!-- chr - Cherokee -->
+    <item>lea fakaselokī</item>
+    <!-- chy - Cheyenne -->
+    <item>lea fakaseiene</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>lea fakakūtisi-solani</item>
+    <!-- co - Corsican -->
+    <item>lea fakakōsika</item>
+    <!-- cop - Coptic -->
+    <item>lea fakakopitika</item>
+    <!-- cr - Cree -->
+    <item>lea fakakelī</item>
+    <!-- crh - Crimean Turkish -->
+    <item>lea fakatoake-kilimea</item>
+    <!-- cs - Czech -->
+    <item>lea fakaseki</item>
+    <!-- csb - Kashubian -->
+    <item>lea fakakasiupia</item>
+    <!-- cu - Church Slavic -->
+    <item>lea fakasilavia fakasiasi</item>
+    <!-- cv - Chuvash -->
+    <item>lea fakasuvasa</item>
+    <!-- cy - Welsh -->
+    <item>lea fakauēlesi</item>
+    <!-- da - Danish -->
+    <item>lea fakatenimaʻake</item>
+    <!-- dak - Dakota -->
+    <item>lea fakatakota</item>
+    <!-- dar - Dargwa -->
+    <item>lea fakatalakuā</item>
+    <!-- dav - Taita -->
+    <item>lea fakataita</item>
+    <!-- de - German -->
+    <item>lea fakasiamane</item>
+    <!-- de_AT - Austrian German -->
+    <item>lea fakasiamane-ʻaositulia</item>
+    <!-- de_CH - Swiss High German -->
+    <item>lea fakasiamane-suisisālani ma'olunga</item>
+    <!-- del - Delaware -->
+    <item>lea fakatelauale</item>
+    <!-- den - Slave -->
+    <item>lea fakasilave</item>
+    <!-- dgr - Dogrib -->
+    <item>lea fakatōkelipi</item>
+    <!-- din - Dinka -->
+    <item>lea fakatingikā</item>
+    <!-- dje - Zarma -->
+    <item>lea fakatisāma</item>
+    <!-- doi - Dogri -->
+    <item>lea fakatokili</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>lea fakasōpia-hifo</item>
+    <!-- dua - Duala -->
+    <item>lea fakatuala</item>
+    <!-- dv - Divehi -->
+    <item>lea tivehi</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>lea fakaiola-fonī</item>
+    <!-- dyu - Dyula -->
+    <item>lea fakatiula</item>
+    <!-- dz - Dzongkha -->
+    <item>lea fakaputeni</item>
+    <!-- ebu - Embu -->
+    <item>lea fakaʻemipū</item>
+    <!-- ee - Ewe -->
+    <item>lea fakaʻeue</item>
+    <!-- efi - Efik -->
+    <item>lea ʻefiki</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>lea fakaʻisipitemuʻa</item>
+    <!-- eka - Ekajuk -->
+    <item>lea fakaʻekaiuki</item>
+    <!-- el - Greek -->
+    <item>lea fakakalisi</item>
+    <!-- en - English -->
+    <item>lea fakapālangi</item>
+    <!-- en_AU - Australian English -->
+    <item>lea fakapālangi-ʻaositelēlia</item>
+    <!-- en_CA - Canadian English -->
+    <item>lea fakapālangi-kānata</item>
+    <!-- en_GB - British English -->
+    <item>lea fakapilitānia</item>
+    <!-- en_US - American English -->
+    <item>lea fakapālangi-ʻamelika</item>
+    <!-- eo - Esperanto -->
+    <item>lea fakaʻesipulanito</item>
+    <!-- es - Spanish -->
+    <item>lea fakasīpenisi</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>lea fakasipēnisi lātini-ʻamelika</item>
+    <!-- es_ES - European Spanish -->
+    <item>lea fakasipēnisi-'iulope</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>lea fakasipēnisi-mekisikou</item>
+    <!-- et - Estonian -->
+    <item>lea fakaʻesitōnia</item>
+    <!-- eu - Basque -->
+    <item>lea fakapāsiki</item>
+    <!-- ewo - Ewondo -->
+    <item>lea fakaʻeuōnito</item>
+    <!-- fa - Persian -->
+    <item>lea fakapēsia</item>
+    <!-- fan - Fang -->
+    <item>lea fakafangi</item>
+    <!-- ff - Fulah -->
+    <item>lea fakafulā</item>
+    <!-- fi - Finnish -->
+    <item>lea fakafinilani</item>
+    <!-- fil - Filipino -->
+    <item>lea fakafilipaini</item>
+    <!-- fj - Fijian -->
+    <item>lea fakafisi</item>
+    <!-- fo - Faroese -->
+    <item>lea fakafaloe</item>
+    <!-- fon - Fon -->
+    <item>lea fakafōngi</item>
+    <!-- fr - French -->
+    <item>lea fakafalanisē</item>
+    <!-- fr_CA - Canadian French -->
+    <item>lea fakafalanisē-kānata</item>
+    <!-- fr_CH - Swiss French -->
+    <item>lea fakafalanisē-suisisālani</item>
+    <!-- frr - Northern Frisian -->
+    <item>lea fakafilisia tokelau</item>
+    <!-- frs - Eastern Frisian -->
+    <item>lea fakafilisia hahake</item>
+    <!-- fur - Friulian -->
+    <item>lea fakafulilāni</item>
+    <!-- fy - Western Frisian -->
+    <item>lea fakafilisia hihifo</item>
+    <!-- ga - Irish -->
+    <item>lea fakaʻaelani</item>
+    <!-- gaa - Ga -->
+    <item>lea fakakā</item>
+    <!-- gay - Gayo -->
+    <item>lea fakakaio</item>
+    <!-- gba - Gbaya -->
+    <item>lea fakakapaia</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>lea fakakaeliki</item>
+    <!-- gez - Geez -->
+    <item>lea fakasiʻisi</item>
+    <!-- gil - Gilbertese -->
+    <item>lea fakakilipasi</item>
+    <!-- gl - Galician -->
+    <item>lea fakakalisia</item>
+    <!-- gn - Guarani -->
+    <item>lea fakakualani</item>
+    <!-- gon - Gondi -->
+    <item>lea fakakonitī</item>
+    <!-- gor - Gorontalo -->
+    <item>lea fakakolonitalo</item>
+    <!-- got - Gothic -->
+    <item>lea fakakotika</item>
+    <!-- grb - Grebo -->
+    <item>lea fakakēpo</item>
+    <!-- grc - Ancient Greek -->
+    <item>lea fakakalisimuʻa</item>
+    <!-- gsw - Swiss German -->
+    <item>lea fakasiamane-suisisālani</item>
+    <!-- gu - Gujarati -->
+    <item>lea fakakutalati</item>
+    <!-- guz - Gusii -->
+    <item>lea fakakusī</item>
+    <!-- gv - Manx -->
+    <item>lea fakamangikī</item>
+    <!-- gwi - Gwichʼin -->
+    <item>lea fakaʻuīsini</item>
+    <!-- ha - Hausa -->
+    <item>lea fakahausa</item>
+    <!-- hai - Haida -->
+    <item>lea fakahaita</item>
+    <!-- haw - Hawaiian -->
+    <item>lea fakahauaiʻi</item>
+    <!-- he - Hebrew -->
+    <item>lea fakahepelū</item>
+    <!-- hi - Hindi -->
+    <item>lea fakahinitī</item>
+    <!-- hil - Hiligaynon -->
+    <item>lea fakahilikainoni</item>
+    <!-- hit - Hittite -->
+    <item>lea fakahitite</item>
+    <!-- hmn - Hmong -->
+    <item>lea fakamōngi</item>
+    <!-- ho - Hiri Motu -->
+    <item>lea fakahili-motu</item>
+    <!-- hr - Croatian -->
+    <item>lea fakakuloisia</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>lea fakasōpia-hake</item>
+    <!-- ht - Haitian -->
+    <item>lea fakahaiti</item>
+    <!-- hu - Hungarian -->
+    <item>lea fakahungakalia</item>
+    <!-- hup - Hupa -->
+    <item>lea fakahupa</item>
+    <!-- hy - Armenian -->
+    <item>lea fakaʻāmenia</item>
+    <!-- hz - Herero -->
+    <item>lea fakahelelo</item>
+    <!-- ia - Interlingua -->
+    <item>lea fakavahaʻalea</item>
+    <!-- iba - Iban -->
+    <item>lea fakaʻipani</item>
+    <!-- ibb - Ibibio -->
+    <item>lea fakaʻipipio</item>
+    <!-- id - Indonesian -->
+    <item>lea fakaʻinitōnesia</item>
+    <!-- ig - Igbo -->
+    <item>lea fakaʻikipō</item>
+    <!-- ii - Sichuan Yi -->
+    <item>lea fakasisiuani-ī</item>
+    <!-- ik - Inupiaq -->
+    <item>lea fakaʻinupiaki</item>
+    <!-- ilo - Iloko -->
+    <item>lea fakaʻiloko</item>
+    <!-- inh - Ingush -->
+    <item>lea fakaʻingusi</item>
+    <!-- is - Icelandic -->
+    <item>lea fakaʻaisilani</item>
+    <!-- it - Italian -->
+    <item>lea fakaʻītali</item>
+    <!-- iu - Inuktitut -->
+    <item>lea fakaʻinuketituti</item>
+    <!-- ja - Japanese -->
+    <item>lea fakasiapani</item>
+    <!-- jgo - Ngomba -->
+    <item>lea fakanikōmipa</item>
+    <!-- jmc - Machame -->
+    <item>lea fakamasame</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>lea fakaʻiuteo-pēsia</item>
+    <!-- jrb - Judeo-Arabic -->
+    <item>lea fakaʻiuteo-ʻalepea</item>
+    <!-- jv - Javanese -->
+    <item>lea fakasava</item>
+    <!-- ka - Georgian -->
+    <item>lea fakaseōsia</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>lea fakakala-kalipaki</item>
+    <!-- kab - Kabyle -->
+    <item>lea fakakapile</item>
+    <!-- kac - Kachin -->
+    <item>lea fakakasini</item>
+    <!-- kaj - Jju -->
+    <item>lea fakasisū</item>
+    <!-- kam - Kamba -->
+    <item>lea fakakamipa</item>
+    <!-- kbd - Kabardian -->
+    <item>lea fakakapālitia</item>
+    <!-- kcg - Tyap -->
+    <item>lea fakatiapi</item>
+    <!-- kde - Makonde -->
+    <item>lea fakamakōnite</item>
+    <!-- kea - Kabuverdianu -->
+    <item>lea fakakapuvelitianu</item>
+    <!-- kfo - Koro -->
+    <item>lea fakakolo</item>
+    <!-- kg - Kongo -->
+    <item>lea fakakongikō</item>
+    <!-- kha - Khasi -->
+    <item>lea fakakāsi</item>
+    <!-- khq - Koyra Chiini -->
+    <item>lea fakakoila-sīni</item>
+    <!-- ki - Kikuyu -->
+    <item>lea fakakikuiu</item>
+    <!-- kj - Kuanyama -->
+    <item>lea fakakuaniama</item>
+    <!-- kk - Kazakh -->
+    <item>lea fakakasaki</item>
+    <!-- kkj - Kako -->
+    <item>lea fakakako</item>
+    <!-- kl - Kalaallisut -->
+    <item>lea fakakalaʻalisuti</item>
+    <!-- kln - Kalenjin -->
+    <item>lea fakakalenisini</item>
+    <!-- km - Khmer -->
+    <item>lea fakakemipōtia</item>
+    <!-- kmb - Kimbundu -->
+    <item>lea fakakimipūnitu</item>
+    <!-- kn - Kannada -->
+    <item>lea fakakanata</item>
+    <!-- ko - Korean -->
+    <item>lea fakakōlea</item>
+    <!-- kok - Konkani -->
+    <item>lea fakakonikanī</item>
+    <!-- kos - Kosraean -->
+    <item>lea fakakosilae</item>
+    <!-- kpe - Kpelle -->
+    <item>lea fakakepele</item>
+    <!-- kr - Kanuri -->
+    <item>lea fakakanuli</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>lea fakakalate-palakili</item>
+    <!-- krl - Karelian -->
+    <item>lea fakakalelia</item>
+    <!-- kru - Kurukh -->
+    <item>lea fakakuluki</item>
+    <!-- ks - Kashmiri -->
+    <item>lea fakakesimia</item>
+    <!-- ksb - Shambala -->
+    <item>lea fakasiamipala</item>
+    <!-- ksf - Bafia -->
+    <item>lea fakapafia</item>
+    <!-- ksh - Colognian -->
+    <item>lea fakakolongia</item>
+    <!-- ku - Kurdish -->
+    <item>lea fakakētisi</item>
+    <!-- kum - Kumyk -->
+    <item>lea fakakumiki</item>
+    <!-- kut - Kutenai -->
+    <item>lea fakakutenai</item>
+    <!-- kv - Komi -->
+    <item>lea fakakomi</item>
+    <!-- kw - Cornish -->
+    <item>lea fakakoniuali</item>
+    <!-- ky - Kyrgyz -->
+    <item>lea fakakiataisi</item>
+    <!-- la - Latin -->
+    <item>lea fakalatina</item>
+    <!-- lad - Ladino -->
+    <item>lea fakalatino</item>
+    <!-- lag - Langi -->
+    <item>lea fakalangi</item>
+    <!-- lah - Lahnda -->
+    <item>lea lanita</item>
+    <!-- lam - Lamba -->
+    <item>lea fakalamipā</item>
+    <!-- lb - Luxembourgish -->
+    <item>lea fakalakisimipeki</item>
+    <!-- lez - Lezghian -->
+    <item>lea fakalesikia</item>
+    <!-- lg - Ganda -->
+    <item>lea fakakanita</item>
+    <!-- li - Limburgish -->
+    <item>lea fakalimipūliki</item>
+    <!-- ln - Lingala -->
+    <item>lea lingikala</item>
+    <!-- lo - Lao -->
+    <item>lea fakalau</item>
+    <!-- lol - Mongo -->
+    <item>lea fakamongikō</item>
+    <!-- loz - Lozi -->
+    <item>lea fakalosi</item>
+    <!-- lt - Lithuanian -->
+    <item>lea fakalituania</item>
+    <!-- lu - Luba-Katanga -->
+    <item>lea fakalupa-katanga</item>
+    <!-- lua - Luba-Lulua -->
+    <item>lea fakalupa-lulua</item>
+    <!-- lui - Luiseno -->
+    <item>lea fakaluiseno</item>
+    <!-- lun - Lunda -->
+    <item>lea fakalunitā</item>
+    <!-- luo - Luo -->
+    <item>lea fakaluo</item>
+    <!-- lus - Mizo -->
+    <item>lea fakamiso</item>
+    <!-- luy - Luyia -->
+    <item>lea fakaluīa</item>
+    <!-- lv - Latvian -->
+    <item>lea fakalativia</item>
+    <!-- mad - Madurese -->
+    <item>lea fakamatula</item>
+    <!-- maf - Mafa -->
+    <item>lea fakamafa</item>
+    <!-- mag - Magahi -->
+    <item>lea fakamakahi</item>
+    <!-- mai - Maithili -->
+    <item>lea fakamaitili</item>
+    <!-- mak - Makasar -->
+    <item>lea fakamakasali</item>
+    <!-- man - Mandingo -->
+    <item>lea fakamanitīngiko</item>
+    <!-- mas - Masai -->
+    <item>lea fakamasai</item>
+    <!-- mdf - Moksha -->
+    <item>lea fakamokisiā</item>
+    <!-- mdr - Mandar -->
+    <item>lea fakamanetali</item>
+    <!-- men - Mende -->
+    <item>lea fakamenetī</item>
+    <!-- mer - Meru -->
+    <item>lea fakamelu</item>
+    <!-- mfe - Morisyen -->
+    <item>lea fakamolisieni</item>
+    <!-- mg - Malagasy -->
+    <item>lea fakamalakasi</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>lea fakamakūa-meʻeto</item>
+    <!-- mgo - Meta' -->
+    <item>lea fakameta</item>
+    <!-- mh - Marshallese -->
+    <item>lea fakamāsolo</item>
+    <!-- mi - Maori -->
+    <item>lea fakamauli</item>
+    <!-- mic - Micmac -->
+    <item>lea fakamikemaki</item>
+    <!-- min - Minangkabau -->
+    <item>lea fakaminangikapau</item>
+    <!-- mk - Macedonian -->
+    <item>lea fakamasitōnia</item>
+    <!-- ml - Malayalam -->
+    <item>lea fakaʻinitia-malāialami</item>
+    <!-- mn - Mongolian -->
+    <item>lea fakamongokōlia</item>
+    <!-- mnc - Manchu -->
+    <item>lea fakamanisū</item>
+    <!-- mni - Manipuri -->
+    <item>lea fakamanipuli</item>
+    <!-- moh - Mohawk -->
+    <item>lea fakamohauki</item>
+    <!-- mos - Mossi -->
+    <item>lea fakamosi</item>
+    <!-- mr - Marathi -->
+    <item>lea fakamalati</item>
+    <!-- ms - Malay -->
+    <item>lea fakamalei</item>
+    <!-- mt - Maltese -->
+    <item>lea fakamolota</item>
+    <!-- mua - Mundang -->
+    <item>lea fakamunitangi</item>
+    <!-- mul - Multiple Languages -->
+    <item>lea tuifio</item>
+    <!-- mus - Creek -->
+    <item>lea fakakileki</item>
+    <!-- mwl - Mirandese -->
+    <item>lea fakamilanitēsi</item>
+    <!-- mwr - Marwari -->
+    <item>lea fakamaliwali</item>
+    <!-- my - Burmese -->
+    <item>lea fakapema</item>
+    <!-- mye - Myene -->
+    <item>lea fakamiene</item>
+    <!-- myv - Erzya -->
+    <item>lea fakaʻelisia</item>
+    <!-- na - Nauru -->
+    <item>lea fakanaulu</item>
+    <!-- nap - Neapolitan -->
+    <item>lea fakanapoletano</item>
+    <!-- naq - Nama -->
+    <item>lea fakanama</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>lea fakanouaē-pokimali</item>
+    <!-- nd - North Ndebele -->
+    <item>lea netepele fakatokelau</item>
+    <!-- nds - Low German -->
+    <item>lea fakasiamane-hifo</item>
+    <!-- ne - Nepali -->
+    <item>lea fakanepali</item>
+    <!-- new - Newari -->
+    <item>lea fakanewali</item>
+    <!-- ng - Ndonga -->
+    <item>lea fakanetongikā</item>
+    <!-- nia - Nias -->
+    <item>lea fakaniasi</item>
+    <!-- niu - Niuean -->
+    <item>lea fakaniuē</item>
+    <!-- nl - Dutch -->
+    <item>lea fakahōlani</item>
+    <!-- nl_BE - Flemish -->
+    <item>lea fakahōlani-pelesiume</item>
+    <!-- nmg - Kwasio -->
+    <item>lea fakakuasio</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>lea fakanoauē-ninosiki</item>
+    <!-- nnh - Ngiemboon -->
+    <item>lea fakangiemipōni</item>
+    <!-- no - Norwegian -->
+    <item>lea fakanouē</item>
+    <!-- nog - Nogai -->
+    <item>lea fakanokai</item>
+    <!-- nqo - N’Ko -->
+    <item>lea fakanikō</item>
+    <!-- nr - South Ndebele -->
+    <item>lea fakanetepele-tonga</item>
+    <!-- nso - Northern Sotho -->
+    <item>lea sofo fakatokelau</item>
+    <!-- nus - Nuer -->
+    <item>lea fakanueli</item>
+    <!-- nv - Navajo -->
+    <item>lea fakanavaho</item>
+    <!-- ny - Nyanja -->
+    <item>lea sua</item>
+    <!-- nym - Nyamwezi -->
+    <item>lea fakaniamiuesi</item>
+    <!-- nyn - Nyankole -->
+    <item>lea fakanianikole</item>
+    <!-- nyo - Nyoro -->
+    <item>lea fakaniolo</item>
+    <!-- nzi - Nzima -->
+    <item>lea fakanesima</item>
+    <!-- oc - Occitan -->
+    <item>lea fakaʻokitane</item>
+    <!-- oj - Ojibwa -->
+    <item>lea fakaʻosipiuā</item>
+    <!-- om - Oromo -->
+    <item>lea fakaʻolomo</item>
+    <!-- or - Oriya -->
+    <item>lea fakaʻinitia-ʻolāea</item>
+    <!-- os - Ossetic -->
+    <item>lea ʻosetiki</item>
+    <!-- osa - Osage -->
+    <item>lea fakaʻosēse</item>
+    <!-- pa - Punjabi -->
+    <item>lea fakapūnusapi</item>
+    <!-- pag - Pangasinan -->
+    <item>lea fakapangasina</item>
+    <!-- pal - Pahlavi -->
+    <item>lea fakapālavi</item>
+    <!-- pam - Pampanga -->
+    <item>lea fakapamipanga</item>
+    <!-- pap - Papiamento -->
+    <item>lea fakapapiamēnito</item>
+    <!-- pau - Palauan -->
+    <item>lea fakapalau</item>
+    <!-- peo - Old Persian -->
+    <item>lea fakapēsia motuʻa</item>
+    <!-- phn - Phoenician -->
+    <item>lea fakafoinikia</item>
+    <!-- pi - Pali -->
+    <item>lea fakapāli</item>
+    <!-- pl - Polish -->
+    <item>lea fakapōlani</item>
+    <!-- pon - Pohnpeian -->
+    <item>lea fakaponapē</item>
+    <!-- ps - Pashto -->
+    <item>lea fakapasitō</item>
+    <!-- pt - Portuguese -->
+    <item>lea fakapotukali</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>lea fakapotukali-palāsili</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>lea fakapotukali-ʻeulope</item>
+    <!-- qu - Quechua -->
+    <item>lea fakakuetisa</item>
+    <!-- raj - Rajasthani -->
+    <item>lea fakalasasitani</item>
+    <!-- rap - Rapanui -->
+    <item>lea fakalapanui</item>
+    <!-- rar - Rarotongan -->
+    <item>lea fakalalotonga</item>
+    <!-- rm - Romansh -->
+    <item>lea fakalaito-lomēnia</item>
+    <!-- rn - Rundi -->
+    <item>lea luaniti</item>
+    <!-- ro - Romanian -->
+    <item>lea fakalōmenia</item>
+    <!-- ro_MD - Moldavian -->
+    <item>lea fakamolitāvia</item>
+    <!-- rof - Rombo -->
+    <item>lea fakalomipō</item>
+    <!-- rom - Romany -->
+    <item>lea fakalomani</item>
+    <!-- ru - Russian -->
+    <item>lea fakalūsia</item>
+    <!-- rup - Aromanian -->
+    <item>lea fakaʻalomania</item>
+    <!-- rw - Kinyarwanda -->
+    <item>lea fakaluanita</item>
+    <!-- rwk - Rwa -->
+    <item>lea fakaluā</item>
+    <!-- sa - Sanskrit -->
+    <item>lea fakasanisukuliti</item>
+    <!-- sad - Sandawe -->
+    <item>lea fakasanitaue</item>
+    <!-- sah - Sakha -->
+    <item>lea fakasaka</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>lea fakasamalitani-ʻalāmiti</item>
+    <!-- saq - Samburu -->
+    <item>lea fakasamipulu</item>
+    <!-- sas - Sasak -->
+    <item>lea fakasasaki</item>
+    <!-- sat - Santali -->
+    <item>lea fakasanitali</item>
+    <!-- sbp - Sangu -->
+    <item>lea fakasangu</item>
+    <!-- sc - Sardinian -->
+    <item>lea fakasaletīnia</item>
+    <!-- scn - Sicilian -->
+    <item>lea fakasisīlia</item>
+    <!-- sco - Scots -->
+    <item>lea fakasikotilani</item>
+    <!-- sd - Sindhi -->
+    <item>lea fakasīniti</item>
+    <!-- se - Northern Sami -->
+    <item>lea sami fakatokelau</item>
+    <!-- see - Seneca -->
+    <item>lea fakaseneka</item>
+    <!-- seh - Sena -->
+    <item>lea fakasena</item>
+    <!-- sel - Selkup -->
+    <item>lea fakaselikupi</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>lea fakakoilapolo-seni</item>
+    <!-- sg - Sango -->
+    <item>lea sango</item>
+    <!-- sga - Old Irish -->
+    <item>lea fakaʻaelani-motuʻa</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>lea sēpia-kuloisia</item>
+    <!-- shi - Tachelhit -->
+    <item>lea fakataselihiti</item>
+    <!-- shn - Shan -->
+    <item>lea fakasiani</item>
+    <!-- si - Sinhala -->
+    <item>lea fakasingihala</item>
+    <!-- sid - Sidamo -->
+    <item>lea fakasitamo</item>
+    <!-- sk - Slovak -->
+    <item>lea fakasolāvaki</item>
+    <!-- sl - Slovenian -->
+    <item>lea fakasolovenia</item>
+    <!-- sm - Samoan -->
+    <item>lea fakahaʻamoa</item>
+    <!-- sma - Southern Sami -->
+    <item>lea fakasami-tonga</item>
+    <!-- smj - Lule Sami -->
+    <item>lea fakasami-lule</item>
+    <!-- smn - Inari Sami -->
+    <item>lea fakasami-ʻinali</item>
+    <!-- sms - Skolt Sami -->
+    <item>lea fakasami-sikolita</item>
+    <!-- sn - Shona -->
+    <item>lea sona</item>
+    <!-- snk - Soninke -->
+    <item>lea fakasoninekē</item>
+    <!-- so - Somali -->
+    <item>lea fakasomali</item>
+    <!-- sq - Albanian -->
+    <item>lea fakaʻalapēnia</item>
+    <!-- sr - Serbian -->
+    <item>lea fakasēpia</item>
+    <!-- srn - Sranan Tongo -->
+    <item>lea fakasuranane-tongikō</item>
+    <!-- srr - Serer -->
+    <item>lea fakasēlēle</item>
+    <!-- ss - Swati -->
+    <item>lea fakasuasilani</item>
+    <!-- ssy - Saho -->
+    <item>lea fakasaho</item>
+    <!-- st - Southern Sotho -->
+    <item>lea sofo fakatonga</item>
+    <!-- su - Sundanese -->
+    <item>lea fakasunitā</item>
+    <!-- suk - Sukuma -->
+    <item>lea fakasukuma</item>
+    <!-- sus - Susu -->
+    <item>lea fakasusū</item>
+    <!-- sv - Swedish -->
+    <item>lea fakasuēteni</item>
+    <!-- sw - Swahili -->
+    <item>lea fakasuahili</item>
+    <!-- swb - Comorian -->
+    <item>lea fakakomolo</item>
+    <!-- swc - Congo Swahili -->
+    <item>lea fakakongo suahilī</item>
+    <!-- syc - Classical Syriac -->
+    <item>lea fakasailiakimuʻa</item>
+    <!-- syr - Syriac -->
+    <item>lea fakasuliāiā</item>
+    <!-- ta - Tamil -->
+    <item>lea fakatamili</item>
+    <!-- te - Telugu -->
+    <item>lea fakaʻinitia-teluku</item>
+    <!-- tem - Timne -->
+    <item>lea fakatimenē</item>
+    <!-- teo - Teso -->
+    <item>lea fakateso</item>
+    <!-- ter - Tereno -->
+    <item>lea fakateleno</item>
+    <!-- tet - Tetum -->
+    <item>lea fakatētamu</item>
+    <!-- tg - Tajik -->
+    <item>lea fakatāsiki</item>
+    <!-- th - Thai -->
+    <item>lea fakataileni</item>
+    <!-- ti - Tigrinya -->
+    <item>lea fakatikilinia</item>
+    <!-- tig - Tigre -->
+    <item>lea fakatikilīnia</item>
+    <!-- tiv - Tiv -->
+    <item>lea fakativi</item>
+    <!-- tk - Turkmen -->
+    <item>lea fakatēkimeni</item>
+    <!-- tkl - Tokelau -->
+    <item>lea fakatokelau</item>
+    <!-- tl - Tagalog -->
+    <item>lea fakatekaloka</item>
+    <!-- tlh - Klingon -->
+    <item>lea fakatilingoni</item>
+    <!-- tli - Tlingit -->
+    <item>lea fakalingikīte</item>
+    <!-- tmh - Tamashek -->
+    <item>lea fakatamasieki</item>
+    <!-- tn - Tswana -->
+    <item>lea suana</item>
+    <!-- to - Tongan -->
+    <item>lea fakatonga</item>
+    <!-- tog - Nyasa Tonga -->
+    <item>lea fakaniasa-tonga</item>
+    <!-- tpi - Tok Pisin -->
+    <item>lea toki pisini</item>
+    <!-- tr - Turkish -->
+    <item>lea fakatoake</item>
+    <!-- trv - Taroko -->
+    <item>lea fakataloko</item>
+    <!-- ts - Tsonga -->
+    <item>lea songa</item>
+    <!-- tsi - Tsimshian -->
+    <item>lea fakatisīmisiani</item>
+    <!-- tt - Tatar -->
+    <item>lea fakatatale</item>
+    <!-- tum - Tumbuka -->
+    <item>lea fakatumepuka</item>
+    <!-- tvl - Tuvalu -->
+    <item>lea fakatūvalu</item>
+    <!-- twq - Tasawaq -->
+    <item>lea fakatasauaki</item>
+    <!-- ty - Tahitian -->
+    <item>lea fakatahiti</item>
+    <!-- tyv - Tuvinian -->
+    <item>lea fakatuvīnia</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>lea fakatamasaiti ʻatilasi-loloto</item>
+    <!-- udm - Udmurt -->
+    <item>lea fakaʻutimuliti</item>
+    <!-- ug - Uyghur -->
+    <item>lea fakaʻuikūli</item>
+    <!-- uga - Ugaritic -->
+    <item>lea fakaʻūkaliti</item>
+    <!-- uk - Ukrainian -->
+    <item>lea fakaʻiukālia</item>
+    <!-- umb - Umbundu -->
+    <item>lea fakaʻumipūnitu</item>
+    <!-- und - Unknown Language -->
+    <item>lea taʻeʻiloa</item>
+    <!-- ur - Urdu -->
+    <item>lea fakaʻetiu</item>
+    <!-- uz - Uzbek -->
+    <item>lea fakaʻusipeki</item>
+    <!-- vai - Vai -->
+    <item>lea fakavai</item>
+    <!-- ve - Venda -->
+    <item>lea fakavenitā</item>
+    <!-- vi - Vietnamese -->
+    <item>lea fakavietinemi</item>
+    <!-- vo - Volapük -->
+    <item>lea fakavolapiki</item>
+    <!-- vot - Votic -->
+    <item>lea fakavotiki</item>
+    <!-- vun - Vunjo -->
+    <item>lea fakavūniso</item>
+    <!-- wa - Walloon -->
+    <item>lea fakaʻualonia</item>
+    <!-- wae - Walser -->
+    <item>lea fakaʻualiseli</item>
+    <!-- wal - Wolaytta -->
+    <item>lea fakaʻuolaita</item>
+    <!-- war - Waray -->
+    <item>lea fakaʻualai</item>
+    <!-- was - Washo -->
+    <item>lea fakaʻuasiō</item>
+    <!-- wo - Wolof -->
+    <item>lea fakaʻuolofo</item>
+    <!-- xal - Kalmyk -->
+    <item>lea fakakalimiki</item>
+    <!-- xh - Xhosa -->
+    <item>lea fakatōsa</item>
+    <!-- xog - Soga -->
+    <item>lea fakasoka</item>
+    <!-- yao - Yao -->
+    <item>lea fakaʻiao</item>
+    <!-- yap - Yapese -->
+    <item>lea fakaʻiapi</item>
+    <!-- yav - Yangben -->
+    <item>lea fakaʻiangipeni</item>
+    <!-- ybb - Yemba -->
+    <item>lea fakaʻiēmipa</item>
+    <!-- yi - Yiddish -->
+    <item>lea fakaītisi</item>
+    <!-- yo - Yoruba -->
+    <item>lea fakaʻiōlupa</item>
+    <!-- yue - Cantonese -->
+    <item>lea kenitēnisi</item>
+    <!-- za - Zhuang -->
+    <item>lea fakasuangi</item>
+    <!-- zap - Zapotec -->
+    <item>lea fakasapoteki</item>
+    <!-- zen - Zenaga -->
+    <item>lea fakasenaka</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>lea fakatamasaiti moloko</item>
+    <!-- zh - Chinese -->
+    <item>lea fakasiaina</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>lea fakasiaina-fakafaingofua</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>lea fakasiaina-tukufakaholo</item>
+    <!-- zu - Zulu -->
+    <item>lea fakasulu</item>
+    <!-- zun - Zuni -->
+    <item>lea fakasuni</item>
+    <!-- zxx - No linguistic content -->
+    <item>ʻikai ha lea</item>
+    <!-- zza - Zaza -->
+    <item>lea fakasāsā</item>
+  </string-array>
+</resources>

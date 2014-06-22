@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Mongolian (mn) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>абхаз</item>
+    <!-- af - Afrikaans -->
+    <item>африк</item>
+    <!-- am - Amharic -->
+    <item>амхар</item>
+    <!-- ar - Arabic -->
+    <item>араб</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>стандарт араб</item>
+    <!-- as - Assamese -->
+    <item>ассам</item>
+    <!-- az - Azerbaijani -->
+    <item>азербайжан</item>
+    <!-- be - Belarusian -->
+    <item>беларусь</item>
+    <!-- bg - Bulgarian -->
+    <item>болгар</item>
+    <!-- bn - Bengali -->
+    <item>бенгал</item>
+    <!-- bo - Tibetan -->
+    <item>төвд</item>
+    <!-- br - Breton -->
+    <item>бретон</item>
+    <!-- bs - Bosnian -->
+    <item>босни</item>
+    <!-- ca - Catalan -->
+    <item>каталан</item>
+    <!-- cs - Czech -->
+    <item>чех</item>
+    <!-- cy - Welsh -->
+    <item>уэлс</item>
+    <!-- da - Danish -->
+    <item>дани</item>
+    <!-- de - German -->
+    <item>герман</item>
+    <!-- de_AT - Austrian German -->
+    <item>австри герман</item>
+    <!-- de_CH - Swiss High German -->
+    <item>швейцари герман</item>
+    <!-- el - Greek -->
+    <item>грек</item>
+    <!-- en - English -->
+    <item>англи</item>
+    <!-- en_AU - Australian English -->
+    <item>австрали англи</item>
+    <!-- en_CA - Canadian English -->
+    <item>канад англи</item>
+    <!-- en_GB - British English -->
+    <item>британийн англи</item>
+    <!-- en_US - American English -->
+    <item>америкийн англи</item>
+    <!-- eo - Esperanto -->
+    <item>эсперанто</item>
+    <!-- es - Spanish -->
+    <item>испани</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>латин америкийн испани</item>
+    <!-- es_ES - European Spanish -->
+    <item>европын испани</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>мексикийн испани</item>
+    <!-- et - Estonian -->
+    <item>эстони</item>
+    <!-- eu - Basque -->
+    <item>баск</item>
+    <!-- fa - Persian -->
+    <item>перс</item>
+    <!-- fi - Finnish -->
+    <item>финлянд</item>
+    <!-- fil - Filipino -->
+    <item>филиппин</item>
+    <!-- fj - Fijian -->
+    <item>фижи</item>
+    <!-- fo - Faroese -->
+    <item>фарер</item>
+    <!-- fr - French -->
+    <item>франц</item>
+    <!-- fr_CA - Canadian French -->
+    <item>канад франц</item>
+    <!-- fr_CH - Swiss French -->
+    <item>швейцари франц</item>
+    <!-- fy - Western Frisian -->
+    <item>баруун фризын</item>
+    <!-- ga - Irish -->
+    <item>ирланд</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>шотланд келт</item>
+    <!-- gl - Galician -->
+    <item>галик</item>
+    <!-- gn - Guarani -->
+    <item>гуарани</item>
+    <!-- gsw - Swiss German -->
+    <item>швейцар герман</item>
+    <!-- gu - Gujarati -->
+    <item>гужарати</item>
+    <!-- ha - Hausa -->
+    <item>хауса</item>
+    <!-- haw - Hawaiian -->
+    <item>хавай</item>
+    <!-- he - Hebrew -->
+    <item>еврей</item>
+    <!-- hi - Hindi -->
+    <item>хинди</item>
+    <!-- hr - Croatian -->
+    <item>хорват</item>
+    <!-- ht - Haitian -->
+    <item>гаити</item>
+    <!-- hu - Hungarian -->
+    <item>унгар</item>
+    <!-- hy - Armenian -->
+    <item>армен</item>
+    <!-- ia - Interlingua -->
+    <item>интерлингво</item>
+    <!-- id - Indonesian -->
+    <item>индонези</item>
+    <!-- ie - Interlingue -->
+    <item>нэгдмэл хэл</item>
+    <!-- ig - Igbo -->
+    <item>игбо</item>
+    <!-- is - Icelandic -->
+    <item>исланд</item>
+    <!-- it - Italian -->
+    <item>итали</item>
+    <!-- ja - Japanese -->
+    <item>япон</item>
+    <!-- jv - Javanese -->
+    <item>ява</item>
+    <!-- ka - Georgian -->
+    <item>гүрж</item>
+    <!-- kk - Kazakh -->
+    <item>хасаг</item>
+    <!-- km - Khmer -->
+    <item>камбож</item>
+    <!-- kn - Kannada -->
+    <item>каннада</item>
+    <!-- ko - Korean -->
+    <item>солонгос</item>
+    <!-- ks - Kashmiri -->
+    <item>кашмир</item>
+    <!-- ku - Kurdish -->
+    <item>күрд</item>
+    <!-- ky - Kyrgyz -->
+    <item>киргиз</item>
+    <!-- la - Latin -->
+    <item>латин</item>
+    <!-- lb - Luxembourgish -->
+    <item>люксембург</item>
+    <!-- ln - Lingala -->
+    <item>лингала</item>
+    <!-- lo - Lao -->
+    <item>лаос</item>
+    <!-- lt - Lithuanian -->
+    <item>литва</item>
+    <!-- lv - Latvian -->
+    <item>латви</item>
+    <!-- mg - Malagasy -->
+    <item>малагаси</item>
+    <!-- mi - Maori -->
+    <item>маори</item>
+    <!-- mk - Macedonian -->
+    <item>македон</item>
+    <!-- ml - Malayalam -->
+    <item>малайлам</item>
+    <!-- mn - Mongolian -->
+    <item>монгол</item>
+    <!-- mr - Marathi -->
+    <item>марати</item>
+    <!-- ms - Malay -->
+    <item>малай</item>
+    <!-- mt - Maltese -->
+    <item>малти</item>
+    <!-- my - Burmese -->
+    <item>бирм</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>норвегийн букмол</item>
+    <!-- ne - Nepali -->
+    <item>балба</item>
+    <!-- nl - Dutch -->
+    <item>голланд</item>
+    <!-- nl_BE - Flemish -->
+    <item>фламанд</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>норвегийн нинорск</item>
+    <!-- no - Norwegian -->
+    <item>норвеги</item>
+    <!-- oc - Occitan -->
+    <item>францын окситан</item>
+    <!-- or - Oriya -->
+    <item>ория</item>
+    <!-- pa - Punjabi -->
+    <item>панжаб</item>
+    <!-- pl - Polish -->
+    <item>польш</item>
+    <!-- ps - Pashto -->
+    <item>пашто</item>
+    <!-- pt - Portuguese -->
+    <item>португал</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>португал (бразил)</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>европын португал</item>
+    <!-- qu - Quechua -->
+    <item>кечуа</item>
+    <!-- rm - Romansh -->
+    <item>романш</item>
+    <!-- ro - Romanian -->
+    <item>румын</item>
+    <!-- ru - Russian -->
+    <item>орос</item>
+    <!-- sa - Sanskrit -->
+    <item>санскрит</item>
+    <!-- sd - Sindhi -->
+    <item>синдхи</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>хорватын серб</item>
+    <!-- si - Sinhala -->
+    <item>синхала</item>
+    <!-- sk - Slovak -->
+    <item>словак</item>
+    <!-- sl - Slovenian -->
+    <item>словен</item>
+    <!-- so - Somali -->
+    <item>сомали</item>
+    <!-- sq - Albanian -->
+    <item>албани</item>
+    <!-- sr - Serbian -->
+    <item>серб</item>
+    <!-- st - Southern Sotho -->
+    <item>сесото</item>
+    <!-- su - Sundanese -->
+    <item>сундан</item>
+    <!-- sv - Swedish -->
+    <item>швед</item>
+    <!-- sw - Swahili -->
+    <item>свахили</item>
+    <!-- ta - Tamil -->
+    <item>тамил</item>
+    <!-- te - Telugu -->
+    <item>тэлүгү</item>
+    <!-- tg - Tajik -->
+    <item>тажик</item>
+    <!-- th - Thai -->
+    <item>тай</item>
+    <!-- ti - Tigrinya -->
+    <item>тигрина</item>
+    <!-- tk - Turkmen -->
+    <item>туркмен</item>
+    <!-- tlh - Klingon -->
+    <item>клингон хэл</item>
+    <!-- to - Tongan -->
+    <item>тонга</item>
+    <!-- tr - Turkish -->
+    <item>турк</item>
+    <!-- tt - Tatar -->
+    <item>татар</item>
+    <!-- tw - Twi -->
+    <item>тви</item>
+    <!-- ug - Uyghur -->
+    <item>уйгар</item>
+    <!-- uk - Ukrainian -->
+    <item>украйн</item>
+    <!-- und - Unknown Language -->
+    <item>тодорхойгүй хэл</item>
+    <!-- ur - Urdu -->
+    <item>урду</item>
+    <!-- uz - Uzbek -->
+    <item>узбек</item>
+    <!-- vi - Vietnamese -->
+    <item>вьетнам</item>
+    <!-- wo - Wolof -->
+    <item>волоф</item>
+    <!-- xh - Xhosa -->
+    <item>хоса</item>
+    <!-- yi - Yiddish -->
+    <item>иддиш</item>
+    <!-- yo - Yoruba -->
+    <item>ёруба</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>тамазит</item>
+    <!-- zh - Chinese -->
+    <item>хятад</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>хялбаршуулсан хятад</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>уламжлалт хятад</item>
+    <!-- zu - Zulu -->
+    <item>зулу</item>
+    <!-- zxx - No linguistic content -->
+    <item>хэл зүйн агуулга байхгүй</item>
+  </string-array>
+</resources>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Kazakh (kk) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>абхаз</item>
+    <!-- af - Afrikaans -->
+    <item>африкаанс</item>
+    <!-- am - Amharic -->
+    <item>амхар</item>
+    <!-- ar - Arabic -->
+    <item>араб</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>қазіргі стандартты араб тілі</item>
+    <!-- as - Assamese -->
+    <item>ассам</item>
+    <!-- ay - Aymara -->
+    <item>Аймара</item>
+    <!-- az - Azerbaijani -->
+    <item>әзірбайжан</item>
+    <!-- be - Belarusian -->
+    <item>беларус</item>
+    <!-- bg - Bulgarian -->
+    <item>болгар</item>
+    <!-- bn - Bengali -->
+    <item>бенгал</item>
+    <!-- bo - Tibetan -->
+    <item>тибет тілі</item>
+    <!-- br - Breton -->
+    <item>брит</item>
+    <!-- bs - Bosnian -->
+    <item>босния</item>
+    <!-- ca - Catalan -->
+    <item>каталан</item>
+    <!-- cs - Czech -->
+    <item>чех</item>
+    <!-- cy - Welsh -->
+    <item>валлий</item>
+    <!-- da - Danish -->
+    <item>дат</item>
+    <!-- de - German -->
+    <item>неміс тілі</item>
+    <!-- de_AT - Austrian German -->
+    <item>австриялық неміс тілі</item>
+    <!-- de_CH - Swiss High German -->
+    <item>швейцариялық ұлы неміс тілі</item>
+    <!-- dv - Divehi -->
+    <item>Мальдив</item>
+    <!-- dz - Dzongkha -->
+    <item>дзонг-кэ</item>
+    <!-- efi - Efik -->
+    <item>эфик</item>
+    <!-- el - Greek -->
+    <item>грек</item>
+    <!-- en - English -->
+    <item>ағылшын тілі</item>
+    <!-- en_AU - Australian English -->
+    <item>австралиялық ағылшын тілі</item>
+    <!-- en_CA - Canadian English -->
+    <item>канадалық ағылшын тілі</item>
+    <!-- en_GB - British English -->
+    <item>британиялық ағылшын тілі</item>
+    <!-- en_US - American English -->
+    <item>американдық ағылшын тілі</item>
+    <!-- eo - Esperanto -->
+    <item>эсперанто</item>
+    <!-- es - Spanish -->
+    <item>испан тілі</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>латын американдық испан тілі</item>
+    <!-- es_ES - European Spanish -->
+    <item>ибериялық испан тілі</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>мексикалық испан тілі</item>
+    <!-- et - Estonian -->
+    <item>эстон</item>
+    <!-- eu - Basque -->
+    <item>баск</item>
+    <!-- fa - Persian -->
+    <item>парсы</item>
+    <!-- fi - Finnish -->
+    <item>фин</item>
+    <!-- fil - Filipino -->
+    <item>филиппин</item>
+    <!-- fj - Fijian -->
+    <item>фиджи</item>
+    <!-- fo - Faroese -->
+    <item>фарер</item>
+    <!-- fr - French -->
+    <item>француз тілі</item>
+    <!-- fr_CA - Canadian French -->
+    <item>канадалық француз тілі</item>
+    <!-- fr_CH - Swiss French -->
+    <item>швейцариялық француз тілі</item>
+    <!-- fy - Western Frisian -->
+    <item>батыс фриз</item>
+    <!-- ga - Irish -->
+    <item>ирланд</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Солтүстік Шотландия</item>
+    <!-- gl - Galician -->
+    <item>гали</item>
+    <!-- gn - Guarani -->
+    <item>гуарани</item>
+    <!-- gsw - Swiss German -->
+    <item>швейцариялық неміс тілі</item>
+    <!-- gu - Gujarati -->
+    <item>гуджарати</item>
+    <!-- ha - Hausa -->
+    <item>хауса</item>
+    <!-- haw - Hawaiian -->
+    <item>гавай</item>
+    <!-- he - Hebrew -->
+    <item>иврит</item>
+    <!-- hi - Hindi -->
+    <item>хинди</item>
+    <!-- hr - Croatian -->
+    <item>хорват</item>
+    <!-- ht - Haitian -->
+    <item>гаитян</item>
+    <!-- hu - Hungarian -->
+    <item>венгер</item>
+    <!-- hy - Armenian -->
+    <item>армян</item>
+    <!-- ia - Interlingua -->
+    <item>интерлингва</item>
+    <!-- id - Indonesian -->
+    <item>индонезия</item>
+    <!-- ie - Interlingue -->
+    <item>интерлингве</item>
+    <!-- ig - Igbo -->
+    <item>игбо</item>
+    <!-- is - Icelandic -->
+    <item>исланд</item>
+    <!-- it - Italian -->
+    <item>итальян тілі</item>
+    <!-- ja - Japanese -->
+    <item>жапон тілі</item>
+    <!-- jv - Javanese -->
+    <item>ява</item>
+    <!-- ka - Georgian -->
+    <item>грузин</item>
+    <!-- kk - Kazakh -->
+    <item>қазақ тілі</item>
+    <!-- km - Khmer -->
+    <item>кхмер</item>
+    <!-- kn - Kannada -->
+    <item>каннада</item>
+    <!-- ko - Korean -->
+    <item>кәріс</item>
+    <!-- ks - Kashmiri -->
+    <item>кашмир</item>
+    <!-- ku - Kurdish -->
+    <item>күрд</item>
+    <!-- ky - Kyrgyz -->
+    <item>қырғыз</item>
+    <!-- la - Latin -->
+    <item>латын</item>
+    <!-- lb - Luxembourgish -->
+    <item>люксембург</item>
+    <!-- ln - Lingala -->
+    <item>лингала</item>
+    <!-- lo - Lao -->
+    <item>лаос</item>
+    <!-- lt - Lithuanian -->
+    <item>литва</item>
+    <!-- lv - Latvian -->
+    <item>латыш</item>
+    <!-- mg - Malagasy -->
+    <item>малагаси</item>
+    <!-- mi - Maori -->
+    <item>маори</item>
+    <!-- mk - Macedonian -->
+    <item>македон</item>
+    <!-- ml - Malayalam -->
+    <item>малайялам</item>
+    <!-- mn - Mongolian -->
+    <item>моңғол</item>
+    <!-- mr - Marathi -->
+    <item>маратхи</item>
+    <!-- ms - Malay -->
+    <item>малай</item>
+    <!-- mt - Maltese -->
+    <item>мальта</item>
+    <!-- my - Burmese -->
+    <item>бирман</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>норвегиялық букмол</item>
+    <!-- nd - North Ndebele -->
+    <item>Солтүстік ндебел</item>
+    <!-- ne - Nepali -->
+    <item>непал</item>
+    <!-- nl - Dutch -->
+    <item>голланд</item>
+    <!-- nl_BE - Flemish -->
+    <item>флемиш</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>норвегиялық нинорск</item>
+    <!-- no - Norwegian -->
+    <item>норвег</item>
+    <!-- nso - Northern Sotho -->
+    <item>Солтүстік сотхо</item>
+    <!-- ny - Nyanja -->
+    <item>ньянджа</item>
+    <!-- oc - Occitan -->
+    <item>окситан</item>
+    <!-- or - Oriya -->
+    <item>ория</item>
+    <!-- os - Ossetic -->
+    <item>осетин</item>
+    <!-- pa - Punjabi -->
+    <item>панджаб</item>
+    <!-- pl - Polish -->
+    <item>поляк</item>
+    <!-- ps - Pashto -->
+    <item>пушту</item>
+    <!-- pt - Portuguese -->
+    <item>португал тілі</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>бразилиялық португал тілі</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>еуропалық португал тілі</item>
+    <!-- qu - Quechua -->
+    <item>кечуа</item>
+    <!-- rm - Romansh -->
+    <item>романш</item>
+    <!-- rn - Rundi -->
+    <item>рунди</item>
+    <!-- ro - Romanian -->
+    <item>румын</item>
+    <!-- ru - Russian -->
+    <item>орыс тілі</item>
+    <!-- rw - Kinyarwanda -->
+    <item>киньяруанда</item>
+    <!-- sa - Sanskrit -->
+    <item>санскрит</item>
+    <!-- sah - Sakha -->
+    <item>якут</item>
+    <!-- sd - Sindhi -->
+    <item>синдхи</item>
+    <!-- se - Northern Sami -->
+    <item>Солтүстік саам</item>
+    <!-- sg - Sango -->
+    <item>санго</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>сербхорват</item>
+    <!-- si - Sinhala -->
+    <item>сингал</item>
+    <!-- sk - Slovak -->
+    <item>словак</item>
+    <!-- sl - Slovenian -->
+    <item>словен</item>
+    <!-- so - Somali -->
+    <item>сомали</item>
+    <!-- sq - Albanian -->
+    <item>албан</item>
+    <!-- sr - Serbian -->
+    <item>серб</item>
+    <!-- st - Southern Sotho -->
+    <item>сесото</item>
+    <!-- su - Sundanese -->
+    <item>судан</item>
+    <!-- sv - Swedish -->
+    <item>швед</item>
+    <!-- sw - Swahili -->
+    <item>суахили</item>
+    <!-- ta - Tamil -->
+    <item>тамил</item>
+    <!-- te - Telugu -->
+    <item>телугу</item>
+    <!-- tg - Tajik -->
+    <item>тәжік</item>
+    <!-- th - Thai -->
+    <item>тай</item>
+    <!-- ti - Tigrinya -->
+    <item>тигринья</item>
+    <!-- tk - Turkmen -->
+    <item>түрікмен</item>
+    <!-- tlh - Klingon -->
+    <item>клингон</item>
+    <!-- to - Tongan -->
+    <item>тонган</item>
+    <!-- tr - Turkish -->
+    <item>түрік</item>
+    <!-- tt - Tatar -->
+    <item>татар</item>
+    <!-- tw - Twi -->
+    <item>тви</item>
+    <!-- ug - Uyghur -->
+    <item>ұйғыр</item>
+    <!-- uk - Ukrainian -->
+    <item>украин</item>
+    <!-- und - Unknown Language -->
+    <item>белгісіз тіл</item>
+    <!-- ur - Urdu -->
+    <item>урду</item>
+    <!-- uz - Uzbek -->
+    <item>өзбек</item>
+    <!-- vi - Vietnamese -->
+    <item>вьетнам</item>
+    <!-- wo - Wolof -->
+    <item>волоф</item>
+    <!-- xh - Xhosa -->
+    <item>ксоза</item>
+    <!-- yi - Yiddish -->
+    <item>идиш</item>
+    <!-- yo - Yoruba -->
+    <item>йоруба</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>марокколық стандартты тамазигхт</item>
+    <!-- zh - Chinese -->
+    <item>қытай тілі</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>қарапайым қытай тілі</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>дәстүрлік қытай тілі</item>
+    <!-- zu - Zulu -->
+    <item>зулу</item>
+    <!-- zxx - No linguistic content -->
+    <item>тілдік мазмұны жоқ</item>
+  </string-array>
+</resources>

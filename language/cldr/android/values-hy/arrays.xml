@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Armenian (hy) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>աբխազերեն</item>
+    <!-- af - Afrikaans -->
+    <item>աֆրիկաանս</item>
+    <!-- am - Amharic -->
+    <item>ամհարերեն</item>
+    <!-- ar - Arabic -->
+    <item>արաբերեն</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>ժամանակակից ստանդարտ արաբերեն</item>
+    <!-- as - Assamese -->
+    <item>ասամերեն</item>
+    <!-- az - Azerbaijani -->
+    <item>ադրբեջաներեն</item>
+    <!-- be - Belarusian -->
+    <item>բելառուսերեն</item>
+    <!-- bg - Bulgarian -->
+    <item>բուլղարերեն</item>
+    <!-- bn - Bengali -->
+    <item>բենգալերեն</item>
+    <!-- bo - Tibetan -->
+    <item>տիբեթերեն</item>
+    <!-- br - Breton -->
+    <item>Բրետոներեն</item>
+    <!-- bs - Bosnian -->
+    <item>բոսնիերեն</item>
+    <!-- ca - Catalan -->
+    <item>կատալաներեն</item>
+    <!-- cs - Czech -->
+    <item>չեխերեն</item>
+    <!-- cy - Welsh -->
+    <item>ուելսերեն</item>
+    <!-- da - Danish -->
+    <item>դանիերեն</item>
+    <!-- de - German -->
+    <item>գերմաներեն</item>
+    <!-- de_AT - Austrian German -->
+    <item>ավստրիական գերմաներեն</item>
+    <!-- de_CH - Swiss High German -->
+    <item>շվեյցարական բարձր գերմաներեն</item>
+    <!-- el - Greek -->
+    <item>հունարեն</item>
+    <!-- en - English -->
+    <item>անգլերեն</item>
+    <!-- en_AU - Australian English -->
+    <item>ավստրալական անգլերեն</item>
+    <!-- en_CA - Canadian English -->
+    <item>կանադական անգլերեն</item>
+    <!-- en_GB - British English -->
+    <item>բրիտանական անգլերեն</item>
+    <!-- en_US - American English -->
+    <item>ամերիկյան անգլերեն</item>
+    <!-- eo - Esperanto -->
+    <item>էսպերանտո</item>
+    <!-- es - Spanish -->
+    <item>իսպաներեն</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>լատինաամերիկյան իսպաներեն</item>
+    <!-- es_ES - European Spanish -->
+    <item>եվրոպական իսպաներեն</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>մեքսիկական իսպաներեն</item>
+    <!-- et - Estonian -->
+    <item>էստոներեն</item>
+    <!-- eu - Basque -->
+    <item>բասկերեն</item>
+    <!-- fa - Persian -->
+    <item>պարսկերեն</item>
+    <!-- fi - Finnish -->
+    <item>ֆիններեն</item>
+    <!-- fil - Filipino -->
+    <item>ֆիլիպիներեն</item>
+    <!-- fj - Fijian -->
+    <item>ֆիջիերեն</item>
+    <!-- fo - Faroese -->
+    <item>ֆարյորերեն</item>
+    <!-- fr - French -->
+    <item>ֆրանսերեն</item>
+    <!-- fr_CA - Canadian French -->
+    <item>կանադական ֆրանսերեն</item>
+    <!-- fr_CH - Swiss French -->
+    <item>շվեյցարական ֆրանսերեն</item>
+    <!-- fy - Western Frisian -->
+    <item>արևմտյան ֆրիզերեն</item>
+    <!-- ga - Irish -->
+    <item>իռլանդերեն</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Գաելյան Շոտլանդերեն</item>
+    <!-- gl - Galician -->
+    <item>գալիսերեն</item>
+    <!-- gn - Guarani -->
+    <item>գուարանի</item>
+    <!-- gsw - Swiss German -->
+    <item>շվեյցարական գերմաներեն</item>
+    <!-- gu - Gujarati -->
+    <item>գուջարաթի</item>
+    <!-- ha - Hausa -->
+    <item>հաուսա</item>
+    <!-- haw - Hawaiian -->
+    <item>հավայիերեն</item>
+    <!-- he - Hebrew -->
+    <item>եբրայերեն</item>
+    <!-- hi - Hindi -->
+    <item>հինդի</item>
+    <!-- hr - Croatian -->
+    <item>խորվաթերեն</item>
+    <!-- ht - Haitian -->
+    <item>հաիթերեն</item>
+    <!-- hu - Hungarian -->
+    <item>հունգարերեն</item>
+    <!-- hy - Armenian -->
+    <item>հայերեն</item>
+    <!-- ia - Interlingua -->
+    <item>Ինտերլինգուա</item>
+    <!-- id - Indonesian -->
+    <item>ինդոնեզերեն</item>
+    <!-- ie - Interlingue -->
+    <item>Ինտերլինգ</item>
+    <!-- ig - Igbo -->
+    <item>իգբո</item>
+    <!-- is - Icelandic -->
+    <item>իսլանդերեն</item>
+    <!-- it - Italian -->
+    <item>իտալերեն</item>
+    <!-- ja - Japanese -->
+    <item>ճապոներեն</item>
+    <!-- jv - Javanese -->
+    <item>ճավայերեն</item>
+    <!-- ka - Georgian -->
+    <item>վրացերեն</item>
+    <!-- kk - Kazakh -->
+    <item>ղազախերեն</item>
+    <!-- km - Khmer -->
+    <item>քմերերեն</item>
+    <!-- kn - Kannada -->
+    <item>կաննադա</item>
+    <!-- ko - Korean -->
+    <item>կորեերեն</item>
+    <!-- ks - Kashmiri -->
+    <item>քաշմիրերեն</item>
+    <!-- ku - Kurdish -->
+    <item>քրդերեն</item>
+    <!-- ky - Kyrgyz -->
+    <item>ղրղզերեն</item>
+    <!-- la - Latin -->
+    <item>լատիներեն</item>
+    <!-- lb - Luxembourgish -->
+    <item>լյուքսեմբուրգերեն</item>
+    <!-- ln - Lingala -->
+    <item>Լինգալա</item>
+    <!-- lo - Lao -->
+    <item>լաոսերեն</item>
+    <!-- lt - Lithuanian -->
+    <item>լիտվերեն</item>
+    <!-- lv - Latvian -->
+    <item>լատվիերեն</item>
+    <!-- mg - Malagasy -->
+    <item>մալագասերեն</item>
+    <!-- mi - Maori -->
+    <item>մաորի</item>
+    <!-- mk - Macedonian -->
+    <item>մակեդոներեն</item>
+    <!-- ml - Malayalam -->
+    <item>մալայալամ</item>
+    <!-- mn - Mongolian -->
+    <item>Մոնղոլերեն</item>
+    <!-- mr - Marathi -->
+    <item>մարաթի</item>
+    <!-- ms - Malay -->
+    <item>մալայերեն</item>
+    <!-- mt - Maltese -->
+    <item>մալթերեն</item>
+    <!-- my - Burmese -->
+    <item>բիրմայերեն</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>նորվեգերեն բուկմոլ</item>
+    <!-- ne - Nepali -->
+    <item>նեպալերեն</item>
+    <!-- nl - Dutch -->
+    <item>հոլանդերեն</item>
+    <!-- nl_BE - Flemish -->
+    <item>ֆլամանդերեն</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>նորվեգերեն նյունորսկ</item>
+    <!-- no - Norwegian -->
+    <item>Նորվեգերեն</item>
+    <!-- oc - Occitan -->
+    <item>Ակվիտաներեն</item>
+    <!-- or - Oriya -->
+    <item>օրիյա</item>
+    <!-- pa - Punjabi -->
+    <item>փենջաբերեն</item>
+    <!-- pl - Polish -->
+    <item>լեհերեն</item>
+    <!-- ps - Pashto -->
+    <item>փուշթու</item>
+    <!-- pt - Portuguese -->
+    <item>պորտուգալերեն</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>բրազիլական պորտուգալերեն</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>եվրոպական պորտուգալերեն</item>
+    <!-- qu - Quechua -->
+    <item>քեչուա</item>
+    <!-- rm - Romansh -->
+    <item>ռոմանշերեն</item>
+    <!-- ro - Romanian -->
+    <item>ռումիներեն</item>
+    <!-- ru - Russian -->
+    <item>ռուսերեն</item>
+    <!-- sa - Sanskrit -->
+    <item>սանսկրիտ</item>
+    <!-- sd - Sindhi -->
+    <item>սինդհի</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Սերբա-Խորվաթերեն</item>
+    <!-- si - Sinhala -->
+    <item>սինհալերեն</item>
+    <!-- sk - Slovak -->
+    <item>սլովակերեն</item>
+    <!-- sl - Slovenian -->
+    <item>սլովեներեն</item>
+    <!-- so - Somali -->
+    <item>սոմալիերեն</item>
+    <!-- sq - Albanian -->
+    <item>ալբաներեն</item>
+    <!-- sr - Serbian -->
+    <item>սերբերեն</item>
+    <!-- st - Southern Sotho -->
+    <item>Սեսոտո</item>
+    <!-- su - Sundanese -->
+    <item>սունդաներեն</item>
+    <!-- sv - Swedish -->
+    <item>շվեդերեն</item>
+    <!-- sw - Swahili -->
+    <item>սուահիլի</item>
+    <!-- ta - Tamil -->
+    <item>թամիլերեն</item>
+    <!-- te - Telugu -->
+    <item>թելուգու</item>
+    <!-- tg - Tajik -->
+    <item>տաջիկերեն</item>
+    <!-- th - Thai -->
+    <item>թայերեն</item>
+    <!-- ti - Tigrinya -->
+    <item>թիգրինիա</item>
+    <!-- tk - Turkmen -->
+    <item>թուրքմեներեն</item>
+    <!-- tlh - Klingon -->
+    <item>Կլինգոն</item>
+    <!-- to - Tongan -->
+    <item>տոնգա</item>
+    <!-- tr - Turkish -->
+    <item>թուրքերեն</item>
+    <!-- tt - Tatar -->
+    <item>թաթարերեն</item>
+    <!-- tw - Twi -->
+    <item>Տուի</item>
+    <!-- ug - Uyghur -->
+    <item>ույղուրերեն</item>
+    <!-- uk - Ukrainian -->
+    <item>ուկրաիներեն</item>
+    <!-- und - Unknown Language -->
+    <item>անհայտ լեզու</item>
+    <!-- ur - Urdu -->
+    <item>ուրդու</item>
+    <!-- uz - Uzbek -->
+    <item>ուզբեկերեն</item>
+    <!-- vi - Vietnamese -->
+    <item>վիետնամերեն</item>
+    <!-- wo - Wolof -->
+    <item>վոլոֆ</item>
+    <!-- xh - Xhosa -->
+    <item>քսոզա</item>
+    <!-- yi - Yiddish -->
+    <item>Իդիշ</item>
+    <!-- yo - Yoruba -->
+    <item>յորուբա</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ստանդարտ մարոկական թամազիղտ</item>
+    <!-- zh - Chinese -->
+    <item>չինարեն</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>պարզեցված չինարեն</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>ավանդական չինարեն</item>
+    <!-- zu - Zulu -->
+    <item>զուլուսերեն</item>
+    <!-- zxx - No linguistic content -->
+    <item>առանց լեզվային բովանդակության</item>
+  </string-array>
+</resources>

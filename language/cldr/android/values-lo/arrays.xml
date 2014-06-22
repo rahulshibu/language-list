@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Lao (lo) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>ອະຟາ</item>
+    <!-- ab - Abkhazian -->
+    <item>ແອບຄາຊຽນ</item>
+    <!-- ace - Achinese -->
+    <item>ແອັກຊີເນັສ</item>
+    <!-- ach - Acoli -->
+    <item>ອາໂຄລີ</item>
+    <!-- ada - Adangme -->
+    <item>ອາແດງມີ</item>
+    <!-- ady - Adyghe -->
+    <item>ເອດີຮິ</item>
+    <!-- ae - Avestan -->
+    <item>ອາເວັສແຕນ</item>
+    <!-- af - Afrikaans -->
+    <item>ອາຟຣິການ</item>
+    <!-- afh - Afrihili -->
+    <item>ແອຟີຮີລີ</item>
+    <!-- agq - Aghem -->
+    <item>ອາເຮັມ</item>
+    <!-- ain - Ainu -->
+    <item>ໄອນູ</item>
+    <!-- ak - Akan -->
+    <item>ອາການ</item>
+    <!-- akk - Akkadian -->
+    <item>ອັກກາດຽມ</item>
+    <!-- ale - Aleut -->
+    <item>ອາເລີດ</item>
+    <!-- alt - Southern Altai -->
+    <item>ອານໄຕໃຕ້</item>
+    <!-- am - Amharic -->
+    <item>ອຳຮາຣິກ</item>
+    <!-- an - Aragonese -->
+    <item>ອາຣາໂກເນັດ</item>
+    <!-- ang - Old English -->
+    <item>ອັງກິດໂບຮານ</item>
+    <!-- anp - Angika -->
+    <item>ແອນຈີກາ</item>
+    <!-- ar - Arabic -->
+    <item>ອາຣັບ</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>ອາຣາບິກມາດຕະຖານສະໄໝໃໝ່</item>
+    <!-- arc - Aramaic -->
+    <item>ອາລາມິກ</item>
+    <!-- arn - Mapuche -->
+    <item>ອາຣົວຄານຽນ</item>
+    <!-- arp - Arapaho -->
+    <item>ອາຣາປາໂຮ</item>
+    <!-- arw - Arawak -->
+    <item>ອາຣາແວກ</item>
+    <!-- as - Assamese -->
+    <item>ອັສຊຳມີສ</item>
+    <!-- asa - Asu -->
+    <item>ອາຊູ</item>
+    <!-- ast - Asturian -->
+    <item>ອັສຕູຮຽນ</item>
+    <!-- av - Avaric -->
+    <item>ອາວາຣິກ</item>
+    <!-- awa - Awadhi -->
+    <item>ອາວາຮິ</item>
+    <!-- ay - Aymara -->
+    <item>ອາຍມາລາ</item>
+    <!-- az - Azerbaijani -->
+    <item>ອາເຊີໄບຈານິ</item>
+    <!-- ba - Bashkir -->
+    <item>ບາຣກີ</item>
+    <!-- bal - Baluchi -->
+    <item>ບາລູຊີ</item>
+    <!-- ban - Balinese -->
+    <item>ບາລີເນັດ</item>
+    <!-- bas - Basaa -->
+    <item>ບາຊາ</item>
+    <!-- bax - Bamun -->
+    <item>ບາມຸນ</item>
+    <!-- bbj - Ghomala -->
+    <item>ໂຄມາລາ</item>
+    <!-- be - Belarusian -->
+    <item>ເບລາຣັສຊຽນ</item>
+    <!-- bej - Beja -->
+    <item>ບີເຈ</item>
+    <!-- bem - Bemba -->
+    <item>ເບັມບາ</item>
+    <!-- bez - Bena -->
+    <item>ບີນາ</item>
+    <!-- bfd - Bafut -->
+    <item>ບາຟັດ</item>
+    <!-- bg - Bulgarian -->
+    <item>ບັງກາຣຽນ</item>
+    <!-- bho - Bhojpuri -->
+    <item>ໂບພູຣິ</item>
+    <!-- bi - Bislama -->
+    <item>ບິສລະມາ</item>
+    <!-- bik - Bikol -->
+    <item>ບີຄອນ</item>
+    <!-- bin - Bini -->
+    <item>ບີນີ</item>
+    <!-- bkm - Kom -->
+    <item>ກົມ</item>
+    <!-- bla - Siksika -->
+    <item>ຊິກຊິກາ</item>
+    <!-- bm - Bambara -->
+    <item>ບາມບາຣາ</item>
+    <!-- bn - Bengali -->
+    <item>ເບັງກາລີ</item>
+    <!-- bo - Tibetan -->
+    <item>ທິເບທັນ</item>
+    <!-- br - Breton -->
+    <item>ເບຣຕັນ</item>
+    <!-- bra - Braj -->
+    <item>ບຣາ</item>
+    <!-- brx - Bodo -->
+    <item>ໂບດູ</item>
+    <!-- bs - Bosnian -->
+    <item>ບອສນຽນ</item>
+    <!-- bss - Akoose -->
+    <item>ອາຄຸດ</item>
+    <!-- bua - Buriat -->
+    <item>ບູຣຽດ</item>
+    <!-- bug - Buginese -->
+    <item>ບູຈີເນັດ</item>
+    <!-- bum - Bulu -->
+    <item>ບູລູ</item>
+    <!-- byn - Blin -->
+    <item>ບລິນ</item>
+    <!-- byv - Medumba -->
+    <item>ເມດູມບາ</item>
+    <!-- ca - Catalan -->
+    <item>ຄາຕາລານ</item>
+    <!-- cad - Caddo -->
+    <item>ແຄດໂດ</item>
+    <!-- car - Carib -->
+    <item>ຄາຣິບ</item>
+    <!-- cay - Cayuga -->
+    <item>ຄາຢູກາ</item>
+    <!-- cch - Atsam -->
+    <item>ອາດແຊມ</item>
+    <!-- ce - Chechen -->
+    <item>ຊີເຄນ</item>
+    <!-- ceb - Cebuano -->
+    <item>ຊີບູໂນ</item>
+    <!-- cgg - Chiga -->
+    <item>ຊີກາ</item>
+    <!-- ch - Chamorro -->
+    <item>ຊາມໍໂຣ</item>
+    <!-- chb - Chibcha -->
+    <item>ຊິບຊາ</item>
+    <!-- chg - Chagatai -->
+    <item>ຊາກາໄຕ</item>
+    <!-- chk - Chuukese -->
+    <item>ຊູເກດ</item>
+    <!-- chm - Mari -->
+    <item>ມາຣິ</item>
+    <!-- chn - Chinook Jargon -->
+    <item>ຊີນຸກຈາກອນ</item>
+    <!-- cho - Choctaw -->
+    <item>ຊອກຕິວ</item>
+    <!-- chp - Chipewyan -->
+    <item>ຊີພິວຢານ</item>
+    <!-- chr - Cherokee -->
+    <item>ຊີໂຣກີ</item>
+    <!-- chy - Cheyenne -->
+    <item>ຊີເຢນນີ</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>ໂຊນານີເຄີດີຊ</item>
+    <!-- co - Corsican -->
+    <item>ຄໍຊິກາ</item>
+    <!-- cop - Coptic -->
+    <item>ຄອບຕິກ</item>
+    <!-- cr - Cree -->
+    <item>ຄີ</item>
+    <!-- crh - Crimean Turkish -->
+    <item>ຄຣີເມນເຕີຄິຊ</item>
+    <!-- cs - Czech -->
+    <item>ເຊກ</item>
+    <!-- csb - Kashubian -->
+    <item>ກາຊູບຽນ</item>
+    <!-- cu - Church Slavic -->
+    <item>ໂບດສລາວິກ</item>
+    <!-- cv - Chuvash -->
+    <item>ຊູວາຊ</item>
+    <!-- cy - Welsh -->
+    <item>ເວວ</item>
+    <!-- da - Danish -->
+    <item>ແດນິຊ</item>
+    <!-- dak - Dakota -->
+    <item>ດາໂກຕາ</item>
+    <!-- dar - Dargwa -->
+    <item>ດາກວາ</item>
+    <!-- dav - Taita -->
+    <item>ໄຕຕາ</item>
+    <!-- de - German -->
+    <item>ເຢຍລະມັນ</item>
+    <!-- de_AT - Austrian German -->
+    <item>ອອສຕຣຽນ ເຈີແມນ</item>
+    <!-- de_CH - Swiss High German -->
+    <item>ສະວິສ ໄຮ ເຈີແມນ</item>
+    <!-- del - Delaware -->
+    <item>ເດລາວາ</item>
+    <!-- den - Slave -->
+    <item>ຊີເລັບ</item>
+    <!-- dgr - Dogrib -->
+    <item>ໂດກຣິບ</item>
+    <!-- din - Dinka -->
+    <item>ດິນກາ</item>
+    <!-- dje - Zarma -->
+    <item>ຊາມາ</item>
+    <!-- doi - Dogri -->
+    <item>ດອກຣີ</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>ຊໍບຽນຕໍ່ກວ່າ</item>
+    <!-- dua - Duala -->
+    <item>ດົວລາ</item>
+    <!-- dum - Middle Dutch -->
+    <item>ດັກກາງ</item>
+    <!-- dv - Divehi -->
+    <item>ດີວີຮີ</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>ໂຈລາ-ຝອນຢີ</item>
+    <!-- dyu - Dyula -->
+    <item>ດູລາ</item>
+    <!-- dz - Dzongkha -->
+    <item>ດີຊອງຄາ</item>
+    <!-- dzg - Dazaga -->
+    <item>ດາຊາກາ</item>
+    <!-- ebu - Embu -->
+    <item>ເອັມບູ</item>
+    <!-- ee - Ewe -->
+    <item>ອິວາ</item>
+    <!-- efi - Efik -->
+    <item>ອີຟິກ</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>ອີຢິບບູຮານ</item>
+    <!-- eka - Ekajuk -->
+    <item>ອີກາຈັກ</item>
+    <!-- el - Greek -->
+    <item>ກຣີກ</item>
+    <!-- elx - Elamite -->
+    <item>ອີລາໄມ</item>
+    <!-- en - English -->
+    <item>ອັງກິດ</item>
+    <!-- en_AU - Australian English -->
+    <item>ອັງກິດ (ອອສເຕຣລຽນ)</item>
+    <!-- en_CA - Canadian English -->
+    <item>ອັງກິດ (ເຄເນດຽນ)</item>
+    <!-- en_GB - British English -->
+    <item>ອັງກິດ (ບຣິທິຊ)</item>
+    <!-- en_US - American English -->
+    <item>ອັງກິດ (ອາເມລິກັນ)</item>
+    <!-- enm - Middle English -->
+    <item>ອັງກິດກາງ</item>
+    <!-- eo - Esperanto -->
+    <item>ເອສເປີຣັນໂຕ</item>
+    <!-- es - Spanish -->
+    <item>ສະແປນນິຊ</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>ລາຕິນ ອາເມຣິກັນ ສະແປນນິຊ</item>
+    <!-- es_ES - European Spanish -->
+    <item>ຢູໂຣປຽນ ສະແປນນິຊ</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>ເມັກຊິກັນ ສະແປນນິຊ</item>
+    <!-- et - Estonian -->
+    <item>ເອສໂຕນຽນ</item>
+    <!-- eu - Basque -->
+    <item>ບັສກີ</item>
+    <!-- ewo - Ewondo -->
+    <item>ອີວອນດູ</item>
+    <!-- fa - Persian -->
+    <item>ເປີຊຽນ</item>
+    <!-- fan - Fang -->
+    <item>ແຟງ</item>
+    <!-- fat - Fanti -->
+    <item>ແຟນຕີ</item>
+    <!-- ff - Fulah -->
+    <item>ຟູລາ</item>
+    <!-- fi - Finnish -->
+    <item>ຟິນນິຊ</item>
+    <!-- fil - Filipino -->
+    <item>ຟີລິປີໂນ</item>
+    <!-- fj - Fijian -->
+    <item>ຟິຈຽນ</item>
+    <!-- fo - Faroese -->
+    <item>ຟາໂຣສ</item>
+    <!-- fon - Fon -->
+    <item>ຟອນ</item>
+    <!-- fr - French -->
+    <item>ຝຣັ່ງ</item>
+    <!-- fr_CA - Canadian French -->
+    <item>ເຄເນດຽນ ຝຣັ່ງ</item>
+    <!-- fr_CH - Swiss French -->
+    <item>ສະວິສ ຝຣັ່ງ</item>
+    <!-- frm - Middle French -->
+    <item>ຟຮັ່ງເສດກາງ</item>
+    <!-- fro - Old French -->
+    <item>ຟຮັ່ງເສດໂບຮານ</item>
+    <!-- frr - Northern Frisian -->
+    <item>ຟຣີຊຽນເໜືອ</item>
+    <!-- frs - Eastern Frisian -->
+    <item>ຟຣີຊຽນຕາເວັນອອກ</item>
+    <!-- fur - Friulian -->
+    <item>ຟຣີລຽນ</item>
+    <!-- fy - Western Frisian -->
+    <item>ເວສເທີນ ຟຣິຊຽນ</item>
+    <!-- ga - Irish -->
+    <item>ໄອຣິສ</item>
+    <!-- gaa - Ga -->
+    <item>ກາ</item>
+    <!-- gay - Gayo -->
+    <item>ກາໂຢ</item>
+    <!-- gba - Gbaya -->
+    <item>ບາຍາ</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>ສະກັອດເກລິກ</item>
+    <!-- gez - Geez -->
+    <item>ກີ</item>
+    <!-- gil - Gilbertese -->
+    <item>ກິນເບີເທັດ</item>
+    <!-- gl - Galician -->
+    <item>ກາລິຊຽນ</item>
+    <!-- gmh - Middle High German -->
+    <item>ເຢຍລະມັນສູງກາງ</item>
+    <!-- gn - Guarani -->
+    <item>ກົວຣານີ</item>
+    <!-- goh - Old High German -->
+    <item>ເຢຍລະມັນສູງໂບຮານ</item>
+    <!-- gon - Gondi -->
+    <item>ກອນດີ</item>
+    <!-- gor - Gorontalo -->
+    <item>ໂກຣອນຕາໂຣ</item>
+    <!-- got - Gothic -->
+    <item>ກອດຮິກ</item>
+    <!-- grb - Grebo -->
+    <item>ກຣີໂບ</item>
+    <!-- grc - Ancient Greek -->
+    <item>ແອນຊຽນກຣີກ</item>
+    <!-- gsw - Swiss German -->
+    <item>ສະວິສ ເຈີແມນ</item>
+    <!-- gu - Gujarati -->
+    <item>ກູຈາຣາຕິ</item>
+    <!-- guz - Gusii -->
+    <item>ກູຊິ</item>
+    <!-- gv - Manx -->
+    <item>ແມນ</item>
+    <!-- gwi - Gwichʼin -->
+    <item>ວິດອິນ</item>
+    <!-- ha - Hausa -->
+    <item>ຮໍຊາ</item>
+    <!-- hai - Haida -->
+    <item>ໄຮດາ</item>
+    <!-- haw - Hawaiian -->
+    <item>ຮາໄວອຽນ</item>
+    <!-- he - Hebrew -->
+    <item>ຮີບຣິວ</item>
+    <!-- hi - Hindi -->
+    <item>ຮິນດິ</item>
+    <!-- hil - Hiligaynon -->
+    <item>ຮິຣິໄກນອນ</item>
+    <!-- hit - Hittite -->
+    <item>ຮິດໄຕ</item>
+    <!-- hmn - Hmong -->
+    <item>ມອງ</item>
+    <!-- ho - Hiri Motu -->
+    <item>ຮິຣິໂມຕູ</item>
+    <!-- hr - Croatian -->
+    <item>ໂຄຣຕຽນ</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>ຊຸບເປີຊໍບຽນ</item>
+    <!-- ht - Haitian -->
+    <item>ໄຮຕຽນ</item>
+    <!-- hu - Hungarian -->
+    <item>ຮັງກາຣຽນ</item>
+    <!-- hup - Hupa -->
+    <item>ຮູປາ</item>
+    <!-- hy - Armenian -->
+    <item>ອາເມນຽນ</item>
+    <!-- hz - Herero -->
+    <item>ເຮິຮິໂຣ</item>
+    <!-- ia - Interlingua -->
+    <item>ອິນເຕີລິງລົວ</item>
+    <!-- iba - Iban -->
+    <item>ໄອບານ</item>
+    <!-- ibb - Ibibio -->
+    <item>ໄອໄບໄບໂອ</item>
+    <!-- id - Indonesian -->
+    <item>ອິນໂດເນຊຽນ</item>
+    <!-- ie - Interlingue -->
+    <item>ອິນເຕີລິງກຣີ</item>
+    <!-- ig - Igbo -->
+    <item>ອິກໂບ</item>
+    <!-- ii - Sichuan Yi -->
+    <item>ເຊສວຍຢີ</item>
+    <!-- ik - Inupiaq -->
+    <item>ອິນນູປຽກ</item>
+    <!-- ilo - Iloko -->
+    <item>ໄອໂລໂກ</item>
+    <!-- inh - Ingush -->
+    <item>ອິນກັຊ</item>
+    <!-- io - Ido -->
+    <item>ອີໂດ</item>
+    <!-- is - Icelandic -->
+    <item>ໄອສແລນດິກ</item>
+    <!-- it - Italian -->
+    <item>ອິຕາລຽນ</item>
+    <!-- iu - Inuktitut -->
+    <item>ອິນນຸກຕິຕັດ</item>
+    <!-- ja - Japanese -->
+    <item>ຍີ່ປຸ່ນ</item>
+    <!-- jbo - Lojban -->
+    <item>ໂລບບັນ</item>
+    <!-- jmc - Machame -->
+    <item>ມາແຊມ</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>ຈູແດວ-ເພີຊຽນ</item>
+    <!-- jrb - Judeo-Arabic -->
+    <item>ຈູແດວ-ອາລາບິກ</item>
+    <!-- jv - Javanese -->
+    <item>ຈາແວນີສ</item>
+    <!-- ka - Georgian -->
+    <item>ຈໍຈຽນ</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>ກາຣາ-ການປາກ</item>
+    <!-- kab - Kabyle -->
+    <item>ກາໄບຣ</item>
+    <!-- kac - Kachin -->
+    <item>ກາຊິນ</item>
+    <!-- kaj - Jju -->
+    <item>ຈຣູ</item>
+    <!-- kam - Kamba -->
+    <item>ກາມບາ</item>
+    <!-- kaw - Kawi -->
+    <item>ກະວີ</item>
+    <!-- kbd - Kabardian -->
+    <item>ກາບາດຽນ</item>
+    <!-- kbl - Kanembu -->
+    <item>ຄາແນມບູ</item>
+    <!-- kcg - Tyap -->
+    <item>ຕີບ</item>
+    <!-- kde - Makonde -->
+    <item>ມາຄອນເດ</item>
+    <!-- kea - Kabuverdianu -->
+    <item>ຄາເວີເດຍນູ</item>
+    <!-- kfo - Koro -->
+    <item>ໂຄໂລ</item>
+    <!-- kg - Kongo -->
+    <item>ຄອງໂກ</item>
+    <!-- kha - Khasi -->
+    <item>ຄາສິ</item>
+    <!-- kho - Khotanese -->
+    <item>ໂຄຕັນ</item>
+    <!-- khq - Koyra Chiini -->
+    <item>ຄອຍຣາຊິນີ</item>
+    <!-- ki - Kikuyu -->
+    <item>ຄິຄູຢຸ</item>
+    <!-- kj - Kuanyama -->
+    <item>ກວນຍາມາ</item>
+    <!-- kk - Kazakh -->
+    <item>ຄາຊັກ</item>
+    <!-- kkj - Kako -->
+    <item>ຄາໂກ</item>
+    <!-- kl - Kalaallisut -->
+    <item>ກຣີນແລນລິດ</item>
+    <!-- kln - Kalenjin -->
+    <item>ຄາເລັນຈິນ</item>
+    <!-- km - Khmer -->
+    <item>ຂະເໝນ</item>
+    <!-- kmb - Kimbundu -->
+    <item>ຄິມບັນດູ</item>
+    <!-- kn - Kannada -->
+    <item>ຄັນນາດາ</item>
+    <!-- ko - Korean -->
+    <item>ເກົາຫລີ</item>
+    <!-- kok - Konkani -->
+    <item>ກອນການີ</item>
+    <!-- kos - Kosraean -->
+    <item>ຄູສໄລ</item>
+    <!-- kpe - Kpelle -->
+    <item>ກາແປຣ</item>
+    <!-- kr - Kanuri -->
+    <item>ຄານຸລິ</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>ກາຣາໄຊ-ບານກາ</item>
+    <!-- krl - Karelian -->
+    <item>ກາເຣລຽນ</item>
+    <!-- kru - Kurukh -->
+    <item>ກູຣູກ</item>
+    <!-- ks - Kashmiri -->
+    <item>ຄັດຊະມີຣີ</item>
+    <!-- ksb - Shambala -->
+    <item>ຊຳບາລ້າ</item>
+    <!-- ksf - Bafia -->
+    <item>ບາເຝຍ</item>
+    <!-- ksh - Colognian -->
+    <item>ໂຄລອກນຽນ</item>
+    <!-- ku - Kurdish -->
+    <item>ເຄີດິສ</item>
+    <!-- kum - Kumyk -->
+    <item>ຄູມີກ</item>
+    <!-- kut - Kutenai -->
+    <item>ຄູເທໄນ</item>
+    <!-- kv - Komi -->
+    <item>ໂຄມິ</item>
+    <!-- kw - Cornish -->
+    <item>ຄໍນິຊ</item>
+    <!-- ky - Kyrgyz -->
+    <item>ເກຍກີສ</item>
+    <!-- la - Latin -->
+    <item>ລາຕິນ</item>
+    <!-- lad - Ladino -->
+    <item>ລາດີໂນ</item>
+    <!-- lag - Langi -->
+    <item>ແລນກິ</item>
+    <!-- lah - Lahnda -->
+    <item>ລານດາ</item>
+    <!-- lam - Lamba -->
+    <item>ແລມບາ</item>
+    <!-- lb - Luxembourgish -->
+    <item>ລັກເຊມບວກກິຊ</item>
+    <!-- lez - Lezghian -->
+    <item>ລີຊຽນ</item>
+    <!-- lg - Ganda -->
+    <item>ແກນດາ</item>
+    <!-- li - Limburgish -->
+    <item>ລິມເບີກີຊ</item>
+    <!-- ln - Lingala -->
+    <item>ລິງກາລາ</item>
+    <!-- lo - Lao -->
+    <item>ລາວ</item>
+    <!-- lol - Mongo -->
+    <item>ແມັງໂກ້</item>
+    <!-- loz - Lozi -->
+    <item>ໂລຊິ</item>
+    <!-- lt - Lithuanian -->
+    <item>ລີທົວນຽນ</item>
+    <!-- lu - Luba-Katanga -->
+    <item>ລູບາ-ຄາຕັງກາ</item>
+    <!-- lua - Luba-Lulua -->
+    <item>ລູບາ-ລູລົວ</item>
+    <!-- lui - Luiseno -->
+    <item>ລູເຊໂນ</item>
+    <!-- lun - Lunda -->
+    <item>ລຸນດາ</item>
+    <!-- luo - Luo -->
+    <item>ລົວ</item>
+    <!-- lus - Mizo -->
+    <item>ລູໄຊ</item>
+    <!-- luy - Luyia -->
+    <item>ລູໄຍ</item>
+    <!-- lv - Latvian -->
+    <item>ລັດວຽນ</item>
+    <!-- mad - Madurese -->
+    <item>ມາດູລາ</item>
+    <!-- maf - Mafa -->
+    <item>ມາຟາ</item>
+    <!-- mag - Magahi -->
+    <item>ມາກາຮິ</item>
+    <!-- mai - Maithili -->
+    <item>ໄມທີລິ</item>
+    <!-- mak - Makasar -->
+    <item>ມາກາຊາຣ</item>
+    <!-- man - Mandingo -->
+    <item>ມັນດິງກາ</item>
+    <!-- mas - Masai -->
+    <item>ມາໄຊ</item>
+    <!-- mde - Maba -->
+    <item>ມາບາ</item>
+    <!-- mdf - Moksha -->
+    <item>ມອກຊາ</item>
+    <!-- mdr - Mandar -->
+    <item>ມານດາຣ</item>
+    <!-- men - Mende -->
+    <item>ເມນເດ</item>
+    <!-- mer - Meru -->
+    <item>ເມລູ</item>
+    <!-- mfe - Morisyen -->
+    <item>ມໍລິສເຍນ</item>
+    <!-- mg - Malagasy -->
+    <item>ມາລາກາສຊີ</item>
+    <!-- mga - Middle Irish -->
+    <item>ໄອລິດກາງ</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>ມາຄູວາ-ມີດໂຕ</item>
+    <!-- mh - Marshallese -->
+    <item>ມາຊານເລັດ</item>
+    <!-- mi - Maori -->
+    <item>ມາວຣິ</item>
+    <!-- mic - Micmac -->
+    <item>ມິກແມກ</item>
+    <!-- min - Minangkabau -->
+    <item>ທີແນງກາບູ</item>
+    <!-- mk - Macedonian -->
+    <item>ແມັກເຊໂດນຽນ</item>
+    <!-- ml - Malayalam -->
+    <item>ມາເລອາລຳ</item>
+    <!-- mn - Mongolian -->
+    <item>ມ່ອງໂກເລ້ຍ</item>
+    <!-- mnc - Manchu -->
+    <item>ແມນຈູ</item>
+    <!-- mni - Manipuri -->
+    <item>ມານີພູຣິ</item>
+    <!-- moh - Mohawk -->
+    <item>ໂມຫາ</item>
+    <!-- mos - Mossi -->
+    <item>ມອສຊີ</item>
+    <!-- mr - Marathi -->
+    <item>ມາຣາທິ</item>
+    <!-- ms - Malay -->
+    <item>ມາເລ</item>
+    <!-- mt - Maltese -->
+    <item>ມອລທີສ</item>
+    <!-- mua - Mundang -->
+    <item>ມັນດັງ</item>
+    <!-- mul - Multiple Languages -->
+    <item>ຫລາຍພາສາ</item>
+    <!-- mus - Creek -->
+    <item>ຄຣິກ</item>
+    <!-- mwl - Mirandese -->
+    <item>ມີລັນດາ</item>
+    <!-- mwr - Marwari -->
+    <item>ມາວາຣິ</item>
+    <!-- my - Burmese -->
+    <item>ມຽນມາ</item>
+    <!-- mye - Myene -->
+    <item>ມໍຢິນ</item>
+    <!-- myv - Erzya -->
+    <item>ເອີຍາ</item>
+    <!-- na - Nauru -->
+    <item>ນາຢູລູ</item>
+    <!-- nap - Neapolitan -->
+    <item>ນາໂປລີ</item>
+    <!-- naq - Nama -->
+    <item>ນາມາ</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>ນໍເວຈຽນ ບັອກມອລ</item>
+    <!-- nd - North Ndebele -->
+    <item>ເອັນເດເບເລເໜືອ</item>
+    <!-- nds - Low German -->
+    <item>ເຢຍລະມັນຕ່ຳ ແຊກຊອນຕໍ່ຳ</item>
+    <!-- ne - Nepali -->
+    <item>ເນປາລີ</item>
+    <!-- new - Newari -->
+    <item>ນີວາຣິ</item>
+    <!-- ng - Ndonga -->
+    <item>ເອັນດອງກາ</item>
+    <!-- nia - Nias -->
+    <item>ນີ່ອັດ</item>
+    <!-- niu - Niuean -->
+    <item>ນີ່ອູ</item>
+    <!-- nl - Dutch -->
+    <item>ດັຊ</item>
+    <!-- nl_BE - Flemish -->
+    <item>ຟລີມິຊ</item>
+    <!-- nmg - Kwasio -->
+    <item>ກວາຊີໂອ</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ນໍເວຈຽນ ນີນອກ</item>
+    <!-- nnh - Ngiemboon -->
+    <item>ຈີ່ມບູນ</item>
+    <!-- no - Norwegian -->
+    <item>ນໍເວຍ</item>
+    <!-- nog - Nogai -->
+    <item>ນໍໄກ</item>
+    <!-- non - Old Norse -->
+    <item>ນໍໂບຮານ</item>
+    <!-- nqo - N’Ko -->
+    <item>ເອັນໂກ</item>
+    <!-- nr - South Ndebele -->
+    <item>ນີບີລີໃຕ້</item>
+    <!-- nso - Northern Sotho -->
+    <item>ໂຊໂທເໜືອ</item>
+    <!-- nus - Nuer -->
+    <item>ເນີ</item>
+    <!-- nv - Navajo -->
+    <item>ນາວາໂຈ</item>
+    <!-- nwc - Classical Newari -->
+    <item>ເນວາດັ້ງເດີມ</item>
+    <!-- ny - Nyanja -->
+    <item>ນານຈາ</item>
+    <!-- nym - Nyamwezi -->
+    <item>ນາມວີຊິ</item>
+    <!-- nyn - Nyankole -->
+    <item>ນານຄອນ</item>
+    <!-- nyo - Nyoro -->
+    <item>ໂນໂຣ</item>
+    <!-- nzi - Nzima -->
+    <item>ນິມາ</item>
+    <!-- oc - Occitan -->
+    <item>ອັອກຊີຕານ</item>
+    <!-- oj - Ojibwa -->
+    <item>ໂອຈິບວາ</item>
+    <!-- om - Oromo -->
+    <item>ໂອໂລໂມ</item>
+    <!-- or - Oriya -->
+    <item>ໂອຣິຢາ</item>
+    <!-- os - Ossetic -->
+    <item>ອອດເຊຕິກ</item>
+    <!-- osa - Osage -->
+    <item>ໂອແຊກ</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>ຕູກີອອດໂຕມັນ</item>
+    <!-- pa - Punjabi -->
+    <item>ປັນຈາບີ</item>
+    <!-- pag - Pangasinan -->
+    <item>ປານກາຊີມານ</item>
+    <!-- pal - Pahlavi -->
+    <item>ພາລາວີ</item>
+    <!-- pam - Pampanga -->
+    <item>ປາມປານກາ</item>
+    <!-- pap - Papiamento -->
+    <item>ປາມເປຍເມັນໂທ</item>
+    <!-- pau - Palauan -->
+    <item>ປາລົວອານ</item>
+    <!-- peo - Old Persian -->
+    <item>ເປີເຊຍໂບຮານ</item>
+    <!-- phn - Phoenician -->
+    <item>ຟີນີເຊຍ</item>
+    <!-- pi - Pali -->
+    <item>ປາລີ</item>
+    <!-- pl - Polish -->
+    <item>ໂປລິຊ</item>
+    <!-- pon - Pohnpeian -->
+    <item>ພອນເພ</item>
+    <!-- pro - Old Provençal -->
+    <item>ໂປວອງຊານໂບຮານ</item>
+    <!-- ps - Pashto -->
+    <item>ປາສໂຕ</item>
+    <!-- pt - Portuguese -->
+    <item>ປໍຕູກີສ</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>ບຣາຊິລຽນ ປໍຕູກີສ</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ຢູໂຣປຽນ ປໍຕູກີສ</item>
+    <!-- qu - Quechua -->
+    <item>ຄີຊົວ</item>
+    <!-- raj - Rajasthani -->
+    <item>ຣາຈັສທານິ</item>
+    <!-- rap - Rapanui -->
+    <item>ຣາປານຸຍ</item>
+    <!-- rar - Rarotongan -->
+    <item>ຣາໂຣທອນການ</item>
+    <!-- rm - Romansh -->
+    <item>ໂຣແມນ</item>
+    <!-- rn - Rundi -->
+    <item>ບຸລຸນດີ</item>
+    <!-- ro - Romanian -->
+    <item>ໂຣແມນຽນ</item>
+    <!-- ro_MD - Moldavian -->
+    <item>ໂມດາເວຍ</item>
+    <!-- rof - Rombo -->
+    <item>ຣົມໂບ</item>
+    <!-- rom - Romany -->
+    <item>ໂຣເມນີ</item>
+    <!-- root - Root -->
+    <item>ລູດ</item>
+    <!-- ru - Russian -->
+    <item>ຣັດຊຽນ</item>
+    <!-- rup - Aromanian -->
+    <item>ອາໂຣມານຽນ</item>
+    <!-- rw - Kinyarwanda -->
+    <item>ຄິນຢາວານດາ</item>
+    <!-- rwk - Rwa -->
+    <item>ອາຣວາ</item>
+    <!-- sa - Sanskrit -->
+    <item>ສັນສະກິດ</item>
+    <!-- sad - Sandawe -->
+    <item>ຊັນດາວ</item>
+    <!-- sah - Sakha -->
+    <item>ຊາກາ</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>ສາມາຣິແຕນ-</item>
+    <!-- saq - Samburu -->
+    <item>ຊຳບູລູ</item>
+    <!-- sas - Sasak -->
+    <item>ຊາຊັກ</item>
+    <!-- sat - Santali -->
+    <item>ຊານທາລິ</item>
+    <!-- sba - Ngambay -->
+    <item>ກຳເບ</item>
+    <!-- sbp - Sangu -->
+    <item>ຊານກູ</item>
+    <!-- sc - Sardinian -->
+    <item>ສາດີນຽນ</item>
+    <!-- scn - Sicilian -->
+    <item>ຊີຊິລີນ</item>
+    <!-- sco - Scots -->
+    <item>ສກອດ</item>
+    <!-- sd - Sindhi -->
+    <item>ສິນທິ</item>
+    <!-- se - Northern Sami -->
+    <item>ຊາມິເໜືອ</item>
+    <!-- see - Seneca -->
+    <item>ຊີນີກາ</item>
+    <!-- seh - Sena -->
+    <item>ຊີນາ</item>
+    <!-- sel - Selkup -->
+    <item>ເຊນຄັບ</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>ໂຄຣຍລາໂບໂລເຊນນິ</item>
+    <!-- sg - Sango -->
+    <item>ແຊງໂກ</item>
+    <!-- sga - Old Irish -->
+    <item>ອີຣິຊເກົ່າ</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>ເຊີໂບ-ໂກເຊຍ</item>
+    <!-- shi - Tachelhit -->
+    <item>ທາເຊວຫິດ</item>
+    <!-- shn - Shan -->
+    <item>ໄທໃຫ່ຍ</item>
+    <!-- shu - Chadian Arabic -->
+    <item>ອາລັບ-ຊາດ</item>
+    <!-- si - Sinhala -->
+    <item>ສິນຫາລາ</item>
+    <!-- sid - Sidamo -->
+    <item>ຊິດາໂມ</item>
+    <!-- sk - Slovak -->
+    <item>ສະໂລແວັກ</item>
+    <!-- sl - Slovenian -->
+    <item>ສະໂລເວນຽນ</item>
+    <!-- sm - Samoan -->
+    <item>ຊາມົວ</item>
+    <!-- sma - Southern Sami -->
+    <item>ຊາມິໃຕ້</item>
+    <!-- smj - Lule Sami -->
+    <item>ລຸນຊາມິ</item>
+    <!-- smn - Inari Sami -->
+    <item>ອີນາຣິຊາມິ</item>
+    <!-- sms - Skolt Sami -->
+    <item>ສກອດຊາມິ</item>
+    <!-- sn - Shona -->
+    <item>ໂຊຣນາ</item>
+    <!-- snk - Soninke -->
+    <item>ໂຊນິນກີ</item>
+    <!-- so - Somali -->
+    <item>ໂຊມາລີ</item>
+    <!-- sog - Sogdien -->
+    <item>ຊອກດິນ</item>
+    <!-- sq - Albanian -->
+    <item>ອານບານຽນ</item>
+    <!-- sr - Serbian -->
+    <item>ເຊີບຽນ</item>
+    <!-- srn - Sranan Tongo -->
+    <item>ສຣານນານຕອນໂກ</item>
+    <!-- srr - Serer -->
+    <item>ເຊເລີ</item>
+    <!-- ss - Swati -->
+    <item>ຊຣາຕິ</item>
+    <!-- ssy - Saho -->
+    <item>ຊາໂຮ</item>
+    <!-- st - Southern Sotho -->
+    <item>ໂຊໂທໃຕ້</item>
+    <!-- su - Sundanese -->
+    <item>ຊຸນແດນນີສ</item>
+    <!-- suk - Sukuma -->
+    <item>ຊູຄູມ້າ</item>
+    <!-- sus - Susu -->
+    <item>ຊູຊູ</item>
+    <!-- sux - Sumerian -->
+    <item>ຊູເມີເລຍ</item>
+    <!-- sv - Swedish -->
+    <item>ສະວີດິຊ</item>
+    <!-- sw - Swahili -->
+    <item>ຊວາຮີລິ</item>
+    <!-- swb - Comorian -->
+    <item>ໂຄໂນຣຽນ</item>
+    <!-- swc - Congo Swahili -->
+    <item>ຊາວາຮີລີ-ຄອງໂກ</item>
+    <!-- syc - Classical Syriac -->
+    <item>ຊີເລຍແບບດັ້ງເດີມ</item>
+    <!-- syr - Syriac -->
+    <item>ຊີເລຍ</item>
+    <!-- ta - Tamil -->
+    <item>ທາມິວ</item>
+    <!-- te - Telugu -->
+    <item>ເຕລູກູ</item>
+    <!-- tem - Timne -->
+    <item>ທີມເນ</item>
+    <!-- teo - Teso -->
+    <item>ເຕໂຊ</item>
+    <!-- ter - Tereno -->
+    <item>ເຕເລໂນ</item>
+    <!-- tet - Tetum -->
+    <item>ເຕຕູມ</item>
+    <!-- tg - Tajik -->
+    <item>ທາຈິກ</item>
+    <!-- th - Thai -->
+    <item>ໄທ</item>
+    <!-- ti - Tigrinya -->
+    <item>ຕິກຣິນຢາ</item>
+    <!-- tig - Tigre -->
+    <item>ໄທກຣີ</item>
+    <!-- tiv - Tiv -->
+    <item>ຕີວ</item>
+    <!-- tk - Turkmen -->
+    <item>ເທີກເມັນ</item>
+    <!-- tkl - Tokelau -->
+    <item>ໂຕເກເລົາ</item>
+    <!-- tl - Tagalog -->
+    <item>ຕາກາລອກ</item>
+    <!-- tlh - Klingon -->
+    <item>ຄຣິງກອນ</item>
+    <!-- tli - Tlingit -->
+    <item>ທລີງກິດ</item>
+    <!-- tmh - Tamashek -->
+    <item>ທາມາກເຊກ</item>
+    <!-- tn - Tswana -->
+    <item>ເຕສະວານາ</item>
+    <!-- to - Tongan -->
+    <item>ທອງກັນ</item>
+    <!-- tog - Nyasa Tonga -->
+    <item>ນາຍອາຊາຕອງກາ</item>
+    <!-- tpi - Tok Pisin -->
+    <item>ທອກພີຊິນ</item>
+    <!-- tr - Turkish -->
+    <item>ເທີຄິຊ</item>
+    <!-- trv - Taroko -->
+    <item>ຕາໂລໂກ</item>
+    <!-- ts - Tsonga -->
+    <item>ເຕຊອງກາ</item>
+    <!-- tsi - Tsimshian -->
+    <item>ຊີມຊີແອນ</item>
+    <!-- tt - Tatar -->
+    <item>ທາທາ</item>
+    <!-- tum - Tumbuka -->
+    <item>ຕຳບູກາ</item>
+    <!-- tvl - Tuvalu -->
+    <item>ຕູວາລູ</item>
+    <!-- tw - Twi -->
+    <item>ທວີ</item>
+    <!-- twq - Tasawaq -->
+    <item>ຕາຊາວາ</item>
+    <!-- ty - Tahitian -->
+    <item>ຕາຮີຕຽນ</item>
+    <!-- tyv - Tuvinian -->
+    <item>ຕູວີນຽນ</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>ເບີເບີຣ-ໂມລະໂຄກາງ</item>
+    <!-- udm - Udmurt -->
+    <item>ອຸດມັດ</item>
+    <!-- ug - Uyghur -->
+    <item>ອຸຍເຄີ</item>
+    <!-- uga - Ugaritic -->
+    <item>ຢູກາລິກ</item>
+    <!-- uk - Ukrainian -->
+    <item>ຢູເຄຣນຽນ</item>
+    <!-- umb - Umbundu -->
+    <item>ອຳບັນດູ</item>
+    <!-- und - Unknown Language -->
+    <item>ບໍ່ສາມາດລະບຸພາສາ</item>
+    <!-- ur - Urdu -->
+    <item>ອູຣະດູ</item>
+    <!-- uz - Uzbek -->
+    <item>ອຸສເບກ</item>
+    <!-- vai - Vai -->
+    <item>ໄວ</item>
+    <!-- ve - Venda -->
+    <item>ເວນດາ</item>
+    <!-- vi - Vietnamese -->
+    <item>ຫວຽດນາມ</item>
+    <!-- vo - Volapük -->
+    <item>ໂວລາພັກ</item>
+    <!-- vot - Votic -->
+    <item>ໂວຕິກ</item>
+    <!-- vun - Vunjo -->
+    <item>ວັນໂຈ</item>
+    <!-- wa - Walloon -->
+    <item>ວໍລູມ</item>
+    <!-- wae - Walser -->
+    <item>ວາເຊີ</item>
+    <!-- wal - Wolaytta -->
+    <item>ວາລາໂມ</item>
+    <!-- war - Waray -->
+    <item>ວາເລ</item>
+    <!-- was - Washo -->
+    <item>ວາໂຊ</item>
+    <!-- wo - Wolof -->
+    <item>ວໍລອບ</item>
+    <!-- xal - Kalmyk -->
+    <item>ການມິກ</item>
+    <!-- xh - Xhosa -->
+    <item>ໂຮຊາ</item>
+    <!-- xog - Soga -->
+    <item>ໂຊກາ</item>
+    <!-- yao - Yao -->
+    <item>ເຢົ້າ</item>
+    <!-- yap - Yapese -->
+    <item>ຢັບ</item>
+    <!-- yav - Yangben -->
+    <item>ແຍງເບນ</item>
+    <!-- ybb - Yemba -->
+    <item>ແຢມບາ</item>
+    <!-- yi - Yiddish -->
+    <item>ຢິວ</item>
+    <!-- yo - Yoruba -->
+    <item>ໂຢຣູບາ</item>
+    <!-- yue - Cantonese -->
+    <item>ກວາງຕຸ້ງ</item>
+    <!-- za - Zhuang -->
+    <item>ຊວາງ</item>
+    <!-- zap - Zapotec -->
+    <item>ຊາໂປແຕບ</item>
+    <!-- zbl - Blissymbols -->
+    <item>ສັນຍາລັກບລີຊິມ</item>
+    <!-- zen - Zenaga -->
+    <item>ເຊນາກາ</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ໂມຣັອກແຄນ ທາມາຊີກ ມາດຕະຖານ</item>
+    <!-- zh - Chinese -->
+    <item>ຈີນ</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>ຈີນແບບຮຽບງ່າຍ</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>ຈີນແບບດັ້ງເດີມ</item>
+    <!-- zu - Zulu -->
+    <item>ຊູລູ</item>
+    <!-- zun - Zuni -->
+    <item>ຊູນີ</item>
+    <!-- zxx - No linguistic content -->
+    <item>ບໍ່ມີເນື້ອຫາພາສາ</item>
+    <!-- zza - Zaza -->
+    <item>ຊາຊາ</item>
+  </string-array>
+</resources>

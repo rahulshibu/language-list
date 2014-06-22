@@ -109,10 +109,6 @@
     <name>bachkir</name>
   </language>
   <language>
-    <code>bad</code>
-    <name>banda</name>
-  </language>
-  <language>
     <code>bal</code>
     <name>baloutchi</name>
   </language>
@@ -125,10 +121,6 @@
     <name>basaa</name>
   </language>
   <language>
-    <code>bat</code>
-    <name>balteg</name>
-  </language>
-  <language>
     <code>be</code>
     <name>belaruseg</name>
   </language>
@@ -137,20 +129,12 @@
     <name>bemba</name>
   </language>
   <language>
-    <code>ber</code>
-    <name>berbereg</name>
-  </language>
-  <language>
     <code>bez</code>
     <name>bena</name>
   </language>
   <language>
     <code>bg</code>
     <name>bulgareg</name>
-  </language>
-  <language>
-    <code>bh</code>
-    <name>bihari</name>
   </language>
   <language>
     <code>bho</code>
@@ -197,10 +181,6 @@
     <name>bosneg</name>
   </language>
   <language>
-    <code>btk</code>
-    <name>batak</name>
-  </language>
-  <language>
     <code>bua</code>
     <name>bouriat</name>
   </language>
@@ -231,10 +211,6 @@
   <language>
     <code>ceb</code>
     <name>cebuano</name>
-  </language>
-  <language>
-    <code>cel</code>
-    <name>keltieg</name>
   </language>
   <language>
     <code>ch</code>
@@ -315,10 +291,6 @@
   <language>
     <code>dar</code>
     <name>dargwa</name>
-  </language>
-  <language>
-    <code>day</code>
-    <name>dayak</name>
   </language>
   <language>
     <code>de</code>
@@ -465,10 +437,6 @@
     <name>filipineg</name>
   </language>
   <language>
-    <code>fiu</code>
-    <name>finneg-ougrieg</name>
-  </language>
-  <language>
     <code>fj</code>
     <name>fidjieg</name>
   </language>
@@ -535,10 +503,6 @@
   <language>
     <code>gd</code>
     <name>skoseg</name>
-  </language>
-  <language>
-    <code>gem</code>
-    <name>germaneg</name>
   </language>
   <language>
     <code>gez</code>
@@ -609,10 +573,6 @@
     <name>hiligaynon</name>
   </language>
   <language>
-    <code>him</code>
-    <name>himachali</name>
-  </language>
-  <language>
     <code>hmn</code>
     <name>hmong</name>
   </language>
@@ -673,16 +633,8 @@
     <name>igbo</name>
   </language>
   <language>
-    <code>ijo</code>
-    <name>ijo</name>
-  </language>
-  <language>
     <code>ik</code>
     <name>inupiaq</name>
-  </language>
-  <language>
-    <code>ine</code>
-    <name>indezeuropeg</name>
   </language>
   <language>
     <code>inh</code>
@@ -739,10 +691,6 @@
   <language>
     <code>kam</code>
     <name>kamba</name>
-  </language>
-  <language>
-    <code>kar</code>
-    <name>karen</name>
   </language>
   <language>
     <code>kbd</code>
@@ -985,10 +933,6 @@
     <name>manipuri</name>
   </language>
   <language>
-    <code>mo</code>
-    <name>moldoveg</name>
-  </language>
-  <language>
     <code>moh</code>
     <name>mohawk</name>
   </language>
@@ -1017,20 +961,12 @@
     <name>birmaneg</name>
   </language>
   <language>
-    <code>myn</code>
-    <name>mayaeg</name>
-  </language>
-  <language>
     <code>myv</code>
     <name>erza</name>
   </language>
   <language>
     <code>na</code>
     <name>naurueg</name>
-  </language>
-  <language>
-    <code>nah</code>
-    <name>nahuatl</name>
   </language>
   <language>
     <code>nap</code>
@@ -1225,6 +1161,10 @@
     <name>roumaneg</name>
   </language>
   <language>
+    <code>ro_MD</code>
+    <name>moldoveg</name>
+  </language>
+  <language>
     <code>rof</code>
     <name>rombo</name>
   </language>
@@ -1285,20 +1225,12 @@
     <name>sámi an Norzh</name>
   </language>
   <language>
-    <code>sem</code>
-    <name>semiteg</name>
-  </language>
-  <language>
     <code>sg</code>
     <name>sango</name>
   </language>
   <language>
     <code>sga</code>
     <name>heniwerzhoneg</name>
-  </language>
-  <language>
-    <code>sgn</code>
-    <name>yezh ar sinoù</name>
   </language>
   <language>
     <code>sh</code>
@@ -1325,20 +1257,12 @@
     <name>sloveneg</name>
   </language>
   <language>
-    <code>sla</code>
-    <name>slaveg</name>
-  </language>
-  <language>
     <code>sm</code>
     <name>samoan</name>
   </language>
   <language>
     <code>sma</code>
     <name>sámi ar Su</name>
-  </language>
-  <language>
-    <code>smi</code>
-    <name>sámi</name>
   </language>
   <language>
     <code>smj</code>
@@ -1367,10 +1291,6 @@
   <language>
     <code>sog</code>
     <name>sogdieg</name>
-  </language>
-  <language>
-    <code>son</code>
-    <name>songhai</name>
   </language>
   <language>
     <code>sq</code>
@@ -1515,10 +1435,6 @@
   <language>
     <code>tum</code>
     <name>tumbuka</name>
-  </language>
-  <language>
-    <code>tut</code>
-    <name>altaieg</name>
   </language>
   <language>
     <code>tvl</code>

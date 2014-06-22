@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Greek (el) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>Αφάρ</item>
+    <!-- ab - Abkhazian -->
+    <item>Αμπχαζικά</item>
+    <!-- ace - Achinese -->
+    <item>Αχινίζ</item>
+    <!-- ach - Acoli -->
+    <item>Ακολί</item>
+    <!-- ada - Adangme -->
+    <item>Αντάνγκμε</item>
+    <!-- ady - Adyghe -->
+    <item>Αντιγκέα</item>
+    <!-- ae - Avestan -->
+    <item>Αβεστάν</item>
+    <!-- af - Afrikaans -->
+    <item>Αφρικάανς</item>
+    <!-- afh - Afrihili -->
+    <item>Αφριχίλι</item>
+    <!-- agq - Aghem -->
+    <item>Αγκέμ</item>
+    <!-- ain - Ainu -->
+    <item>Αϊνού</item>
+    <!-- ak - Akan -->
+    <item>Ακάν</item>
+    <!-- akk - Akkadian -->
+    <item>Ακάντιαν</item>
+    <!-- ale - Aleut -->
+    <item>Αλούτ</item>
+    <!-- alt - Southern Altai -->
+    <item>Νότια Αλαταϊκά</item>
+    <!-- am - Amharic -->
+    <item>Αμαρικά</item>
+    <!-- an - Aragonese -->
+    <item>Αραγκονικά</item>
+    <!-- ang - Old English -->
+    <item>Παλαιά Αγγλικά</item>
+    <!-- anp - Angika -->
+    <item>Ανγκικά</item>
+    <!-- ar - Arabic -->
+    <item>Αραβικά</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>Σύγχρονα Τυπικά Αραβικά</item>
+    <!-- arc - Aramaic -->
+    <item>Αραμαϊκά</item>
+    <!-- arn - Mapuche -->
+    <item>Αρουκάνιαν</item>
+    <!-- arp - Arapaho -->
+    <item>Αράπαχο</item>
+    <!-- arw - Arawak -->
+    <item>Αραγουάκ</item>
+    <!-- as - Assamese -->
+    <item>Ασαμεζικά</item>
+    <!-- asa - Asu -->
+    <item>Άσου</item>
+    <!-- ast - Asturian -->
+    <item>Αστουριανά</item>
+    <!-- av - Avaric -->
+    <item>Άβαρικ</item>
+    <!-- awa - Awadhi -->
+    <item>Αγουαντί</item>
+    <!-- ay - Aymara -->
+    <item>Αϊμάρα</item>
+    <!-- az - Azerbaijani -->
+    <item>Αζερικά</item>
+    <!-- ba - Bashkir -->
+    <item>Μπασκίρ</item>
+    <!-- bal - Baluchi -->
+    <item>Μπαλούτσι</item>
+    <!-- ban - Balinese -->
+    <item>Μπαλινίζ</item>
+    <!-- bas - Basaa -->
+    <item>Μπάσα</item>
+    <!-- bax - Bamun -->
+    <item>Μπαμούν</item>
+    <!-- bbj - Ghomala -->
+    <item>Γκομάλα</item>
+    <!-- be - Belarusian -->
+    <item>Λευκορωσικά</item>
+    <!-- bej - Beja -->
+    <item>Μπέζα</item>
+    <!-- bem - Bemba -->
+    <item>Μπέμπα</item>
+    <!-- bez - Bena -->
+    <item>Μπένα</item>
+    <!-- bfd - Bafut -->
+    <item>Μπαφούτ</item>
+    <!-- bg - Bulgarian -->
+    <item>Βουλγαρικά</item>
+    <!-- bho - Bhojpuri -->
+    <item>Μποζπούρι</item>
+    <!-- bi - Bislama -->
+    <item>Μπισλάμα</item>
+    <!-- bik - Bikol -->
+    <item>Μπικόλ</item>
+    <!-- bin - Bini -->
+    <item>Μπίνι</item>
+    <!-- bkm - Kom -->
+    <item>Κομ</item>
+    <!-- bla - Siksika -->
+    <item>Σικσίκα</item>
+    <!-- bm - Bambara -->
+    <item>Μπαμπάρα</item>
+    <!-- bn - Bengali -->
+    <item>Μπενγκάλι</item>
+    <!-- bo - Tibetan -->
+    <item>Θιβετιανά</item>
+    <!-- br - Breton -->
+    <item>Βρετονικά</item>
+    <!-- bra - Braj -->
+    <item>Μπρατζ</item>
+    <!-- brx - Bodo -->
+    <item>Μπόντο</item>
+    <!-- bs - Bosnian -->
+    <item>Βοσνιακά</item>
+    <!-- bss - Akoose -->
+    <item>Ακόσι</item>
+    <!-- bua - Buriat -->
+    <item>Μπουριάτ</item>
+    <!-- bug - Buginese -->
+    <item>Μπουγκίζ</item>
+    <!-- bum - Bulu -->
+    <item>Μπουλού</item>
+    <!-- byn - Blin -->
+    <item>Μπλιν</item>
+    <!-- byv - Medumba -->
+    <item>Μεντούμπα</item>
+    <!-- ca - Catalan -->
+    <item>Καταλανικά</item>
+    <!-- cad - Caddo -->
+    <item>Κάντο</item>
+    <!-- car - Carib -->
+    <item>Καρίμπ</item>
+    <!-- cay - Cayuga -->
+    <item>Καγιούγκα</item>
+    <!-- cch - Atsam -->
+    <item>Ατσάμ</item>
+    <!-- ce - Chechen -->
+    <item>Τσέτσνιαν</item>
+    <!-- ceb - Cebuano -->
+    <item>Κεμπουάνο</item>
+    <!-- cgg - Chiga -->
+    <item>Τσίγκα</item>
+    <!-- ch - Chamorro -->
+    <item>Καμόρρο</item>
+    <!-- chb - Chibcha -->
+    <item>Τσίμπτσα</item>
+    <!-- chg - Chagatai -->
+    <item>Τσαγκατάι</item>
+    <!-- chk - Chuukese -->
+    <item>Τσουκίζι</item>
+    <!-- chm - Mari -->
+    <item>Μάρι</item>
+    <!-- chn - Chinook Jargon -->
+    <item>Ιδιωματικά Σινούκ</item>
+    <!-- cho - Choctaw -->
+    <item>Τσοκτάου</item>
+    <!-- chp - Chipewyan -->
+    <item>Τσίπιουαν</item>
+    <!-- chr - Cherokee -->
+    <item>Τσερόκι</item>
+    <!-- chy - Cheyenne -->
+    <item>Σεγιέν</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>Κουρδικά Σοράνι</item>
+    <!-- co - Corsican -->
+    <item>Κορσικανικά</item>
+    <!-- cop - Coptic -->
+    <item>Κοπτικά</item>
+    <!-- cr - Cree -->
+    <item>Κρι</item>
+    <!-- crh - Crimean Turkish -->
+    <item>Τουρκικά Κριμαίας</item>
+    <!-- cs - Czech -->
+    <item>Τσεχικά</item>
+    <!-- csb - Kashubian -->
+    <item>Κασούμπιαν</item>
+    <!-- cu - Church Slavic -->
+    <item>Εκκλησιαστικά Σλαβικά</item>
+    <!-- cv - Chuvash -->
+    <item>Χουβάς</item>
+    <!-- cy - Welsh -->
+    <item>Ουαλικά</item>
+    <!-- da - Danish -->
+    <item>Δανικά</item>
+    <!-- dak - Dakota -->
+    <item>Ντακότα</item>
+    <!-- dar - Dargwa -->
+    <item>Ντάργκουα</item>
+    <!-- dav - Taita -->
+    <item>Τάιτα</item>
+    <!-- de - German -->
+    <item>Γερμανικά</item>
+    <!-- de_AT - Austrian German -->
+    <item>Γερμανικά Αυστρίας</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Γερμανικά Ελβετίας</item>
+    <!-- del - Delaware -->
+    <item>Ντέλαγουερ</item>
+    <!-- den - Slave -->
+    <item>Σλαβικά</item>
+    <!-- dgr - Dogrib -->
+    <item>Ντόγκριμπ</item>
+    <!-- din - Dinka -->
+    <item>Ντίνκα</item>
+    <!-- dje - Zarma -->
+    <item>Ζάρμα</item>
+    <!-- doi - Dogri -->
+    <item>Ντόγκρι</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>Γλώσσα Κάτω Λουσατίας</item>
+    <!-- dua - Duala -->
+    <item>Ντουάλα</item>
+    <!-- dum - Middle Dutch -->
+    <item>Μέσα Ολλανδικά</item>
+    <!-- dv - Divehi -->
+    <item>Ντιβέχι</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>Τζόλα-Φόνι</item>
+    <!-- dyu - Dyula -->
+    <item>Ντογιούλα</item>
+    <!-- dz - Dzongkha -->
+    <item>Ντζόνγκχα</item>
+    <!-- dzg - Dazaga -->
+    <item>Νταζάγκα</item>
+    <!-- ebu - Embu -->
+    <item>Έμπου</item>
+    <!-- ee - Ewe -->
+    <item>Γι</item>
+    <!-- efi - Efik -->
+    <item>Εφίκ</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>Αρχαία Αιγυπτιακά</item>
+    <!-- eka - Ekajuk -->
+    <item>Εκατζούκ</item>
+    <!-- el - Greek -->
+    <item>Ελληνικά</item>
+    <!-- elx - Elamite -->
+    <item>Ελαμάιτ</item>
+    <!-- en - English -->
+    <item>Αγγλικά</item>
+    <!-- en_AU - Australian English -->
+    <item>Αγγλικά Αυστραλίας</item>
+    <!-- en_CA - Canadian English -->
+    <item>Αγγλικά Καναδά</item>
+    <!-- en_GB - British English -->
+    <item>Αγγλικά Ηνωμένου Βασιλείου</item>
+    <!-- en_US - American English -->
+    <item>Αγγλικά Αμερικής</item>
+    <!-- enm - Middle English -->
+    <item>Μέσα Αγγλικά</item>
+    <!-- eo - Esperanto -->
+    <item>Εσπεράντο</item>
+    <!-- es - Spanish -->
+    <item>Ισπανικά</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Ισπανικά Λατινικής Αμερικής</item>
+    <!-- es_ES - European Spanish -->
+    <item>Ισπανικά Ευρώπης</item>
+    <!-- et - Estonian -->
+    <item>Εσθονικά</item>
+    <!-- eu - Basque -->
+    <item>Βασκικά</item>
+    <!-- ewo - Ewondo -->
+    <item>Εγουόντο</item>
+    <!-- fa - Persian -->
+    <item>Περσικά</item>
+    <!-- fan - Fang -->
+    <item>Φανγκ</item>
+    <!-- fat - Fanti -->
+    <item>Φάντι</item>
+    <!-- ff - Fulah -->
+    <item>Φουλάχ</item>
+    <!-- fi - Finnish -->
+    <item>Φινλανδικά</item>
+    <!-- fil - Filipino -->
+    <item>Φιλιππινεζικά</item>
+    <!-- fj - Fijian -->
+    <item>Φίτζι</item>
+    <!-- fo - Faroese -->
+    <item>Φαρόε</item>
+    <!-- fon - Fon -->
+    <item>Φον</item>
+    <!-- fr - French -->
+    <item>Γαλλικά</item>
+    <!-- fr_CA - Canadian French -->
+    <item>Γαλλικά Καναδά</item>
+    <!-- fr_CH - Swiss French -->
+    <item>Γαλλικά Ελβετίας</item>
+    <!-- frm - Middle French -->
+    <item>Μέσα Γαλλικά</item>
+    <!-- fro - Old French -->
+    <item>Παλαιά Γαλλικά</item>
+    <!-- frr - Northern Frisian -->
+    <item>Βόρεια Φριζιανά</item>
+    <!-- frs - Eastern Frisian -->
+    <item>Ανατολικά Φριζιανά</item>
+    <!-- fur - Friulian -->
+    <item>Φριούλιαν</item>
+    <!-- fy - Western Frisian -->
+    <item>Δυτικά Φριζιανά</item>
+    <!-- ga - Irish -->
+    <item>Ιρλανδικά</item>
+    <!-- gaa - Ga -->
+    <item>Γκα</item>
+    <!-- gay - Gayo -->
+    <item>Γκάγιο</item>
+    <!-- gba - Gbaya -->
+    <item>Γκμπάγια</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Σκωτικά Κελτικά</item>
+    <!-- gez - Geez -->
+    <item>Γκιζ</item>
+    <!-- gil - Gilbertese -->
+    <item>Γκιλμπερτίζ</item>
+    <!-- gl - Galician -->
+    <item>Γαλικιανά</item>
+    <!-- gmh - Middle High German -->
+    <item>Μέσα Άνω Γερμανικά</item>
+    <!-- gn - Guarani -->
+    <item>Γκουαρανί</item>
+    <!-- goh - Old High German -->
+    <item>Παλαιά Άνω Γερμανικά</item>
+    <!-- gon - Gondi -->
+    <item>Γκόντι</item>
+    <!-- gor - Gorontalo -->
+    <item>Γκοροντάλο</item>
+    <!-- got - Gothic -->
+    <item>Γοτθικά</item>
+    <!-- grb - Grebo -->
+    <item>Γκρίμπο</item>
+    <!-- grc - Ancient Greek -->
+    <item>Αρχαία Ελληνικά</item>
+    <!-- gsw - Swiss German -->
+    <item>Ελβετικά Γερμανικά</item>
+    <!-- gu - Gujarati -->
+    <item>Γκουγιαράτι</item>
+    <!-- guz - Gusii -->
+    <item>Γκούσι</item>
+    <!-- gv - Manx -->
+    <item>Μανξ</item>
+    <!-- gwi - Gwichʼin -->
+    <item>Γκουίτσιν</item>
+    <!-- ha - Hausa -->
+    <item>Χάουσα</item>
+    <!-- hai - Haida -->
+    <item>Χάιντα</item>
+    <!-- haw - Hawaiian -->
+    <item>Χαβανεζικά</item>
+    <!-- he - Hebrew -->
+    <item>Εβραϊκά</item>
+    <!-- hi - Hindi -->
+    <item>Χίντι</item>
+    <!-- hil - Hiligaynon -->
+    <item>Χιλιγκαγιόν</item>
+    <!-- hit - Hittite -->
+    <item>Χιτίτε</item>
+    <!-- hmn - Hmong -->
+    <item>Χμονγκ</item>
+    <!-- ho - Hiri Motu -->
+    <item>Χίρι Μότου</item>
+    <!-- hr - Croatian -->
+    <item>Κροατικά</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>Γλώσσα Άνω Λουσατίας</item>
+    <!-- ht - Haitian -->
+    <item>Αϊτιανά</item>
+    <!-- hu - Hungarian -->
+    <item>Ουγγρικά</item>
+    <!-- hup - Hupa -->
+    <item>Χούπα</item>
+    <!-- hy - Armenian -->
+    <item>Αρμενικά</item>
+    <!-- hz - Herero -->
+    <item>Χερέρο</item>
+    <!-- ia - Interlingua -->
+    <item>Ιντερλίνγκουα</item>
+    <!-- iba - Iban -->
+    <item>Ιμπάν</item>
+    <!-- ibb - Ibibio -->
+    <item>Ιμπίμπιο</item>
+    <!-- id - Indonesian -->
+    <item>Ινδονησιακά</item>
+    <!-- ie - Interlingue -->
+    <item>Ιντερλίνγκουε</item>
+    <!-- ig - Igbo -->
+    <item>Ίγκμπο</item>
+    <!-- ii - Sichuan Yi -->
+    <item>Σικουάν Γι</item>
+    <!-- ik - Inupiaq -->
+    <item>Ινουπιάκ</item>
+    <!-- ilo - Iloko -->
+    <item>Ιλόκο</item>
+    <!-- inh - Ingush -->
+    <item>Ινγκούς</item>
+    <!-- io - Ido -->
+    <item>Ίντο</item>
+    <!-- is - Icelandic -->
+    <item>Ισλανδικά</item>
+    <!-- it - Italian -->
+    <item>Ιταλικά</item>
+    <!-- iu - Inuktitut -->
+    <item>Ινουκτιτούτ</item>
+    <!-- ja - Japanese -->
+    <item>Ιαπωνικά</item>
+    <!-- jbo - Lojban -->
+    <item>Λόζμπαν</item>
+    <!-- jgo - Ngomba -->
+    <item>Νγκόμπα</item>
+    <!-- jmc - Machame -->
+    <item>Μάχαμε</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>Ιουδαϊκά-Περσικά</item>
+    <!-- jrb - Judeo-Arabic -->
+    <item>Ιουδαϊκά-Αραβικά</item>
+    <!-- jv - Javanese -->
+    <item>Ιαβανεζικά</item>
+    <!-- ka - Georgian -->
+    <item>Γεωργιανά</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>Κάρα-Καλπάκ</item>
+    <!-- kab - Kabyle -->
+    <item>Καμπίλε</item>
+    <!-- kac - Kachin -->
+    <item>Κατσίν</item>
+    <!-- kaj - Jju -->
+    <item>Τζου</item>
+    <!-- kam - Kamba -->
+    <item>Κάμπα</item>
+    <!-- kaw - Kawi -->
+    <item>Κάουι</item>
+    <!-- kbd - Kabardian -->
+    <item>Καμπαρντιανά</item>
+    <!-- kbl - Kanembu -->
+    <item>Κανέμπου</item>
+    <!-- kcg - Tyap -->
+    <item>Τουάπ</item>
+    <!-- kde - Makonde -->
+    <item>Μακόντε</item>
+    <!-- kea - Kabuverdianu -->
+    <item>Γλώσσα του Πράσινου Ακρωτηρίου</item>
+    <!-- kfo - Koro -->
+    <item>Κόρο</item>
+    <!-- kg - Kongo -->
+    <item>Κονγκό</item>
+    <!-- kha - Khasi -->
+    <item>Κάσι</item>
+    <!-- kho - Khotanese -->
+    <item>Κοτανικά</item>
+    <!-- khq - Koyra Chiini -->
+    <item>Κόιρα Τσίνι</item>
+    <!-- ki - Kikuyu -->
+    <item>Κικούγιου</item>
+    <!-- kj - Kuanyama -->
+    <item>Κουανιγιάμα</item>
+    <!-- kk - Kazakh -->
+    <item>Καζακικά</item>
+    <!-- kkj - Kako -->
+    <item>Κάκο</item>
+    <!-- kl - Kalaallisut -->
+    <item>Καλαάλισουτ</item>
+    <!-- kln - Kalenjin -->
+    <item>Καλεντζίν</item>
+    <!-- km - Khmer -->
+    <item>Καμποτζιανά</item>
+    <!-- kmb - Kimbundu -->
+    <item>Κιμπούντου</item>
+    <!-- kn - Kannada -->
+    <item>Κανάντα</item>
+    <!-- ko - Korean -->
+    <item>Κορεατικά</item>
+    <!-- kok - Konkani -->
+    <item>Κονκάνι</item>
+    <!-- kos - Kosraean -->
+    <item>Κοσραενικά</item>
+    <!-- kpe - Kpelle -->
+    <item>Κπέλε</item>
+    <!-- kr - Kanuri -->
+    <item>Κανούρι</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>Καρατσάι-Μπαλκάρ</item>
+    <!-- krl - Karelian -->
+    <item>Καρελιακά</item>
+    <!-- kru - Kurukh -->
+    <item>Κουρούχ</item>
+    <!-- ks - Kashmiri -->
+    <item>Κασμίρι</item>
+    <!-- ksb - Shambala -->
+    <item>Σάμπαλα</item>
+    <!-- ksf - Bafia -->
+    <item>Μπάφια</item>
+    <!-- ksh - Colognian -->
+    <item>Κολωνικά</item>
+    <!-- ku - Kurdish -->
+    <item>Κουρδικά</item>
+    <!-- kum - Kumyk -->
+    <item>Κουμγιούκ</item>
+    <!-- kut - Kutenai -->
+    <item>Κουτενάι</item>
+    <!-- kv - Komi -->
+    <item>Κόμι</item>
+    <!-- kw - Cornish -->
+    <item>Κόρνις</item>
+    <!-- ky - Kyrgyz -->
+    <item>Κυργιζικά</item>
+    <!-- la - Latin -->
+    <item>Λατινικά</item>
+    <!-- lad - Ladino -->
+    <item>Λαδίνο</item>
+    <!-- lag - Langi -->
+    <item>Λάνγκι</item>
+    <!-- lah - Lahnda -->
+    <item>Λάχδα</item>
+    <!-- lam - Lamba -->
+    <item>Λάμπα</item>
+    <!-- lb - Luxembourgish -->
+    <item>Λουξεμβουργιανά</item>
+    <!-- lez - Lezghian -->
+    <item>Λαζγκιάν</item>
+    <!-- lg - Ganda -->
+    <item>Γκάντα</item>
+    <!-- li - Limburgish -->
+    <item>Λιμβουργιανά</item>
+    <!-- ln - Lingala -->
+    <item>Λινγκάλα</item>
+    <!-- lo - Lao -->
+    <item>Λαοθιανά</item>
+    <!-- lol - Mongo -->
+    <item>Μόνγκο</item>
+    <!-- loz - Lozi -->
+    <item>Λόζι</item>
+    <!-- lt - Lithuanian -->
+    <item>Λιθουανικά</item>
+    <!-- lu - Luba-Katanga -->
+    <item>Λούμπα-Κατάνγκα</item>
+    <!-- lua - Luba-Lulua -->
+    <item>Λούμπα-Λουλούα</item>
+    <!-- lui - Luiseno -->
+    <item>Λουισένο</item>
+    <!-- lun - Lunda -->
+    <item>Λούντα</item>
+    <!-- luo - Luo -->
+    <item>Λούο</item>
+    <!-- lus - Mizo -->
+    <item>Λουσάι</item>
+    <!-- luy - Luyia -->
+    <item>Λουχία</item>
+    <!-- lv - Latvian -->
+    <item>Λετονικά</item>
+    <!-- mad - Madurese -->
+    <item>Μαντουρίζ</item>
+    <!-- maf - Mafa -->
+    <item>Μάφα</item>
+    <!-- mag - Magahi -->
+    <item>Μαγκάχι</item>
+    <!-- mai - Maithili -->
+    <item>Μαϊτχίλι</item>
+    <!-- mak - Makasar -->
+    <item>Μακαζάρ</item>
+    <!-- man - Mandingo -->
+    <item>Μαντίνγκο</item>
+    <!-- mas - Masai -->
+    <item>Μασάι</item>
+    <!-- mde - Maba -->
+    <item>Μάμπα</item>
+    <!-- mdf - Moksha -->
+    <item>Μόκσα</item>
+    <!-- mdr - Mandar -->
+    <item>Μανδάρ</item>
+    <!-- men - Mende -->
+    <item>Μέντε</item>
+    <!-- mer - Meru -->
+    <item>Μερού</item>
+    <!-- mfe - Morisyen -->
+    <item>Μορίσιεν</item>
+    <!-- mg - Malagasy -->
+    <item>Μαλαγάσι</item>
+    <!-- mga - Middle Irish -->
+    <item>Μέσα Ιρλανδικά</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>Μακούβα-Μέτο</item>
+    <!-- mgo - Meta' -->
+    <item>Μετά</item>
+    <!-- mh - Marshallese -->
+    <item>Μάρσαλ</item>
+    <!-- mi - Maori -->
+    <item>Μάορι</item>
+    <!-- mic - Micmac -->
+    <item>Μικμάκ</item>
+    <!-- min - Minangkabau -->
+    <item>Μινανγκαμπάου</item>
+    <!-- mk - Macedonian -->
+    <item>Σλαβομακεδονικά</item>
+    <!-- ml - Malayalam -->
+    <item>Μαλαγιαλάμ</item>
+    <!-- mn - Mongolian -->
+    <item>Μογγολικά</item>
+    <!-- mnc - Manchu -->
+    <item>Μαντσού</item>
+    <!-- mni - Manipuri -->
+    <item>Μανιπούρι</item>
+    <!-- moh - Mohawk -->
+    <item>Μοχόκ</item>
+    <!-- mos - Mossi -->
+    <item>Μόσι</item>
+    <!-- mr - Marathi -->
+    <item>Μαράθι</item>
+    <!-- ms - Malay -->
+    <item>Μαλάι</item>
+    <!-- mt - Maltese -->
+    <item>Μαλτεζικά</item>
+    <!-- mua - Mundang -->
+    <item>Μουντάνγκ</item>
+    <!-- mul - Multiple Languages -->
+    <item>Πολλαπλές γλώσσες</item>
+    <!-- mus - Creek -->
+    <item>Κρικ</item>
+    <!-- mwl - Mirandese -->
+    <item>Μιραντεζικά</item>
+    <!-- mwr - Marwari -->
+    <item>Μαργουάρι</item>
+    <!-- my - Burmese -->
+    <item>Βιρμανικά</item>
+    <!-- mye - Myene -->
+    <item>Μιένε</item>
+    <!-- myv - Erzya -->
+    <item>Έρζυα</item>
+    <!-- na - Nauru -->
+    <item>Ναούρου</item>
+    <!-- nap - Neapolitan -->
+    <item>Ναπολιτανικά</item>
+    <!-- naq - Nama -->
+    <item>Νάμα</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>Νορβηγικά Μποκμάλ</item>
+    <!-- nd - North Ndebele -->
+    <item>Ντεμπέλε Βορρά</item>
+    <!-- nds - Low German -->
+    <item>Κάτω Γερμανικά</item>
+    <!-- ne - Nepali -->
+    <item>Νεπάλι</item>
+    <!-- new - Newari -->
+    <item>Νεγουάρι</item>
+    <!-- ng - Ndonga -->
+    <item>Ντόνγκα</item>
+    <!-- nia - Nias -->
+    <item>Νίας</item>
+    <!-- niu - Niuean -->
+    <item>Νιούεαν</item>
+    <!-- nl - Dutch -->
+    <item>Ολλανδικά</item>
+    <!-- nl_BE - Flemish -->
+    <item>Φλαμανδικά</item>
+    <!-- nmg - Kwasio -->
+    <item>Κβάσιο</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Νορβηγικά Νινόρσκ</item>
+    <!-- nnh - Ngiemboon -->
+    <item>Νγκιεμπούν</item>
+    <!-- no - Norwegian -->
+    <item>Νορβηγικά</item>
+    <!-- nog - Nogai -->
+    <item>Νογκάι</item>
+    <!-- non - Old Norse -->
+    <item>Παλαιά Νορβηγικά</item>
+    <!-- nqo - N’Ko -->
+    <item>Ν'Κο</item>
+    <!-- nr - South Ndebele -->
+    <item>Ντεμπέλε Νότου</item>
+    <!-- nso - Northern Sotho -->
+    <item>Βόρεια Σόθο</item>
+    <!-- nus - Nuer -->
+    <item>Νουέρ</item>
+    <!-- nv - Navajo -->
+    <item>Νάβαχο</item>
+    <!-- nwc - Classical Newari -->
+    <item>Κλασικά Νεουάρι</item>
+    <!-- ny - Nyanja -->
+    <item>Νιάντζα</item>
+    <!-- nym - Nyamwezi -->
+    <item>Νιαμγουέζι</item>
+    <!-- nyn - Nyankole -->
+    <item>Νιανκόλε</item>
+    <!-- nyo - Nyoro -->
+    <item>Νιόρο</item>
+    <!-- nzi - Nzima -->
+    <item>Νζίμα</item>
+    <!-- oc - Occitan -->
+    <item>Οκσιτανικά</item>
+    <!-- oj - Ojibwa -->
+    <item>Οζιβίγουα</item>
+    <!-- om - Oromo -->
+    <item>Ορόμο</item>
+    <!-- or - Oriya -->
+    <item>Ορίγια</item>
+    <!-- os - Ossetic -->
+    <item>Οσετικά</item>
+    <!-- osa - Osage -->
+    <item>Οσάζ</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>Οθωμανικά Τουρκικά</item>
+    <!-- pa - Punjabi -->
+    <item>Παντζαπικά</item>
+    <!-- pag - Pangasinan -->
+    <item>Πανγκασινάν</item>
+    <!-- pal - Pahlavi -->
+    <item>Παχλάβι</item>
+    <!-- pam - Pampanga -->
+    <item>Παμπάνγκα</item>
+    <!-- pap - Papiamento -->
+    <item>Παπιαμέντο</item>
+    <!-- pau - Palauan -->
+    <item>Παλάουαν</item>
+    <!-- peo - Old Persian -->
+    <item>Αρχαία Περσικά</item>
+    <!-- phn - Phoenician -->
+    <item>Φοινικικά</item>
+    <!-- pi - Pali -->
+    <item>Πάλι</item>
+    <!-- pl - Polish -->
+    <item>Πολωνικά</item>
+    <!-- pon - Pohnpeian -->
+    <item>Ποχπέιαν</item>
+    <!-- pro - Old Provençal -->
+    <item>Παλαιά Προβενσιάλ</item>
+    <!-- ps - Pashto -->
+    <item>Πάστο</item>
+    <!-- pt - Portuguese -->
+    <item>Πορτογαλικά</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Πορτογαλικά Βραζιλίας</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Πορτογαλικά Ευρώπης</item>
+    <!-- qu - Quechua -->
+    <item>Κετσούα</item>
+    <!-- raj - Rajasthani -->
+    <item>Ραζασθάνι</item>
+    <!-- rap - Rapanui -->
+    <item>Ραπανούι</item>
+    <!-- rar - Rarotongan -->
+    <item>Ραροτονγκάν</item>
+    <!-- rm - Romansh -->
+    <item>Ρομανικά</item>
+    <!-- rn - Rundi -->
+    <item>Ρούντι</item>
+    <!-- ro - Romanian -->
+    <item>Ρουμανικά</item>
+    <!-- ro_MD - Moldavian -->
+    <item>Μολδαβικά</item>
+    <!-- rof - Rombo -->
+    <item>Ρόμπο</item>
+    <!-- rom - Romany -->
+    <item>Ρομανί</item>
+    <!-- root - Root -->
+    <item>Ρουτ</item>
+    <!-- ru - Russian -->
+    <item>Ρωσικά</item>
+    <!-- rup - Aromanian -->
+    <item>Αρομανικά</item>
+    <!-- rw - Kinyarwanda -->
+    <item>Κινιαρβάντα</item>
+    <!-- rwk - Rwa -->
+    <item>Ρουά</item>
+    <!-- sa - Sanskrit -->
+    <item>Σανσκριτικά</item>
+    <!-- sad - Sandawe -->
+    <item>Σαντάγουε</item>
+    <!-- sah - Sakha -->
+    <item>Γιακούτ</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>Σαμαρίτικα Αραμαϊκά</item>
+    <!-- saq - Samburu -->
+    <item>Σαμπούρου</item>
+    <!-- sas - Sasak -->
+    <item>Σασάκ</item>
+    <!-- sat - Santali -->
+    <item>Σαντάλι</item>
+    <!-- sba - Ngambay -->
+    <item>Νγκαμπέι</item>
+    <!-- sbp - Sangu -->
+    <item>Σάνγκου</item>
+    <!-- sc - Sardinian -->
+    <item>Σαρδινικά</item>
+    <!-- scn - Sicilian -->
+    <item>Σικελιανά</item>
+    <!-- sco - Scots -->
+    <item>Σκωτικά</item>
+    <!-- sd - Sindhi -->
+    <item>Σίντι</item>
+    <!-- se - Northern Sami -->
+    <item>Βόρεια Σάμι</item>
+    <!-- see - Seneca -->
+    <item>Σένεκα</item>
+    <!-- seh - Sena -->
+    <item>Σένα</item>
+    <!-- sel - Selkup -->
+    <item>Σελκούπ</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>Κοϊραμπόρο Σένι</item>
+    <!-- sg - Sango -->
+    <item>Σάνγκο</item>
+    <!-- sga - Old Irish -->
+    <item>Παλαιά Ιρλανδικά</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Σερβοκροατικά</item>
+    <!-- shi - Tachelhit -->
+    <item>Τασελχίτ</item>
+    <!-- shn - Shan -->
+    <item>Σαν</item>
+    <!-- shu - Chadian Arabic -->
+    <item>Αραβικά του Τσαντ</item>
+    <!-- si - Sinhala -->
+    <item>Σινχαλεζικά</item>
+    <!-- sid - Sidamo -->
+    <item>Σιντάμο</item>
+    <!-- sk - Slovak -->
+    <item>Σλοβακικά</item>
+    <!-- sl - Slovenian -->
+    <item>Σλοβενικά</item>
+    <!-- sm - Samoan -->
+    <item>Σαμόαν</item>
+    <!-- sma - Southern Sami -->
+    <item>Νότια Σάμι</item>
+    <!-- smj - Lule Sami -->
+    <item>Λούλε Σάμι</item>
+    <!-- smn - Inari Sami -->
+    <item>Ινάρι Σάμι</item>
+    <!-- sms - Skolt Sami -->
+    <item>Σκολτ Σάμι</item>
+    <!-- sn - Shona -->
+    <item>Σχόνα</item>
+    <!-- snk - Soninke -->
+    <item>Σονίνκε</item>
+    <!-- so - Somali -->
+    <item>Σομάλι</item>
+    <!-- sog - Sogdien -->
+    <item>Σογκντιέν</item>
+    <!-- sq - Albanian -->
+    <item>Αλβανικά</item>
+    <!-- sr - Serbian -->
+    <item>Σερβικά</item>
+    <!-- srn - Sranan Tongo -->
+    <item>Σρανάρ Τόνγκο</item>
+    <!-- srr - Serer -->
+    <item>Σερέρ</item>
+    <!-- ss - Swati -->
+    <item>Σουάτι</item>
+    <!-- ssy - Saho -->
+    <item>Σάχο</item>
+    <!-- st - Southern Sotho -->
+    <item>Νότια Σόθο</item>
+    <!-- su - Sundanese -->
+    <item>Σουδανικά</item>
+    <!-- suk - Sukuma -->
+    <item>Σουκούμα</item>
+    <!-- sus - Susu -->
+    <item>Σούσου</item>
+    <!-- sux - Sumerian -->
+    <item>Σουμερικά</item>
+    <!-- sv - Swedish -->
+    <item>Σουηδικά</item>
+    <!-- sw - Swahili -->
+    <item>Σουαχίλι</item>
+    <!-- swb - Comorian -->
+    <item>Κομόρρια</item>
+    <!-- swc - Congo Swahili -->
+    <item>Κονγκό Σουαχίλι</item>
+    <!-- syc - Classical Syriac -->
+    <item>Κλασικά Συριακά</item>
+    <!-- syr - Syriac -->
+    <item>Συριακά</item>
+    <!-- ta - Tamil -->
+    <item>Ταμίλ</item>
+    <!-- te - Telugu -->
+    <item>Τελούγκου</item>
+    <!-- tem - Timne -->
+    <item>Τίμνε</item>
+    <!-- teo - Teso -->
+    <item>Τέσο</item>
+    <!-- ter - Tereno -->
+    <item>Τερένο</item>
+    <!-- tet - Tetum -->
+    <item>Τέτουμ</item>
+    <!-- tg - Tajik -->
+    <item>Τατζίκ</item>
+    <!-- th - Thai -->
+    <item>Ταϊλανδικά</item>
+    <!-- ti - Tigrinya -->
+    <item>Τιγκρίνυα</item>
+    <!-- tig - Tigre -->
+    <item>Τίγκρε</item>
+    <!-- tiv - Tiv -->
+    <item>Τιβ</item>
+    <!-- tk - Turkmen -->
+    <item>Τουρκμενικά</item>
+    <!-- tkl - Tokelau -->
+    <item>Τοκελάου</item>
+    <!-- tl - Tagalog -->
+    <item>Ταγκαλόγκ</item>
+    <!-- tlh - Klingon -->
+    <item>Κλίνγκον</item>
+    <!-- tli - Tlingit -->
+    <item>Τλίνγκιτ</item>
+    <!-- tmh - Tamashek -->
+    <item>Ταμασέκ</item>
+    <!-- tn - Tswana -->
+    <item>Τσιγουάνα</item>
+    <!-- to - Tongan -->
+    <item>Τονγκανικά</item>
+    <!-- tog - Nyasa Tonga -->
+    <item>Νιάσα Τόνγκα</item>
+    <!-- tpi - Tok Pisin -->
+    <item>Τοκ Πισίν</item>
+    <!-- tr - Turkish -->
+    <item>Τουρκικά</item>
+    <!-- trv - Taroko -->
+    <item>Ταρόκο</item>
+    <!-- ts - Tsonga -->
+    <item>Τσόνγκα</item>
+    <!-- tsi - Tsimshian -->
+    <item>Τσίμσιαν</item>
+    <!-- tt - Tatar -->
+    <item>Τατάρ</item>
+    <!-- tum - Tumbuka -->
+    <item>Τουμπούκα</item>
+    <!-- tvl - Tuvalu -->
+    <item>Τουβαλού</item>
+    <!-- tw - Twi -->
+    <item>Τούι</item>
+    <!-- twq - Tasawaq -->
+    <item>Τασαβάκ</item>
+    <!-- ty - Tahitian -->
+    <item>Ταϊτιανά</item>
+    <!-- tyv - Tuvinian -->
+    <item>Τουβίνιαν</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>Ταμαζίτ Κεντρικού Μαρόκο</item>
+    <!-- udm - Udmurt -->
+    <item>Ουντμούρτ</item>
+    <!-- ug - Uyghur -->
+    <item>Ουιγουρικά</item>
+    <!-- uga - Ugaritic -->
+    <item>Ουγκαρίτικ</item>
+    <!-- uk - Ukrainian -->
+    <item>Ουκρανικά</item>
+    <!-- umb - Umbundu -->
+    <item>Ουμπούντου</item>
+    <!-- und - Unknown Language -->
+    <item>Άγνωστη γλώσσα</item>
+    <!-- ur - Urdu -->
+    <item>Ουρντού</item>
+    <!-- uz - Uzbek -->
+    <item>Ουζμπεκικά</item>
+    <!-- vai - Vai -->
+    <item>Βάι</item>
+    <!-- ve - Venda -->
+    <item>Βένδα</item>
+    <!-- vi - Vietnamese -->
+    <item>Βιετναμικά</item>
+    <!-- vo - Volapük -->
+    <item>Βόλαπικ</item>
+    <!-- vot - Votic -->
+    <item>Βότικ</item>
+    <!-- vun - Vunjo -->
+    <item>Βούντζο</item>
+    <!-- wa - Walloon -->
+    <item>Γουαλούν</item>
+    <!-- wae - Walser -->
+    <item>Βάλσερ</item>
+    <!-- wal - Wolaytta -->
+    <item>Γουάλαμο</item>
+    <!-- war - Waray -->
+    <item>Γουάρει</item>
+    <!-- was - Washo -->
+    <item>Γουασό</item>
+    <!-- wo - Wolof -->
+    <item>Γουόλοφ</item>
+    <!-- xal - Kalmyk -->
+    <item>Καλμίκ</item>
+    <!-- xh - Xhosa -->
+    <item>Ζόσα</item>
+    <!-- xog - Soga -->
+    <item>Σόγκα</item>
+    <!-- yao - Yao -->
+    <item>Γιάο</item>
+    <!-- yap - Yapese -->
+    <item>Γιαπίζ</item>
+    <!-- yav - Yangben -->
+    <item>Γιανγκμπέν</item>
+    <!-- ybb - Yemba -->
+    <item>Γιέμπα</item>
+    <!-- yi - Yiddish -->
+    <item>Γίντις</item>
+    <!-- yo - Yoruba -->
+    <item>Γιορούμπα</item>
+    <!-- yue - Cantonese -->
+    <item>Καντονέζικα</item>
+    <!-- za - Zhuang -->
+    <item>Ζουάνγκ</item>
+    <!-- zap - Zapotec -->
+    <item>Ζάποτεκ</item>
+    <!-- zbl - Blissymbols -->
+    <item>Σύμβολα Bliss</item>
+    <!-- zen - Zenaga -->
+    <item>Ζενάγκα</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>Τυπικά Ταμαζίγκτ Μαρόκου</item>
+    <!-- zh - Chinese -->
+    <item>Κινεζικά</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>Απλοποιημένα Κινεζικά</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>Παραδοσιακά Κινεζικά</item>
+    <!-- zu - Zulu -->
+    <item>Ζουλού</item>
+    <!-- zun - Zuni -->
+    <item>Ζούνι</item>
+    <!-- zxx - No linguistic content -->
+    <item>Χωρίς γλωσσολογικό περιεχόμενο</item>
+    <!-- zza - Zaza -->
+    <item>Ζάζα</item>
+  </string-array>
+</resources>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Asturian (ast) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>abḥasianu</item>
+    <!-- af - Afrikaans -->
+    <item>afrikaans</item>
+    <!-- am - Amharic -->
+    <item>amharicu</item>
+    <!-- ar - Arabic -->
+    <item>árabe</item>
+    <!-- as - Assamese -->
+    <item>asamés</item>
+    <!-- ast - Asturian -->
+    <item>asturianu</item>
+    <!-- az - Azerbaijani -->
+    <item>azerbaixanu</item>
+    <!-- be - Belarusian -->
+    <item>bielorrusu</item>
+    <!-- bg - Bulgarian -->
+    <item>búlgaru</item>
+    <!-- bn - Bengali -->
+    <item>bengalín</item>
+    <!-- bo - Tibetan -->
+    <item>tibetanu</item>
+    <!-- bs - Bosnian -->
+    <item>bosniu</item>
+    <!-- ca - Catalan -->
+    <item>catalán</item>
+    <!-- cs - Czech -->
+    <item>checu</item>
+    <!-- cy - Welsh -->
+    <item>galés</item>
+    <!-- da - Danish -->
+    <item>danés</item>
+    <!-- de - German -->
+    <item>alemán</item>
+    <!-- de_AT - Austrian German -->
+    <item>alemán d'Austria</item>
+    <!-- de_CH - Swiss High German -->
+    <item>alemán de Suiza</item>
+    <!-- el - Greek -->
+    <item>griegu</item>
+    <!-- en - English -->
+    <item>inglés</item>
+    <!-- en_AU - Australian English -->
+    <item>inglés d'Australia</item>
+    <!-- en_CA - Canadian English -->
+    <item>inglés de Canadá</item>
+    <!-- en_GB - British English -->
+    <item>inglés de Gran Bretaña</item>
+    <!-- en_US - American English -->
+    <item>inglés d'EE.XX.</item>
+    <!-- eo - Esperanto -->
+    <item>esperanto</item>
+    <!-- es - Spanish -->
+    <item>español</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>español d'América Latina</item>
+    <!-- es_ES - European Spanish -->
+    <item>español d'Europa</item>
+    <!-- et - Estonian -->
+    <item>estoniu</item>
+    <!-- eu - Basque -->
+    <item>vascu</item>
+    <!-- fa - Persian -->
+    <item>persa</item>
+    <!-- fi - Finnish -->
+    <item>finlandés</item>
+    <!-- fil - Filipino -->
+    <item>filipín</item>
+    <!-- fj - Fijian -->
+    <item>fixanu</item>
+    <!-- fo - Faroese -->
+    <item>feroés</item>
+    <!-- fr - French -->
+    <item>francés</item>
+    <!-- fr_CA - Canadian French -->
+    <item>francés de Canadá</item>
+    <!-- fr_CH - Swiss French -->
+    <item>francés de Suiza</item>
+    <!-- fy - Western Frisian -->
+    <item>frisón occidental</item>
+    <!-- ga - Irish -->
+    <item>irlandés</item>
+    <!-- gl - Galician -->
+    <item>gallegu</item>
+    <!-- gn - Guarani -->
+    <item>guaraní</item>
+    <!-- gsw - Swiss German -->
+    <item>alemánicu de Suiza</item>
+    <!-- gu - Gujarati -->
+    <item>guyaratí</item>
+    <!-- ha - Hausa -->
+    <item>ḥausa</item>
+    <!-- haw - Hawaiian -->
+    <item>ḥawaianu</item>
+    <!-- he - Hebrew -->
+    <item>hebréu</item>
+    <!-- hi - Hindi -->
+    <item>hindi</item>
+    <!-- hr - Croatian -->
+    <item>croata</item>
+    <!-- ht - Haitian -->
+    <item>haitianu</item>
+    <!-- hu - Hungarian -->
+    <item>húngaru</item>
+    <!-- hy - Armenian -->
+    <item>armeniu</item>
+    <!-- id - Indonesian -->
+    <item>indonesiu</item>
+    <!-- ig - Igbo -->
+    <item>igbo</item>
+    <!-- is - Icelandic -->
+    <item>islandés</item>
+    <!-- it - Italian -->
+    <item>italianu</item>
+    <!-- ja - Japanese -->
+    <item>xaponés</item>
+    <!-- jv - Javanese -->
+    <item>xavanés</item>
+    <!-- ka - Georgian -->
+    <item>xeorxanu</item>
+    <!-- kk - Kazakh -->
+    <item>kazaquistanín</item>
+    <!-- km - Khmer -->
+    <item>ḥemer</item>
+    <!-- kn - Kannada -->
+    <item>canarés</item>
+    <!-- ko - Korean -->
+    <item>coreanu</item>
+    <!-- ks - Kashmiri -->
+    <item>cachemirés</item>
+    <!-- ku - Kurdish -->
+    <item>curdu</item>
+    <!-- ky - Kyrgyz -->
+    <item>kirguistanín</item>
+    <!-- la - Latin -->
+    <item>llatín</item>
+    <!-- lb - Luxembourgish -->
+    <item>luxemburgués</item>
+    <!-- lo - Lao -->
+    <item>laosianu</item>
+    <!-- lt - Lithuanian -->
+    <item>lituanu</item>
+    <!-- lv - Latvian -->
+    <item>letón</item>
+    <!-- mg - Malagasy -->
+    <item>malgaxe</item>
+    <!-- mi - Maori -->
+    <item>maorí</item>
+    <!-- mk - Macedonian -->
+    <item>macedoniu</item>
+    <!-- ml - Malayalam -->
+    <item>malayalam</item>
+    <!-- mr - Marathi -->
+    <item>maratí</item>
+    <!-- ms - Malay -->
+    <item>malayu</item>
+    <!-- mt - Maltese -->
+    <item>maltés</item>
+    <!-- my - Burmese -->
+    <item>birmanu</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>noruegu Bokmål</item>
+    <!-- ne - Nepali -->
+    <item>nepalés</item>
+    <!-- nl - Dutch -->
+    <item>neerlandés</item>
+    <!-- nl_BE - Flemish -->
+    <item>flamencu</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>noruegu Nynorsk</item>
+    <!-- or - Oriya -->
+    <item>oriya</item>
+    <!-- pa - Punjabi -->
+    <item>punyabí</item>
+    <!-- pl - Polish -->
+    <item>polacu</item>
+    <!-- ps - Pashto -->
+    <item>pashtu</item>
+    <!-- pt - Portuguese -->
+    <item>portugués</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>portugués del Brasil</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>portugués d'Europa</item>
+    <!-- qu - Quechua -->
+    <item>quechua</item>
+    <!-- rm - Romansh -->
+    <item>romanche</item>
+    <!-- ro - Romanian -->
+    <item>rumanu</item>
+    <!-- ru - Russian -->
+    <item>rusu</item>
+    <!-- sa - Sanskrit -->
+    <item>sánscritu</item>
+    <!-- sd - Sindhi -->
+    <item>sindhi</item>
+    <!-- si - Sinhala -->
+    <item>cingalés</item>
+    <!-- sk - Slovak -->
+    <item>eslovacu</item>
+    <!-- sl - Slovenian -->
+    <item>eslovenu</item>
+    <!-- so - Somali -->
+    <item>somalín</item>
+    <!-- sq - Albanian -->
+    <item>albanu</item>
+    <!-- sr - Serbian -->
+    <item>serbiu</item>
+    <!-- su - Sundanese -->
+    <item>sondanés</item>
+    <!-- sv - Swedish -->
+    <item>suecu</item>
+    <!-- sw - Swahili -->
+    <item>suaḥili</item>
+    <!-- ta - Tamil -->
+    <item>tamil</item>
+    <!-- te - Telugu -->
+    <item>telugu</item>
+    <!-- tg - Tajik -->
+    <item>taxiquistanín</item>
+    <!-- th - Thai -->
+    <item>tailandés</item>
+    <!-- ti - Tigrinya -->
+    <item>tigrinya</item>
+    <!-- tk - Turkmen -->
+    <item>turcomanu</item>
+    <!-- to - Tongan -->
+    <item>tonganu</item>
+    <!-- tr - Turkish -->
+    <item>turcu</item>
+    <!-- tt - Tatar -->
+    <item>tártaru</item>
+    <!-- ug - Uyghur -->
+    <item>uigur</item>
+    <!-- uk - Ukrainian -->
+    <item>ucraín</item>
+    <!-- und - Unknown Language -->
+    <item>llingua desconocida</item>
+    <!-- ur - Urdu -->
+    <item>indostánicu</item>
+    <!-- uz - Uzbek -->
+    <item>uzbequistanín</item>
+    <!-- vi - Vietnamese -->
+    <item>vietnamín</item>
+    <!-- wo - Wolof -->
+    <item>wolof</item>
+    <!-- xh - Xhosa -->
+    <item>xhosa</item>
+    <!-- yo - Yoruba -->
+    <item>yoruba</item>
+    <!-- zh - Chinese -->
+    <item>chinu</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>chinu simplificáu</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>chinu tradicional</item>
+    <!-- zu - Zulu -->
+    <item>zulú</item>
+    <!-- zxx - No linguistic content -->
+    <item>ensin conteníu llingüísticu</item>
+  </string-array>
+</resources>

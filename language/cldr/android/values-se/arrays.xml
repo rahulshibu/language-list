@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Northern Sami (se) -->
+  <string-array name="languages_all">
+    <!-- ace - Achinese -->
+    <item>acehgiella</item>
+    <!-- af - Afrikaans -->
+    <item>afrikánsagiella</item>
+    <!-- an - Aragonese -->
+    <item>aragoniagiella</item>
+    <!-- ang - Old English -->
+    <item>boares eaŋgalasgiella</item>
+    <!-- ar - Arabic -->
+    <item>arábagiella</item>
+    <!-- ast - Asturian -->
+    <item>asturiagiella</item>
+    <!-- be - Belarusian -->
+    <item>vilges-ruoššagiella</item>
+    <!-- bg - Bulgarian -->
+    <item>bulgáriagiella</item>
+    <!-- bn - Bengali -->
+    <item>bengalgiella</item>
+    <!-- bo - Tibetan -->
+    <item>tibetagiella</item>
+    <!-- br - Breton -->
+    <item>bretonagiella</item>
+    <!-- bs - Bosnian -->
+    <item>bosniagiella</item>
+    <!-- ca - Catalan -->
+    <item>katalánagiella</item>
+    <!-- chm - Mari -->
+    <item>marigiella</item>
+    <!-- co - Corsican -->
+    <item>corsicagiella</item>
+    <!-- cs - Czech -->
+    <item>čeahkagiella</item>
+    <!-- cy - Welsh -->
+    <item>kymragiella</item>
+    <!-- da - Danish -->
+    <item>dánskkagiella</item>
+    <!-- de - German -->
+    <item>duiskkagiella</item>
+    <!-- dv - Divehi -->
+    <item>divehigiella</item>
+    <!-- dz - Dzongkha -->
+    <item>dzongkhagiella</item>
+    <!-- el - Greek -->
+    <item>greikkagiella</item>
+    <!-- en - English -->
+    <item>eaŋgalsgiella</item>
+    <!-- es - Spanish -->
+    <item>spánskkagiella</item>
+    <!-- et - Estonian -->
+    <item>esttegiella</item>
+    <!-- fa - Persian -->
+    <item>persijagiella</item>
+    <!-- fi - Finnish -->
+    <item>suomagiella</item>
+    <!-- fil - Filipino -->
+    <item>filippiinnagiella</item>
+    <!-- fj - Fijian -->
+    <item>fidjigiella</item>
+    <!-- fo - Faroese -->
+    <item>fearagiella</item>
+    <!-- fr - French -->
+    <item>fránskkagiella</item>
+    <!-- fy - Western Frisian -->
+    <item>oarjifriisagiella</item>
+    <!-- ga - Irish -->
+    <item>iirragiella</item>
+    <!-- gu - Gujarati -->
+    <item>gujaratagiella</item>
+    <!-- gv - Manx -->
+    <item>manksgiella</item>
+    <!-- ha - Hausa -->
+    <item>haussagiella</item>
+    <!-- haw - Hawaiian -->
+    <item>hawaiigiella</item>
+    <!-- hi - Hindi -->
+    <item>hindigiella</item>
+    <!-- hr - Croatian -->
+    <item>kroátiagiella</item>
+    <!-- ht - Haitian -->
+    <item>haitigiella</item>
+    <!-- hu - Hungarian -->
+    <item>ungárgiella</item>
+    <!-- hy - Armenian -->
+    <item>armeenagiella</item>
+    <!-- id - Indonesian -->
+    <item>indonesiagiella</item>
+    <!-- is - Icelandic -->
+    <item>islánddagiella</item>
+    <!-- it - Italian -->
+    <item>itáliagiella</item>
+    <!-- ja - Japanese -->
+    <item>japánagiella</item>
+    <!-- jv - Javanese -->
+    <item>javagiella</item>
+    <!-- ka - Georgian -->
+    <item>georgiagiella</item>
+    <!-- kk - Kazakh -->
+    <item>kazakgiella</item>
+    <!-- km - Khmer -->
+    <item>kambodiagiella</item>
+    <!-- ko - Korean -->
+    <item>koreagiella</item>
+    <!-- krl - Karelian -->
+    <item>gárjilgiella</item>
+    <!-- ku - Kurdish -->
+    <item>kurdigiella</item>
+    <!-- kv - Komi -->
+    <item>komigiella</item>
+    <!-- kw - Cornish -->
+    <item>kornagiella</item>
+    <!-- la - Latin -->
+    <item>láhtengiella</item>
+    <!-- lb - Luxembourgish -->
+    <item>luxemburggagiella</item>
+    <!-- lo - Lao -->
+    <item>laogiella</item>
+    <!-- lt - Lithuanian -->
+    <item>liettuvagiella</item>
+    <!-- lv - Latvian -->
+    <item>látviagiella</item>
+    <!-- mdf - Moksha -->
+    <item>mokšagiella</item>
+    <!-- mi - Maori -->
+    <item>maorigiella</item>
+    <!-- mk - Macedonian -->
+    <item>makedoniagiella</item>
+    <!-- mn - Mongolian -->
+    <item>mongoliagiella</item>
+    <!-- mt - Maltese -->
+    <item>maltagiella</item>
+    <!-- my - Burmese -->
+    <item>burmagiella</item>
+    <!-- myv - Erzya -->
+    <item>ersagiella</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>girjedárogiella</item>
+    <!-- ne - Nepali -->
+    <item>nepaligiella</item>
+    <!-- nl - Dutch -->
+    <item>hollánddagiella</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ođđadárogiella</item>
+    <!-- no - Norwegian -->
+    <item>dárogiella</item>
+    <!-- oc - Occitan -->
+    <item>oksitánagiella</item>
+    <!-- pa - Punjabi -->
+    <item>panjabigiella</item>
+    <!-- pl - Polish -->
+    <item>polskkagiella</item>
+    <!-- pt - Portuguese -->
+    <item>portugálagiella</item>
+    <!-- rm - Romansh -->
+    <item>romanšgiella</item>
+    <!-- ro - Romanian -->
+    <item>romániagiella</item>
+    <!-- ru - Russian -->
+    <item>ruoššagiella</item>
+    <!-- sc - Sardinian -->
+    <item>sardigiella</item>
+    <!-- scn - Sicilian -->
+    <item>sisiliagiella</item>
+    <!-- se - Northern Sami -->
+    <item>davvisámegiella</item>
+    <!-- sel - Selkup -->
+    <item>selkupagiella</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>serbokroatiagiella</item>
+    <!-- sk - Slovak -->
+    <item>slovákiagiella</item>
+    <!-- sl - Slovenian -->
+    <item>slovenagiella</item>
+    <!-- sm - Samoan -->
+    <item>samoagiella</item>
+    <!-- sma - Southern Sami -->
+    <item>lullisámegiella</item>
+    <!-- smj - Lule Sami -->
+    <item>julevsámegiella</item>
+    <!-- smn - Inari Sami -->
+    <item>anárašgiella</item>
+    <!-- sms - Skolt Sami -->
+    <item>nuortalašgiella</item>
+    <!-- sq - Albanian -->
+    <item>albánagiella</item>
+    <!-- sr - Serbian -->
+    <item>serbiagiella</item>
+    <!-- sv - Swedish -->
+    <item>ruoŧagiella</item>
+    <!-- swb - Comorian -->
+    <item>shimaorigiella</item>
+    <!-- th - Thai -->
+    <item>ŧaigiella</item>
+    <!-- tr - Turkish -->
+    <item>durkagiella</item>
+    <!-- ty - Tahitian -->
+    <item>tahitigiella</item>
+    <!-- udm - Udmurt -->
+    <item>udmurtagiella</item>
+    <!-- uk - Ukrainian -->
+    <item>ukrainagiella</item>
+    <!-- und - Unknown Language -->
+    <item>dovdameahttun giella</item>
+    <!-- ur - Urdu -->
+    <item>urdugiella</item>
+    <!-- vi - Vietnamese -->
+    <item>vietnamgiella</item>
+    <!-- wa - Walloon -->
+    <item>vallonagiella</item>
+    <!-- yue - Cantonese -->
+    <item>kantongiella</item>
+    <!-- zh - Chinese -->
+    <item>kiinnágiella</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>álki kiinágiella</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>árbevirolaš kiinnágiella</item>
+  </string-array>
+</resources>

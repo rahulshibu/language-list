@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Uyghur (ug) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>ئافارچە</item>
+    <!-- ab - Abkhazian -->
+    <item>ئابخازچە</item>
+    <!-- ace - Achinese -->
+    <item>ئاتجېچە</item>
+    <!-- ach - Acoli -->
+    <item>ئاچولىچە</item>
+    <!-- ada - Adangme -->
+    <item>ئاداڭمېچە</item>
+    <!-- ady - Adyghe -->
+    <item>ئادىگېيچە</item>
+    <!-- ae - Avestan -->
+    <item>ئاۋېستاچە</item>
+    <!-- af - Afrikaans -->
+    <item>ئافرىكانچە</item>
+    <!-- afh - Afrihili -->
+    <item>ئافرىخىلىچە</item>
+    <!-- agq - Aghem -->
+    <item>ئاگەمچە</item>
+    <!-- ain - Ainu -->
+    <item>ئاينۇچە</item>
+    <!-- ak - Akan -->
+    <item>ئاكانچە</item>
+    <!-- akk - Akkadian -->
+    <item>ئاككادچە</item>
+    <!-- ale - Aleut -->
+    <item>ئالېيۇتچە</item>
+    <!-- alt - Southern Altai -->
+    <item>جەنۇبى ئالتاي تىللىرى</item>
+    <!-- am - Amharic -->
+    <item>ئامخاراچە</item>
+    <!-- an - Aragonese -->
+    <item>ئاراگونچە</item>
+    <!-- ang - Old English -->
+    <item>قەدىمكى ئىنگلىزچە</item>
+    <!-- anp - Angika -->
+    <item>ئانگىكاچە</item>
+    <!-- ar - Arabic -->
+    <item>ئەرەبچە</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>ھازىرقى زامان ئۆلچەملىك ئەرەبچە</item>
+    <!-- arc - Aramaic -->
+    <item>ئارامۇچە</item>
+    <!-- arn - Mapuche -->
+    <item>ماپۇچە</item>
+    <!-- arp - Arapaho -->
+    <item>ئاراپاخوچە</item>
+    <!-- arw - Arawak -->
+    <item>ئاراۋاكچە</item>
+    <!-- as - Assamese -->
+    <item>ئاسسامچە</item>
+    <!-- asa - Asu -->
+    <item>ئاسۇچە</item>
+    <!-- ast - Asturian -->
+    <item>ئاستۇرىيەچە</item>
+    <!-- av - Avaric -->
+    <item>ئاۋارچە</item>
+    <!-- awa - Awadhi -->
+    <item>ئاۋادىچە</item>
+    <!-- ay - Aymara -->
+    <item>ئايماراچە</item>
+    <!-- az - Azerbaijani -->
+    <item>ئەزەرىچە</item>
+    <!-- ba - Bashkir -->
+    <item>باشقىرتچە</item>
+    <!-- bal - Baluchi -->
+    <item>بېلۇجىچە</item>
+    <!-- ban - Balinese -->
+    <item>بالىچە</item>
+    <!-- bas - Basaa -->
+    <item>باساچە</item>
+    <!-- bax - Bamun -->
+    <item>بامۇنچە</item>
+    <!-- bbj - Ghomala -->
+    <item>گومالاچە</item>
+    <!-- be - Belarusian -->
+    <item>بېلارۇسچە</item>
+    <!-- bej - Beja -->
+    <item>بېجاچە</item>
+    <!-- bem - Bemba -->
+    <item>بېمباچە</item>
+    <!-- bez - Bena -->
+    <item>بېناچە</item>
+    <!-- bfd - Bafut -->
+    <item>بافۇتچە</item>
+    <!-- bg - Bulgarian -->
+    <item>بۇلغارچە</item>
+    <!-- bho - Bhojpuri -->
+    <item>بوجپۇرىچە</item>
+    <!-- bi - Bislama -->
+    <item>بىسلاماچە</item>
+    <!-- bik - Bikol -->
+    <item>بىكولچە</item>
+    <!-- bin - Bini -->
+    <item>بىنىچە</item>
+    <!-- bkm - Kom -->
+    <item>كومچە</item>
+    <!-- bla - Siksika -->
+    <item>سىكسىكاچە</item>
+    <!-- bm - Bambara -->
+    <item>بامباراچە</item>
+    <!-- bn - Bengali -->
+    <item>بېنگالچە</item>
+    <!-- bo - Tibetan -->
+    <item>تىبەتچە</item>
+    <!-- br - Breton -->
+    <item>بىرېتونچە</item>
+    <!-- bra - Braj -->
+    <item>بىراجچە</item>
+    <!-- brx - Bodo -->
+    <item>بودوچە</item>
+    <!-- bs - Bosnian -->
+    <item>بوسنىيەچە</item>
+    <!-- bss - Akoose -->
+    <item>ئاكۇسچە</item>
+    <!-- bua - Buriat -->
+    <item>بۇرىياتچە</item>
+    <!-- bug - Buginese -->
+    <item>بۇگىچە</item>
+    <!-- bum - Bulu -->
+    <item>بۇلۇچە</item>
+    <!-- byn - Blin -->
+    <item>بىلىنچە</item>
+    <!-- byv - Medumba -->
+    <item>مېدۇمباچە</item>
+    <!-- ca - Catalan -->
+    <item>كاتالانچە</item>
+    <!-- cad - Caddo -->
+    <item>كاددوچە</item>
+    <!-- car - Carib -->
+    <item>كارىبچە</item>
+    <!-- cay - Cayuga -->
+    <item>كايۇگاچە</item>
+    <!-- cch - Atsam -->
+    <item>ئاتسامچە</item>
+    <!-- ce - Chechen -->
+    <item>چېچىنچە</item>
+    <!-- ceb - Cebuano -->
+    <item>سېبۇچە</item>
+    <!-- cgg - Chiga -->
+    <item>چىگاچە</item>
+    <!-- ch - Chamorro -->
+    <item>چامورروچە</item>
+    <!-- chb - Chibcha -->
+    <item>چىبچاچە</item>
+    <!-- chg - Chagatai -->
+    <item>چاغاتايچە</item>
+    <!-- chk - Chuukese -->
+    <item>چۇكچە</item>
+    <!-- chm - Mari -->
+    <item>مارىچە</item>
+    <!-- chn - Chinook Jargon -->
+    <item>چىنۇك-ژارگونچە</item>
+    <!-- cho - Choctaw -->
+    <item>چوكتاۋچە</item>
+    <!-- chp - Chipewyan -->
+    <item>چىپېۋيانچە</item>
+    <!-- chr - Cherokee -->
+    <item>چېروكىچە</item>
+    <!-- chy - Cheyenne -->
+    <item>چېيېنچە</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>سورانى كۇردچە</item>
+    <!-- co - Corsican -->
+    <item>كورساچە</item>
+    <!-- cop - Coptic -->
+    <item>كوپتىكچە</item>
+    <!-- cr - Cree -->
+    <item>كرىچە</item>
+    <!-- crh - Crimean Turkish -->
+    <item>قىرىم تۈركچە</item>
+    <!-- cs - Czech -->
+    <item>چېخچە</item>
+    <!-- csb - Kashubian -->
+    <item>كاسزۇبىچە</item>
+    <!-- cu - Church Slavic -->
+    <item>قەدىمكى سلاۋيانچە</item>
+    <!-- cv - Chuvash -->
+    <item>چۇۋاشچە</item>
+    <!-- cy - Welsh -->
+    <item>ۋېلشچە</item>
+    <!-- da - Danish -->
+    <item>دانىشچە</item>
+    <!-- dak - Dakota -->
+    <item>داكوتاچە</item>
+    <!-- dar - Dargwa -->
+    <item>دارگىۋاچە</item>
+    <!-- dav - Taita -->
+    <item>تايتاچە</item>
+    <!-- de - German -->
+    <item>گېرمانچە</item>
+    <!-- de_AT - Austrian German -->
+    <item>ئاۋستىرىيە گېرمانچە</item>
+    <!-- de_CH - Swiss High German -->
+    <item>شىۋىتسارىيە ئېگىزلىك گېرمانچە</item>
+    <!-- del - Delaware -->
+    <item>دېلاۋارېچە</item>
+    <!-- den - Slave -->
+    <item>سلاۋچە</item>
+    <!-- dgr - Dogrib -->
+    <item>دوگرىبچە</item>
+    <!-- din - Dinka -->
+    <item>دىنكاچە</item>
+    <!-- dje - Zarma -->
+    <item>زارماچە</item>
+    <!-- doi - Dogri -->
+    <item>دوگرىچە</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>توۋەن سېربچە</item>
+    <!-- dua - Duala -->
+    <item>دۇئالاچە</item>
+    <!-- dum - Middle Dutch -->
+    <item>ئوتتۇرا گوللاندىيەچە</item>
+    <!-- dv - Divehi -->
+    <item>دىۋەخىچە</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>جولاچە</item>
+    <!-- dyu - Dyula -->
+    <item>دىيۇلاچە</item>
+    <!-- dz - Dzongkha -->
+    <item>بۇتانچە</item>
+    <!-- dzg - Dazaga -->
+    <item>دازاگاچە</item>
+    <!-- ebu - Embu -->
+    <item>ئېمبۇچە</item>
+    <!-- ee - Ewe -->
+    <item>ئېۋېچە</item>
+    <!-- efi - Efik -->
+    <item>ئېفىكچە</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>قەدىمكى مىسىرچە</item>
+    <!-- eka - Ekajuk -->
+    <item>ئېكاجۇكچە</item>
+    <!-- el - Greek -->
+    <item>گىرېكچە</item>
+    <!-- elx - Elamite -->
+    <item>ئېلامىتچە</item>
+    <!-- en - English -->
+    <item>ئىنگلىزچە</item>
+    <!-- en_AU - Australian English -->
+    <item>ئاۋسترالىيە ئىنگلىزچە</item>
+    <!-- en_CA - Canadian English -->
+    <item>كانادا ئىنگلىزچە</item>
+    <!-- en_GB - British English -->
+    <item>ئەنگلىيە ئىنگلىزچە</item>
+    <!-- en_US - American English -->
+    <item>ئامېرىكا ئىنگلىزچە</item>
+    <!-- enm - Middle English -->
+    <item>ئوتتۇرا ئەسىر ئىنگلىزچە</item>
+    <!-- eo - Esperanto -->
+    <item>دۇنيا تىلى</item>
+    <!-- es - Spanish -->
+    <item>ئىسپانچە</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>لاتىن ئامېرىكا ئىسپانچە</item>
+    <!-- es_ES - European Spanish -->
+    <item>ياۋروپا ئىسپانچە</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>مېكسىكا ئىسپانچە</item>
+    <!-- et - Estonian -->
+    <item>ئېستونچە</item>
+    <!-- eu - Basque -->
+    <item>باسكىچە</item>
+    <!-- ewo - Ewondo -->
+    <item>ئېۋوندوچە</item>
+    <!-- fa - Persian -->
+    <item>پارسچە</item>
+    <!-- fan - Fang -->
+    <item>فاڭچە</item>
+    <!-- fat - Fanti -->
+    <item>فانتىچە</item>
+    <!-- ff - Fulah -->
+    <item>فۇلاچە</item>
+    <!-- fi - Finnish -->
+    <item>فىنچە</item>
+    <!-- fil - Filipino -->
+    <item>فىلىپپىنچە</item>
+    <!-- fj - Fijian -->
+    <item>فىجىچە</item>
+    <!-- fo - Faroese -->
+    <item>فائېروچە</item>
+    <!-- fon - Fon -->
+    <item>فونچە</item>
+    <!-- fr - French -->
+    <item>فىرانسۇزچە</item>
+    <!-- fr_CA - Canadian French -->
+    <item>كانادا فىرانسۇزچە</item>
+    <!-- fr_CH - Swiss French -->
+    <item>شىۋىتسارىيە فىرانسۇزچە</item>
+    <!-- frm - Middle French -->
+    <item>ئوتتۇرا ئەسىر فىرانسۇزچە</item>
+    <!-- fro - Old French -->
+    <item>قەدىمكى فىرانسۇزچە</item>
+    <!-- frr - Northern Frisian -->
+    <item>شىمالى فىرىزيەچە</item>
+    <!-- frs - Eastern Frisian -->
+    <item>شەرقى فىرىزيەچە</item>
+    <!-- fur - Friulian -->
+    <item>فىرىئۇلىچە</item>
+    <!-- fy - Western Frisian -->
+    <item>غەربى فىرىزيەچە</item>
+    <!-- ga - Irish -->
+    <item>ئىرېلاندچە</item>
+    <!-- gaa - Ga -->
+    <item>گاچە</item>
+    <!-- gay - Gayo -->
+    <item>گايوچە</item>
+    <!-- gba - Gbaya -->
+    <item>گىباياچە</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>سكوتچە</item>
+    <!-- gez - Geez -->
+    <item>گىزچە</item>
+    <!-- gil - Gilbertese -->
+    <item>گىلبېرتچە</item>
+    <!-- gl - Galician -->
+    <item>گالىتسىيانچە</item>
+    <!-- gmh - Middle High German -->
+    <item>ئوتتۇرا ئەسىر ئېگىزلىك گېرمانچە</item>
+    <!-- gn - Guarani -->
+    <item>گۇئارانىچە</item>
+    <!-- goh - Old High German -->
+    <item>قەدىمكى ئېگىزلىك گېرمانچە</item>
+    <!-- gon - Gondi -->
+    <item>گوندىچە</item>
+    <!-- gor - Gorontalo -->
+    <item>گورونتالوچە</item>
+    <!-- got - Gothic -->
+    <item>گوتچە</item>
+    <!-- grb - Grebo -->
+    <item>گرېبوچە</item>
+    <!-- grc - Ancient Greek -->
+    <item>قەدىمكى گىرېكچە</item>
+    <!-- gsw - Swiss German -->
+    <item>گېرمانچە شىۋىتسارىيە</item>
+    <!-- gu - Gujarati -->
+    <item>گۇجاراتچە</item>
+    <!-- guz - Gusii -->
+    <item>گۇسىچە</item>
+    <!-- gv - Manx -->
+    <item>مانچە</item>
+    <!-- gwi - Gwichʼin -->
+    <item>گىۋىچىنچە</item>
+    <!-- ha - Hausa -->
+    <item>خائۇساچە</item>
+    <!-- hai - Haida -->
+    <item>ھەيدەچە</item>
+    <!-- haw - Hawaiian -->
+    <item>ھاۋايچە</item>
+    <!-- he - Hebrew -->
+    <item>ئىبرانىچە</item>
+    <!-- hi - Hindi -->
+    <item>ھىندىچە</item>
+    <!-- hil - Hiligaynon -->
+    <item>خىلىگاينونچە</item>
+    <!-- hit - Hittite -->
+    <item>خىتتىتچە</item>
+    <!-- hmn - Hmong -->
+    <item>مۆڭچە</item>
+    <!-- ho - Hiri Motu -->
+    <item>ھىرى موتۇچە</item>
+    <!-- hr - Croatian -->
+    <item>خورۋاتچە</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>يۇقىرىقى سېربچە</item>
+    <!-- ht - Haitian -->
+    <item>ھايتىچە</item>
+    <!-- hu - Hungarian -->
+    <item>ماجارچە</item>
+    <!-- hup - Hupa -->
+    <item>خۇپاچە</item>
+    <!-- hy - Armenian -->
+    <item>ئەرمەنچە</item>
+    <!-- hz - Herero -->
+    <item>خېرېروچە</item>
+    <!-- ia - Interlingua -->
+    <item>ئارىلىق تىل</item>
+    <!-- iba - Iban -->
+    <item>ئىبانچە</item>
+    <!-- ibb - Ibibio -->
+    <item>ئىبىبىئوچە</item>
+    <!-- id - Indonesian -->
+    <item>ھىندونېزىيەچە</item>
+    <!-- ie - Interlingue -->
+    <item>ئىنتىرلىڭچە</item>
+    <!-- ig - Igbo -->
+    <item>ئىبوچە</item>
+    <!-- ii - Sichuan Yi -->
+    <item>يىچە (سىچۈەن)</item>
+    <!-- ik - Inupiaq -->
+    <item>ئىنۇپىكچە</item>
+    <!-- ilo - Iloko -->
+    <item>ئىلوكانوچە</item>
+    <!-- inh - Ingush -->
+    <item>ئىنگۇشچە</item>
+    <!-- io - Ido -->
+    <item>ئىدوچە</item>
+    <!-- is - Icelandic -->
+    <item>ئىسلاندچە</item>
+    <!-- it - Italian -->
+    <item>ئىتاليانچە</item>
+    <!-- iu - Inuktitut -->
+    <item>ئىنۇكتىتۇتچە</item>
+    <!-- ja - Japanese -->
+    <item>ياپونچە</item>
+    <!-- jbo - Lojban -->
+    <item>لوجبانچە</item>
+    <!-- jgo - Ngomba -->
+    <item>نگومباچە</item>
+    <!-- jmc - Machame -->
+    <item>ماچامچە</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>ئىبرانى پارسچە</item>
+    <!-- jrb - Judeo-Arabic -->
+    <item>ئىبرانى ئەرەبچە</item>
+    <!-- jv - Javanese -->
+    <item>ياۋاچە</item>
+    <!-- ka - Georgian -->
+    <item>گىرۇزىنچە</item>
+    <!-- kaa - Kara-Kalpak -->
+    <item>قارا-قالپاقچە</item>
+    <!-- kab - Kabyle -->
+    <item>كابىلېچە</item>
+    <!-- kac - Kachin -->
+    <item>كاچىنچە</item>
+    <!-- kaj - Jju -->
+    <item>جۇچە</item>
+    <!-- kam - Kamba -->
+    <item>كامباچە</item>
+    <!-- kaw - Kawi -->
+    <item>كاۋىچە</item>
+    <!-- kbd - Kabardian -->
+    <item>كاباردەيچە</item>
+    <!-- kbl - Kanembu -->
+    <item>كانېمبۇچە</item>
+    <!-- kcg - Tyap -->
+    <item>تياپچە</item>
+    <!-- kde - Makonde -->
+    <item>ماكوندېچە</item>
+    <!-- kea - Kabuverdianu -->
+    <item>كابۇۋېردىيانچە</item>
+    <!-- kfo - Koro -->
+    <item>كوروچە</item>
+    <!-- kg - Kongo -->
+    <item>كونگوچە</item>
+    <!-- kha - Khasi -->
+    <item>كاسىچە</item>
+    <!-- kho - Khotanese -->
+    <item>خوتەنچە</item>
+    <!-- khq - Koyra Chiini -->
+    <item>كويرا چىنىچە</item>
+    <!-- ki - Kikuyu -->
+    <item>كىكۇيۇچە</item>
+    <!-- kj - Kuanyama -->
+    <item>كىۋانياماچە</item>
+    <!-- kk - Kazakh -->
+    <item>قازاقچە</item>
+    <!-- kkj - Kako -->
+    <item>كاكوچە</item>
+    <!-- kl - Kalaallisut -->
+    <item>گىرېنلاندچە</item>
+    <!-- kln - Kalenjin -->
+    <item>كالېنجىنچە</item>
+    <!-- km - Khmer -->
+    <item>كىخمېرچە</item>
+    <!-- kmb - Kimbundu -->
+    <item>كىمبۇندۇچە</item>
+    <!-- kn - Kannada -->
+    <item>كانناداچە</item>
+    <!-- ko - Korean -->
+    <item>كورېيەچە</item>
+    <!-- kok - Konkani -->
+    <item>كونكانىچە</item>
+    <!-- kos - Kosraean -->
+    <item>كوسرايېچە</item>
+    <!-- kpe - Kpelle -->
+    <item>كىپەللېچە</item>
+    <!-- kr - Kanuri -->
+    <item>كانۇرىچە</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>قاراچاي-بالقارچە</item>
+    <!-- krl - Karelian -->
+    <item>كارەلچە</item>
+    <!-- kru - Kurukh -->
+    <item>كۇرۇكچە</item>
+    <!-- ks - Kashmiri -->
+    <item>كەشمىرچە</item>
+    <!-- ksb - Shambala -->
+    <item>شامبالاچە</item>
+    <!-- ksf - Bafia -->
+    <item>بافىياچە</item>
+    <!-- ksh - Colognian -->
+    <item>كولىشچە</item>
+    <!-- ku - Kurdish -->
+    <item>كۇردچە</item>
+    <!-- kum - Kumyk -->
+    <item>قۇمۇقچە</item>
+    <!-- kut - Kutenai -->
+    <item>كۇتەنايچە</item>
+    <!-- kv - Komi -->
+    <item>كومىچە</item>
+    <!-- kw - Cornish -->
+    <item>كورنىشچە</item>
+    <!-- ky - Kyrgyz -->
+    <item>قىرغىزچە</item>
+    <!-- la - Latin -->
+    <item>لاتىنچە</item>
+    <!-- lad - Ladino -->
+    <item>لادىنوچە</item>
+    <!-- lag - Langi -->
+    <item>لانگىچە</item>
+    <!-- lah - Lahnda -->
+    <item>لانداچە</item>
+    <!-- lam - Lamba -->
+    <item>لامباچە</item>
+    <!-- lb - Luxembourgish -->
+    <item>لىيۇكسېمبۇرگچە</item>
+    <!-- lez - Lezghian -->
+    <item>لېزگىنچە</item>
+    <!-- lg - Ganda -->
+    <item>گانداچە</item>
+    <!-- li - Limburgish -->
+    <item>لىمبۇرگچە</item>
+    <!-- ln - Lingala -->
+    <item>لىنگالاچە</item>
+    <!-- lo - Lao -->
+    <item>لائوسچە</item>
+    <!-- lol - Mongo -->
+    <item>مونگوچە</item>
+    <!-- loz - Lozi -->
+    <item>لوزىچە</item>
+    <!-- lt - Lithuanian -->
+    <item>لىتۋاچە</item>
+    <!-- lu - Luba-Katanga -->
+    <item>لۇبا-كاتانگاچە</item>
+    <!-- lua - Luba-Lulua -->
+    <item>لۇبا-لۇئاچە</item>
+    <!-- lui - Luiseno -->
+    <item>لۇيسېنگوچە</item>
+    <!-- lun - Lunda -->
+    <item>لۇنداچە</item>
+    <!-- luo - Luo -->
+    <item>لۇئوچە</item>
+    <!-- lus - Mizo -->
+    <item>مىزوچە</item>
+    <!-- luy - Luyia -->
+    <item>لۇياچە</item>
+    <!-- lv - Latvian -->
+    <item>لاتۋىيەچە</item>
+    <!-- mad - Madurese -->
+    <item>مادۇرېسچە</item>
+    <!-- maf - Mafa -->
+    <item>مافاچە</item>
+    <!-- mag - Magahi -->
+    <item>ماگاخىچە</item>
+    <!-- mai - Maithili -->
+    <item>مايتىلىچە</item>
+    <!-- mak - Makasar -->
+    <item>ماكاسارچە</item>
+    <!-- man - Mandingo -->
+    <item>ماندىنگوچە</item>
+    <!-- mas - Masai -->
+    <item>ماسايچە</item>
+    <!-- mde - Maba -->
+    <item>ماباچە</item>
+    <!-- mdf - Moksha -->
+    <item>موكشاچە</item>
+    <!-- mdr - Mandar -->
+    <item>ماندارچە</item>
+    <!-- men - Mende -->
+    <item>مېندېچە</item>
+    <!-- mer - Meru -->
+    <item>مېرۇچە</item>
+    <!-- mfe - Morisyen -->
+    <item>مورىسيېنچە</item>
+    <!-- mg - Malagasy -->
+    <item>ماداغاسقارچە</item>
+    <!-- mga - Middle Irish -->
+    <item>ئوتتۇرا ئەسىر ئىرېلاندچە</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>ماكۇۋاچە</item>
+    <!-- mgo - Meta' -->
+    <item>مېتاچە'</item>
+    <!-- mh - Marshallese -->
+    <item>مارشالچە</item>
+    <!-- mi - Maori -->
+    <item>ماۋرىچە</item>
+    <!-- mic - Micmac -->
+    <item>مىكماكچە</item>
+    <!-- min - Minangkabau -->
+    <item>مىناڭكابائۇچە</item>
+    <!-- mk - Macedonian -->
+    <item>ماكېدونچە</item>
+    <!-- ml - Malayalam -->
+    <item>مالايامچە</item>
+    <!-- mn - Mongolian -->
+    <item>موڭغۇلچە</item>
+    <!-- mnc - Manchu -->
+    <item>مانجۇچە</item>
+    <!-- mni - Manipuri -->
+    <item>مانىپۇرىچە</item>
+    <!-- moh - Mohawk -->
+    <item>موخوكچە</item>
+    <!-- mos - Mossi -->
+    <item>موسسىچە</item>
+    <!-- mr - Marathi -->
+    <item>ماراتچە</item>
+    <!-- ms - Malay -->
+    <item>مالايچە</item>
+    <!-- mt - Maltese -->
+    <item>مالتاچە</item>
+    <!-- mua - Mundang -->
+    <item>مۇنداڭچە</item>
+    <!-- mul - Multiple Languages -->
+    <item>كۆپ تىللار</item>
+    <!-- mus - Creek -->
+    <item>كىرىكچە</item>
+    <!-- mwl - Mirandese -->
+    <item>مىراندېسچە</item>
+    <!-- mwr - Marwari -->
+    <item>مارۋارىچە</item>
+    <!-- my - Burmese -->
+    <item>بىرماچە</item>
+    <!-- mye - Myene -->
+    <item>ميېنېچە</item>
+    <!-- myv - Erzya -->
+    <item>ئېرزاچە</item>
+    <!-- na - Nauru -->
+    <item>ناۋرۇچە</item>
+    <!-- nap - Neapolitan -->
+    <item>ناپولىچە</item>
+    <!-- naq - Nama -->
+    <item>ناماچە</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>نورۋىگىيە بوكمالچە</item>
+    <!-- nd - North Ndebele -->
+    <item>شىمالى ندەبەلەچە</item>
+    <!-- nds - Low German -->
+    <item>تۆۋەن گېرمانچە</item>
+    <!-- ne - Nepali -->
+    <item>نېپالچە</item>
+    <!-- new - Newari -->
+    <item>نېۋارىچە</item>
+    <!-- ng - Ndonga -->
+    <item>ندونگاچە</item>
+    <!-- nia - Nias -->
+    <item>نىئاسچە</item>
+    <!-- niu - Niuean -->
+    <item>نيۇئېچە</item>
+    <!-- nl - Dutch -->
+    <item>گوللاندىيەچە</item>
+    <!-- nmg - Kwasio -->
+    <item>كۋاسىيوچە</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>يېڭى نورۋېگچە</item>
+    <!-- nnh - Ngiemboon -->
+    <item>نگېمبۇنچە</item>
+    <!-- no - Norwegian -->
+    <item>نورۋېگچە</item>
+    <!-- nog - Nogai -->
+    <item>نوغايچە</item>
+    <!-- non - Old Norse -->
+    <item>قەدىمكى نورۋېگچە</item>
+    <!-- nqo - N’Ko -->
+    <item>نىكوچە</item>
+    <!-- nr - South Ndebele -->
+    <item>جەنۇبى ندەبەلەچە</item>
+    <!-- nso - Northern Sotho -->
+    <item>شىمالى سوتوچە</item>
+    <!-- nus - Nuer -->
+    <item>مۇئېرچە</item>
+    <!-- nv - Navajo -->
+    <item>ناۋاخوچە</item>
+    <!-- nwc - Classical Newari -->
+    <item>نېۋارچە</item>
+    <!-- ny - Nyanja -->
+    <item>نيانجاچە</item>
+    <!-- nym - Nyamwezi -->
+    <item>نيامۋېزىچە</item>
+    <!-- nyn - Nyankole -->
+    <item>نىيانكولېچە</item>
+    <!-- nyo - Nyoro -->
+    <item>نىئوروچە</item>
+    <!-- nzi - Nzima -->
+    <item>نىزەماچە</item>
+    <!-- oc - Occitan -->
+    <item>ئوكسىتانچە</item>
+    <!-- oj - Ojibwa -->
+    <item>ئوجىبۋاچە</item>
+    <!-- om - Oromo -->
+    <item>ئوروموچە</item>
+    <!-- or - Oriya -->
+    <item>ئورىياچە</item>
+    <!-- os - Ossetic -->
+    <item>ئوسسېتچەچە</item>
+    <!-- osa - Osage -->
+    <item>ئوساگېلارچە</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>ئوسمان تۈركچە</item>
+    <!-- pa - Punjabi -->
+    <item>پەنجابچە</item>
+    <!-- pag - Pangasinan -->
+    <item>پانگاسىنانچە</item>
+    <!-- pal - Pahlavi -->
+    <item>پەھلەۋىچە</item>
+    <!-- pam - Pampanga -->
+    <item>پامپانگاچە</item>
+    <!-- pap - Papiamento -->
+    <item>پاپىيامەنتۇچە</item>
+    <!-- pau - Palauan -->
+    <item>پالاۋچە</item>
+    <!-- peo - Old Persian -->
+    <item>قەدىمكى پارىسچە</item>
+    <!-- phn - Phoenician -->
+    <item>فىنىكىيەچە</item>
+    <!-- pi - Pali -->
+    <item>پالىچە</item>
+    <!-- pl - Polish -->
+    <item>پولەكچە</item>
+    <!-- pon - Pohnpeian -->
+    <item>پوناپېئانچە</item>
+    <!-- pro - Old Provençal -->
+    <item>قەدىمكى پروۋېنچالچە</item>
+    <!-- ps - Pashto -->
+    <item>پۇشتۇچە</item>
+    <!-- pt - Portuguese -->
+    <item>پورتۇگالچە</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>بىرازىلىيە پورتۇگالچە</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ياۋروپا پورتۇگالچە</item>
+    <!-- qu - Quechua -->
+    <item>كېچياچە</item>
+    <!-- raj - Rajasthani -->
+    <item>راجاستانچە</item>
+    <!-- rap - Rapanui -->
+    <item>راپانىيچە</item>
+    <!-- rm - Romansh -->
+    <item>رومانىشچە</item>
+    <!-- rn - Rundi -->
+    <item>رۇندىچە</item>
+    <!-- ro - Romanian -->
+    <item>رۇمىنىيەچە</item>
+    <!-- rof - Rombo -->
+    <item>رومبوچە</item>
+    <!-- rom - Romany -->
+    <item>سىگانچە</item>
+    <!-- root - Root -->
+    <item>غول تىل</item>
+    <!-- ru - Russian -->
+    <item>رۇسچە</item>
+    <!-- rup - Aromanian -->
+    <item>ئارومانچە</item>
+    <!-- rw - Kinyarwanda -->
+    <item>رىۋانداچە</item>
+    <!-- rwk - Rwa -->
+    <item>رىۋاچە</item>
+    <!-- sa - Sanskrit -->
+    <item>سانسكرىتچە</item>
+    <!-- sad - Sandawe -->
+    <item>سانداۋېچە</item>
+    <!-- sah - Sakha -->
+    <item>ياقۇتچە</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>سامارىتانچە</item>
+    <!-- saq - Samburu -->
+    <item>سامبۇرۇچە</item>
+    <!-- sas - Sasak -->
+    <item>ساساكچە</item>
+    <!-- sat - Santali -->
+    <item>سانتالىچە</item>
+    <!-- sba - Ngambay -->
+    <item>نگامبايچە</item>
+    <!-- sbp - Sangu -->
+    <item>سانگۇچە</item>
+    <!-- sc - Sardinian -->
+    <item>ساردىنىيەچە</item>
+    <!-- scn - Sicilian -->
+    <item>سىتسىلىيەچە</item>
+    <!-- sco - Scots -->
+    <item>شوتلاندىيەچە</item>
+    <!-- sd - Sindhi -->
+    <item>سىندىچە</item>
+    <!-- se - Northern Sami -->
+    <item>شىمالى سامىچە</item>
+    <!-- see - Seneca -->
+    <item>سېكنېكاچە</item>
+    <!-- seh - Sena -->
+    <item>سېناچە</item>
+    <!-- sel - Selkup -->
+    <item>سېلكاپچە</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>شەرقىي سوڭخايچە</item>
+    <!-- sg - Sango -->
+    <item>سانگوچە</item>
+    <!-- sga - Old Irish -->
+    <item>قەدىمكى ئىرېلاندچە</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>سېرب-كرودىيەچە</item>
+    <!-- shi - Tachelhit -->
+    <item>شىلخاچە</item>
+    <!-- shn - Shan -->
+    <item>شانچە</item>
+    <!-- shu - Chadian Arabic -->
+    <item>چاد ئەرەبچە</item>
+    <!-- si - Sinhala -->
+    <item>سىنگالچە</item>
+    <!-- sid - Sidamo -->
+    <item>سىداموچە</item>
+    <!-- sk - Slovak -->
+    <item>سىلوۋاكچە</item>
+    <!-- sl - Slovenian -->
+    <item>سىلوۋېنىيەچە</item>
+    <!-- sm - Samoan -->
+    <item>ساموئاچە</item>
+    <!-- sma - Southern Sami -->
+    <item>جەنۇبى سامى تىللىرى</item>
+    <!-- smj - Lule Sami -->
+    <item>لۇلې سامىچە</item>
+    <!-- smn - Inari Sami -->
+    <item>ئىنارى سامىچە</item>
+    <!-- sms - Skolt Sami -->
+    <item>سىكولت سامىچە</item>
+    <!-- sn - Shona -->
+    <item>شوناچە</item>
+    <!-- snk - Soninke -->
+    <item>سونىنكەچە</item>
+    <!-- so - Somali -->
+    <item>سومالىچە</item>
+    <!-- sog - Sogdien -->
+    <item>سوغدىچە</item>
+    <!-- sq - Albanian -->
+    <item>ئالبانچە</item>
+    <!-- sr - Serbian -->
+    <item>سېربچە</item>
+    <!-- srn - Sranan Tongo -->
+    <item>سىرانان-توڭوچە</item>
+    <!-- srr - Serer -->
+    <item>سېرېرچە</item>
+    <!-- ss - Swati -->
+    <item>سىۋاتىچە</item>
+    <!-- ssy - Saho -->
+    <item>ساخوچە</item>
+    <!-- st - Southern Sotho -->
+    <item>جەنۇبى سوتوچە</item>
+    <!-- su - Sundanese -->
+    <item>سۇنداچە</item>
+    <!-- suk - Sukuma -->
+    <item>سۇكۇماچە</item>
+    <!-- sus - Susu -->
+    <item>سۇسۇچە</item>
+    <!-- sux - Sumerian -->
+    <item>سۈمەرچە</item>
+    <!-- sv - Swedish -->
+    <item>شۋېدچە</item>
+    <!-- sw - Swahili -->
+    <item>سىۋالىچە</item>
+    <!-- swb - Comorian -->
+    <item>كومورىچە</item>
+    <!-- swc - Congo Swahili -->
+    <item>كونگو سىۋالىچە</item>
+    <!-- syc - Classical Syriac -->
+    <item>كلاسسىك سۈرىيەچە</item>
+    <!-- syr - Syriac -->
+    <item>سۈرىيەچە</item>
+    <!-- ta - Tamil -->
+    <item>تامىلچە</item>
+    <!-- te - Telugu -->
+    <item>تېلۇگۇچە</item>
+    <!-- tem - Timne -->
+    <item>تېمنېچە</item>
+    <!-- teo - Teso -->
+    <item>تېسوچە</item>
+    <!-- ter - Tereno -->
+    <item>تېرېناچە</item>
+    <!-- tet - Tetum -->
+    <item>تېتۇمچە</item>
+    <!-- tg - Tajik -->
+    <item>تاجىكچە</item>
+    <!-- th - Thai -->
+    <item>تايلاندچە</item>
+    <!-- ti - Tigrinya -->
+    <item>تىگرىنياچە</item>
+    <!-- tig - Tigre -->
+    <item>تىگرېچە</item>
+    <!-- tiv - Tiv -->
+    <item>تىۋچە</item>
+    <!-- tk - Turkmen -->
+    <item>تۈركمەنچە</item>
+    <!-- tkl - Tokelau -->
+    <item>توكېلاۋچە</item>
+    <!-- tl - Tagalog -->
+    <item>تاگالوگچە</item>
+    <!-- tlh - Klingon -->
+    <item>كىلىنگونچە</item>
+    <!-- tli - Tlingit -->
+    <item>تىلىنگىتچە</item>
+    <!-- tmh - Tamashek -->
+    <item>تاماشېكچە</item>
+    <!-- tn - Tswana -->
+    <item>سىۋاناچە</item>
+    <!-- to - Tongan -->
+    <item>توڭانچە</item>
+    <!-- tog - Nyasa Tonga -->
+    <item>نياسا توڭانچە</item>
+    <!-- tpi - Tok Pisin -->
+    <item>توك-پىسىنچە</item>
+    <!-- tr - Turkish -->
+    <item>تۈركچە</item>
+    <!-- trv - Taroko -->
+    <item>توروكوچە</item>
+    <!-- ts - Tsonga -->
+    <item>سونگاچە</item>
+    <!-- tsi - Tsimshian -->
+    <item>سىمشيانچە</item>
+    <!-- tt - Tatar -->
+    <item>تاتارچە</item>
+    <!-- tum - Tumbuka -->
+    <item>تۇمبۇكاچە</item>
+    <!-- tvl - Tuvalu -->
+    <item>تۇۋالۇچە</item>
+    <!-- tw - Twi -->
+    <item>تىۋىچە</item>
+    <!-- twq - Tasawaq -->
+    <item>شىمالىي سوڭخايچە</item>
+    <!-- ty - Tahitian -->
+    <item>تاختىچە</item>
+    <!-- tyv - Tuvinian -->
+    <item>توۋاچە</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>مەركىزى ئاتلاس تاماچاگىت</item>
+    <!-- udm - Udmurt -->
+    <item>ئۇدمۇرتچە</item>
+    <!-- ug - Uyghur -->
+    <item>ئۇيغۇرچە</item>
+    <!-- uga - Ugaritic -->
+    <item>ئۇگارىتىكچە</item>
+    <!-- uk - Ukrainian -->
+    <item>ئۇكرائىنچە</item>
+    <!-- umb - Umbundu -->
+    <item>ئۇمبۇندۇچە</item>
+    <!-- und - Unknown Language -->
+    <item>يوچۇن تىل</item>
+    <!-- ur - Urdu -->
+    <item>ئوردوچە</item>
+    <!-- uz - Uzbek -->
+    <item>ئۆزبېكچە</item>
+    <!-- vai - Vai -->
+    <item>ۋايچە</item>
+    <!-- ve - Venda -->
+    <item>ۋېنداچە</item>
+    <!-- vi - Vietnamese -->
+    <item>ۋىيېتنامچە</item>
+    <!-- vo - Volapük -->
+    <item>ۋولاپۇكچە</item>
+    <!-- vot - Votic -->
+    <item>ۋوتېچە</item>
+    <!-- vun - Vunjo -->
+    <item>ۋۇنجوچە</item>
+    <!-- wa - Walloon -->
+    <item>ۋاللۇنچە</item>
+    <!-- wae - Walser -->
+    <item>ۋالسېرچە</item>
+    <!-- wal - Wolaytta -->
+    <item>ۋولايتاچە</item>
+    <!-- war - Waray -->
+    <item>ۋارايچە</item>
+    <!-- was - Washo -->
+    <item>ۋاشوچە</item>
+    <!-- wo - Wolof -->
+    <item>ۋولوفچە</item>
+    <!-- xal - Kalmyk -->
+    <item>قالماقچە</item>
+    <!-- xh - Xhosa -->
+    <item>خوساچە</item>
+    <!-- xog - Soga -->
+    <item>سوگاچە</item>
+    <!-- yao - Yao -->
+    <item>ياۋچە</item>
+    <!-- yap - Yapese -->
+    <item>ياپچە</item>
+    <!-- yav - Yangben -->
+    <item>ياڭبەنچە</item>
+    <!-- ybb - Yemba -->
+    <item>يېمباچە</item>
+    <!-- yi - Yiddish -->
+    <item>يىددىشچە</item>
+    <!-- yo - Yoruba -->
+    <item>يورۇباچە</item>
+    <!-- yue - Cantonese -->
+    <item>گۇاڭدوڭچە</item>
+    <!-- za - Zhuang -->
+    <item>جۇاڭچە</item>
+    <!-- zap - Zapotec -->
+    <item>زاپوتېكچە</item>
+    <!-- zbl - Blissymbols -->
+    <item>بىلىس بەلگىلىرى</item>
+    <!-- zen - Zenaga -->
+    <item>زېناگاچە</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>ئۆلچەملىك ماراكەش تامازىتچە</item>
+    <!-- zh - Chinese -->
+    <item>خەنچە</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>ئاددىي خەنچە</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>مۇرەككەپ خەنچە</item>
+    <!-- zu - Zulu -->
+    <item>زۇلۇچە</item>
+    <!-- zun - Zuni -->
+    <item>زۇنىچە</item>
+    <!-- zxx - No linguistic content -->
+    <item>تىل مەزمۇنى يوق</item>
+    <!-- zza - Zaza -->
+    <item>زازاچە</item>
+  </string-array>
+</resources>

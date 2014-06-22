@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Tigrinya (ti) -->
+  <string-array name="languages_all">
+    <!-- af - Afrikaans -->
+    <item>አፍሪቃንሰኛ</item>
+    <!-- am - Amharic -->
+    <item>አምሐረኛ</item>
+    <!-- ar - Arabic -->
+    <item>ዓረበኛ</item>
+    <!-- az - Azerbaijani -->
+    <item>አዜርባይጃንኛ</item>
+    <!-- be - Belarusian -->
+    <item>ቤላራሻኛ</item>
+    <!-- bg - Bulgarian -->
+    <item>ቡልጋሪኛ</item>
+    <!-- bn - Bengali -->
+    <item>በንጋሊኛ</item>
+    <!-- br - Breton -->
+    <item>ብሬቶን</item>
+    <!-- bs - Bosnian -->
+    <item>ቦስኒያን</item>
+    <!-- ca - Catalan -->
+    <item>ካታላን</item>
+    <!-- cs - Czech -->
+    <item>ቼክኛ</item>
+    <!-- cy - Welsh -->
+    <item>ወልሽ</item>
+    <!-- da - Danish -->
+    <item>ዴኒሽ</item>
+    <!-- de - German -->
+    <item>ጀርመን</item>
+    <!-- el - Greek -->
+    <item>ግሪከኛ</item>
+    <!-- en - English -->
+    <item>እንግሊዝኛ</item>
+    <!-- eo - Esperanto -->
+    <item>ኤስፐራንቶ</item>
+    <!-- es - Spanish -->
+    <item>ስፓኒሽ</item>
+    <!-- et - Estonian -->
+    <item>ኤስቶኒአን</item>
+    <!-- eu - Basque -->
+    <item>ባስክኛ</item>
+    <!-- fa - Persian -->
+    <item>ፐርሲያኛ</item>
+    <!-- fi - Finnish -->
+    <item>ፊኒሽ</item>
+    <!-- fil - Filipino -->
+    <item>ታጋሎገኛ</item>
+    <!-- fo - Faroese -->
+    <item>ፋሮኛ</item>
+    <!-- fr - French -->
+    <item>ፈረንሳይኛ</item>
+    <!-- fy - Western Frisian -->
+    <item>ፍሪሰኛ</item>
+    <!-- ga - Irish -->
+    <item>አይሪሽ</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>እስኮትስ ጌልክኛ</item>
+    <!-- gl - Galician -->
+    <item>ጋለቪኛ</item>
+    <!-- gn - Guarani -->
+    <item>ጓራኒ</item>
+    <!-- gu - Gujarati -->
+    <item>ጉጃራቲኛ</item>
+    <!-- he - Hebrew -->
+    <item>ዕብራስጥ</item>
+    <!-- hi - Hindi -->
+    <item>ሕንደኛ</item>
+    <!-- hr - Croatian -->
+    <item>ክሮሽያንኛ</item>
+    <!-- hu - Hungarian -->
+    <item>ሀንጋሪኛ</item>
+    <!-- ia - Interlingua -->
+    <item>ኢንቴር ቋንቋ</item>
+    <!-- id - Indonesian -->
+    <item>እንዶኑሲኛ</item>
+    <!-- is - Icelandic -->
+    <item>አይስላንደኛ</item>
+    <!-- it - Italian -->
+    <item>ጣሊያንኛ</item>
+    <!-- ja - Japanese -->
+    <item>ጃፓንኛ</item>
+    <!-- jv - Javanese -->
+    <item>ጃቫንኛ</item>
+    <!-- ka - Georgian -->
+    <item>ጊዮርጊያኛ</item>
+    <!-- kn - Kannada -->
+    <item>ካማደኛ</item>
+    <!-- ko - Korean -->
+    <item>ኮሪያኛ</item>
+    <!-- ku - Kurdish -->
+    <item>ኩርድሽ</item>
+    <!-- ky - Kyrgyz -->
+    <item>ኪሩጋዚ</item>
+    <!-- la - Latin -->
+    <item>ላቲንኛ</item>
+    <!-- lt - Lithuanian -->
+    <item>ሊቱአኒየን</item>
+    <!-- lv - Latvian -->
+    <item>ላቲቪያን</item>
+    <!-- mk - Macedonian -->
+    <item>ማክዶኒኛ</item>
+    <!-- ml - Malayalam -->
+    <item>ማላያላምኛ</item>
+    <!-- mr - Marathi -->
+    <item>ማራቲኛ</item>
+    <!-- ms - Malay -->
+    <item>ማላይኛ</item>
+    <!-- mt - Maltese -->
+    <item>ማልቲስኛ</item>
+    <!-- ne - Nepali -->
+    <item>ኔፖሊኛ</item>
+    <!-- nl - Dutch -->
+    <item>ደች</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ኖርዌይኛ (ናይ ኝኖርስክ)</item>
+    <!-- no - Norwegian -->
+    <item>ኖርዌጂያን</item>
+    <!-- oc - Occitan -->
+    <item>ኦኪታንኛ</item>
+    <!-- or - Oriya -->
+    <item>ኦሪያ</item>
+    <!-- pa - Punjabi -->
+    <item>ፑንጃቢኛ</item>
+    <!-- pl - Polish -->
+    <item>ፖሊሽ</item>
+    <!-- ps - Pashto -->
+    <item>ፓሽቶ</item>
+    <!-- pt - Portuguese -->
+    <item>ፖርቱጋሊኛ</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>ፖርቱጋልኛ (ናይ ብራዚል)</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ፖርቱጋልኛ (ናይ ፖርቱጋል)</item>
+    <!-- ro - Romanian -->
+    <item>ሮማኒያን</item>
+    <!-- ru - Russian -->
+    <item>ራሽኛ</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>ሰርቦ- ክሮዊታን</item>
+    <!-- si - Sinhala -->
+    <item>ስንሃልኛ</item>
+    <!-- sk - Slovak -->
+    <item>ስሎቨክኛ</item>
+    <!-- sl - Slovenian -->
+    <item>ስቁቪኛ</item>
+    <!-- sq - Albanian -->
+    <item>አልቤኒኛ</item>
+    <!-- sr - Serbian -->
+    <item>ሰርቢኛ</item>
+    <!-- st - Southern Sotho -->
+    <item>ሰሴቶ</item>
+    <!-- su - Sundanese -->
+    <item>ሱዳንኛ</item>
+    <!-- sv - Swedish -->
+    <item>ስዊድንኛ</item>
+    <!-- sw - Swahili -->
+    <item>ሰዋሂሊኛ</item>
+    <!-- ta - Tamil -->
+    <item>ታሚልኛ</item>
+    <!-- te - Telugu -->
+    <item>ተሉጉኛ</item>
+    <!-- th - Thai -->
+    <item>ታይኛ</item>
+    <!-- ti - Tigrinya -->
+    <item>ትግርኛ</item>
+    <!-- tk - Turkmen -->
+    <item>ናይ ቱርኪ ሰብዓይ (ቱርካዊ)</item>
+    <!-- tlh - Klingon -->
+    <item>ክሊንግኦንኛ</item>
+    <!-- tr - Turkish -->
+    <item>ቱርከኛ</item>
+    <!-- tw - Twi -->
+    <item>ትዊ</item>
+    <!-- uk - Ukrainian -->
+    <item>ዩክረኒኛ</item>
+    <!-- ur - Urdu -->
+    <item>ኡርዱኛ</item>
+    <!-- uz - Uzbek -->
+    <item>ኡዝበክኛ</item>
+    <!-- vi - Vietnamese -->
+    <item>ቪትናምኛ</item>
+    <!-- xh - Xhosa -->
+    <item>ዞሳኛ</item>
+    <!-- yi - Yiddish -->
+    <item>ዪዲሽ</item>
+    <!-- zu - Zulu -->
+    <item>ዙሉኛ</item>
+  </string-array>
+</resources>

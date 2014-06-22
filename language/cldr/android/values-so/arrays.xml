@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Somali (so) -->
+  <string-array name="languages_all">
+    <!-- af - Afrikaans -->
+    <item>Afrikaanays</item>
+    <!-- ak - Akan -->
+    <item>Akan</item>
+    <!-- am - Amharic -->
+    <item>Axmaari</item>
+    <!-- ar - Arabic -->
+    <item>Carabi</item>
+    <!-- as - Assamese -->
+    <item>Asaamiis</item>
+    <!-- az - Azerbaijani -->
+    <item>Azerbaijan</item>
+    <!-- be - Belarusian -->
+    <item>Beleruusiyaan</item>
+    <!-- bg - Bulgarian -->
+    <item>Bulgeeriyaan</item>
+    <!-- bn - Bengali -->
+    <item>Bangaali</item>
+    <!-- br - Breton -->
+    <item>Bereton</item>
+    <!-- bs - Bosnian -->
+    <item>Boosniya</item>
+    <!-- ca - Catalan -->
+    <item>Katalaan</item>
+    <!-- cs - Czech -->
+    <item>Jeeg</item>
+    <!-- cy - Welsh -->
+    <item>Welsh</item>
+    <!-- da - Danish -->
+    <item>Danmarkays</item>
+    <!-- de - German -->
+    <item>Jarmal</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Jarmal (Iswiiserlaand)</item>
+    <!-- el - Greek -->
+    <item>Giriik</item>
+    <!-- en - English -->
+    <item>Ingiriisi</item>
+    <!-- en_GB - British English -->
+    <item>Ingiriisi (Boqortooyada Midowday)</item>
+    <!-- en_US - American English -->
+    <item>Ingiriisi (Maraykan)</item>
+    <!-- eo - Esperanto -->
+    <item>Isberento</item>
+    <!-- es - Spanish -->
+    <item>Isbaanish</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Isbaanishka Laatiin Ameerika</item>
+    <!-- es_ES - European Spanish -->
+    <item>Isbaanish (Isbayn)</item>
+    <!-- et - Estonian -->
+    <item>Istooniyaan</item>
+    <!-- eu - Basque -->
+    <item>Basquu</item>
+    <!-- fa - Persian -->
+    <item>Faarisi</item>
+    <!-- fi - Finnish -->
+    <item>Fiinlaandees</item>
+    <!-- fil - Filipino -->
+    <item>Tagalog</item>
+    <!-- fo - Faroese -->
+    <item>Farowsi</item>
+    <!-- fr - French -->
+    <item>Faransiis</item>
+    <!-- fr_CH - Swiss French -->
+    <item>Faransiis (Iswiiserlaand)</item>
+    <!-- fy - Western Frisian -->
+    <item>Firiisiyan Galbeed</item>
+    <!-- ga - Irish -->
+    <item>Ayrish</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Iskot Giilik</item>
+    <!-- gl - Galician -->
+    <item>Galiisiyaan</item>
+    <!-- gn - Guarani -->
+    <item>Guraani</item>
+    <!-- gu - Gujarati -->
+    <item>Gujaraati</item>
+    <!-- ha - Hausa -->
+    <item>Hawsa</item>
+    <!-- he - Hebrew -->
+    <item>Cibri</item>
+    <!-- hi - Hindi -->
+    <item>Hindi</item>
+    <!-- hr - Croatian -->
+    <item>Koro'eeshiyaan</item>
+    <!-- hu - Hungarian -->
+    <item>Hangariyaan</item>
+    <!-- hy - Armenian -->
+    <item>Armeeniyaan</item>
+    <!-- ia - Interlingua -->
+    <item>Interlinguwa</item>
+    <!-- id - Indonesian -->
+    <item>Indunuusiyaan</item>
+    <!-- ie - Interlingue -->
+    <item>Interlingue</item>
+    <!-- ig - Igbo -->
+    <item>Igbo</item>
+    <!-- is - Icelandic -->
+    <item>Ayslandays</item>
+    <!-- it - Italian -->
+    <item>Talyaani</item>
+    <!-- ja - Japanese -->
+    <item>Jabbaaniis</item>
+    <!-- jv - Javanese -->
+    <item>Jafaaniis</item>
+    <!-- ka - Georgian -->
+    <item>Joorijiyaan</item>
+    <!-- km - Khmer -->
+    <item>Kamboodhian</item>
+    <!-- kn - Kannada -->
+    <item>Kannadays</item>
+    <!-- ko - Korean -->
+    <item>Kuuriyaan</item>
+    <!-- ku - Kurdish -->
+    <item>Kurdishka</item>
+    <!-- ky - Kyrgyz -->
+    <item>Kirgiis</item>
+    <!-- la - Latin -->
+    <item>Laatiin</item>
+    <!-- ln - Lingala -->
+    <item>Lingala</item>
+    <!-- lo - Lao -->
+    <item>Laothian</item>
+    <!-- lt - Lithuanian -->
+    <item>Lituwaanays</item>
+    <!-- lv - Latvian -->
+    <item>Laatfiyaan</item>
+    <!-- mk - Macedonian -->
+    <item>Masadooniyaan</item>
+    <!-- ml - Malayalam -->
+    <item>Malayalam</item>
+    <!-- mn - Mongolian -->
+    <item>Mangooli</item>
+    <!-- mr - Marathi -->
+    <item>Maarati</item>
+    <!-- ms - Malay -->
+    <item>Malaay</item>
+    <!-- mt - Maltese -->
+    <item>Maltiis</item>
+    <!-- my - Burmese -->
+    <item>Burmese</item>
+    <!-- ne - Nepali -->
+    <item>Nebaali</item>
+    <!-- nl - Dutch -->
+    <item>Holandays</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Nowrwejiyan (naynoroski)</item>
+    <!-- no - Norwegian -->
+    <item>Af Noorwiijiyaan</item>
+    <!-- oc - Occitan -->
+    <item>Okitaan</item>
+    <!-- or - Oriya -->
+    <item>Oriya</item>
+    <!-- pa - Punjabi -->
+    <item>Bunjaabi</item>
+    <!-- pl - Polish -->
+    <item>Boolish</item>
+    <!-- ps - Pashto -->
+    <item>Bashtuu</item>
+    <!-- pt - Portuguese -->
+    <item>Boortaqiis</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Boortaqiiska Baraasiil</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Boortaqiis (Boortuqaal)</item>
+    <!-- ro - Romanian -->
+    <item>Romanka</item>
+    <!-- ru - Russian -->
+    <item>Ruush</item>
+    <!-- rw - Kinyarwanda -->
+    <item>Rwanda</item>
+    <!-- sa - Sanskrit -->
+    <item>Sanskrit</item>
+    <!-- sd - Sindhi -->
+    <item>SINDHI</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Serbiyaan</item>
+    <!-- si - Sinhala -->
+    <item>Sinhaleys</item>
+    <!-- sk - Slovak -->
+    <item>Isloofaak</item>
+    <!-- sl - Slovenian -->
+    <item>Islofeeniyaan</item>
+    <!-- so - Somali -->
+    <item>Soomaali</item>
+    <!-- sq - Albanian -->
+    <item>Albaaniyaan</item>
+    <!-- sr - Serbian -->
+    <item>Seerbiyaan</item>
+    <!-- st - Southern Sotho -->
+    <item>Sesooto</item>
+    <!-- su - Sundanese -->
+    <item>Suudaaniis</item>
+    <!-- sv - Swedish -->
+    <item>Swiidhis</item>
+    <!-- sw - Swahili -->
+    <item>Sawaaxili</item>
+    <!-- ta - Tamil -->
+    <item>Tamiil</item>
+    <!-- te - Telugu -->
+    <item>Teluugu</item>
+    <!-- th - Thai -->
+    <item>Taaylandays</item>
+    <!-- ti - Tigrinya -->
+    <item>Tigrinya</item>
+    <!-- tk - Turkmen -->
+    <item>Turkumaanish</item>
+    <!-- tlh - Klingon -->
+    <item>Kiligoon</item>
+    <!-- tr - Turkish -->
+    <item>Turkish</item>
+    <!-- tw - Twi -->
+    <item>Tiwiyan</item>
+    <!-- ug - Uyghur -->
+    <item>UIGHUR</item>
+    <!-- uk - Ukrainian -->
+    <item>Yukreeniyaan</item>
+    <!-- und - Unknown Language -->
+    <item>Af aan la aqoon ama aan sax ahayn</item>
+    <!-- ur - Urdu -->
+    <item>Urduu</item>
+    <!-- uz - Uzbek -->
+    <item>Usbakis</item>
+    <!-- vi - Vietnamese -->
+    <item>Fiitnaamays</item>
+    <!-- xh - Xhosa -->
+    <item>Hoosta</item>
+    <!-- yi - Yiddish -->
+    <item>Yadhish</item>
+    <!-- yo - Yoruba -->
+    <item>Yoruuba</item>
+    <!-- zh - Chinese -->
+    <item>Jayniis</item>
+    <!-- zu - Zulu -->
+    <item>Zuulu</item>
+  </string-array>
+</resources>

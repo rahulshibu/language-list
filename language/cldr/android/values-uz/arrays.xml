@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Uzbek (uz) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>abxazcha</item>
+    <!-- af - Afrikaans -->
+    <item>afrikancha</item>
+    <!-- am - Amharic -->
+    <item>amxarcha</item>
+    <!-- ar - Arabic -->
+    <item>arabcha</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>zamonavij standart arabcha</item>
+    <!-- as - Assamese -->
+    <item>assamcha</item>
+    <!-- az - Azerbaijani -->
+    <item>ozarbayjoncha</item>
+    <!-- be - Belarusian -->
+    <item>belaruscha</item>
+    <!-- bg - Bulgarian -->
+    <item>bolgarcha</item>
+    <!-- bn - Bengali -->
+    <item>bengalcha</item>
+    <!-- bo - Tibetan -->
+    <item>tibetcha</item>
+    <!-- bs - Bosnian -->
+    <item>bosniyacha</item>
+    <!-- ca - Catalan -->
+    <item>katalancha</item>
+    <!-- cs - Czech -->
+    <item>chexcha</item>
+    <!-- cy - Welsh -->
+    <item>uelscha</item>
+    <!-- da - Danish -->
+    <item>daniyacha</item>
+    <!-- de - German -->
+    <item>olmoncha</item>
+    <!-- de_AT - Austrian German -->
+    <item>Avstriya olmonchasi</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Shvesariya olmonchasi</item>
+    <!-- el - Greek -->
+    <item>grekcha</item>
+    <!-- en - English -->
+    <item>inglizcha</item>
+    <!-- en_AU - Australian English -->
+    <item>Avstraliya inglizchasi</item>
+    <!-- en_CA - Canadian English -->
+    <item>Kanada inglizchasi</item>
+    <!-- en_GB - British English -->
+    <item>Britaniya inglizchasi</item>
+    <!-- en_US - American English -->
+    <item>AQSh inglizchasi</item>
+    <!-- eo - Esperanto -->
+    <item>esperanto</item>
+    <!-- es - Spanish -->
+    <item>ispancha</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Lotin Amerika ispanchasi</item>
+    <!-- es_ES - European Spanish -->
+    <item>Yevropa ispanchasi</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>Meksika ispanchasi</item>
+    <!-- et - Estonian -->
+    <item>estoncha</item>
+    <!-- eu - Basque -->
+    <item>baskcha</item>
+    <!-- fa - Persian -->
+    <item>forscha</item>
+    <!-- fi - Finnish -->
+    <item>fincha</item>
+    <!-- fil - Filipino -->
+    <item>filipino</item>
+    <!-- fj - Fijian -->
+    <item>fijicha</item>
+    <!-- fo - Faroese -->
+    <item>farercha</item>
+    <!-- fr - French -->
+    <item>fransuzcha</item>
+    <!-- fr_CA - Canadian French -->
+    <item>Kanada fransuzchasi</item>
+    <!-- fr_CH - Swiss French -->
+    <item>Shvesariya fransuzchasi</item>
+    <!-- fy - Western Frisian -->
+    <item>gʻarbiy friziancha</item>
+    <!-- ga - Irish -->
+    <item>irlandcha</item>
+    <!-- gl - Galician -->
+    <item>galitsiycha</item>
+    <!-- gn - Guarani -->
+    <item>guarani</item>
+    <!-- gsw - Swiss German -->
+    <item>shveysariya nemischasi</item>
+    <!-- gu - Gujarati -->
+    <item>gujarati</item>
+    <!-- ha - Hausa -->
+    <item>xausa</item>
+    <!-- haw - Hawaiian -->
+    <item>gavaycha</item>
+    <!-- he - Hebrew -->
+    <item>ibroniy</item>
+    <!-- hi - Hindi -->
+    <item>hindcha</item>
+    <!-- hr - Croatian -->
+    <item>xorvatcha</item>
+    <!-- ht - Haitian -->
+    <item>gaitiancha</item>
+    <!-- hu - Hungarian -->
+    <item>vengrcha</item>
+    <!-- hy - Armenian -->
+    <item>armancha</item>
+    <!-- id - Indonesian -->
+    <item>indoneziyacha</item>
+    <!-- ig - Igbo -->
+    <item>igbo</item>
+    <!-- is - Icelandic -->
+    <item>islandcha</item>
+    <!-- it - Italian -->
+    <item>italyancha</item>
+    <!-- ja - Japanese -->
+    <item>yaponcha</item>
+    <!-- jv - Javanese -->
+    <item>yavancha</item>
+    <!-- ka - Georgian -->
+    <item>gruzincha</item>
+    <!-- kk - Kazakh -->
+    <item>qozoqcha</item>
+    <!-- km - Khmer -->
+    <item>xmercha</item>
+    <!-- kn - Kannada -->
+    <item>kannada</item>
+    <!-- ko - Korean -->
+    <item>koreyscha</item>
+    <!-- ks - Kashmiri -->
+    <item>kashmircha</item>
+    <!-- ku - Kurdish -->
+    <item>kurdcha</item>
+    <!-- ky - Kyrgyz -->
+    <item>qirgʻizcha</item>
+    <!-- la - Latin -->
+    <item>lotincha</item>
+    <!-- lb - Luxembourgish -->
+    <item>lyuksemburgcha</item>
+    <!-- lo - Lao -->
+    <item>lao</item>
+    <!-- lt - Lithuanian -->
+    <item>litvacha</item>
+    <!-- lv - Latvian -->
+    <item>latishcha</item>
+    <!-- mg - Malagasy -->
+    <item>malagasi</item>
+    <!-- mi - Maori -->
+    <item>maori</item>
+    <!-- mk - Macedonian -->
+    <item>makedoncha</item>
+    <!-- ml - Malayalam -->
+    <item>malayalam</item>
+    <!-- mr - Marathi -->
+    <item>marati</item>
+    <!-- ms - Malay -->
+    <item>malaycha</item>
+    <!-- mt - Maltese -->
+    <item>maltacha</item>
+    <!-- my - Burmese -->
+    <item>birmancha</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>norvegcha bokmal</item>
+    <!-- ne - Nepali -->
+    <item>nepalcha</item>
+    <!-- nl - Dutch -->
+    <item>gollandcha</item>
+    <!-- nl_BE - Flemish -->
+    <item>flamandcha</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>norvegcha ninorsk</item>
+    <!-- or - Oriya -->
+    <item>oriya</item>
+    <!-- pa - Punjabi -->
+    <item>panjobcha</item>
+    <!-- pl - Polish -->
+    <item>polyakcha</item>
+    <!-- ps - Pashto -->
+    <item>pushtu</item>
+    <!-- pt - Portuguese -->
+    <item>portugalcha</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Braziliya portugalchasi</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Yevropa portugalchasi</item>
+    <!-- qu - Quechua -->
+    <item>kvechua</item>
+    <!-- rm - Romansh -->
+    <item>romancha</item>
+    <!-- ro - Romanian -->
+    <item>rumincha</item>
+    <!-- ru - Russian -->
+    <item>ruscha</item>
+    <!-- sa - Sanskrit -->
+    <item>sanskritcha</item>
+    <!-- sd - Sindhi -->
+    <item>sindxi</item>
+    <!-- si - Sinhala -->
+    <item>sinxala</item>
+    <!-- sk - Slovak -->
+    <item>slovakcha</item>
+    <!-- sl - Slovenian -->
+    <item>slovencha</item>
+    <!-- so - Somali -->
+    <item>somalicha</item>
+    <!-- sq - Albanian -->
+    <item>albancha</item>
+    <!-- sr - Serbian -->
+    <item>serbcha</item>
+    <!-- su - Sundanese -->
+    <item>sundancha</item>
+    <!-- sv - Swedish -->
+    <item>shvedcha</item>
+    <!-- sw - Swahili -->
+    <item>suaxili</item>
+    <!-- ta - Tamil -->
+    <item>tamilcha</item>
+    <!-- te - Telugu -->
+    <item>telugu</item>
+    <!-- tg - Tajik -->
+    <item>tojikcha</item>
+    <!-- th - Thai -->
+    <item>taycha</item>
+    <!-- ti - Tigrinya -->
+    <item>tigrinya</item>
+    <!-- tk - Turkmen -->
+    <item>turkmancha</item>
+    <!-- to - Tongan -->
+    <item>tongocha</item>
+    <!-- tr - Turkish -->
+    <item>turkcha</item>
+    <!-- tt - Tatar -->
+    <item>tatarcha</item>
+    <!-- ug - Uyghur -->
+    <item>uygʻurcha</item>
+    <!-- uk - Ukrainian -->
+    <item>ukraincha</item>
+    <!-- und - Unknown Language -->
+    <item>nomaʼlum til</item>
+    <!-- ur - Urdu -->
+    <item>urdu</item>
+    <!-- uz - Uzbek -->
+    <item>oʻzbekcha</item>
+    <!-- vi - Vietnamese -->
+    <item>vyetnamcha</item>
+    <!-- wo - Wolof -->
+    <item>volofcha</item>
+    <!-- xh - Xhosa -->
+    <item>xosa</item>
+    <!-- yo - Yoruba -->
+    <item>yoruba</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>standart marokash tamazit</item>
+    <!-- zh - Chinese -->
+    <item>xitoycha</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>soddalashtirilgan xitoycha</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>anʼanaviy xitoycha</item>
+    <!-- zu - Zulu -->
+    <item>zulu</item>
+    <!-- zxx - No linguistic content -->
+    <item>til tarkibi yoʻq</item>
+  </string-array>
+</resources>

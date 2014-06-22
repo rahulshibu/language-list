@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Kinyarwanda (rw) -->
+  <string-array name="languages_all">
+    <!-- af - Afrikaans -->
+    <item>Ikinyafurikaneri</item>
+    <!-- am - Amharic -->
+    <item>Inyamuhariki</item>
+    <!-- ar - Arabic -->
+    <item>Icyarabu</item>
+    <!-- as - Assamese -->
+    <item>Icyasamizi</item>
+    <!-- az - Azerbaijani -->
+    <item>Inyazeribayijani</item>
+    <!-- be - Belarusian -->
+    <item>Ikibelarusiya</item>
+    <!-- bg - Bulgarian -->
+    <item>Urunyabuligariya</item>
+    <!-- bn - Bengali -->
+    <item>Ikibengali</item>
+    <!-- br - Breton -->
+    <item>Inyebiritoni</item>
+    <!-- bs - Bosnian -->
+    <item>Inyebosiniya</item>
+    <!-- ca - Catalan -->
+    <item>Igikatalani</item>
+    <!-- cs - Czech -->
+    <item>Igiceke</item>
+    <!-- cy - Welsh -->
+    <item>Ikigaluwa</item>
+    <!-- da - Danish -->
+    <item>Ikidaninwa</item>
+    <!-- de - German -->
+    <item>Ikidage</item>
+    <!-- el - Greek -->
+    <item>Ikigereki</item>
+    <!-- en - English -->
+    <item>Icyongereza</item>
+    <!-- eo - Esperanto -->
+    <item>Icyesiperanto</item>
+    <!-- es - Spanish -->
+    <item>Icyesipanyolo</item>
+    <!-- et - Estonian -->
+    <item>Icyesitoniya</item>
+    <!-- eu - Basque -->
+    <item>Ikibasiki</item>
+    <!-- fa - Persian -->
+    <item>Inyeperisi</item>
+    <!-- fi - Finnish -->
+    <item>Igifinilande</item>
+    <!-- fil - Filipino -->
+    <item>Ikinyafilipine</item>
+    <!-- fo - Faroese -->
+    <item>Inyefaroyizi</item>
+    <!-- fr - French -->
+    <item>Igifaransa</item>
+    <!-- fy - Western Frisian -->
+    <item>Igifiriziyani</item>
+    <!-- ga - Irish -->
+    <item>Ikirilandi</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>Ikigaluwa cy'Igisweduwa</item>
+    <!-- gl - Galician -->
+    <item>Ikigalisiya</item>
+    <!-- gn - Guarani -->
+    <item>Inyaguwarani</item>
+    <!-- gu - Gujarati -->
+    <item>Inyegujarati</item>
+    <!-- he - Hebrew -->
+    <item>Igiheburayo</item>
+    <!-- hi - Hindi -->
+    <item>Igihindi</item>
+    <!-- hr - Croatian -->
+    <item>Igikorowasiya</item>
+    <!-- hu - Hungarian -->
+    <item>Igihongiriya</item>
+    <!-- hy - Armenian -->
+    <item>Ikinyarumeniya</item>
+    <!-- ia - Interlingua -->
+    <item>Ururimi Gahuzamiryango</item>
+    <!-- id - Indonesian -->
+    <item>Ikinyendoziya</item>
+    <!-- ie - Interlingue -->
+    <item>Uruhuzandimi</item>
+    <!-- is - Icelandic -->
+    <item>Igisilande</item>
+    <!-- it - Italian -->
+    <item>Igitaliyani</item>
+    <!-- ja - Japanese -->
+    <item>Ikiyapani</item>
+    <!-- jv - Javanese -->
+    <item>Inyejava</item>
+    <!-- ka - Georgian -->
+    <item>Inyejeworujiya</item>
+    <!-- km - Khmer -->
+    <item>Igikambodiya</item>
+    <!-- kn - Kannada -->
+    <item>Igikanada</item>
+    <!-- ko - Korean -->
+    <item>Igikoreya</item>
+    <!-- ku - Kurdish -->
+    <item>Inyekuridishi</item>
+    <!-- ky - Kyrgyz -->
+    <item>Inkerigizi</item>
+    <!-- la - Latin -->
+    <item>Ikilatini</item>
+    <!-- ln - Lingala -->
+    <item>Ilingala</item>
+    <!-- lo - Lao -->
+    <item>Ikilawotiyani</item>
+    <!-- lt - Lithuanian -->
+    <item>Ikilituwaniya</item>
+    <!-- lv - Latvian -->
+    <item>Ikinyaletoviyani</item>
+    <!-- mk - Macedonian -->
+    <item>Ikimasedoniyani</item>
+    <!-- ml - Malayalam -->
+    <item>Ikimalayalami</item>
+    <!-- mn - Mongolian -->
+    <item>Ikimongoli</item>
+    <!-- mr - Marathi -->
+    <item>Ikimarati</item>
+    <!-- ms - Malay -->
+    <item>Ikimalayi</item>
+    <!-- mt - Maltese -->
+    <item>Ikimaliteze</item>
+    <!-- ne - Nepali -->
+    <item>Ikinepali</item>
+    <!-- nl - Dutch -->
+    <item>Ikinerilande</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>Inyenoruveji (Nyonorusiki)</item>
+    <!-- no - Norwegian -->
+    <item>Ikinoruveji</item>
+    <!-- oc - Occitan -->
+    <item>Inyogusitani</item>
+    <!-- or - Oriya -->
+    <item>Inyoriya</item>
+    <!-- pa - Punjabi -->
+    <item>Igipunjabi</item>
+    <!-- pl - Polish -->
+    <item>Igipolone</item>
+    <!-- ps - Pashto -->
+    <item>Impashito</item>
+    <!-- pt - Portuguese -->
+    <item>Igiporutugali</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Inyeporutigali (Brezili)</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>Inyeporutigali (Igiporutigali)</item>
+    <!-- ro - Romanian -->
+    <item>Ikinyarumaniya</item>
+    <!-- ru - Russian -->
+    <item>Ikirusiya</item>
+    <!-- rw - Kinyarwanda -->
+    <item>Kinyarwanda</item>
+    <!-- sa - Sanskrit -->
+    <item>Igisansikiri</item>
+    <!-- sd - Sindhi -->
+    <item>Igisindi</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>Inyeseribiya na Korowasiya</item>
+    <!-- si - Sinhala -->
+    <item>Inyesimpaleze</item>
+    <!-- sk - Slovak -->
+    <item>Igisilovaki</item>
+    <!-- sl - Slovenian -->
+    <item>Ikinyasiloveniya</item>
+    <!-- so - Somali -->
+    <item>Igisomali</item>
+    <!-- sq - Albanian -->
+    <item>Icyalubaniya</item>
+    <!-- sr - Serbian -->
+    <item>Igiseribe</item>
+    <!-- st - Southern Sotho -->
+    <item>Inyesesoto</item>
+    <!-- su - Sundanese -->
+    <item>Inyesudani</item>
+    <!-- sv - Swedish -->
+    <item>Igisuweduwa</item>
+    <!-- sw - Swahili -->
+    <item>Igiswahili</item>
+    <!-- ta - Tamil -->
+    <item>Igitamili</item>
+    <!-- te - Telugu -->
+    <item>Igitelugu</item>
+    <!-- th - Thai -->
+    <item>Igitayi</item>
+    <!-- ti - Tigrinya -->
+    <item>Inyatigirinya</item>
+    <!-- tk - Turkmen -->
+    <item>Inyeturukimeni</item>
+    <!-- tlh - Klingon -->
+    <item>Inyekilingoni</item>
+    <!-- tr - Turkish -->
+    <item>Igiturukiya</item>
+    <!-- tw - Twi -->
+    <item>Inyetuwi</item>
+    <!-- ug - Uyghur -->
+    <item>Ikiwiguri</item>
+    <!-- uk - Ukrainian -->
+    <item>Ikinyayukereni</item>
+    <!-- ur - Urdu -->
+    <item>Inyeyurudu</item>
+    <!-- uz - Uzbek -->
+    <item>Inyeyuzubeki</item>
+    <!-- vi - Vietnamese -->
+    <item>Ikinyaviyetinamu</item>
+    <!-- xh - Xhosa -->
+    <item>Inyehawusa</item>
+    <!-- yi - Yiddish -->
+    <item>Inyeyidishi</item>
+    <!-- zu - Zulu -->
+    <item>Inyezulu</item>
+  </string-array>
+</resources>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Dzongkha (dz) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>ཨ་ཕར་ཁ</item>
+    <!-- ab - Abkhazian -->
+    <item>ཨཱབ་ཁ་ཟི་ཡ་ཁ</item>
+    <!-- af - Afrikaans -->
+    <item>ཨཕ་རི་ཀཱནས་ཁ</item>
+    <!-- am - Amharic -->
+    <item>ཨམ་ཧ་རིཀ་ཁ</item>
+    <!-- ar - Arabic -->
+    <item>ཨེ་ར་བིཀ་ཁ</item>
+    <!-- as - Assamese -->
+    <item>ཨ་ས་མིས་ཁ</item>
+    <!-- az - Azerbaijani -->
+    <item>ཨ་ཛར་བྷའི་ཇཱན་ཁ</item>
+    <!-- be - Belarusian -->
+    <item>བེལ་ཨ་རུས་ཁ</item>
+    <!-- bg - Bulgarian -->
+    <item>བཱལ་གེ་རི་ཡཱན་ཁ</item>
+    <!-- bn - Bengali -->
+    <item>བངྒ་ལ་ཁ</item>
+    <!-- bo - Tibetan -->
+    <item>བོད་ཁ</item>
+    <!-- bs - Bosnian -->
+    <item>བྷོས་ནི་ཡཱན་ཁ</item>
+    <!-- ca - Catalan -->
+    <item>ཀེ་ཊ་ལཱན་ཁ</item>
+    <!-- cs - Czech -->
+    <item>ཅེཀ་ཁ</item>
+    <!-- cy - Welsh -->
+    <item>ཝེལཤ་ཁ</item>
+    <!-- da - Danish -->
+    <item>ཌེ་ནིཤ་ཁ</item>
+    <!-- dak - Dakota -->
+    <item>ད་ཀོ་ཏ་ཁ</item>
+    <!-- de - German -->
+    <item>ཇཱར་མཱན་ཁ</item>
+    <!-- de_AT - Austrian German -->
+    <item>ཨཱོས་ཊྲི་ཡཱན་ཇཱར་མཱན་ཁ</item>
+    <!-- de_CH - Swiss High German -->
+    <item>སུ་ཡིས་གི་མཐོ་སའི་ཇཱར་མཱན་ཁ</item>
+    <!-- dv - Divehi -->
+    <item>དི་བེ་ཧི་ཁ</item>
+    <!-- dz - Dzongkha -->
+    <item>རྫོང་ཁ</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>ཨི་ཇིཔ་ཤཱན (སྔ་དུས་ཀྱི)</item>
+    <!-- el - Greek -->
+    <item>གྲིཀ་ཁ</item>
+    <!-- en - English -->
+    <item>ཨིང་ལིཤ་ཁ</item>
+    <!-- en_AU - Australian English -->
+    <item>ཨཱོས་ཊྲེ་ལི་ཡཱན་ཨིང་ལིཤ་ཁ</item>
+    <!-- en_CA - Canadian English -->
+    <item>ཀེ་ན་ཌི་ཡཱན་ཨིང་ལིཤ་ཁ</item>
+    <!-- en_GB - British English -->
+    <item>བྲི་ཊིཤ་ཨིང་ལིཤ་ཁ</item>
+    <!-- en_US - American English -->
+    <item>ཡུ་ཨེས་ཨིང་ལིཤ་ཁ</item>
+    <!-- eo - Esperanto -->
+    <item>ཨེས་པ་རཱན་ཏོ་ཁ</item>
+    <!-- es - Spanish -->
+    <item>ཨིས་པེ་ནིཤ་ཁ</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>ལེ་ཊིན་ཨ་མེ་རི་ཀཱན་གི་ཨིས་པེ་ནིཤ་ཁ</item>
+    <!-- es_ES - European Spanish -->
+    <item>ཡུ་རོབ་ཀྱི་ཨིས་པེ་ནིཤ་ཁ</item>
+    <!-- et - Estonian -->
+    <item>ཨེས་ཊོ་ནི་ཡཱན་ཁ</item>
+    <!-- eu - Basque -->
+    <item>བཱསཀ་ཁ</item>
+    <!-- fa - Persian -->
+    <item>པར་ཤི་ཡཱན་ཁ</item>
+    <!-- fi - Finnish -->
+    <item>ཕི་ནིཤ་ཁ</item>
+    <!-- fil - Filipino -->
+    <item>ཕི་ལི་པི་ནོ་ཁ</item>
+    <!-- fj - Fijian -->
+    <item>ཕི་ཇི་ཡཱན་ཁ</item>
+    <!-- fo - Faroese -->
+    <item>ཕཱ་རོ་ཨིས་ཁ</item>
+    <!-- fr - French -->
+    <item>ཕྲནཅ་ཁ</item>
+    <!-- fr_CA - Canadian French -->
+    <item>ཀེ་ན་ཌི་ཡཱན་ཕྲནཅ་ཁ</item>
+    <!-- fr_CH - Swiss French -->
+    <item>སུ་ཡིས་ཕྲནཅ་ཁ</item>
+    <!-- fy - Western Frisian -->
+    <item>ནུབ་ཕྼི་སི་ཡན་ཁ</item>
+    <!-- ga - Irish -->
+    <item>ཨཱའི་རིཤ་ཁ</item>
+    <!-- gl - Galician -->
+    <item>གལ་ཨིས་ཨི་ཡན་ཁ</item>
+    <!-- gn - Guarani -->
+    <item>གུ་ཝ་ར་ནི་ཁ</item>
+    <!-- grc - Ancient Greek -->
+    <item>གིརིཀ, སྔ་དུས་ཀྱི (༡༤༥༣)</item>
+    <!-- gsw - Swiss German -->
+    <item>སུ་ཡིས་ཇཱར་མཱན་ཁ</item>
+    <!-- gu - Gujarati -->
+    <item>གུ་ཇ་ར་ཏི་ཁ</item>
+    <!-- ha - Hausa -->
+    <item>ཧཝ་ས་ཁ</item>
+    <!-- haw - Hawaiian -->
+    <item>ཧ་ཝ་ཡིའི་ཁ</item>
+    <!-- he - Hebrew -->
+    <item>ཧེ་བྲུ་ཁ</item>
+    <!-- hi - Hindi -->
+    <item>ཧིན་དི་ཁ</item>
+    <!-- hr - Croatian -->
+    <item>ཀྲོ་ཨེ་ཤི་ཡཱན་ཁ</item>
+    <!-- ht - Haitian -->
+    <item>ཧེ་ཏི་ཡཱན་ཁ</item>
+    <!-- hu - Hungarian -->
+    <item>ཧཱང་གྷ་རི་ཡཱན་ཁ</item>
+    <!-- hy - Armenian -->
+    <item>ཨར་མི་ནི་ཡཱན་ཁ</item>
+    <!-- id - Indonesian -->
+    <item>ཨིན་ཌོ་ནེ་ཤི་ཡཱན་ཁ</item>
+    <!-- ig - Igbo -->
+    <item>ཨིག་བོ་ཁ</item>
+    <!-- is - Icelandic -->
+    <item>ཨ་ཡིས་ལེན་ཌིཀ་ཁ</item>
+    <!-- it - Italian -->
+    <item>ཨི་ཊ་ལི་ཡཱན་ཁ</item>
+    <!-- ja - Japanese -->
+    <item>ཇཱ་པཱ་ནིས་ཁ</item>
+    <!-- jv - Javanese -->
+    <item>ཇཱ་བ་ནིས་ཁ</item>
+    <!-- ka - Georgian -->
+    <item>ཇཽ་ཇི་ཡཱན་ཁ</item>
+    <!-- kac - Kachin -->
+    <item>ཀ་ཆིན་ཁ</item>
+    <!-- kfo - Koro -->
+    <item>ཀོ་རོ་ཁ</item>
+    <!-- kk - Kazakh -->
+    <item>ཀ་ཛགས་ཁ</item>
+    <!-- km - Khmer -->
+    <item>ཁེ་མེར་ཁ</item>
+    <!-- kn - Kannada -->
+    <item>ཀ་ན་ཌ་ཁ</item>
+    <!-- ko - Korean -->
+    <item>ཀོ་རི་ཡཱན་ཁ</item>
+    <!-- ks - Kashmiri -->
+    <item>ཀཱཤ་མི་རི་ཁ</item>
+    <!-- ku - Kurdish -->
+    <item>ཀར་ཌིཤ་ཁ</item>
+    <!-- ky - Kyrgyz -->
+    <item>ཀིར་གིས་ཁ</item>
+    <!-- la - Latin -->
+    <item>ལེ་ཊིན་ཁ</item>
+    <!-- lb - Luxembourgish -->
+    <item>ལག་ཛམ་བོརྒ་ཁ</item>
+    <!-- lo - Lao -->
+    <item>ལཱ་ཝོས་ཁ</item>
+    <!-- lt - Lithuanian -->
+    <item>ལི་ཐུ་ཝེ་ནི་ཡཱན་ཁ</item>
+    <!-- lv - Latvian -->
+    <item>ལཊ་བི་ཡཱན་ཁ</item>
+    <!-- mg - Malagasy -->
+    <item>མ་ལ་ག་སི་ཁ</item>
+    <!-- mi - Maori -->
+    <item>མ་ཨོ་རི་ཁ</item>
+    <!-- mk - Macedonian -->
+    <item>མ་སེ་ཌོ་ནི་ཡཱན་ཁ</item>
+    <!-- ml - Malayalam -->
+    <item>མ་ལ་ཡ་ལམ་ཁ</item>
+    <!-- mn - Mongolian -->
+    <item>སོག་པོའི་ཁ</item>
+    <!-- mnc - Manchu -->
+    <item>མན་ཇུ་ཁ</item>
+    <!-- mni - Manipuri -->
+    <item>མ་ནི་པུ་རི</item>
+    <!-- mr - Marathi -->
+    <item>མ་ར་ཐི་ཁ</item>
+    <!-- ms - Malay -->
+    <item>མ་ལེ་ཁ</item>
+    <!-- mt - Maltese -->
+    <item>མཱལ་ཊ་ཁ</item>
+    <!-- my - Burmese -->
+    <item>བར་མིས་ཁ</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>ནོར་ཝེ་ཇི་ཡཱན་བོཀ་མཱལ་ཁ</item>
+    <!-- ne - Nepali -->
+    <item>ནེ་པཱལི་ཁ</item>
+    <!-- new - Newari -->
+    <item>ནི་ཝ་རི</item>
+    <!-- nl - Dutch -->
+    <item>ཌཆ་ཁ</item>
+    <!-- nl_BE - Flemish -->
+    <item>ཕྷེལེ་མིཤ་ཁ</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ནོར་ཝེ་ཇི་ཡཱན་ནོརསཀ་ཁ</item>
+    <!-- no - Norwegian -->
+    <item>ནོར་ཝི་ཇི་ཡན་ཁ</item>
+    <!-- or - Oriya -->
+    <item>ཨོ་རི་ཡ་ཁ</item>
+    <!-- pa - Punjabi -->
+    <item>པཱན་ཇ་བི་ཁ</item>
+    <!-- pi - Pali -->
+    <item>པ་ལི</item>
+    <!-- pl - Polish -->
+    <item>པོ་ལིཤ་ཁ</item>
+    <!-- ps - Pashto -->
+    <item>པཱཤ་ཏོ་ཁ</item>
+    <!-- pt - Portuguese -->
+    <item>པོར་ཅུ་གིས་ཁ</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>བྲ་ཛི་ལི་ཡཱན་པོར་ཅུ་གིས་ཁ</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>ཨི་བེ་རི་ཡཱན་པོར་ཅུ་གིས་ཁ</item>
+    <!-- qu - Quechua -->
+    <item>ཀྭེ་ཆུ་ཨ་ཁ</item>
+    <!-- rm - Romansh -->
+    <item>རོ་མེ་ནིཤ་ཁ</item>
+    <!-- ro - Romanian -->
+    <item>རོ་མེ་ནི་ཡཱན་ཁ</item>
+    <!-- ru - Russian -->
+    <item>ཨུ་རུ་སུའི་ཁ</item>
+    <!-- sa - Sanskrit -->
+    <item>སཾསྐྲྀཏ་ཁ</item>
+    <!-- sd - Sindhi -->
+    <item>སིན་དཱི་ཁ</item>
+    <!-- shn - Shan -->
+    <item>ཤཱན་ཁ</item>
+    <!-- si - Sinhala -->
+    <item>སིང་ཧ་ལ་ཁ</item>
+    <!-- sk - Slovak -->
+    <item>སུ་ལོ་བཱཀ་ཁ</item>
+    <!-- sl - Slovenian -->
+    <item>སུ་ལོ་བི་ནི་ཡཱན་ཁ</item>
+    <!-- so - Somali -->
+    <item>སོ་མ་ལི་ཁ</item>
+    <!-- sq - Albanian -->
+    <item>ཨཱལ་བེ་ནི་ཡཱན་ཁ</item>
+    <!-- sr - Serbian -->
+    <item>སཱར་བྷི་ཡཱན་ཁ</item>
+    <!-- su - Sundanese -->
+    <item>སཱུན་ད་ནིས་ཁ</item>
+    <!-- sv - Swedish -->
+    <item>སུའི་ཌིཤ་ཁ</item>
+    <!-- sw - Swahili -->
+    <item>སྭཱ་ཧི་ལི་ཁ</item>
+    <!-- ta - Tamil -->
+    <item>ཏ་མིལ་ཁ</item>
+    <!-- te - Telugu -->
+    <item>ཏེ་ལུ་གུ་ཁ</item>
+    <!-- tg - Tajik -->
+    <item>ཏ་ཇིཀ་ཁ</item>
+    <!-- th - Thai -->
+    <item>ཐཱའི་ཁ</item>
+    <!-- ti - Tigrinya -->
+    <item>ཏིག་རི་ཉ་ཁ</item>
+    <!-- tk - Turkmen -->
+    <item>ཊཱརཀ་མེན་ཁ</item>
+    <!-- to - Tongan -->
+    <item>ཊོང་གྷན་ཁ</item>
+    <!-- tr - Turkish -->
+    <item>ཊཱར་ཀིཤ་ཁ</item>
+    <!-- tt - Tatar -->
+    <item>ཊ་ཊར་ཁ</item>
+    <!-- ug - Uyghur -->
+    <item>ཝི་གུར་ཁ</item>
+    <!-- uk - Ukrainian -->
+    <item>ཡུ་ཀེ་རེ་ནི་ཡཱན་ཁ</item>
+    <!-- und - Unknown Language -->
+    <item>ཁ་ངོ་མ་ཤེསཔ</item>
+    <!-- ur - Urdu -->
+    <item>ཨུར་དུ་ཁ</item>
+    <!-- uz - Uzbek -->
+    <item>ཨུས་བེཀ་ཁ</item>
+    <!-- vi - Vietnamese -->
+    <item>བེཊ་ནཱ་མིས་ཁ</item>
+    <!-- wo - Wolof -->
+    <item>ཝོ་ལོཕ་ཁ</item>
+    <!-- xh - Xhosa -->
+    <item>ཞོ་ས་ཁ</item>
+    <!-- yo - Yoruba -->
+    <item>ཡོ་རུ་བ་ཁ</item>
+    <!-- zh - Chinese -->
+    <item>རྒྱ་མི་ཁ</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>རྒྱ་མི་ཁ་འཇམ་སངམ</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ</item>
+    <!-- zu - Zulu -->
+    <item>ཟུ་ལུ་ཁ</item>
+    <!-- zxx - No linguistic content -->
+    <item>སྐད་རིག་ནང་དོན་མེདཔ</item>
+  </string-array>
+</resources>

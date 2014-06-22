@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Pashto (ps) -->
+  <string-array name="languages_all">
+    <!-- af - Afrikaans -->
+    <item>افريکاني</item>
+    <!-- am - Amharic -->
+    <item>امهاري</item>
+    <!-- ar - Arabic -->
+    <item>عربي</item>
+    <!-- as - Assamese -->
+    <item>اسمائى ژبه</item>
+    <!-- az - Azerbaijani -->
+    <item>أذربائجاني</item>
+    <!-- bal - Baluchi -->
+    <item>بلوڅي</item>
+    <!-- be - Belarusian -->
+    <item>بېلاروسي</item>
+    <!-- bg - Bulgarian -->
+    <item>بلغاري</item>
+    <!-- bn - Bengali -->
+    <item>بنګالي</item>
+    <!-- br - Breton -->
+    <item>برېتون</item>
+    <!-- bs - Bosnian -->
+    <item>بوسني</item>
+    <!-- ca - Catalan -->
+    <item>کټلاني</item>
+    <!-- cs - Czech -->
+    <item>چېک</item>
+    <!-- cy - Welsh -->
+    <item>ويلشي</item>
+    <!-- da - Danish -->
+    <item>ډېنش</item>
+    <!-- de - German -->
+    <item>الماني</item>
+    <!-- el - Greek -->
+    <item>یوناني</item>
+    <!-- en - English -->
+    <item>انګلیسي</item>
+    <!-- eo - Esperanto -->
+    <item>اسپرانتو</item>
+    <!-- es - Spanish -->
+    <item>هسپانوي</item>
+    <!-- et - Estonian -->
+    <item>حبشي</item>
+    <!-- eu - Basque -->
+    <item>باسکي</item>
+    <!-- fa - Persian -->
+    <item>فارسي</item>
+    <!-- fi - Finnish -->
+    <item>فینلنډي</item>
+    <!-- fil - Filipino -->
+    <item>تګالوګ</item>
+    <!-- fo - Faroese -->
+    <item>فاروئې</item>
+    <!-- fr - French -->
+    <item>فرانسوي</item>
+    <!-- fy - Western Frisian -->
+    <item>فريزي</item>
+    <!-- ga - Irish -->
+    <item>ائيرلېنډي</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>سکاټلېنډي ګېلک</item>
+    <!-- gl - Galician -->
+    <item>ګلېشيايي</item>
+    <!-- gn - Guarani -->
+    <item>ګوراني</item>
+    <!-- gu - Gujarati -->
+    <item>ګجراتي</item>
+    <!-- he - Hebrew -->
+    <item>عبري</item>
+    <!-- hi - Hindi -->
+    <item>هندي</item>
+    <!-- hr - Croatian -->
+    <item>کروواتي</item>
+    <!-- hu - Hungarian -->
+    <item>هنګري</item>
+    <!-- hy - Armenian -->
+    <item>ارمني</item>
+    <!-- ia - Interlingua -->
+    <item>انټرلنګوا</item>
+    <!-- id - Indonesian -->
+    <item>انډونېشيايي</item>
+    <!-- ie - Interlingue -->
+    <item>آسا نا جبة</item>
+    <!-- is - Icelandic -->
+    <item>أيسلېنډي</item>
+    <!-- it - Italian -->
+    <item>ایټالوي</item>
+    <!-- ja - Japanese -->
+    <item>جاپانی</item>
+    <!-- jv - Javanese -->
+    <item>جاوايې</item>
+    <!-- ka - Georgian -->
+    <item>جورجيائي</item>
+    <!-- km - Khmer -->
+    <item>کمبوډيايې يا د کمبوډيا</item>
+    <!-- kn - Kannada -->
+    <item>کنأډه</item>
+    <!-- ko - Korean -->
+    <item>کوريائي</item>
+    <!-- ku - Kurdish -->
+    <item>کردي</item>
+    <!-- ky - Kyrgyz -->
+    <item>کرګيز</item>
+    <!-- la - Latin -->
+    <item>لاتیني</item>
+    <!-- lo - Lao -->
+    <item>لويتين</item>
+    <!-- lt - Lithuanian -->
+    <item>ليتواني</item>
+    <!-- lv - Latvian -->
+    <item>لېټواني</item>
+    <!-- mg - Malagasy -->
+    <item>ملغاسي</item>
+    <!-- mk - Macedonian -->
+    <item>مقدوني</item>
+    <!-- ml - Malayalam -->
+    <item>مالايالم</item>
+    <!-- mn - Mongolian -->
+    <item>مغولي</item>
+    <!-- mr - Marathi -->
+    <item>مراټهي</item>
+    <!-- ms - Malay -->
+    <item>ملایا</item>
+    <!-- mt - Maltese -->
+    <item>مالټايي</item>
+    <!-- ne - Nepali -->
+    <item>نېپالي</item>
+    <!-- nl - Dutch -->
+    <item>هالېنډي</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>ناروېئي (نائنورسک)</item>
+    <!-- no - Norwegian -->
+    <item>ناروېئې</item>
+    <!-- oc - Occitan -->
+    <item>اوکسيټاني</item>
+    <!-- or - Oriya -->
+    <item>اوريا</item>
+    <!-- pa - Punjabi -->
+    <item>پنجابي</item>
+    <!-- pl - Polish -->
+    <item>پولنډي</item>
+    <!-- ps - Pashto -->
+    <item>پښتو</item>
+    <!-- pt - Portuguese -->
+    <item>پورتګالي</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>پرتگال (برازيل)</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>پرتګالي (پرتګال)</item>
+    <!-- ro - Romanian -->
+    <item>روماني</item>
+    <!-- ru - Russian -->
+    <item>روسي</item>
+    <!-- sa - Sanskrit -->
+    <item>سنسکریټ</item>
+    <!-- sd - Sindhi -->
+    <item>سندهي</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>سرب-کروشيايي</item>
+    <!-- si - Sinhala -->
+    <item>سينهالي</item>
+    <!-- sk - Slovak -->
+    <item>سلوواکي</item>
+    <!-- sl - Slovenian -->
+    <item>سلوواني</item>
+    <!-- so - Somali -->
+    <item>سومالي</item>
+    <!-- sq - Albanian -->
+    <item>الباني</item>
+    <!-- sr - Serbian -->
+    <item>سربيائي</item>
+    <!-- st - Southern Sotho -->
+    <item>سيسوتو</item>
+    <!-- su - Sundanese -->
+    <item>سوډاني</item>
+    <!-- sv - Swedish -->
+    <item>سویډنی</item>
+    <!-- sw - Swahili -->
+    <item>سواهېلي</item>
+    <!-- ta - Tamil -->
+    <item>تامل</item>
+    <!-- te - Telugu -->
+    <item>تېليګو</item>
+    <!-- tg - Tajik -->
+    <item>تاجک</item>
+    <!-- th - Thai -->
+    <item>تايلېنډي</item>
+    <!-- ti - Tigrinya -->
+    <item>تيګريني</item>
+    <!-- tk - Turkmen -->
+    <item>ترکمني</item>
+    <!-- tlh - Klingon -->
+    <item>کلينګاني</item>
+    <!-- tr - Turkish -->
+    <item>ترکي</item>
+    <!-- tt - Tatar -->
+    <item>تاتار</item>
+    <!-- tw - Twi -->
+    <item>توی</item>
+    <!-- ug - Uyghur -->
+    <item>اويگور</item>
+    <!-- uk - Ukrainian -->
+    <item>اوکرانايي</item>
+    <!-- ur - Urdu -->
+    <item>اردو</item>
+    <!-- uz - Uzbek -->
+    <item>ازبکي</item>
+    <!-- vi - Vietnamese -->
+    <item>وېتنامي</item>
+    <!-- xh - Xhosa -->
+    <item>خوسا</item>
+    <!-- yi - Yiddish -->
+    <item>يديش</item>
+    <!-- zh - Chinese -->
+    <item>چیني</item>
+    <!-- zu - Zulu -->
+    <item>زولو</item>
+  </string-array>
+</resources>

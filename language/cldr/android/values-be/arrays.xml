@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Belarusian (be) -->
+  <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>абхазская</item>
+    <!-- ady - Adyghe -->
+    <item>адыгейская</item>
+    <!-- af - Afrikaans -->
+    <item>афрыкаанс</item>
+    <!-- akk - Akkadian -->
+    <item>акадзкая</item>
+    <!-- ale - Aleut -->
+    <item>алеуцкая</item>
+    <!-- am - Amharic -->
+    <item>амхарская</item>
+    <!-- an - Aragonese -->
+    <item>арагонская</item>
+    <!-- ang - Old English -->
+    <item>стараанглійская</item>
+    <!-- ar - Arabic -->
+    <item>арабская</item>
+    <!-- arc - Aramaic -->
+    <item>арамейская</item>
+    <!-- as - Assamese -->
+    <item>асамская</item>
+    <!-- ast - Asturian -->
+    <item>астурыйская</item>
+    <!-- av - Avaric -->
+    <item>аварская</item>
+    <!-- ay - Aymara -->
+    <item>аймара</item>
+    <!-- az - Azerbaijani -->
+    <item>азербайджанская</item>
+    <!-- ba - Bashkir -->
+    <item>башкірская</item>
+    <!-- be - Belarusian -->
+    <item>беларуская</item>
+    <!-- bg - Bulgarian -->
+    <item>балгарская</item>
+    <!-- bn - Bengali -->
+    <item>бенгальская</item>
+    <!-- br - Breton -->
+    <item>брэтонская</item>
+    <!-- bs - Bosnian -->
+    <item>баснійская</item>
+    <!-- bua - Buriat -->
+    <item>бурацкая</item>
+    <!-- ca - Catalan -->
+    <item>каталонская</item>
+    <!-- ce - Chechen -->
+    <item>чачэнская</item>
+    <!-- chb - Chibcha -->
+    <item>чыбча</item>
+    <!-- cop - Coptic -->
+    <item>копцкая</item>
+    <!-- cs - Czech -->
+    <item>чэшская</item>
+    <!-- cv - Chuvash -->
+    <item>чувашская</item>
+    <!-- cy - Welsh -->
+    <item>валійская</item>
+    <!-- da - Danish -->
+    <item>дацкая</item>
+    <!-- de - German -->
+    <item>нямецкая</item>
+    <!-- de_AT - Austrian German -->
+    <item>нямецкая (аўстр.)</item>
+    <!-- de_CH - Swiss High German -->
+    <item>нямецкая (швейц.)</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>стараэгіпецкая</item>
+    <!-- el - Greek -->
+    <item>грэцкая</item>
+    <!-- en - English -->
+    <item>англійская</item>
+    <!-- en_AU - Australian English -->
+    <item>англійская (аўстрал.)</item>
+    <!-- en_CA - Canadian English -->
+    <item>англійская (канад.)</item>
+    <!-- en_US - American English -->
+    <item>англійская (ЗША)</item>
+    <!-- eo - Esperanto -->
+    <item>эсперанта</item>
+    <!-- es - Spanish -->
+    <item>іспанская</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>іспанская (лацінаамер.)</item>
+    <!-- et - Estonian -->
+    <item>эстонская</item>
+    <!-- eu - Basque -->
+    <item>баскская</item>
+    <!-- fa - Persian -->
+    <item>фарсі</item>
+    <!-- fi - Finnish -->
+    <item>фінская</item>
+    <!-- fil - Filipino -->
+    <item>тагальская</item>
+    <!-- fo - Faroese -->
+    <item>фарэрская</item>
+    <!-- fr - French -->
+    <item>французская</item>
+    <!-- fr_CA - Canadian French -->
+    <item>французская (канад.)</item>
+    <!-- fr_CH - Swiss French -->
+    <item>французская (швейц.)</item>
+    <!-- fro - Old French -->
+    <item>старафранцузская</item>
+    <!-- fy - Western Frisian -->
+    <item>фрызская</item>
+    <!-- ga - Irish -->
+    <item>ірландская</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>шатландская гэльская</item>
+    <!-- gl - Galician -->
+    <item>галісійская</item>
+    <!-- gn - Guarani -->
+    <item>гуарані</item>
+    <!-- grc - Ancient Greek -->
+    <item>старагрэцкая</item>
+    <!-- gu - Gujarati -->
+    <item>гуяраці</item>
+    <!-- he - Hebrew -->
+    <item>іўрыт</item>
+    <!-- hi - Hindi -->
+    <item>хіндзі</item>
+    <!-- hr - Croatian -->
+    <item>харвацкая</item>
+    <!-- hu - Hungarian -->
+    <item>венгерская</item>
+    <!-- hy - Armenian -->
+    <item>армянская</item>
+    <!-- ia - Interlingua -->
+    <item>інтэрлінгва</item>
+    <!-- id - Indonesian -->
+    <item>інданезійская</item>
+    <!-- ie - Interlingue -->
+    <item>інтэрлінгве</item>
+    <!-- is - Icelandic -->
+    <item>ісландская</item>
+    <!-- it - Italian -->
+    <item>італьянская</item>
+    <!-- ja - Japanese -->
+    <item>японская</item>
+    <!-- jv - Javanese -->
+    <item>яванская</item>
+    <!-- ka - Georgian -->
+    <item>грузінская</item>
+    <!-- kk - Kazakh -->
+    <item>казахская</item>
+    <!-- kn - Kannada -->
+    <item>каннада</item>
+    <!-- ko - Korean -->
+    <item>карэйская</item>
+    <!-- ku - Kurdish -->
+    <item>курдская</item>
+    <!-- la - Latin -->
+    <item>лацінская</item>
+    <!-- ln - Lingala -->
+    <item>лінгала</item>
+    <!-- lo - Lao -->
+    <item>лаоская</item>
+    <!-- lol - Mongo -->
+    <item>монга</item>
+    <!-- lt - Lithuanian -->
+    <item>літоўская</item>
+    <!-- luo - Luo -->
+    <item>луо</item>
+    <!-- lv - Latvian -->
+    <item>латышская</item>
+    <!-- man - Mandingo -->
+    <item>мандынга</item>
+    <!-- mas - Masai -->
+    <item>масаі</item>
+    <!-- men - Mende -->
+    <item>мендэ</item>
+    <!-- mg - Malagasy -->
+    <item>мальгашская</item>
+    <!-- mk - Macedonian -->
+    <item>македонская</item>
+    <!-- ml - Malayalam -->
+    <item>малаяламская</item>
+    <!-- mn - Mongolian -->
+    <item>мангольская</item>
+    <!-- mos - Mossi -->
+    <item>мосі</item>
+    <!-- mr - Marathi -->
+    <item>маратхі</item>
+    <!-- ms - Malay -->
+    <item>малайская</item>
+    <!-- mt - Maltese -->
+    <item>мальтыйская</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>нарвэская букмал</item>
+    <!-- ne - Nepali -->
+    <item>непальская</item>
+    <!-- nl - Dutch -->
+    <item>галандская</item>
+    <!-- nl_BE - Flemish -->
+    <item>фламандская</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>нарвежская (нюнорск)</item>
+    <!-- no - Norwegian -->
+    <item>нарвежская</item>
+    <!-- nog - Nogai -->
+    <item>нагайская</item>
+    <!-- non - Old Norse -->
+    <item>старанарвежская</item>
+    <!-- oc - Occitan -->
+    <item>правансальская</item>
+    <!-- oj - Ojibwa -->
+    <item>аджыбве</item>
+    <!-- or - Oriya -->
+    <item>орыя</item>
+    <!-- os - Ossetic -->
+    <item>асецінская</item>
+    <!-- pa - Punjabi -->
+    <item>панджабі</item>
+    <!-- peo - Old Persian -->
+    <item>стараперсідская</item>
+    <!-- phn - Phoenician -->
+    <item>фінікійская</item>
+    <!-- pl - Polish -->
+    <item>польская</item>
+    <!-- pro - Old Provençal -->
+    <item>стараправансальская</item>
+    <!-- ps - Pashto -->
+    <item>пушту</item>
+    <!-- pt - Portuguese -->
+    <item>партугальская</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>партугальская (бразіл.)</item>
+    <!-- qu - Quechua -->
+    <item>кечуа</item>
+    <!-- raj - Rajasthani -->
+    <item>раджастханская</item>
+    <!-- rm - Romansh -->
+    <item>рэта-раманская</item>
+    <!-- ro - Romanian -->
+    <item>румынская</item>
+    <!-- ro_MD - Moldavian -->
+    <item>малдаўская</item>
+    <!-- ru - Russian -->
+    <item>руская</item>
+    <!-- sa - Sanskrit -->
+    <item>санскрыт</item>
+    <!-- sah - Sakha -->
+    <item>якуцкая</item>
+    <!-- sd - Sindhi -->
+    <item>сіндхі</item>
+    <!-- sga - Old Irish -->
+    <item>стараірландская</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>сербска-харвацкая</item>
+    <!-- si - Sinhala -->
+    <item>сінгальская</item>
+    <!-- sk - Slovak -->
+    <item>славацкая</item>
+    <!-- sl - Slovenian -->
+    <item>славенская</item>
+    <!-- so - Somali -->
+    <item>самалійская</item>
+    <!-- sq - Albanian -->
+    <item>албанская</item>
+    <!-- sr - Serbian -->
+    <item>сербская</item>
+    <!-- su - Sundanese -->
+    <item>суданская</item>
+    <!-- sux - Sumerian -->
+    <item>шумерская</item>
+    <!-- sv - Swedish -->
+    <item>шведская</item>
+    <!-- sw - Swahili -->
+    <item>суахілі</item>
+    <!-- ta - Tamil -->
+    <item>тамільская</item>
+    <!-- te - Telugu -->
+    <item>тэлугу</item>
+    <!-- tg - Tajik -->
+    <item>таджыкская</item>
+    <!-- th - Thai -->
+    <item>тайская</item>
+    <!-- ti - Tigrinya -->
+    <item>тыгрынья</item>
+    <!-- tk - Turkmen -->
+    <item>туркменская</item>
+    <!-- tlh - Klingon -->
+    <item>клінгон</item>
+    <!-- tr - Turkish -->
+    <item>турэцкая</item>
+    <!-- tt - Tatar -->
+    <item>татарская</item>
+    <!-- tyv - Tuvinian -->
+    <item>тувінская</item>
+    <!-- ug - Uyghur -->
+    <item>уйгурская</item>
+    <!-- uk - Ukrainian -->
+    <item>украінская</item>
+    <!-- und - Unknown Language -->
+    <item>невядомая мова</item>
+    <!-- ur - Urdu -->
+    <item>урду</item>
+    <!-- uz - Uzbek -->
+    <item>узбекская</item>
+    <!-- vi - Vietnamese -->
+    <item>в'етнамская</item>
+    <!-- vo - Volapük -->
+    <item>валапюк</item>
+    <!-- xh - Xhosa -->
+    <item>хоса</item>
+    <!-- yi - Yiddish -->
+    <item>ідыш</item>
+    <!-- zap - Zapotec -->
+    <item>сапатэкаў</item>
+    <!-- zh - Chinese -->
+    <item>кітайская</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>спрошчаная кітайская</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>традыцыйная кітайская</item>
+    <!-- zu - Zulu -->
+    <item>зулу</item>
+  </string-array>
+</resources>
