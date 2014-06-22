@@ -25,7 +25,7 @@ class ExportAndroidXML(Exporter):
     # In order to be able to to localize a particular, limited set of words across multiple
     # languages, here we define a list of language codes to support for every resource file
     # generated. Where localized language names are missing, a place holder is printed. If
-    # {'*'} is specified, then all available language code/name pairs are generated.
+    # ['*'] is specified, then all available language code/name pairs are generated.
     COVERAGE_LIST = ['*']
     
     # Get language names in English as a dict for inclusion in XML comments
