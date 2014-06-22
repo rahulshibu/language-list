@@ -2,35 +2,35 @@
 <resources>
   <!-- sv_FI -->
   <string-array name="languages_all">
-    <!-- chm -->
+    <!-- chm - Mari -->
     <item>mari</item>
-    <!-- fj -->
+    <!-- fj - Fijian -->
     <item>fiji</item>
-    <!-- ha -->
+    <!-- ha - Hausa -->
     <item>hausa</item>
-    <!-- ig -->
+    <!-- ig - Igbo -->
     <item>igbo</item>
-    <!-- km -->
+    <!-- km - Khmer -->
     <item>khmer</item>
-    <!-- ks -->
+    <!-- ks - Kashmiri -->
     <item>kashmiri</item>
-    <!-- ky -->
+    <!-- ky - Kyrgyz -->
     <item>kirgiziska</item>
-    <!-- lo -->
+    <!-- lo - Lao -->
     <item>lao</item>
-    <!-- nb -->
+    <!-- nb - Norwegian Bokmål -->
     <item>bokmål</item>
-    <!-- pa -->
+    <!-- pa - Punjabi -->
     <item>panjabi</item>
-    <!-- ps -->
+    <!-- ps - Pashto -->
     <item>pashto</item>
-    <!-- te -->
+    <!-- te - Telugu -->
     <item>telugu</item>
-    <!-- th -->
+    <!-- th - Thai -->
     <item>thai</item>
-    <!-- ti -->
+    <!-- ti - Tigrinya -->
     <item>tigrinska</item>
-    <!-- und -->
+    <!-- und - Unknown Language -->
     <item>okänt språk</item>
   </string-array>
 </resources>

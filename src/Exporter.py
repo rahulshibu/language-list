@@ -21,6 +21,12 @@ class ExportAndroidXML(Exporter):
 
     source = string indicating source of the data, for example, 'cldr'
     mappings = list of dictionaries containing mappings"""
+
+    # In order to be able to to localize a particular, limited set of words across multiple
+    # languages, here we define a list of language codes to support for every resource file
+    # generated. Where localized language names are missing, a place holder is printed. If
+    # {'*'} is specified, then all available language code/name pairs are generated.
+    COVERAGE_LIST = ['*']
     
     # Get language names in English as a dict for inclusion in XML comments
     english_pairs = {}
@@ -32,7 +38,8 @@ class ExportAndroidXML(Exporter):
     
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + "../" + source + "-android/values-" + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) +
+                           "../" + source + "-android/values-" + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/arrays.xml", "w") as f:
@@ -44,14 +51,30 @@ class ExportAndroidXML(Exporter):
           top.append(top_comment)
           child = SubElement(top, 'string-array')          
           child.attrib['name'] = 'languages_all'
-          for lang_code, lang_name in sorted(v.iteritems()):
-            if k in english_pairs.keys():
-              comment = ElementTree.Comment(' ' + lang_code + ' - ' + english_pairs[lang_code].decode('utf-8') + ' ')
-            else:
-              comment = ElementTree.Comment(' ' + lang_code + ' ')
-            child.append(comment)
-            entry = SubElement(child, 'item')
-            entry.text = lang_name.decode('utf-8')
+          
+          if '*' not in COVERAGE_LIST:
+            # Iterate through only those codes in COVERAGE_LIST
+            for lang_code in COVERAGE_LIST:
+              if lang_code in english_pairs.keys():
+                comment = ElementTree.Comment(' ' + lang_code + ' - ' + english_pairs[lang_code].decode('utf-8') + ' ')
+              else:
+                comment = ElementTree.Comment(' ' + lang_code + ' ')
+              child.append(comment)
+              entry = SubElement(child, 'item')
+              if lang_code in v.keys():
+                entry.text = v[lang_code].decode('utf-8')
+              else:
+                entry.text = "UNDEFINED"
+          else:
+            # Iterate through all available language codes
+            for lang_code, lang_name in sorted(v.iteritems()):
+              if lang_code in english_pairs.keys():
+                comment = ElementTree.Comment(' ' + lang_code + ' - ' + english_pairs[lang_code].decode('utf-8') + ' ')
+              else:
+                comment = ElementTree.Comment(' ' + lang_code + ' ')
+              child.append(comment)
+              entry = SubElement(child, 'item')
+              entry.text = lang_name.decode('utf-8')
           f.write(self.prettify(top))
   
   def prettify(self, elem):
