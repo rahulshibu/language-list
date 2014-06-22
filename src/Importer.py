@@ -5,6 +5,9 @@ Importer classes for retrieving language code/name mappings from a data source.
 from xml.etree import ElementTree
 import os, requests, sys, zipfile
 
+# Whitelist of language codes to handle. Unlisted language code/name mappings are ignored.
+CODES_WHITELIST = {'*'}
+
 class Importer:
   def execute(self):
     raise NotImplementedError("Subclass must implement abstract method")
@@ -91,6 +94,9 @@ class ImportCLDR(Importer):
       return None
     mappings = dict()
     for child in langs:
+      # Ignore language codes not on the whitelist
+      if child.attrib['type'] not in CODES_WHITELIST and '*' not in CODES_WHITELIST:
+        continue
       # Skip alternate names. For example, code 'az' has 'Azerbaijani' and alternate name 'Azeri'
       try:
         child.attrib['alt']
