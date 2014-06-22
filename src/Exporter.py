@@ -32,7 +32,7 @@ class ExportAndroidXML(Exporter):
     
     for entry in mappings:
       for k, v in entry.iteritems():
-        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + "android/values-" + k)
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + "../" + source + "-android/values-" + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
         with open(dir + "/arrays.xml", "w") as f:
