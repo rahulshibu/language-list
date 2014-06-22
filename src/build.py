@@ -14,7 +14,7 @@ default_language = "*" # A two-letter language code, or '*' for all languages
 importers = [ImportCLDR()]
 
 # The list of exporters to use
-exporters = [ExportCSV(), ExportJSON(), ExportTXT(), ExportXML(), ExportYAML()]
+exporters = [ExportAndroidXML(), ExportCSV(), ExportJSON(), ExportTXT(), ExportXML(), ExportYAML()]
 
 language = ""
 

@@ -15,6 +15,52 @@ class Exporter:
   def get_directory(self, source):
     return "../language/%s/" % source
 
+class ExportAndroidXML(Exporter):
+  def execute(self, mappings, source):
+    """Writes the given language code/name mappings to Android XML resource files.
+
+    source = string indicating source of the data, for example, 'cldr'
+    mappings = list of dictionaries containing mappings"""
+    
+    # Get language names in English as a dict for inclusion in XML comments
+    english_pairs = {}
+    for entry in mappings:
+      for k, v in entry.iteritems():
+        if k == 'en':
+          english_pairs = v
+          break
+    
+    for entry in mappings:
+      for k, v in entry.iteritems():
+        dir = os.path.join(os.path.dirname(__file__), self.get_directory(source) + "android/values-" + k)
+        if not os.path.exists(dir):
+          os.makedirs(dir)
+        with open(dir + "/arrays.xml", "w") as f:
+          top = Element('resources')
+          if k in english_pairs.keys():
+            top_comment = ElementTree.Comment(' ' + english_pairs[k].decode('utf-8') + ' (' + k + ') ')
+          else:
+            top_comment = ElementTree.Comment(' ' + k + ' ')
+          top.append(top_comment)
+          child = SubElement(top, 'string-array')          
+          child.attrib['name'] = 'languages_all'
+          for lang_code, lang_name in sorted(v.iteritems()):
+            if k in english_pairs.keys():
+              comment = ElementTree.Comment(' ' + lang_code + ' - ' + english_pairs[lang_code].decode('utf-8') + ' ')
+            else:
+              comment = ElementTree.Comment(' ' + lang_code + ' ')
+            child.append(comment)
+            entry = SubElement(child, 'item')
+            entry.text = lang_name.decode('utf-8')
+          f.write(self.prettify(top))
+  
+  def prettify(self, elem):
+    """Return a pretty-printed XML string for the Element.
+    """
+    rough_string = ElementTree.tostring(elem, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ", encoding='utf-8')
+
 class ExportCSV(Exporter):
   def execute(self, mappings, source):
     """Writes the given language code/name mappings to CSV files.

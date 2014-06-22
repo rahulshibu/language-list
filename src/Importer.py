@@ -2,7 +2,7 @@
 """
 Importer classes for retrieving language code/name mappings from a data source.
 """
-import elementtree.ElementTree as ET
+from xml.etree import ElementTree
 import os, requests, sys, zipfile
 
 class Importer:
@@ -82,7 +82,7 @@ class ImportCLDR(Importer):
     """Import the data from XML into a dictionary
 
     xml_data: string containing all XML from CLDR for a language code or locale code"""
-    root = ET.fromstring(xml_data)
+    root = ElementTree.fromstring(xml_data)
     try:
       langs = root.find('localeDisplayNames').find('languages')
     except AttributeError:
