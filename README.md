@@ -6,6 +6,7 @@ Translated lists of language names alongside their associated language codes.
 Formats Available
 -----------------
 
+- Android XML - [example](language/cldr/android/values-en/arrays.xml)
 - CSV - [example](language/cldr/en/language.csv)
 - JSON - [example](language/cldr/en/language.json)
 - Text - [example](language/cldr/en/language.txt)
