@@ -41,7 +41,7 @@ class ImportCLDR(Importer):
       # Download the file
       r = requests.get(download_location)
       if r.status_code != 200:
-        sys.exit("Downoad failed.")
+        sys.exit("Download failed.")
       fh = open(filename, "wb")
       fh.write(r.content)
       fh.close()
