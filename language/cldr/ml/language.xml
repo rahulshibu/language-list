@@ -46,7 +46,7 @@
   </language>
   <language>
     <code>ak</code>
-    <name>അകാൻ</name>
+    <name>അകാൻ‌</name>
   </language>
   <language>
     <code>akk</code>
@@ -62,7 +62,7 @@
   </language>
   <language>
     <code>am</code>
-    <name>അമാറിക്</name>
+    <name>അംഹാരിക്</name>
   </language>
   <language>
     <code>an</code>
@@ -90,7 +90,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>ആരൗകാനിയൻ</name>
+    <name>മാപുചി</name>
   </language>
   <language>
     <code>arp</code>
@@ -154,7 +154,7 @@
   </language>
   <language>
     <code>be</code>
-    <name>ബൈലോറഷ്യൻ</name>
+    <name>ബെലാറുഷ്യൻ</name>
   </language>
   <language>
     <code>bej</code>
@@ -162,7 +162,7 @@
   </language>
   <language>
     <code>bem</code>
-    <name>ബെംബ</name>
+    <name>ബേംബ</name>
   </language>
   <language>
     <code>bez</code>
@@ -210,11 +210,11 @@
   </language>
   <language>
     <code>bo</code>
-    <name>തിബറ്റൻ</name>
+    <name>ടിബറ്റൻ</name>
   </language>
   <language>
     <code>br</code>
-    <name>ബ്രറ്റൺ</name>
+    <name>ബ്രെട്ടൺ</name>
   </language>
   <language>
     <code>bra</code>
@@ -254,7 +254,7 @@
   </language>
   <language>
     <code>ca</code>
-    <name>കറ്റാലൻ</name>
+    <name>കറ്റാലാൻ</name>
   </language>
   <language>
     <code>cad</code>
@@ -318,7 +318,7 @@
   </language>
   <language>
     <code>chr</code>
-    <name>ചെരോകീ</name>
+    <name>ഷെരോക്കി</name>
   </language>
   <language>
     <code>chy</code>
@@ -330,7 +330,7 @@
   </language>
   <language>
     <code>co</code>
-    <name>കോഴ്സിക്കൺ</name>
+    <name>കോർസിക്കൻ</name>
   </language>
   <language>
     <code>cop</code>
@@ -442,7 +442,7 @@
   </language>
   <language>
     <code>dz</code>
-    <name>ഭൂട്ടാനി</name>
+    <name>സോങ്ക</name>
   </language>
   <language>
     <code>dzg</code>
@@ -454,7 +454,7 @@
   </language>
   <language>
     <code>ee</code>
-    <name>എവ്</name>
+    <name>ഇവ്</name>
   </language>
   <language>
     <code>efi</code>
@@ -514,7 +514,7 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>ഇബേറിയൻ സ്‌പാനിഷ്</name>
+    <name>യൂറോപ്യൻ സ്‌പാനിഷ്</name>
   </language>
   <language>
     <code>es_MX</code>
@@ -613,6 +613,10 @@
     <name>ഗാ</name>
   </language>
   <language>
+    <code>gag</code>
+    <name>ഗാഗൂസ്</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>ഗയൊ</name>
   </language>
@@ -642,7 +646,7 @@
   </language>
   <language>
     <code>gn</code>
-    <name>ഗ്വാറാനി</name>
+    <name>ഗ്വരനീ</name>
   </language>
   <language>
     <code>goh</code>
@@ -670,7 +674,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>സ്വിസ് ജർമൻ</name>
+    <name>സ്വിസ് ജർമ്മൻ</name>
   </language>
   <language>
     <code>gu</code>
@@ -754,7 +758,7 @@
   </language>
   <language>
     <code>ia</code>
-    <name>ഇൻറർലിംഗ്വാ</name>
+    <name>ഇന്റർലിൻ‌ഗ്വാ</name>
   </language>
   <language>
     <code>iba</code>
@@ -815,6 +819,10 @@
   <language>
     <code>jbo</code>
     <name>ലോജ്ബാൻ</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>ഗോമ്പ</name>
   </language>
   <language>
     <code>jmc</code>
@@ -926,7 +934,7 @@
   </language>
   <language>
     <code>km</code>
-    <name>കംബോഡിയൻ</name>
+    <name>ഖമെർ</name>
   </language>
   <language>
     <code>kmb</code>
@@ -939,6 +947,10 @@
   <language>
     <code>ko</code>
     <name>കൊറിയൻ</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>കോമി-പെർമ്യാക്ക്</name>
   </language>
   <language>
     <code>kok</code>
@@ -1038,11 +1050,15 @@
   </language>
   <language>
     <code>lg</code>
-    <name>ഗാൻഡ</name>
+    <name>ഗാണ്ട</name>
   </language>
   <language>
     <code>li</code>
     <name>ലിംബർഗിഷ്</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>ലഗോത്ത</name>
   </language>
   <language>
     <code>ln</code>
@@ -1058,11 +1074,11 @@
   </language>
   <language>
     <code>loz</code>
-    <name>ലോസി</name>
+    <name>ലൊസി</name>
   </language>
   <language>
     <code>lt</code>
-    <name>ലിത്വേനിയൻ</name>
+    <name>ലിത്വാനിയൻ</name>
   </language>
   <language>
     <code>lu</code>
@@ -1082,7 +1098,7 @@
   </language>
   <language>
     <code>luo</code>
-    <name>ലവോ</name>
+    <name>ലുവോ</name>
   </language>
   <language>
     <code>lus</code>
@@ -1094,7 +1110,7 @@
   </language>
   <language>
     <code>lv</code>
-    <name>ലാത്വിയൻ</name>
+    <name>ലാറ്റ്വിയൻ</name>
   </language>
   <language>
     <code>mad</code>
@@ -1122,7 +1138,7 @@
   </language>
   <language>
     <code>mas</code>
-    <name>മസൈ</name>
+    <name>മസായ്</name>
   </language>
   <language>
     <code>mde</code>
@@ -1161,12 +1177,16 @@
     <name>മാഖുവാ-മീത്തോ</name>
   </language>
   <language>
+    <code>mgo</code>
+    <name>മേത്താ</name>
+  </language>
+  <language>
     <code>mh</code>
     <name>മാർഷല്ലീസ്</name>
   </language>
   <language>
     <code>mi</code>
-    <name>മൗറി</name>
+    <name>മവോറി</name>
   </language>
   <language>
     <code>mic</code>
@@ -1206,11 +1226,11 @@
   </language>
   <language>
     <code>mr</code>
-    <name>മറാഠി</name>
+    <name>മറാത്തി</name>
   </language>
   <language>
     <code>ms</code>
-    <name>മലയ</name>
+    <name>മലെയ്</name>
   </language>
   <language>
     <code>mt</code>
@@ -1358,7 +1378,7 @@
   </language>
   <language>
     <code>nyn</code>
-    <name>ന്യാൻകലേ</name>
+    <name>ന്യാൻകോൾ</name>
   </language>
   <language>
     <code>nyo</code>
@@ -1370,7 +1390,7 @@
   </language>
   <language>
     <code>oc</code>
-    <name>ഒക്സിററൻ</name>
+    <name>ഓക്‌സിറ്റൻ</name>
   </language>
   <language>
     <code>oj</code>
@@ -1378,11 +1398,11 @@
   </language>
   <language>
     <code>om</code>
-    <name>ഒറോമൂ</name>
+    <name>ഒറോമോ</name>
   </language>
   <language>
     <code>or</code>
-    <name>ഒറിയ</name>
+    <name>ഒഡിയ</name>
   </language>
   <language>
     <code>os</code>
@@ -1458,11 +1478,15 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>ഇബേറിയൻ പോർച്ചുഗീസ്</name>
+    <name>യൂറോപ്യൻ പോർച്ചുഗീസ്</name>
   </language>
   <language>
     <code>qu</code>
     <name>ക്വെച്ചുവ</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>ക്വിച്ചെ</name>
   </language>
   <language>
     <code>raj</code>
@@ -1478,7 +1502,7 @@
   </language>
   <language>
     <code>rm</code>
-    <name>റെയ്‌തോ-റോമൻസ്</name>
+    <name>റൊമാഞ്ച്</name>
   </language>
   <language>
     <code>rn</code>
@@ -1486,7 +1510,7 @@
   </language>
   <language>
     <code>ro</code>
-    <name>റുമേനിയൻ</name>
+    <name>റൊമാനിയൻ</name>
   </language>
   <language>
     <code>ro_MD</code>
@@ -1514,7 +1538,7 @@
   </language>
   <language>
     <code>rw</code>
-    <name>കിന്യർവണ്ട</name>
+    <name>കിന്യാർവാണ്ട</name>
   </language>
   <language>
     <code>rwk</code>
@@ -1594,7 +1618,7 @@
   </language>
   <language>
     <code>sg</code>
-    <name>സാങ്കോ</name>
+    <name>സാംഗോ</name>
   </language>
   <language>
     <code>sga</code>
@@ -1626,7 +1650,7 @@
   </language>
   <language>
     <code>sk</code>
-    <name>സ്ലോവാക്ക്</name>
+    <name>സ്ലോവാക്</name>
   </language>
   <language>
     <code>sl</code>
@@ -1654,7 +1678,7 @@
   </language>
   <language>
     <code>sn</code>
-    <name>ഷോണാ</name>
+    <name>ഷോണ</name>
   </language>
   <language>
     <code>snk</code>
@@ -1822,7 +1846,7 @@
   </language>
   <language>
     <code>tr</code>
-    <name>തുർക്കി</name>
+    <name>ടർക്കിഷ്</name>
   </language>
   <language>
     <code>trv</code>
@@ -1838,11 +1862,11 @@
   </language>
   <language>
     <code>tt</code>
-    <name>ടാട്ടാർ</name>
+    <name>ടാട്ടർ</name>
   </language>
   <language>
     <code>tum</code>
-    <name>തുംബുക</name>
+    <name>ടുംബുക</name>
   </language>
   <language>
     <code>tvl</code>
@@ -1890,7 +1914,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>നിലവിലില്ലാത്ത ഭാഷ</name>
+    <name>അജ്ഞാത ഭാഷ</name>
   </language>
   <language>
     <code>ur</code>
@@ -1954,7 +1978,7 @@
   </language>
   <language>
     <code>xh</code>
-    <name>ഖോസാ</name>
+    <name>ഖോസ</name>
   </language>
   <language>
     <code>xog</code>
@@ -2030,7 +2054,7 @@
   </language>
   <language>
     <code>zxx</code>
-    <name>ഭാഷേതരം</name>
+    <name>ഭാഷാപരമായ ഉള്ളടക്കമൊന്നുമില്ല</name>
   </language>
   <language>
     <code>zza</code>

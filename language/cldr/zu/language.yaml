@@ -1,43 +1,57 @@
 ab: isi-Abkhazian
 ach: Isi-Acoli
 af: isi-Afrikaans
-ak: I-Akan
+agq: isi-Aghem
+ak: isi-Akan
 am: isi-Amharic
 ar: isi-Arabic
+ar_001: Isi-Arabic Esijwayelekile Samanje
+arn: isi-Mapuche
 as: isi-Assamese
+asa: asa
 ay: isi-Aymara
 az: isi-Azerbaijani
+ba: isi-Bashkir
 be: isi-Belarusian
 bem: Isi-Bemba
+bez: isi-Bena
 bg: isi-Bulgari
+bm: isi-Bambara
 bn: isi-Bengali
 bo: isi-Tibetan
 br: Isi-Breton
+brx: isi-Bodo
 bs: isi-Bosnian
 ca: isi-Catalan
+cgg: isi-Chiga
 chr: Isi-Cherokee
 ckb: Isi-Sorani Kurdish
 co: isi-Corsican
 cs: isi-Czech
 cy: isi-Welsh
 da: isi-Danish
+dav: isi-Taita
 de: isi-German
 de_AT: isi-Austrian German
 de_CH: isi-Swiss High German
+dje: isi-Zarma
+dsb: isi-Lower Sorbian
+dua: isi-Duala
 dv: isi-Divehi
+dyo: isi-Jola-Fonyl
 dz: isi-Dzongkha
+ebu: isi-Embu
 ee: Isi-Ewe
 efi: isi-Efik
 el: isi-Greek
-en: isiNgisi
+en: i-English
 en_AU: isi-Austrillian English
 en_CA: i-Canadian English
 en_GB: i-British English
-en_US: i-U.S. English
+en_US: i-American English
 eo: isi-Esperanto
 es: isi-Spanish
 es_419: isi-Latin American Spanish
-es_ES: Isipenishi saseYurophu
 es_MX: isi-Mexican Spanish
 et: isi-Estonia
 eu: isi-Basque
@@ -46,22 +60,26 @@ fi: isi-Finnish
 fil: isi-Filipino
 fj: isi-Fijian
 fo: isi-Faroese
-fr: isiFulentshi
-fr_CA: i-Canadian French
+fr: isi-French
+fr_CA: isi-Canadian French
 fr_CH: isi-Swiss French
 fy: isi-Western Frisian
 ga: isi-Irish
 gaa: Isi-Ga
+gag: isi-Gagauz
 gd: i-Scottish Gaelic
 gl: isi-Galicia
 gn: isi-Guarani
 gsw: isi-Swiss German
 gu: isi-Gujarati
+guz: isi-Gusli
+gv: isi-Manx
 ha: isi-Hausa
 haw: isi-Hawaiian
 he: isi-Hebrew
 hi: isi-Hindi
 hr: isi-Croatian
+hsb: isi-Upper Sorbian
 ht: isi-Haitian
 hu: isi-Hungarian
 hy: isi-Armenia
@@ -69,46 +87,78 @@ ia: Izilimi ezihlangene
 id: isi-Indonesian
 ie: Izilimu
 ig: isi-Igbo
+ii: isi-Sichuan Yi
 is: isi-Icelandic
 it: isi-Italian
+iu: isi-Inuktitut
 ja: isi-Japanese
+jgo: isi-Ngomba
+jmc: isi-Machame
 jv: isi-Javanese
 ka: isi-Georgian
+kab: isi-Kabyle
+kam: isi-Kamba
+kde: isi-Makonde
+kea: isi-Kabuverdianu
 kg: Isi-Kongo
+khq: isi-Koyra Chiini
+ki: isi-Kikuyu
 kk: isi-Kazakh
+kl: isi-Kalaallisut
+kln: isi-Kalenjin
 km: isi-Khmer
 kn: isi-Kannada
 ko: isi-Korean
+koi: isi-Komi-Permyak
+kok: isi-Konkani
 ks: isi-Kashmiri
+ksb: isi-Shambala
+ksf: isi-Bafia
 ku: isi-Kurdish
-ky: isi-Kirghiz
+kw: isi-Cornish
+ky: isi-Kyrgyz
 la: isi-Latin
+lag: isi-Langi
 lb: isi-Luxembourgish
 lg: Isi-Ganda
+lkt: isi-Lakota
 ln: isi-Lingala
 lo: i-Lao
 loz: Isi-Lozi
 lt: isi-Lithuanian
+lu: isi-Luba-Katanga
 lua: Isi-Luba-Lulua
-lv: isi-Latvia
+luo: isi-Luo
+luy: isi-Luyia
+lv: isi-Latvian
+mas: isi-Masai
+mer: isi-Meru
 mfe: Isi-Morisyen
 mg: isi-Malagasy
+mgh: isi-Makhuwa-Meetto
+mgo: "isi-Meta\u2019"
 mi: isi-Maori
-mk: isi-Macedonia
+mk: isi-Macedonian
 ml: isi-Malayalam
 mn: isi-Mongolian
+moh: isi-Mohawk
 mr: isi-Marathi
 ms: isi-Malay
-mt: isi-Malta
+mt: isi-Maltese
+mua: isi-Mundang
 my: isi-Burmese
-nb: "i-Norwegian Bokm\xE5l"
+naq: isi-Nama
+nb: "isi-Norwegian Bokm\xE5l"
 nd: isi-North Ndebele
 ne: isi-Nepali
-nl: i-Dutch
+nl: isi-Dutch
 nl_BE: isi-Flemish
+nmg: isi-Kwasio
 nn: i-Norwegian Nynorsk
 'no': IsiNoweyi
+nqo: "isi-N\u2019Ko"
 nso: isi-Northern Sotho
+nus: isi-Nuer
 ny: isi-Nyanja
 nyn: Isi-Nyankole
 oc: Isi-Osithani
@@ -120,23 +170,36 @@ pl: isi-Polish
 ps: isi-Pashto
 pt: isi-Portuguese
 pt_BR: isi-Brazillian Portuguese
-pt_PT: Isiputukezi saseYurophu
+pt_PT: isi-European Portuguese
 qu: isi-Quechua
+quc: "isi-K\u02BCiche\u02BC"
 rm: isi-Romansh
 rn: isi-Rundi
 ro: isi-Romanian
+ro_MD: isi-Moldavian
+rof: isi-Rombo
 ru: isi-Russian
 rw: isi-Kinyarwanda
+rwk: isi-Rwa
 sa: isi-Sanskrit
+saq: isi-Samburu
+sbp: isi-Sangu
 sd: isi-Sindhi
-se: e-Northern Sami
+se: isi-Northern Sami
+seh: isi-Sena
+ses: isi-Koyraboro Senni
 sg: isi-Sango
 sh: Serbo-Croatian
+shi: isi-Tachelhit
 si: i-Sinhala
 sk: isi-Slovak
 sl: isi-Slovenian
 sm: isi-Samoan
-sn: isiShona
+sma: isi-Southern Sami
+smj: isi-Lule Sami
+smn: isi-Inari Sami
+sms: isi-Skolt Sami
+sn: isi-Shona
 so: isi-Somali
 sq: isi-Albania
 sr: isi-Serbian
@@ -144,9 +207,11 @@ ss: isiSwati
 st: isiSuthu
 su: isi-Sundanese
 sv: isi-Swedish
-sw: isiSwahili
+sw: isi-Swahili
+swc: isi-Congo Swahili
 ta: isi-Tamil
 te: isi-Telugu
+teo: isi-Teso
 tet: isi-Tetum
 tg: isi-Tajik
 th: isi-Thai
@@ -161,18 +226,24 @@ ts: isi-Tsonga
 tt: isi-Tatar
 tum: Isi-Tumbuka
 tw: Twi
+twq: isi-Tasawaq
 ty: isi-Tahitian
+tzm: isi-Central Atlas Tamazight
 ug: isi-Uighur
 uk: isi-Ukrainian
 und: Ulimi olungaziwa
 ur: isi-Urdu
 uz: isi-Uzbek
+vai: isi-Vai
 ve: isi-Venda
 vi: isi-Vietnamese
+vun: isi-Vunjo
 wo: isi-Wolof
 xh: isiXhosa
+xog: isi-Soga
 yi: Isi-Yidish
 yo: isi-Yoruba
+zgh: isi-Standard Moroccan Tamazight
 zh: isi-Chinese
 zh_Hans: isi-Sipmlified Chinese
 zh_Hant: isi-Traditional Chinese

@@ -13,8 +13,12 @@
     <name>isi-Afrikaans</name>
   </language>
   <language>
+    <code>agq</code>
+    <name>isi-Aghem</name>
+  </language>
+  <language>
     <code>ak</code>
-    <name>I-Akan</name>
+    <name>isi-Akan</name>
   </language>
   <language>
     <code>am</code>
@@ -25,8 +29,20 @@
     <name>isi-Arabic</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>Isi-Arabic Esijwayelekile Samanje</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>isi-Mapuche</name>
+  </language>
+  <language>
     <code>as</code>
     <name>isi-Assamese</name>
+  </language>
+  <language>
+    <code>asa</code>
+    <name>asa</name>
   </language>
   <language>
     <code>ay</code>
@@ -37,6 +53,10 @@
     <name>isi-Azerbaijani</name>
   </language>
   <language>
+    <code>ba</code>
+    <name>isi-Bashkir</name>
+  </language>
+  <language>
     <code>be</code>
     <name>isi-Belarusian</name>
   </language>
@@ -45,8 +65,16 @@
     <name>Isi-Bemba</name>
   </language>
   <language>
+    <code>bez</code>
+    <name>isi-Bena</name>
+  </language>
+  <language>
     <code>bg</code>
     <name>isi-Bulgari</name>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>isi-Bambara</name>
   </language>
   <language>
     <code>bn</code>
@@ -61,12 +89,20 @@
     <name>Isi-Breton</name>
   </language>
   <language>
+    <code>brx</code>
+    <name>isi-Bodo</name>
+  </language>
+  <language>
     <code>bs</code>
     <name>isi-Bosnian</name>
   </language>
   <language>
     <code>ca</code>
     <name>isi-Catalan</name>
+  </language>
+  <language>
+    <code>cgg</code>
+    <name>isi-Chiga</name>
   </language>
   <language>
     <code>chr</code>
@@ -93,6 +129,10 @@
     <name>isi-Danish</name>
   </language>
   <language>
+    <code>dav</code>
+    <name>isi-Taita</name>
+  </language>
+  <language>
     <code>de</code>
     <name>isi-German</name>
   </language>
@@ -105,12 +145,32 @@
     <name>isi-Swiss High German</name>
   </language>
   <language>
+    <code>dje</code>
+    <name>isi-Zarma</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>isi-Lower Sorbian</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>isi-Duala</name>
+  </language>
+  <language>
     <code>dv</code>
     <name>isi-Divehi</name>
   </language>
   <language>
+    <code>dyo</code>
+    <name>isi-Jola-Fonyl</name>
+  </language>
+  <language>
     <code>dz</code>
     <name>isi-Dzongkha</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>isi-Embu</name>
   </language>
   <language>
     <code>ee</code>
@@ -126,7 +186,7 @@
   </language>
   <language>
     <code>en</code>
-    <name>isiNgisi</name>
+    <name>i-English</name>
   </language>
   <language>
     <code>en_AU</code>
@@ -142,7 +202,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>i-U.S. English</name>
+    <name>i-American English</name>
   </language>
   <language>
     <code>eo</code>
@@ -155,10 +215,6 @@
   <language>
     <code>es_419</code>
     <name>isi-Latin American Spanish</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>Isipenishi saseYurophu</name>
   </language>
   <language>
     <code>es_MX</code>
@@ -194,11 +250,11 @@
   </language>
   <language>
     <code>fr</code>
-    <name>isiFulentshi</name>
+    <name>isi-French</name>
   </language>
   <language>
     <code>fr_CA</code>
-    <name>i-Canadian French</name>
+    <name>isi-Canadian French</name>
   </language>
   <language>
     <code>fr_CH</code>
@@ -215,6 +271,10 @@
   <language>
     <code>gaa</code>
     <name>Isi-Ga</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>isi-Gagauz</name>
   </language>
   <language>
     <code>gd</code>
@@ -237,6 +297,14 @@
     <name>isi-Gujarati</name>
   </language>
   <language>
+    <code>guz</code>
+    <name>isi-Gusli</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>isi-Manx</name>
+  </language>
+  <language>
     <code>ha</code>
     <name>isi-Hausa</name>
   </language>
@@ -255,6 +323,10 @@
   <language>
     <code>hr</code>
     <name>isi-Croatian</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>isi-Upper Sorbian</name>
   </language>
   <language>
     <code>ht</code>
@@ -285,6 +357,10 @@
     <name>isi-Igbo</name>
   </language>
   <language>
+    <code>ii</code>
+    <name>isi-Sichuan Yi</name>
+  </language>
+  <language>
     <code>is</code>
     <name>isi-Icelandic</name>
   </language>
@@ -293,8 +369,20 @@
     <name>isi-Italian</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>isi-Inuktitut</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>isi-Japanese</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>isi-Ngomba</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>isi-Machame</name>
   </language>
   <language>
     <code>jv</code>
@@ -305,12 +393,44 @@
     <name>isi-Georgian</name>
   </language>
   <language>
+    <code>kab</code>
+    <name>isi-Kabyle</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>isi-Kamba</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>isi-Makonde</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>isi-Kabuverdianu</name>
+  </language>
+  <language>
     <code>kg</code>
     <name>Isi-Kongo</name>
   </language>
   <language>
+    <code>khq</code>
+    <name>isi-Koyra Chiini</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>isi-Kikuyu</name>
+  </language>
+  <language>
     <code>kk</code>
     <name>isi-Kazakh</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>isi-Kalaallisut</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>isi-Kalenjin</name>
   </language>
   <language>
     <code>km</code>
@@ -325,20 +445,44 @@
     <name>isi-Korean</name>
   </language>
   <language>
+    <code>koi</code>
+    <name>isi-Komi-Permyak</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>isi-Konkani</name>
+  </language>
+  <language>
     <code>ks</code>
     <name>isi-Kashmiri</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>isi-Shambala</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>isi-Bafia</name>
   </language>
   <language>
     <code>ku</code>
     <name>isi-Kurdish</name>
   </language>
   <language>
+    <code>kw</code>
+    <name>isi-Cornish</name>
+  </language>
+  <language>
     <code>ky</code>
-    <name>isi-Kirghiz</name>
+    <name>isi-Kyrgyz</name>
   </language>
   <language>
     <code>la</code>
     <name>isi-Latin</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>isi-Langi</name>
   </language>
   <language>
     <code>lb</code>
@@ -347,6 +491,10 @@
   <language>
     <code>lg</code>
     <name>Isi-Ganda</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>isi-Lakota</name>
   </language>
   <language>
     <code>ln</code>
@@ -365,12 +513,32 @@
     <name>isi-Lithuanian</name>
   </language>
   <language>
+    <code>lu</code>
+    <name>isi-Luba-Katanga</name>
+  </language>
+  <language>
     <code>lua</code>
     <name>Isi-Luba-Lulua</name>
   </language>
   <language>
+    <code>luo</code>
+    <name>isi-Luo</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>isi-Luyia</name>
+  </language>
+  <language>
     <code>lv</code>
-    <name>isi-Latvia</name>
+    <name>isi-Latvian</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>isi-Masai</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>isi-Meru</name>
   </language>
   <language>
     <code>mfe</code>
@@ -381,12 +549,20 @@
     <name>isi-Malagasy</name>
   </language>
   <language>
+    <code>mgh</code>
+    <name>isi-Makhuwa-Meetto</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>isi-Meta’</name>
+  </language>
+  <language>
     <code>mi</code>
     <name>isi-Maori</name>
   </language>
   <language>
     <code>mk</code>
-    <name>isi-Macedonia</name>
+    <name>isi-Macedonian</name>
   </language>
   <language>
     <code>ml</code>
@@ -395,6 +571,10 @@
   <language>
     <code>mn</code>
     <name>isi-Mongolian</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>isi-Mohawk</name>
   </language>
   <language>
     <code>mr</code>
@@ -406,15 +586,23 @@
   </language>
   <language>
     <code>mt</code>
-    <name>isi-Malta</name>
+    <name>isi-Maltese</name>
+  </language>
+  <language>
+    <code>mua</code>
+    <name>isi-Mundang</name>
   </language>
   <language>
     <code>my</code>
     <name>isi-Burmese</name>
   </language>
   <language>
+    <code>naq</code>
+    <name>isi-Nama</name>
+  </language>
+  <language>
     <code>nb</code>
-    <name>i-Norwegian Bokmål</name>
+    <name>isi-Norwegian Bokmål</name>
   </language>
   <language>
     <code>nd</code>
@@ -426,11 +614,15 @@
   </language>
   <language>
     <code>nl</code>
-    <name>i-Dutch</name>
+    <name>isi-Dutch</name>
   </language>
   <language>
     <code>nl_BE</code>
     <name>isi-Flemish</name>
+  </language>
+  <language>
+    <code>nmg</code>
+    <name>isi-Kwasio</name>
   </language>
   <language>
     <code>nn</code>
@@ -441,8 +633,16 @@
     <name>IsiNoweyi</name>
   </language>
   <language>
+    <code>nqo</code>
+    <name>isi-N’Ko</name>
+  </language>
+  <language>
     <code>nso</code>
     <name>isi-Northern Sotho</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>isi-Nuer</name>
   </language>
   <language>
     <code>ny</code>
@@ -490,11 +690,15 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>Isiputukezi saseYurophu</name>
+    <name>isi-European Portuguese</name>
   </language>
   <language>
     <code>qu</code>
     <name>isi-Quechua</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>isi-Kʼicheʼ</name>
   </language>
   <language>
     <code>rm</code>
@@ -509,6 +713,14 @@
     <name>isi-Romanian</name>
   </language>
   <language>
+    <code>ro_MD</code>
+    <name>isi-Moldavian</name>
+  </language>
+  <language>
+    <code>rof</code>
+    <name>isi-Rombo</name>
+  </language>
+  <language>
     <code>ru</code>
     <name>isi-Russian</name>
   </language>
@@ -517,8 +729,20 @@
     <name>isi-Kinyarwanda</name>
   </language>
   <language>
+    <code>rwk</code>
+    <name>isi-Rwa</name>
+  </language>
+  <language>
     <code>sa</code>
     <name>isi-Sanskrit</name>
+  </language>
+  <language>
+    <code>saq</code>
+    <name>isi-Samburu</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>isi-Sangu</name>
   </language>
   <language>
     <code>sd</code>
@@ -526,7 +750,15 @@
   </language>
   <language>
     <code>se</code>
-    <name>e-Northern Sami</name>
+    <name>isi-Northern Sami</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>isi-Sena</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>isi-Koyraboro Senni</name>
   </language>
   <language>
     <code>sg</code>
@@ -535,6 +767,10 @@
   <language>
     <code>sh</code>
     <name>Serbo-Croatian</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>isi-Tachelhit</name>
   </language>
   <language>
     <code>si</code>
@@ -553,8 +789,24 @@
     <name>isi-Samoan</name>
   </language>
   <language>
+    <code>sma</code>
+    <name>isi-Southern Sami</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>isi-Lule Sami</name>
+  </language>
+  <language>
+    <code>smn</code>
+    <name>isi-Inari Sami</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>isi-Skolt Sami</name>
+  </language>
+  <language>
     <code>sn</code>
-    <name>isiShona</name>
+    <name>isi-Shona</name>
   </language>
   <language>
     <code>so</code>
@@ -586,7 +838,11 @@
   </language>
   <language>
     <code>sw</code>
-    <name>isiSwahili</name>
+    <name>isi-Swahili</name>
+  </language>
+  <language>
+    <code>swc</code>
+    <name>isi-Congo Swahili</name>
   </language>
   <language>
     <code>ta</code>
@@ -595,6 +851,10 @@
   <language>
     <code>te</code>
     <name>isi-Telugu</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>isi-Teso</name>
   </language>
   <language>
     <code>tet</code>
@@ -653,8 +913,16 @@
     <name>Twi</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>isi-Tasawaq</name>
+  </language>
+  <language>
     <code>ty</code>
     <name>isi-Tahitian</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>isi-Central Atlas Tamazight</name>
   </language>
   <language>
     <code>ug</code>
@@ -677,12 +945,20 @@
     <name>isi-Uzbek</name>
   </language>
   <language>
+    <code>vai</code>
+    <name>isi-Vai</name>
+  </language>
+  <language>
     <code>ve</code>
     <name>isi-Venda</name>
   </language>
   <language>
     <code>vi</code>
     <name>isi-Vietnamese</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>isi-Vunjo</name>
   </language>
   <language>
     <code>wo</code>
@@ -693,12 +969,20 @@
     <name>isiXhosa</name>
   </language>
   <language>
+    <code>xog</code>
+    <name>isi-Soga</name>
+  </language>
+  <language>
     <code>yi</code>
     <name>Isi-Yidish</name>
   </language>
   <language>
     <code>yo</code>
     <name>isi-Yoruba</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>isi-Standard Moroccan Tamazight</name>
   </language>
   <language>
     <code>zh</code>

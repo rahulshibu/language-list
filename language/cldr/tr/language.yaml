@@ -5,13 +5,16 @@ ach: Acoli
 ada: Adangme
 ady: Adigece
 ae: "Avest\xE7e"
+aeb: "Tunus Arap\xE7as\u0131"
 af: Afrikaanca
 afh: Afrihili
 agq: Aghem
 ain: Ayni Dili
 ak: Akan
 akk: Akad Dili
+akz: Alabamaca
 ale: Aleut
+aln: "Gheg Arnavut\xE7as\u0131"
 alt: "G\xFCney Altayca"
 am: Amharca
 an: Aragonca
@@ -21,38 +24,53 @@ ar: "Arap\xE7a"
 ar_001: "Modern Standart Arap\xE7a"
 arc: Aramice
 arn: Araukanya Dili
+aro: Araona
 arp: Arapaho Dili
+arq: "Cezayir Arap\xE7as\u0131"
 arw: Arawak Dili
+ary: "Fas Arap\xE7as\u0131"
+arz: "M\u0131s\u0131r Arap\xE7as\u0131"
 as: Assamca
 asa: Asu
+ase: "Amerikan \u0130\u015Faret Dili"
 ast: Asturyasca
 av: Avar Dili
+avk: Kotava
 awa: Awadhi
 ay: Aymara
 az: Azerice
+azb: "G\xFCney Azerice"
 ba: "Ba\u015Fk\u0131rt\xE7a"
 bal: Baluchi
 ban: Bali Dili
+bar: Bavyera Dili
 bas: Basa Dili
 bax: Bamun
+bbc: Batak Toba
 bbj: Ghomala
 be: "Beyaz Rus\xE7a"
 bej: Beja Dili
 bem: Bemba
+bew: Betawi
 bez: Bena
 bfd: Bafut
+bfq: Badaga
 bg: Bulgarca
 bho: Arayanice
 bi: Bislama
 bik: Bikol
 bin: Bini
+bjn: Banjar Dili
 bkm: Kom
 bla: Siksika
 bm: Bambara
 bn: Bengalce
 bo: "Tibet\xE7e"
-br: Breton
+bpy: Bishnupriya
+bqi: Bahtiyari
+br: Bretonca
 bra: Braj
+brh: Brohice
 brx: Bodo
 bs: "Bo\u015Fnak\xE7a"
 bss: Akoose
@@ -68,7 +86,7 @@ cay: Cayuga
 cch: Atsam
 ce: "\xC7e\xE7ence"
 ceb: Cebuano
-cgg: Chiga
+cgg: Kigaca
 ch: Chamorro
 chb: Chibcha
 chg: "\xC7a\u011Fatay Dili"
@@ -77,11 +95,12 @@ chm: Mari
 chn: Chinook Jargon
 cho: Choctaw
 chp: Chipewyan
-chr: Cherokee
+chr: "\xC7erokice"
 chy: "\u015Eayen Dili"
 ckb: "Orta K\xFCrt\xE7e"
 co: Korsikaca
 cop: "K\u0131ptice"
+cps: Capiznon
 cr: Cree
 crh: "K\u0131r\u0131m T\xFCrk\xE7esi"
 cs: "\xC7ek\xE7e"
@@ -103,6 +122,7 @@ din: Dinka
 dje: Zarma
 doi: Dogri
 dsb: "A\u015Fa\u011F\u0131 Sorb\xE7a"
+dtp: Orta Kadazan
 dua: Duala
 dum: "Orta\xE7a\u011F Felemenk\xE7esi"
 dv: Divehi
@@ -113,6 +133,7 @@ dzg: Dazaga
 ebu: Embu
 ee: Ewe
 efi: Efik
+egl: Emilia Dili
 egy: "Eski M\u0131s\u0131r Dili"
 eka: Ekajuk
 el: Yunanca
@@ -128,38 +149,48 @@ es: "\u0130spanyolca"
 es_419: "Latin Amerika \u0130spanyolcas\u0131"
 es_ES: "Avrupa \u0130spanyolcas\u0131"
 es_MX: "Meksika \u0130spanyolcas\u0131"
+esu: "Merkezi Yupik\xE7e"
 et: Estonca
 eu: "Bask\xE7a"
 ewo: Ewondo
+ext: Ekstremadura Dili
 fa: "Fars\xE7a"
 fan: Fang
 fat: Fanti
 ff: Fulah
 fi: Fince
 fil: Filipince
+fit: Tornedalin Fincesi
 fj: Fiji Dili
 fo: Faroe Dili
 fon: Fon
 fr: "Frans\u0131zca"
 fr_CA: "Kanada Frans\u0131zcas\u0131"
 fr_CH: "\u0130svi\xE7re Frans\u0131zcas\u0131"
+frc: "Cajun Frans\u0131zcas\u0131"
 frm: "Orta\xE7a\u011F Frans\u0131zcas\u0131"
 fro: "Eski Frans\u0131zca"
+frp: Arpitanca
 frr: Kuzey Frizce
 frs: "Do\u011Fu Frizcesi"
 fur: Friulian
 fy: "Bat\u0131 Frizcesi"
 ga: "\u0130rlandaca"
 gaa: Ga
+gag: Gagavuzca
+gan: "Gan \xC7incesi"
 gay: Gayo
 gba: Gbaya
+gbz: "Zerd\xFC\u015Ft Daricesi"
 gd: "\u0130sko\xE7 Gal Dili"
 gez: Geez
 gil: Kiribati Dili
 gl: "Gali\xE7yaca"
+glk: Gilanice
 gmh: "Orta\xE7a\u011F Y\xFCksek Almancas\u0131"
 gn: Guarani Dili
 goh: "Eski Y\xFCksek Almanca"
+gom: Goa Konkanicesi
 gon: Gondi
 gor: Gorontalo
 got: "Got\xE7a"
@@ -167,20 +198,25 @@ grb: Grebo
 grc: Antik Yunanca
 gsw: "\u0130svi\xE7re Almancas\u0131"
 gu: "G\xFCcerat\xE7a"
+guc: Wayuu
+gur: Frafra
 guz: Gusii
 gv: Manks
 gwi: "Gwich\u02BCin"
 ha: Hausa
 hai: Haida
+hak: "Hakka \xC7incesi"
 haw: Hawaii Dili
 he: "\u0130branice"
 hi: "Hint\xE7e"
+hif: "Fiji Hint\xE7esi"
 hil: Hiligaynon
 hit: "Hitit\xE7e"
 hmn: Hmong
 ho: Hiri Motu
 hr: "H\u0131rvat\xE7a"
 hsb: "Yukar\u0131 Sorb\xE7a"
+hsn: "Xiang \xC7incesi"
 ht: Haiti Dili
 hu: Macarca
 hup: Hupa
@@ -200,16 +236,19 @@ io: Ido
 is: "\u0130zlandaca"
 it: "\u0130talyanca"
 iu: Inuktitut
+izh: "\u0130ngriya Dili"
 ja: Japonca
+jam: Jamaika Patois Dili
 jbo: Lojban
 jgo: Ngomba
 jmc: Machame
 jpr: "Yahudi Fars\xE7as\u0131"
 jrb: "Yahudi Arap\xE7as\u0131"
+jut: Yutland Dili
 jv: Cava Dili
 ka: "G\xFCrc\xFCce"
 kaa: "Karakalpak\xE7a"
-kab: Kabile
+kab: Kabiliyece
 kac: "Ka\xE7in"
 kaj: Jju
 kam: Kamba
@@ -219,12 +258,16 @@ kbl: Kanembu
 kcg: Tyap
 kde: Makonde
 kea: Kabuverdianu
+ken: Kenyang
 kfo: Koro
 kg: Kongo
+kgp: Kaingang
 kha: Khasi
 kho: Hotanca
 khq: Koyra Chiini
+khw: "\xC7itral Dili"
 ki: Kikuyu
+kiu: "K\u0131rman\xE7\xE7a"
 kj: Kuanyama
 kk: "Kazak\xE7a"
 kkj: Kako
@@ -234,11 +277,14 @@ km: Kmerce
 kmb: Kimbundu
 kn: Kannada
 ko: Korece
+koi: Komi-Permyak
 kok: Konkani
 kos: Kosraean
 kpe: Kpelle
 kr: Kanuri
 krc: "Kara\xE7ay-Balkarca"
+kri: Krio
+krj: Kinaray-a
 krl: Karelyaca
 kru: Kurukh
 ks: "Ke\u015Fmirce"
@@ -258,13 +304,19 @@ lah: Lahnda
 lam: Lamba
 lb: "L\xFCksemburgca"
 lez: Lezgice
+lfn: Lingua Franca Nova
 lg: Ganda
 li: Limburgca
+lij: Ligurca
+liv: Livonca
+lkt: Lakotaca
+lmo: "Lombard\xE7a"
 ln: Lingala
 lo: Laoca
 lol: Mongo
 loz: Lozi
 lt: Litvanyaca
+ltg: Latgalian
 lu: Luba-Katanga
 lua: Luba-Lulua
 lui: Luiseno
@@ -273,6 +325,8 @@ luo: Luo
 lus: Lushai
 luy: Luyia
 lv: Letonca
+lzh: "Edebi \xC7ince"
+lzz: Lazca
 mad: Madura Dili
 maf: Mafa
 mag: Magahi
@@ -289,7 +343,7 @@ mfe: Morisyen
 mg: "Malga\u015F\xE7a"
 mga: "Orta\xE7a\u011F \u0130rlandacas\u0131"
 mgh: Makhuwa-Meetto
-mgo: Meta'
+mgo: "Meta\u2019"
 mh: "Marshall Adalar\u0131 Dili"
 mi: Maori Dili
 mic: Micmac
@@ -302,6 +356,7 @@ mni: Manipuri
 moh: Mohavk Dili
 mos: Mossi
 mr: Marathi
+mrj: "Ova \xC7irmi\u015F\xE7esi"
 ms: Malayca
 mt: Maltaca
 mua: Mundang
@@ -309,10 +364,13 @@ mul: Birden Fazla Dil
 mus: Creek
 mwl: Miranda Dili
 mwr: Marvari
+mwv: Mentawai
 my: Burmaca
 mye: Myene
 myv: Erzya
+mzn: Mazenderanca
 na: Nauru Dili
+nan: "Min Nan \xC7incesi"
 nap: Napolice
 naq: Nama
 nb: "Norve\xE7\xE7e Bokm\xE5l"
@@ -323,6 +381,7 @@ new: Nevari
 ng: Ndonga
 nia: Nias
 niu: Niuean
+njo: Ao Naga
 nl: Hollandaca
 nl_BE: Flamanca
 nmg: Kwasio
@@ -331,6 +390,7 @@ nnh: Ngiemboon
 'no': "Norve\xE7\xE7e"
 nog: Nogayca
 non: Eski Norse
+nov: Novial
 nqo: "N\u2019Ko"
 nr: "G\xFCney Ndebele"
 nso: Kuzey Sotho
@@ -355,20 +415,31 @@ pal: Pehlevi Dili
 pam: Pampanga
 pap: Papiamento
 pau: Palau Dili
+pcd: Picard Dili
+pdc: "Pensilvanya Almancas\u0131"
+pdt: Plautdietsch
 peo: "Eski Fars\xE7a"
+pfl: "Palatin Almancas\u0131"
 phn: Fenike Dili
 pi: Pali
 pl: "Leh\xE7e"
+pms: Piyemontece
+pnt: "Kuzeybat\u0131 Kafkasya"
 pon: Pohnpeian
+prg: Prusyaca
 pro: Eski Provensal
 ps: "Pe\u015Ftuca"
 pt: Portekizce
 pt_BR: Brezilya Portekizcesi
 pt_PT: Avrupa Portekizcesi
 qu: "Ke\xE7uvaca"
+quc: "Ki\xE7ece"
+qug: Chimborazo Highland Quichua
 raj: Rajasthani
 rap: Rapanui
 rar: Rarotongan
+rgn: Romanyolca
+rif: Rif Berbericesi
 rm: "Roman\u015F\xE7a"
 rn: Kirundi
 ro: Romence
@@ -376,7 +447,10 @@ ro_MD: Moldovaca
 rof: Rombo
 rom: Romanca
 root: "K\xF6ken"
+rtm: Rotuman
 ru: "Rus\xE7a"
+rue: Rusince
+rug: Roviana
 rup: "Ulah\xE7a"
 rw: Kinyarwanda
 rwk: Rwa
@@ -387,19 +461,23 @@ sam: "Samarit Aramcas\u0131"
 saq: Samburu
 sas: Sasak
 sat: Santali
+saz: Saurashtra
 sba: Ngambay
 sbp: Sangu
 sc: Sardunya Dili
 scn: Sicilyaca
 sco: Scots
 sd: Sindhi
+sdc: Sassari Sarduca
 se: Kuzey Sami
 see: Seneca
 seh: Sena
+sei: Seri
 sel: Selkup
 ses: Koyraboro Senni
-sg: Sangho
+sg: Sango
 sga: "Eski \u0130rlandaca"
+sgs: "Samogit\xE7e"
 sh: "S\u0131rp-H\u0131rvat Dili"
 shi: "Ta\u015Felhit"
 shn: Shan Dili
@@ -408,6 +486,8 @@ si: Seylanca
 sid: Sidamo
 sk: "Slovak\xE7a"
 sl: Slovence
+sli: "A\u015Fa\u011F\u0131 Silezyaca"
+sly: Selayar
 sm: Samoa Dili
 sma: "G\xFCney Sami"
 smj: Lule Sami
@@ -424,6 +504,7 @@ srr: Serer
 ss: Sisvati
 ssy: Saho
 st: "G\xFCney Sotho"
+stq: Saterland Frizcesi
 su: Sunda Dili
 suk: Sukuma
 sus: Susu
@@ -434,7 +515,9 @@ swb: Komorca
 swc: Kongo Svahili
 syc: "Klasik S\xFCryanice"
 syr: "S\xFCryanice"
+szl: Silezyaca
 ta: Tamilce
+tcy: Tuluca
 te: Telugu Dili
 tem: Timne
 teo: Teso
@@ -447,26 +530,31 @@ tig: Tigre
 tiv: Tiv
 tk: "T\xFCrkmence"
 tkl: Tokelau
+tkr: Sahurca
 tl: "Takalot\xE7a"
 tlh: Klingonca
 tli: Tlingit
+tly: "Tal\u0131\u015F\xE7a"
 tmh: "Tama\u015Fek"
 tn: Setsvana
 to: Tongaca
 tog: Nyasa Tonga
 tpi: Tok Pisin
 tr: "T\xFCrk\xE7e"
+tru: Turoyo
 trv: Taroko
 ts: Tsonga
+tsd: Tsakonca
 tsi: Tsimshian
 tt: Tatarca
+ttt: "Tat\xE7a"
 tum: Tumbuka
 tvl: Tuvalu
 tw: Tvi
 twq: Tasawaq
 ty: Tahiti Dili
 tyv: Tuvaca
-tzm: Orta Atlas Tamazigt
+tzm: Orta Fas Tamazigti
 udm: "Udmurt\xE7a"
 ug: Uygurca
 uga: Ugarit Dili
@@ -477,9 +565,14 @@ ur: Urduca
 uz: "\xD6zbek\xE7e"
 vai: Vai
 ve: Venda
+vec: "Venedik\xE7e"
+vep: Veps
 vi: Vietnamca
+vls: "Bat\u0131 Flamanca"
+vmf: Main Frankonya Dili
 vo: "Volap\xFCk"
 vot: Votic
+vro: "V\xF5ro"
 vun: Vunjo
 wa: Valonca
 wae: Walser
@@ -487,19 +580,23 @@ wal: Valamo
 war: Varay
 was: "Va\u015Fo"
 wo: "Volof\xE7a"
+wuu: "Wu \xC7incesi"
 xal: "Kalm\u0131k\xE7a"
 xh: Zosa
+xmf: Megrelce
 xog: Soga
 yao: Yao
 yap: "Yap\xE7a"
 yav: Yangben
 ybb: Yemba
 yi: "Yidi\u015F"
-yo: Yoruba
+yo: Yorubaca
+yrl: Nheengatu
 yue: Kantonca
 za: Zhuang
 zap: Zapotek Dili
 zbl: Blis Sembolleri
+zea: Zelandaca
 zen: Zenaga
 zgh: Standart Berberi Dili Tamazight
 zh: "\xC7ince"

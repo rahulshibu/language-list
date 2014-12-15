@@ -13,6 +13,10 @@
     <name>Kiafrikana</name>
   </language>
   <language>
+    <code>agq</code>
+    <name>Kiaghem</name>
+  </language>
+  <language>
     <code>ak</code>
     <name>Kiakani</name>
   </language>
@@ -29,8 +33,24 @@
     <name>Kiarabu</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>Kiarabu Sanifu cha Kisasa</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>Kiaramu</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>Kimapuche</name>
+  </language>
+  <language>
+    <code>arq</code>
+    <name>Kiarabu cha Kialjeria</name>
+  </language>
+  <language>
+    <code>arz</code>
+    <name>Kiarabu cha Misri</name>
   </language>
   <language>
     <code>as</code>
@@ -38,15 +58,19 @@
   </language>
   <language>
     <code>asa</code>
-    <name>Kipare</name>
+    <name>Kiasu</name>
   </language>
   <language>
     <code>ay</code>
-    <name>Aimara</name>
+    <name>Kiaimara</name>
   </language>
   <language>
     <code>az</code>
     <name>Kiazabajani</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>Kibashkir</name>
   </language>
   <language>
     <code>bas</code>
@@ -94,7 +118,7 @@
   </language>
   <language>
     <code>bn</code>
-    <name>Kibangla</name>
+    <name>Kibengali</name>
   </language>
   <language>
     <code>bo</code>
@@ -103,6 +127,10 @@
   <language>
     <code>br</code>
     <name>Kibretoni</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>brx</name>
   </language>
   <language>
     <code>bs</code>
@@ -121,12 +149,16 @@
     <name>Kikatalani</name>
   </language>
   <language>
+    <code>cgg</code>
+    <name>Kichiga</name>
+  </language>
+  <language>
     <code>chr</code>
     <name>Kicherokee</name>
   </language>
   <language>
     <code>ckb</code>
-    <name>Kisorani Kikurdi</name>
+    <name>Kikurdi cha Sorani</name>
   </language>
   <language>
     <code>co</code>
@@ -149,16 +181,20 @@
     <name>Kidenmaki</name>
   </language>
   <language>
+    <code>dav</code>
+    <name>Kitaita</name>
+  </language>
+  <language>
     <code>de</code>
     <name>Kijerumani</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>Kijerumani cha Austria</name>
+    <code>dje</code>
+    <name>Kizarma</name>
   </language>
   <language>
-    <code>de_CH</code>
-    <name>Kijerumani cha Juu cha Uswisi</name>
+    <code>dsb</code>
+    <name>Kidolnoserbski</name>
   </language>
   <language>
     <code>dua</code>
@@ -167,6 +203,10 @@
   <language>
     <code>dv</code>
     <name>Kidivehi</name>
+  </language>
+  <language>
+    <code>dyo</code>
+    <name>Kijola-Fonyi</name>
   </language>
   <language>
     <code>dyu</code>
@@ -182,7 +222,7 @@
   </language>
   <language>
     <code>ee</code>
-    <name>Kiwe</name>
+    <name>Kiewe</name>
   </language>
   <language>
     <code>efi</code>
@@ -205,22 +245,6 @@
     <name>Kiingereza</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>Kiingereza cha Australia</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>Kiingereza cha Kanada</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>Kiingereza cha Uingereza</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>Kiingereza cha Marekani</name>
-  </language>
-  <language>
     <code>eo</code>
     <name>Kiesperanto</name>
   </language>
@@ -229,16 +253,8 @@
     <name>Kihispania</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>Kihispania cha Amerika ya Kilatinini</name>
-  </language>
-  <language>
     <code>es_ES</code>
     <name>Kihispania cha Ulaya</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>Kihispania cha Meksiko</name>
   </language>
   <language>
     <code>et</code>
@@ -285,14 +301,6 @@
     <name>Kifaransa</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>Kifaransa cha Kanada</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>Kifaransa cha Uswisi</name>
-  </language>
-  <language>
     <code>fro</code>
     <name>Kifaransa cha Kale</name>
   </language>
@@ -317,6 +325,10 @@
     <name>Kiga</name>
   </language>
   <language>
+    <code>gag</code>
+    <name>Kigagauzi</name>
+  </language>
+  <language>
     <code>gba</code>
     <name>Kigbaya</name>
   </language>
@@ -326,11 +338,11 @@
   </language>
   <language>
     <code>gez</code>
-    <name>Kige'ez</name>
+    <name>Kige’ez</name>
   </language>
   <language>
     <code>gl</code>
-    <name>Kigalisia</name>
+    <name>Kigalisi</name>
   </language>
   <language>
     <code>gn</code>
@@ -350,7 +362,11 @@
   </language>
   <language>
     <code>guz</code>
-    <name>Kisii</name>
+    <name>Kikisii</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>Kimanx</name>
   </language>
   <language>
     <code>ha</code>
@@ -369,8 +385,16 @@
     <name>Kihindi</name>
   </language>
   <language>
+    <code>hit</code>
+    <name>Kihiti</name>
+  </language>
+  <language>
     <code>hr</code>
     <name>Kroeshia</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>hsb</name>
   </language>
   <language>
     <code>ht</code>
@@ -409,6 +433,10 @@
     <name>Kiigbo</name>
   </language>
   <language>
+    <code>ii</code>
+    <name>Sichuan Yi</name>
+  </language>
+  <language>
     <code>is</code>
     <name>Kiaisilandi</name>
   </language>
@@ -417,8 +445,16 @@
     <name>Kiitaliano</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>iu</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>Kijapani</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>Kingomba</name>
   </language>
   <language>
     <code>jmc</code>
@@ -449,8 +485,20 @@
     <name>Kimakonde</name>
   </language>
   <language>
+    <code>kea</code>
+    <name>Kikabuverdianu</name>
+  </language>
+  <language>
+    <code>kfo</code>
+    <name>Kikoro</name>
+  </language>
+  <language>
     <code>kg</code>
     <name>Kikongo</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>Kikoyra Chiini</name>
   </language>
   <language>
     <code>ki</code>
@@ -469,6 +517,14 @@
     <name>Kikako</name>
   </language>
   <language>
+    <code>kl</code>
+    <name>Kikalaallisut</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>Kikalenjin</name>
+  </language>
+  <language>
     <code>km</code>
     <name>Kikambodia</name>
   </language>
@@ -483,6 +539,14 @@
   <language>
     <code>ko</code>
     <name>Kikorea</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>Kikomipermyak</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>kok</name>
   </language>
   <language>
     <code>kr</code>
@@ -505,8 +569,16 @@
     <name>Kikurdi</name>
   </language>
   <language>
+    <code>kv</code>
+    <name>Kikomi</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>Kikorni</name>
+  </language>
+  <language>
     <code>ky</code>
-    <name>Kirigizi</name>
+    <name>Kikirigizi</name>
   </language>
   <language>
     <code>la</code>
@@ -517,12 +589,20 @@
     <name>Kirangi</name>
   </language>
   <language>
+    <code>lam</code>
+    <name>Chilamba</name>
+  </language>
+  <language>
     <code>lb</code>
     <name>Kilasembagi</name>
   </language>
   <language>
     <code>lg</code>
     <name>Kiganda</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>Kilakota</name>
   </language>
   <language>
     <code>ln</code>
@@ -561,6 +641,10 @@
     <name>Kijaluo</name>
   </language>
   <language>
+    <code>luy</code>
+    <name>Kiluhya</name>
+  </language>
+  <language>
     <code>lv</code>
     <name>Kilatvia</name>
   </language>
@@ -569,8 +653,12 @@
     <name>Kimafa</name>
   </language>
   <language>
+    <code>mag</code>
+    <name>Kimagahi</name>
+  </language>
+  <language>
     <code>mas</code>
-    <name>Kimaa</name>
+    <name>Kimaasai</name>
   </language>
   <language>
     <code>mde</code>
@@ -579,6 +667,10 @@
   <language>
     <code>men</code>
     <name>Kimende</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>Kimeru</name>
   </language>
   <language>
     <code>mfe</code>
@@ -591,6 +683,10 @@
   <language>
     <code>mgh</code>
     <name>Kimakhuwa-Meetto</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>Kimeta</name>
   </language>
   <language>
     <code>mi</code>
@@ -606,7 +702,11 @@
   </language>
   <language>
     <code>mn</code>
-    <name>Mongolia</name>
+    <name>Kimongolia</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>Kimohoki</name>
   </language>
   <language>
     <code>mos</code>
@@ -625,12 +725,20 @@
     <name>Kimalta</name>
   </language>
   <language>
+    <code>mua</code>
+    <name>Kimundang</name>
+  </language>
+  <language>
     <code>mul</code>
     <name>Lugha Nyingi</name>
   </language>
   <language>
     <code>my</code>
     <name>Kiburma</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>Kinama</name>
   </language>
   <language>
     <code>nb</code>
@@ -645,16 +753,16 @@
     <name>Kinepali</name>
   </language>
   <language>
+    <code>new</code>
+    <name>Kinewari</name>
+  </language>
+  <language>
     <code>ng</code>
     <name>Kindonga</name>
   </language>
   <language>
     <code>nl</code>
     <name>Kiholanzi</name>
-  </language>
-  <language>
-    <code>nl_BE</code>
-    <name>Kiflemi</name>
   </language>
   <language>
     <code>nmg</code>
@@ -669,12 +777,24 @@
     <name>Kinorwe</name>
   </language>
   <language>
+    <code>nqo</code>
+    <name>N’Ko</name>
+  </language>
+  <language>
     <code>nr</code>
     <name>Kindebele</name>
   </language>
   <language>
     <code>nso</code>
     <name>Kisotho cha Kaskazini</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>Kinuer</name>
+  </language>
+  <language>
+    <code>nwc</code>
+    <name>Kinewari cha kale</name>
   </language>
   <language>
     <code>ny</code>
@@ -733,16 +853,12 @@
     <name>Kireno</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>Kireno cha Brazil</name>
-  </language>
-  <language>
-    <code>pt_PT</code>
-    <name>Kireno cha Ulaya</name>
-  </language>
-  <language>
     <code>qu</code>
     <name>Kiquechua</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>Kʼicheʼ</name>
   </language>
   <language>
     <code>rap</code>
@@ -813,12 +929,20 @@
     <name>Kisena</name>
   </language>
   <language>
+    <code>ses</code>
+    <name>Koyraboro Senni</name>
+  </language>
+  <language>
     <code>sg</code>
     <name>Kisango</name>
   </language>
   <language>
     <code>sh</code>
     <name>Kiserbia-kroeshia</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>Tachelhit</name>
   </language>
   <language>
     <code>shu</code>
@@ -843,6 +967,18 @@
   <language>
     <code>sma</code>
     <name>Kisami cha Kusini</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>Kisami cha Lule</name>
+  </language>
+  <language>
+    <code>smn</code>
+    <name>Kisami cha Inari</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>Kisami cha Skolt</name>
   </language>
   <language>
     <code>sn</code>
@@ -926,7 +1062,7 @@
   </language>
   <language>
     <code>tg</code>
-    <name>Tajiki</name>
+    <name>Kitajiki</name>
   </language>
   <language>
     <code>th</code>
@@ -950,7 +1086,7 @@
   </language>
   <language>
     <code>to</code>
-    <name>Tonga</name>
+    <name>Kitonga</name>
   </language>
   <language>
     <code>tpi</code>
@@ -977,8 +1113,16 @@
     <name>Kitwi</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>Kitasawaq</name>
+  </language>
+  <language>
     <code>ty</code>
     <name>Kitahiti</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>Central Atlas Tamazight</name>
   </language>
   <language>
     <code>ug</code>
@@ -1013,12 +1157,24 @@
     <name>Kivietinamu</name>
   </language>
   <language>
+    <code>vun</code>
+    <name>Kivunjo</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>Kiwolofu</name>
   </language>
   <language>
     <code>xh</code>
     <name>Kixhosa</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>Kisoga</name>
+  </language>
+  <language>
+    <code>yao</code>
+    <name>Kiyao</name>
   </language>
   <language>
     <code>ybb</code>
@@ -1039,10 +1195,6 @@
   <language>
     <code>zh</code>
     <name>Kichina</name>
-  </language>
-  <language>
-    <code>zh_Hans</code>
-    <name>Kichina Rahisi</name>
   </language>
   <language>
     <code>zh_Hant</code>

@@ -37,6 +37,10 @@
     <name>африхили</name>
   </language>
   <language>
+    <code>agq</code>
+    <name>агем</name>
+  </language>
+  <language>
     <code>ain</code>
     <name>айну</name>
   </language>
@@ -101,6 +105,10 @@
     <name>асамски</name>
   </language>
   <language>
+    <code>asa</code>
+    <name>асу</name>
+  </language>
+  <language>
     <code>ast</code>
     <name>астурски</name>
   </language>
@@ -149,6 +157,10 @@
     <name>бемба</name>
   </language>
   <language>
+    <code>bez</code>
+    <name>бена</name>
+  </language>
+  <language>
     <code>bg</code>
     <name>български</name>
   </language>
@@ -193,6 +205,10 @@
     <name>брадж</name>
   </language>
   <language>
+    <code>brx</code>
+    <name>бодо</name>
+  </language>
+  <language>
     <code>bs</code>
     <name>босненски</name>
   </language>
@@ -231,6 +247,10 @@
   <language>
     <code>ceb</code>
     <name>себуано</name>
+  </language>
+  <language>
+    <code>cgg</code>
+    <name>чига</name>
   </language>
   <language>
     <code>ch</code>
@@ -325,6 +345,10 @@
     <name>даргва</name>
   </language>
   <language>
+    <code>dav</code>
+    <name>таита</name>
+  </language>
+  <language>
     <code>de</code>
     <name>немски</name>
   </language>
@@ -353,12 +377,16 @@
     <name>динка</name>
   </language>
   <language>
+    <code>dje</code>
+    <name>джерма</name>
+  </language>
+  <language>
     <code>doi</code>
     <name>догри</name>
   </language>
   <language>
     <code>dsb</code>
-    <name>долносербски</name>
+    <name>долнолужишки</name>
   </language>
   <language>
     <code>dua</code>
@@ -373,6 +401,10 @@
     <name>дивехи</name>
   </language>
   <language>
+    <code>dyo</code>
+    <name>диола</name>
+  </language>
+  <language>
     <code>dyu</code>
     <name>диула</name>
   </language>
@@ -381,8 +413,12 @@
     <name>дзонха</name>
   </language>
   <language>
+    <code>ebu</code>
+    <name>ембу</name>
+  </language>
+  <language>
     <code>ee</code>
-    <name>еуе</name>
+    <name>еве</name>
   </language>
   <language>
     <code>efi</code>
@@ -533,6 +569,10 @@
     <name>га</name>
   </language>
   <language>
+    <code>gag</code>
+    <name>гагаузки</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>гайо</name>
   </language>
@@ -597,6 +637,10 @@
     <name>гуджарати</name>
   </language>
   <language>
+    <code>guz</code>
+    <name>гусии</name>
+  </language>
+  <language>
     <code>gv</code>
     <name>манкски</name>
   </language>
@@ -646,7 +690,7 @@
   </language>
   <language>
     <code>hsb</code>
-    <name>горносербски</name>
+    <name>горнолужишки</name>
   </language>
   <language>
     <code>ht</code>
@@ -690,7 +734,7 @@
   </language>
   <language>
     <code>ii</code>
-    <name>сечуански</name>
+    <name>съчуански и</name>
   </language>
   <language>
     <code>ik</code>
@@ -727,6 +771,14 @@
   <language>
     <code>jbo</code>
     <name>лоджбан</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>нгомба</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>мачаме</name>
   </language>
   <language>
     <code>jpr</code>
@@ -777,6 +829,14 @@
     <name>туап</name>
   </language>
   <language>
+    <code>kde</code>
+    <name>маконде</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>кабовердиански</name>
+  </language>
+  <language>
     <code>kfo</code>
     <name>коро</name>
   </language>
@@ -793,8 +853,12 @@
     <name>котски</name>
   </language>
   <language>
+    <code>khq</code>
+    <name>койра чиини</name>
+  </language>
+  <language>
     <code>ki</code>
-    <name>кикуйу</name>
+    <name>кикую</name>
   </language>
   <language>
     <code>kj</code>
@@ -806,7 +870,11 @@
   </language>
   <language>
     <code>kl</code>
-    <name>гренландски ескимоски</name>
+    <name>гренландски</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>календжин</name>
   </language>
   <language>
     <code>km</code>
@@ -823,6 +891,10 @@
   <language>
     <code>ko</code>
     <name>корейски</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>коми-пермяцки</name>
   </language>
   <language>
     <code>kok</code>
@@ -857,6 +929,14 @@
     <name>кашмирски</name>
   </language>
   <language>
+    <code>ksb</code>
+    <name>шамбала</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>бафия</name>
+  </language>
+  <language>
     <code>ku</code>
     <name>кюрдски</name>
   </language>
@@ -874,7 +954,7 @@
   </language>
   <language>
     <code>kw</code>
-    <name>корнуолски келтски</name>
+    <name>корнуолски</name>
   </language>
   <language>
     <code>ky</code>
@@ -887,6 +967,10 @@
   <language>
     <code>lad</code>
     <name>ладино</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>ланги</name>
   </language>
   <language>
     <code>lah</code>
@@ -911,6 +995,10 @@
   <language>
     <code>li</code>
     <name>лимбургски</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>лакота</name>
   </language>
   <language>
     <code>ln</code>
@@ -957,6 +1045,10 @@
     <name>лушаи</name>
   </language>
   <language>
+    <code>luy</code>
+    <name>луя</name>
+  </language>
+  <language>
     <code>lv</code>
     <name>латвийски</name>
   </language>
@@ -997,6 +1089,10 @@
     <name>менде</name>
   </language>
   <language>
+    <code>mer</code>
+    <name>меру</name>
+  </language>
+  <language>
     <code>mfe</code>
     <name>морисиен</name>
   </language>
@@ -1007,6 +1103,14 @@
   <language>
     <code>mga</code>
     <name>средновековен ирландски</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>макуа мето</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>мета</name>
   </language>
   <language>
     <code>mh</code>
@@ -1046,7 +1150,7 @@
   </language>
   <language>
     <code>moh</code>
-    <name>мохавк</name>
+    <name>мохоук</name>
   </language>
   <language>
     <code>mos</code>
@@ -1063,6 +1167,10 @@
   <language>
     <code>mt</code>
     <name>малтийски</name>
+  </language>
+  <language>
+    <code>mua</code>
+    <name>мунданг</name>
   </language>
   <language>
     <code>mul</code>
@@ -1095,6 +1203,10 @@
   <language>
     <code>nap</code>
     <name>неаполитански</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>нама</name>
   </language>
   <language>
     <code>nb</code>
@@ -1137,8 +1249,12 @@
     <name>фламандски</name>
   </language>
   <language>
+    <code>nmg</code>
+    <name>квасио</name>
+  </language>
+  <language>
     <code>nn</code>
-    <name>норвежки нюнорск</name>
+    <name>норвежки нюношк</name>
   </language>
   <language>
     <code>no</code>
@@ -1154,7 +1270,7 @@
   </language>
   <language>
     <code>nqo</code>
-    <name>н’ко</name>
+    <name>нко</name>
   </language>
   <language>
     <code>nr</code>
@@ -1163,6 +1279,10 @@
   <language>
     <code>nso</code>
     <name>северен сото</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>нуер</name>
   </language>
   <language>
     <code>nv</code>
@@ -1281,6 +1401,10 @@
     <name>кечуа</name>
   </language>
   <language>
+    <code>quc</code>
+    <name>киче</name>
+  </language>
+  <language>
     <code>raj</code>
     <name>раджастански</name>
   </language>
@@ -1309,6 +1433,10 @@
     <name>молдовски</name>
   </language>
   <language>
+    <code>rof</code>
+    <name>ромбо</name>
+  </language>
+  <language>
     <code>rom</code>
     <name>цигански език</name>
   </language>
@@ -1329,6 +1457,10 @@
     <name>киняруанда</name>
   </language>
   <language>
+    <code>rwk</code>
+    <name>рва</name>
+  </language>
+  <language>
     <code>sa</code>
     <name>санкскритски</name>
   </language>
@@ -1345,12 +1477,20 @@
     <name>самаритански арамейски</name>
   </language>
   <language>
+    <code>saq</code>
+    <name>самбуру</name>
+  </language>
+  <language>
     <code>sas</code>
     <name>сасак</name>
   </language>
   <language>
     <code>sat</code>
     <name>сантали</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>сангу</name>
   </language>
   <language>
     <code>sc</code>
@@ -1370,11 +1510,19 @@
   </language>
   <language>
     <code>se</code>
-    <name>северен сами</name>
+    <name>северносаамски</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>сена</name>
   </language>
   <language>
     <code>sel</code>
     <name>селкуп</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>койраборо сени</name>
   </language>
   <language>
     <code>sg</code>
@@ -1387,6 +1535,10 @@
   <language>
     <code>sh</code>
     <name>сърбохърватски</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>ташелхит</name>
   </language>
   <language>
     <code>shn</code>
@@ -1497,6 +1649,10 @@
     <name>коморски</name>
   </language>
   <language>
+    <code>swc</code>
+    <name>конгоански суахили</name>
+  </language>
+  <language>
     <code>syc</code>
     <name>класически сирийски</name>
   </language>
@@ -1515,6 +1671,10 @@
   <language>
     <code>tem</code>
     <name>темне</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>тесо</name>
   </language>
   <language>
     <code>ter</code>
@@ -1613,12 +1773,20 @@
     <name>туи</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>тасавак</name>
+  </language>
+  <language>
     <code>ty</code>
     <name>таитянски</name>
   </language>
   <language>
     <code>tyv</code>
     <name>тувински</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>централноатласки тамазигт</name>
   </language>
   <language>
     <code>udm</code>
@@ -1673,6 +1841,10 @@
     <name>вотик</name>
   </language>
   <language>
+    <code>vun</code>
+    <name>вунджо</name>
+  </language>
+  <language>
     <code>wa</code>
     <name>валонски</name>
   </language>
@@ -1699,6 +1871,10 @@
   <language>
     <code>xh</code>
     <name>ксоса</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>сога</name>
   </language>
   <language>
     <code>yao</code>

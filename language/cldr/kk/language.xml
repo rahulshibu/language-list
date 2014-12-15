@@ -2,11 +2,19 @@
 <languages>
   <language>
     <code>ab</code>
-    <name>абхаз</name>
+    <name>абхаз тілі</name>
   </language>
   <language>
     <code>af</code>
     <name>африкаанс</name>
+  </language>
+  <language>
+    <code>agq</code>
+    <name>агхем</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>акан</name>
   </language>
   <language>
     <code>am</code>
@@ -14,15 +22,23 @@
   </language>
   <language>
     <code>ar</code>
-    <name>араб</name>
+    <name>араб тілі</name>
   </language>
   <language>
     <code>ar_001</code>
     <name>қазіргі стандартты араб тілі</name>
   </language>
   <language>
+    <code>arn</code>
+    <name>мапуче</name>
+  </language>
+  <language>
     <code>as</code>
-    <name>ассам</name>
+    <name>ассам тілі</name>
+  </language>
+  <language>
+    <code>asa</code>
+    <name>асу</name>
   </language>
   <language>
     <code>ay</code>
@@ -30,19 +46,35 @@
   </language>
   <language>
     <code>az</code>
-    <name>әзірбайжан</name>
+    <name>әзірбайжан тілі</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>башқұрт тілі</name>
   </language>
   <language>
     <code>be</code>
-    <name>беларус</name>
+    <name>беларус тілі</name>
+  </language>
+  <language>
+    <code>bem</code>
+    <name>бемба</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>бена</name>
   </language>
   <language>
     <code>bg</code>
-    <name>болгар</name>
+    <name>болгар тілі</name>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>бамбара</name>
   </language>
   <language>
     <code>bn</code>
-    <name>бенгал</name>
+    <name>бенгал тілі</name>
   </language>
   <language>
     <code>bo</code>
@@ -50,19 +82,39 @@
   </language>
   <language>
     <code>br</code>
-    <name>брит</name>
+    <name>бретон тілі</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>бодо тілі</name>
   </language>
   <language>
     <code>bs</code>
-    <name>босния</name>
+    <name>босния тілі</name>
   </language>
   <language>
     <code>ca</code>
     <name>каталан</name>
   </language>
   <language>
+    <code>cgg</code>
+    <name>кига</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>чероки тілі</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>сорани тілі</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>корсикан тілі</name>
+  </language>
+  <language>
     <code>cs</code>
-    <name>чех</name>
+    <name>чех тілі</name>
   </language>
   <language>
     <code>cy</code>
@@ -71,6 +123,10 @@
   <language>
     <code>da</code>
     <name>дат</name>
+  </language>
+  <language>
+    <code>dav</code>
+    <name>таита</name>
   </language>
   <language>
     <code>de</code>
@@ -82,15 +138,39 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>швейцариялық ұлы неміс тілі</name>
+    <name>неміс тілінің швейцариялық диалекті</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>зарма</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>төменгі лужица тілі</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>дуала</name>
   </language>
   <language>
     <code>dv</code>
     <name>Мальдив</name>
   </language>
   <language>
+    <code>dyo</code>
+    <name>диола</name>
+  </language>
+  <language>
     <code>dz</code>
     <name>дзонг-кэ</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>ембу</name>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>эве</name>
   </language>
   <language>
     <code>efi</code>
@@ -98,7 +178,7 @@
   </language>
   <language>
     <code>el</code>
-    <name>грек</name>
+    <name>грек тілі</name>
   </language>
   <language>
     <code>en</code>
@@ -142,7 +222,7 @@
   </language>
   <language>
     <code>et</code>
-    <name>эстон</name>
+    <name>эстон тілі</name>
   </language>
   <language>
     <code>eu</code>
@@ -150,7 +230,7 @@
   </language>
   <language>
     <code>fa</code>
-    <name>парсы</name>
+    <name>парсы тілі</name>
   </language>
   <language>
     <code>fi</code>
@@ -186,7 +266,11 @@
   </language>
   <language>
     <code>ga</code>
-    <name>ирланд</name>
+    <name>ирланд тілі</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>гагауз</name>
   </language>
   <language>
     <code>gd</code>
@@ -209,6 +293,14 @@
     <name>гуджарати</name>
   </language>
   <language>
+    <code>guz</code>
+    <name>гусии</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>мэнс</name>
+  </language>
+  <language>
     <code>ha</code>
     <name>хауса</name>
   </language>
@@ -229,6 +321,10 @@
     <name>хорват</name>
   </language>
   <language>
+    <code>hsb</code>
+    <name>жоғарғы лужица</name>
+  </language>
+  <language>
     <code>ht</code>
     <name>гаитян</name>
   </language>
@@ -238,7 +334,7 @@
   </language>
   <language>
     <code>hy</code>
-    <name>армян</name>
+    <name>армян тілі</name>
   </language>
   <language>
     <code>ia</code>
@@ -246,7 +342,7 @@
   </language>
   <language>
     <code>id</code>
-    <name>индонезия</name>
+    <name>индонез тілі</name>
   </language>
   <language>
     <code>ie</code>
@@ -257,6 +353,10 @@
     <name>игбо</name>
   </language>
   <language>
+    <code>ii</code>
+    <name>сычуан и тілі</name>
+  </language>
+  <language>
     <code>is</code>
     <name>исланд</name>
   </language>
@@ -265,8 +365,20 @@
     <name>итальян тілі</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>инуктитут</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>жапон тілі</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>нгомба</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>мачаме</name>
   </language>
   <language>
     <code>jv</code>
@@ -274,11 +386,43 @@
   </language>
   <language>
     <code>ka</code>
-    <name>грузин</name>
+    <name>грузин тілі</name>
+  </language>
+  <language>
+    <code>kab</code>
+    <name>кабил</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>камба</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>маконде</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>кабувердиана</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>койра чини</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>кикуйю</name>
   </language>
   <language>
     <code>kk</code>
     <name>қазақ тілі</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>калаалисут</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>каленжин</name>
   </language>
   <language>
     <code>km</code>
@@ -290,27 +434,59 @@
   </language>
   <language>
     <code>ko</code>
-    <name>кәріс</name>
+    <name>кәріс тілі</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>коми-пермь тілі</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>конкани</name>
   </language>
   <language>
     <code>ks</code>
-    <name>кашмир</name>
+    <name>кашмир тілі</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>шамбала</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>бафиа</name>
   </language>
   <language>
     <code>ku</code>
-    <name>күрд</name>
+    <name>күрд тілі</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>корниш</name>
   </language>
   <language>
     <code>ky</code>
-    <name>қырғыз</name>
+    <name>қырғыз тілі</name>
   </language>
   <language>
     <code>la</code>
     <name>латын</name>
   </language>
   <language>
+    <code>lag</code>
+    <name>ланги тілі</name>
+  </language>
+  <language>
     <code>lb</code>
     <name>люксембург</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>ганда</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>лакота</name>
   </language>
   <language>
     <code>ln</code>
@@ -318,19 +494,51 @@
   </language>
   <language>
     <code>lo</code>
-    <name>лаос</name>
+    <name>лаос тілі</name>
   </language>
   <language>
     <code>lt</code>
-    <name>литва</name>
+    <name>литва тілі</name>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>луба-катанга</name>
+  </language>
+  <language>
+    <code>luo</code>
+    <name>луо</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>лухиа</name>
   </language>
   <language>
     <code>lv</code>
-    <name>латыш</name>
+    <name>латыш тілі</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>масай</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>меру</name>
+  </language>
+  <language>
+    <code>mfe</code>
+    <name>морисиен</name>
   </language>
   <language>
     <code>mg</code>
     <name>малагаси</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>макуа-меетто</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>мета</name>
   </language>
   <language>
     <code>mi</code>
@@ -338,7 +546,7 @@
   </language>
   <language>
     <code>mk</code>
-    <name>македон</name>
+    <name>македон тілі</name>
   </language>
   <language>
     <code>ml</code>
@@ -346,7 +554,11 @@
   </language>
   <language>
     <code>mn</code>
-    <name>моңғол</name>
+    <name>моңғол тілі</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>мохоки</name>
   </language>
   <language>
     <code>mr</code>
@@ -361,8 +573,16 @@
     <name>мальта</name>
   </language>
   <language>
+    <code>mua</code>
+    <name>мунданг</name>
+  </language>
+  <language>
     <code>my</code>
     <name>бирман</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>нама</name>
   </language>
   <language>
     <code>nb</code>
@@ -370,7 +590,7 @@
   </language>
   <language>
     <code>nd</code>
-    <name>Солтүстік ндебел</name>
+    <name>солтүстік ндебел</name>
   </language>
   <language>
     <code>ne</code>
@@ -378,11 +598,15 @@
   </language>
   <language>
     <code>nl</code>
-    <name>голланд</name>
+    <name>нидерланд тілі</name>
   </language>
   <language>
     <code>nl_BE</code>
-    <name>флемиш</name>
+    <name>фламанд тілі</name>
+  </language>
+  <language>
+    <code>nmg</code>
+    <name>квасио</name>
   </language>
   <language>
     <code>nn</code>
@@ -393,16 +617,32 @@
     <name>норвег</name>
   </language>
   <language>
+    <code>nqo</code>
+    <name>нко</name>
+  </language>
+  <language>
     <code>nso</code>
     <name>Солтүстік сотхо</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>нуер</name>
   </language>
   <language>
     <code>ny</code>
     <name>ньянджа</name>
   </language>
   <language>
+    <code>nyn</code>
+    <name>нианколе</name>
+  </language>
+  <language>
     <code>oc</code>
     <name>окситан</name>
+  </language>
+  <language>
+    <code>om</code>
+    <name>оромо</name>
   </language>
   <language>
     <code>or</code>
@@ -414,11 +654,11 @@
   </language>
   <language>
     <code>pa</code>
-    <name>панджаб</name>
+    <name>пенджаб</name>
   </language>
   <language>
     <code>pl</code>
-    <name>поляк</name>
+    <name>поляк тілі</name>
   </language>
   <language>
     <code>ps</code>
@@ -441,6 +681,10 @@
     <name>кечуа</name>
   </language>
   <language>
+    <code>quc</code>
+    <name>киче</name>
+  </language>
+  <language>
     <code>rm</code>
     <name>романш</name>
   </language>
@@ -453,12 +697,24 @@
     <name>румын</name>
   </language>
   <language>
+    <code>ro_MD</code>
+    <name>молдован тілі</name>
+  </language>
+  <language>
+    <code>rof</code>
+    <name>ромбо</name>
+  </language>
+  <language>
     <code>ru</code>
     <name>орыс тілі</name>
   </language>
   <language>
     <code>rw</code>
     <name>киньяруанда</name>
+  </language>
+  <language>
+    <code>rwk</code>
+    <name>руа</name>
   </language>
   <language>
     <code>sa</code>
@@ -469,12 +725,28 @@
     <name>якут</name>
   </language>
   <language>
+    <code>saq</code>
+    <name>самбуру</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>сангу</name>
+  </language>
+  <language>
     <code>sd</code>
     <name>синдхи</name>
   </language>
   <language>
     <code>se</code>
-    <name>Солтүстік саам</name>
+    <name>солтүстік сами</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>сена</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>койраборо сенни</name>
   </language>
   <language>
     <code>sg</code>
@@ -483,6 +755,10 @@
   <language>
     <code>sh</code>
     <name>сербхорват</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>ташелхит</name>
   </language>
   <language>
     <code>si</code>
@@ -497,6 +773,26 @@
     <name>словен</name>
   </language>
   <language>
+    <code>sma</code>
+    <name>оңтүстік саами</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>луле саам</name>
+  </language>
+  <language>
+    <code>smn</code>
+    <name>инари саам</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>сколт саам</name>
+  </language>
+  <language>
+    <code>sn</code>
+    <name>шона</name>
+  </language>
+  <language>
     <code>so</code>
     <name>сомали</name>
   </language>
@@ -506,7 +802,7 @@
   </language>
   <language>
     <code>sr</code>
-    <name>серб</name>
+    <name>серб тілі</name>
   </language>
   <language>
     <code>st</code>
@@ -525,6 +821,10 @@
     <name>суахили</name>
   </language>
   <language>
+    <code>swc</code>
+    <name>конго суахили тілі</name>
+  </language>
+  <language>
     <code>ta</code>
     <name>тамил</name>
   </language>
@@ -533,8 +833,12 @@
     <name>телугу</name>
   </language>
   <language>
+    <code>teo</code>
+    <name>тесо</name>
+  </language>
+  <language>
     <code>tg</code>
-    <name>тәжік</name>
+    <name>тәжік тілі</name>
   </language>
   <language>
     <code>th</code>
@@ -562,19 +866,27 @@
   </language>
   <language>
     <code>tt</code>
-    <name>татар</name>
+    <name>татар тілі</name>
   </language>
   <language>
     <code>tw</code>
     <name>тви</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>тасавак</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>орталық атлас тамасагихт тілі</name>
+  </language>
+  <language>
     <code>ug</code>
-    <name>ұйғыр</name>
+    <name>ұйғыр тілі</name>
   </language>
   <language>
     <code>uk</code>
-    <name>украин</name>
+    <name>украин тілі</name>
   </language>
   <language>
     <code>und</code>
@@ -589,8 +901,16 @@
     <name>өзбек</name>
   </language>
   <language>
+    <code>vai</code>
+    <name>вай</name>
+  </language>
+  <language>
     <code>vi</code>
     <name>вьетнам</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>вунджо</name>
   </language>
   <language>
     <code>wo</code>
@@ -599,6 +919,10 @@
   <language>
     <code>xh</code>
     <name>ксоза</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>сога</name>
   </language>
   <language>
     <code>yi</code>
@@ -618,11 +942,11 @@
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>қарапайым қытай тілі</name>
+    <name>жеңілдетілген қытай тілі</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>дәстүрлік қытай тілі</name>
+    <name>дәстүрлі қытай тілі</name>
   </language>
   <language>
     <code>zu</code>

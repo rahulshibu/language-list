@@ -24,7 +24,7 @@ arn: "ar\xE1kan\xEDska"
 arp: "arapah\xF3"
 arw: aravakska
 as: assamska
-asa: asu (Tanzania)
+asa: asu
 ast: "ast\xFAr\xEDska"
 av: "avar\xEDska"
 awa: "avad\xED"
@@ -38,7 +38,7 @@ bax: bamun
 be: "hv\xEDtr\xFAssneska"
 bej: beja
 bem: bemba
-bez: bena (Tanzania)
+bez: bena
 bg: "b\xFAlgarska"
 bho: "bojp\xFAr\xED"
 bi: "b\xEDslama"
@@ -50,7 +50,7 @@ bn: bengalska
 bo: "t\xEDbeska"
 br: "bret\xF3nska"
 bra: "bra\xED"
-brx: bodo
+brx: "b\xF3d\xF3"
 bs: "bosn\xEDska"
 bss: bakossi
 bua: "b\xFAr\xEDat"
@@ -63,7 +63,7 @@ cay: "kaj\xFAga"
 cch: atsam
 ce: tsjetsjenska
 ceb: "keb\xFAan\xF3"
-cgg: "sj\xEDga"
+cgg: "k\xEDga"
 ch: "kamorr\xF3"
 chb: "s\xEDbsja"
 chg: "sjagata\xED"
@@ -145,12 +145,13 @@ fur: "fr\xED\xFAlska"
 fy: "vesturfr\xEDsneska"
 ga: "\xEDrska"
 gaa: ga
+gag: "gag\xE1s"
 gay: "gaj\xF3"
 gba: gbaja
 gd: "skosk gel\xEDska"
 gez: "g\xEDs"
 gil: gilberska
-gl: gallegska
+gl: "gal\xEDanska"
 gmh: "mi\xF0h\xE1\xFE\xFDska"
 gn: "gvaran\xED"
 goh: "fornh\xE1\xFE\xFDska"
@@ -162,7 +163,7 @@ grc: "forngr\xEDska"
 gsw: "svissnesk \xFE\xFDska"
 gu: "g\xFAjarat\xED"
 guz: gusii
-gv: manx
+gv: manska
 gwi: "gv\xEDs\xEDn"
 ha: "h\xE1sa"
 hai: "ha\xEDda"
@@ -196,6 +197,7 @@ it: "\xEDtalska"
 iu: "in\xFAktit\xFAt"
 ja: japanska
 jbo: lojban
+jgo: ngomba
 jmc: "masj\xE1me"
 jpr: "gy\xF0ingapersneska"
 jrb: "gy\xF0ingaarab\xEDska"
@@ -209,21 +211,24 @@ kam: kamba
 kaw: "kav\xED"
 kbd: "kabard\xEDska"
 kcg: tyap
-kde: "mak\xF3nde"
-kea: kappverdiska
+kde: makonde
+kea: "gr\xE6nh\xF6f\xF0eyska"
 kfo: koro
 kg: "kong\xF3ska"
 kha: "kas\xED"
 kho: kotaska
+khq: koyra chiini
 ki: "k\xEDk\xFAj\xFA"
 kj: "k\xFAanjama"
 kk: kasakska
 kkj: kako
 kl: "gr\xE6nlenska"
+kln: kalenjin
 km: kmer
 kmb: "kimb\xFAnd\xFA"
 kn: kannada
 ko: "k\xF3reska"
+koi: "k\xF3m\xED-permyak"
 kok: "konkan\xED"
 kos: kosraska
 kpe: kpelle
@@ -232,22 +237,25 @@ krc: "karasa\xEDbalkar"
 krl: "kar\xE9lska"
 kru: "k\xFAr\xFAk"
 ks: "kasm\xEDrska"
-ksf: bafia
+ksb: sjambala
+ksf: "baf\xEDa"
 ksh: "k\xF6ln\xEDska"
-ku: "k\xFArdneska"
+ku: "k\xFArd\xEDska"
 kum: "k\xFAm\xEDk"
 kut: "k\xFAtena\xED"
 kv: "kom\xEDska"
-kw: "korn\xEDska"
+kw: kornbreska
 ky: kirgiska
 la: "lat\xEDna"
 lad: "lad\xEDnska"
+lag: "lang\xED"
 lah: landa
 lam: lamba
 lb: "l\xFAxemborg\xEDska"
 lez: "lesg\xEDska"
 lg: ganda
 li: "limb\xFArg\xEDska"
+lkt: "lak\xF3ta"
 ln: lingala
 lo: "la\xF3"
 lol: "mong\xF3"
@@ -259,7 +267,7 @@ lui: "l\xFAisen\xF3"
 lun: "l\xFAnda"
 luo: "l\xFA\xF3"
 lus: "l\xFAsa\xED"
-luy: "oluluj\xEDa"
+luy: luyia
 lv: lettneska
 mad: "mad\xFArska"
 mag: "magah\xED"
@@ -270,11 +278,14 @@ mas: "masa\xED"
 mdf: moksa
 mdr: mandar
 men: mende
-mfe: morisyen
+mer: "mer\xFA"
+mfe: "m\xE1rit\xEDska"
 mg: "malagas\xEDska"
 mga: "mi\xF0\xEDrska"
+mgh: makhuwa-meetto
+mgo: "meta\u2019"
 mh: marshallska
-mi: "ma\xF3r\xED"
+mi: "maor\xED"
 mic: mikmak
 min: "m\xEDnangkab\xE1"
 mk: "maked\xF3nska"
@@ -287,6 +298,7 @@ mos: "moss\xED"
 mr: "marat\xED"
 ms: "mala\xEDska"
 mt: maltneska
+mua: mundang
 mul: "margv\xEDsleg m\xE1l"
 mus: "kr\xEDk"
 mwl: "mirandes\xEDska"
@@ -295,8 +307,9 @@ my: burmneska
 myv: ersja
 na: "n\xE1r\xFAska"
 nap: "nap\xF3l\xEDska"
+naq: nama
 nb: "norskt b\xF3km\xE1l"
-nd: "nor\xF0urndebele"
+nd: "nor\xF0ur-ndebele"
 nds: "l\xE1g\xFE\xFDska; l\xE1gsaxneska"
 ne: nepalska
 new: "nevar\xED"
@@ -305,6 +318,7 @@ nia: "n\xEDas"
 niu: "n\xEDveska"
 nl: hollenska
 nl_BE: "fl\xE6mska"
+nmg: kwasio
 nn: "n\xFDnorska"
 'no': norska
 nog: "n\xF3ga\xED"
@@ -312,6 +326,7 @@ non: "norr\xE6na"
 nqo: "n\u2019ko"
 nr: "su\xF0urndebele"
 nso: "nor\xF0urs\xF3t\xF3"
+nus: "n\xFAer"
 nv: "navah\xF3"
 nwc: "klass\xEDsk nevar\xEDska"
 ny: "njanja; s\xEDsjeva; sjeva"
@@ -343,6 +358,7 @@ pt: "port\xFAgalska"
 pt_BR: "bras\xEDl\xEDsk port\xFAgalska"
 pt_PT: "evr\xF3psk port\xFAgalska"
 qu: "kvesj\xFAa"
+quc: kiche
 raj: "rajastan\xED"
 rap: "rapan\xFA\xED"
 rar: "rar\xF3tongska"
@@ -350,28 +366,35 @@ rm: "r\xF3manska"
 rn: "r\xFAnd\xED"
 ro: "r\xFAmenska"
 ro_MD: "mold\xF3vska"
+rof: "romb\xF3"
 rom: "roman\xED"
 root: "r\xF3t"
 ru: "r\xFAssneska"
 rup: "ar\xFAmenska"
 rw: "k\xEDnjarvanda"
+rwk: "r\xFAa"
 sa: "sanskr\xEDt"
 sad: sandave
 sah: "jak\xFAt"
 sam: "samversk arame\xEDska"
+saq: "samb\xFAr\xFA"
 sas: sasak
 sat: "santal\xED"
+sbp: "sang\xFA"
 sc: "sard\xEDnska"
 scn: sikileyska
 sco: skoska
 sd: "sind\xED"
 se: "nor\xF0ursam\xEDska"
+seh: sena
 sel: "selk\xFAp"
+ses: "ko\xEDrabor\xF3-senn\xED"
 sg: "sang\xF3"
 sga: "forn\xEDrska"
 sh: "serb\xF3kr\xF3at\xEDska"
+shi: tachelhit
 shn: sjan
-si: sinhala
+si: "singal\xEDska"
 sid: "s\xEDdam\xF3"
 sk: "sl\xF3vak\xEDska"
 sl: "sl\xF3venska"
@@ -380,7 +403,7 @@ sma: "su\xF0ursam\xEDska"
 smj: "l\xFAlesam\xEDska"
 smn: "enaresam\xEDska"
 sms: "skoltesam\xEDska"
-sn: "sh\xF3na"
+sn: shona
 snk: "s\xF3ninke"
 so: "s\xF3malska"
 sog: "sogd\xEDen"
@@ -398,11 +421,13 @@ sux: "s\xFAmerska"
 sv: "s\xE6nska"
 sw: "svah\xEDl\xED"
 swb: "shimaor\xEDska"
+swc: "Kong\xF3-svah\xEDl\xED"
 syc: "klass\xEDsk s\xFDrlenska"
 syr: "s\xFDrlenska"
 ta: "tam\xEDlska"
 te: "tel\xFAg\xFA"
 tem: "t\xEDmne"
+teo: "tes\xF3"
 ter: "teren\xF3"
 tet: "tet\xFAm"
 tg: tadsjikska
@@ -427,8 +452,10 @@ tt: tatarska
 tum: "t\xFAmb\xFAka"
 tvl: "t\xFAval\xFAska"
 tw: "tv\xED"
+twq: tasawaq
 ty: "tah\xEDt\xEDska"
 tyv: "t\xFAv\xEDnska"
+tzm: tamazight
 udm: "\xFAdm\xFArt"
 ug: "\xFA\xEDg\xFAr"
 uga: "\xFAgar\xEDt\xEDska"
@@ -442,6 +469,7 @@ ve: venda
 vi: "v\xEDetnamska"
 vo: volapyk
 vot: "vot\xEDska"
+vun: "vunj\xF3"
 wa: "vall\xF3nska"
 wal: "valam\xF3"
 war: "vara\xED"
@@ -449,6 +477,7 @@ was: "vasj\xF3"
 wo: volof
 xal: "kalm\xFAkska"
 xh: "s\xF3sa"
+xog: "s\xF3ga"
 yao: "ja\xF3"
 yap: "jap\xEDska"
 yi: "jidd\xEDska"

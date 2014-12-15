@@ -2,7 +2,7 @@
 <languages>
   <language>
     <code>aa</code>
-    <name>aa</name>
+    <name>Afáiris</name>
   </language>
   <language>
     <code>ab</code>
@@ -17,16 +17,60 @@
     <name>Afracáinis</name>
   </language>
   <language>
+    <code>ain</code>
+    <name>Aidhniúis</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>Acáinis</name>
+  </language>
+  <language>
+    <code>akk</code>
+    <name>Acáidis</name>
+  </language>
+  <language>
     <code>am</code>
-    <name>Amarais</name>
+    <name>Amáiris</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>Aragóinis</name>
+  </language>
+  <language>
+    <code>ang</code>
+    <name>Sean-Bhéarla</name>
   </language>
   <language>
     <code>ar</code>
     <name>Araibis</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>Araibis Chaighdeánach</name>
+  </language>
+  <language>
+    <code>arc</code>
+    <name>Aramais</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>Mapúitsis</name>
+  </language>
+  <language>
     <code>as</code>
     <name>Asaimis</name>
+  </language>
+  <language>
+    <code>ast</code>
+    <name>Astúiris</name>
+  </language>
+  <language>
+    <code>av</code>
+    <name>Aváiris</name>
+  </language>
+  <language>
+    <code>ay</code>
+    <name>Aidhmiris</name>
   </language>
   <language>
     <code>az</code>
@@ -37,12 +81,28 @@
     <name>Baiscíris</name>
   </language>
   <language>
+    <code>ban</code>
+    <name>Bailís</name>
+  </language>
+  <language>
+    <code>bar</code>
+    <name>Baváiris</name>
+  </language>
+  <language>
     <code>be</code>
     <name>Bealarúisis</name>
   </language>
   <language>
+    <code>bem</code>
+    <name>Beimbis</name>
+  </language>
+  <language>
     <code>bg</code>
     <name>Bulgáiris</name>
+  </language>
+  <language>
+    <code>bi</code>
+    <name>Bioslaimis</name>
   </language>
   <language>
     <code>bn</code>
@@ -50,7 +110,7 @@
   </language>
   <language>
     <code>bo</code>
-    <name>Tibéadais</name>
+    <name>Tibéidis</name>
   </language>
   <language>
     <code>br</code>
@@ -61,6 +121,14 @@
     <name>Boisnis</name>
   </language>
   <language>
+    <code>bua</code>
+    <name>Buiriáitis</name>
+  </language>
+  <language>
+    <code>bug</code>
+    <name>Buiginis</name>
+  </language>
+  <language>
     <code>ca</code>
     <name>Catalóinis</name>
   </language>
@@ -69,16 +137,40 @@
     <name>Sisinis</name>
   </language>
   <language>
+    <code>ceb</code>
+    <name>Seabúáinis</name>
+  </language>
+  <language>
+    <code>ch</code>
+    <name>Seamóiris</name>
+  </language>
+  <language>
+    <code>chm</code>
+    <name>Mairis</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>Seiricis</name>
+  </language>
+  <language>
     <code>co</code>
     <name>Corsaicis</name>
   </language>
   <language>
+    <code>cop</code>
+    <name>Coptais</name>
+  </language>
+  <language>
     <code>cr</code>
-    <name>Craíais</name>
+    <name>Craís</name>
   </language>
   <language>
     <code>cs</code>
     <name>Seicis</name>
+  </language>
+  <language>
+    <code>csb</code>
+    <name>Caisiúibis</name>
   </language>
   <language>
     <code>cu</code>
@@ -106,7 +198,31 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>Ardghearmáinis Elvéiseach</name>
+    <name>Ard-Ghearmáinis Eilvéiseach</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>Zarmais</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>Sorbais Íochtarach</name>
+  </language>
+  <language>
+    <code>dum</code>
+    <name>Meán-Ollainnis</name>
+  </language>
+  <language>
+    <code>dv</code>
+    <name>Divéihis</name>
+  </language>
+  <language>
+    <code>dz</code>
+    <name>Seoinicis</name>
+  </language>
+  <language>
+    <code>egy</code>
+    <name>Sean-Éigiptis</name>
   </language>
   <language>
     <code>el</code>
@@ -133,6 +249,10 @@
     <name>Béarla Meiriceánach</name>
   </language>
   <language>
+    <code>enm</code>
+    <name>Meán-Bhéarla</name>
+  </language>
+  <language>
     <code>eo</code>
     <name>Esperanto</name>
   </language>
@@ -149,6 +269,10 @@
     <name>Spáinnis Eorpach</name>
   </language>
   <language>
+    <code>es_MX</code>
+    <name>Spáinnis Mheicsiceach</name>
+  </language>
+  <language>
     <code>et</code>
     <name>Eastóinis</name>
   </language>
@@ -159,6 +283,10 @@
   <language>
     <code>fa</code>
     <name>Peirsis</name>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>Fuláinis</name>
   </language>
   <language>
     <code>fi</code>
@@ -182,11 +310,27 @@
   </language>
   <language>
     <code>fr_CA</code>
-    <name>Fraincis Ceanadach</name>
+    <name>Fraincis Cheanadach</name>
   </language>
   <language>
     <code>fr_CH</code>
-    <name>Fraincis Elvéiseach</name>
+    <name>Fraincis Eilvéiseach</name>
+  </language>
+  <language>
+    <code>frm</code>
+    <name>Meán-Fhraincis</name>
+  </language>
+  <language>
+    <code>fro</code>
+    <name>Sean-Fhraincis</name>
+  </language>
+  <language>
+    <code>frr</code>
+    <name>Freaslainnis an Tuaiscirt</name>
+  </language>
+  <language>
+    <code>fur</code>
+    <name>Friúilis</name>
   </language>
   <language>
     <code>fy</code>
@@ -201,32 +345,56 @@
     <name>Gaeilge na hAlban</name>
   </language>
   <language>
+    <code>gez</code>
+    <name>Aetóipis</name>
+  </language>
+  <language>
     <code>gl</code>
     <name>Gailísis</name>
+  </language>
+  <language>
+    <code>gmh</code>
+    <name>Meán-Ard-Ghearmáinis</name>
   </language>
   <language>
     <code>gn</code>
     <name>Guaráinis</name>
   </language>
   <language>
+    <code>goh</code>
+    <name>Sean-Ard-Ghearmáinis</name>
+  </language>
+  <language>
+    <code>grc</code>
+    <name>Sean-Ghréigis</name>
+  </language>
+  <language>
     <code>gsw</code>
-    <name>Gearmáinis Elvéiseach</name>
+    <name>Gearmáinis Eilvéiseach</name>
   </language>
   <language>
     <code>gu</code>
     <name>Gúisearáitis</name>
   </language>
   <language>
+    <code>guc</code>
+    <name>Uaúis</name>
+  </language>
+  <language>
     <code>gv</code>
-    <name>Mannainis</name>
+    <name>Manainnis</name>
   </language>
   <language>
     <code>ha</code>
     <name>Hásais</name>
   </language>
   <language>
+    <code>hak</code>
+    <name>Haicéis</name>
+  </language>
+  <language>
     <code>haw</code>
-    <name>Haváíais</name>
+    <name>Haváis</name>
   </language>
   <language>
     <code>he</code>
@@ -237,24 +405,60 @@
     <name>Hiondúis</name>
   </language>
   <language>
+    <code>hif</code>
+    <name>Hiondúis Fhidsí</name>
+  </language>
+  <language>
+    <code>hil</code>
+    <name>Hilgeanóinis</name>
+  </language>
+  <language>
+    <code>hit</code>
+    <name>Hitis</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>Mongais</name>
+  </language>
+  <language>
+    <code>ho</code>
+    <name>Motúis Hírí</name>
+  </language>
+  <language>
     <code>hr</code>
     <name>Cróitis</name>
   </language>
   <language>
+    <code>hsb</code>
+    <name>Sorbais Uachtarach</name>
+  </language>
+  <language>
     <code>ht</code>
-    <name>Háítis</name>
+    <name>Criól Háítíoch</name>
   </language>
   <language>
     <code>hu</code>
     <name>Ungáiris</name>
   </language>
   <language>
+    <code>hup</code>
+    <name>Húipis</name>
+  </language>
+  <language>
     <code>hy</code>
     <name>Airméinis</name>
   </language>
   <language>
+    <code>hz</code>
+    <name>Heiréiris</name>
+  </language>
+  <language>
     <code>ia</code>
     <name>Interlingua</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>Ibibis</name>
   </language>
   <language>
     <code>id</code>
@@ -270,7 +474,11 @@
   </language>
   <language>
     <code>ik</code>
-    <name>Inupiaq</name>
+    <name>Iniúipiaicis</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>Iongúis</name>
   </language>
   <language>
     <code>io</code>
@@ -293,20 +501,44 @@
     <name>Seapáinis</name>
   </language>
   <language>
+    <code>jut</code>
+    <name>Iútlainnis</name>
+  </language>
+  <language>
     <code>jv</code>
-    <name>Iávais</name>
+    <name>Iáivis</name>
   </language>
   <language>
     <code>ka</code>
     <name>Seoirsis</name>
   </language>
   <language>
+    <code>kaa</code>
+    <name>Cara-Chalpáis</name>
+  </language>
+  <language>
+    <code>kg</code>
+    <name>Congóis</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>Ciocúis</name>
+  </language>
+  <language>
+    <code>kj</code>
+    <name>Cuainiáimis</name>
+  </language>
+  <language>
     <code>kk</code>
-    <name>Casachais</name>
+    <name>Casaicis</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>Kalaallisut</name>
   </language>
   <language>
     <code>km</code>
-    <name>Cambóidis</name>
+    <name>Ciméiris</name>
   </language>
   <language>
     <code>kn</code>
@@ -317,6 +549,22 @@
     <name>Cóiréis</name>
   </language>
   <language>
+    <code>kok</code>
+    <name>Concáinis</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>Canúiris</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>Cairéilis</name>
+  </language>
+  <language>
+    <code>kru</code>
+    <name>Curúicis</name>
+  </language>
+  <language>
     <code>ks</code>
     <name>Caismíris</name>
   </language>
@@ -325,40 +573,84 @@
     <name>Coirdis</name>
   </language>
   <language>
+    <code>kv</code>
+    <name>Coimis</name>
+  </language>
+  <language>
     <code>kw</code>
-    <name>Cornais</name>
+    <name>Coirnis</name>
   </language>
   <language>
     <code>ky</code>
-    <name>Cirgeasais</name>
+    <name>Cirgisis</name>
   </language>
   <language>
     <code>la</code>
     <name>Laidin</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>Laidínis</name>
+  </language>
+  <language>
+    <code>lah</code>
+    <name>Puinseáibis Iartharach</name>
+  </language>
+  <language>
     <code>lb</code>
-    <name>Leitseabuirgis</name>
+    <name>Lucsambuirgis</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>Lugandais</name>
+  </language>
+  <language>
+    <code>lij</code>
+    <name>Liogúiris</name>
+  </language>
+  <language>
+    <code>liv</code>
+    <name>Liovóinis</name>
+  </language>
+  <language>
+    <code>lmo</code>
+    <name>Lombairdis</name>
   </language>
   <language>
     <code>ln</code>
-    <name>ln</name>
+    <name>Liongáilis</name>
   </language>
   <language>
     <code>lo</code>
-    <name>Laosais</name>
+    <name>Laoisis</name>
   </language>
   <language>
     <code>lt</code>
     <name>Liotuáinis</name>
   </language>
   <language>
+    <code>lu</code>
+    <name>Lúba-Cataingis</name>
+  </language>
+  <language>
     <code>lv</code>
     <name>Laitvis</name>
   </language>
   <language>
+    <code>men</code>
+    <name>Meindis</name>
+  </language>
+  <language>
     <code>mg</code>
-    <name>Malagásais</name>
+    <name>Malagáisis</name>
+  </language>
+  <language>
+    <code>mga</code>
+    <name>Meán-Ghaeilge</name>
+  </language>
+  <language>
+    <code>mh</code>
+    <name>Mairsillis</name>
   </language>
   <language>
     <code>mi</code>
@@ -377,8 +669,20 @@
     <name>Mongóilis</name>
   </language>
   <language>
+    <code>mni</code>
+    <name>Manapúiris</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>Móháicis</name>
+  </language>
+  <language>
     <code>mr</code>
     <name>Maraitis</name>
+  </language>
+  <language>
+    <code>mrj</code>
+    <name>Mairis Iartharach</name>
   </language>
   <language>
     <code>ms</code>
@@ -386,7 +690,15 @@
   </language>
   <language>
     <code>mt</code>
-    <name>Maltais</name>
+    <name>Máltais</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>Mioraindéis</name>
+  </language>
+  <language>
+    <code>mwr</code>
+    <name>Marmhairis</name>
   </language>
   <language>
     <code>my</code>
@@ -401,8 +713,24 @@
     <name>Ioruais Bokmål</name>
   </language>
   <language>
+    <code>nd</code>
+    <name>Ndeibéilis an Tuaiscirt</name>
+  </language>
+  <language>
+    <code>nds</code>
+    <name>Gearmáinis Íochtarach</name>
+  </language>
+  <language>
     <code>ne</code>
-    <name>Neipealais</name>
+    <name>Neipeailis</name>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>Ndongais</name>
+  </language>
+  <language>
+    <code>niu</code>
+    <name>Níobhais</name>
   </language>
   <language>
     <code>nl</code>
@@ -414,35 +742,71 @@
   </language>
   <language>
     <code>nn</code>
-    <name>Ioruais Nynorsk</name>
+    <name>Nua-Ioruais</name>
   </language>
   <language>
     <code>no</code>
     <name>Ioruais</name>
   </language>
   <language>
+    <code>non</code>
+    <name>Sean-Lochlainnis</name>
+  </language>
+  <language>
+    <code>nr</code>
+    <name>Ndeibéilis an Deiscirt</name>
+  </language>
+  <language>
+    <code>nso</code>
+    <name>Sútúis an Tuaiscirt</name>
+  </language>
+  <language>
     <code>nv</code>
     <name>Navachóis</name>
   </language>
   <language>
+    <code>ny</code>
+    <name>Siséivis</name>
+  </language>
+  <language>
     <code>oc</code>
-    <name>Ocatáinis</name>
+    <name>Ocsatáinis</name>
+  </language>
+  <language>
+    <code>oj</code>
+    <name>Óisibis</name>
+  </language>
+  <language>
+    <code>om</code>
+    <name>Oraimis</name>
   </language>
   <language>
     <code>or</code>
-    <name>Oraisis</name>
+    <name>Oirísis</name>
   </language>
   <language>
     <code>os</code>
-    <name>Óiséitis</name>
+    <name>Oiséitis</name>
   </language>
   <language>
     <code>pa</code>
     <name>Puinseáibis</name>
   </language>
   <language>
+    <code>peo</code>
+    <name>Sean-Pheirsis</name>
+  </language>
+  <language>
+    <code>pi</code>
+    <name>Páilis</name>
+  </language>
+  <language>
     <code>pl</code>
     <name>Polainnis</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>Prúisis</name>
   </language>
   <language>
     <code>ps</code>
@@ -454,11 +818,11 @@
   </language>
   <language>
     <code>pt_BR</code>
-    <name>Portaingéilis Bhrasaíleach</name>
+    <name>Portaingéilis na Brasaíle</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>Portaingéilis Ibéireach</name>
+    <name>Portaingéilis Ibéarach</name>
   </language>
   <language>
     <code>qu</code>
@@ -469,6 +833,10 @@
     <name>Rómainis</name>
   </language>
   <language>
+    <code>rn</code>
+    <name>Rúindis</name>
+  </language>
+  <language>
     <code>ro</code>
     <name>Rómáinis</name>
   </language>
@@ -477,16 +845,48 @@
     <name>Moldáivis</name>
   </language>
   <language>
+    <code>rom</code>
+    <name>Romainis</name>
+  </language>
+  <language>
     <code>ru</code>
     <name>Rúisis</name>
+  </language>
+  <language>
+    <code>rup</code>
+    <name>Arómáinis</name>
+  </language>
+  <language>
+    <code>rw</code>
+    <name>Ciniaruaindis</name>
   </language>
   <language>
     <code>sa</code>
     <name>Sanscrait</name>
   </language>
   <language>
+    <code>sah</code>
+    <name>Sachais</name>
+  </language>
+  <language>
+    <code>sam</code>
+    <name>Aramais Shamárach</name>
+  </language>
+  <language>
+    <code>sat</code>
+    <name>Santáilis</name>
+  </language>
+  <language>
     <code>sc</code>
     <name>Sairdínis</name>
+  </language>
+  <language>
+    <code>scn</code>
+    <name>Sicilis</name>
+  </language>
+  <language>
+    <code>sco</code>
+    <name>Albainis</name>
   </language>
   <language>
     <code>sd</code>
@@ -495,6 +895,14 @@
   <language>
     <code>se</code>
     <name>Sáimis Thuaidh</name>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>Sangóis</name>
+  </language>
+  <language>
+    <code>sga</code>
+    <name>Sean-Ghaeilge</name>
   </language>
   <language>
     <code>sh</code>
@@ -517,8 +925,20 @@
     <name>Samóis</name>
   </language>
   <language>
+    <code>smj</code>
+    <name>Sáimis Lule</name>
+  </language>
+  <language>
+    <code>sn</code>
+    <name>Seoinis</name>
+  </language>
+  <language>
     <code>so</code>
     <name>Somáilis</name>
+  </language>
+  <language>
+    <code>sog</code>
+    <name>Sogdánais</name>
   </language>
   <language>
     <code>sq</code>
@@ -529,12 +949,20 @@
     <name>Seirbis</name>
   </language>
   <language>
+    <code>ss</code>
+    <name>Suaisis</name>
+  </language>
+  <language>
     <code>st</code>
-    <name>Sótais Dheisceartach</name>
+    <name>Seasóitis</name>
   </language>
   <language>
     <code>su</code>
     <name>Sundais</name>
+  </language>
+  <language>
+    <code>sux</code>
+    <name>Suiméiris</name>
   </language>
   <language>
     <code>sv</code>
@@ -543,6 +971,18 @@
   <language>
     <code>sw</code>
     <name>Svahaílis</name>
+  </language>
+  <language>
+    <code>swc</code>
+    <name>Svahaílis an Chongó</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>Siricis</name>
+  </language>
+  <language>
+    <code>szl</code>
+    <name>Siléisis</name>
   </language>
   <language>
     <code>ta</code>
@@ -577,6 +1017,10 @@
     <name>Klingon</name>
   </language>
   <language>
+    <code>tn</code>
+    <name>Suáinis</name>
+  </language>
+  <language>
     <code>to</code>
     <name>Tongais</name>
   </language>
@@ -585,20 +1029,28 @@
     <name>Tuircis</name>
   </language>
   <language>
+    <code>ts</code>
+    <name>Songais</name>
+  </language>
+  <language>
     <code>tt</code>
-    <name>Tatarais</name>
+    <name>Tatairis</name>
   </language>
   <language>
     <code>tw</code>
-    <name>Tvís</name>
+    <name>Tíbhis</name>
   </language>
   <language>
     <code>ty</code>
     <name>Taihítis</name>
   </language>
   <language>
+    <code>udm</code>
+    <name>Udmairtis</name>
+  </language>
+  <language>
     <code>ug</code>
-    <name>ug</name>
+    <name>Uigiúiris</name>
   </language>
   <language>
     <code>uk</code>
@@ -606,19 +1058,35 @@
   </language>
   <language>
     <code>und</code>
-    <name>Teanga Anaithnid nó Neamhbhailí</name>
+    <name>Teanga Anaithnid</name>
   </language>
   <language>
     <code>ur</code>
-    <name>Urdais</name>
+    <name>Urdúis</name>
   </language>
   <language>
     <code>uz</code>
-    <name>Úisbéicis</name>
+    <name>Úisbéiceastáinis</name>
+  </language>
+  <language>
+    <code>ve</code>
+    <name>Veindis</name>
+  </language>
+  <language>
+    <code>vec</code>
+    <name>Veinéisis</name>
   </language>
   <language>
     <code>vi</code>
-    <name>Vítneamais</name>
+    <name>Vítneaimis</name>
+  </language>
+  <language>
+    <code>vls</code>
+    <name>Pléimeannais Iartharach</name>
+  </language>
+  <language>
+    <code>vo</code>
+    <name>Volapük</name>
   </language>
   <language>
     <code>wa</code>
@@ -629,8 +1097,12 @@
     <name>Volaifis</name>
   </language>
   <language>
+    <code>xal</code>
+    <name>Cailmícis</name>
+  </language>
+  <language>
     <code>xh</code>
-    <name>Cósais</name>
+    <name>Cóisis</name>
   </language>
   <language>
     <code>yi</code>
@@ -639,6 +1111,18 @@
   <language>
     <code>yo</code>
     <name>Iarúibis</name>
+  </language>
+  <language>
+    <code>yue</code>
+    <name>Cantainis</name>
+  </language>
+  <language>
+    <code>za</code>
+    <name>Siuáingis</name>
+  </language>
+  <language>
+    <code>zea</code>
+    <name>Séalainnis</name>
   </language>
   <language>
     <code>zh</code>
@@ -655,6 +1139,10 @@
   <language>
     <code>zu</code>
     <name>Súlúis</name>
+  </language>
+  <language>
+    <code>zun</code>
+    <name>Zúinis</name>
   </language>
   <language>
     <code>zxx</code>

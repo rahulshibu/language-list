@@ -1,40 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>Afahresch</name>
+  </language>
+  <language>
     <code>ab</code>
-    <name>Abchaasesch</name>
+    <name>Abchahsesch</name>
+  </language>
+  <language>
+    <code>ace</code>
+    <name>Aschenehsesch</name>
+  </language>
+  <language>
+    <code>ae</code>
+    <name>Avästahnesch</name>
+  </language>
+  <language>
+    <code>aeb</code>
+    <name>Tonehsesch Arahbesch</name>
   </language>
   <language>
     <code>af</code>
     <name>Afrikaans</name>
   </language>
   <language>
+    <code>afh</code>
+    <name>Afrehihlesch</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>Akahnesch</name>
+  </language>
+  <language>
+    <code>akk</code>
+    <name>Akahdesch</name>
+  </language>
+  <language>
+    <code>ale</code>
+    <name>Ale’uhtesch</name>
+  </language>
+  <language>
     <code>am</code>
-    <name>Amhaaresch</name>
+    <name>Amhahresch</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>Arrajonehsesch</name>
+  </language>
+  <language>
+    <code>ang</code>
+    <name>Ahl Änglesch</name>
   </language>
   <language>
     <code>ar</code>
-    <name>Araabesch</name>
+    <name>Arahbesch</name>
   </language>
   <language>
     <code>ar_001</code>
-    <name>Schtandatt Araabesch</name>
+    <name>Schtandatt Arahbesch</name>
+  </language>
+  <language>
+    <code>arq</code>
+    <name>Aljehresch Arahbesch</name>
+  </language>
+  <language>
+    <code>ary</code>
+    <name>Marokahnesch Arahbesch</name>
+  </language>
+  <language>
+    <code>arz</code>
+    <name>Äjiptesch Arahbesch</name>
   </language>
   <language>
     <code>as</code>
-    <name>Aßameesesch</name>
+    <name>Aßamehsesch</name>
   </language>
   <language>
     <code>asa</code>
     <name>Pare</name>
   </language>
   <language>
+    <code>ase</code>
+    <name>Amärrekahnesche Blendeschprohch</name>
+  </language>
+  <language>
+    <code>ast</code>
+    <name>Astuhrejahnesch</name>
+  </language>
+  <language>
+    <code>av</code>
+    <name>Avahresch</name>
+  </language>
+  <language>
     <code>ay</code>
-    <name>Aimaresch</name>
+    <name>Aimahresch</name>
   </language>
   <language>
     <code>az</code>
-    <name>Asserbaidschaanesch</name>
+    <name>Asserbaidschahnesch</name>
+  </language>
+  <language>
+    <code>azb</code>
+    <name>Södasserbaidschahnesch</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>Baschkihresch</name>
+  </language>
+  <language>
+    <code>bal</code>
+    <name>Beluhtschesch</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>Balinehsesch</name>
+  </language>
+  <language>
+    <code>bar</code>
+    <name>Bairesch</name>
   </language>
   <language>
     <code>be</code>
@@ -62,7 +146,23 @@
   </language>
   <language>
     <code>bo</code>
-    <name>Tibeetesch</name>
+    <name>Tibehtesch</name>
+  </language>
+  <language>
+    <code>bpy</code>
+    <name>Bischnuprejahnesch</name>
+  </language>
+  <language>
+    <code>br</code>
+    <name>Bettohnesch</name>
+  </language>
+  <language>
+    <code>bra</code>
+    <name>Brajesch</name>
+  </language>
+  <language>
+    <code>brh</code>
+    <name>Brahuijesch</name>
   </language>
   <language>
     <code>brx</code>
@@ -73,20 +173,48 @@
     <name>Boßnesch</name>
   </language>
   <language>
+    <code>bua</code>
+    <name>Burejahtesch</name>
+  </language>
+  <language>
+    <code>bug</code>
+    <name>Bujinehsesch</name>
+  </language>
+  <language>
     <code>ca</code>
-    <name>Kattalanesch</name>
+    <name>Kattalahnesch</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>Korsesch</name>
+  </language>
+  <language>
+    <code>cop</code>
+    <name>Koptesch</name>
   </language>
   <language>
     <code>cs</code>
     <name>Tschäschesch</name>
   </language>
   <language>
+    <code>csb</code>
+    <name>Kaschuhbesch</name>
+  </language>
+  <language>
+    <code>cu</code>
+    <name>Kerscheßlahwesch</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>Tschowaschesch</name>
+  </language>
+  <language>
     <code>cy</code>
-    <name>Walliisesch</name>
+    <name>Wallihsesch</name>
   </language>
   <language>
     <code>da</code>
-    <name>Dänesch</name>
+    <name>Dähnesch</name>
   </language>
   <language>
     <code>de</code>
@@ -101,24 +229,48 @@
     <name>Deutsch uß de Schweijz</name>
   </language>
   <language>
+    <code>dsb</code>
+    <name>Niddersorbesch</name>
+  </language>
+  <language>
+    <code>dum</code>
+    <name>Meddelnehderlängsch</name>
+  </language>
+  <language>
     <code>dv</code>
-    <name>Divehesch</name>
+    <name>Divehjesch</name>
   </language>
   <language>
     <code>dz</code>
-    <name>Butanesch</name>
+    <name>Butahnesch</name>
+  </language>
+  <language>
+    <code>dzg</code>
+    <name>Dassajahnesch</name>
   </language>
   <language>
     <code>ebu</code>
     <name>Embu</name>
   </language>
   <language>
+    <code>ee</code>
+    <name>Ewe</name>
+  </language>
+  <language>
     <code>efi</code>
     <name>Efik</name>
   </language>
   <language>
+    <code>egl</code>
+    <name>Emilijahnesch</name>
+  </language>
+  <language>
+    <code>egy</code>
+    <name>Ahl Äjiptesch</name>
+  </language>
+  <language>
     <code>el</code>
-    <name>Jriischesch</name>
+    <name>Jrihschesch</name>
   </language>
   <language>
     <code>en</code>
@@ -141,12 +293,16 @@
     <name>Amärrekaanesch Änglesch</name>
   </language>
   <language>
+    <code>enm</code>
+    <name>Meddelänglesch</name>
+  </language>
+  <language>
     <code>eo</code>
     <name>Esperanto</name>
   </language>
   <language>
     <code>es</code>
-    <name>Schpaanesch</name>
+    <name>Schpahnesch</name>
   </language>
   <language>
     <code>es_419</code>
@@ -154,7 +310,15 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>Schpaanesch uß Schpaaneje</name>
+    <name>Schpahnesch en Schpahneje</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>Schpahnesch en Mäxikoh</name>
+  </language>
+  <language>
+    <code>esu</code>
+    <name>Zätrahl-Jupik</name>
   </language>
   <language>
     <code>et</code>
@@ -174,7 +338,7 @@
   </language>
   <language>
     <code>fil</code>
-    <name>Fillipiinesch</name>
+    <name>fil</name>
   </language>
   <language>
     <code>fj</code>
@@ -242,7 +406,7 @@
   </language>
   <language>
     <code>ht</code>
-    <name>Ha'iitesch</name>
+    <name>Ha’iitesch</name>
   </language>
   <language>
     <code>hu</code>
@@ -261,6 +425,14 @@
     <name>Igbo</name>
   </language>
   <language>
+    <code>inh</code>
+    <name>Engjuschesch</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>Ido</name>
+  </language>
+  <language>
     <code>is</code>
     <name>Ißländesch</name>
   </language>
@@ -269,16 +441,40 @@
     <name>Etalljänesch</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>Inuktitut</name>
+  </language>
+  <language>
+    <code>izh</code>
+    <name>Ingjrijahnesch</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>Japaanesch</name>
   </language>
   <language>
+    <code>jam</code>
+    <name>Jamaikahnesch-Änglesch</name>
+  </language>
+  <language>
+    <code>jbo</code>
+    <name>Lodschbahn</name>
+  </language>
+  <language>
+    <code>jpr</code>
+    <name>Jühdesch-Pärsesch</name>
+  </language>
+  <language>
+    <code>jut</code>
+    <name>Jütesch</name>
+  </language>
+  <language>
     <code>jv</code>
-    <name>Javaanesch</name>
+    <name>Javahnesch</name>
   </language>
   <language>
     <code>ka</code>
-    <name>Je'orjesch</name>
+    <name>Je’orjesch</name>
   </language>
   <language>
     <code>kea</code>
@@ -314,7 +510,7 @@
   </language>
   <language>
     <code>ky</code>
-    <name>Kirjiisesch</name>
+    <name>Kirjihsesch</name>
   </language>
   <language>
     <code>la</code>
@@ -626,7 +822,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>Uj'juuersch</name>
+    <name>Uj’juuersch</name>
   </language>
   <language>
     <code>uk</code>

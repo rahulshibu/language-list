@@ -330,7 +330,7 @@
   </language>
   <language>
     <code>co</code>
-    <name>Tiếng Corse</name>
+    <name>Tiếng Corsica</name>
   </language>
   <language>
     <code>cop</code>
@@ -501,10 +501,6 @@
     <name>Tiếng Tây Ban Nha (Mỹ La tinh)</name>
   </language>
   <language>
-    <code>es_ES</code>
-    <name>Tiếng Tây Ban Nha (I-bê-ri)</name>
-  </language>
-  <language>
     <code>et</code>
     <name>Tiếng Estonia</name>
   </language>
@@ -587,6 +583,10 @@
   <language>
     <code>gaa</code>
     <name>Tiếng Ga</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>Tiếng Gagauz</name>
   </language>
   <language>
     <code>gay</code>
@@ -866,7 +866,7 @@
   </language>
   <language>
     <code>kg</code>
-    <name>Tiếng Congo</name>
+    <name>Tiếng Kongo</name>
   </language>
   <language>
     <code>kha</code>
@@ -906,7 +906,7 @@
   </language>
   <language>
     <code>km</code>
-    <name>Tiếng Campuchia</name>
+    <name>Tiếng Khơ-me</name>
   </language>
   <language>
     <code>kmb</code>
@@ -918,7 +918,11 @@
   </language>
   <language>
     <code>ko</code>
-    <name>Tiếng Hàn Quốc</name>
+    <name>Tiếng Hàn</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>Tiếng Komi-Permyak</name>
   </language>
   <language>
     <code>kok</code>
@@ -982,7 +986,7 @@
   </language>
   <language>
     <code>kw</code>
-    <name>Tiếng Cornish</name>
+    <name>Tiếng Cornwall</name>
   </language>
   <language>
     <code>ky</code>
@@ -1023,6 +1027,10 @@
   <language>
     <code>li</code>
     <name>Tiếng Limburg</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>Tiếng Lakota</name>
   </language>
   <language>
     <code>ln</code>
@@ -1142,7 +1150,7 @@
   </language>
   <language>
     <code>mgo</code>
-    <name>Tiếng Meta'</name>
+    <name>Tiếng Meta’</name>
   </language>
   <language>
     <code>mh</code>
@@ -1250,7 +1258,7 @@
   </language>
   <language>
     <code>nd</code>
-    <name>Bắc Ndebele</name>
+    <name>Tiếng Ndebele Miền Bắc</name>
   </language>
   <language>
     <code>nds</code>
@@ -1310,7 +1318,7 @@
   </language>
   <language>
     <code>nqo</code>
-    <name>Tiếng N'Ko</name>
+    <name>Tiếng N’Ko</name>
   </language>
   <language>
     <code>nr</code>
@@ -1366,7 +1374,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>Tiếng Ô-ri-a</name>
+    <name>Tiếng Oriya</name>
   </language>
   <language>
     <code>os</code>
@@ -1441,12 +1449,12 @@
     <name>Tiếng Bồ Đào Nha (Braxin)</name>
   </language>
   <language>
-    <code>pt_PT</code>
-    <name>Tiếng Bồ Đào Nha (I-bê-ri)</name>
-  </language>
-  <language>
     <code>qu</code>
     <name>Tiếng Quechua</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>Tiếng Kʼicheʼ</name>
   </language>
   <language>
     <code>raj</code>
@@ -1470,7 +1478,7 @@
   </language>
   <language>
     <code>ro</code>
-    <name>Tiếng Romania</name>
+    <name>Tiếng Rumani</name>
   </language>
   <language>
     <code>ro_MD</code>
@@ -1482,7 +1490,7 @@
   </language>
   <language>
     <code>rom</code>
-    <name>Tiếng Rumani</name>
+    <name>Tiếng Romany</name>
   </language>
   <language>
     <code>root</code>
@@ -1558,7 +1566,7 @@
   </language>
   <language>
     <code>se</code>
-    <name>Bắc Sami</name>
+    <name>Tiếng Sami Miền Bắc</name>
   </language>
   <language>
     <code>see</code>
@@ -1710,7 +1718,7 @@
   </language>
   <language>
     <code>swc</code>
-    <name>Tiếng Swahili Công-gô</name>
+    <name>Tiếng Swahili Congo</name>
   </language>
   <language>
     <code>syc</code>
@@ -1858,7 +1866,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>Tiếng Duy Ngô Nhĩ</name>
+    <name>Tiếng Uyghur</name>
   </language>
   <language>
     <code>uga</code>
@@ -1995,14 +2003,6 @@
   <language>
     <code>zh</code>
     <name>Tiếng Trung</name>
-  </language>
-  <language>
-    <code>zh_Hans</code>
-    <name>Tiếng Trung (Giản thể)</name>
-  </language>
-  <language>
-    <code>zh_Hant</code>
-    <name>Tiếng Trung (Phồn thể)</name>
   </language>
   <language>
     <code>zu</code>

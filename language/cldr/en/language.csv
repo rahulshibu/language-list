@@ -5,13 +5,16 @@ ach,Acoli
 ada,Adangme
 ady,Adyghe
 ae,Avestan
+aeb,Tunisian Arabic
 af,Afrikaans
 afh,Afrihili
 agq,Aghem
 ain,Ainu
 ak,Akan
 akk,Akkadian
+akz,Alabama
 ale,Aleut
+aln,Gheg Albanian
 alt,Southern Altai
 am,Amharic
 an,Aragonese
@@ -21,38 +24,53 @@ ar,Arabic
 ar_001,Modern Standard Arabic
 arc,Aramaic
 arn,Mapuche
+aro,Araona
 arp,Arapaho
+arq,Algerian Arabic
 arw,Arawak
+ary,Moroccan Arabic
+arz,Egyptian Arabic
 as,Assamese
 asa,Asu
+ase,American Sign Language
 ast,Asturian
 av,Avaric
+avk,Kotava
 awa,Awadhi
 ay,Aymara
 az,Azerbaijani
+azb,South Azerbaijani
 ba,Bashkir
 bal,Baluchi
 ban,Balinese
+bar,Bavarian
 bas,Basaa
 bax,Bamun
+bbc,Batak Toba
 bbj,Ghomala
 be,Belarusian
 bej,Beja
 bem,Bemba
+bew,Betawi
 bez,Bena
 bfd,Bafut
+bfq,Badaga
 bg,Bulgarian
 bho,Bhojpuri
 bi,Bislama
 bik,Bikol
 bin,Bini
+bjn,Banjar
 bkm,Kom
 bla,Siksika
 bm,Bambara
 bn,Bengali
 bo,Tibetan
+bpy,Bishnupriya
+bqi,Bakhtiari
 br,Breton
 bra,Braj
+brh,Brahui
 brx,Bodo
 bs,Bosnian
 bss,Akoose
@@ -82,6 +100,7 @@ chy,Cheyenne
 ckb,Sorani Kurdish
 co,Corsican
 cop,Coptic
+cps,Capiznon
 cr,Cree
 crh,Crimean Turkish
 cs,Czech
@@ -103,6 +122,7 @@ din,Dinka
 dje,Zarma
 doi,Dogri
 dsb,Lower Sorbian
+dtp,Central Dusun
 dua,Duala
 dum,Middle Dutch
 dv,Divehi
@@ -113,6 +133,7 @@ dzg,Dazaga
 ebu,Embu
 ee,Ewe
 efi,Efik
+egl,Emilian
 egy,Ancient Egyptian
 eka,Ekajuk
 el,Greek
@@ -128,38 +149,48 @@ es,Spanish
 es_419,Latin American Spanish
 es_ES,European Spanish
 es_MX,Mexican Spanish
+esu,Central Yupik
 et,Estonian
 eu,Basque
 ewo,Ewondo
+ext,Extremaduran
 fa,Persian
 fan,Fang
 fat,Fanti
 ff,Fulah
 fi,Finnish
 fil,Filipino
+fit,Tornedalen Finnish
 fj,Fijian
 fo,Faroese
 fon,Fon
 fr,French
 fr_CA,Canadian French
 fr_CH,Swiss French
+frc,Cajun French
 frm,Middle French
 fro,Old French
+frp,Arpitan
 frr,Northern Frisian
 frs,Eastern Frisian
 fur,Friulian
 fy,Western Frisian
 ga,Irish
 gaa,Ga
+gag,Gagauz
+gan,Gan Chinese
 gay,Gayo
 gba,Gbaya
+gbz,Zoroastrian Dari
 gd,Scottish Gaelic
 gez,Geez
 gil,Gilbertese
 gl,Galician
+glk,Gilaki
 gmh,Middle High German
 gn,Guarani
 goh,Old High German
+gom,Goan Konkani
 gon,Gondi
 gor,Gorontalo
 got,Gothic
@@ -167,20 +198,25 @@ grb,Grebo
 grc,Ancient Greek
 gsw,Swiss German
 gu,Gujarati
+guc,Wayuu
+gur,Frafra
 guz,Gusii
 gv,Manx
 gwi,Gwichʼin
 ha,Hausa
 hai,Haida
+hak,Hakka Chinese
 haw,Hawaiian
 he,Hebrew
 hi,Hindi
+hif,Fiji Hindi
 hil,Hiligaynon
 hit,Hittite
 hmn,Hmong
 ho,Hiri Motu
 hr,Croatian
 hsb,Upper Sorbian
+hsn,Xiang Chinese
 ht,Haitian
 hu,Hungarian
 hup,Hupa
@@ -200,12 +236,15 @@ io,Ido
 is,Icelandic
 it,Italian
 iu,Inuktitut
+izh,Ingrian
 ja,Japanese
+jam,Jamaican Creole English
 jbo,Lojban
 jgo,Ngomba
 jmc,Machame
 jpr,Judeo-Persian
 jrb,Judeo-Arabic
+jut,Jutish
 jv,Javanese
 ka,Georgian
 kaa,Kara-Kalpak
@@ -219,12 +258,16 @@ kbl,Kanembu
 kcg,Tyap
 kde,Makonde
 kea,Kabuverdianu
+ken,Kenyang
 kfo,Koro
 kg,Kongo
+kgp,Kaingang
 kha,Khasi
 kho,Khotanese
 khq,Koyra Chiini
+khw,Khowar
 ki,Kikuyu
+kiu,Kirmanjki
 kj,Kuanyama
 kk,Kazakh
 kkj,Kako
@@ -234,11 +277,14 @@ km,Khmer
 kmb,Kimbundu
 kn,Kannada
 ko,Korean
+koi,Komi-Permyak
 kok,Konkani
 kos,Kosraean
 kpe,Kpelle
 kr,Kanuri
 krc,Karachay-Balkar
+kri,Krio
+krj,Kinaray-a
 krl,Karelian
 kru,Kurukh
 ks,Kashmiri
@@ -258,14 +304,19 @@ lah,Lahnda
 lam,Lamba
 lb,Luxembourgish
 lez,Lezghian
+lfn,Lingua Franca Nova
 lg,Ganda
 li,Limburgish
+lij,Ligurian
+liv,Livonian
 lkt,Lakota
+lmo,Lombard
 ln,Lingala
 lo,Lao
 lol,Mongo
 loz,Lozi
 lt,Lithuanian
+ltg,Latgalian
 lu,Luba-Katanga
 lua,Luba-Lulua
 lui,Luiseno
@@ -274,6 +325,8 @@ luo,Luo
 lus,Mizo
 luy,Luyia
 lv,Latvian
+lzh,Literary Chinese
+lzz,Laz
 mad,Madurese
 maf,Mafa
 mag,Magahi
@@ -290,7 +343,7 @@ mfe,Morisyen
 mg,Malagasy
 mga,Middle Irish
 mgh,Makhuwa-Meetto
-mgo,Meta'
+mgo,Metaʼ
 mh,Marshallese
 mi,Maori
 mic,Micmac
@@ -303,6 +356,7 @@ mni,Manipuri
 moh,Mohawk
 mos,Mossi
 mr,Marathi
+mrj,Western Mari
 ms,Malay
 mt,Maltese
 mua,Mundang
@@ -310,10 +364,13 @@ mul,Multiple Languages
 mus,Creek
 mwl,Mirandese
 mwr,Marwari
+mwv,Mentawai
 my,Burmese
 mye,Myene
 myv,Erzya
+mzn,Mazanderani
 na,Nauru
+nan,Min Nan Chinese
 nap,Neapolitan
 naq,Nama
 nb,Norwegian Bokmål
@@ -324,6 +381,7 @@ new,Newari
 ng,Ndonga
 nia,Nias
 niu,Niuean
+njo,Ao Naga
 nl,Dutch
 nl_BE,Flemish
 nmg,Kwasio
@@ -332,7 +390,8 @@ nnh,Ngiemboon
 no,Norwegian
 nog,Nogai
 non,Old Norse
-nqo,N’Ko
+nov,Novial
+nqo,NʼKo
 nr,South Ndebele
 nso,Northern Sotho
 nus,Nuer
@@ -356,20 +415,31 @@ pal,Pahlavi
 pam,Pampanga
 pap,Papiamento
 pau,Palauan
+pcd,Picard
+pdc,Pennsylvania German
+pdt,Plautdietsch
 peo,Old Persian
+pfl,Palatine German
 phn,Phoenician
 pi,Pali
 pl,Polish
+pms,Piedmontese
+pnt,Pontic
 pon,Pohnpeian
+prg,Prussian
 pro,Old Provençal
 ps,Pashto
 pt,Portuguese
 pt_BR,Brazilian Portuguese
 pt_PT,European Portuguese
 qu,Quechua
+quc,Kʼicheʼ
+qug,Chimborazo Highland Quichua
 raj,Rajasthani
 rap,Rapanui
 rar,Rarotongan
+rgn,Romagnol
+rif,Riffian
 rm,Romansh
 rn,Rundi
 ro,Romanian
@@ -377,7 +447,10 @@ ro_MD,Moldavian
 rof,Rombo
 rom,Romany
 root,Root
+rtm,Rotuman
 ru,Russian
+rue,Rusyn
+rug,Roviana
 rup,Aromanian
 rw,Kinyarwanda
 rwk,Rwa
@@ -388,19 +461,23 @@ sam,Samaritan Aramaic
 saq,Samburu
 sas,Sasak
 sat,Santali
+saz,Saurashtra
 sba,Ngambay
 sbp,Sangu
 sc,Sardinian
 scn,Sicilian
 sco,Scots
 sd,Sindhi
+sdc,Sassarese Sardinian
 se,Northern Sami
 see,Seneca
 seh,Sena
+sei,Seri
 sel,Selkup
 ses,Koyraboro Senni
 sg,Sango
 sga,Old Irish
+sgs,Samogitian
 sh,Serbo-Croatian
 shi,Tachelhit
 shn,Shan
@@ -409,6 +486,8 @@ si,Sinhala
 sid,Sidamo
 sk,Slovak
 sl,Slovenian
+sli,Lower Silesian
+sly,Selayar
 sm,Samoan
 sma,Southern Sami
 smj,Lule Sami
@@ -425,6 +504,7 @@ srr,Serer
 ss,Swati
 ssy,Saho
 st,Southern Sotho
+stq,Saterland Frisian
 su,Sundanese
 suk,Sukuma
 sus,Susu
@@ -435,7 +515,9 @@ swb,Comorian
 swc,Congo Swahili
 syc,Classical Syriac
 syr,Syriac
+szl,Silesian
 ta,Tamil
+tcy,Tulu
 te,Telugu
 tem,Timne
 teo,Teso
@@ -448,19 +530,24 @@ tig,Tigre
 tiv,Tiv
 tk,Turkmen
 tkl,Tokelau
+tkr,Tsakhur
 tl,Tagalog
 tlh,Klingon
 tli,Tlingit
+tly,Talysh
 tmh,Tamashek
 tn,Tswana
 to,Tongan
 tog,Nyasa Tonga
 tpi,Tok Pisin
 tr,Turkish
+tru,Turoyo
 trv,Taroko
 ts,Tsonga
+tsd,Tsakonian
 tsi,Tsimshian
 tt,Tatar
+ttt,Muslim Tat
 tum,Tumbuka
 tvl,Tuvalu
 tw,Twi
@@ -478,9 +565,14 @@ ur,Urdu
 uz,Uzbek
 vai,Vai
 ve,Venda
+vec,Venetian
+vep,Veps
 vi,Vietnamese
+vls,West Flemish
+vmf,Main-Franconian
 vo,Volapük
 vot,Votic
+vro,Võro
 vun,Vunjo
 wa,Walloon
 wae,Walser
@@ -488,8 +580,10 @@ wal,Wolaytta
 war,Waray
 was,Washo
 wo,Wolof
+wuu,Wu Chinese
 xal,Kalmyk
 xh,Xhosa
+xmf,Mingrelian
 xog,Soga
 yao,Yao
 yap,Yapese
@@ -497,10 +591,12 @@ yav,Yangben
 ybb,Yemba
 yi,Yiddish
 yo,Yoruba
+yrl,Nheengatu
 yue,Cantonese
 za,Zhuang
 zap,Zapotec
 zbl,Blissymbols
+zea,Zeelandic
 zen,Zenaga
 zgh,Standard Moroccan Tamazight
 zh,Chinese

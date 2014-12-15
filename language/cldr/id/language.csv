@@ -5,12 +5,14 @@ ach,Acoli
 ada,Adangme
 ady,Adygei
 ae,Avesta
+aeb,Arab Tunisia
 af,Afrikaans
 afh,Afrihili
 agq,Aghem
 ain,Ainu
 ak,Akan
 akk,Akkadia
+akz,Alabama
 ale,Aleut
 alt,Altai Selatan
 am,Amharik
@@ -22,23 +24,31 @@ ar_001,Arab Standar Modern
 arc,Aram
 arn,Araukan
 arp,Arapaho
+arq,Arab Algeria
 arw,Arawak
+ary,Arab Maroko
+arz,Arab Mesir
 as,Assam
 asa,Asu
+ase,Bahasa Isyarat Amerika
 ast,Astur
 av,Avar
 awa,Awadhi
 ay,Aymara
 az,Azerbaijan
+azb,Azerbaijani Selatan
 ba,Bashkir
 bal,Baluchi
 ban,Bali
+bar,Bavaria
 bas,Basa
 bax,Bamun
+bbc,Batak Toba
 bbj,Ghomala
 be,Belarusia
 bej,Beja
 bem,Bemba
+bew,Betawi
 bez,Bena
 bfd,Bafut
 bg,Bulgar
@@ -46,6 +56,7 @@ bho,Bhojpuri
 bi,Bislama
 bik,Bikol
 bin,Bini
+bjn,Banjar
 bkm,Kom
 bla,Siksika
 bm,Bambara
@@ -145,18 +156,21 @@ fr_CA,Prancis Kanada
 fr_CH,Prancis Swiss
 frm,Prancis Abad Pertengahan
 fro,Prancis Kuno
+frp,Arpitan
 frr,Frisia Utara
 frs,Frisia Timur
 fur,Friuli
 fy,Frisia Barat
 ga,Irlandia
 gaa,Ga
+gag,Gagauz
 gay,Gayo
 gba,Gbaya
 gd,Gaelik Skotlandia
 gez,Geez
 gil,Gilbert
 gl,Galisia
+glk,Gilaki
 gmh,Jerman Abad Pertengahan
 gn,Guarani
 goh,Jerman Kuno
@@ -169,12 +183,13 @@ gsw,Jerman Swiss
 gu,Gujarati
 guz,Gusii
 gv,Manx
-gwi,Gwich'in
+gwi,Gwich’in
 ha,Hausa
 hai,Haida
 haw,Hawaii
 he,Ibrani
 hi,Hindi
+hif,Hindi Fiji
 hil,Hiligaynon
 hit,Hitit
 hmn,Hmong
@@ -219,6 +234,7 @@ kbl,Kanembu
 kcg,Tyap
 kde,Makonde
 kea,Kabuverdianu
+ken,Kenyang
 kfo,Koro
 kg,Kongo
 kha,Khasi
@@ -234,11 +250,13 @@ km,Khmer
 kmb,Kimbundu
 kn,Kannada
 ko,Korea
+koi,Komi-Permyak
 kok,Konkani
 kos,Kosre
 kpe,Kpelle
 kr,Kanuri
 krc,Karachai Balkar
+kri,Krio
 krl,Karelia
 kru,Kuruk
 ks,Kashmir
@@ -260,6 +278,8 @@ lb,Luksemburg
 lez,Lezghia
 lg,Ganda
 li,Limburgia
+lij,Liguria
+lkt,Lakota
 ln,Lingala
 lo,Lao
 lol,Mongo
@@ -273,6 +293,7 @@ luo,Luo
 lus,Mizo
 luy,Luyia
 lv,Latvi
+lzz,Laz
 mad,Madura
 maf,Mafa
 mag,Magahi
@@ -289,7 +310,7 @@ mfe,Morisien
 mg,Malagasi
 mga,Irlandia Abad Pertengahan
 mgh,Makhuwa-Meetto
-mgo,meta'
+mgo,meta’
 mh,Marshall
 mi,Maori
 mic,Mikmak
@@ -309,6 +330,7 @@ mul,Beberapa Bahasa
 mus,Bahasa Muskogee
 mwl,Miranda
 mwr,Marwari
+mwv,Mentawai
 my,Burma
 mye,Myene
 myv,Eryza
@@ -331,7 +353,7 @@ nnh,Ngiemboon
 no,Norwegia
 nog,Nogai
 non,Norse Kuno
-nqo,N'Ko
+nqo,N’Ko
 nr,Ndebele Selatan
 nso,Sotho Utara
 nus,Nuer
@@ -355,6 +377,7 @@ pal,Pahlevi
 pam,Pampanga
 pap,Papiamento
 pau,Palau
+pdc,Jerman Pennsylvania
 peo,Persia Kuno
 phn,Funisia
 pi,Pali
@@ -366,6 +389,7 @@ pt,Portugis
 pt_BR,Portugis Brasil
 pt_PT,Portugis Eropa
 qu,Quechua
+quc,Kʼicheʼ
 raj,Rajasthani
 rap,Rapanui
 rar,Rarotonga
@@ -376,6 +400,7 @@ ro_MD,Moldavia
 rof,Rombo
 rom,Romani
 root,Root
+rtm,Rotuma
 ru,Rusia
 rup,Makedo-Rumania
 rw,Kinyarwanda
@@ -396,6 +421,7 @@ sd,Sindhi
 se,Sami Utara
 see,Seneca
 seh,Sena
+sei,Seri
 sel,Selkup
 ses,Koyraboro Senni
 sg,Sango
@@ -408,6 +434,8 @@ si,Sinhala
 sid,Sidamo
 sk,Slovak
 sl,Sloven
+sli,Silesia Bawah
+sly,Selayar
 sm,Samoa
 sma,Sami Selatan
 smj,Lule Sami
@@ -434,7 +462,9 @@ swb,Komoria
 swc,Kongo Swahili
 syc,Suriah Klasik
 syr,Suriah
+szl,Silesia
 ta,Tamil
+tcy,Tulu
 te,Telugu
 tem,Timne
 teo,Teso
@@ -456,10 +486,12 @@ to,Tonga
 tog,Nyasa Tonga
 tpi,Tok Pisin
 tr,Turki
+tru,Turoyo
 trv,Taroko
 ts,Tsonga
 tsi,Tsimshia
 tt,Tatar
+ttt,Tat Muslim
 tum,Tumbuka
 tvl,Tuvalu
 tw,Twi
@@ -477,6 +509,7 @@ ur,Urdu
 uz,Uzbek
 vai,Vai
 ve,Venda
+vec,Venesia
 vi,Vietnam
 vo,Volapuk
 vot,Votia

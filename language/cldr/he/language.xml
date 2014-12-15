@@ -141,6 +141,10 @@
     <name>בלינזית</name>
   </language>
   <language>
+    <code>bar</code>
+    <name>בווארית</name>
+  </language>
+  <language>
     <code>bas</code>
     <name>בסאא</name>
   </language>
@@ -418,7 +422,7 @@
   </language>
   <language>
     <code>dsb</code>
-    <name>סורביאן נמוכה</name>
+    <name>סורבית נמוכה</name>
   </language>
   <language>
     <code>dua</code>
@@ -494,7 +498,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>אנגלית אמריקנית</name>
+    <name>אנגלית אמריקאית</name>
   </language>
   <language>
     <code>enm</code>
@@ -611,6 +615,10 @@
   <language>
     <code>gaa</code>
     <name>גא</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>גגאוזית</name>
   </language>
   <language>
     <code>gay</code>
@@ -730,7 +738,7 @@
   </language>
   <language>
     <code>hsb</code>
-    <name>סורביאנית עליונה</name>
+    <name>סורבית גבוהה</name>
   </language>
   <language>
     <code>ht</code>
@@ -945,6 +953,10 @@
     <name>קוריאנית</name>
   </language>
   <language>
+    <code>koi</code>
+    <name>קומי-פרמיאקית</name>
+  </language>
+  <language>
     <code>kok</code>
     <name>קונקאני</name>
   </language>
@@ -1049,6 +1061,10 @@
     <name>לימבורגיש</name>
   </language>
   <language>
+    <code>lkt</code>
+    <name>לקוטה</name>
+  </language>
+  <language>
     <code>ln</code>
     <name>לינגלה</name>
   </language>
@@ -1074,7 +1090,7 @@
   </language>
   <language>
     <code>lua</code>
-    <name>לובה-לולואה</name>
+    <name>לובה, לולואה</name>
   </language>
   <language>
     <code>lui</code>
@@ -1462,15 +1478,19 @@
   </language>
   <language>
     <code>pt_BR</code>
-    <name>פורטוגזית ברזילאית</name>
+    <name>פורטוגלית ברזילאית</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>פורטוגזית אירופאית</name>
+    <name>פורטוגלית אירופאית</name>
   </language>
   <language>
     <code>qu</code>
     <name>קצ׳ואה</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>קיצ׳ה</name>
   </language>
   <language>
     <code>raj</code>
@@ -1734,7 +1754,7 @@
   </language>
   <language>
     <code>swc</code>
-    <name>קונגו סוואהילי</name>
+    <name>סווהילי קונגולטזית</name>
   </language>
   <language>
     <code>syc</code>
@@ -2022,7 +2042,7 @@
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>סינית (מפושטת)</name>
+    <name>סינית מפושטת</name>
   </language>
   <language>
     <code>zh_Hant</code>

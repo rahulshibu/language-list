@@ -1,8 +1,11 @@
 aa: afara
 ab: "ab\u0125aza"
 af: afrikansa
+ak: akana
 am: amhara
 ar: araba
+ar_001: moderna norma araba
+arn: "mapu\u0109a"
 as: asama
 ay: ajmara
 az: "azerbaj\u011Dana"
@@ -10,23 +13,37 @@ ba: "ba\u015Dkira"
 be: belorusa
 bg: bulgara
 bi: bislamo
+bm: bambara
 bn: bengala
 bo: tibeta
 br: bretona
+brx: bodoa
 bs: bosnia
 ca: kataluna
+chr: "\u0109eroka"
+ckb: sorana
 co: korsika
 cs: "\u0109e\u0125a"
 cy: kimra
 da: dana
 de: germana
+de_AT: "a\u016Dstra germana"
+de_CH: svisa germana
+dsb: malsuprasoraba
 dv: mahla
 dz: dzonko
 efi: ibibioefika
 el: greka
 en: angla
+en_AU: "a\u016Dstralia angla"
+en_CA: kanada angla
+en_GB: brita angla
+en_US: usona angla
 eo: esperanto
 es: hispana
+es_419: amerika hispana
+es_ES: "e\u016Dropa hispana"
+es_MX: meksika hispana
 et: estona
 eu: "e\u016Dska"
 fa: persa
@@ -35,6 +52,8 @@ fil: filipina
 fj: "fi\u011Dia"
 fo: feroa
 fr: franca
+fr_CA: kanada franca
+fr_CH: svisa franca
 fy: frisa
 ga: irlanda
 gd: gaela
@@ -87,6 +106,7 @@ na: naura
 nb: dannorvega
 ne: nepala
 nl: nederlanda
+nl_BE: flandra
 nn: novnorvega
 'no': norvega
 oc: okcitana
@@ -134,7 +154,7 @@ to: tongaa
 tr: turka
 ts: conga
 tt: tatara
-tw: akana
+tw: tw
 ug: ujgura
 uk: ukraina
 und: nekonata lingvo

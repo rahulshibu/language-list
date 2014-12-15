@@ -1,5 +1,5 @@
 aa: "afar\u010Dina"
-ab: "abch\xE1z\u0161tina"
+ab: "abch\xE1z\u010Dina"
 ace: "aceh\u010Dina"
 ach: "a\u010Doli"
 ada: adangme
@@ -18,19 +18,19 @@ an: "arag\xF3n\u010Dina"
 ang: "star\xE1 angli\u010Dtina"
 anp: angika
 ar: "arab\u010Dina"
-ar_001: "modern\xE1 \u0161tandardn\xE1 arab\u010Dina"
+ar_001: "arab\u010Dina (modern\xE1 \u0161tandardn\xE1)"
 arc: "aramej\u010Dina"
 arn: "arauk\xE1n\u010Dina"
 arp: arapaho
 arw: "arawa\u010Dtina"
-as: "\xE1s\xE1m\u010Dina"
+as: "\xE1sam\u010Dina"
 asa: asu
 ast: "ast\xFAr\u010Dina"
 av: "avar\u010Dina"
 awa: "avadh\u010Dina"
 ay: "aymar\u010Dina"
 az: "azerbajd\u017Ean\u010Dina"
-ba: "baskir\u010Dina"
+ba: "ba\u0161kir\u010Dina"
 bal: "bal\xFA\u010Dtina"
 ban: "balij\u010Dina"
 bas: basa
@@ -68,7 +68,7 @@ cay: cayuga
 cch: atsam
 ce: "\u010De\u010Den\u010Dina"
 ceb: "cebu\xE1n\u010Dina"
-cgg: "\u010Diga"
+cgg: kiga
 ch: "\u010Damor\u010Dina"
 chb: "\u010Dib\u010Da"
 chg: "\u010Dagataj\u010Dina"
@@ -94,8 +94,8 @@ dak: "dakot\u010Dina"
 dar: "dargin\u010Dina"
 dav: taita
 de: "nem\u010Dina"
-de_AT: "rak\xFAska nem\u010Dina"
-de_CH: "\u0161vaj\u010Diarska spisovn\xE1 nem\u010Dina"
+de_AT: "nem\u010Dina (rak\xFAska)"
+de_CH: "nem\u010Dina (\u0161vaj\u010Diarska spisovn\xE1)"
 del: "delawar\u010Dina"
 den: "slovan\u010Dina"
 dgr: "dogrib\u010Dina"
@@ -111,23 +111,23 @@ dyu: "\u010Fula"
 dz: "dzongk\xE4"
 dzg: dazaga
 ebu: embu
-ee: "ewe\u0161tina"
+ee: ewe
 efi: efik
 egy: "staroegyptsk\xFD"
 eka: "ekad\u017Euk"
 el: "gr\xE9\u010Dtina"
 elx: "elam\u010Dina"
 en: "angli\u010Dtina"
-en_AU: "austr\xE1lska angli\u010Dtina"
-en_CA: "kanadsk\xE1 angli\u010Dtina"
-en_GB: "britsk\xE1 angli\u010Dtina"
-en_US: "americk\xE1 angli\u010Dtina"
+en_AU: "angli\u010Dtina (austr\xE1lska)"
+en_CA: "angli\u010Dtina (kanadsk\xE1)"
+en_GB: "angli\u010Dtina (britsk\xE1)"
+en_US: "angli\u010Dtina (americk\xE1)"
 enm: "stredn\xE1 angli\u010Dtina"
 eo: esperanto
 es: "\u0161paniel\u010Dina"
-es_419: "latinskoamerick\xE1 \u0161paniel\u010Dina"
-es_ES: "ibersk\xE1 \u0161paniel\u010Dina"
-es_MX: "mexick\xE1 \u0161paniel\u010Dina"
+es_419: "\u0161paniel\u010Dina (latinskoamerick\xE1)"
+es_ES: "\u0161paniel\u010Dina (eur\xF3pska)"
+es_MX: "\u0161paniel\u010Dina (mexick\xE1)"
 et: "est\xF3n\u010Dina"
 eu: "baski\u010Dtina"
 ewo: ewondo
@@ -141,8 +141,8 @@ fj: "fid\u017Eij\u010Dina"
 fo: "faer\u010Dina"
 fon: "fon\u010Dina"
 fr: "franc\xFAz\u0161tina"
-fr_CA: "kanadsk\xE1 franc\xFAz\u0161tina"
-fr_CH: "\u0161vaj\u010Diarska franc\xFAz\u0161tina"
+fr_CA: "franc\xFAz\u0161tina (kanadsk\xE1)"
+fr_CH: "franc\xFAz\u0161tina (\u0161vaj\u010Diarska)"
 frm: "stredn\xE1 franc\xFAz\u0161tina"
 fro: "star\xE1 franc\xFAz\u0161tina"
 frr: "severn\xE1 fr\xEDz\u0161tina"
@@ -151,6 +151,7 @@ fur: "friul\u010Dina"
 fy: "z\xE1padn\xE1 fr\xEDz\u0161tina"
 ga: "\xEDr\u010Dina"
 gaa: ga
+gag: "gagauz\u0161tina"
 gay: gayo
 gba: gbaja
 gd: "\u0161k\xF3tska gael\u010Dina"
@@ -165,7 +166,7 @@ gor: gorontalo
 got: "g\xF3t\u010Dina"
 grb: grebo
 grc: "starogr\xE9\u010Dtina"
-gsw: "\u0161vaj\u010Diarska nem\u010Dina"
+gsw: "nem\u010Dina (\u0161vaj\u010Diarska)"
 gu: "gud\u017Ear\xE1t\u010Dina"
 guz: gusii
 gv: "man\u010Dina"
@@ -203,7 +204,7 @@ iu: inuktitut
 ja: "japon\u010Dina"
 jbo: lojban
 jgo: ngomba
-jmc: machame
+jmc: "ma\u0161ame"
 jpr: "\u017Eidovsk\xE1 perz\u0161tina"
 jrb: "\u017Eidovsk\xE1 arab\u010Dina"
 jv: "j\xE1v\u010Dina"
@@ -224,17 +225,18 @@ kg: "kong\u010Dina"
 kha: "khasij\u010Dina"
 kho: "chotan\u010Dina"
 khq: "z\xE1padn\xE1 songhaj\u010Dina"
-ki: kikuju
+ki: "kikuj\u010Dina"
 kj: "kua\u0148ama"
 kk: "kaza\u0161tina"
 kkj: kako
-kl: "gr\xF3nska eskim\xE1\u010Dtina"
-kln: kalenjin
-km: "kambod\u017Esk\xE1 khm\xE9r\u010Dina"
+kl: "gr\xF3n\u010Dina"
+kln: "kalend\u017Ein"
+km: "khm\xE9r\u010Dina"
 kmb: kimbundu
 kn: "kannad\u010Dina"
 ko: "k\xF3rej\u010Dina"
-kok: "k\xF3nk\xE1n\u010Dina"
+koi: "komi-permia\u010Dtina"
+kok: "konk\xE1n\u010Dina"
 kos: kusaie
 kpe: kpelle
 kr: "kanurij\u010Dina"
@@ -260,6 +262,7 @@ lb: "luxembur\u010Dina"
 lez: "lezgin\u010Dina"
 lg: "gand\u010Dina"
 li: "limbur\u010Dina"
+lkt: "lakot\u010Dina"
 ln: "lingal\u010Dina"
 lo: "lao\u0161tina"
 lol: mongo
@@ -271,7 +274,7 @@ lui: "luise\u0148o"
 lun: lunda
 luo: luo
 lus: "mizor\xE1m\u010Dina"
-luy: luyia
+luy: luhja
 lv: "loty\u0161tina"
 mad: "madur\u010Dina"
 maf: mafa
@@ -288,7 +291,7 @@ mer: meru
 mfe: "maur\xEDcijsk\xE1 kreol\u010Dina"
 mg: "malga\u0161tina"
 mga: "stredn\xE1 \xEDr\u010Dina"
-mgh: makhuwa-meetto
+mgh: makua-meetto
 mgo: "meta\u2019"
 mh: kajin-majol
 mi: "maorij\u010Dina"
@@ -299,7 +302,7 @@ ml: "malaj\xE1lam\u010Dina"
 mn: "mongol\u010Dina"
 mnc: "mand\u017Eu\u0161tina"
 mni: "man\xEDpur\u010Dina"
-moh: mohawk
+moh: "mohawk\u010Dina"
 mos: mossi
 mr: "mar\xE1th\u010Dina"
 ms: "malaj\u010Dina"
@@ -316,7 +319,7 @@ na: nauru
 nap: "neapol\u010Dina"
 naq: nama
 nb: "n\xF3rsky bokm\xE5l"
-nd: "severn\xE9 ndbele"
+nd: "severn\xE9 ndebele"
 nds: "doln\xE1 nem\u010Dina"
 ne: "nep\xE1l\u010Dina"
 new: "nev\xE1r\u010Dina"
@@ -361,16 +364,17 @@ pi: "p\xE1l\xED"
 pl: "po\u013E\u0161tina"
 pon: "pohnpei\u010Dina"
 pro: "star\xE1 okcit\xE1n\u010Dina"
-ps: "pa\u0161t\xFAn\u010Dina"
+ps: "pa\u0161t\u010Dina"
 pt: "portugal\u010Dina"
-pt_BR: "braz\xEDlska portugal\u010Dina"
-pt_PT: "ibersk\xE1 portugal\u010Dina"
+pt_BR: "portugal\u010Dina (braz\xEDlska)"
+pt_PT: "portugal\u010Dina (eur\xF3pska)"
 qu: "ke\u010Du\xE1n\u010Dina"
+quc: "k\u02BCiche\u02BC"
 raj: "rad\u017Eastan\u010Dina"
 rap: "rapanuj\u010Dina"
 rar: rarotongan
 rm: "r\xE9torom\xE1n\u010Dina"
-rn: "rund\u010Dina"
+rn: "kirund\u010Dina"
 ro: "rumun\u010Dina"
 ro_MD: "moldav\u010Dina"
 rof: rombo
@@ -378,7 +382,7 @@ rom: "r\xF3m\u010Dina"
 root: "kore\u0148"
 ru: "ru\u0161tina"
 rup: "arumun\u010Dina"
-rw: "rwand\u010Dina"
+rw: "ki\u0148arwanda"
 rwk: rwa
 sa: sanskrit
 sad: sandawe
@@ -393,7 +397,7 @@ sc: "sard\xEDn\u010Dina"
 scn: "sic\xEDl\u010Dina"
 sco: "\u0161k\xF3t\u010Dina"
 sd: "sindh\u010Dina"
-se: "severn\xE1 saam\u010Dina"
+se: "severn\xE9 sami"
 see: seneca
 seh: sena
 sel: "selkup\u010Dina"
@@ -409,10 +413,10 @@ sid: sidamo
 sk: "sloven\u010Dina"
 sl: "slovin\u010Dina"
 sm: "samoj\u010Dina"
-sma: "ju\u017En\xE1 saam\u010Dina"
-smj: "lulesk\xE1 saam\u010Dina"
-smn: "inarisk\xE1 saam\u010Dina"
-sms: skolt
+sma: "ju\u017En\xE9 sami"
+smj: sami (lule)
+smn: sami (inari)
+sms: sami (skolt)
 sn: "\u0161on\u010Dina"
 snk: soninke
 so: "som\xE1l\u010Dina"
@@ -429,9 +433,9 @@ suk: sukuma
 sus: susu
 sux: "sumer\u010Dina"
 sv: "\u0161v\xE9d\u010Dina"
-sw: "swahil\u010Dina"
+sw: "svahil\u010Dina"
 swb: "komor\u010Dina"
-swc: "kon\u017Esk\xE1 svahil\u010Dina"
+swc: "svahil\u010Dina (kon\u017Esk\xE1)"
 syc: "klasick\xE1 s\xFDr\u010Dina"
 syr: "s\xFDr\u010Dina"
 ta: "tamil\u010Dina"
@@ -463,10 +467,10 @@ tt: "tat\xE1r\u010Dina"
 tum: tumbuka
 tvl: "tuval\u010Dina"
 tw: twi
-twq: tasawak
+twq: tasawaq
 ty: "tahit\u010Dina"
 tyv: "tuvian\u010Dina"
-tzm: "stredomarock\xE1 berber\u010Dina"
+tzm: "tama\u0161ek (stredomarock\xFD)"
 udm: "udmurt\u010Dina"
 ug: "ujgur\u010Dina"
 uga: "ugarit\u010Dina"
@@ -501,10 +505,10 @@ za: "\u010Duang\u010Dina"
 zap: "zapot\xE9\u010Dtina"
 zbl: "syst\xE9m Bliss"
 zen: zenaga
-zgh: "\u0161tandardn\xFD marock\xFD tamazight"
+zgh: "tama\u0161ek (\u0161tandardn\xFD marock\xFD)"
 zh: "\u010D\xEDn\u0161tina"
-zh_Hans: "zjednodu\u0161en\xE1 \u010D\xEDn\u0161tina"
-zh_Hant: "tradi\u010Dn\xE1 \u010D\xEDn\u0161tina"
+zh_Hans: "\u010D\xEDn\u0161tina (zjednodu\u0161en\xE1)"
+zh_Hant: "\u010D\xEDn\u0161tina (tradi\u010Dn\xE1)"
 zu: "zulu\u0161tina"
 zun: "zuni\u0161tina"
 zxx: "bez jazykov\xE9ho obsahu"

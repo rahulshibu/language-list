@@ -1,22 +1,30 @@
 ab,Abkasies
 ach,Akoli
 af,Afrikaans
+agq,Aghem
 ak,Akan
 am,Amharies
 ar,Arabies
 ar_001,Moderne Standaard Arabies
 arc,Aramees
+arn,Mapuche
 as,Assamees
+asa,Asu
 ay,Aymara
-az,Azerbeidjaans
+az,Azerbeidjans
+ba,Baskir
 be,Wit-Russies
 bem,Bemba
+bez,Bena
 bg,Bulgaars
+bm,Bambara
 bn,Bengaals
 bo,Tibettaans
 br,Bretons
+brx,Bodo
 bs,Bosnies
 ca,Katalaans
+cgg,Sjiga
 chr,Cherokees
 ckb,Sorani Koerdies
 co,Korsikaans
@@ -25,25 +33,23 @@ cs,Tsjeggies
 cu,Kerkslawies
 cy,Wallies
 da,Deens
+dav,Taita
 de,Duits
-de_AT,Oostenrykse Duits
 de_CH,Switserse hoog-Duits
+dje,Zarma
+dsb,Lae Sorbies
+dua,Duala
 dv,Divehi
+dyo,Jola-Fonyi
 dz,Dzongkha
+ebu,Embu
 ee,Ewe
 efi,Efik
 egy,Antieke Egipties
 el,Grieks
 en,Engels
-en_AU,Australiese Engels
-en_CA,Kanadese Engels
-en_GB,Britse Engels
-en_US,Amerikaanse Engels
 eo,Esperanto
 es,Spaans
-es_419,Latyns-Amerikaanse Spaans
-es_ES,Europese Spaans
-es_MX,Meksikaanse Spaans
 et,Estnies
 eu,Baskies
 fa,Persies
@@ -52,18 +58,18 @@ fil,Filippyns
 fj,Fidjiaans
 fo,Faroees
 fr,Frans
-fr_CA,Kanadese Frans
-fr_CH,Switserse Frans
 fy,Wes-Fries
 ga,Iers
 gaa,Gaa
+gag,Gagauz
 gd,Skotse Gallies
 gl,Galisies
 gn,Guarani
 got,Goties
 grc,Antieke Grieks
 gsw,Switserse Duits
-gu,Gudjarati
+gu,Goedjarati
+guz,Gusii
 gv,Manx
 ha,Hausa
 haw,Hawaiies
@@ -71,6 +77,7 @@ he,Hebreeus
 hi,Hindi
 hit,Hetities
 hr,Kroaties
+hsb,Hoog-Sorbies
 ht,Haïtiaans
 hu,Hongaars
 hy,Armeens
@@ -78,52 +85,82 @@ ia,Interlingua
 id,Indonesies
 ie,Interlingue
 ig,Igbo
+ii,Sichuan Yi
 is,Yslands
 it,Italiaans
+iu,Innuïties
 ja,Japannees
+jgo,Ngomba
+jmc,Machame
 jv,Javaans
 ka,Georgies
+kab,Kabyle
+kam,Kamba
+kde,Makonde
+kea,Kabuverdianu
 kg,Kongolees
-kk,Kazak
+khq,Koyra Chiini
+ki,Kikuyu
+kk,Kazaks
+kl,Kalaallisut
+kln,Kalenjin
 km,Khmer
 kn,Kannada
 ko,Koreaans
+koi,Komi-Permyaks
+kok,Konkani
 kru,Kurukh
 ks,Kasjmirs
+ksb,Shambala
+ksf,Bafia
 ku,Koerdies
 kw,Kornies
 ky,Kirgisies
 la,Latyn
+lag,Langi
 lb,Luxemburgs
 lg,Ganda
 li,Limburgs
+lkt,Lakota
 ln,Lingaals
 lo,Lao
 loz,Lozi
 lt,Litaus
+lu,Luba-Katanga
 lua,Luba-Lulua
+luo,Luo
+luy,Luyia
 lv,Letties
 mas,Masai
+mer,Meru
 mfe,Morisjen
 mg,Malgassies
+mgh,Makhuwa-Meetto
+mgo,Meta’
 mi,Maori
 mk,Masedonies
 ml,Malabaars
 mn,Mongools
+moh,Mohawk
 mr,Marathi
-ms,Maleisies
+ms,Maleis
 mt,Maltees
+mua,Mundang
 mul,Veelvuldige tale
 my,Birmaans
+naq,Nama
 nb,Noorse Bokmål
 nd,Noord-Ndebele
 ne,Nepalees
 nl,Nederlands
 nl_BE,Vlaams
+nmg,Kwasio
 nn,Noorweegse Nynorsk
 no,Noors
+nqo,N’Ko
 nr,Suid-Ndebele
 nso,Noord-Sotho
+nus,Nuer
 ny,Nyanja
 nyn,Nyankole
 oc,Oksitaans
@@ -135,24 +172,35 @@ phn,Fenisies
 pl,Pools
 ps,Pasjto
 pt,Portugees
-pt_BR,Brasiliaanse Portugees
-pt_PT,Europese Portugees
 qu,Quechua
+quc,K’iche’
 rm,Reto-Romaans
 rn,Rundi
 ro,Roemeens
+ro_MD,Moldawies
+rof,Rombo
 ru,Russies
 rw,Rwandees
+rwk,Rwa
 sa,Sanskrit
+saq,Samburu
+sbp,Sangu
 sco,Skots
 sd,Sindhi
 se,Noordelike Sami
+seh,Sena
+ses,Koyraboro Senni
 sg,Sango
 sh,Serwo-Kroaties
+shi,Tachelhit
 si,Sinhala
 sk,Slowaaks
 sl,Sloweens
 sm,Samoaans
+sma,Suid-Sami
+smj,Lule Sami
+smn,Inari Sami
+sms,Skolt Sami
 sn,Shona
 so,Somalies
 sq,Albanees
@@ -163,11 +211,13 @@ su,Sundanees
 sv,Sweeds
 sw,Swahili
 swb,Shimaorees
+swc,Swahili (Kongo)
 ta,Tamil
 te,Telugu
+teo,Teso
 tet,Tetum
-tg,Tadjik
-th,Thais
+tg,Tadzjieks
+th,Thai
 ti,Tigrinya
 tk,Turkmeens
 tlh,Klingon
@@ -179,22 +229,25 @@ ts,Tsonga
 tt,Tataars
 tum,Toemboeka
 tw,Twi
+twq,Tasawaq
 ty,Tahities
+tzm,Sentraal Atlas Tamazight
 ug,Uighur
 uk,Oekraïens
 und,Onbekende of ongeldige taal
 ur,Oerdoe
 uz,Oezbeeks
+vai,Vai
 ve,Venda
 vi,Viëtnamees
+vun,Vunjo
 wo,Wolof
 xh,Xhosa
+xog,Soga
 yi,Jiddisj
 yo,Yoruba
 yue,Kantonees
 zgh,Standaard Marokkaanse Tamazight
 zh,Sjinees
-zh_Hans,Vereenvoudigde Chinees
-zh_Hant,Tradisionele Chinees
 zu,Zoeloe
 zxx,Geen linguistiese inhoud

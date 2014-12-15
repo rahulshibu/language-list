@@ -106,7 +106,7 @@
   </language>
   <language>
     <code>asa</code>
-    <name>asu (Tanzania)</name>
+    <name>asu</name>
   </language>
   <language>
     <code>ast</code>
@@ -162,7 +162,7 @@
   </language>
   <language>
     <code>bez</code>
-    <name>bena (Tanzania)</name>
+    <name>bena</name>
   </language>
   <language>
     <code>bg</code>
@@ -210,7 +210,7 @@
   </language>
   <language>
     <code>brx</code>
-    <name>bodo</name>
+    <name>bódó</name>
   </language>
   <language>
     <code>bs</code>
@@ -262,7 +262,7 @@
   </language>
   <language>
     <code>cgg</code>
-    <name>sjíga</name>
+    <name>kíga</name>
   </language>
   <language>
     <code>ch</code>
@@ -589,6 +589,10 @@
     <name>ga</name>
   </language>
   <language>
+    <code>gag</code>
+    <name>gagás</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>gajó</name>
   </language>
@@ -610,7 +614,7 @@
   </language>
   <language>
     <code>gl</code>
-    <name>gallegska</name>
+    <name>galíanska</name>
   </language>
   <language>
     <code>gmh</code>
@@ -658,7 +662,7 @@
   </language>
   <language>
     <code>gv</code>
-    <name>manx</name>
+    <name>manska</name>
   </language>
   <language>
     <code>gwi</code>
@@ -793,6 +797,10 @@
     <name>lojban</name>
   </language>
   <language>
+    <code>jgo</code>
+    <name>ngomba</name>
+  </language>
+  <language>
     <code>jmc</code>
     <name>masjáme</name>
   </language>
@@ -846,11 +854,11 @@
   </language>
   <language>
     <code>kde</code>
-    <name>makónde</name>
+    <name>makonde</name>
   </language>
   <language>
     <code>kea</code>
-    <name>kappverdiska</name>
+    <name>grænhöfðeyska</name>
   </language>
   <language>
     <code>kfo</code>
@@ -867,6 +875,10 @@
   <language>
     <code>kho</code>
     <name>kotaska</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>koyra chiini</name>
   </language>
   <language>
     <code>ki</code>
@@ -889,6 +901,10 @@
     <name>grænlenska</name>
   </language>
   <language>
+    <code>kln</code>
+    <name>kalenjin</name>
+  </language>
+  <language>
     <code>km</code>
     <name>kmer</name>
   </language>
@@ -903,6 +919,10 @@
   <language>
     <code>ko</code>
     <name>kóreska</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>kómí-permyak</name>
   </language>
   <language>
     <code>kok</code>
@@ -937,8 +957,12 @@
     <name>kasmírska</name>
   </language>
   <language>
+    <code>ksb</code>
+    <name>sjambala</name>
+  </language>
+  <language>
     <code>ksf</code>
-    <name>bafia</name>
+    <name>bafía</name>
   </language>
   <language>
     <code>ksh</code>
@@ -946,7 +970,7 @@
   </language>
   <language>
     <code>ku</code>
-    <name>kúrdneska</name>
+    <name>kúrdíska</name>
   </language>
   <language>
     <code>kum</code>
@@ -962,7 +986,7 @@
   </language>
   <language>
     <code>kw</code>
-    <name>korníska</name>
+    <name>kornbreska</name>
   </language>
   <language>
     <code>ky</code>
@@ -975,6 +999,10 @@
   <language>
     <code>lad</code>
     <name>ladínska</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>langí</name>
   </language>
   <language>
     <code>lah</code>
@@ -999,6 +1027,10 @@
   <language>
     <code>li</code>
     <name>limbúrgíska</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>lakóta</name>
   </language>
   <language>
     <code>ln</code>
@@ -1046,7 +1078,7 @@
   </language>
   <language>
     <code>luy</code>
-    <name>olulujía</name>
+    <name>luyia</name>
   </language>
   <language>
     <code>lv</code>
@@ -1089,8 +1121,12 @@
     <name>mende</name>
   </language>
   <language>
+    <code>mer</code>
+    <name>merú</name>
+  </language>
+  <language>
     <code>mfe</code>
-    <name>morisyen</name>
+    <name>máritíska</name>
   </language>
   <language>
     <code>mg</code>
@@ -1101,12 +1137,20 @@
     <name>miðírska</name>
   </language>
   <language>
+    <code>mgh</code>
+    <name>makhuwa-meetto</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>meta’</name>
+  </language>
+  <language>
     <code>mh</code>
     <name>marshallska</name>
   </language>
   <language>
     <code>mi</code>
-    <name>maórí</name>
+    <name>maorí</name>
   </language>
   <language>
     <code>mic</code>
@@ -1157,6 +1201,10 @@
     <name>maltneska</name>
   </language>
   <language>
+    <code>mua</code>
+    <name>mundang</name>
+  </language>
+  <language>
     <code>mul</code>
     <name>margvísleg mál</name>
   </language>
@@ -1189,12 +1237,16 @@
     <name>napólíska</name>
   </language>
   <language>
+    <code>naq</code>
+    <name>nama</name>
+  </language>
+  <language>
     <code>nb</code>
     <name>norskt bókmál</name>
   </language>
   <language>
     <code>nd</code>
-    <name>norðurndebele</name>
+    <name>norður-ndebele</name>
   </language>
   <language>
     <code>nds</code>
@@ -1229,6 +1281,10 @@
     <name>flæmska</name>
   </language>
   <language>
+    <code>nmg</code>
+    <name>kwasio</name>
+  </language>
+  <language>
     <code>nn</code>
     <name>nýnorska</name>
   </language>
@@ -1255,6 +1311,10 @@
   <language>
     <code>nso</code>
     <name>norðursótó</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>núer</name>
   </language>
   <language>
     <code>nv</code>
@@ -1381,6 +1441,10 @@
     <name>kvesjúa</name>
   </language>
   <language>
+    <code>quc</code>
+    <name>kiche</name>
+  </language>
+  <language>
     <code>raj</code>
     <name>rajastaní</name>
   </language>
@@ -1409,6 +1473,10 @@
     <name>moldóvska</name>
   </language>
   <language>
+    <code>rof</code>
+    <name>rombó</name>
+  </language>
+  <language>
     <code>rom</code>
     <name>romaní</name>
   </language>
@@ -1429,6 +1497,10 @@
     <name>kínjarvanda</name>
   </language>
   <language>
+    <code>rwk</code>
+    <name>rúa</name>
+  </language>
+  <language>
     <code>sa</code>
     <name>sanskrít</name>
   </language>
@@ -1445,12 +1517,20 @@
     <name>samversk arameíska</name>
   </language>
   <language>
+    <code>saq</code>
+    <name>sambúrú</name>
+  </language>
+  <language>
     <code>sas</code>
     <name>sasak</name>
   </language>
   <language>
     <code>sat</code>
     <name>santalí</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>sangú</name>
   </language>
   <language>
     <code>sc</code>
@@ -1473,8 +1553,16 @@
     <name>norðursamíska</name>
   </language>
   <language>
+    <code>seh</code>
+    <name>sena</name>
+  </language>
+  <language>
     <code>sel</code>
     <name>selkúp</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>koíraboró-senní</name>
   </language>
   <language>
     <code>sg</code>
@@ -1489,12 +1577,16 @@
     <name>serbókróatíska</name>
   </language>
   <language>
+    <code>shi</code>
+    <name>tachelhit</name>
+  </language>
+  <language>
     <code>shn</code>
     <name>sjan</name>
   </language>
   <language>
     <code>si</code>
-    <name>sinhala</name>
+    <name>singalíska</name>
   </language>
   <language>
     <code>sid</code>
@@ -1530,7 +1622,7 @@
   </language>
   <language>
     <code>sn</code>
-    <name>shóna</name>
+    <name>shona</name>
   </language>
   <language>
     <code>snk</code>
@@ -1601,6 +1693,10 @@
     <name>shimaoríska</name>
   </language>
   <language>
+    <code>swc</code>
+    <name>Kongó-svahílí</name>
+  </language>
+  <language>
     <code>syc</code>
     <name>klassísk sýrlenska</name>
   </language>
@@ -1619,6 +1715,10 @@
   <language>
     <code>tem</code>
     <name>tímne</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>tesó</name>
   </language>
   <language>
     <code>ter</code>
@@ -1717,12 +1817,20 @@
     <name>tví</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>tasawaq</name>
+  </language>
+  <language>
     <code>ty</code>
     <name>tahítíska</name>
   </language>
   <language>
     <code>tyv</code>
     <name>túvínska</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>tamazight</name>
   </language>
   <language>
     <code>udm</code>
@@ -1777,6 +1885,10 @@
     <name>votíska</name>
   </language>
   <language>
+    <code>vun</code>
+    <name>vunjó</name>
+  </language>
+  <language>
     <code>wa</code>
     <name>vallónska</name>
   </language>
@@ -1803,6 +1915,10 @@
   <language>
     <code>xh</code>
     <name>sósa</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>sóga</name>
   </language>
   <language>
     <code>yao</code>

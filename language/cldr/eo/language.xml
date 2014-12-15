@@ -13,12 +13,24 @@
     <name>afrikansa</name>
   </language>
   <language>
+    <code>ak</code>
+    <name>akana</name>
+  </language>
+  <language>
     <code>am</code>
     <name>amhara</name>
   </language>
   <language>
     <code>ar</code>
     <name>araba</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>moderna norma araba</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>mapuĉa</name>
   </language>
   <language>
     <code>as</code>
@@ -49,6 +61,10 @@
     <name>bislamo</name>
   </language>
   <language>
+    <code>bm</code>
+    <name>bambara</name>
+  </language>
+  <language>
     <code>bn</code>
     <name>bengala</name>
   </language>
@@ -61,12 +77,24 @@
     <name>bretona</name>
   </language>
   <language>
+    <code>brx</code>
+    <name>bodoa</name>
+  </language>
+  <language>
     <code>bs</code>
     <name>bosnia</name>
   </language>
   <language>
     <code>ca</code>
     <name>kataluna</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>ĉeroka</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>sorana</name>
   </language>
   <language>
     <code>co</code>
@@ -89,6 +117,18 @@
     <name>germana</name>
   </language>
   <language>
+    <code>de_AT</code>
+    <name>aŭstra germana</name>
+  </language>
+  <language>
+    <code>de_CH</code>
+    <name>svisa germana</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>malsuprasoraba</name>
+  </language>
+  <language>
     <code>dv</code>
     <name>mahla</name>
   </language>
@@ -109,12 +149,40 @@
     <name>angla</name>
   </language>
   <language>
+    <code>en_AU</code>
+    <name>aŭstralia angla</name>
+  </language>
+  <language>
+    <code>en_CA</code>
+    <name>kanada angla</name>
+  </language>
+  <language>
+    <code>en_GB</code>
+    <name>brita angla</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>usona angla</name>
+  </language>
+  <language>
     <code>eo</code>
     <name>esperanto</name>
   </language>
   <language>
     <code>es</code>
     <name>hispana</name>
+  </language>
+  <language>
+    <code>es_419</code>
+    <name>amerika hispana</name>
+  </language>
+  <language>
+    <code>es_ES</code>
+    <name>eŭropa hispana</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>meksika hispana</name>
   </language>
   <language>
     <code>et</code>
@@ -147,6 +215,14 @@
   <language>
     <code>fr</code>
     <name>franca</name>
+  </language>
+  <language>
+    <code>fr_CA</code>
+    <name>kanada franca</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>svisa franca</name>
   </language>
   <language>
     <code>fy</code>
@@ -357,6 +433,10 @@
     <name>nederlanda</name>
   </language>
   <language>
+    <code>nl_BE</code>
+    <name>flandra</name>
+  </language>
+  <language>
     <code>nn</code>
     <name>novnorvega</name>
   </language>
@@ -546,7 +626,7 @@
   </language>
   <language>
     <code>tw</code>
-    <name>akana</name>
+    <name>tw</name>
   </language>
   <language>
     <code>ug</code>

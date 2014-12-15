@@ -9,32 +9,64 @@
     <name>африкаанча</name>
   </language>
   <language>
+    <code>agq</code>
+    <name>агемче</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>аканча</name>
+  </language>
+  <language>
     <code>am</code>
     <name>амхарча</name>
   </language>
   <language>
     <code>ar</code>
-    <name>Арабча</name>
+    <name>арабча</name>
   </language>
   <language>
     <code>ar_001</code>
-    <name>азыркы араб адабий тилинде</name>
+    <name>азыркы адабий араб тилинде</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>мапучеде</name>
   </language>
   <language>
     <code>as</code>
     <name>ассамча</name>
   </language>
   <language>
+    <code>asa</code>
+    <name>асуча</name>
+  </language>
+  <language>
     <code>az</code>
     <name>азербайжанча</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>башкырча</name>
   </language>
   <language>
     <code>be</code>
     <name>беларусча</name>
   </language>
   <language>
+    <code>bem</code>
+    <name>бембача</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>бенача</name>
+  </language>
+  <language>
     <code>bg</code>
-    <name>болгарияча</name>
+    <name>болгарча</name>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>бамбарада</name>
   </language>
   <language>
     <code>bn</code>
@@ -46,19 +78,39 @@
   </language>
   <language>
     <code>br</code>
-    <name>бретон</name>
+    <name>бретончо</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>бододо</name>
   </language>
   <language>
     <code>bs</code>
-    <name>боснияча</name>
+    <name>боснийче</name>
   </language>
   <language>
     <code>ca</code>
     <name>каталанча</name>
   </language>
   <language>
+    <code>cgg</code>
+    <name>чигача</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>черокиче</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>сорани курд</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>корсиканча</name>
+  </language>
+  <language>
     <code>cs</code>
-    <name>чех тили</name>
+    <name>чехче</name>
   </language>
   <language>
     <code>cy</code>
@@ -69,16 +121,44 @@
     <name>датча</name>
   </language>
   <language>
+    <code>dav</code>
+    <name>таитача</name>
+  </language>
+  <language>
     <code>de</code>
     <name>немисче</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>австриялык германча</name>
+    <code>de_CH</code>
+    <name>жогорку немисче (Швейцария)</name>
   </language>
   <language>
-    <code>de_CH</code>
-    <name>швейцариялык таза германча</name>
+    <code>dje</code>
+    <name>замрача</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>төмөнкү сорбианча</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>дуалача</name>
+  </language>
+  <language>
+    <code>dyo</code>
+    <name>жола-фониче</name>
+  </language>
+  <language>
+    <code>dz</code>
+    <name>жонгуча</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>эмбуча</name>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>эбече</name>
   </language>
   <language>
     <code>el</code>
@@ -89,22 +169,6 @@
     <name>англисче</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>австралиялык англисче</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>канадалык англисче</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>британча англисче</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>америкалык англисче</name>
-  </language>
-  <language>
     <code>eo</code>
     <name>эсперанто</name>
   </language>
@@ -113,16 +177,8 @@
     <name>испанча</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>латын америкалык испанча</name>
-  </language>
-  <language>
     <code>es_ES</code>
-    <name>европалык испанча</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>мексикалык испанча</name>
+    <name>испанча (Европа)</name>
   </language>
   <language>
     <code>et</code>
@@ -134,7 +190,7 @@
   </language>
   <language>
     <code>fa</code>
-    <name>Фарзча</name>
+    <name>фарсыча</name>
   </language>
   <language>
     <code>fi</code>
@@ -142,7 +198,7 @@
   </language>
   <language>
     <code>fil</code>
-    <name>тагалча</name>
+    <name>филипино</name>
   </language>
   <language>
     <code>fj</code>
@@ -157,20 +213,16 @@
     <name>французча</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>канадалык французча</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>швейцариялык французча</name>
-  </language>
-  <language>
     <code>fy</code>
     <name>батыш фризче</name>
   </language>
   <language>
     <code>ga</code>
     <name>ирландча</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>гагаузча</name>
   </language>
   <language>
     <code>gl</code>
@@ -182,11 +234,19 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>швейцариялык германча</name>
+    <name>немисче (Швейцария)</name>
   </language>
   <language>
     <code>gu</code>
     <name>гужаратча</name>
+  </language>
+  <language>
+    <code>guz</code>
+    <name>гусиче</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>манксыча</name>
   </language>
   <language>
     <code>ha</code>
@@ -194,19 +254,23 @@
   </language>
   <language>
     <code>haw</code>
-    <name>гаваиче</name>
+    <name>гавайча</name>
   </language>
   <language>
     <code>he</code>
-    <name>еврейче</name>
+    <name>ивритте</name>
   </language>
   <language>
     <code>hi</code>
-    <name>индусча</name>
+    <name>хиндиче</name>
   </language>
   <language>
     <code>hr</code>
     <name>хорватча</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>жогорку сорбианча</name>
   </language>
   <language>
     <code>ht</code>
@@ -214,7 +278,7 @@
   </language>
   <language>
     <code>hu</code>
-    <name>венгрияча</name>
+    <name>мажарча</name>
   </language>
   <language>
     <code>hy</code>
@@ -222,11 +286,15 @@
   </language>
   <language>
     <code>id</code>
-    <name>индонезияча</name>
+    <name>индонезче</name>
   </language>
   <language>
     <code>ig</code>
     <name>игбочо</name>
+  </language>
+  <language>
+    <code>ii</code>
+    <name>носуча</name>
   </language>
   <language>
     <code>is</code>
@@ -237,8 +305,20 @@
     <name>италиянча</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>инуктитутта</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>япончо</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>нгомбача</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>мачамече</name>
   </language>
   <language>
     <code>jv</code>
@@ -249,8 +329,40 @@
     <name>грузинче</name>
   </language>
   <language>
+    <code>kab</code>
+    <name>кабылча</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>камбача</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>макондече</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>кабувердиче</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>койра чиниче</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>кикуйиче</name>
+  </language>
+  <language>
     <code>kk</code>
     <name>казакча</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>калаалисутча</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>каленжиче</name>
   </language>
   <language>
     <code>km</code>
@@ -265,12 +377,32 @@
     <name>корейче</name>
   </language>
   <language>
+    <code>koi</code>
+    <name>коми-пермякча</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>конканиче</name>
+  </language>
+  <language>
     <code>ks</code>
     <name>кашмирче</name>
   </language>
   <language>
+    <code>ksb</code>
+    <name>шамабалача</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>бафияча</name>
+  </language>
+  <language>
     <code>ku</code>
-    <name>курт</name>
+    <name>курдча</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>корнишче</name>
   </language>
   <language>
     <code>ky</code>
@@ -281,8 +413,24 @@
     <name>латынча</name>
   </language>
   <language>
+    <code>lag</code>
+    <name>лангиче</name>
+  </language>
+  <language>
     <code>lb</code>
-    <name>Люксембургча</name>
+    <name>люксембургча</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>гандача</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>лакотача</name>
+  </language>
+  <language>
+    <code>ln</code>
+    <name>лингалача</name>
   </language>
   <language>
     <code>lo</code>
@@ -290,15 +438,47 @@
   </language>
   <language>
     <code>lt</code>
-    <name>литвача</name>
+    <name>литовчо</name>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>луба-катангача</name>
+  </language>
+  <language>
+    <code>luo</code>
+    <name>луочо</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>лухияча</name>
   </language>
   <language>
     <code>lv</code>
-    <name>латвияча</name>
+    <name>латышча</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>масайча</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>меруча</name>
+  </language>
+  <language>
+    <code>mfe</code>
+    <name>морисианча</name>
   </language>
   <language>
     <code>mg</code>
     <name>малагасча</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>макуача</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>метөчө</name>
   </language>
   <language>
     <code>mi</code>
@@ -306,11 +486,19 @@
   </language>
   <language>
     <code>mk</code>
-    <name>македонияча</name>
+    <name>македончо</name>
   </language>
   <language>
     <code>ml</code>
     <name>малайаламча</name>
+  </language>
+  <language>
+    <code>mn</code>
+    <name>моңголчо</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>мохаукча</name>
   </language>
   <language>
     <code>mr</code>
@@ -325,12 +513,24 @@
     <name>малтизче</name>
   </language>
   <language>
+    <code>mua</code>
+    <name>мундангча</name>
+  </language>
+  <language>
     <code>my</code>
     <name>бурмача</name>
   </language>
   <language>
+    <code>naq</code>
+    <name>намача</name>
+  </language>
+  <language>
     <code>nb</code>
-    <name>норвежче букмалча</name>
+    <name>норвежче (Букмал)</name>
+  </language>
+  <language>
+    <code>nd</code>
+    <name>түндүк ндыбелче</name>
   </language>
   <language>
     <code>ne</code>
@@ -345,16 +545,36 @@
     <name>фламандча</name>
   </language>
   <language>
+    <code>nmg</code>
+    <name>квасиочо</name>
+  </language>
+  <language>
     <code>nn</code>
-    <name>норвегияча</name>
+    <name>норвежче (Нинорск)</name>
   </language>
   <language>
     <code>no</code>
     <name>норвежче</name>
   </language>
   <language>
+    <code>nqo</code>
+    <name>нкочо</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>нуерче</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>ныйанколчо</name>
+  </language>
+  <language>
+    <code>om</code>
+    <name>оромочо</name>
+  </language>
+  <language>
     <code>or</code>
-    <name>ория</name>
+    <name>орияча</name>
   </language>
   <language>
     <code>pa</code>
@@ -366,47 +586,95 @@
   </language>
   <language>
     <code>ps</code>
-    <name>пашто</name>
+    <name>пашточо</name>
   </language>
   <language>
     <code>pt</code>
     <name>португалча</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>бразилиялык португалча</name>
-  </language>
-  <language>
     <code>pt_PT</code>
-    <name>европалык португалча</name>
+    <name>португалча (Европа)</name>
   </language>
   <language>
     <code>qu</code>
     <name>кечуача</name>
   </language>
   <language>
+    <code>quc</code>
+    <name>кичече</name>
+  </language>
+  <language>
     <code>rm</code>
     <name>романшча</name>
   </language>
   <language>
+    <code>rn</code>
+    <name>рундиче</name>
+  </language>
+  <language>
     <code>ro</code>
-    <name>румынияча</name>
+    <name>румынча</name>
+  </language>
+  <language>
+    <code>ro_MD</code>
+    <name>молдованча</name>
+  </language>
+  <language>
+    <code>rof</code>
+    <name>ромбочо</name>
   </language>
   <language>
     <code>ru</code>
     <name>орусча</name>
   </language>
   <language>
+    <code>rw</code>
+    <name>руандача</name>
+  </language>
+  <language>
+    <code>rwk</code>
+    <name>руача</name>
+  </language>
+  <language>
     <code>sa</code>
     <name>санскритче</name>
+  </language>
+  <language>
+    <code>saq</code>
+    <name>самбуруча</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>сангуча</name>
   </language>
   <language>
     <code>sd</code>
     <name>синдхиче</name>
   </language>
   <language>
+    <code>se</code>
+    <name>түндүк самиче</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>сенача</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>койраборо сенниче</name>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>сангочо</name>
+  </language>
+  <language>
     <code>sh</code>
     <name>серб-хорват</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>ташелитче</name>
   </language>
   <language>
     <code>si</code>
@@ -419,6 +687,26 @@
   <language>
     <code>sl</code>
     <name>словенче</name>
+  </language>
+  <language>
+    <code>sma</code>
+    <name>түштүк саамиче</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>лөлө саамиче</name>
+  </language>
+  <language>
+    <code>smn</code>
+    <name>инари саамиче</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>сколт саамиче</name>
+  </language>
+  <language>
+    <code>sn</code>
+    <name>шонача</name>
   </language>
   <language>
     <code>so</code>
@@ -449,12 +737,20 @@
     <name>суахиличе</name>
   </language>
   <language>
+    <code>swc</code>
+    <name>конго суахаличе</name>
+  </language>
+  <language>
     <code>ta</code>
     <name>тамилче</name>
   </language>
   <language>
     <code>te</code>
     <name>телугуча</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>тесочо</name>
   </language>
   <language>
     <code>tg</code>
@@ -470,7 +766,7 @@
   </language>
   <language>
     <code>tk</code>
-    <name>түркмөн</name>
+    <name>түркмөнчө</name>
   </language>
   <language>
     <code>tlh</code>
@@ -482,7 +778,7 @@
   </language>
   <language>
     <code>tr</code>
-    <name>туркчо</name>
+    <name>түркчө</name>
   </language>
   <language>
     <code>tt</code>
@@ -491,6 +787,14 @@
   <language>
     <code>tw</code>
     <name>тви</name>
+  </language>
+  <language>
+    <code>twq</code>
+    <name>тасабакча</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>борбордук Атлас тамазитче</name>
   </language>
   <language>
     <code>ug</code>
@@ -510,11 +814,19 @@
   </language>
   <language>
     <code>uz</code>
-    <name>озбекче</name>
+    <name>өзбекче</name>
+  </language>
+  <language>
+    <code>vai</code>
+    <name>вайиче</name>
   </language>
   <language>
     <code>vi</code>
     <name>вьетнамча</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>вунжочо</name>
   </language>
   <language>
     <code>wo</code>
@@ -523,6 +835,10 @@
   <language>
     <code>xh</code>
     <name>косача</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>согача</name>
   </language>
   <language>
     <code>yi</code>
@@ -542,11 +858,11 @@
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>жөнөкөйлөтүлгөн кытайча</name>
+    <name>кытайча (жөнөкөйлөштүрүлгөн)</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>салттуу кытайча</name>
+    <name>кытайча (салттуу)</name>
   </language>
   <language>
     <code>zu</code>

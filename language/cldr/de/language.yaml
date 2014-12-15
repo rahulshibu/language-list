@@ -5,13 +5,16 @@ ach: Acholi-Sprache
 ada: Adangme
 ady: Adygeisch
 ae: Avestisch
+aeb: Tunesisches Arabisch
 af: Afrikaans
 afh: Afrihili
 agq: Aghem
 ain: Ainu-Sprache
 ak: Akan
 akk: Akkadisch
+akz: Alabama
 ale: Aleutisch
+aln: Gegisch
 alt: "S\xFCd-Altaisch"
 am: Amharisch
 an: Aragonesisch
@@ -21,38 +24,53 @@ ar: Arabisch
 ar_001: Modernes Hocharabisch
 arc: "Aram\xE4isch"
 arn: Araukanisch
+aro: Araona
 arp: Arapaho-Sprache
+arq: Algerisches Arabisch
 arw: Arawak-Sprache
+ary: Marokkanisches Arabisch
+arz: "\xC4gyptisches Arabisch"
 as: Assamesisch
 asa: Pare
+ase: "Amerikanische Geb\xE4rdensprache"
 ast: Asturianisch
 av: Awarisch
+avk: Kotava
 awa: Awadhi
 ay: Aymara
 az: Aserbaidschanisch
+azb: "S\xFCdaserbaidschanisch"
 ba: Baschkirisch
 bal: Belutschisch
 ban: Balinesisch
+bar: Bairisch
 bas: Basaa-Sprache
 bax: Bamun
+bbc: Batak Toba
 bbj: Ghomala
 be: "Wei\xDFrussisch"
 bej: Bedauye
 bem: Bemba-Sprache
+bew: Betawi
 bez: Bena
 bfd: Bafut
+bfq: Badaga
 bg: Bulgarisch
 bho: Bhodschpuri
 bi: Bislama
 bik: Bikol-Sprache
 bin: Bini-Sprache
+bjn: Banjaresisch
 bkm: Kom
 bla: Blackfoot-Sprache
 bm: Bambara-Sprache
 bn: Bengalisch
 bo: Tibetisch
+bpy: Bishnupriya
+bqi: Bachtiarisch
 br: Bretonisch
 bra: Braj-Bhakha
+brh: Brahui
 brx: Bodo
 bs: Bosnisch
 bss: Akoose
@@ -68,7 +86,7 @@ cay: Cayuga
 cch: Atsam
 ce: Tschetschenisch
 ceb: Cebuano
-cgg: Chiga
+cgg: Rukiga
 ch: Chamorro-Sprache
 chb: Chibcha-Sprache
 chg: Tschagataisch
@@ -82,6 +100,7 @@ chy: Cheyenne
 ckb: Sorani
 co: Korsisch
 cop: Koptisch
+cps: Capiznon
 cr: Cree
 crh: Krimtatarisch
 cs: Tschechisch
@@ -103,6 +122,7 @@ din: Dinka-Sprache
 dje: Zarma
 doi: Dogri
 dsb: Niedersorbisch
+dtp: Zentral-Dusun
 dua: Duala
 dum: "Mittelniederl\xE4ndisch"
 dv: Maledivisch
@@ -110,9 +130,10 @@ dyo: Diola
 dyu: Dyula-Sprache
 dz: Bhutanisch
 dzg: Dazaga
-ebu: Kiembu
-ee: Ewe-Sprache
+ebu: Embu
+ee: Ewe
 efi: Efik
+egl: Emilianisch
 egy: "\xC4gyptisch"
 eka: Ekajuk
 el: Griechisch
@@ -128,38 +149,48 @@ es: Spanisch
 es_419: Lateinamerikanisches Spanisch
 es_ES: "Europ\xE4isches Spanisch"
 es_MX: Mexikanisches Spanisch
+esu: Zentral-Alaska-Yupik
 et: Estnisch
 eu: Baskisch
 ewo: Ewondo
+ext: Extremadurisch
 fa: Persisch
 fan: Pangwe-Sprache
 fat: Fanti-Sprache
 ff: Ful
 fi: Finnisch
 fil: Filipino
-fj: Fidschianisch
+fit: "Me\xE4nkieli"
+fj: Fidschi
 fo: "F\xE4r\xF6isch"
 fon: Fon-Sprache
 fr: "Franz\xF6sisch"
 fr_CA: "Kanadisches Franz\xF6sisch"
 fr_CH: "Schweizer Franz\xF6sisch"
+frc: Cajun
 frm: "Mittelfranz\xF6sisch"
 fro: "Altfranz\xF6sisch"
+frp: Frankoprovenzalisch
 frr: Nordfriesisch
 frs: Ostfriesisch
 fur: Friulisch
 fy: Westfriesisch
 ga: Irisch
 gaa: Ga-Sprache
+gag: Gagausisch
+gan: Gan
 gay: Gayo
 gba: Gbaya-Sprache
+gbz: Gabri
 gd: "Schottisches G\xE4lisch"
 gez: Geez
 gil: Gilbertesisch
 gl: Galizisch
+glk: Gilaki
 gmh: Mittelhochdeutsch
 gn: Guarani
 goh: Althochdeutsch
+gom: Goa-Konkani
 gon: Gondi-Sprache
 gor: Mongondou
 got: Gotisch
@@ -167,20 +198,25 @@ grb: Grebo-Sprache
 grc: Altgriechisch
 gsw: Schweizerdeutsch
 gu: Gujarati
+guc: "Way\xFAu"
+gur: Farefare
 guz: Gusii
 gv: Manx
 gwi: Kutchin-Sprache
 ha: Hausa
 hai: Haida-Sprache
+hak: Hakka
 haw: Hawaiisch
 he: "Hebr\xE4isch"
 hi: Hindi
+hif: Fidschi-Hindi
 hil: Hiligaynon-Sprache
 hit: Hethitisch
 hmn: Miao-Sprache
 ho: Hiri-Motu
 hr: Kroatisch
 hsb: Obersorbisch
+hsn: Xiang
 ht: Haitianisch
 hu: Ungarisch
 hup: Hupa
@@ -191,8 +227,8 @@ iba: Iban
 ibb: Ibibio
 id: Indonesisch
 ie: Interlingue
-ig: Igbo-Sprache
-ii: Sichuan Yi
+ig: Igbo
+ii: Yi
 ik: Inupiak
 ilo: Ilokano-Sprache
 inh: Inguschisch
@@ -200,12 +236,15 @@ io: Ido-Sprache
 is: "Isl\xE4ndisch"
 it: Italienisch
 iu: Inuktitut
+izh: Ischorisch
 ja: Japanisch
+jam: Jamaikanisch-kreolische Sprache
 jbo: Lojban
 jgo: Ngomba
 jmc: Machame
 jpr: "J\xFCdisch-Persisch"
 jrb: "J\xFCdisch-Arabisch"
+jut: "J\xFCtisch"
 jv: Javanisch
 ka: Georgisch
 kaa: Karakalpakisch
@@ -219,12 +258,16 @@ kbl: Kanembu
 kcg: Tyap
 kde: Makonde
 kea: Kabuverdianu
+ken: Kenyang
 kfo: Koro
 kg: Kongolesisch
+kgp: Kaingang
 kha: Khasi-Sprache
 kho: Sakisch
 khq: Koyra Chiini
-ki: Kikuyu-Sprache
+khw: Khowar
+ki: Kikuyu
+kiu: Kirmanjki
 kj: Kwanyama
 kk: Kasachisch
 kkj: Kako
@@ -234,11 +277,14 @@ km: Kambodschanisch
 kmb: Kimbundu-Sprache
 kn: Kannada
 ko: Koreanisch
+koi: Komi-Permjakisch
 kok: Konkani
 kos: Kosraeanisch
 kpe: Kpelle-Sprache
 kr: Kanuri-Sprache
 krc: Karatschaiisch-Balkarisch
+kri: Krio
+krj: Kinaray-a
 krl: Karelisch
 kru: Oraon-Sprache
 ks: Kaschmirisch
@@ -258,22 +304,29 @@ lah: Lahnda
 lam: Lamba-Sprache
 lb: Luxemburgisch
 lez: Lesgisch
-lg: Ganda-Sprache
+lfn: Lingua Franca Nova
+lg: Ganda
 li: Limburgisch
+lij: Ligurisch
+liv: Livisch
 lkt: Lakota
+lmo: Lombardisch
 ln: Lingala
 lo: Laotisch
 lol: Mongo
 loz: Rotse-Sprache
 lt: Litauisch
+ltg: Lettgallisch
 lu: Luba-Katanga
 lua: Luba-Lulua
 lui: Luiseno-Sprache
 lun: Lunda-Sprache
 luo: Luo-Sprache
 lus: Lushai-Sprache
-luy: Olulujia
+luy: Luhya
 lv: Lettisch
+lzh: Klassisches Chinesisch
+lzz: Lasisch
 mad: Maduresisch
 maf: Mafa
 mag: Khotta
@@ -287,10 +340,10 @@ mdr: Mandaresisch
 men: Mende-Sprache
 mer: Meru
 mfe: Morisyen
-mg: Malagassi-Sprache
+mg: Madagassisch
 mga: Mittelirisch
 mgh: Makhuwa-Meetto
-mgo: Meta'
+mgo: "Meta\u2019"
 mh: Marschallesisch
 mi: Maori
 mic: Micmac-Sprache
@@ -300,9 +353,10 @@ ml: Malayalam
 mn: Mongolisch
 mnc: Mandschurisch
 mni: Meithei-Sprache
-moh: Mohawk-Sprache
+moh: Mohawk
 mos: Mossi-Sprache
 mr: Marathi
+mrj: Bergmari
 ms: Malaiisch
 mt: Maltesisch
 mua: Mundang
@@ -310,10 +364,13 @@ mul: Mehrsprachig
 mus: Muskogee-Sprache
 mwl: Mirandesisch
 mwr: Marwari
+mwv: Mentawai
 my: Birmanisch
 mye: Myene
 myv: Ersja-Mordwinisch
+mzn: Masanderanisch
 na: Nauruisch
+nan: Min Nan
 nap: Neapolitanisch
 naq: Nama
 nb: "Norwegisch Bokm\xE5l"
@@ -324,6 +381,7 @@ new: Newari
 ng: Ndonga
 nia: Nias-Sprache
 niu: Niue-Sprache
+njo: Ao-Naga
 nl: "Niederl\xE4ndisch"
 nl_BE: "Fl\xE4misch"
 nmg: Kwasio
@@ -332,6 +390,7 @@ nnh: Ngiemboon
 'no': Norwegisch
 nog: Nogai
 non: Altnordisch
+nov: Novial
 nqo: "N\u2019Ko"
 nr: "S\xFCd-Ndebele-Sprache"
 nso: Nord-Sotho-Sprache
@@ -346,30 +405,41 @@ nzi: Nzima
 oc: Okzitanisch
 oj: Ojibwa-Sprache
 om: Oromo
-or: Orija
+or: Oriya
 os: Ossetisch
 osa: Osage-Sprache
 ota: Osmanisch
-pa: Pandschabisch
+pa: Panjabi
 pag: Pangasinan-Sprache
 pal: Mittelpersisch
 pam: Pampanggan-Sprache
 pap: Papiamento
 pau: Palau
+pcd: Picardisch
+pdc: Pennsylvaniadeutsch
+pdt: Plautdietsch
 peo: Altpersisch
+pfl: "Pf\xE4lzisch"
 phn: "Ph\xF6nikisch"
 pi: Pali
 pl: Polnisch
+pms: Piemontesisch
+pnt: Pontisch
 pon: Ponapeanisch
+prg: "Altpreu\xDFisch"
 pro: Altprovenzalisch
 ps: Paschtu
 pt: Portugiesisch
 pt_BR: Brasilianisches Portugiesisch
 pt_PT: "Europ\xE4isches Portugiesisch"
 qu: Quechua
+quc: "K\u2019iche\u2019"
+qug: Chimborazo Hochland-Quechua
 raj: Rajasthani
 rap: Osterinsel-Sprache
 rar: Rarotonganisch
+rgn: Romagnol
+rif: Tarifit
 rm: "R\xE4toromanisch"
 rn: Rundi-Sprache
 ro: "Rum\xE4nisch"
@@ -377,7 +447,10 @@ ro_MD: Moldauisch
 rof: Rombo
 rom: Romani
 root: Root
+rtm: Rotumanisch
 ru: Russisch
+rue: Russinisch
+rug: Roviana
 rup: Aromunisch
 rw: Ruandisch
 rwk: Rwa
@@ -388,19 +461,23 @@ sam: Samaritanisch
 saq: Samburu
 sas: Sasak
 sat: Santali
+saz: Saurashtra
 sba: Ngambay
 sbp: Sangu
 sc: Sardisch
 scn: Sizilianisch
 sco: Schottisch
 sd: Sindhi
+sdc: Sassarisch
 se: Nord-Samisch
 see: Seneca
 seh: Sena
+sei: Seri
 sel: Selkupisch
 ses: Koyra Senni
 sg: Sango
 sga: Altirisch
+sgs: Samogitisch
 sh: Serbo-Kroatisch
 shi: Taschelhit
 shn: Schan-Sprache
@@ -409,6 +486,8 @@ si: Singhalesisch
 sid: Sidamo
 sk: Slowakisch
 sl: Slowenisch
+sli: Schlesisch
+sly: Selayar
 sm: Samoanisch
 sma: "S\xFCd-Samisch"
 smj: Lule-Lappisch
@@ -425,6 +504,7 @@ srr: Serer-Sprache
 ss: Swazi
 ssy: Saho
 st: "S\xFCd-Sotho-Sprache"
+stq: Saterfriesisch
 su: Sundanesisch
 suk: Sukuma-Sprache
 sus: Susu
@@ -435,7 +515,9 @@ swb: Komorisch
 swc: Kongo-Suaheli
 syc: Altsyrisch
 syr: Syrisch
+szl: Schlesisch (Polen)
 ta: Tamilisch
+tcy: Tulu
 te: Telugu
 tem: Temne
 teo: Teso
@@ -448,19 +530,24 @@ tig: Tigre
 tiv: Tiv-Sprache
 tk: Turkmenisch
 tkl: Tokelauanisch
+tkr: Tsachurisch
 tl: Tagalog
 tlh: Klingonisch
 tli: Tlingit-Sprache
+tly: Talisch
 tmh: Tamaseq
 tn: Tswana-Sprache
 to: Tongaisch
 tog: Tsonga-Sprache
 tpi: Neumelanesisch
 tr: "T\xFCrkisch"
+tru: Turoyo
 trv: Taroko
 ts: Tsonga
+tsd: Tsakonisch
 tsi: Tsimshian-Sprache
 tt: Tatarisch
+ttt: Tatisch
 tum: Tumbuka-Sprache
 tvl: Elliceanisch
 tw: Twi
@@ -476,11 +563,16 @@ umb: Mbundu-Sprache
 und: Unbestimmte Sprache
 ur: Urdu
 uz: Usbekisch
-vai: Vai-Sprache
+vai: Vai
 ve: Venda-Sprache
+vec: Venetisch
+vep: Wepsisch
 vi: Vietnamesisch
+vls: "Westfl\xE4misch"
+vmf: "Mainfr\xE4nkisch"
 vo: "Volap\xFCk"
 vot: Wotisch
+vro: "V\xF5ro"
 vun: Vunjo
 wa: Wallonisch
 wae: Walser-Dialekte
@@ -488,8 +580,10 @@ wal: Walamo-Sprache
 war: Waray
 was: Washo-Sprache
 wo: Wolof
+wuu: Wu
 xal: "Kalm\xFCckisch"
 xh: Xhosa
+xmf: Mingrelisch
 xog: Soga
 yao: Yao-Sprache
 yap: Yapesisch
@@ -497,10 +591,12 @@ yav: Yangben
 ybb: Yemba
 yi: Jiddisch
 yo: Yoruba
+yrl: Nheengatu
 yue: Kantonesisch
 za: Zhuang
 zap: Zapotekisch
 zbl: Bliss-Symbole
+zea: "Seel\xE4ndisch"
 zen: Zenaga
 zgh: Tamazight
 zh: Chinesisch

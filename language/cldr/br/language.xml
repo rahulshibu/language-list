@@ -9,6 +9,10 @@
     <name>abkhazeg</name>
   </language>
   <language>
+    <code>ace</code>
+    <name>achineg</name>
+  </language>
+  <language>
     <code>ach</code>
     <name>acoli</name>
   </language>
@@ -25,6 +29,10 @@
     <name>avesteg</name>
   </language>
   <language>
+    <code>aeb</code>
+    <name>arabeg Tunizia</name>
+  </language>
+  <language>
     <code>af</code>
     <name>afrikaans</name>
   </language>
@@ -37,12 +45,28 @@
     <name>aghem</name>
   </language>
   <language>
+    <code>ain</code>
+    <name>ainoueg</name>
+  </language>
+  <language>
     <code>ak</code>
     <name>akan</name>
   </language>
   <language>
     <code>akk</code>
     <name>akadeg</name>
+  </language>
+  <language>
+    <code>akz</code>
+    <name>alabamaeg</name>
+  </language>
+  <language>
+    <code>ale</code>
+    <name>aleouteg</name>
+  </language>
+  <language>
+    <code>aln</code>
+    <name>gegeg</name>
   </language>
   <language>
     <code>alt</code>
@@ -65,6 +89,10 @@
     <name>arabeg</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>arabeg modern</name>
+  </language>
+  <language>
     <code>arc</code>
     <name>arameeg</name>
   </language>
@@ -77,8 +105,20 @@
     <name>arapaho</name>
   </language>
   <language>
+    <code>arq</code>
+    <name>arabeg Aljeria</name>
+  </language>
+  <language>
     <code>arw</code>
     <name>arawakeg</name>
+  </language>
+  <language>
+    <code>ary</code>
+    <name>arabeg Maroko</name>
+  </language>
+  <language>
+    <code>arz</code>
+    <name>arabeg Egipt</name>
   </language>
   <language>
     <code>as</code>
@@ -105,6 +145,10 @@
     <name>azeri</name>
   </language>
   <language>
+    <code>azb</code>
+    <name>azeri ar Su</name>
+  </language>
+  <language>
     <code>ba</code>
     <name>bachkir</name>
   </language>
@@ -117,12 +161,20 @@
     <name>balineg</name>
   </language>
   <language>
+    <code>bar</code>
+    <name>bavarieg</name>
+  </language>
+  <language>
     <code>bas</code>
     <name>basaa</name>
   </language>
   <language>
     <code>be</code>
     <name>belaruseg</name>
+  </language>
+  <language>
+    <code>bej</code>
+    <name>bedawieg</name>
   </language>
   <language>
     <code>bem</code>
@@ -171,6 +223,10 @@
   <language>
     <code>bra</code>
     <name>braj</name>
+  </language>
+  <language>
+    <code>brh</code>
+    <name>brahweg</name>
   </language>
   <language>
     <code>brx</code>
@@ -325,6 +381,10 @@
     <name>izelsorabeg</name>
   </language>
   <language>
+    <code>dum</code>
+    <name>nederlandeg krenn</name>
+  </language>
+  <language>
     <code>dv</code>
     <name>divehi</name>
   </language>
@@ -382,7 +442,7 @@
   </language>
   <language>
     <code>en_US</code>
-    <name>saozneg S.U.</name>
+    <name>saozneg Amerika</name>
   </language>
   <language>
     <code>enm</code>
@@ -403,6 +463,10 @@
   <language>
     <code>es_ES</code>
     <name>spagnoleg Europa</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>spagnoleg Mecʼhiko</name>
   </language>
   <language>
     <code>et</code>
@@ -462,11 +526,15 @@
   </language>
   <language>
     <code>frm</code>
-    <name>krennc'halleg</name>
+    <name>krenncʼhalleg</name>
   </language>
   <language>
     <code>fro</code>
-    <name>henc'halleg</name>
+    <name>hencʼhalleg</name>
+  </language>
+  <language>
+    <code>frp</code>
+    <name>arpitaneg</name>
   </language>
   <language>
     <code>frr</code>
@@ -482,7 +550,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>frizeg ar C'hornôg</name>
+    <name>frizeg ar Cʼhornôg</name>
   </language>
   <language>
     <code>ga</code>
@@ -491,6 +559,14 @@
   <language>
     <code>gaa</code>
     <name>ga</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>gagaouzeg</name>
+  </language>
+  <language>
+    <code>gan</code>
+    <name>sinaeg Gan</name>
   </language>
   <language>
     <code>gay</code>
@@ -517,8 +593,16 @@
     <name>galizeg</name>
   </language>
   <language>
+    <code>gmh</code>
+    <name>krennalamaneg uhel</name>
+  </language>
+  <language>
     <code>gn</code>
     <name>guarani</name>
+  </language>
+  <language>
+    <code>goh</code>
+    <name>henalamaneg uhel</name>
   </language>
   <language>
     <code>gor</code>
@@ -534,7 +618,7 @@
   </language>
   <language>
     <code>grc</code>
-    <name>henc'hresianeg</name>
+    <name>hencʼhresianeg</name>
   </language>
   <language>
     <code>gsw</code>
@@ -555,6 +639,10 @@
   <language>
     <code>hai</code>
     <name>haida</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>sinaeg Hakka</name>
   </language>
   <language>
     <code>haw</code>
@@ -587,6 +675,10 @@
   <language>
     <code>hsb</code>
     <name>uhelsorabeg</name>
+  </language>
+  <language>
+    <code>hsn</code>
+    <name>sinaeg Xian</name>
   </language>
   <language>
     <code>ht</code>
@@ -631,6 +723,10 @@
   <language>
     <code>ig</code>
     <name>igbo</name>
+  </language>
+  <language>
+    <code>ii</code>
+    <name>yieg Sichuan</name>
   </language>
   <language>
     <code>ik</code>
@@ -761,6 +857,14 @@
     <name>karatchay-balkar</name>
   </language>
   <language>
+    <code>kri</code>
+    <name>krio</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>karelieg</name>
+  </language>
+  <language>
     <code>kru</code>
     <name>kurukh</name>
   </language>
@@ -809,12 +913,20 @@
     <name>lezgi</name>
   </language>
   <language>
+    <code>lfn</code>
+    <name>lingua franca nova</name>
+  </language>
+  <language>
     <code>lg</code>
     <name>ganda</name>
   </language>
   <language>
     <code>li</code>
     <name>limbourgeg</name>
+  </language>
+  <language>
+    <code>lij</code>
+    <name>ligurieg</name>
   </language>
   <language>
     <code>ln</code>
@@ -867,6 +979,10 @@
   <language>
     <code>lv</code>
     <name>latvieg</name>
+  </language>
+  <language>
+    <code>lzh</code>
+    <name>sinaeg lennegel</name>
   </language>
   <language>
     <code>mag</code>
@@ -941,6 +1057,10 @@
     <name>marathi</name>
   </language>
   <language>
+    <code>mrj</code>
+    <name>marieg ar Cʼhornôg</name>
+  </language>
+  <language>
     <code>ms</code>
     <name>malayseg</name>
   </language>
@@ -969,6 +1089,10 @@
     <name>naurueg</name>
   </language>
   <language>
+    <code>nan</code>
+    <name>sinaeg Min Nan</name>
+  </language>
+  <language>
     <code>nap</code>
     <name>napolitaneg</name>
   </language>
@@ -979,6 +1103,10 @@
   <language>
     <code>nd</code>
     <name>ndebele an Norzh</name>
+  </language>
+  <language>
+    <code>nds</code>
+    <name>alamaneg izel</name>
   </language>
   <language>
     <code>ne</code>
@@ -1021,6 +1149,14 @@
     <name>nogay</name>
   </language>
   <language>
+    <code>non</code>
+    <name>hennorseg</name>
+  </language>
+  <language>
+    <code>nov</code>
+    <name>novial</name>
+  </language>
+  <language>
     <code>nr</code>
     <name>ndebele ar Su</name>
   </language>
@@ -1030,7 +1166,11 @@
   </language>
   <language>
     <code>nv</code>
-    <name>navac'ho</name>
+    <name>navacʼho</name>
+  </language>
+  <language>
+    <code>nwc</code>
+    <name>newari klasel</name>
   </language>
   <language>
     <code>ny</code>
@@ -1069,6 +1209,10 @@
     <name>osage</name>
   </language>
   <language>
+    <code>ota</code>
+    <name>turkeg otoman</name>
+  </language>
+  <language>
     <code>pa</code>
     <name>punjabi</name>
   </language>
@@ -1093,6 +1237,14 @@
     <name>palau</name>
   </language>
   <language>
+    <code>pcd</code>
+    <name>pikardeg</name>
+  </language>
+  <language>
+    <code>pdc</code>
+    <name>alamaneg Pennsylvania</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>henberseg</name>
   </language>
@@ -1109,8 +1261,20 @@
     <name>poloneg</name>
   </language>
   <language>
+    <code>pms</code>
+    <name>piemonteg</name>
+  </language>
+  <language>
+    <code>pnt</code>
+    <name>ponteg</name>
+  </language>
+  <language>
     <code>pon</code>
     <name>pohnpei</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>henbruseg</name>
   </language>
   <language>
     <code>pro</code>
@@ -1147,6 +1311,10 @@
   <language>
     <code>rar</code>
     <name>rarotonga</name>
+  </language>
+  <language>
+    <code>rgn</code>
+    <name>romagnoleg</name>
   </language>
   <language>
     <code>rm</code>
@@ -1201,6 +1369,10 @@
     <name>yakouteg</name>
   </language>
   <language>
+    <code>sam</code>
+    <name>arameeg ar Samaritaned</name>
+  </language>
+  <language>
     <code>sas</code>
     <name>sasak</name>
   </language>
@@ -1213,12 +1385,20 @@
     <name>sardeg</name>
   </language>
   <language>
+    <code>scn</code>
+    <name>sikilieg</name>
+  </language>
+  <language>
     <code>sco</code>
     <name>skoteg</name>
   </language>
   <language>
     <code>sd</code>
     <name>sindhi</name>
+  </language>
+  <language>
+    <code>sdc</code>
+    <name>sasareseg</name>
   </language>
   <language>
     <code>se</code>
@@ -1239,6 +1419,10 @@
   <language>
     <code>shn</code>
     <name>shan</name>
+  </language>
+  <language>
+    <code>shu</code>
+    <name>arabeg Tchad</name>
   </language>
   <language>
     <code>si</code>
@@ -1343,6 +1527,10 @@
   <language>
     <code>ta</code>
     <name>tamileg</name>
+  </language>
+  <language>
+    <code>tcy</code>
+    <name>touloueg</name>
   </language>
   <language>
     <code>te</code>
@@ -1497,6 +1685,10 @@
     <name>vietnameg</name>
   </language>
   <language>
+    <code>vls</code>
+    <name>flandrezeg ar c’hornôg</name>
+  </language>
+  <language>
     <code>vo</code>
     <name>volapük</name>
   </language>
@@ -1527,6 +1719,10 @@
   <language>
     <code>wo</code>
     <name>wolof</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>sinaeg Wu</name>
   </language>
   <language>
     <code>xal</code>
@@ -1565,8 +1761,20 @@
     <name>zapoteg</name>
   </language>
   <language>
+    <code>zbl</code>
+    <name>Bliss</name>
+  </language>
+  <language>
+    <code>zea</code>
+    <name>zelandeg</name>
+  </language>
+  <language>
     <code>zen</code>
     <name>zenaga</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>tamacheg Maroko standart</name>
   </language>
   <language>
     <code>zh</code>

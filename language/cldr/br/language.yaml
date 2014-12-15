@@ -1,34 +1,47 @@
 aa: afar
 ab: abkhazeg
+ace: achineg
 ach: acoli
 ada: adangme
 ady: adygeieg
 ae: avesteg
+aeb: arabeg Tunizia
 af: afrikaans
 afh: afrihili
 agq: aghem
+ain: ainoueg
 ak: akan
 akk: akadeg
+akz: alabamaeg
+ale: aleouteg
+aln: gegeg
 alt: altaieg ar Su
 am: amhareg
 an: aragoneg
 ang: hensaozneg
 ar: arabeg
+ar_001: arabeg modern
 arc: arameeg
 arn: araoukaneg
 arp: arapaho
+arq: arabeg Aljeria
 arw: arawakeg
+ary: arabeg Maroko
+arz: arabeg Egipt
 as: asameg
 asa: asu
 av: avar
 awa: awadhi
 ay: aymara
 az: azeri
+azb: azeri ar Su
 ba: bachkir
 bal: baloutchi
 ban: balineg
+bar: bavarieg
 bas: basaa
 be: belaruseg
+bej: bedawieg
 bem: bemba
 bez: bena
 bg: bulgareg
@@ -41,6 +54,7 @@ bn: bengali
 bo: tibetaneg
 br: brezhoneg
 bra: braj
+brh: brahweg
 brx: bodo
 bs: bosneg
 bua: bouriat
@@ -79,6 +93,7 @@ dgr: dogrib
 din: dinka
 doi: dogri
 dsb: izelsorabeg
+dum: nederlandeg krenn
 dv: divehi
 dyu: dyula
 dz: dzongkha
@@ -93,12 +108,13 @@ en: saozneg
 en_AU: saozneg Aostralia
 en_CA: saozneg Kanada
 en_GB: saozneg Breizh-Veur
-en_US: saozneg S.U.
+en_US: saozneg Amerika
 enm: krennsaozneg
 eo: esperanteg
 es: spagnoleg
 es_419: spagnoleg Amerika latin
 es_ES: spagnoleg Europa
+es_MX: "spagnoleg Mec\u02BChiko"
 et: estoneg
 eu: euskareg
 ewo: ewondo
@@ -113,30 +129,36 @@ fon: fon
 fr: galleg
 fr_CA: galleg Kanada
 fr_CH: galleg Suis
-frm: krennc'halleg
-fro: henc'halleg
+frm: "krennc\u02BChalleg"
+fro: "henc\u02BChalleg"
+frp: arpitaneg
 frr: frizeg an Norzh
 frs: frizeg ar Reter
 fur: frioulaneg
-fy: "frizeg ar C'horn\xF4g"
+fy: "frizeg ar C\u02BChorn\xF4g"
 ga: iwerzhoneg
 gaa: ga
+gag: gagaouzeg
+gan: sinaeg Gan
 gay: gayo
 gba: gbaya
 gd: skoseg
 gez: gezeg
 gil: gilberteg
 gl: galizeg
+gmh: krennalamaneg uhel
 gn: guarani
+goh: henalamaneg uhel
 gor: gorontalo
 got: goteg
 grb: grebo
-grc: henc'hresianeg
+grc: "henc\u02BChresianeg"
 gsw: alamaneg Suis
 gu: gujarati
 gv: manaveg
 ha: haousa
 hai: haida
+hak: sinaeg Hakka
 haw: hawaieg
 he: hebraeg
 hi: hindi
@@ -145,6 +167,7 @@ hmn: hmong
 ho: hiri motu
 hr: kroateg
 hsb: uhelsorabeg
+hsn: sinaeg Xian
 ht: haitieg
 hu: hungareg
 hup: hupa
@@ -156,6 +179,7 @@ ibb: ibibio
 id: indonezeg
 ie: interlingue
 ig: igbo
+ii: yieg Sichuan
 ik: inupiaq
 inh: ingoucheg
 io: ido
@@ -188,6 +212,8 @@ kos: kosrae
 kpe: kpelle
 kr: kanouri
 krc: karatchay-balkar
+kri: krio
+krl: karelieg
 kru: kurukh
 ks: kashmiri
 ku: kurdeg
@@ -200,8 +226,10 @@ lah: lahnda
 lam: lamba
 lb: luksembourgeg
 lez: lezgi
+lfn: lingua franca nova
 lg: ganda
 li: limbourgeg
+lij: ligurieg
 ln: lingala
 lo: laoseg
 lol: mongo
@@ -215,6 +243,7 @@ luo: luo
 lus: lushai
 luy: luyia
 lv: latvieg
+lzh: sinaeg lennegel
 mag: magahi
 mai: maithili
 mas: masai
@@ -233,6 +262,7 @@ mnc: manchou
 mni: manipuri
 moh: mohawk
 mr: marathi
+mrj: "marieg ar C\u02BChorn\xF4g"
 ms: malayseg
 mt: malteg
 mul: "yezho\xF9 lies"
@@ -240,9 +270,11 @@ mus: muskogi
 my: birmaneg
 myv: erza
 na: naurueg
+nan: sinaeg Min Nan
 nap: napolitaneg
 nb: "norvegeg bokm\xE5l"
 nd: ndebele an Norzh
+nds: alamaneg izel
 ne: nepaleg
 new: newari
 ng: ndonga
@@ -253,9 +285,12 @@ nl_BE: flandrezeg
 nn: norvegeg nynorsk
 'no': norvegeg
 nog: nogay
+non: hennorseg
+nov: novial
 nr: ndebele ar Su
 nso: sotho an Norzh
-nv: navac'ho
+nv: "navac\u02BCho"
+nwc: newari klasel
 ny: nyanja
 nym: nyamwezi
 nyn: nyankole
@@ -265,17 +300,23 @@ oj: ojibwa
 or: oriya
 os: oseteg
 osa: osage
+ota: turkeg otoman
 pa: punjabi
 pag: pangasinan
 pal: pahlavi
 pam: pampanga
 pap: papiamento
 pau: palau
+pcd: pikardeg
+pdc: alamaneg Pennsylvania
 peo: henberseg
 phn: fenikianeg
 pi: pali
 pl: poloneg
+pms: piemonteg
+pnt: ponteg
 pon: pohnpei
+prg: henbruseg
 pro: "henbrova\xF1seg"
 ps: pachto
 pt: portugaleg
@@ -285,6 +326,7 @@ qu: kechuaeg
 raj: rajasthani
 rap: rapanui
 rar: rarotonga
+rgn: romagnoleg
 rm: "roma\xF1cheg"
 rn: rundi
 ro: roumaneg
@@ -298,16 +340,20 @@ rwk: rwa
 sa: sanskriteg
 sad: sandawe
 sah: yakouteg
+sam: arameeg ar Samaritaned
 sas: sasak
 sat: santali
 sc: sardeg
+scn: sikilieg
 sco: skoteg
 sd: sindhi
+sdc: sasareseg
 se: "s\xE1mi an Norzh"
 sg: sango
 sga: heniwerzhoneg
 sh: serb-kroateg
 shn: shan
+shu: arabeg Tchad
 si: singhaleg
 sid: sidamo
 sk: slovakeg
@@ -334,6 +380,7 @@ swb: komoreg
 syc: sirieg klasel
 syr: sirieg
 ta: tamileg
+tcy: touloueg
 te: telougou
 ter: tereno
 tet: tetum
@@ -372,6 +419,7 @@ uz: ouzbekeg
 vai: vai
 ve: venda
 vi: vietnameg
+vls: "flandrezeg ar c\u2019horn\xF4g"
 vo: "volap\xFCk"
 vot: votyakeg
 wa: walloneg
@@ -380,6 +428,7 @@ wal: walamo
 war: waray
 was: washo
 wo: wolof
+wuu: sinaeg Wu
 xal: kalmouk
 xh: xhosa
 yao: yao
@@ -389,7 +438,10 @@ yo: yorouba
 yue: kantoneg
 za: zhuang
 zap: zapoteg
+zbl: Bliss
+zea: zelandeg
 zen: zenaga
+zgh: tamacheg Maroko standart
 zh: sinaeg
 zh_Hans: sinaeg eeunaet
 zh_Hant: sinaeg hengounel

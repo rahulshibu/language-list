@@ -2,14 +2,19 @@ aa,Affareg
 ab,Abchaseg
 ace,Acehneg
 ach,Acoli
+ada,Adangmeg
 ady,Circaseg Gorllewinol
 ae,Afestaneg
+aeb,Arabeg Tunisia
 af,Affricâneg
 afh,Affrihili
+agq,Aghemeg
 ain,Ainŵeg
 ak,Acaneg
 akk,Acadeg
+akz,Alabamäeg
 ale,Alewteg
+aln,Ghegeg Albania
 alt,Altäeg Deheuol
 am,Amhareg
 an,Aragoneg
@@ -18,10 +23,17 @@ ar,Arabeg
 ar_001,Arabeg Modern Safonol
 arc,Aramaeg
 arn,Arawcaneg
+aro,Araonaeg
+arp,Arapaho
+arq,Arabeg Algeria
 arw,Arawaceg
+ary,Arabeg Moroco
+arz,Arabeg yr Aifft
 as,Asameg
+ase,Iaith Arwyddion America
 av,Afareg
 az,Aserbaijaneg
+azb,Aserbaijaneg Deheuol
 ba,Bashcorteg
 bal,Balwtsi
 ban,Balïeg
@@ -38,6 +50,7 @@ bm,Bambareg
 bn,Bengaleg
 bo,Tibeteg
 br,Llydaweg
+brh,Brahui
 bs,Bosnieg
 bua,Bwriateg
 bum,Bwlw
@@ -80,7 +93,7 @@ en,Saesneg
 en_AU,Saesneg Awstralia
 en_CA,Saesneg Canada
 en_GB,Saesneg Prydain
-en_US,Saesneg UDA
+en_US,Saesneg America
 enm,Saesneg Canol
 eo,Esperanto
 es,Sbaeneg
@@ -90,16 +103,19 @@ es_MX,Sbaeneg Mecsico
 et,Estoneg
 eu,Basgeg
 ewo,Ewondo
+ext,Extremadureg
 fa,Perseg
 fat,Ffanti
 ff,Ffwla
 fi,Ffinneg
 fil,Ffilipineg
+fit,Ffinneg Tornedal
 fj,Ffijïeg
 fo,Ffaröeg
 fr,Ffrangeg
 fr_CA,Ffrangeg Canada
 fr_CH,Ffrangeg y Swistir
+frc,Ffrangeg Cajwn
 frm,Ffrangeg Canol
 fro,Hen Ffrangeg
 frr,Ffriseg y Gogledd
@@ -109,10 +125,13 @@ fy,Ffriseg y Gorllewin
 ga,Gwyddeleg
 gay,Gaio
 gba,Gbaia
+gbz,Dareg y Zoroastriaid
 gd,Gaeleg yr Alban
 gil,Gilberteg
 gl,Galisieg
+gmh,Uchel Almaeneg Canol
 gn,Guaraní
+goh,Hen Uchel Almaeneg
 got,Gotheg
 grc,Hen Roeg
 gsw,Almaeneg y Swistir
@@ -124,6 +143,7 @@ haw,Hawäieg
 he,Hebraeg
 hi,Hindi
 hit,Hetheg
+hmn,Hmongeg
 hr,Croateg
 hsb,Sorbeg Uchaf
 ht,Creol Haiti
@@ -157,7 +177,7 @@ kde,Macondeg
 kea,Caboferdianeg
 kg,Congo
 kha,Càseg
-ki,Cicwyeg
+ki,ki
 kk,Casacheg
 km,Chmereg
 kn,Kannada
@@ -182,16 +202,19 @@ lb,Lwcsembwrgeg
 lez,Lezgheg
 lg,Ganda
 li,Limbwrgeg
+lmo,Lombardeg
 ln,Lingala
 lo,Laoeg
 lol,Mongo
 loz,Lozi
 lt,Lithwaneg
+ltg,Latgalieg
 lun,Lwnda
 luo,Lŵo
 lus,Lwshaieg
 luy,Lwyia
 lv,Latfieg
+mad,Madwreg
 mag,Magahi
 mai,Maithili
 mak,Macasareg
@@ -228,12 +251,14 @@ nd,Ndebele Gogleddol
 nds,Isel Almaeneg
 ne,Nepaleg
 new,Newaeg
+ng,Ndonga
 nl,Iseldireg
 nl_BE,Fflemeg
 nn,Norwyeg Nynorsk
 no,Norwyeg
 non,Hen Norseg
 nr,Ndebele Deheuol
+nso,Sotho Gogleddol
 nus,Nŵereg
 nv,Nafaho
 nwc,Hen Newari
@@ -247,20 +272,31 @@ oj,Ojibwa
 om,Oromo
 or,Oriya
 os,Oseteg
+osa,Osageg
 ota,Tyrceg Otoman
 pa,Pwnjabeg
+pag,Pangasineg
 pal,Pahlafi
 pam,Pampanga
+pcd,Picardeg
+pdc,Almaeneg Pensylfania
 peo,Hen Bersieg
+pfl,Almaeneg Palatin
 phn,Phoeniceg
 pi,Pali
 pl,Pwyleg
+pms,Piedmonteg
+pon,Pohnpeianeg
+prg,Prwseg
 pro,Hen Brofensaleg
 ps,Pashto
 pt,Portiwgeeg
 pt_BR,Portiwgeeg Brasil
 pt_PT,Portiwgeeg Ewrop
 qu,Quechua
+quc,K’iche’
+raj,Rajasthaneg
+rap,Rapanŵi
 rar,Raratongeg
 rm,Romaunsch
 rn,Rwndi
@@ -269,9 +305,11 @@ ro_MD,Moldofeg
 rof,Rombo
 rom,Romani
 root,y Gwraidd
+rtm,Rotumaneg
 ru,Rwseg
 rup,Aromaneg
 rw,Ciniarŵandeg
+rwk,Rwa
 sa,Sansgrit
 sad,Sandäweg
 sah,Iacwteg
@@ -280,11 +318,14 @@ saq,Sambŵrw
 sas,Sasaceg
 sat,Santali
 sba,Ngambeieg
+sbp,Sangw
 sc,Sardeg
 scn,Sisileg
 sco,Sgoteg
 sd,Sindhi
+sdc,Sasareseg Sardinia
 se,Sami Gogleddol
+see,Seneca
 sel,Selcypeg
 sg,Sango
 sga,Hen Wyddeleg
@@ -294,6 +335,7 @@ si,Sinhaleg
 sid,Sidamo
 sk,Slofaceg
 sl,Slofeneg
+sli,Is-silesieg
 sm,Samöeg
 sma,Sami Deheuol
 smj,Sami Lwle
@@ -312,17 +354,22 @@ sux,Swmereg
 sv,Swedeg
 sw,Swahili
 swb,Comoreg
-swc,Swahili'r Congo
+swc,Swahili’r Congo
 syc,Hen Syrieg
 syr,Syrieg
+szl,Silesieg
 ta,Tamileg
+tcy,Tulu
 te,Telugu
+tem,Timneg
+tet,Tetumeg
 tg,Tajiceg
 th,Thai
 ti,Tigrinya
 tk,Twrcmeneg
-tl,Tagalog*
+tl,Tagalog
 tlh,Klingon
+tmh,Tamasheceg
 tn,Tswana
 to,Tongeg
 tr,Tyrceg
@@ -335,12 +382,15 @@ udm,Fotiaceg
 ug,Uighur
 uga,Wgariteg
 uk,Wcreineg
+umb,Umbundu
 und,Iaith Anhysbys
 ur,Wrdw
 uz,Wsbeceg
 vai,Faieg
 ve,Fendeg
+vec,Feniseg
 vi,Fietnameg
+vls,Fflemeg Gorllewinol
 wa,Walwneg
 wal,Walamo
 wo,Woloff
@@ -352,10 +402,12 @@ yo,Iorwba
 yue,Cantoneeg
 zap,Zapoteceg
 zbl,Blisssymbols
+zea,Zêlandeg
 zgh,Tamazight Safonol Moroco
 zh,Tsieineeg
 zh_Hans,Tsieineeg Symledig
 zh_Hant,Tsieineeg Traddodiadol
 zu,Swlw
+zun,Zuni
 zxx,Dim cynnwys ieithyddol
 zza,Zazäeg

@@ -2,143 +2,263 @@
 <languages>
   <language>
     <code>ab</code>
-    <name>Abkazisht</name>
+    <name>abkazisht</name>
   </language>
   <language>
     <code>af</code>
-    <name>Afrikane</name>
+    <name>afrikanisht</name>
+  </language>
+  <language>
+    <code>agq</code>
+    <name>agemisht</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>akanisht</name>
   </language>
   <language>
     <code>am</code>
-    <name>Amarike</name>
+    <name>amarike</name>
   </language>
   <language>
     <code>ar</code>
-    <name>Arabisht</name>
+    <name>arabisht</name>
   </language>
   <language>
     <code>ar_001</code>
-    <name>Arabishte Standarde Moderne</name>
+    <name>arabishte standarde moderne</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>mapuçisht</name>
   </language>
   <language>
     <code>as</code>
-    <name>Asamezisht</name>
+    <name>asamezisht</name>
+  </language>
+  <language>
+    <code>asa</code>
+    <name>asuisht</name>
   </language>
   <language>
     <code>az</code>
-    <name>Azere</name>
+    <name>azere</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>bashkirisht</name>
   </language>
   <language>
     <code>be</code>
-    <name>Bjellorusisht</name>
+    <name>bjellorusisht</name>
+  </language>
+  <language>
+    <code>bem</code>
+    <name>bemba</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>bena</name>
   </language>
   <language>
     <code>bg</code>
-    <name>Bullgarisht</name>
+    <name>bullgarisht</name>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>bambara</name>
   </language>
   <language>
     <code>bn</code>
-    <name>Bengalisht</name>
+    <name>bengalisht</name>
   </language>
   <language>
     <code>bo</code>
-    <name>Tibetiane</name>
+    <name>tibetisht</name>
   </language>
   <language>
     <code>br</code>
-    <name>Breton</name>
+    <name>bretone</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>bodo</name>
   </language>
   <language>
     <code>bs</code>
-    <name>Boshnjakisht</name>
+    <name>boshnjakisht</name>
   </language>
   <language>
     <code>ca</code>
-    <name>Katalonisht</name>
+    <name>katalonisht</name>
+  </language>
+  <language>
+    <code>cgg</code>
+    <name>çigisht</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>çeroki</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>kurdishte sorani</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>korsikanisht</name>
   </language>
   <language>
     <code>cs</code>
-    <name>Çekisht</name>
+    <name>çekisht</name>
   </language>
   <language>
     <code>cy</code>
-    <name>Uellsisht</name>
+    <name>uellsisht</name>
   </language>
   <language>
     <code>da</code>
-    <name>Danisht</name>
+    <name>danisht</name>
+  </language>
+  <language>
+    <code>dav</code>
+    <name>taitisht</name>
   </language>
   <language>
     <code>de</code>
-    <name>Gjermanisht</name>
+    <name>gjermanisht</name>
+  </language>
+  <language>
+    <code>de_AT</code>
+    <name>gjermanishte austriake</name>
   </language>
   <language>
     <code>de_CH</code>
-    <name>Gjermanisht (Zvicër-Dialekti i Alpeve)</name>
+    <name>gjermanishte zvicerane (dialekti i Alpeve)</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>zarmisht</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>sorbishte e poshtme</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>dualisht</name>
+  </language>
+  <language>
+    <code>dyo</code>
+    <name>xhula-fonji</name>
+  </language>
+  <language>
+    <code>dz</code>
+    <name>xongka</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>embuisht</name>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>juisht</name>
   </language>
   <language>
     <code>el</code>
-    <name>Greqisht</name>
+    <name>greqisht</name>
   </language>
   <language>
     <code>en</code>
-    <name>Anglisht</name>
+    <name>anglisht</name>
+  </language>
+  <language>
+    <code>en_AU</code>
+    <name>anglishte australiane</name>
+  </language>
+  <language>
+    <code>en_CA</code>
+    <name>anglishte kanadeze</name>
   </language>
   <language>
     <code>en_GB</code>
-    <name>Anglisht (Britani)</name>
+    <name>anglishte britanike</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>anglishte amerikane</name>
   </language>
   <language>
     <code>eo</code>
-    <name>Esperanto</name>
+    <name>esperanto</name>
   </language>
   <language>
     <code>es</code>
-    <name>Spanjisht</name>
+    <name>spanjisht</name>
+  </language>
+  <language>
+    <code>es_419</code>
+    <name>spanjishte amerikano-latine</name>
   </language>
   <language>
     <code>es_ES</code>
-    <name>Spanjisht (Europë)</name>
+    <name>spanjishte evropiane</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>spanjishte meksikane</name>
   </language>
   <language>
     <code>et</code>
-    <name>Estonisht</name>
+    <name>estonisht</name>
   </language>
   <language>
     <code>eu</code>
-    <name>Baske</name>
+    <name>baskisht</name>
   </language>
   <language>
     <code>fa</code>
-    <name>Persisht</name>
+    <name>persisht</name>
   </language>
   <language>
     <code>fi</code>
-    <name>Finlandisht</name>
+    <name>finlandisht</name>
   </language>
   <language>
     <code>fil</code>
-    <name>Filipinase</name>
+    <name>filipinase</name>
   </language>
   <language>
     <code>fj</code>
-    <name>Fixhiane</name>
+    <name>fixhiane</name>
   </language>
   <language>
     <code>fo</code>
-    <name>Faroisht</name>
+    <name>faroisht</name>
   </language>
   <language>
     <code>fr</code>
-    <name>Frëngjisht</name>
+    <name>frëngjisht</name>
+  </language>
+  <language>
+    <code>fr_CA</code>
+    <name>frëngjishte kanadeze</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>frëngjishte zvicerane</name>
   </language>
   <language>
     <code>fy</code>
-    <name>Frizianisht</name>
+    <name>frizianisht</name>
   </language>
   <language>
     <code>ga</code>
-    <name>Irlandisht</name>
+    <name>irlandezçe</name>
+  </language>
+  <language>
+    <code>gag</code>
+    <name>gagauzisht</name>
   </language>
   <language>
     <code>gd</code>
@@ -146,51 +266,63 @@
   </language>
   <language>
     <code>gl</code>
-    <name>Galike</name>
+    <name>galike</name>
   </language>
   <language>
     <code>gn</code>
-    <name>Guarane</name>
+    <name>guaranisht</name>
   </language>
   <language>
     <code>gsw</code>
-    <name>Gjermanisht (Zvicër)</name>
+    <name>gjermanishte zvicerane</name>
   </language>
   <language>
     <code>gu</code>
-    <name>Guxharatisht</name>
+    <name>guxharatisht</name>
+  </language>
+  <language>
+    <code>guz</code>
+    <name>gusisht</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>mankse</name>
   </language>
   <language>
     <code>ha</code>
-    <name>Hausisht</name>
+    <name>hausisht</name>
   </language>
   <language>
     <code>haw</code>
-    <name>Havajane</name>
+    <name>hauajane</name>
   </language>
   <language>
     <code>he</code>
-    <name>Hebraisht</name>
+    <name>hebraisht</name>
   </language>
   <language>
     <code>hi</code>
-    <name>Indisht</name>
+    <name>indishte</name>
   </language>
   <language>
     <code>hr</code>
-    <name>Kroatisht</name>
+    <name>kroatisht</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>sorbiane e sipërme</name>
   </language>
   <language>
     <code>ht</code>
-    <name>Haitianshe</name>
+    <name>haitiançe</name>
   </language>
   <language>
     <code>hu</code>
-    <name>Hungarisht</name>
+    <name>hungarisht</name>
   </language>
   <language>
     <code>hy</code>
-    <name>Armenisht</name>
+    <name>armenisht</name>
   </language>
   <language>
     <code>ia</code>
@@ -198,7 +330,7 @@
   </language>
   <language>
     <code>id</code>
-    <name>Indonezisht</name>
+    <name>indonezisht</name>
   </language>
   <language>
     <code>ie</code>
@@ -206,219 +338,443 @@
   </language>
   <language>
     <code>ig</code>
-    <name>Igbe</name>
+    <name>igbe</name>
+  </language>
+  <language>
+    <code>ii</code>
+    <name>sishuanisht</name>
   </language>
   <language>
     <code>is</code>
-    <name>Islandisht</name>
+    <name>islandisht</name>
   </language>
   <language>
     <code>it</code>
-    <name>Italisht</name>
+    <name>italisht</name>
+  </language>
+  <language>
+    <code>iu</code>
+    <name>inuktitut</name>
   </language>
   <language>
     <code>ja</code>
-    <name>Japonisht</name>
+    <name>japonisht</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>ngombisht</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>maçamisht</name>
   </language>
   <language>
     <code>jv</code>
-    <name>Javanisht</name>
+    <name>javanisht</name>
   </language>
   <language>
     <code>ka</code>
-    <name>Gjeorgjisht</name>
+    <name>gjeorgjisht</name>
+  </language>
+  <language>
+    <code>kab</code>
+    <name>kabilisht</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>kambishte</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>makondisht</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>kabuverdianisht</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>kojraçinisht</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>kikujuisht</name>
   </language>
   <language>
     <code>kk</code>
-    <name>Kazake</name>
+    <name>kazakisht</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>kalalisute</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>kalenjinisht</name>
   </language>
   <language>
     <code>km</code>
-    <name>Kmere (Kamboxhiane)</name>
+    <name>kmere</name>
   </language>
   <language>
     <code>kn</code>
-    <name>Kanada</name>
+    <name>kanade</name>
   </language>
   <language>
     <code>ko</code>
-    <name>Koreanisht</name>
+    <name>koreanisht</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>komishte permiake</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>konkanisht</name>
   </language>
   <language>
     <code>ks</code>
-    <name>Kashmire</name>
+    <name>kashmire</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>shambalisht</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>bafianisht</name>
   </language>
   <language>
     <code>ku</code>
-    <name>Kurde</name>
+    <name>kurde</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>kornisht</name>
   </language>
   <language>
     <code>ky</code>
-    <name>Kirgize</name>
+    <name>kirgizisht</name>
   </language>
   <language>
     <code>la</code>
-    <name>Latinisht</name>
+    <name>latinisht</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>langisht</name>
   </language>
   <language>
     <code>lb</code>
-    <name>Luksemburgase</name>
+    <name>luksemburgase</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>gandisht</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>lakotisht</name>
   </language>
   <language>
     <code>ln</code>
-    <name>Lingala</name>
+    <name>lingalisht</name>
   </language>
   <language>
     <code>lo</code>
-    <name>Laosisht</name>
+    <name>laosisht</name>
   </language>
   <language>
     <code>lt</code>
-    <name>Lituanisht</name>
+    <name>lituanisht</name>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>Lubakatange</name>
+  </language>
+  <language>
+    <code>luo</code>
+    <name>luoisht</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>lujaisht</name>
   </language>
   <language>
     <code>lv</code>
-    <name>Letonisht</name>
+    <name>letonisht</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>masaisht</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>meruisht</name>
+  </language>
+  <language>
+    <code>mfe</code>
+    <name>norisjene</name>
   </language>
   <language>
     <code>mg</code>
-    <name>Malageze</name>
+    <name>malageze</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>makuamito</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>metaisht</name>
   </language>
   <language>
     <code>mi</code>
-    <name>Maorisht</name>
+    <name>maorisht</name>
   </language>
   <language>
     <code>mk</code>
-    <name>Maqedonisht</name>
+    <name>maqedonisht</name>
   </language>
   <language>
     <code>ml</code>
-    <name>Malajalame</name>
+    <name>malajalame</name>
   </language>
   <language>
     <code>mn</code>
-    <name>Mongolisht</name>
+    <name>mongolisht</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>mohaukisht</name>
   </language>
   <language>
     <code>mr</code>
-    <name>Maratisht</name>
+    <name>maratisht</name>
   </language>
   <language>
     <code>ms</code>
-    <name>Malajisht</name>
+    <name>malajisht</name>
   </language>
   <language>
     <code>mt</code>
-    <name>Malteze</name>
+    <name>maltisht</name>
+  </language>
+  <language>
+    <code>mua</code>
+    <name>mundagishte</name>
   </language>
   <language>
     <code>my</code>
-    <name>Birmanisht</name>
+    <name>birmanisht</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>namaishte</name>
   </language>
   <language>
     <code>nb</code>
-    <name>Bokmalisht (Norvegji)</name>
+    <name>bokmalishte norvegjeze</name>
+  </language>
+  <language>
+    <code>nd</code>
+    <name>ndebelishte veriore</name>
   </language>
   <language>
     <code>ne</code>
-    <name>Nepalisht</name>
+    <name>nepalisht</name>
   </language>
   <language>
     <code>nl</code>
-    <name>Holandisht</name>
+    <name>holandisht</name>
   </language>
   <language>
     <code>nl_BE</code>
-    <name>Fleminge</name>
+    <name>flamande</name>
+  </language>
+  <language>
+    <code>nmg</code>
+    <name>kuasisht</name>
   </language>
   <language>
     <code>nn</code>
-    <name>Ninorske (Norvegji)</name>
+    <name>ninorske norvegjeze</name>
   </language>
   <language>
     <code>no</code>
     <name>Norvegjisht</name>
   </language>
   <language>
+    <code>nqo</code>
+    <name>nkoisht</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>nuerisht</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>niankolisht</name>
+  </language>
+  <language>
     <code>oc</code>
     <name>Oksitanisht</name>
   </language>
   <language>
+    <code>om</code>
+    <name>oromoisht</name>
+  </language>
+  <language>
     <code>or</code>
-    <name>Orije</name>
+    <name>orije</name>
   </language>
   <language>
     <code>pa</code>
-    <name>Panxhabe</name>
+    <name>panxhabe</name>
   </language>
   <language>
     <code>pl</code>
-    <name>Polonisht</name>
+    <name>polonisht</name>
   </language>
   <language>
     <code>ps</code>
-    <name>Pashto</name>
+    <name>pashto</name>
   </language>
   <language>
     <code>pt</code>
-    <name>Portugalisht</name>
+    <name>portugalisht</name>
+  </language>
+  <language>
+    <code>pt_BR</code>
+    <name>portugalishte braziliane</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>Portugalisht (Europë)</name>
+    <name>portugalishte evropiane</name>
   </language>
   <language>
     <code>qu</code>
-    <name>Keçua</name>
+    <name>keçua</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>kiçeisht</name>
   </language>
   <language>
     <code>rm</code>
-    <name>Rome</name>
+    <name>rome</name>
+  </language>
+  <language>
+    <code>rn</code>
+    <name>rundisht</name>
   </language>
   <language>
     <code>ro</code>
-    <name>Rumanisht</name>
+    <name>rumanisht</name>
+  </language>
+  <language>
+    <code>ro_MD</code>
+    <name>moldavishte</name>
+  </language>
+  <language>
+    <code>rof</code>
+    <name>romboishte</name>
   </language>
   <language>
     <code>ru</code>
-    <name>Rusisht</name>
+    <name>rusisht</name>
+  </language>
+  <language>
+    <code>rw</code>
+    <name>kiniaruandisht</name>
+  </language>
+  <language>
+    <code>rwk</code>
+    <name>ruaisht</name>
   </language>
   <language>
     <code>sa</code>
-    <name>Sanskritisht</name>
+    <name>sanskritisht</name>
+  </language>
+  <language>
+    <code>saq</code>
+    <name>samburisht</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>sanguisht</name>
   </language>
   <language>
     <code>sd</code>
-    <name>Sindi</name>
+    <name>sindi</name>
+  </language>
+  <language>
+    <code>se</code>
+    <name>samishte veriore</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>senaishte</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>senishte kojrabore</name>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>sangoisht</name>
   </language>
   <language>
     <code>sh</code>
     <name>Serbo-Kroatisht</name>
   </language>
   <language>
+    <code>shi</code>
+    <name>taçelit</name>
+  </language>
+  <language>
     <code>si</code>
-    <name>Sinhale</name>
+    <name>sinhale</name>
   </language>
   <language>
     <code>sk</code>
-    <name>Sllovakisht</name>
+    <name>sllovakisht</name>
   </language>
   <language>
     <code>sl</code>
-    <name>Sllovenisht</name>
+    <name>sllovenisht</name>
+  </language>
+  <language>
+    <code>sma</code>
+    <name>samishte jugore</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>samishte luleje</name>
+  </language>
+  <language>
+    <code>smn</code>
+    <name>samishte inarie</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>samishte skolte</name>
+  </language>
+  <language>
+    <code>sn</code>
+    <name>shonisht</name>
   </language>
   <language>
     <code>so</code>
-    <name>Somalisht</name>
+    <name>somalisht</name>
   </language>
   <language>
     <code>sq</code>
-    <name>Shqip</name>
+    <name>shqip</name>
   </language>
   <language>
     <code>sr</code>
-    <name>Serbisht</name>
+    <name>serbisht</name>
   </language>
   <language>
     <code>st</code>
@@ -426,39 +782,47 @@
   </language>
   <language>
     <code>su</code>
-    <name>Sundanisht</name>
+    <name>sundanisht</name>
   </language>
   <language>
     <code>sv</code>
-    <name>Suedisht</name>
+    <name>suedisht</name>
   </language>
   <language>
     <code>sw</code>
-    <name>Suahili</name>
+    <name>suahilisht</name>
+  </language>
+  <language>
+    <code>swc</code>
+    <name>suahilishte kongoje</name>
   </language>
   <language>
     <code>ta</code>
-    <name>Tamile</name>
+    <name>tamile</name>
   </language>
   <language>
     <code>te</code>
-    <name>Teluge</name>
+    <name>teluge</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>tezoisht</name>
   </language>
   <language>
     <code>tg</code>
-    <name>Taxhikisht</name>
+    <name>taxhikisht</name>
   </language>
   <language>
     <code>th</code>
-    <name>Tajlandisht</name>
+    <name>tajlandisht</name>
   </language>
   <language>
     <code>ti</code>
-    <name>Tigrinje</name>
+    <name>tigrinje</name>
   </language>
   <language>
     <code>tk</code>
-    <name>Turkmenisht</name>
+    <name>turkmenisht</name>
   </language>
   <language>
     <code>tlh</code>
@@ -466,51 +830,71 @@
   </language>
   <language>
     <code>to</code>
-    <name>Tonganisht</name>
+    <name>tonganisht</name>
   </language>
   <language>
     <code>tr</code>
-    <name>Turqisht</name>
+    <name>turqisht</name>
   </language>
   <language>
     <code>tt</code>
-    <name>Tatarisht</name>
+    <name>tatarisht</name>
   </language>
   <language>
     <code>tw</code>
     <name>Twi</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>tasaukisht</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>tamaziatishte atlase qendrore</name>
+  </language>
+  <language>
     <code>ug</code>
-    <name>Ujgure</name>
+    <name>ujgure</name>
   </language>
   <language>
     <code>uk</code>
-    <name>Ukrainisht</name>
+    <name>ukrainisht</name>
   </language>
   <language>
     <code>und</code>
-    <name>E panjohur</name>
+    <name>e panjohur</name>
   </language>
   <language>
     <code>ur</code>
-    <name>Urdu</name>
+    <name>urdu</name>
   </language>
   <language>
     <code>uz</code>
-    <name>Uzbeke</name>
+    <name>uzbeke</name>
+  </language>
+  <language>
+    <code>vai</code>
+    <name>vaisht</name>
   </language>
   <language>
     <code>vi</code>
-    <name>Vietnamisht</name>
+    <name>vietnamisht</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>vunjisht</name>
   </language>
   <language>
     <code>wo</code>
-    <name>Ulufisht</name>
+    <name>ulufisht</name>
   </language>
   <language>
     <code>xh</code>
-    <name>Xhose</name>
+    <name>xhose</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>sogisht</name>
   </language>
   <language>
     <code>yi</code>
@@ -518,30 +902,30 @@
   </language>
   <language>
     <code>yo</code>
-    <name>Jorubisht</name>
+    <name>jorubisht</name>
   </language>
   <language>
     <code>zgh</code>
-    <name>Tamazishte Standarde Marokene</name>
+    <name>tamazishte standarde marokene</name>
   </language>
   <language>
     <code>zh</code>
-    <name>Kinezisht</name>
+    <name>kinezisht</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>Kinezçe e Thjeshtuar</name>
+    <name>kinezishte e thjeshtuar</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>Kinezçe Tradicionale</name>
+    <name>kinezishte tradicionale</name>
   </language>
   <language>
     <code>zu</code>
-    <name>Zulu</name>
+    <name>zulu</name>
   </language>
   <language>
     <code>zxx</code>
-    <name>Mungesë përmbajtjeje gjuhësore</name>
+    <name>nuk ka përmbajtje gjuhësore</name>
   </language>
 </languages>

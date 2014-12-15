@@ -24,7 +24,7 @@ arn,arákaníska
 arp,arapahó
 arw,aravakska
 as,assamska
-asa,asu (Tanzania)
+asa,asu
 ast,astúríska
 av,avaríska
 awa,avadí
@@ -38,7 +38,7 @@ bax,bamun
 be,hvítrússneska
 bej,beja
 bem,bemba
-bez,bena (Tanzania)
+bez,bena
 bg,búlgarska
 bho,bojpúrí
 bi,bíslama
@@ -50,7 +50,7 @@ bn,bengalska
 bo,tíbeska
 br,bretónska
 bra,braí
-brx,bodo
+brx,bódó
 bs,bosníska
 bss,bakossi
 bua,búríat
@@ -63,7 +63,7 @@ cay,kajúga
 cch,atsam
 ce,tsjetsjenska
 ceb,kebúanó
-cgg,sjíga
+cgg,kíga
 ch,kamorró
 chb,síbsja
 chg,sjagataí
@@ -145,12 +145,13 @@ fur,fríúlska
 fy,vesturfrísneska
 ga,írska
 gaa,ga
+gag,gagás
 gay,gajó
 gba,gbaja
 gd,skosk gelíska
 gez,gís
 gil,gilberska
-gl,gallegska
+gl,galíanska
 gmh,miðháþýska
 gn,gvaraní
 goh,fornháþýska
@@ -162,7 +163,7 @@ grc,forngríska
 gsw,svissnesk þýska
 gu,gújaratí
 guz,gusii
-gv,manx
+gv,manska
 gwi,gvísín
 ha,hása
 hai,haída
@@ -196,6 +197,7 @@ it,ítalska
 iu,inúktitút
 ja,japanska
 jbo,lojban
+jgo,ngomba
 jmc,masjáme
 jpr,gyðingapersneska
 jrb,gyðingaarabíska
@@ -209,21 +211,24 @@ kam,kamba
 kaw,kaví
 kbd,kabardíska
 kcg,tyap
-kde,makónde
-kea,kappverdiska
+kde,makonde
+kea,grænhöfðeyska
 kfo,koro
 kg,kongóska
 kha,kasí
 kho,kotaska
+khq,koyra chiini
 ki,kíkújú
 kj,kúanjama
 kk,kasakska
 kkj,kako
 kl,grænlenska
+kln,kalenjin
 km,kmer
 kmb,kimbúndú
 kn,kannada
 ko,kóreska
+koi,kómí-permyak
 kok,konkaní
 kos,kosraska
 kpe,kpelle
@@ -232,22 +237,25 @@ krc,karasaíbalkar
 krl,karélska
 kru,kúrúk
 ks,kasmírska
-ksf,bafia
+ksb,sjambala
+ksf,bafía
 ksh,kölníska
-ku,kúrdneska
+ku,kúrdíska
 kum,kúmík
 kut,kútenaí
 kv,komíska
-kw,korníska
+kw,kornbreska
 ky,kirgiska
 la,latína
 lad,ladínska
+lag,langí
 lah,landa
 lam,lamba
 lb,lúxemborgíska
 lez,lesgíska
 lg,ganda
 li,limbúrgíska
+lkt,lakóta
 ln,lingala
 lo,laó
 lol,mongó
@@ -259,7 +267,7 @@ lui,lúisenó
 lun,lúnda
 luo,lúó
 lus,lúsaí
-luy,olulujía
+luy,luyia
 lv,lettneska
 mad,madúrska
 mag,magahí
@@ -270,11 +278,14 @@ mas,masaí
 mdf,moksa
 mdr,mandar
 men,mende
-mfe,morisyen
+mer,merú
+mfe,máritíska
 mg,malagasíska
 mga,miðírska
+mgh,makhuwa-meetto
+mgo,meta’
 mh,marshallska
-mi,maórí
+mi,maorí
 mic,mikmak
 min,mínangkabá
 mk,makedónska
@@ -287,6 +298,7 @@ mos,mossí
 mr,maratí
 ms,malaíska
 mt,maltneska
+mua,mundang
 mul,margvísleg mál
 mus,krík
 mwl,mirandesíska
@@ -295,8 +307,9 @@ my,burmneska
 myv,ersja
 na,nárúska
 nap,napólíska
+naq,nama
 nb,norskt bókmál
-nd,norðurndebele
+nd,norður-ndebele
 nds,lágþýska; lágsaxneska
 ne,nepalska
 new,nevarí
@@ -305,6 +318,7 @@ nia,nías
 niu,níveska
 nl,hollenska
 nl_BE,flæmska
+nmg,kwasio
 nn,nýnorska
 no,norska
 nog,nógaí
@@ -312,6 +326,7 @@ non,norræna
 nqo,n’ko
 nr,suðurndebele
 nso,norðursótó
+nus,núer
 nv,navahó
 nwc,klassísk nevaríska
 ny,njanja; sísjeva; sjeva
@@ -343,6 +358,7 @@ pt,portúgalska
 pt_BR,brasílísk portúgalska
 pt_PT,evrópsk portúgalska
 qu,kvesjúa
+quc,kiche
 raj,rajastaní
 rap,rapanúí
 rar,rarótongska
@@ -350,28 +366,35 @@ rm,rómanska
 rn,rúndí
 ro,rúmenska
 ro_MD,moldóvska
+rof,rombó
 rom,romaní
 root,rót
 ru,rússneska
 rup,arúmenska
 rw,kínjarvanda
+rwk,rúa
 sa,sanskrít
 sad,sandave
 sah,jakút
 sam,samversk arameíska
+saq,sambúrú
 sas,sasak
 sat,santalí
+sbp,sangú
 sc,sardínska
 scn,sikileyska
 sco,skoska
 sd,sindí
 se,norðursamíska
+seh,sena
 sel,selkúp
+ses,koíraboró-senní
 sg,sangó
 sga,fornírska
 sh,serbókróatíska
+shi,tachelhit
 shn,sjan
-si,sinhala
+si,singalíska
 sid,sídamó
 sk,slóvakíska
 sl,slóvenska
@@ -380,7 +403,7 @@ sma,suðursamíska
 smj,lúlesamíska
 smn,enaresamíska
 sms,skoltesamíska
-sn,shóna
+sn,shona
 snk,sóninke
 so,sómalska
 sog,sogdíen
@@ -398,11 +421,13 @@ sux,súmerska
 sv,sænska
 sw,svahílí
 swb,shimaoríska
+swc,Kongó-svahílí
 syc,klassísk sýrlenska
 syr,sýrlenska
 ta,tamílska
 te,telúgú
 tem,tímne
+teo,tesó
 ter,terenó
 tet,tetúm
 tg,tadsjikska
@@ -427,8 +452,10 @@ tt,tatarska
 tum,túmbúka
 tvl,túvalúska
 tw,tví
+twq,tasawaq
 ty,tahítíska
 tyv,túvínska
+tzm,tamazight
 udm,údmúrt
 ug,úígúr
 uga,úgarítíska
@@ -442,6 +469,7 @@ ve,venda
 vi,víetnamska
 vo,volapyk
 vot,votíska
+vun,vunjó
 wa,vallónska
 wal,valamó
 war,varaí
@@ -449,6 +477,7 @@ was,vasjó
 wo,volof
 xal,kalmúkska
 xh,sósa
+xog,sóga
 yao,jaó
 yap,japíska
 yi,jiddíska

@@ -1,5 +1,5 @@
 aa,afarčina
-ab,abcházština
+ab,abcházčina
 ace,acehčina
 ach,ačoli
 ada,adangme
@@ -18,19 +18,19 @@ an,aragónčina
 ang,stará angličtina
 anp,angika
 ar,arabčina
-ar_001,moderná štandardná arabčina
+ar_001,arabčina (moderná štandardná)
 arc,aramejčina
 arn,araukánčina
 arp,arapaho
 arw,arawačtina
-as,ásámčina
+as,ásamčina
 asa,asu
 ast,astúrčina
 av,avarčina
 awa,avadhčina
 ay,aymarčina
 az,azerbajdžančina
-ba,baskirčina
+ba,baškirčina
 bal,balúčtina
 ban,balijčina
 bas,basa
@@ -68,7 +68,7 @@ cay,cayuga
 cch,atsam
 ce,čečenčina
 ceb,cebuánčina
-cgg,čiga
+cgg,kiga
 ch,čamorčina
 chb,čibča
 chg,čagatajčina
@@ -94,8 +94,8 @@ dak,dakotčina
 dar,darginčina
 dav,taita
 de,nemčina
-de_AT,rakúska nemčina
-de_CH,švajčiarska spisovná nemčina
+de_AT,nemčina (rakúska)
+de_CH,nemčina (švajčiarska spisovná)
 del,delawarčina
 den,slovančina
 dgr,dogribčina
@@ -111,23 +111,23 @@ dyu,ďula
 dz,dzongkä
 dzg,dazaga
 ebu,embu
-ee,eweština
+ee,ewe
 efi,efik
 egy,staroegyptský
 eka,ekadžuk
 el,gréčtina
 elx,elamčina
 en,angličtina
-en_AU,austrálska angličtina
-en_CA,kanadská angličtina
-en_GB,britská angličtina
-en_US,americká angličtina
+en_AU,angličtina (austrálska)
+en_CA,angličtina (kanadská)
+en_GB,angličtina (britská)
+en_US,angličtina (americká)
 enm,stredná angličtina
 eo,esperanto
 es,španielčina
-es_419,latinskoamerická španielčina
-es_ES,iberská španielčina
-es_MX,mexická španielčina
+es_419,španielčina (latinskoamerická)
+es_ES,španielčina (európska)
+es_MX,španielčina (mexická)
 et,estónčina
 eu,baskičtina
 ewo,ewondo
@@ -141,8 +141,8 @@ fj,fidžijčina
 fo,faerčina
 fon,fončina
 fr,francúzština
-fr_CA,kanadská francúzština
-fr_CH,švajčiarska francúzština
+fr_CA,francúzština (kanadská)
+fr_CH,francúzština (švajčiarska)
 frm,stredná francúzština
 fro,stará francúzština
 frr,severná frízština
@@ -151,6 +151,7 @@ fur,friulčina
 fy,západná frízština
 ga,írčina
 gaa,ga
+gag,gagauzština
 gay,gayo
 gba,gbaja
 gd,škótska gaelčina
@@ -165,7 +166,7 @@ gor,gorontalo
 got,gótčina
 grb,grebo
 grc,starogréčtina
-gsw,švajčiarska nemčina
+gsw,nemčina (švajčiarska)
 gu,gudžarátčina
 guz,gusii
 gv,mančina
@@ -203,7 +204,7 @@ iu,inuktitut
 ja,japončina
 jbo,lojban
 jgo,ngomba
-jmc,machame
+jmc,mašame
 jpr,židovská perzština
 jrb,židovská arabčina
 jv,jávčina
@@ -224,17 +225,18 @@ kg,kongčina
 kha,khasijčina
 kho,chotančina
 khq,západná songhajčina
-ki,kikuju
+ki,kikujčina
 kj,kuaňama
 kk,kazaština
 kkj,kako
-kl,grónska eskimáčtina
-kln,kalenjin
-km,kambodžská khmérčina
+kl,grónčina
+kln,kalendžin
+km,khmérčina
 kmb,kimbundu
 kn,kannadčina
 ko,kórejčina
-kok,kónkánčina
+koi,komi-permiačtina
+kok,konkánčina
 kos,kusaie
 kpe,kpelle
 kr,kanurijčina
@@ -260,6 +262,7 @@ lb,luxemburčina
 lez,lezginčina
 lg,gandčina
 li,limburčina
+lkt,lakotčina
 ln,lingalčina
 lo,laoština
 lol,mongo
@@ -271,7 +274,7 @@ lui,luiseňo
 lun,lunda
 luo,luo
 lus,mizorámčina
-luy,luyia
+luy,luhja
 lv,lotyština
 mad,madurčina
 maf,mafa
@@ -288,7 +291,7 @@ mer,meru
 mfe,maurícijská kreolčina
 mg,malgaština
 mga,stredná írčina
-mgh,makhuwa-meetto
+mgh,makua-meetto
 mgo,meta’
 mh,kajin-majol
 mi,maorijčina
@@ -299,7 +302,7 @@ ml,malajálamčina
 mn,mongolčina
 mnc,mandžuština
 mni,manípurčina
-moh,mohawk
+moh,mohawkčina
 mos,mossi
 mr,maráthčina
 ms,malajčina
@@ -316,7 +319,7 @@ na,nauru
 nap,neapolčina
 naq,nama
 nb,nórsky bokmål
-nd,severné ndbele
+nd,severné ndebele
 nds,dolná nemčina
 ne,nepálčina
 new,nevárčina
@@ -361,16 +364,17 @@ pi,pálí
 pl,poľština
 pon,pohnpeičina
 pro,stará okcitánčina
-ps,paštúnčina
+ps,paštčina
 pt,portugalčina
-pt_BR,brazílska portugalčina
-pt_PT,iberská portugalčina
+pt_BR,portugalčina (brazílska)
+pt_PT,portugalčina (európska)
 qu,kečuánčina
+quc,kʼicheʼ
 raj,radžastančina
 rap,rapanujčina
 rar,rarotongan
 rm,rétorománčina
-rn,rundčina
+rn,kirundčina
 ro,rumunčina
 ro_MD,moldavčina
 rof,rombo
@@ -378,7 +382,7 @@ rom,rómčina
 root,koreň
 ru,ruština
 rup,arumunčina
-rw,rwandčina
+rw,kiňarwanda
 rwk,rwa
 sa,sanskrit
 sad,sandawe
@@ -393,7 +397,7 @@ sc,sardínčina
 scn,sicílčina
 sco,škótčina
 sd,sindhčina
-se,severná saamčina
+se,severné sami
 see,seneca
 seh,sena
 sel,selkupčina
@@ -409,10 +413,10 @@ sid,sidamo
 sk,slovenčina
 sl,slovinčina
 sm,samojčina
-sma,južná saamčina
-smj,luleská saamčina
-smn,inariská saamčina
-sms,skolt
+sma,južné sami
+smj,sami (lule)
+smn,sami (inari)
+sms,sami (skolt)
 sn,šončina
 snk,soninke
 so,somálčina
@@ -429,9 +433,9 @@ suk,sukuma
 sus,susu
 sux,sumerčina
 sv,švédčina
-sw,swahilčina
+sw,svahilčina
 swb,komorčina
-swc,konžská svahilčina
+swc,svahilčina (konžská)
 syc,klasická sýrčina
 syr,sýrčina
 ta,tamilčina
@@ -463,10 +467,10 @@ tt,tatárčina
 tum,tumbuka
 tvl,tuvalčina
 tw,twi
-twq,tasawak
+twq,tasawaq
 ty,tahitčina
 tyv,tuviančina
-tzm,stredomarocká berberčina
+tzm,tamašek (stredomarocký)
 udm,udmurtčina
 ug,ujgurčina
 uga,ugaritčina
@@ -501,10 +505,10 @@ za,čuangčina
 zap,zapotéčtina
 zbl,systém Bliss
 zen,zenaga
-zgh,štandardný marocký tamazight
+zgh,tamašek (štandardný marocký)
 zh,čínština
-zh_Hans,zjednodušená čínština
-zh_Hant,tradičná čínština
+zh_Hans,čínština (zjednodušená)
+zh_Hant,čínština (tradičná)
 zu,zuluština
 zun,zuniština
 zxx,bez jazykového obsahu

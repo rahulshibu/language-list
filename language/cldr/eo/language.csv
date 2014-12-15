@@ -1,8 +1,11 @@
 aa,afara
 ab,abĥaza
 af,afrikansa
+ak,akana
 am,amhara
 ar,araba
+ar_001,moderna norma araba
+arn,mapuĉa
 as,asama
 ay,ajmara
 az,azerbajĝana
@@ -10,23 +13,37 @@ ba,baŝkira
 be,belorusa
 bg,bulgara
 bi,bislamo
+bm,bambara
 bn,bengala
 bo,tibeta
 br,bretona
+brx,bodoa
 bs,bosnia
 ca,kataluna
+chr,ĉeroka
+ckb,sorana
 co,korsika
 cs,ĉeĥa
 cy,kimra
 da,dana
 de,germana
+de_AT,aŭstra germana
+de_CH,svisa germana
+dsb,malsuprasoraba
 dv,mahla
 dz,dzonko
 efi,ibibioefika
 el,greka
 en,angla
+en_AU,aŭstralia angla
+en_CA,kanada angla
+en_GB,brita angla
+en_US,usona angla
 eo,esperanto
 es,hispana
+es_419,amerika hispana
+es_ES,eŭropa hispana
+es_MX,meksika hispana
 et,estona
 eu,eŭska
 fa,persa
@@ -35,6 +52,8 @@ fil,filipina
 fj,fiĝia
 fo,feroa
 fr,franca
+fr_CA,kanada franca
+fr_CH,svisa franca
 fy,frisa
 ga,irlanda
 gd,gaela
@@ -87,6 +106,7 @@ na,naura
 nb,dannorvega
 ne,nepala
 nl,nederlanda
+nl_BE,flandra
 nn,novnorvega
 no,norvega
 oc,okcitana
@@ -134,7 +154,7 @@ to,tongaa
 tr,turka
 ts,conga
 tt,tatara
-tw,akana
+tw,tw
 ug,ujgura
 uk,ukraina
 und,nekonata lingvo

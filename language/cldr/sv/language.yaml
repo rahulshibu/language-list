@@ -5,6 +5,7 @@ ach: acholi
 ada: adangme
 ady: adygeiska
 ae: avestiska
+aeb: tunisisk arabiska
 af: afrikaans
 afh: afrihili
 agq: aghem
@@ -12,6 +13,7 @@ ain: ainu
 ak: akan
 akk: akkadiska
 ale: aleutiska
+aln: gegiska
 alt: sydaltaiska
 am: amhariska
 an: aragonesiska
@@ -21,38 +23,52 @@ ar: arabiska
 ar_001: modern standardarabiska
 arc: arameiska
 arn: araukanska
+aro: araoniska
 arp: arapaho
+arq: algerisk arabiska
 arw: arawakiska
+ary: marockansk arabiska
+arz: egyptisk arabiska
 as: assamesiska
 asa: asu
+ase: "amerikanskt teckenspr\xE5k"
 ast: asturiska
 av: avariska
+avk: kotava
 awa: awadhi
 ay: aymara
 az: azerbajdzjanska
+azb: sydazerbadjanska
 ba: basjkiriska
 bal: baluchiska
 ban: balinesiska
+bar: bayerska
 bas: basa
 bax: bamunska
 bbj: ghomala
 be: vitryska
 bej: beja
 bem: bemba
+bew: betawiska
 bez: bena
 bfd: bafut
+bfq: bagada
 bg: bulgariska
 bho: bhojpuri
 bi: bislama
 bik: bikol
 bin: bini
+bjn: banjariska
 bkm: bamekon
 bla: siksika
 bm: bambara
 bn: bengali
 bo: tibetanska
+bpy: bishnupriya
+bqi: bakhtiari
 br: bretonska
 bra: braj
+brh: brahuiska
 brx: bodo
 bs: bosniska
 bss: bakossi
@@ -113,6 +129,7 @@ dzg: dazaga
 ebu: embu
 ee: ewe
 efi: efik
+egl: emiliska
 egy: fornegyptiska
 eka: ekajuk
 el: grekiska
@@ -137,29 +154,37 @@ fat: fanti
 ff: fulani
 fi: finska
 fil: filippinska
+fit: "me\xE4nkieli"
 fj: fijianska
 fo: "f\xE4r\xF6iska"
 fon: "fonspr\xE5ket"
 fr: franska
 fr_CA: kanadensisk franska
 fr_CH: schweizisk franska
+frc: cajun-franska
 frm: medelfranska
 fro: fornfranska
+frp: frankoprovensalska
 frr: nordfrisiska
 frs: "\xF6stfrisiska"
 fur: friulianska
 fy: "v\xE4stfrisiska"
 ga: iriska
 gaa: "g\xE3"
+gag: gagauziska
+gan: gan
 gay: gayo
 gba: gbaya
+gbz: zoroastrisk dari
 gd: "h\xF6glandsskotska"
 gez: etiopiska
 gil: gilbertiska
 gl: galiciska
+glk: gilaki
 gmh: "medelh\xF6gtyska"
 gn: "guaran\xED"
 goh: "fornh\xF6gtyska"
+gom: Goa-konkani
 gon: gondi
 gor: gorontalo
 got: gotiska
@@ -167,20 +192,23 @@ grb: grebo
 grc: forngrekiska
 gsw: schweizertyska
 gu: gujarati
-guz: gusli
+guz: gusii
 gv: manx
 gwi: gwichin
-ha: haussa
+ha: hausa
 hai: haida
+hak: hakka
 haw: hawaiiska
 he: hebreiska
 hi: hindi
+hif: Fiji-hindi
 hil: hiligaynon
 hit: hettitiska
 hmn: "hmongspr\xE5k"
 ho: hirimotu
 hr: kroatiska
 hsb: "h\xF6gsorbiska"
+hsn: xiang
 ht: haitiska
 hu: ungerska
 hup: hupa
@@ -191,7 +219,7 @@ iba: ibanska
 ibb: ibibio
 id: indonesiska
 ie: interlingue
-ig: ibo
+ig: igbo
 ii: szezuan i
 ik: inupiak
 ilo: iloko
@@ -200,12 +228,15 @@ io: ido
 is: "isl\xE4ndska"
 it: italienska
 iu: inuktitut
+izh: ingriska
 ja: japanska
+jam: jamaikansk engelsk kreol
 jbo: lojban
 jgo: ngomba
 jmc: kimashami
 jpr: judisk persiska
 jrb: judisk arabiska
+jut: "jyll\xE4ndska"
 jv: javanesiska
 ka: georgiska
 kaa: karakalpakiska
@@ -224,6 +255,7 @@ kg: kikongo
 kha: khasi
 kho: khotanesiska
 khq: Timbuktu-songhoy
+khw: khowar
 ki: kikuyu
 kj: kuanyama
 kk: kazakiska
@@ -234,6 +266,7 @@ km: kambodjanska
 kmb: kimbundu
 kn: kannada
 ko: koreanska
+koi: komi-permjakiska
 kok: konkani
 kos: kosreanska
 kpe: kpelle
@@ -260,11 +293,16 @@ lb: luxemburgiska
 lez: lezghien
 lg: luganda
 li: limburgiska
+lij: liguriska
+liv: livoniska
+lkt: lakota
+lmo: lombardiska
 ln: lingala
 lo: laotiska
 lol: mongo
 loz: lozi
 lt: litauiska
+ltg: lettgalliska
 lu: luba-katanga
 lua: luba-lulua
 lui: "luise\xF1o"
@@ -302,6 +340,7 @@ mni: manipuri
 moh: mohawk
 mos: mossi
 mr: marathi
+mrj: "v\xE4stmariska"
 ms: malajiska
 mt: maltesiska
 mua: mundang
@@ -312,7 +351,9 @@ mwr: marwari
 my: burmesiska
 mye: myene
 myv: erjya
+mzn: mazanderani
 na: nauru
+nan: min nan
 nap: napolitanska
 naq: nama
 nb: "norskt bokm\xE5l"
@@ -355,20 +396,31 @@ pal: medelpersiska
 pam: pampanga
 pap: papiamento
 pau: palau
+pcd: pikardiska
+pdc: Pennsylvaniatyska
+pdt: "mennonitisk l\xE5gtyska"
 peo: fornpersiska
+pfl: Pfalz-tyska
 phn: feniciska
 pi: pali
 pl: polska
+pms: piemontesiska
+pnt: pontiska
 pon: ponape
+prg: fornpreussiska
 pro: fornprovensalska
 ps: afghanska
 pt: portugisiska
 pt_BR: brasiliansk portugisiska
 pt_PT: europeisk portugisiska
 qu: quechua
+quc: "k\u02BCiche\u02BC"
+qug: "Chimborazo-h\xF6glandskichwa"
 raj: rajasthani
 rap: rapanui
 rar: rarotonganska
+rgn: romagnol
+rif: riffianska
 rm: "r\xE4toromanska"
 rn: rundi
 ro: "rum\xE4nska"
@@ -376,7 +428,10 @@ ro_MD: moldaviska
 rof: rombo
 rom: romani
 root: rot
+rtm: "rotum\xE4nska"
 ru: ryska
+rue: rusyn
+rug: rovianska
 rup: "arum\xE4nska"
 rw: kinjarwanda
 rwk: rwa
@@ -387,19 +442,22 @@ sam: samaritanska
 saq: samburu
 sas: sasak
 sat: santali
+saz: saurashtra
 sba: ngambay
 sbp: sangu
 sc: sardiska
 scn: sicilianska
 sco: skotska
 sd: sindhi
+sdc: sassaresisk sardiska
 se: nordsamiska
 see: seneca
-seh: chisena
+seh: sena
 sel: selkup
 ses: Gao-songhay
 sg: sango
 sga: forniriska
+sgs: samogitiska
 sh: serbokroatiska
 shi: tachelhit
 shn: shan
@@ -408,6 +466,7 @@ si: singalesiska
 sid: sidamo
 sk: slovakiska
 sl: slovenska
+sli: "l\xE5gsilesiska"
 sm: samoanska
 sma: sydsamiska
 smj: lulesamiska
@@ -424,6 +483,7 @@ srr: serer
 ss: swati
 ssy: saho
 st: sydsotho
+stq: saterfrisiska
 su: sundanesiska
 suk: sukuma
 sus: susu
@@ -434,7 +494,9 @@ swb: "shimaor\xE9"
 swc: Kongo-swahili
 syc: klassisk syriska
 syr: syriska
+szl: silesiska
 ta: tamil
+tcy: tulu
 te: telugiska
 tem: temne
 teo: teso
@@ -450,6 +512,7 @@ tkl: tokelauiska
 tl: tagalog
 tlh: klingonska
 tli: tlingit
+tly: talysh
 tmh: tamashek
 tn: tswana
 to: tonganska
@@ -458,6 +521,7 @@ tpi: tok pisin
 tr: turkiska
 trv: taroko
 ts: tsonga
+tsd: tsakodiska
 tsi: tsimshian
 tt: tatariska
 tum: tumbuka
@@ -477,9 +541,14 @@ ur: urdu
 uz: uzbekiska
 vai: vaj
 ve: venda
+vec: venetianska
+vep: veps
 vi: vietnamesiska
+vls: "v\xE4stflaml\xE4ndska"
+vmf: Main-frankiska
 vo: "volap\xFCk"
 vot: votiska
+vro: "v\xF5ru"
 vun: vunjo
 wa: vallonska
 wae: walsertyska
@@ -487,6 +556,7 @@ wal: walamo
 war: waray
 was: washo
 wo: wolof
+wuu: wu
 xal: kalmuckiska
 xh: xhosa
 xog: lusoga
@@ -500,6 +570,7 @@ yue: kantonesiska
 za: zhuang
 zap: zapotek
 zbl: blissymboler
+zea: "zeel\xE4ndska"
 zen: zenaga
 zgh: marockansk standard-tamazight
 zh: kinesiska

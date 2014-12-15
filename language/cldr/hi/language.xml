@@ -37,6 +37,10 @@
     <name>अफ्रिहिली</name>
   </language>
   <language>
+    <code>agq</code>
+    <name>अग्हेम</name>
+  </language>
+  <language>
     <code>ain</code>
     <name>ऐनू</name>
   </language>
@@ -101,6 +105,10 @@
     <name>असमिया</name>
   </language>
   <language>
+    <code>asa</code>
+    <name>असु</name>
+  </language>
+  <language>
     <code>ast</code>
     <name>अस्तुरियन</name>
   </language>
@@ -149,6 +157,10 @@
     <name>बेम्बा</name>
   </language>
   <language>
+    <code>bez</code>
+    <name>बेना</name>
+  </language>
+  <language>
     <code>bg</code>
     <name>बुल्गारियाई</name>
   </language>
@@ -193,6 +205,10 @@
     <name>ब्रज</name>
   </language>
   <language>
+    <code>brx</code>
+    <name>बोडो</name>
+  </language>
+  <language>
     <code>bs</code>
     <name>बोस्नियाई</name>
   </language>
@@ -233,6 +249,10 @@
     <name>सिबुआनो</name>
   </language>
   <language>
+    <code>cgg</code>
+    <name>शिगा</name>
+  </language>
+  <language>
     <code>ch</code>
     <name>कमोरो</name>
   </language>
@@ -266,7 +286,7 @@
   </language>
   <language>
     <code>chr</code>
-    <name>चेरोकी</name>
+    <name>शेरोकी</name>
   </language>
   <language>
     <code>chy</code>
@@ -274,7 +294,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>सोरानी कुर्द</name>
+    <name>सोरानी कुर्दिश</name>
   </language>
   <language>
     <code>co</code>
@@ -325,6 +345,10 @@
     <name>दार्गवा</name>
   </language>
   <language>
+    <code>dav</code>
+    <name>तैता</name>
+  </language>
+  <language>
     <code>de</code>
     <name>जर्मन</name>
   </language>
@@ -353,6 +377,10 @@
     <name>दिन्का</name>
   </language>
   <language>
+    <code>dje</code>
+    <name>झार्मा</name>
+  </language>
+  <language>
     <code>doi</code>
     <name>डोग्री</name>
   </language>
@@ -373,12 +401,20 @@
     <name>दिवेही</name>
   </language>
   <language>
+    <code>dyo</code>
+    <name>जोला-फोंई</name>
+  </language>
+  <language>
     <code>dyu</code>
     <name>ड्युला</name>
   </language>
   <language>
     <code>dz</code>
     <name>ज़ोन्गखा</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>एम्बु</name>
   </language>
   <language>
     <code>ee</code>
@@ -443,6 +479,10 @@
   <language>
     <code>es_ES</code>
     <name>यूरोपीय स्पेनी</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>मैक्सिकन स्पेनिश</name>
   </language>
   <language>
     <code>et</code>
@@ -537,6 +577,10 @@
     <name>गा</name>
   </language>
   <language>
+    <code>gag</code>
+    <name>गागौज़</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>गायो</name>
   </language>
@@ -601,12 +645,16 @@
     <name>गुजराती</name>
   </language>
   <language>
+    <code>guz</code>
+    <name>गुसी</name>
+  </language>
+  <language>
     <code>gv</code>
     <name>मैंक्स</name>
   </language>
   <language>
     <code>gwi</code>
-    <name>ग्विच'इन</name>
+    <name>ग्विच’इन</name>
   </language>
   <language>
     <code>ha</code>
@@ -737,6 +785,10 @@
     <name>नगोंबा</name>
   </language>
   <language>
+    <code>jmc</code>
+    <name>मैकहैमे</name>
+  </language>
+  <language>
     <code>jpr</code>
     <name>जुदेओ-पर्शियन</name>
   </language>
@@ -746,7 +798,7 @@
   </language>
   <language>
     <code>jv</code>
-    <name>जावानीस</name>
+    <name>जावानीज़</name>
   </language>
   <language>
     <code>ka</code>
@@ -785,6 +837,14 @@
     <name>त्याप</name>
   </language>
   <language>
+    <code>kde</code>
+    <name>मैकोंड</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>काबुवेर्दियानु</name>
+  </language>
+  <language>
     <code>kfo</code>
     <name>कोरो</name>
   </language>
@@ -799,6 +859,10 @@
   <language>
     <code>kho</code>
     <name>खोतानीस</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>कोयरा चीनी</name>
   </language>
   <language>
     <code>ki</code>
@@ -817,6 +881,10 @@
     <name>ग्रीनलैंडिक</name>
   </language>
   <language>
+    <code>kln</code>
+    <name>कलेंजिन</name>
+  </language>
+  <language>
     <code>km</code>
     <name>खमेर</name>
   </language>
@@ -831,6 +899,10 @@
   <language>
     <code>ko</code>
     <name>कोरियाई</name>
+  </language>
+  <language>
+    <code>koi</code>
+    <name>कोमी-पर्मयाक</name>
   </language>
   <language>
     <code>kok</code>
@@ -865,8 +937,16 @@
     <name>कश्मीरी</name>
   </language>
   <language>
+    <code>ksb</code>
+    <name>शम्बाला</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>बफिआ</name>
+  </language>
+  <language>
     <code>ku</code>
-    <name>कुर्दी</name>
+    <name>कुर्दिश</name>
   </language>
   <language>
     <code>kum</code>
@@ -897,6 +977,10 @@
     <name>लादीनो</name>
   </language>
   <language>
+    <code>lag</code>
+    <name>लांगि</name>
+  </language>
+  <language>
     <code>lah</code>
     <name>लाह्न्डा</name>
   </language>
@@ -919,6 +1003,10 @@
   <language>
     <code>li</code>
     <name>लिंबर्गिश</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>लैकोटा</name>
   </language>
   <language>
     <code>ln</code>
@@ -965,6 +1053,10 @@
     <name>लुशाई</name>
   </language>
   <language>
+    <code>luy</code>
+    <name>ल्युईआ</name>
+  </language>
+  <language>
     <code>lv</code>
     <name>लातवियाई</name>
   </language>
@@ -1005,6 +1097,10 @@
     <name>मेन्डे</name>
   </language>
   <language>
+    <code>mer</code>
+    <name>मेरु</name>
+  </language>
+  <language>
     <code>mfe</code>
     <name>मोरीस्येन</name>
   </language>
@@ -1015,6 +1111,10 @@
   <language>
     <code>mga</code>
     <name>मध्यकाल आइरिश</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>मैखुवा-मीट्टो</name>
   </language>
   <language>
     <code>mgo</code>
@@ -1077,6 +1177,10 @@
     <name>माल्टीज़</name>
   </language>
   <language>
+    <code>mua</code>
+    <name>मुंडैंग</name>
+  </language>
+  <language>
     <code>mul</code>
     <name>विविध भाषाएँ</name>
   </language>
@@ -1107,6 +1211,10 @@
   <language>
     <code>nap</code>
     <name>नीपोलिटन</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>नामा</name>
   </language>
   <language>
     <code>nb</code>
@@ -1149,6 +1257,10 @@
     <name>फ़्लेमिश</name>
   </language>
   <language>
+    <code>nmg</code>
+    <name>क्वासिओ</name>
+  </language>
+  <language>
     <code>nn</code>
     <name>नॉर्वेजियाई नॉयनॉर्स्क</name>
   </language>
@@ -1175,6 +1287,10 @@
   <language>
     <code>nso</code>
     <name>उत्तरी सोथो</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>नुएर</name>
   </language>
   <language>
     <code>nv</code>
@@ -1301,6 +1417,10 @@
     <name>क्वेचुआ</name>
   </language>
   <language>
+    <code>quc</code>
+    <name>किश</name>
+  </language>
+  <language>
     <code>raj</code>
     <name>राजस्थानी</name>
   </language>
@@ -1326,7 +1446,11 @@
   </language>
   <language>
     <code>ro_MD</code>
-    <name>मोलडावियन्</name>
+    <name>मोलडावियन</name>
+  </language>
+  <language>
+    <code>rof</code>
+    <name>रोम्बो</name>
   </language>
   <language>
     <code>rom</code>
@@ -1346,7 +1470,11 @@
   </language>
   <language>
     <code>rw</code>
-    <name>किन्यारवाण्डा</name>
+    <name>किन्यारवांडा</name>
+  </language>
+  <language>
+    <code>rwk</code>
+    <name>रवा</name>
   </language>
   <language>
     <code>sa</code>
@@ -1365,12 +1493,20 @@
     <name>सामैरिटन अरैमिक</name>
   </language>
   <language>
+    <code>saq</code>
+    <name>सैम्बुरु</name>
+  </language>
+  <language>
     <code>sas</code>
     <name>सासाक</name>
   </language>
   <language>
     <code>sat</code>
     <name>संताली</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>सैंगु</name>
   </language>
   <language>
     <code>sc</code>
@@ -1393,8 +1529,16 @@
     <name>नॉर्दन सामी</name>
   </language>
   <language>
+    <code>seh</code>
+    <name>सेना</name>
+  </language>
+  <language>
     <code>sel</code>
     <name>सेल्कप</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>कोयराबोरो सेन्नी</name>
   </language>
   <language>
     <code>sg</code>
@@ -1407,6 +1551,10 @@
   <language>
     <code>sh</code>
     <name>सेर्बो-क्रोएशन्</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>तैचेल्हित</name>
   </language>
   <language>
     <code>shn</code>
@@ -1450,7 +1598,7 @@
   </language>
   <language>
     <code>sn</code>
-    <name>सोणा</name>
+    <name>शोणा</name>
   </language>
   <language>
     <code>snk</code>
@@ -1517,6 +1665,10 @@
     <name>कोमोरियन</name>
   </language>
   <language>
+    <code>swc</code>
+    <name>कांगो स्वाहिली</name>
+  </language>
+  <language>
     <code>syc</code>
     <name>क्लासिकल सिरिएक</name>
   </language>
@@ -1535,6 +1687,10 @@
   <language>
     <code>tem</code>
     <name>टिम्ने</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>टेसो</name>
   </language>
   <language>
     <code>ter</code>
@@ -1633,12 +1789,20 @@
     <name>ट्वी</name>
   </language>
   <language>
+    <code>twq</code>
+    <name>टासवाक</name>
+  </language>
+  <language>
     <code>ty</code>
     <name>ताहितियन</name>
   </language>
   <language>
     <code>tyv</code>
     <name>तुवीनियन</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>मध्य एटलस तमाज़ित</name>
   </language>
   <language>
     <code>udm</code>
@@ -1693,6 +1857,10 @@
     <name>वॉटिक</name>
   </language>
   <language>
+    <code>vun</code>
+    <name>वुंजो</name>
+  </language>
+  <language>
     <code>wa</code>
     <name>वाल्लून</name>
   </language>
@@ -1721,6 +1889,10 @@
     <name>ख़ोसा</name>
   </language>
   <language>
+    <code>xog</code>
+    <name>सोगा</name>
+  </language>
+  <language>
     <code>yao</code>
     <name>याओ</name>
   </language>
@@ -1738,7 +1910,7 @@
   </language>
   <language>
     <code>yue</code>
-    <name>कैंटोनीस</name>
+    <name>कैंटोनीज़</name>
   </language>
   <language>
     <code>za</code>
