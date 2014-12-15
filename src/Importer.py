@@ -57,7 +57,7 @@ class ImportCLDR(Importer):
             path, file = os.path.split(f)
             lang = file[:-len('.xml')]
             xml_data = zf.read(zipfile_path + file)
-            if xml_data != None:
+            if xml_data != None and any(c.isalpha() for c in xml_data):
               extracted_data = self.extract_data(xml_data)
               if extracted_data != None:
                 mappings = dict([(lang, extracted_data)])
