@@ -72,6 +72,8 @@
     <item>באלוצ׳י</item>
     <!-- ban - Balinese -->
     <item>בלינזית</item>
+    <!-- bar - Bavarian -->
+    <item>בווארית</item>
     <!-- bas - Basaa -->
     <item>בסאא</item>
     <!-- bax - Bamun -->
@@ -211,7 +213,7 @@
     <!-- doi - Dogri -->
     <item>דוגרי</item>
     <!-- dsb - Lower Sorbian -->
-    <item>סורביאן נמוכה</item>
+    <item>סורבית נמוכה</item>
     <!-- dua - Duala -->
     <item>דואלה</item>
     <!-- dum - Middle Dutch -->
@@ -249,7 +251,7 @@
     <!-- en_GB - British English -->
     <item>אנגלית בריטית</item>
     <!-- en_US - American English -->
-    <item>אנגלית אמריקנית</item>
+    <item>אנגלית אמריקאית</item>
     <!-- enm - Middle English -->
     <item>אנגלית תיכונה</item>
     <!-- eo - Esperanto -->
@@ -308,6 +310,8 @@
     <item>אירית</item>
     <!-- gaa - Ga -->
     <item>גא</item>
+    <!-- gag - Gagauz -->
+    <item>גגאוזית</item>
     <!-- gay - Gayo -->
     <item>גאיו</item>
     <!-- gba - Gbaya -->
@@ -367,7 +371,7 @@
     <!-- hr - Croatian -->
     <item>קרואטית</item>
     <!-- hsb - Upper Sorbian -->
-    <item>סורביאנית עליונה</item>
+    <item>סורבית גבוהה</item>
     <!-- ht - Haitian -->
     <item>האיטית</item>
     <!-- hu - Hungarian -->
@@ -474,6 +478,8 @@
     <item>קנאדה</item>
     <!-- ko - Korean -->
     <item>קוריאנית</item>
+    <!-- koi - Komi-Permyak -->
+    <item>קומי-פרמיאקית</item>
     <!-- kok - Konkani -->
     <item>קונקאני</item>
     <!-- kos - Kosraean -->
@@ -526,6 +532,8 @@
     <item>גאנדה</item>
     <!-- li - Limburgish -->
     <item>לימבורגיש</item>
+    <!-- lkt - Lakota -->
+    <item>לקוטה</item>
     <!-- ln - Lingala -->
     <item>לינגלה</item>
     <!-- lo - Lao -->
@@ -539,7 +547,7 @@
     <!-- lu - Luba-Katanga -->
     <item>לובה-קטנגה</item>
     <!-- lua - Luba-Lulua -->
-    <item>לובה-לולואה</item>
+    <item>לובה, לולואה</item>
     <!-- lui - Luiseno -->
     <item>לואיסנו</item>
     <!-- lun - Lunda -->
@@ -584,7 +592,7 @@
     <item>אירית תיכונה</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>מקואה-מיטו</item>
-    <!-- mgo - Meta' -->
+    <!-- mgo - Metaʼ -->
     <item>מטא</item>
     <!-- mh - Marshallese -->
     <item>מרשאלס</item>
@@ -668,7 +676,7 @@
     <item>נוגאי</item>
     <!-- non - Old Norse -->
     <item>‏נורדית עתיקה</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>נ׳קו</item>
     <!-- nr - South Ndebele -->
     <item>דרום נדבלה</item>
@@ -733,11 +741,13 @@
     <!-- pt - Portuguese -->
     <item>פורטוגלית</item>
     <!-- pt_BR - Brazilian Portuguese -->
-    <item>פורטוגזית ברזילאית</item>
+    <item>פורטוגלית ברזילאית</item>
     <!-- pt_PT - European Portuguese -->
-    <item>פורטוגזית אירופאית</item>
+    <item>פורטוגלית אירופאית</item>
     <!-- qu - Quechua -->
     <item>קצ׳ואה</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>קיצ׳ה</item>
     <!-- raj - Rajasthani -->
     <item>ראג׳סטן</item>
     <!-- rap - Rapanui -->
@@ -869,7 +879,7 @@
     <!-- swb - Comorian -->
     <item>קומורו</item>
     <!-- swc - Congo Swahili -->
-    <item>קונגו סוואהילי</item>
+    <item>סווהילי קונגולטזית</item>
     <!-- syc - Classical Syriac -->
     <item>סירית קלאסית</item>
     <!-- syr - Syriac -->
@@ -1013,7 +1023,7 @@
     <!-- zh - Chinese -->
     <item>סינית</item>
     <!-- zh_Hans - Simplified Chinese -->
-    <item>סינית (מפושטת)</item>
+    <item>סינית מפושטת</item>
     <!-- zh_Hant - Traditional Chinese -->
     <item>סינית מסורתית</item>
     <!-- zu - Zulu -->

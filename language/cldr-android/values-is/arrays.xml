@@ -55,7 +55,7 @@
     <!-- as - Assamese -->
     <item>assamska</item>
     <!-- asa - Asu -->
-    <item>asu (Tanzania)</item>
+    <item>asu</item>
     <!-- ast - Asturian -->
     <item>astúríska</item>
     <!-- av - Avaric -->
@@ -83,7 +83,7 @@
     <!-- bem - Bemba -->
     <item>bemba</item>
     <!-- bez - Bena -->
-    <item>bena (Tanzania)</item>
+    <item>bena</item>
     <!-- bg - Bulgarian -->
     <item>búlgarska</item>
     <!-- bho - Bhojpuri -->
@@ -107,7 +107,7 @@
     <!-- bra - Braj -->
     <item>braí</item>
     <!-- brx - Bodo -->
-    <item>bodo</item>
+    <item>bódó</item>
     <!-- bs - Bosnian -->
     <item>bosníska</item>
     <!-- bss - Akoose -->
@@ -133,7 +133,7 @@
     <!-- ceb - Cebuano -->
     <item>kebúanó</item>
     <!-- cgg - Chiga -->
-    <item>sjíga</item>
+    <item>kíga</item>
     <!-- ch - Chamorro -->
     <item>kamorró</item>
     <!-- chb - Chibcha -->
@@ -296,6 +296,8 @@
     <item>írska</item>
     <!-- gaa - Ga -->
     <item>ga</item>
+    <!-- gag - Gagauz -->
+    <item>gagás</item>
     <!-- gay - Gayo -->
     <item>gajó</item>
     <!-- gba - Gbaya -->
@@ -307,7 +309,7 @@
     <!-- gil - Gilbertese -->
     <item>gilberska</item>
     <!-- gl - Galician -->
-    <item>gallegska</item>
+    <item>galíanska</item>
     <!-- gmh - Middle High German -->
     <item>miðháþýska</item>
     <!-- gn - Guarani -->
@@ -331,7 +333,7 @@
     <!-- guz - Gusii -->
     <item>gusii</item>
     <!-- gv - Manx -->
-    <item>manx</item>
+    <item>manska</item>
     <!-- gwi - Gwichʼin -->
     <item>gvísín</item>
     <!-- ha - Hausa -->
@@ -398,6 +400,8 @@
     <item>japanska</item>
     <!-- jbo - Lojban -->
     <item>lojban</item>
+    <!-- jgo - Ngomba -->
+    <item>ngomba</item>
     <!-- jmc - Machame -->
     <item>masjáme</item>
     <!-- jpr - Judeo-Persian -->
@@ -425,9 +429,9 @@
     <!-- kcg - Tyap -->
     <item>tyap</item>
     <!-- kde - Makonde -->
-    <item>makónde</item>
+    <item>makonde</item>
     <!-- kea - Kabuverdianu -->
-    <item>kappverdiska</item>
+    <item>grænhöfðeyska</item>
     <!-- kfo - Koro -->
     <item>koro</item>
     <!-- kg - Kongo -->
@@ -436,6 +440,8 @@
     <item>kasí</item>
     <!-- kho - Khotanese -->
     <item>kotaska</item>
+    <!-- khq - Koyra Chiini -->
+    <item>koyra chiini</item>
     <!-- ki - Kikuyu -->
     <item>kíkújú</item>
     <!-- kj - Kuanyama -->
@@ -446,6 +452,8 @@
     <item>kako</item>
     <!-- kl - Kalaallisut -->
     <item>grænlenska</item>
+    <!-- kln - Kalenjin -->
+    <item>kalenjin</item>
     <!-- km - Khmer -->
     <item>kmer</item>
     <!-- kmb - Kimbundu -->
@@ -454,6 +462,8 @@
     <item>kannada</item>
     <!-- ko - Korean -->
     <item>kóreska</item>
+    <!-- koi - Komi-Permyak -->
+    <item>kómí-permyak</item>
     <!-- kok - Konkani -->
     <item>konkaní</item>
     <!-- kos - Kosraean -->
@@ -470,12 +480,14 @@
     <item>kúrúk</item>
     <!-- ks - Kashmiri -->
     <item>kasmírska</item>
+    <!-- ksb - Shambala -->
+    <item>sjambala</item>
     <!-- ksf - Bafia -->
-    <item>bafia</item>
+    <item>bafía</item>
     <!-- ksh - Colognian -->
     <item>kölníska</item>
     <!-- ku - Kurdish -->
-    <item>kúrdneska</item>
+    <item>kúrdíska</item>
     <!-- kum - Kumyk -->
     <item>kúmík</item>
     <!-- kut - Kutenai -->
@@ -483,13 +495,15 @@
     <!-- kv - Komi -->
     <item>komíska</item>
     <!-- kw - Cornish -->
-    <item>korníska</item>
+    <item>kornbreska</item>
     <!-- ky - Kyrgyz -->
     <item>kirgiska</item>
     <!-- la - Latin -->
     <item>latína</item>
     <!-- lad - Ladino -->
     <item>ladínska</item>
+    <!-- lag - Langi -->
+    <item>langí</item>
     <!-- lah - Lahnda -->
     <item>landa</item>
     <!-- lam - Lamba -->
@@ -502,6 +516,8 @@
     <item>ganda</item>
     <!-- li - Limburgish -->
     <item>limbúrgíska</item>
+    <!-- lkt - Lakota -->
+    <item>lakóta</item>
     <!-- ln - Lingala -->
     <item>lingala</item>
     <!-- lo - Lao -->
@@ -525,7 +541,7 @@
     <!-- lus - Mizo -->
     <item>lúsaí</item>
     <!-- luy - Luyia -->
-    <item>olulujía</item>
+    <item>luyia</item>
     <!-- lv - Latvian -->
     <item>lettneska</item>
     <!-- mad - Madurese -->
@@ -546,16 +562,22 @@
     <item>mandar</item>
     <!-- men - Mende -->
     <item>mende</item>
+    <!-- mer - Meru -->
+    <item>merú</item>
     <!-- mfe - Morisyen -->
-    <item>morisyen</item>
+    <item>máritíska</item>
     <!-- mg - Malagasy -->
     <item>malagasíska</item>
     <!-- mga - Middle Irish -->
     <item>miðírska</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>makhuwa-meetto</item>
+    <!-- mgo - Metaʼ -->
+    <item>meta’</item>
     <!-- mh - Marshallese -->
     <item>marshallska</item>
     <!-- mi - Maori -->
-    <item>maórí</item>
+    <item>maorí</item>
     <!-- mic - Micmac -->
     <item>mikmak</item>
     <!-- min - Minangkabau -->
@@ -580,6 +602,8 @@
     <item>malaíska</item>
     <!-- mt - Maltese -->
     <item>maltneska</item>
+    <!-- mua - Mundang -->
+    <item>mundang</item>
     <!-- mul - Multiple Languages -->
     <item>margvísleg mál</item>
     <!-- mus - Creek -->
@@ -596,10 +620,12 @@
     <item>nárúska</item>
     <!-- nap - Neapolitan -->
     <item>napólíska</item>
+    <!-- naq - Nama -->
+    <item>nama</item>
     <!-- nb - Norwegian Bokmål -->
     <item>norskt bókmál</item>
     <!-- nd - North Ndebele -->
-    <item>norðurndebele</item>
+    <item>norður-ndebele</item>
     <!-- nds - Low German -->
     <item>lágþýska; lágsaxneska</item>
     <!-- ne - Nepali -->
@@ -616,6 +642,8 @@
     <item>hollenska</item>
     <!-- nl_BE - Flemish -->
     <item>flæmska</item>
+    <!-- nmg - Kwasio -->
+    <item>kwasio</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>nýnorska</item>
     <!-- no - Norwegian -->
@@ -624,12 +652,14 @@
     <item>nógaí</item>
     <!-- non - Old Norse -->
     <item>norræna</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>n’ko</item>
     <!-- nr - South Ndebele -->
     <item>suðurndebele</item>
     <!-- nso - Northern Sotho -->
     <item>norðursótó</item>
+    <!-- nus - Nuer -->
+    <item>núer</item>
     <!-- nv - Navajo -->
     <item>navahó</item>
     <!-- nwc - Classical Newari -->
@@ -692,6 +722,8 @@
     <item>evrópsk portúgalska</item>
     <!-- qu - Quechua -->
     <item>kvesjúa</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>kiche</item>
     <!-- raj - Rajasthani -->
     <item>rajastaní</item>
     <!-- rap - Rapanui -->
@@ -706,6 +738,8 @@
     <item>rúmenska</item>
     <!-- ro_MD - Moldavian -->
     <item>moldóvska</item>
+    <!-- rof - Rombo -->
+    <item>rombó</item>
     <!-- rom - Romany -->
     <item>romaní</item>
     <!-- root - Root -->
@@ -716,6 +750,8 @@
     <item>arúmenska</item>
     <!-- rw - Kinyarwanda -->
     <item>kínjarvanda</item>
+    <!-- rwk - Rwa -->
+    <item>rúa</item>
     <!-- sa - Sanskrit -->
     <item>sanskrít</item>
     <!-- sad - Sandawe -->
@@ -724,10 +760,14 @@
     <item>jakút</item>
     <!-- sam - Samaritan Aramaic -->
     <item>samversk arameíska</item>
+    <!-- saq - Samburu -->
+    <item>sambúrú</item>
     <!-- sas - Sasak -->
     <item>sasak</item>
     <!-- sat - Santali -->
     <item>santalí</item>
+    <!-- sbp - Sangu -->
+    <item>sangú</item>
     <!-- sc - Sardinian -->
     <item>sardínska</item>
     <!-- scn - Sicilian -->
@@ -738,18 +778,24 @@
     <item>sindí</item>
     <!-- se - Northern Sami -->
     <item>norðursamíska</item>
+    <!-- seh - Sena -->
+    <item>sena</item>
     <!-- sel - Selkup -->
     <item>selkúp</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>koíraboró-senní</item>
     <!-- sg - Sango -->
     <item>sangó</item>
     <!-- sga - Old Irish -->
     <item>fornírska</item>
     <!-- sh - Serbo-Croatian -->
     <item>serbókróatíska</item>
+    <!-- shi - Tachelhit -->
+    <item>tachelhit</item>
     <!-- shn - Shan -->
     <item>sjan</item>
     <!-- si - Sinhala -->
-    <item>sinhala</item>
+    <item>singalíska</item>
     <!-- sid - Sidamo -->
     <item>sídamó</item>
     <!-- sk - Slovak -->
@@ -767,7 +813,7 @@
     <!-- sms - Skolt Sami -->
     <item>skoltesamíska</item>
     <!-- sn - Shona -->
-    <item>shóna</item>
+    <item>shona</item>
     <!-- snk - Soninke -->
     <item>sóninke</item>
     <!-- so - Somali -->
@@ -802,6 +848,8 @@
     <item>svahílí</item>
     <!-- swb - Comorian -->
     <item>shimaoríska</item>
+    <!-- swc - Congo Swahili -->
+    <item>Kongó-svahílí</item>
     <!-- syc - Classical Syriac -->
     <item>klassísk sýrlenska</item>
     <!-- syr - Syriac -->
@@ -812,6 +860,8 @@
     <item>telúgú</item>
     <!-- tem - Timne -->
     <item>tímne</item>
+    <!-- teo - Teso -->
+    <item>tesó</item>
     <!-- ter - Tereno -->
     <item>terenó</item>
     <!-- tet - Tetum -->
@@ -860,10 +910,14 @@
     <item>túvalúska</item>
     <!-- tw - Twi -->
     <item>tví</item>
+    <!-- twq - Tasawaq -->
+    <item>tasawaq</item>
     <!-- ty - Tahitian -->
     <item>tahítíska</item>
     <!-- tyv - Tuvinian -->
     <item>túvínska</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>tamazight</item>
     <!-- udm - Udmurt -->
     <item>údmúrt</item>
     <!-- ug - Uyghur -->
@@ -890,6 +944,8 @@
     <item>volapyk</item>
     <!-- vot - Votic -->
     <item>votíska</item>
+    <!-- vun - Vunjo -->
+    <item>vunjó</item>
     <!-- wa - Walloon -->
     <item>vallónska</item>
     <!-- wal - Wolaytta -->
@@ -904,6 +960,8 @@
     <item>kalmúkska</item>
     <!-- xh - Xhosa -->
     <item>sósa</item>
+    <!-- xog - Soga -->
+    <item>sóga</item>
     <!-- yao - Yao -->
     <item>jaó</item>
     <!-- yap - Yapese -->

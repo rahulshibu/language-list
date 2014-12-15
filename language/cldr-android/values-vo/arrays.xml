@@ -2,6 +2,16 @@
 <resources>
   <!-- Volapük (vo) -->
   <string-array name="languages_all">
+    <!-- en - English -->
+    <item>Linglänapük</item>
+    <!-- eo - Esperanto -->
+    <item>Sperantapük</item>
+    <!-- es - Spanish -->
+    <item>Spanyänapük</item>
+    <!-- pt - Portuguese -->
+    <item>Portugänapük</item>
+    <!-- ru - Russian -->
+    <item>Rusänapük</item>
     <!-- vo - Volapük -->
     <item>Volapük</item>
   </string-array>

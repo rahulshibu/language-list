@@ -53,7 +53,7 @@
     <!-- arw - Arawak -->
     <item>ອາຣາແວກ</item>
     <!-- as - Assamese -->
-    <item>ອັສຊຳມີສ</item>
+    <item>ອັສຊາມີສ</item>
     <!-- asa - Asu -->
     <item>ອາຊູ</item>
     <!-- ast - Asturian -->
@@ -165,7 +165,7 @@
     <!-- chy - Cheyenne -->
     <item>ຊີເຢນນີ</item>
     <!-- ckb - Sorani Kurdish -->
-    <item>ໂຊນານີເຄີດີຊ</item>
+    <item>ໂຊຣານິ ເຄີດິຊ</item>
     <!-- co - Corsican -->
     <item>ຄໍຊິກາ</item>
     <!-- cop - Coptic -->
@@ -219,7 +219,7 @@
     <!-- dv - Divehi -->
     <item>ດີວີຮີ</item>
     <!-- dyo - Jola-Fonyi -->
-    <item>ໂຈລາ-ຝອນຢີ</item>
+    <item>ໂຈລາ-ຟອນຢີ</item>
     <!-- dyu - Dyula -->
     <item>ດູລາ</item>
     <!-- dz - Dzongkha -->
@@ -247,7 +247,7 @@
     <!-- en_CA - Canadian English -->
     <item>ອັງກິດ (ເຄເນດຽນ)</item>
     <!-- en_GB - British English -->
-    <item>ອັງກິດ (ບຣິທິຊ)</item>
+    <item>ອັງກິດ (ບຣິດທິຊ)</item>
     <!-- en_US - American English -->
     <item>ອັງກິດ (ອາເມລິກັນ)</item>
     <!-- enm - Middle English -->
@@ -308,6 +308,8 @@
     <item>ໄອຣິສ</item>
     <!-- gaa - Ga -->
     <item>ກາ</item>
+    <!-- gag - Gagauz -->
+    <item>ກາກາອຸຊ</item>
     <!-- gay - Gayo -->
     <item>ກາໂຢ</item>
     <!-- gba - Gbaya -->
@@ -343,11 +345,11 @@
     <!-- guz - Gusii -->
     <item>ກູຊິ</item>
     <!-- gv - Manx -->
-    <item>ແມນ</item>
+    <item>ແມງຊ໌</item>
     <!-- gwi - Gwichʼin -->
     <item>ວິດອິນ</item>
     <!-- ha - Hausa -->
-    <item>ຮໍຊາ</item>
+    <item>ເຮົາຊາ</item>
     <!-- hai - Haida -->
     <item>ໄຮດາ</item>
     <!-- haw - Hawaiian -->
@@ -365,7 +367,7 @@
     <!-- ho - Hiri Motu -->
     <item>ຮິຣິໂມຕູ</item>
     <!-- hr - Croatian -->
-    <item>ໂຄຣຕຽນ</item>
+    <item>ໂຄຣເອທຽນ</item>
     <!-- hsb - Upper Sorbian -->
     <item>ຊຸບເປີຊໍບຽນ</item>
     <!-- ht - Haitian -->
@@ -410,6 +412,8 @@
     <item>ຍີ່ປຸ່ນ</item>
     <!-- jbo - Lojban -->
     <item>ໂລບບັນ</item>
+    <!-- jgo - Ngomba -->
+    <item>ງອມບາ</item>
     <!-- jmc - Machame -->
     <item>ມາແຊມ</item>
     <!-- jpr - Judeo-Persian -->
@@ -423,7 +427,7 @@
     <!-- kaa - Kara-Kalpak -->
     <item>ກາຣາ-ການປາກ</item>
     <!-- kab - Kabyle -->
-    <item>ກາໄບຣ</item>
+    <item>ກາໄບລ໌</item>
     <!-- kac - Kachin -->
     <item>ກາຊິນ</item>
     <!-- kaj - Jju -->
@@ -451,7 +455,7 @@
     <!-- kho - Khotanese -->
     <item>ໂຄຕັນ</item>
     <!-- khq - Koyra Chiini -->
-    <item>ຄອຍຣາຊິນີ</item>
+    <item>ຄອຍຣາ ຊິນີ</item>
     <!-- ki - Kikuyu -->
     <item>ຄິຄູຢຸ</item>
     <!-- kj - Kuanyama -->
@@ -472,6 +476,8 @@
     <item>ຄັນນາດາ</item>
     <!-- ko - Korean -->
     <item>ເກົາຫລີ</item>
+    <!-- koi - Komi-Permyak -->
+    <item>ໂຄມີ-ເພີມຢັກ</item>
     <!-- kok - Konkani -->
     <item>ກອນການີ</item>
     <!-- kos - Kosraean -->
@@ -491,7 +497,7 @@
     <!-- ksb - Shambala -->
     <item>ຊຳບາລ້າ</item>
     <!-- ksf - Bafia -->
-    <item>ບາເຝຍ</item>
+    <item>ບາເຟຍ</item>
     <!-- ksh - Colognian -->
     <item>ໂຄລອກນຽນ</item>
     <!-- ku - Kurdish -->
@@ -524,6 +530,8 @@
     <item>ແກນດາ</item>
     <!-- li - Limburgish -->
     <item>ລິມເບີກີຊ</item>
+    <!-- lkt - Lakota -->
+    <item>ລາໂກຕາ</item>
     <!-- ln - Lingala -->
     <item>ລິງກາລາ</item>
     <!-- lo - Lao -->
@@ -533,7 +541,7 @@
     <!-- loz - Lozi -->
     <item>ໂລຊິ</item>
     <!-- lt - Lithuanian -->
-    <item>ລີທົວນຽນ</item>
+    <item>ລິທົວນຽນ</item>
     <!-- lu - Luba-Katanga -->
     <item>ລູບາ-ຄາຕັງກາ</item>
     <!-- lua - Luba-Lulua -->
@@ -573,15 +581,17 @@
     <!-- men - Mende -->
     <item>ເມນເດ</item>
     <!-- mer - Meru -->
-    <item>ເມລູ</item>
+    <item>ເມຣູ</item>
     <!-- mfe - Morisyen -->
-    <item>ມໍລິສເຍນ</item>
+    <item>ມໍຣິສເຢນ</item>
     <!-- mg - Malagasy -->
     <item>ມາລາກາສຊີ</item>
     <!-- mga - Middle Irish -->
     <item>ໄອລິດກາງ</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>ມາຄູວາ-ມີດໂຕ</item>
+    <!-- mgo - Metaʼ -->
+    <item>ເມທາ</item>
     <!-- mh - Marshallese -->
     <item>ມາຊານເລັດ</item>
     <!-- mi - Maori -->
@@ -595,7 +605,7 @@
     <!-- ml - Malayalam -->
     <item>ມາເລອາລຳ</item>
     <!-- mn - Mongolian -->
-    <item>ມ່ອງໂກເລ້ຍ</item>
+    <item>ມອງໂກເລຍ</item>
     <!-- mnc - Manchu -->
     <item>ແມນຈູ</item>
     <!-- mni - Manipuri -->
@@ -605,7 +615,7 @@
     <!-- mos - Mossi -->
     <item>ມອສຊີ</item>
     <!-- mr - Marathi -->
-    <item>ມາຣາທິ</item>
+    <item>ມາຣາທີ</item>
     <!-- ms - Malay -->
     <item>ມາເລ</item>
     <!-- mt - Maltese -->
@@ -664,7 +674,7 @@
     <item>ນໍໄກ</item>
     <!-- non - Old Norse -->
     <item>ນໍໂບຮານ</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>ເອັນໂກ</item>
     <!-- nr - South Ndebele -->
     <item>ນີບີລີໃຕ້</item>
@@ -691,7 +701,7 @@
     <!-- oj - Ojibwa -->
     <item>ໂອຈິບວາ</item>
     <!-- om - Oromo -->
-    <item>ໂອໂລໂມ</item>
+    <item>ໂອໂຣໂມ</item>
     <!-- or - Oriya -->
     <item>ໂອຣິຢາ</item>
     <!-- os - Ossetic -->
@@ -734,6 +744,8 @@
     <item>ຢູໂຣປຽນ ປໍຕູກີສ</item>
     <!-- qu - Quechua -->
     <item>ຄີຊົວ</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>Kʼicheʼ</item>
     <!-- raj - Rajasthani -->
     <item>ຣາຈັສທານິ</item>
     <!-- rap - Rapanui -->
@@ -743,11 +755,11 @@
     <!-- rm - Romansh -->
     <item>ໂຣແມນ</item>
     <!-- rn - Rundi -->
-    <item>ບຸລຸນດີ</item>
+    <item>ຣຸນດິ</item>
     <!-- ro - Romanian -->
     <item>ໂຣແມນຽນ</item>
     <!-- ro_MD - Moldavian -->
-    <item>ໂມດາເວຍ</item>
+    <item>ໂມດາວຽນ</item>
     <!-- rof - Rombo -->
     <item>ຣົມໂບ</item>
     <!-- rom - Romany -->
@@ -763,7 +775,7 @@
     <!-- rwk - Rwa -->
     <item>ອາຣວາ</item>
     <!-- sa - Sanskrit -->
-    <item>ສັນສະກິດ</item>
+    <item>ສັນສະກຣິດ</item>
     <!-- sad - Sandawe -->
     <item>ຊັນດາວ</item>
     <!-- sah - Sakha -->
@@ -771,7 +783,7 @@
     <!-- sam - Samaritan Aramaic -->
     <item>ສາມາຣິແຕນ-</item>
     <!-- saq - Samburu -->
-    <item>ຊຳບູລູ</item>
+    <item>ຊຳບູຣູ</item>
     <!-- sas - Sasak -->
     <item>ຊາຊັກ</item>
     <!-- sat - Santali -->
@@ -797,7 +809,7 @@
     <!-- sel - Selkup -->
     <item>ເຊນຄັບ</item>
     <!-- ses - Koyraboro Senni -->
-    <item>ໂຄຣຍລາໂບໂລເຊນນິ</item>
+    <item>ໂຄຍຣາໂບໂຣ ເຊນນິ</item>
     <!-- sg - Sango -->
     <item>ແຊງໂກ</item>
     <!-- sga - Old Irish -->
@@ -829,7 +841,7 @@
     <!-- sms - Skolt Sami -->
     <item>ສກອດຊາມິ</item>
     <!-- sn - Shona -->
-    <item>ໂຊຣນາ</item>
+    <item>ໂຊນາ</item>
     <!-- snk - Soninke -->
     <item>ໂຊນິນກີ</item>
     <!-- so - Somali -->
@@ -865,13 +877,13 @@
     <!-- swb - Comorian -->
     <item>ໂຄໂນຣຽນ</item>
     <!-- swc - Congo Swahili -->
-    <item>ຊາວາຮີລີ-ຄອງໂກ</item>
+    <item>ຄອງໂກ ຊວາຮີລິ</item>
     <!-- syc - Classical Syriac -->
     <item>ຊີເລຍແບບດັ້ງເດີມ</item>
     <!-- syr - Syriac -->
     <item>ຊີເລຍ</item>
     <!-- ta - Tamil -->
-    <item>ທາມິວ</item>
+    <item>ທາມິລ</item>
     <!-- te - Telugu -->
     <item>ເຕລູກູ</item>
     <!-- tem - Timne -->
@@ -907,7 +919,7 @@
     <!-- tn - Tswana -->
     <item>ເຕສະວານາ</item>
     <!-- to - Tongan -->
-    <item>ທອງກັນ</item>
+    <item>ທອງການ</item>
     <!-- tog - Nyasa Tonga -->
     <item>ນາຍອາຊາຕອງກາ</item>
     <!-- tpi - Tok Pisin -->
@@ -929,13 +941,13 @@
     <!-- tw - Twi -->
     <item>ທວີ</item>
     <!-- twq - Tasawaq -->
-    <item>ຕາຊາວາ</item>
+    <item>ຕາຊາວັກ</item>
     <!-- ty - Tahitian -->
     <item>ຕາຮີຕຽນ</item>
     <!-- tyv - Tuvinian -->
     <item>ຕູວີນຽນ</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>ເບີເບີຣ-ໂມລະໂຄກາງ</item>
+    <item>ອັດລາສ ທາມາຊີກ ກາງ</item>
     <!-- udm - Udmurt -->
     <item>ອຸດມັດ</item>
     <!-- ug - Uyghur -->

@@ -6,6 +6,8 @@
     <item>afar</item>
     <!-- ab - Abkhazian -->
     <item>abkhazeg</item>
+    <!-- ace - Achinese -->
+    <item>achineg</item>
     <!-- ach - Acoli -->
     <item>acoli</item>
     <!-- ada - Adangme -->
@@ -14,16 +16,26 @@
     <item>adygeieg</item>
     <!-- ae - Avestan -->
     <item>avesteg</item>
+    <!-- aeb - Tunisian Arabic -->
+    <item>arabeg Tunizia</item>
     <!-- af - Afrikaans -->
     <item>afrikaans</item>
     <!-- afh - Afrihili -->
     <item>afrihili</item>
     <!-- agq - Aghem -->
     <item>aghem</item>
+    <!-- ain - Ainu -->
+    <item>ainoueg</item>
     <!-- ak - Akan -->
     <item>akan</item>
     <!-- akk - Akkadian -->
     <item>akadeg</item>
+    <!-- akz - Alabama -->
+    <item>alabamaeg</item>
+    <!-- ale - Aleut -->
+    <item>aleouteg</item>
+    <!-- aln - Gheg Albanian -->
+    <item>gegeg</item>
     <!-- alt - Southern Altai -->
     <item>altaieg ar Su</item>
     <!-- am - Amharic -->
@@ -34,14 +46,22 @@
     <item>hensaozneg</item>
     <!-- ar - Arabic -->
     <item>arabeg</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>arabeg modern</item>
     <!-- arc - Aramaic -->
     <item>arameeg</item>
     <!-- arn - Mapuche -->
     <item>araoukaneg</item>
     <!-- arp - Arapaho -->
     <item>arapaho</item>
+    <!-- arq - Algerian Arabic -->
+    <item>arabeg Aljeria</item>
     <!-- arw - Arawak -->
     <item>arawakeg</item>
+    <!-- ary - Moroccan Arabic -->
+    <item>arabeg Maroko</item>
+    <!-- arz - Egyptian Arabic -->
+    <item>arabeg Egipt</item>
     <!-- as - Assamese -->
     <item>asameg</item>
     <!-- asa - Asu -->
@@ -54,16 +74,22 @@
     <item>aymara</item>
     <!-- az - Azerbaijani -->
     <item>azeri</item>
+    <!-- azb - South Azerbaijani -->
+    <item>azeri ar Su</item>
     <!-- ba - Bashkir -->
     <item>bachkir</item>
     <!-- bal - Baluchi -->
     <item>baloutchi</item>
     <!-- ban - Balinese -->
     <item>balineg</item>
+    <!-- bar - Bavarian -->
+    <item>bavarieg</item>
     <!-- bas - Basaa -->
     <item>basaa</item>
     <!-- be - Belarusian -->
     <item>belaruseg</item>
+    <!-- bej - Beja -->
+    <item>bedawieg</item>
     <!-- bem - Bemba -->
     <item>bemba</item>
     <!-- bez - Bena -->
@@ -88,6 +114,8 @@
     <item>brezhoneg</item>
     <!-- bra - Braj -->
     <item>braj</item>
+    <!-- brh - Brahui -->
+    <item>brahweg</item>
     <!-- brx - Bodo -->
     <item>bodo</item>
     <!-- bs - Bosnian -->
@@ -164,6 +192,8 @@
     <item>dogri</item>
     <!-- dsb - Lower Sorbian -->
     <item>izelsorabeg</item>
+    <!-- dum - Middle Dutch -->
+    <item>nederlandeg krenn</item>
     <!-- dv - Divehi -->
     <item>divehi</item>
     <!-- dyu - Dyula -->
@@ -193,7 +223,7 @@
     <!-- en_GB - British English -->
     <item>saozneg Breizh-Veur</item>
     <!-- en_US - American English -->
-    <item>saozneg S.U.</item>
+    <item>saozneg Amerika</item>
     <!-- enm - Middle English -->
     <item>krennsaozneg</item>
     <!-- eo - Esperanto -->
@@ -204,6 +234,8 @@
     <item>spagnoleg Amerika latin</item>
     <!-- es_ES - European Spanish -->
     <item>spagnoleg Europa</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>spagnoleg Mecʼhiko</item>
     <!-- et - Estonian -->
     <item>estoneg</item>
     <!-- eu - Basque -->
@@ -233,9 +265,11 @@
     <!-- fr_CH - Swiss French -->
     <item>galleg Suis</item>
     <!-- frm - Middle French -->
-    <item>krennc'halleg</item>
+    <item>krenncʼhalleg</item>
     <!-- fro - Old French -->
-    <item>henc'halleg</item>
+    <item>hencʼhalleg</item>
+    <!-- frp - Arpitan -->
+    <item>arpitaneg</item>
     <!-- frr - Northern Frisian -->
     <item>frizeg an Norzh</item>
     <!-- frs - Eastern Frisian -->
@@ -243,11 +277,15 @@
     <!-- fur - Friulian -->
     <item>frioulaneg</item>
     <!-- fy - Western Frisian -->
-    <item>frizeg ar C'hornôg</item>
+    <item>frizeg ar Cʼhornôg</item>
     <!-- ga - Irish -->
     <item>iwerzhoneg</item>
     <!-- gaa - Ga -->
     <item>ga</item>
+    <!-- gag - Gagauz -->
+    <item>gagaouzeg</item>
+    <!-- gan - Gan Chinese -->
+    <item>sinaeg Gan</item>
     <!-- gay - Gayo -->
     <item>gayo</item>
     <!-- gba - Gbaya -->
@@ -260,8 +298,12 @@
     <item>gilberteg</item>
     <!-- gl - Galician -->
     <item>galizeg</item>
+    <!-- gmh - Middle High German -->
+    <item>krennalamaneg uhel</item>
     <!-- gn - Guarani -->
     <item>guarani</item>
+    <!-- goh - Old High German -->
+    <item>henalamaneg uhel</item>
     <!-- gor - Gorontalo -->
     <item>gorontalo</item>
     <!-- got - Gothic -->
@@ -269,7 +311,7 @@
     <!-- grb - Grebo -->
     <item>grebo</item>
     <!-- grc - Ancient Greek -->
-    <item>henc'hresianeg</item>
+    <item>hencʼhresianeg</item>
     <!-- gsw - Swiss German -->
     <item>alamaneg Suis</item>
     <!-- gu - Gujarati -->
@@ -280,6 +322,8 @@
     <item>haousa</item>
     <!-- hai - Haida -->
     <item>haida</item>
+    <!-- hak - Hakka Chinese -->
+    <item>sinaeg Hakka</item>
     <!-- haw - Hawaiian -->
     <item>hawaieg</item>
     <!-- he - Hebrew -->
@@ -296,6 +340,8 @@
     <item>kroateg</item>
     <!-- hsb - Upper Sorbian -->
     <item>uhelsorabeg</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>sinaeg Xian</item>
     <!-- ht - Haitian -->
     <item>haitieg</item>
     <!-- hu - Hungarian -->
@@ -318,6 +364,8 @@
     <item>interlingue</item>
     <!-- ig - Igbo -->
     <item>igbo</item>
+    <!-- ii - Sichuan Yi -->
+    <item>yieg Sichuan</item>
     <!-- ik - Inupiaq -->
     <item>inupiaq</item>
     <!-- inh - Ingush -->
@@ -382,6 +430,10 @@
     <item>kanouri</item>
     <!-- krc - Karachay-Balkar -->
     <item>karatchay-balkar</item>
+    <!-- kri - Krio -->
+    <item>krio</item>
+    <!-- krl - Karelian -->
+    <item>karelieg</item>
     <!-- kru - Kurukh -->
     <item>kurukh</item>
     <!-- ks - Kashmiri -->
@@ -406,10 +458,14 @@
     <item>luksembourgeg</item>
     <!-- lez - Lezghian -->
     <item>lezgi</item>
+    <!-- lfn - Lingua Franca Nova -->
+    <item>lingua franca nova</item>
     <!-- lg - Ganda -->
     <item>ganda</item>
     <!-- li - Limburgish -->
     <item>limbourgeg</item>
+    <!-- lij - Ligurian -->
+    <item>ligurieg</item>
     <!-- ln - Lingala -->
     <item>lingala</item>
     <!-- lo - Lao -->
@@ -436,6 +492,8 @@
     <item>luyia</item>
     <!-- lv - Latvian -->
     <item>latvieg</item>
+    <!-- lzh - Literary Chinese -->
+    <item>sinaeg lennegel</item>
     <!-- mag - Magahi -->
     <item>magahi</item>
     <!-- mai - Maithili -->
@@ -472,6 +530,8 @@
     <item>mohawk</item>
     <!-- mr - Marathi -->
     <item>marathi</item>
+    <!-- mrj - Western Mari -->
+    <item>marieg ar Cʼhornôg</item>
     <!-- ms - Malay -->
     <item>malayseg</item>
     <!-- mt - Maltese -->
@@ -486,12 +546,16 @@
     <item>erza</item>
     <!-- na - Nauru -->
     <item>naurueg</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>sinaeg Min Nan</item>
     <!-- nap - Neapolitan -->
     <item>napolitaneg</item>
     <!-- nb - Norwegian Bokmål -->
     <item>norvegeg bokmål</item>
     <!-- nd - North Ndebele -->
     <item>ndebele an Norzh</item>
+    <!-- nds - Low German -->
+    <item>alamaneg izel</item>
     <!-- ne - Nepali -->
     <item>nepaleg</item>
     <!-- new - Newari -->
@@ -512,12 +576,18 @@
     <item>norvegeg</item>
     <!-- nog - Nogai -->
     <item>nogay</item>
+    <!-- non - Old Norse -->
+    <item>hennorseg</item>
+    <!-- nov - Novial -->
+    <item>novial</item>
     <!-- nr - South Ndebele -->
     <item>ndebele ar Su</item>
     <!-- nso - Northern Sotho -->
     <item>sotho an Norzh</item>
     <!-- nv - Navajo -->
-    <item>navac'ho</item>
+    <item>navacʼho</item>
+    <!-- nwc - Classical Newari -->
+    <item>newari klasel</item>
     <!-- ny - Nyanja -->
     <item>nyanja</item>
     <!-- nym - Nyamwezi -->
@@ -536,6 +606,8 @@
     <item>oseteg</item>
     <!-- osa - Osage -->
     <item>osage</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>turkeg otoman</item>
     <!-- pa - Punjabi -->
     <item>punjabi</item>
     <!-- pag - Pangasinan -->
@@ -548,6 +620,10 @@
     <item>papiamento</item>
     <!-- pau - Palauan -->
     <item>palau</item>
+    <!-- pcd - Picard -->
+    <item>pikardeg</item>
+    <!-- pdc - Pennsylvania German -->
+    <item>alamaneg Pennsylvania</item>
     <!-- peo - Old Persian -->
     <item>henberseg</item>
     <!-- phn - Phoenician -->
@@ -556,8 +632,14 @@
     <item>pali</item>
     <!-- pl - Polish -->
     <item>poloneg</item>
+    <!-- pms - Piedmontese -->
+    <item>piemonteg</item>
+    <!-- pnt - Pontic -->
+    <item>ponteg</item>
     <!-- pon - Pohnpeian -->
     <item>pohnpei</item>
+    <!-- prg - Prussian -->
+    <item>henbruseg</item>
     <!-- pro - Old Provençal -->
     <item>henbrovañseg</item>
     <!-- ps - Pashto -->
@@ -576,6 +658,8 @@
     <item>rapanui</item>
     <!-- rar - Rarotongan -->
     <item>rarotonga</item>
+    <!-- rgn - Romagnol -->
+    <item>romagnoleg</item>
     <!-- rm - Romansh -->
     <item>romañcheg</item>
     <!-- rn - Rundi -->
@@ -602,16 +686,22 @@
     <item>sandawe</item>
     <!-- sah - Sakha -->
     <item>yakouteg</item>
+    <!-- sam - Samaritan Aramaic -->
+    <item>arameeg ar Samaritaned</item>
     <!-- sas - Sasak -->
     <item>sasak</item>
     <!-- sat - Santali -->
     <item>santali</item>
     <!-- sc - Sardinian -->
     <item>sardeg</item>
+    <!-- scn - Sicilian -->
+    <item>sikilieg</item>
     <!-- sco - Scots -->
     <item>skoteg</item>
     <!-- sd - Sindhi -->
     <item>sindhi</item>
+    <!-- sdc - Sassarese Sardinian -->
+    <item>sasareseg</item>
     <!-- se - Northern Sami -->
     <item>sámi an Norzh</item>
     <!-- sg - Sango -->
@@ -622,6 +712,8 @@
     <item>serb-kroateg</item>
     <!-- shn - Shan -->
     <item>shan</item>
+    <!-- shu - Chadian Arabic -->
+    <item>arabeg Tchad</item>
     <!-- si - Sinhala -->
     <item>singhaleg</item>
     <!-- sid - Sidamo -->
@@ -674,6 +766,8 @@
     <item>sirieg</item>
     <!-- ta - Tamil -->
     <item>tamileg</item>
+    <!-- tcy - Tulu -->
+    <item>touloueg</item>
     <!-- te - Telugu -->
     <item>telougou</item>
     <!-- ter - Tereno -->
@@ -750,6 +844,8 @@
     <item>venda</item>
     <!-- vi - Vietnamese -->
     <item>vietnameg</item>
+    <!-- vls - West Flemish -->
+    <item>flandrezeg ar c’hornôg</item>
     <!-- vo - Volapük -->
     <item>volapük</item>
     <!-- vot - Votic -->
@@ -766,6 +862,8 @@
     <item>washo</item>
     <!-- wo - Wolof -->
     <item>wolof</item>
+    <!-- wuu - Wu Chinese -->
+    <item>sinaeg Wu</item>
     <!-- xal - Kalmyk -->
     <item>kalmouk</item>
     <!-- xh - Xhosa -->
@@ -784,8 +882,14 @@
     <item>zhuang</item>
     <!-- zap - Zapotec -->
     <item>zapoteg</item>
+    <!-- zbl - Blissymbols -->
+    <item>Bliss</item>
+    <!-- zea - Zeelandic -->
+    <item>zelandeg</item>
     <!-- zen - Zenaga -->
     <item>zenaga</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>tamacheg Maroko standart</item>
     <!-- zh - Chinese -->
     <item>sinaeg</item>
     <!-- zh_Hans - Simplified Chinese -->

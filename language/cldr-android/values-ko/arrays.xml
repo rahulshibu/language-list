@@ -16,8 +16,10 @@
     <item>아닥헤어</item>
     <!-- ae - Avestan -->
     <item>아베스타어</item>
+    <!-- aeb - Tunisian Arabic -->
+    <item>튀니지 아랍어</item>
     <!-- af - Afrikaans -->
-    <item>남아공 공용어</item>
+    <item>아프리칸스어</item>
     <!-- afh - Afrihili -->
     <item>아프리히리어</item>
     <!-- agq - Aghem -->
@@ -50,8 +52,14 @@
     <item>아라우칸어</item>
     <!-- arp - Arapaho -->
     <item>아라파호어</item>
+    <!-- arq - Algerian Arabic -->
+    <item>알제리 아랍어</item>
     <!-- arw - Arawak -->
     <item>아라와크어</item>
+    <!-- ary - Moroccan Arabic -->
+    <item>모로코 아랍어</item>
+    <!-- arz - Egyptian Arabic -->
+    <item>이집트 아랍어</item>
     <!-- as - Assamese -->
     <item>아샘어</item>
     <!-- asa - Asu -->
@@ -66,6 +74,8 @@
     <item>아이마라어</item>
     <!-- az - Azerbaijani -->
     <item>아제르바이잔어</item>
+    <!-- azb - South Azerbaijani -->
+    <item>남아제르바이잔어</item>
     <!-- ba - Bashkir -->
     <item>바슈키르어</item>
     <!-- bal - Baluchi -->
@@ -112,6 +122,8 @@
     <item>브르타뉴어</item>
     <!-- bra - Braj -->
     <item>브라지어</item>
+    <!-- brh - Brahui -->
+    <item>브라후이어</item>
     <!-- brx - Bodo -->
     <item>보도어</item>
     <!-- bs - Bosnian -->
@@ -246,8 +258,6 @@
     <item>영어 (캐나다)</item>
     <!-- en_GB - British English -->
     <item>영어 (영국식)</item>
-    <!-- en_US - American English -->
-    <item>영어 (미국식)</item>
     <!-- enm - Middle English -->
     <item>영어, 중세</item>
     <!-- eo - Esperanto -->
@@ -304,10 +314,14 @@
     <item>아일랜드어</item>
     <!-- gaa - Ga -->
     <item>가어</item>
+    <!-- gag - Gagauz -->
+    <item>가가우스어</item>
     <!-- gay - Gayo -->
     <item>가요어</item>
     <!-- gba - Gbaya -->
     <item>그바야어</item>
+    <!-- gbz - Zoroastrian Dari -->
+    <item>조로아스터 다리어</item>
     <!-- gd - Scottish Gaelic -->
     <item>스코틀랜드 게일어</item>
     <!-- gez - Geez -->
@@ -316,12 +330,16 @@
     <item>키리바시어</item>
     <!-- gl - Galician -->
     <item>갈리시아어</item>
+    <!-- glk - Gilaki -->
+    <item>길라키어</item>
     <!-- gmh - Middle High German -->
     <item>중세 고지 독일어</item>
     <!-- gn - Guarani -->
     <item>과라니어</item>
     <!-- goh - Old High German -->
     <item>고대 고지 독일어</item>
+    <!-- gom - Goan Konkani -->
+    <item>고아 콘칸어</item>
     <!-- gon - Gondi -->
     <item>곤디어</item>
     <!-- gor - Gorontalo -->
@@ -352,6 +370,8 @@
     <item>히브리어</item>
     <!-- hi - Hindi -->
     <item>힌디어</item>
+    <!-- hif - Fiji Hindi -->
+    <item>피지 힌디어</item>
     <!-- hil - Hiligaynon -->
     <item>헤리가뇬어</item>
     <!-- hit - Hittite -->
@@ -406,6 +426,8 @@
     <item>일본어</item>
     <!-- jbo - Lojban -->
     <item>로반어</item>
+    <!-- jgo - Ngomba -->
+    <item>응곰바어</item>
     <!-- jmc - Machame -->
     <item>마차메어</item>
     <!-- jpr - Judeo-Persian -->
@@ -448,6 +470,8 @@
     <item>호탄어</item>
     <!-- khq - Koyra Chiini -->
     <item>코이라 친니어</item>
+    <!-- khw - Khowar -->
+    <item>코와르어</item>
     <!-- ki - Kikuyu -->
     <item>키쿠유어</item>
     <!-- kj - Kuanyama -->
@@ -468,6 +492,8 @@
     <item>칸나다어</item>
     <!-- ko - Korean -->
     <item>한국어</item>
+    <!-- koi - Komi-Permyak -->
+    <item>코미페르먀크어</item>
     <!-- kok - Konkani -->
     <item>코카니어</item>
     <!-- kos - Kosraean -->
@@ -516,10 +542,14 @@
     <item>룩셈부르크어</item>
     <!-- lez - Lezghian -->
     <item>레즈기안어</item>
+    <!-- lfn - Lingua Franca Nova -->
+    <item>링구아 프랑카 노바</item>
     <!-- lg - Ganda -->
     <item>간다어</item>
     <!-- li - Limburgish -->
     <item>림버거어</item>
+    <!-- lkt - Lakota -->
+    <item>라코타어</item>
     <!-- ln - Lingala -->
     <item>링갈라어</item>
     <!-- lo - Lao -->
@@ -578,6 +608,8 @@
     <item>아일랜드어, 중세</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>마크후와-메토어</item>
+    <!-- mgo - Metaʼ -->
+    <item>메타어</item>
     <!-- mh - Marshallese -->
     <item>마셜제도어</item>
     <!-- mi - Maori -->
@@ -602,6 +634,8 @@
     <item>모시어</item>
     <!-- mr - Marathi -->
     <item>마라티어</item>
+    <!-- mrj - Western Mari -->
+    <item>서부 마리어</item>
     <!-- ms - Malay -->
     <item>말레이어</item>
     <!-- mt - Maltese -->
@@ -622,6 +656,8 @@
     <item>미예네어</item>
     <!-- myv - Erzya -->
     <item>엘즈야어</item>
+    <!-- mzn - Mazanderani -->
+    <item>마잔데라니어</item>
     <!-- na - Nauru -->
     <item>나우루어</item>
     <!-- nap - Neapolitan -->
@@ -660,7 +696,7 @@
     <item>노가이어</item>
     <!-- non - Old Norse -->
     <item>노르웨이, 고대</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>응코어</item>
     <!-- nr - South Ndebele -->
     <item>남부 은데벨레어</item>
@@ -716,6 +752,8 @@
     <item>팔리어</item>
     <!-- pl - Polish -->
     <item>폴란드어</item>
+    <!-- pnt - Pontic -->
+    <item>폰틱어</item>
     <!-- pon - Pohnpeian -->
     <item>폼페이어</item>
     <!-- pro - Old Provençal -->
@@ -730,6 +768,8 @@
     <item>유럽식 포르투갈어</item>
     <!-- qu - Quechua -->
     <item>케추아어</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>키체어</item>
     <!-- raj - Rajasthani -->
     <item>라자스탄어</item>
     <!-- rap - Rapanui -->
@@ -752,6 +792,8 @@
     <item>어근</item>
     <!-- ru - Russian -->
     <item>러시아어</item>
+    <!-- rue - Rusyn -->
+    <item>루신어</item>
     <!-- rup - Aromanian -->
     <item>아로마니아어</item>
     <!-- rw - Kinyarwanda -->
@@ -879,7 +921,7 @@
     <!-- tet - Tetum -->
     <item>테툼어</item>
     <!-- tg - Tajik -->
-    <item>타지키스탄어</item>
+    <item>타지크어</item>
     <!-- th - Thai -->
     <item>태국어</item>
     <!-- ti - Tigrinya -->
@@ -892,12 +934,16 @@
     <item>투르크멘어</item>
     <!-- tkl - Tokelau -->
     <item>토켈라우제도어</item>
+    <!-- tkr - Tsakhur -->
+    <item>차후르어</item>
     <!-- tl - Tagalog -->
     <item>타갈로그어</item>
     <!-- tlh - Klingon -->
     <item>클링온어</item>
     <!-- tli - Tlingit -->
     <item>틀링깃족어</item>
+    <!-- tly - Talysh -->
+    <item>탈리쉬어</item>
     <!-- tmh - Tamashek -->
     <item>타마섹어</item>
     <!-- tn - Tswana -->

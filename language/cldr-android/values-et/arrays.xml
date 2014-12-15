@@ -221,7 +221,7 @@
     <!-- dyu - Dyula -->
     <item>djula</item>
     <!-- dz - Dzongkha -->
-    <item>bhutani</item>
+    <item>dzongkha</item>
     <!-- dzg - Dazaga -->
     <item>dazaga</item>
     <!-- ebu - Embu -->
@@ -294,6 +294,8 @@
     <item>iiri</item>
     <!-- gaa - Ga -->
     <item>gaa</item>
+    <!-- gag - Gagauz -->
+    <item>gagauusi</item>
     <!-- gay - Gayo -->
     <item>gajo</item>
     <!-- gba - Gbaya -->
@@ -323,7 +325,7 @@
     <!-- grc - Ancient Greek -->
     <item>vanakreeka</item>
     <!-- gsw - Swiss German -->
-    <item>alemanni</item>
+    <item>šveitsisaksa</item>
     <!-- gu - Gujarati -->
     <item>gudžarati</item>
     <!-- guz - Gusii -->
@@ -460,6 +462,8 @@
     <item>kannada</item>
     <!-- ko - Korean -->
     <item>korea</item>
+    <!-- koi - Komi-Permyak -->
+    <item>permikomi</item>
     <!-- kok - Konkani -->
     <item>konkani</item>
     <!-- kos - Kosraean -->
@@ -512,6 +516,8 @@
     <item>ganda</item>
     <!-- li - Limburgish -->
     <item>limburgi</item>
+    <!-- lkt - Lakota -->
+    <item>lakota</item>
     <!-- ln - Lingala -->
     <item>lingala</item>
     <!-- lo - Lao -->
@@ -563,15 +569,15 @@
     <!-- mer - Meru -->
     <item>meru</item>
     <!-- mfe - Morisyen -->
-    <item>Mauritaania kreooli</item>
+    <item>Mauritiuse kreoolkeel</item>
     <!-- mg - Malagasy -->
     <item>malagassi</item>
     <!-- mga - Middle Irish -->
     <item>keskiiri</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>makhuwa-meetto</item>
-    <!-- mgo - Meta' -->
-    <item>meta'</item>
+    <!-- mgo - Metaʼ -->
+    <item>meta’</item>
     <!-- mh - Marshallese -->
     <item>maršalli</item>
     <!-- mi - Maori -->
@@ -654,7 +660,7 @@
     <item>nogai</item>
     <!-- non - Old Norse -->
     <item>vanapõhjala</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>nkoo</item>
     <!-- nr - South Ndebele -->
     <item>lõunandebele</item>
@@ -681,7 +687,7 @@
     <!-- oj - Ojibwa -->
     <item>odžibvei</item>
     <!-- om - Oromo -->
-    <item>oromo keel</item>
+    <item>oromo</item>
     <!-- or - Oriya -->
     <item>oria</item>
     <!-- os - Ossetic -->
@@ -722,6 +728,8 @@
     <item>portugali (Euroopa)</item>
     <!-- qu - Quechua -->
     <item>ketšua</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>k’iche’</item>
     <!-- raj - Rajasthani -->
     <item>radžastani</item>
     <!-- rap - Rapanui -->
@@ -997,9 +1005,9 @@
     <!-- zh - Chinese -->
     <item>hiina</item>
     <!-- zh_Hans - Simplified Chinese -->
-    <item>hiina keel - lihtsustatud</item>
+    <item>hiina (lihtsustatud)</item>
     <!-- zh_Hant - Traditional Chinese -->
-    <item>hiina keel - traditsiooniline</item>
+    <item>hiina (traditsiooniline)</item>
     <!-- zu - Zulu -->
     <item>suulu</item>
     <!-- zun - Zuni -->

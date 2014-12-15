@@ -167,7 +167,7 @@
     <!-- ckb - Sorani Kurdish -->
     <item>Tiếng Kurd Sorani</item>
     <!-- co - Corsican -->
-    <item>Tiếng Corse</item>
+    <item>Tiếng Corsica</item>
     <!-- cop - Coptic -->
     <item>Tiếng Coptic</item>
     <!-- cr - Cree -->
@@ -252,8 +252,6 @@
     <item>Tiếng Tây Ban Nha</item>
     <!-- es_419 - Latin American Spanish -->
     <item>Tiếng Tây Ban Nha (Mỹ La tinh)</item>
-    <!-- es_ES - European Spanish -->
-    <item>Tiếng Tây Ban Nha (I-bê-ri)</item>
     <!-- et - Estonian -->
     <item>Tiếng Estonia</item>
     <!-- eu - Basque -->
@@ -296,6 +294,8 @@
     <item>Tiếng Ai-len</item>
     <!-- gaa - Ga -->
     <item>Tiếng Ga</item>
+    <!-- gag - Gagauz -->
+    <item>Tiếng Gagauz</item>
     <!-- gay - Gayo -->
     <item>Tiếng Gayo</item>
     <!-- gba - Gbaya -->
@@ -435,7 +435,7 @@
     <!-- kfo - Koro -->
     <item>Tiếng Koro</item>
     <!-- kg - Kongo -->
-    <item>Tiếng Congo</item>
+    <item>Tiếng Kongo</item>
     <!-- kha - Khasi -->
     <item>Tiếng Khasi</item>
     <!-- kho - Khotanese -->
@@ -455,13 +455,15 @@
     <!-- kln - Kalenjin -->
     <item>Tiếng Kalenjin</item>
     <!-- km - Khmer -->
-    <item>Tiếng Campuchia</item>
+    <item>Tiếng Khơ-me</item>
     <!-- kmb - Kimbundu -->
     <item>Tiếng Kimbundu</item>
     <!-- kn - Kannada -->
     <item>Tiếng Kannada</item>
     <!-- ko - Korean -->
-    <item>Tiếng Hàn Quốc</item>
+    <item>Tiếng Hàn</item>
+    <!-- koi - Komi-Permyak -->
+    <item>Tiếng Komi-Permyak</item>
     <!-- kok - Konkani -->
     <item>Tiếng Konkani</item>
     <!-- kos - Kosraean -->
@@ -493,7 +495,7 @@
     <!-- kv - Komi -->
     <item>Tiếng Komi</item>
     <!-- kw - Cornish -->
-    <item>Tiếng Cornish</item>
+    <item>Tiếng Cornwall</item>
     <!-- ky - Kyrgyz -->
     <item>Tiếng Kyrgyz</item>
     <!-- la - Latin -->
@@ -514,6 +516,8 @@
     <item>Tiếng Ganda</item>
     <!-- li - Limburgish -->
     <item>Tiếng Limburg</item>
+    <!-- lkt - Lakota -->
+    <item>Tiếng Lakota</item>
     <!-- ln - Lingala -->
     <item>Tiếng Lingala</item>
     <!-- lo - Lao -->
@@ -572,8 +576,8 @@
     <item>Tiếng Ai-len Trung cổ</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>Tiếng Makhuwa-Meetto</item>
-    <!-- mgo - Meta' -->
-    <item>Tiếng Meta'</item>
+    <!-- mgo - Metaʼ -->
+    <item>Tiếng Meta’</item>
     <!-- mh - Marshallese -->
     <item>Tiếng Marshall</item>
     <!-- mi - Maori -->
@@ -627,7 +631,7 @@
     <!-- nb - Norwegian Bokmål -->
     <item>Tiếng Na Uy (Bokmål)</item>
     <!-- nd - North Ndebele -->
-    <item>Bắc Ndebele</item>
+    <item>Tiếng Ndebele Miền Bắc</item>
     <!-- nds - Low German -->
     <item>Tiếng Hạ Giéc-man</item>
     <!-- ne - Nepali -->
@@ -656,8 +660,8 @@
     <item>Tiếng Nogai</item>
     <!-- non - Old Norse -->
     <item>Tiếng Na Uy cổ</item>
-    <!-- nqo - N’Ko -->
-    <item>Tiếng N'Ko</item>
+    <!-- nqo - NʼKo -->
+    <item>Tiếng N’Ko</item>
     <!-- nr - South Ndebele -->
     <item>Tiếng Ndebele Miền Nam</item>
     <!-- nso - Northern Sotho -->
@@ -685,7 +689,7 @@
     <!-- om - Oromo -->
     <item>Tiếng Oromo</item>
     <!-- or - Oriya -->
-    <item>Tiếng Ô-ri-a</item>
+    <item>Tiếng Oriya</item>
     <!-- os - Ossetic -->
     <item>Tiếng Ossetic</item>
     <!-- osa - Osage -->
@@ -722,10 +726,10 @@
     <item>Tiếng Bồ Đào Nha</item>
     <!-- pt_BR - Brazilian Portuguese -->
     <item>Tiếng Bồ Đào Nha (Braxin)</item>
-    <!-- pt_PT - European Portuguese -->
-    <item>Tiếng Bồ Đào Nha (I-bê-ri)</item>
     <!-- qu - Quechua -->
     <item>Tiếng Quechua</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>Tiếng Kʼicheʼ</item>
     <!-- raj - Rajasthani -->
     <item>Tiếng Rajasthani</item>
     <!-- rap - Rapanui -->
@@ -737,13 +741,13 @@
     <!-- rn - Rundi -->
     <item>Tiếng Rundi</item>
     <!-- ro - Romanian -->
-    <item>Tiếng Romania</item>
+    <item>Tiếng Rumani</item>
     <!-- ro_MD - Moldavian -->
     <item>Tiếng Moldova</item>
     <!-- rof - Rombo -->
     <item>Tiếng Rombo</item>
     <!-- rom - Romany -->
-    <item>Tiếng Rumani</item>
+    <item>Tiếng Romany</item>
     <!-- root - Root -->
     <item>Tiếng Root</item>
     <!-- ru - Russian -->
@@ -781,7 +785,7 @@
     <!-- sd - Sindhi -->
     <item>Tiếng Sindhi</item>
     <!-- se - Northern Sami -->
-    <item>Bắc Sami</item>
+    <item>Tiếng Sami Miền Bắc</item>
     <!-- see - Seneca -->
     <item>Tiếng Seneca</item>
     <!-- seh - Sena -->
@@ -857,7 +861,7 @@
     <!-- swb - Comorian -->
     <item>Tiếng Cômo</item>
     <!-- swc - Congo Swahili -->
-    <item>Tiếng Swahili Công-gô</item>
+    <item>Tiếng Swahili Congo</item>
     <!-- syc - Classical Syriac -->
     <item>Tiếng Syria Cổ điển</item>
     <!-- syr - Syriac -->
@@ -931,7 +935,7 @@
     <!-- udm - Udmurt -->
     <item>Tiếng Udmurt</item>
     <!-- ug - Uyghur -->
-    <item>Tiếng Duy Ngô Nhĩ</item>
+    <item>Tiếng Uyghur</item>
     <!-- uga - Ugaritic -->
     <item>Tiếng Ugaritic</item>
     <!-- uk - Ukrainian -->
@@ -1000,10 +1004,6 @@
     <item>Tiếng Tamazight Chuẩn của Ma-rốc</item>
     <!-- zh - Chinese -->
     <item>Tiếng Trung</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>Tiếng Trung (Giản thể)</item>
-    <!-- zh_Hant - Traditional Chinese -->
-    <item>Tiếng Trung (Phồn thể)</item>
     <!-- zu - Zulu -->
     <item>Tiếng Zulu</item>
     <!-- zun - Zuni -->

@@ -86,6 +86,8 @@
     <item>ბულგარული</item>
     <!-- bho - Bhojpuri -->
     <item>ბოჯპური</item>
+    <!-- bm - Bambara -->
+    <item>ბამბარა</item>
     <!-- bn - Bengali -->
     <item>ბენგალური</item>
     <!-- bo - Tibetan -->
@@ -108,6 +110,8 @@
     <item>კაიუგა</item>
     <!-- ce - Chechen -->
     <item>ჩეჩნური</item>
+    <!-- cgg - Chiga -->
+    <item>ჩიგა</item>
     <!-- chb - Chibcha -->
     <item>ჩიბჩა</item>
     <!-- chm - Mari -->
@@ -168,6 +172,8 @@
     <item>ზარმა</item>
     <!-- doi - Dogri -->
     <item>დოგრი</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>ქვემოსორბული</item>
     <!-- dua - Duala -->
     <item>დუალა</item>
     <!-- dum - Middle Dutch -->
@@ -179,7 +185,7 @@
     <!-- dyu - Dyula -->
     <item>დიულა</item>
     <!-- dz - Dzongkha -->
-    <item>ძონგხა</item>
+    <item>ძონგკხა</item>
     <!-- ebu - Embu -->
     <item>ემბუ</item>
     <!-- ee - Ewe -->
@@ -250,6 +256,8 @@
     <item>დასავლეთფრიზიული</item>
     <!-- ga - Irish -->
     <item>ირლანდიური</item>
+    <!-- gag - Gagauz -->
+    <item>გაგაუზური</item>
     <!-- gba - Gbaya -->
     <item>გბაია</item>
     <!-- gd - Scottish Gaelic -->
@@ -274,6 +282,8 @@
     <item>შვეიცარიული გერმანული</item>
     <!-- gu - Gujarati -->
     <item>გუჯარათი</item>
+    <!-- guz - Gusii -->
+    <item>გუსიი</item>
     <!-- gv - Manx -->
     <item>მენური</item>
     <!-- ha - Hausa -->
@@ -288,6 +298,8 @@
     <item>ხეთური ენა</item>
     <!-- hr - Croatian -->
     <item>ხორვატული</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>ზემოსორბული</item>
     <!-- ht - Haitian -->
     <item>ჰაიტიური</item>
     <!-- hu - Hungarian -->
@@ -306,6 +318,8 @@
     <item>ინტერლინგი</item>
     <!-- ig - Igbo -->
     <item>იგბო</item>
+    <!-- ii - Sichuan Yi -->
+    <item>სიჩუანის ი</item>
     <!-- inh - Ingush -->
     <item>ინგუშური</item>
     <!-- io - Ido -->
@@ -320,6 +334,10 @@
     <item>იაპონური</item>
     <!-- jbo - Lojban -->
     <item>ლოჟბანი</item>
+    <!-- jgo - Ngomba -->
+    <item>ნგომბა</item>
+    <!-- jmc - Machame -->
+    <item>კიმაშამი</item>
     <!-- jpr - Judeo-Persian -->
     <item>იუდეო-სპარსული</item>
     <!-- jrb - Judeo-Arabic -->
@@ -330,20 +348,28 @@
     <item>ქართული</item>
     <!-- kaa - Kara-Kalpak -->
     <item>ყარაყალფახური</item>
+    <!-- kab - Kabyle -->
+    <item>კაბილური</item>
     <!-- kac - Kachin -->
     <item>კაჩინი</item>
     <!-- kam - Kamba -->
     <item>კამბა</item>
     <!-- kbd - Kabardian -->
     <item>ყაბარდოული</item>
+    <!-- kde - Makonde -->
+    <item>მაკონდე</item>
     <!-- kea - Kabuverdianu -->
     <item>კაბუვერდიანუ</item>
     <!-- kg - Kongo -->
     <item>კონგო</item>
+    <!-- khq - Koyra Chiini -->
+    <item>კოირა-ჩიინი</item>
+    <!-- ki - Kikuyu -->
+    <item>კიკუიუ</item>
     <!-- kk - Kazakh -->
     <item>ყაზახური</item>
     <!-- kl - Kalaallisut -->
-    <item>გრენლანდიური</item>
+    <item>დასავლეთ გრენლანდიური</item>
     <!-- kln - Kalenjin -->
     <item>კალენჯინი</item>
     <!-- km - Khmer -->
@@ -354,6 +380,8 @@
     <item>კანადა</item>
     <!-- ko - Korean -->
     <item>კორეული</item>
+    <!-- koi - Komi-Permyak -->
+    <item>კომი-პერმიაკული</item>
     <!-- kok - Konkani -->
     <item>კონკანი</item>
     <!-- kos - Kosraean -->
@@ -404,6 +432,8 @@
     <item>განდა</item>
     <!-- li - Limburgish -->
     <item>ლიმბურგული</item>
+    <!-- lkt - Lakota -->
+    <item>ლაკოტა</item>
     <!-- ln - Lingala -->
     <item>ლინგალა</item>
     <!-- lo - Lao -->
@@ -436,6 +466,8 @@
     <item>მაგაჰი</item>
     <!-- mai - Maithili -->
     <item>მაითილი</item>
+    <!-- mas - Masai -->
+    <item>მასაი</item>
     <!-- mde - Maba -->
     <item>მაბა</item>
     <!-- mdf - Moksha -->
@@ -444,12 +476,16 @@
     <item>მენდე</item>
     <!-- mer - Meru -->
     <item>მერუ</item>
+    <!-- mfe - Morisyen -->
+    <item>მორისიენი</item>
     <!-- mg - Malagasy -->
     <item>მალაგასიური</item>
     <!-- mga - Middle Irish -->
     <item>საშუალო ირლანდიური</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>მაქუვა-მეეტო</item>
+    <!-- mgo - Metaʼ -->
+    <item>მეტა’ ენა</item>
     <!-- mi - Maori -->
     <item>მაორი</item>
     <!-- mic - Micmac -->
@@ -467,7 +503,7 @@
     <!-- mni - Manipuri -->
     <item>მანიპური</item>
     <!-- moh - Mohawk -->
-    <item>მოჰავკი</item>
+    <item>მოჰაუკური</item>
     <!-- mos - Mossi -->
     <item>მოორე</item>
     <!-- mr - Marathi -->
@@ -498,6 +534,8 @@
     <item>ნამა</item>
     <!-- nb - Norwegian Bokmål -->
     <item>ნორვეგიული ბუკმოლი</item>
+    <!-- nd - North Ndebele -->
+    <item>ჩრდილოეთ ნდებელე</item>
     <!-- nds - Low German -->
     <item>ქვემოგერმანული</item>
     <!-- ne - Nepali -->
@@ -508,6 +546,8 @@
     <item>ნიდერლანდური</item>
     <!-- nl_BE - Flemish -->
     <item>ფლამანდიური</item>
+    <!-- nmg - Kwasio -->
+    <item>კვასიო</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>ნორვეგიული ნიუნორსკი</item>
     <!-- no - Norwegian -->
@@ -516,8 +556,10 @@
     <item>ნოღაური</item>
     <!-- non - Old Norse -->
     <item>ძველსკანდინავიური</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>ნკო</item>
+    <!-- nus - Nuer -->
+    <item>ნუერი</item>
     <!-- nv - Navajo -->
     <item>ნავახო</item>
     <!-- nwc - Classical Newari -->
@@ -536,6 +578,8 @@
     <item>ოქსიტანური</item>
     <!-- oj - Ojibwa -->
     <item>ოჯიბვე</item>
+    <!-- om - Oromo -->
+    <item>ორომო</item>
     <!-- or - Oriya -->
     <item>ორია</item>
     <!-- os - Ossetic -->
@@ -564,6 +608,8 @@
     <item>ევროპული პორტუგალიური</item>
     <!-- qu - Quechua -->
     <item>კეჩუა</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>კიჩე</item>
     <!-- raj - Rajasthani -->
     <item>რაჯასთანი</item>
     <!-- rap - Rapanui -->
@@ -578,26 +624,44 @@
     <item>რუმინული</item>
     <!-- ro_MD - Moldavian -->
     <item>მოლდავური</item>
+    <!-- rof - Rombo -->
+    <item>რომბო</item>
     <!-- rom - Romany -->
     <item>ბოშური</item>
     <!-- ru - Russian -->
     <item>რუსული</item>
+    <!-- rw - Kinyarwanda -->
+    <item>კინიარუანდა</item>
+    <!-- rwk - Rwa -->
+    <item>რუა</item>
     <!-- sa - Sanskrit -->
     <item>სანსკრიტი</item>
     <!-- sah - Sakha -->
     <item>იაკუტური</item>
     <!-- sam - Samaritan Aramaic -->
     <item>სამარიულ-არამეული</item>
+    <!-- saq - Samburu -->
+    <item>სამბურუ</item>
+    <!-- sbp - Sangu -->
+    <item>სანგუ</item>
     <!-- sc - Sardinian -->
     <item>სარდინიული</item>
     <!-- scn - Sicilian -->
     <item>სიცილიური</item>
     <!-- sd - Sindhi -->
     <item>სინდჰური</item>
+    <!-- se - Northern Sami -->
+    <item>ჩრდილოეთ საამური</item>
     <!-- see - Seneca -->
     <item>სენეკა</item>
+    <!-- seh - Sena -->
+    <item>სენა</item>
     <!-- sel - Selkup -->
     <item>სელკუპური</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>კოირაბორო-სენი</item>
+    <!-- sg - Sango -->
+    <item>სანგო</item>
     <!-- sga - Old Irish -->
     <item>ძველი ირლანდიური</item>
     <!-- sh - Serbo-Croatian -->
@@ -616,6 +680,16 @@
     <item>სლოვენური</item>
     <!-- sm - Samoan -->
     <item>სამოა</item>
+    <!-- sma - Southern Sami -->
+    <item>სამხრეთ საამური</item>
+    <!-- smj - Lule Sami -->
+    <item>ლულე-საამური</item>
+    <!-- smn - Inari Sami -->
+    <item>ინარი-საამური</item>
+    <!-- sms - Skolt Sami -->
+    <item>სკოლტ-საამური</item>
+    <!-- sn - Shona -->
+    <item>შონა</item>
     <!-- so - Somali -->
     <item>სომალიური</item>
     <!-- sq - Albanian -->
@@ -634,6 +708,8 @@
     <item>სუაჰილი</item>
     <!-- swb - Comorian -->
     <item>კომორული</item>
+    <!-- swc - Congo Swahili -->
+    <item>კონგოს სუაჰილი</item>
     <!-- syc - Classical Syriac -->
     <item>კლასიკური სირიული</item>
     <!-- syr - Syriac -->
@@ -642,6 +718,8 @@
     <item>ტამილური</item>
     <!-- te - Telugu -->
     <item>ტელუგუ</item>
+    <!-- teo - Teso -->
+    <item>ტესო</item>
     <!-- tg - Tajik -->
     <item>ტაჯიკური</item>
     <!-- th - Thai -->
@@ -664,8 +742,12 @@
     <item>თათრული</item>
     <!-- tw - Twi -->
     <item>თუი</item>
+    <!-- twq - Tasawaq -->
+    <item>ტასავაქი</item>
     <!-- tyv - Tuvinian -->
     <item>ტუვა</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>ცენტრალური მოროკოს ტამაზიგხტი</item>
     <!-- udm - Udmurt -->
     <item>უდმურტული</item>
     <!-- ug - Uyghur -->
@@ -684,6 +766,8 @@
     <item>ვაი</item>
     <!-- vi - Vietnamese -->
     <item>ვიეტნამური</item>
+    <!-- vun - Vunjo -->
+    <item>ვუნჯო</item>
     <!-- wal - Wolaytta -->
     <item>ველაითა</item>
     <!-- wo - Wolof -->
@@ -692,6 +776,8 @@
     <item>ყალმუხური</item>
     <!-- xh - Xhosa -->
     <item>ქჰოსა</item>
+    <!-- xog - Soga -->
+    <item>სოგა</item>
     <!-- yi - Yiddish -->
     <item>იდიში</item>
     <!-- yo - Yoruba -->

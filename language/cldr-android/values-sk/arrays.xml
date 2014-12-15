@@ -5,7 +5,7 @@
     <!-- aa - Afar -->
     <item>afarčina</item>
     <!-- ab - Abkhazian -->
-    <item>abcházština</item>
+    <item>abcházčina</item>
     <!-- ace - Achinese -->
     <item>acehčina</item>
     <!-- ach - Acoli -->
@@ -43,7 +43,7 @@
     <!-- ar - Arabic -->
     <item>arabčina</item>
     <!-- ar_001 - Modern Standard Arabic -->
-    <item>moderná štandardná arabčina</item>
+    <item>arabčina (moderná štandardná)</item>
     <!-- arc - Aramaic -->
     <item>aramejčina</item>
     <!-- arn - Mapuche -->
@@ -53,7 +53,7 @@
     <!-- arw - Arawak -->
     <item>arawačtina</item>
     <!-- as - Assamese -->
-    <item>ásámčina</item>
+    <item>ásamčina</item>
     <!-- asa - Asu -->
     <item>asu</item>
     <!-- ast - Asturian -->
@@ -67,7 +67,7 @@
     <!-- az - Azerbaijani -->
     <item>azerbajdžančina</item>
     <!-- ba - Bashkir -->
-    <item>baskirčina</item>
+    <item>baškirčina</item>
     <!-- bal - Baluchi -->
     <item>balúčtina</item>
     <!-- ban - Balinese -->
@@ -143,7 +143,7 @@
     <!-- ceb - Cebuano -->
     <item>cebuánčina</item>
     <!-- cgg - Chiga -->
-    <item>čiga</item>
+    <item>kiga</item>
     <!-- ch - Chamorro -->
     <item>čamorčina</item>
     <!-- chb - Chibcha -->
@@ -195,9 +195,9 @@
     <!-- de - German -->
     <item>nemčina</item>
     <!-- de_AT - Austrian German -->
-    <item>rakúska nemčina</item>
+    <item>nemčina (rakúska)</item>
     <!-- de_CH - Swiss High German -->
-    <item>švajčiarska spisovná nemčina</item>
+    <item>nemčina (švajčiarska spisovná)</item>
     <!-- del - Delaware -->
     <item>delawarčina</item>
     <!-- den - Slave -->
@@ -229,7 +229,7 @@
     <!-- ebu - Embu -->
     <item>embu</item>
     <!-- ee - Ewe -->
-    <item>eweština</item>
+    <item>ewe</item>
     <!-- efi - Efik -->
     <item>efik</item>
     <!-- egy - Ancient Egyptian -->
@@ -243,13 +243,13 @@
     <!-- en - English -->
     <item>angličtina</item>
     <!-- en_AU - Australian English -->
-    <item>austrálska angličtina</item>
+    <item>angličtina (austrálska)</item>
     <!-- en_CA - Canadian English -->
-    <item>kanadská angličtina</item>
+    <item>angličtina (kanadská)</item>
     <!-- en_GB - British English -->
-    <item>britská angličtina</item>
+    <item>angličtina (britská)</item>
     <!-- en_US - American English -->
-    <item>americká angličtina</item>
+    <item>angličtina (americká)</item>
     <!-- enm - Middle English -->
     <item>stredná angličtina</item>
     <!-- eo - Esperanto -->
@@ -257,11 +257,11 @@
     <!-- es - Spanish -->
     <item>španielčina</item>
     <!-- es_419 - Latin American Spanish -->
-    <item>latinskoamerická španielčina</item>
+    <item>španielčina (latinskoamerická)</item>
     <!-- es_ES - European Spanish -->
-    <item>iberská španielčina</item>
+    <item>španielčina (európska)</item>
     <!-- es_MX - Mexican Spanish -->
-    <item>mexická španielčina</item>
+    <item>španielčina (mexická)</item>
     <!-- et - Estonian -->
     <item>estónčina</item>
     <!-- eu - Basque -->
@@ -289,9 +289,9 @@
     <!-- fr - French -->
     <item>francúzština</item>
     <!-- fr_CA - Canadian French -->
-    <item>kanadská francúzština</item>
+    <item>francúzština (kanadská)</item>
     <!-- fr_CH - Swiss French -->
-    <item>švajčiarska francúzština</item>
+    <item>francúzština (švajčiarska)</item>
     <!-- frm - Middle French -->
     <item>stredná francúzština</item>
     <!-- fro - Old French -->
@@ -308,6 +308,8 @@
     <item>írčina</item>
     <!-- gaa - Ga -->
     <item>ga</item>
+    <!-- gag - Gagauz -->
+    <item>gagauzština</item>
     <!-- gay - Gayo -->
     <item>gayo</item>
     <!-- gba - Gbaya -->
@@ -337,7 +339,7 @@
     <!-- grc - Ancient Greek -->
     <item>starogréčtina</item>
     <!-- gsw - Swiss German -->
-    <item>švajčiarska nemčina</item>
+    <item>nemčina (švajčiarska)</item>
     <!-- gu - Gujarati -->
     <item>gudžarátčina</item>
     <!-- guz - Gusii -->
@@ -413,7 +415,7 @@
     <!-- jgo - Ngomba -->
     <item>ngomba</item>
     <!-- jmc - Machame -->
-    <item>machame</item>
+    <item>mašame</item>
     <!-- jpr - Judeo-Persian -->
     <item>židovská perzština</item>
     <!-- jrb - Judeo-Arabic -->
@@ -455,7 +457,7 @@
     <!-- khq - Koyra Chiini -->
     <item>západná songhajčina</item>
     <!-- ki - Kikuyu -->
-    <item>kikuju</item>
+    <item>kikujčina</item>
     <!-- kj - Kuanyama -->
     <item>kuaňama</item>
     <!-- kk - Kazakh -->
@@ -463,19 +465,21 @@
     <!-- kkj - Kako -->
     <item>kako</item>
     <!-- kl - Kalaallisut -->
-    <item>grónska eskimáčtina</item>
+    <item>grónčina</item>
     <!-- kln - Kalenjin -->
-    <item>kalenjin</item>
+    <item>kalendžin</item>
     <!-- km - Khmer -->
-    <item>kambodžská khmérčina</item>
+    <item>khmérčina</item>
     <!-- kmb - Kimbundu -->
     <item>kimbundu</item>
     <!-- kn - Kannada -->
     <item>kannadčina</item>
     <!-- ko - Korean -->
     <item>kórejčina</item>
+    <!-- koi - Komi-Permyak -->
+    <item>komi-permiačtina</item>
     <!-- kok - Konkani -->
-    <item>kónkánčina</item>
+    <item>konkánčina</item>
     <!-- kos - Kosraean -->
     <item>kusaie</item>
     <!-- kpe - Kpelle -->
@@ -526,6 +530,8 @@
     <item>gandčina</item>
     <!-- li - Limburgish -->
     <item>limburčina</item>
+    <!-- lkt - Lakota -->
+    <item>lakotčina</item>
     <!-- ln - Lingala -->
     <item>lingalčina</item>
     <!-- lo - Lao -->
@@ -549,7 +555,7 @@
     <!-- lus - Mizo -->
     <item>mizorámčina</item>
     <!-- luy - Luyia -->
-    <item>luyia</item>
+    <item>luhja</item>
     <!-- lv - Latvian -->
     <item>lotyština</item>
     <!-- mad - Madurese -->
@@ -583,8 +589,8 @@
     <!-- mga - Middle Irish -->
     <item>stredná írčina</item>
     <!-- mgh - Makhuwa-Meetto -->
-    <item>makhuwa-meetto</item>
-    <!-- mgo - Meta' -->
+    <item>makua-meetto</item>
+    <!-- mgo - Metaʼ -->
     <item>meta’</item>
     <!-- mh - Marshallese -->
     <item>kajin-majol</item>
@@ -605,7 +611,7 @@
     <!-- mni - Manipuri -->
     <item>manípurčina</item>
     <!-- moh - Mohawk -->
-    <item>mohawk</item>
+    <item>mohawkčina</item>
     <!-- mos - Mossi -->
     <item>mossi</item>
     <!-- mr - Marathi -->
@@ -639,7 +645,7 @@
     <!-- nb - Norwegian Bokmål -->
     <item>nórsky bokmål</item>
     <!-- nd - North Ndebele -->
-    <item>severné ndbele</item>
+    <item>severné ndebele</item>
     <!-- nds - Low German -->
     <item>dolná nemčina</item>
     <!-- ne - Nepali -->
@@ -668,7 +674,7 @@
     <item>nogajčina</item>
     <!-- non - Old Norse -->
     <item>stará nórčina</item>
-    <!-- nqo - N’Ko -->
+    <!-- nqo - NʼKo -->
     <item>n’ko</item>
     <!-- nr - South Ndebele -->
     <item>južná ndebelčina</item>
@@ -729,15 +735,17 @@
     <!-- pro - Old Provençal -->
     <item>stará okcitánčina</item>
     <!-- ps - Pashto -->
-    <item>paštúnčina</item>
+    <item>paštčina</item>
     <!-- pt - Portuguese -->
     <item>portugalčina</item>
     <!-- pt_BR - Brazilian Portuguese -->
-    <item>brazílska portugalčina</item>
+    <item>portugalčina (brazílska)</item>
     <!-- pt_PT - European Portuguese -->
-    <item>iberská portugalčina</item>
+    <item>portugalčina (európska)</item>
     <!-- qu - Quechua -->
     <item>kečuánčina</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>kʼicheʼ</item>
     <!-- raj - Rajasthani -->
     <item>radžastančina</item>
     <!-- rap - Rapanui -->
@@ -747,7 +755,7 @@
     <!-- rm - Romansh -->
     <item>rétorománčina</item>
     <!-- rn - Rundi -->
-    <item>rundčina</item>
+    <item>kirundčina</item>
     <!-- ro - Romanian -->
     <item>rumunčina</item>
     <!-- ro_MD - Moldavian -->
@@ -763,7 +771,7 @@
     <!-- rup - Aromanian -->
     <item>arumunčina</item>
     <!-- rw - Kinyarwanda -->
-    <item>rwandčina</item>
+    <item>kiňarwanda</item>
     <!-- rwk - Rwa -->
     <item>rwa</item>
     <!-- sa - Sanskrit -->
@@ -793,7 +801,7 @@
     <!-- sd - Sindhi -->
     <item>sindhčina</item>
     <!-- se - Northern Sami -->
-    <item>severná saamčina</item>
+    <item>severné sami</item>
     <!-- see - Seneca -->
     <item>seneca</item>
     <!-- seh - Sena -->
@@ -825,13 +833,13 @@
     <!-- sm - Samoan -->
     <item>samojčina</item>
     <!-- sma - Southern Sami -->
-    <item>južná saamčina</item>
+    <item>južné sami</item>
     <!-- smj - Lule Sami -->
-    <item>luleská saamčina</item>
+    <item>sami (lule)</item>
     <!-- smn - Inari Sami -->
-    <item>inariská saamčina</item>
+    <item>sami (inari)</item>
     <!-- sms - Skolt Sami -->
-    <item>skolt</item>
+    <item>sami (skolt)</item>
     <!-- sn - Shona -->
     <item>šončina</item>
     <!-- snk - Soninke -->
@@ -865,11 +873,11 @@
     <!-- sv - Swedish -->
     <item>švédčina</item>
     <!-- sw - Swahili -->
-    <item>swahilčina</item>
+    <item>svahilčina</item>
     <!-- swb - Comorian -->
     <item>komorčina</item>
     <!-- swc - Congo Swahili -->
-    <item>konžská svahilčina</item>
+    <item>svahilčina (konžská)</item>
     <!-- syc - Classical Syriac -->
     <item>klasická sýrčina</item>
     <!-- syr - Syriac -->
@@ -933,13 +941,13 @@
     <!-- tw - Twi -->
     <item>twi</item>
     <!-- twq - Tasawaq -->
-    <item>tasawak</item>
+    <item>tasawaq</item>
     <!-- ty - Tahitian -->
     <item>tahitčina</item>
     <!-- tyv - Tuvinian -->
     <item>tuviančina</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>stredomarocká berberčina</item>
+    <item>tamašek (stredomarocký)</item>
     <!-- udm - Udmurt -->
     <item>udmurtčina</item>
     <!-- ug - Uyghur -->
@@ -1009,13 +1017,13 @@
     <!-- zen - Zenaga -->
     <item>zenaga</item>
     <!-- zgh - Standard Moroccan Tamazight -->
-    <item>štandardný marocký tamazight</item>
+    <item>tamašek (štandardný marocký)</item>
     <!-- zh - Chinese -->
     <item>čínština</item>
     <!-- zh_Hans - Simplified Chinese -->
-    <item>zjednodušená čínština</item>
+    <item>čínština (zjednodušená)</item>
     <!-- zh_Hant - Traditional Chinese -->
-    <item>tradičná čínština</item>
+    <item>čínština (tradičná)</item>
     <!-- zu - Zulu -->
     <item>zuluština</item>
     <!-- zun - Zuni -->

@@ -16,6 +16,8 @@
     <item>アディゲ語</item>
     <!-- ae - Avestan -->
     <item>アヴェスタ語</item>
+    <!-- aeb - Tunisian Arabic -->
+    <item>チュニジア・アラビア語</item>
     <!-- af - Afrikaans -->
     <item>アフリカーンス語</item>
     <!-- afh - Afrihili -->
@@ -28,8 +30,12 @@
     <item>アカン語</item>
     <!-- akk - Akkadian -->
     <item>アッカド語</item>
+    <!-- akz - Alabama -->
+    <item>アラバマ語</item>
     <!-- ale - Aleut -->
     <item>アレウト語</item>
+    <!-- aln - Gheg Albanian -->
+    <item>ゲグ・アルバニア語</item>
     <!-- alt - Southern Altai -->
     <item>南アルタイ語</item>
     <!-- am - Amharic -->
@@ -42,38 +48,58 @@
     <item>アンギカ語</item>
     <!-- ar - Arabic -->
     <item>アラビア語</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>現代標準アラビア語</item>
     <!-- arc - Aramaic -->
     <item>アラム語</item>
     <!-- arn - Mapuche -->
     <item>アラウカン語</item>
+    <!-- aro - Araona -->
+    <item>アラオナ語</item>
     <!-- arp - Arapaho -->
     <item>アラパホー語</item>
+    <!-- arq - Algerian Arabic -->
+    <item>アルジェリア・アラビア語</item>
     <!-- arw - Arawak -->
     <item>アラワク語</item>
+    <!-- ary - Moroccan Arabic -->
+    <item>モロッコ・アラビア語</item>
+    <!-- arz - Egyptian Arabic -->
+    <item>エジプト・アラビア語</item>
     <!-- as - Assamese -->
     <item>アッサム語</item>
     <!-- asa - Asu -->
     <item>アス語</item>
+    <!-- ase - American Sign Language -->
+    <item>アメリカ手話</item>
     <!-- ast - Asturian -->
     <item>アストゥリアス語</item>
     <!-- av - Avaric -->
     <item>アヴァル語</item>
+    <!-- avk - Kotava -->
+    <item>コタヴァ</item>
     <!-- awa - Awadhi -->
     <item>アワディー語</item>
     <!-- ay - Aymara -->
     <item>アイマラ語</item>
     <!-- az - Azerbaijani -->
     <item>アゼルバイジャン語</item>
+    <!-- azb - South Azerbaijani -->
+    <item>南アゼルバイジャン語</item>
     <!-- ba - Bashkir -->
     <item>バシキール語</item>
     <!-- bal - Baluchi -->
     <item>バルーチー語</item>
     <!-- ban - Balinese -->
     <item>バリ語</item>
+    <!-- bar - Bavarian -->
+    <item>バイエルン・オーストリア語</item>
     <!-- bas - Basaa -->
     <item>バサ語</item>
     <!-- bax - Bamun -->
     <item>バムン語</item>
+    <!-- bbc - Batak Toba -->
+    <item>トバ・バタク語</item>
     <!-- bbj - Ghomala -->
     <item>ゴーマラ語</item>
     <!-- be - Belarusian -->
@@ -82,10 +108,14 @@
     <item>ベジャ語</item>
     <!-- bem - Bemba -->
     <item>ベンバ語</item>
+    <!-- bew - Betawi -->
+    <item>ベタウィ語</item>
     <!-- bez - Bena -->
     <item>ベナ語</item>
     <!-- bfd - Bafut -->
     <item>バフット語</item>
+    <!-- bfq - Badaga -->
+    <item>バダガ語</item>
     <!-- bg - Bulgarian -->
     <item>ブルガリア語</item>
     <!-- bho - Bhojpuri -->
@@ -96,6 +126,8 @@
     <item>ビコル語</item>
     <!-- bin - Bini -->
     <item>ビニ語</item>
+    <!-- bjn - Banjar -->
+    <item>バンジャル語</item>
     <!-- bkm - Kom -->
     <item>コム語</item>
     <!-- bla - Siksika -->
@@ -106,10 +138,16 @@
     <item>ベンガル語</item>
     <!-- bo - Tibetan -->
     <item>チベット語</item>
+    <!-- bpy - Bishnupriya -->
+    <item>ビシュヌプリヤ・マニプリ語</item>
+    <!-- bqi - Bakhtiari -->
+    <item>バフティヤーリー語</item>
     <!-- br - Breton -->
     <item>ブルトン語</item>
     <!-- bra - Braj -->
     <item>ブラジ語</item>
+    <!-- brh - Brahui -->
+    <item>ブラフイ語</item>
     <!-- brx - Bodo -->
     <item>ボド語</item>
     <!-- bs - Bosnian -->
@@ -168,6 +206,8 @@
     <item>コルシカ語</item>
     <!-- cop - Coptic -->
     <item>コプト語</item>
+    <!-- cps - Capiznon -->
+    <item>カピス語</item>
     <!-- cr - Cree -->
     <item>クリー語</item>
     <!-- crh - Crimean Turkish -->
@@ -193,7 +233,7 @@
     <!-- de - German -->
     <item>ドイツ語</item>
     <!-- de_CH - Swiss High German -->
-    <item>正統ドイツ語(スイス)</item>
+    <item>標準ドイツ語(スイス)</item>
     <!-- del - Delaware -->
     <item>デラウェア語</item>
     <!-- den - Slave -->
@@ -208,6 +248,8 @@
     <item>ドーグリー語</item>
     <!-- dsb - Lower Sorbian -->
     <item>低ソルビア語</item>
+    <!-- dtp - Central Dusun -->
+    <item>中央ドゥスン語</item>
     <!-- dua - Duala -->
     <item>ドゥアラ語</item>
     <!-- dum - Middle Dutch -->
@@ -228,6 +270,8 @@
     <item>エウェ語</item>
     <!-- efi - Efik -->
     <item>エフィク語</item>
+    <!-- egl - Emilian -->
+    <item>エミリア語</item>
     <!-- egy - Ancient Egyptian -->
     <item>古代エジプト語</item>
     <!-- eka - Ekajuk -->
@@ -247,19 +291,23 @@
     <!-- en_US - American English -->
     <item>アメリカ英語</item>
     <!-- enm - Middle English -->
-    <item>中世英語</item>
+    <item>中英語</item>
     <!-- eo - Esperanto -->
     <item>エスペラント語</item>
     <!-- es - Spanish -->
     <item>スペイン語</item>
     <!-- es_ES - European Spanish -->
     <item>スペイン語(イベリア半島)</item>
+    <!-- esu - Central Yupik -->
+    <item>中央アラスカ・ユピック語</item>
     <!-- et - Estonian -->
     <item>エストニア語</item>
     <!-- eu - Basque -->
     <item>バスク語</item>
     <!-- ewo - Ewondo -->
     <item>エウォンド語</item>
+    <!-- ext - Extremaduran -->
+    <item>エストレマドゥーラ語</item>
     <!-- fa - Persian -->
     <item>ペルシア語</item>
     <!-- fan - Fang -->
@@ -272,6 +320,8 @@
     <item>フィンランド語</item>
     <!-- fil - Filipino -->
     <item>フィリピノ語</item>
+    <!-- fit - Tornedalen Finnish -->
+    <item>トルネダール・フィンランド語</item>
     <!-- fj - Fijian -->
     <item>フィジー語</item>
     <!-- fo - Faroese -->
@@ -280,10 +330,14 @@
     <item>フォン語</item>
     <!-- fr - French -->
     <item>フランス語</item>
+    <!-- frc - Cajun French -->
+    <item>ケイジャン・フランス語</item>
     <!-- frm - Middle French -->
     <item>中期フランス語</item>
     <!-- fro - Old French -->
     <item>古フランス語</item>
+    <!-- frp - Arpitan -->
+    <item>アルピタン語</item>
     <!-- frr - Northern Frisian -->
     <item>北フリジア語</item>
     <!-- frs - Eastern Frisian -->
@@ -296,10 +350,16 @@
     <item>アイルランド語</item>
     <!-- gaa - Ga -->
     <item>ガ語</item>
+    <!-- gag - Gagauz -->
+    <item>ガガウズ語</item>
+    <!-- gan - Gan Chinese -->
+    <item>贛語</item>
     <!-- gay - Gayo -->
     <item>ガヨ語</item>
     <!-- gba - Gbaya -->
     <item>バヤ語</item>
+    <!-- gbz - Zoroastrian Dari -->
+    <item>ダリー語(ゾロアスター教)</item>
     <!-- gd - Scottish Gaelic -->
     <item>スコットランド・ゲール語</item>
     <!-- gez - Geez -->
@@ -308,12 +368,16 @@
     <item>キリバス語</item>
     <!-- gl - Galician -->
     <item>ガリシア語</item>
+    <!-- glk - Gilaki -->
+    <item>ギラキ語</item>
     <!-- gmh - Middle High German -->
     <item>中高ドイツ語</item>
     <!-- gn - Guarani -->
     <item>グアラニー語</item>
     <!-- goh - Old High German -->
     <item>古高ドイツ語</item>
+    <!-- gom - Goan Konkani -->
+    <item>ゴア・コンカニ語</item>
     <!-- gon - Gondi -->
     <item>ゴーンディー語</item>
     <!-- gor - Gorontalo -->
@@ -328,6 +392,10 @@
     <item>スイスドイツ語</item>
     <!-- gu - Gujarati -->
     <item>グジャラート語</item>
+    <!-- guc - Wayuu -->
+    <item>ワユ語</item>
+    <!-- gur - Frafra -->
+    <item>フラフラ語</item>
     <!-- guz - Gusii -->
     <item>グシイ語</item>
     <!-- gv - Manx -->
@@ -338,12 +406,16 @@
     <item>ハウサ語</item>
     <!-- hai - Haida -->
     <item>ハイダ語</item>
+    <!-- hak - Hakka Chinese -->
+    <item>客家語</item>
     <!-- haw - Hawaiian -->
     <item>ハワイ語</item>
     <!-- he - Hebrew -->
     <item>ヘブライ語</item>
     <!-- hi - Hindi -->
     <item>ヒンディー語</item>
+    <!-- hif - Fiji Hindi -->
+    <item>フィジー・ヒンディー語</item>
     <!-- hil - Hiligaynon -->
     <item>ヒリガイノン語</item>
     <!-- hit - Hittite -->
@@ -356,6 +428,8 @@
     <item>クロアチア語</item>
     <!-- hsb - Upper Sorbian -->
     <item>上ソルビア語</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>湘語</item>
     <!-- ht - Haitian -->
     <item>ハイチ語</item>
     <!-- hu - Hungarian -->
@@ -394,8 +468,12 @@
     <item>イタリア語</item>
     <!-- iu - Inuktitut -->
     <item>イヌクウティトット語</item>
+    <!-- izh - Ingrian -->
+    <item>イングリア語</item>
     <!-- ja - Japanese -->
     <item>日本語</item>
+    <!-- jam - Jamaican Creole English -->
+    <item>ジャマイカ・クレオール語</item>
     <!-- jbo - Lojban -->
     <item>ロジバン語</item>
     <!-- jgo - Ngomba -->
@@ -406,6 +484,8 @@
     <item>ユダヤ・ペルシア語</item>
     <!-- jrb - Judeo-Arabic -->
     <item>ユダヤ・アラビア語</item>
+    <!-- jut - Jutish -->
+    <item>ユトランド語</item>
     <!-- jv - Javanese -->
     <item>ジャワ語</item>
     <!-- ka - Georgian -->
@@ -432,18 +512,26 @@
     <item>マコンデ語</item>
     <!-- kea - Kabuverdianu -->
     <item>カーボベルデ・クレオール語</item>
+    <!-- ken - Kenyang -->
+    <item>ニャン語</item>
     <!-- kfo - Koro -->
     <item>コロ語</item>
     <!-- kg - Kongo -->
     <item>コンゴ語</item>
+    <!-- kgp - Kaingang -->
+    <item>カインガング語</item>
     <!-- kha - Khasi -->
     <item>カシ語</item>
     <!-- kho - Khotanese -->
     <item>コータン語</item>
     <!-- khq - Koyra Chiini -->
     <item>コイラ・チーニ語</item>
+    <!-- khw - Khowar -->
+    <item>コワール語</item>
     <!-- ki - Kikuyu -->
     <item>キクユ語</item>
+    <!-- kiu - Kirmanjki -->
+    <item>キルマンジュキ語</item>
     <!-- kj - Kuanyama -->
     <item>クワニャマ語</item>
     <!-- kk - Kazakh -->
@@ -462,6 +550,8 @@
     <item>カンナダ語</item>
     <!-- ko - Korean -->
     <item>韓国語</item>
+    <!-- koi - Komi-Permyak -->
+    <item>コミ・ペルミャク語</item>
     <!-- kok - Konkani -->
     <item>コンカニ語</item>
     <!-- kos - Kosraean -->
@@ -472,6 +562,10 @@
     <item>カヌリ語</item>
     <!-- krc - Karachay-Balkar -->
     <item>カラチャイ語</item>
+    <!-- kri - Krio -->
+    <item>クリオ語</item>
+    <!-- krj - Kinaray-a -->
+    <item>キナライア語</item>
     <!-- krl - Karelian -->
     <item>カレリア語</item>
     <!-- kru - Kurukh -->
@@ -510,10 +604,20 @@
     <item>ルクセンブルク語</item>
     <!-- lez - Lezghian -->
     <item>レズギ語</item>
+    <!-- lfn - Lingua Franca Nova -->
+    <item>リングア・フランカ・ノバ</item>
     <!-- lg - Ganda -->
     <item>ガンダ語</item>
     <!-- li - Limburgish -->
     <item>リンブルフ語</item>
+    <!-- lij - Ligurian -->
+    <item>リグリア語</item>
+    <!-- liv - Livonian -->
+    <item>リヴォニア語</item>
+    <!-- lkt - Lakota -->
+    <item>ラコタ語</item>
+    <!-- lmo - Lombard -->
+    <item>ロンバルド語</item>
     <!-- ln - Lingala -->
     <item>リンガラ語</item>
     <!-- lo - Lao -->
@@ -524,6 +628,8 @@
     <item>ロジ語</item>
     <!-- lt - Lithuanian -->
     <item>リトアニア語</item>
+    <!-- ltg - Latgalian -->
+    <item>ラトガリア語</item>
     <!-- lu - Luba-Katanga -->
     <item>ルバ・カタンガ語</item>
     <!-- lua - Luba-Lulua -->
@@ -540,6 +646,10 @@
     <item>ルヒヤ語</item>
     <!-- lv - Latvian -->
     <item>ラトビア語</item>
+    <!-- lzh - Literary Chinese -->
+    <item>漢文</item>
+    <!-- lzz - Laz -->
+    <item>ラズ語</item>
     <!-- mad - Madurese -->
     <item>マドゥラ語</item>
     <!-- maf - Mafa -->
@@ -572,7 +682,7 @@
     <item>中期アイルランド語</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>マクア・ミート語</item>
-    <!-- mgo - Meta' -->
+    <!-- mgo - Metaʼ -->
     <item>メタ語</item>
     <!-- mh - Marshallese -->
     <item>マーシャル語</item>
@@ -598,6 +708,8 @@
     <item>モシ語</item>
     <!-- mr - Marathi -->
     <item>マラーティー語</item>
+    <!-- mrj - Western Mari -->
+    <item>山地マリ語</item>
     <!-- ms - Malay -->
     <item>マレー語</item>
     <!-- mt - Maltese -->
@@ -612,14 +724,20 @@
     <item>ミランダ語</item>
     <!-- mwr - Marwari -->
     <item>マールワーリー語</item>
+    <!-- mwv - Mentawai -->
+    <item>メンタワイ語</item>
     <!-- my - Burmese -->
     <item>ビルマ語</item>
     <!-- mye - Myene -->
     <item>ミエネ語</item>
     <!-- myv - Erzya -->
     <item>エルジャ語</item>
+    <!-- mzn - Mazanderani -->
+    <item>マーザンダラーン語</item>
     <!-- na - Nauru -->
     <item>ナウル語</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>閩南語</item>
     <!-- nap - Neapolitan -->
     <item>ナポリ語</item>
     <!-- naq - Nama -->
@@ -640,6 +758,8 @@
     <item>ニアス語</item>
     <!-- niu - Niuean -->
     <item>ニウーエイ語</item>
+    <!-- njo - Ao Naga -->
+    <item>アオ・ナガ語</item>
     <!-- nl - Dutch -->
     <item>オランダ語</item>
     <!-- nl_BE - Flemish -->
@@ -656,7 +776,9 @@
     <item>ノガイ語</item>
     <!-- non - Old Norse -->
     <item>古ノルド語</item>
-    <!-- nqo - N’Ko -->
+    <!-- nov - Novial -->
+    <item>ノヴィアル</item>
+    <!-- nqo - NʼKo -->
     <item>ンコ語</item>
     <!-- nr - South Ndebele -->
     <item>南ンデベレ語</item>
@@ -704,16 +826,30 @@
     <item>パピアメント語</item>
     <!-- pau - Palauan -->
     <item>パラオ語</item>
+    <!-- pcd - Picard -->
+    <item>ピカルディ語</item>
+    <!-- pdc - Pennsylvania German -->
+    <item>ペンシルベニア・ドイツ語</item>
+    <!-- pdt - Plautdietsch -->
+    <item>メノナイト低地ドイツ語</item>
     <!-- peo - Old Persian -->
     <item>古代ペルシア語</item>
+    <!-- pfl - Palatine German -->
+    <item>プファルツ語</item>
     <!-- phn - Phoenician -->
     <item>フェニキア語</item>
     <!-- pi - Pali -->
     <item>パーリ語</item>
     <!-- pl - Polish -->
     <item>ポーランド語</item>
+    <!-- pms - Piedmontese -->
+    <item>ピエモンテ語</item>
+    <!-- pnt - Pontic -->
+    <item>ポントス・ギリシャ語</item>
     <!-- pon - Pohnpeian -->
     <item>ポンペイ語</item>
+    <!-- prg - Prussian -->
+    <item>プロシア語</item>
     <!-- pro - Old Provençal -->
     <item>古期プロバンス語</item>
     <!-- ps - Pashto -->
@@ -724,12 +860,20 @@
     <item>ポルトガル語(イベリア半島)</item>
     <!-- qu - Quechua -->
     <item>ケチュア語</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>キチェ語</item>
+    <!-- qug - Chimborazo Highland Quichua -->
+    <item>チンボラソ高地ケチュア語</item>
     <!-- raj - Rajasthani -->
     <item>ラージャスターン語</item>
     <!-- rap - Rapanui -->
     <item>ラパヌイ語</item>
     <!-- rar - Rarotongan -->
     <item>ラロトンガ語</item>
+    <!-- rgn - Romagnol -->
+    <item>ロマーニャ語</item>
+    <!-- rif - Riffian -->
+    <item>リーフ語</item>
     <!-- rm - Romansh -->
     <item>ロマンシュ語</item>
     <!-- rn - Rundi -->
@@ -744,8 +888,14 @@
     <item>ロマーニー語</item>
     <!-- root - Root -->
     <item>ルート</item>
+    <!-- rtm - Rotuman -->
+    <item>ロツマ語</item>
     <!-- ru - Russian -->
     <item>ロシア語</item>
+    <!-- rue - Rusyn -->
+    <item>ルシン語</item>
+    <!-- rug - Roviana -->
+    <item>ロヴィアナ語</item>
     <!-- rup - Aromanian -->
     <item>アルーマニア語</item>
     <!-- rw - Kinyarwanda -->
@@ -766,6 +916,8 @@
     <item>ササク語</item>
     <!-- sat - Santali -->
     <item>サンターリー語</item>
+    <!-- saz - Saurashtra -->
+    <item>サウラーシュトラ語</item>
     <!-- sba - Ngambay -->
     <item>ンガムバイ語</item>
     <!-- sbp - Sangu -->
@@ -778,12 +930,16 @@
     <item>スコットランド語</item>
     <!-- sd - Sindhi -->
     <item>シンド語</item>
+    <!-- sdc - Sassarese Sardinian -->
+    <item>サッサリ・サルデーニャ語</item>
     <!-- se - Northern Sami -->
     <item>北サーミ語</item>
     <!-- see - Seneca -->
     <item>セネカ語</item>
     <!-- seh - Sena -->
     <item>セナ語</item>
+    <!-- sei - Seri -->
+    <item>セリ語</item>
     <!-- sel - Selkup -->
     <item>セリクプ語</item>
     <!-- ses - Koyraboro Senni -->
@@ -792,6 +948,8 @@
     <item>サンゴ語</item>
     <!-- sga - Old Irish -->
     <item>古期アイルランド語</item>
+    <!-- sgs - Samogitian -->
+    <item>サモギティア語)</item>
     <!-- sh - Serbo-Croatian -->
     <item>セルボ・クロアチア語</item>
     <!-- shi - Tachelhit -->
@@ -808,6 +966,10 @@
     <item>スロバキア語</item>
     <!-- sl - Slovenian -->
     <item>スロベニア語</item>
+    <!-- sli - Lower Silesian -->
+    <item>低シレジア語</item>
+    <!-- sly - Selayar -->
+    <item>スラヤール語</item>
     <!-- sm - Samoan -->
     <item>サモア語</item>
     <!-- sma - Southern Sami -->
@@ -840,6 +1002,8 @@
     <item>サホ語</item>
     <!-- st - Southern Sotho -->
     <item>南部ソト語</item>
+    <!-- stq - Saterland Frisian -->
+    <item>ザーターフリジア語</item>
     <!-- su - Sundanese -->
     <item>スンダ語</item>
     <!-- suk - Sukuma -->
@@ -860,8 +1024,12 @@
     <item>古典シリア語</item>
     <!-- syr - Syriac -->
     <item>シリア語</item>
+    <!-- szl - Silesian -->
+    <item>シレジア語</item>
     <!-- ta - Tamil -->
     <item>タミル語</item>
+    <!-- tcy - Tulu -->
+    <item>トゥル語</item>
     <!-- te - Telugu -->
     <item>テルグ語</item>
     <!-- tem - Timne -->
@@ -886,12 +1054,16 @@
     <item>トルクメン語</item>
     <!-- tkl - Tokelau -->
     <item>トケラウ語</item>
+    <!-- tkr - Tsakhur -->
+    <item>ツァフル語</item>
     <!-- tl - Tagalog -->
     <item>タガログ語</item>
     <!-- tlh - Klingon -->
     <item>クリンゴン語</item>
     <!-- tli - Tlingit -->
     <item>トリンギット語</item>
+    <!-- tly - Talysh -->
+    <item>タリシュ語</item>
     <!-- tmh - Tamashek -->
     <item>タマシェク語</item>
     <!-- tn - Tswana -->
@@ -904,14 +1076,20 @@
     <item>トク・ピシン語</item>
     <!-- tr - Turkish -->
     <item>トルコ語</item>
+    <!-- tru - Turoyo -->
+    <item>トゥロヨ語</item>
     <!-- trv - Taroko -->
     <item>タロコ語</item>
     <!-- ts - Tsonga -->
     <item>ツォンガ語</item>
+    <!-- tsd - Tsakonian -->
+    <item>ツァコン語</item>
     <!-- tsi - Tsimshian -->
     <item>チムシュ語</item>
     <!-- tt - Tatar -->
     <item>タタール語</item>
+    <!-- ttt - Muslim Tat -->
+    <item>ムスリム・タタール語</item>
     <!-- tum - Tumbuka -->
     <item>トゥンブカ語</item>
     <!-- tvl - Tuvalu -->
@@ -946,12 +1124,22 @@
     <item>ヴァイ語</item>
     <!-- ve - Venda -->
     <item>ベンダ語</item>
+    <!-- vec - Venetian -->
+    <item>ヴェネト語</item>
+    <!-- vep - Veps -->
+    <item>ヴェプス語</item>
     <!-- vi - Vietnamese -->
     <item>ベトナム語</item>
+    <!-- vls - West Flemish -->
+    <item>西フラマン語</item>
+    <!-- vmf - Main-Franconian -->
+    <item>マインフランク語</item>
     <!-- vo - Volapük -->
     <item>ヴォラピュク語</item>
     <!-- vot - Votic -->
     <item>ヴォート語</item>
+    <!-- vro - Võro -->
+    <item>ヴォロ語</item>
     <!-- vun - Vunjo -->
     <item>ヴンジョ語</item>
     <!-- wa - Walloon -->
@@ -966,10 +1154,14 @@
     <item>ワショ語</item>
     <!-- wo - Wolof -->
     <item>ウォロフ語</item>
+    <!-- wuu - Wu Chinese -->
+    <item>呉語</item>
     <!-- xal - Kalmyk -->
     <item>カルムイク語</item>
     <!-- xh - Xhosa -->
     <item>コサ語</item>
+    <!-- xmf - Mingrelian -->
+    <item>メグレル語</item>
     <!-- xog - Soga -->
     <item>ソガ語</item>
     <!-- yao - Yao -->
@@ -984,6 +1176,8 @@
     <item>イディッシュ語</item>
     <!-- yo - Yoruba -->
     <item>ヨルバ語</item>
+    <!-- yrl - Nheengatu -->
+    <item>ニェエンガトゥ語</item>
     <!-- yue - Cantonese -->
     <item>広東語</item>
     <!-- za - Zhuang -->
@@ -992,6 +1186,8 @@
     <item>サポテカ語</item>
     <!-- zbl - Blissymbols -->
     <item>ブリスシンボル</item>
+    <!-- zea - Zeelandic -->
+    <item>ゼーラント語</item>
     <!-- zen - Zenaga -->
     <item>ゼナガ語</item>
     <!-- zgh - Standard Moroccan Tamazight -->

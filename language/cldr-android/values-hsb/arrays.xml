@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Upper Sorbian (hsb) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>afaršćina</item>
+    <!-- ab - Abkhazian -->
+    <item>abchazišćina</item>
+    <!-- af - Afrikaans -->
+    <item>afrikaanšćina</item>
+    <!-- agq - Aghem -->
+    <item>aghemšćina</item>
+    <!-- ak - Akan -->
+    <item>akanšćina</item>
+    <!-- am - Amharic -->
+    <item>amharšćina</item>
+    <!-- an - Aragonese -->
+    <item>aragonšćina</item>
+    <!-- ang - Old English -->
+    <item>anglosakšćina</item>
+    <!-- ar - Arabic -->
+    <item>arabšćina</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>moderna wysokoarabšćina</item>
+    <!-- arn - Mapuche -->
+    <item>arawkanšćina</item>
+    <!-- as - Assamese -->
+    <item>asamšćina</item>
+    <!-- asa - Asu -->
+    <item>pare</item>
+    <!-- ast - Asturian -->
+    <item>asturšćina</item>
+    <!-- av - Avaric -->
+    <item>awaršćina</item>
+    <!-- ay - Aymara -->
+    <item>aymaršćina</item>
+    <!-- az - Azerbaijani -->
+    <item>azerbajdźanšćina</item>
+    <!-- ba - Bashkir -->
+    <item>baškiršćina</item>
+    <!-- be - Belarusian -->
+    <item>běłorušćina</item>
+    <!-- bem - Bemba -->
+    <item>bemba</item>
+    <!-- bez - Bena -->
+    <item>bena</item>
+    <!-- bg - Bulgarian -->
+    <item>bołharšćina</item>
+    <!-- bi - Bislama -->
+    <item>bislamšćina</item>
+    <!-- bm - Bambara -->
+    <item>bambara</item>
+    <!-- bn - Bengali -->
+    <item>bengalšćina</item>
+    <!-- bo - Tibetan -->
+    <item>tibetšćina</item>
+    <!-- br - Breton -->
+    <item>bretonšćina</item>
+    <!-- brx - Bodo -->
+    <item>bodo</item>
+    <!-- bs - Bosnian -->
+    <item>bosnišćina</item>
+    <!-- bug - Buginese -->
+    <item>buginezišćina</item>
+    <!-- ca - Catalan -->
+    <item>katalanšćina</item>
+    <!-- cgg - Chiga -->
+    <item>chiga</item>
+    <!-- ch - Chamorro -->
+    <item>čamoršćina</item>
+    <!-- cho - Choctaw -->
+    <item>choctawšćina</item>
+    <!-- chr - Cherokee -->
+    <item>cherokee</item>
+    <!-- ckb - Sorani Kurdish -->
+    <item>sorani</item>
+    <!-- co - Corsican -->
+    <item>korsišćina</item>
+    <!-- cr - Cree -->
+    <item>kri</item>
+    <!-- cs - Czech -->
+    <item>čěšćina</item>
+    <!-- cy - Welsh -->
+    <item>walizišćina</item>
+    <!-- da - Danish -->
+    <item>danšćina</item>
+    <!-- dav - Taita -->
+    <item>taita</item>
+    <!-- de - German -->
+    <item>němčina</item>
+    <!-- de_AT - Austrian German -->
+    <item>awstriska němčina</item>
+    <!-- dje - Zarma -->
+    <item>zarma</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>delnjoserbšćina</item>
+    <!-- dua - Duala -->
+    <item>duala</item>
+    <!-- dv - Divehi -->
+    <item>divehi</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>jola-fonyi</item>
+    <!-- dz - Dzongkha -->
+    <item>dzongkha</item>
+    <!-- ebu - Embu -->
+    <item>embu</item>
+    <!-- ee - Ewe -->
+    <item>ewe</item>
+    <!-- el - Greek -->
+    <item>grjekšćina</item>
+    <!-- en - English -->
+    <item>jendźelšćina</item>
+    <!-- en_AU - Australian English -->
+    <item>awstralska jendźelšćina</item>
+    <!-- en_CA - Canadian English -->
+    <item>kanadiska jendźelšćina</item>
+    <!-- en_GB - British English -->
+    <item>britiska jendźelšćina</item>
+    <!-- en_US - American English -->
+    <item>ameriska jendźelšćina</item>
+    <!-- eo - Esperanto -->
+    <item>esperanto</item>
+    <!-- es - Spanish -->
+    <item>španišćina</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>łaćonskoameriska španišćina</item>
+    <!-- es_ES - European Spanish -->
+    <item>europska španišćina</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>mexiska španišćina</item>
+    <!-- et - Estonian -->
+    <item>estišćina</item>
+    <!-- eu - Basque -->
+    <item>baskišćina</item>
+    <!-- fa - Persian -->
+    <item>persišćina</item>
+    <!-- fi - Finnish -->
+    <item>finšćina</item>
+    <!-- fil - Filipino -->
+    <item>filipinšćina</item>
+    <!-- fj - Fijian -->
+    <item>fidźišćina</item>
+    <!-- fo - Faroese -->
+    <item>färöšćina</item>
+    <!-- fr - French -->
+    <item>francošćina</item>
+    <!-- fr_CA - Canadian French -->
+    <item>kanadiska francošćina</item>
+    <!-- fr_CH - Swiss French -->
+    <item>šwicarska francošćina</item>
+    <!-- fy - Western Frisian -->
+    <item>frizišćina</item>
+    <!-- ga - Irish -->
+    <item>iršćina</item>
+    <!-- gag - Gagauz -->
+    <item>gagauzišćina</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>šotiska gelšćina</item>
+    <!-- gl - Galician -->
+    <item>galicišćina</item>
+    <!-- gn - Guarani -->
+    <item>guarani</item>
+    <!-- got - Gothic -->
+    <item>gotšćina</item>
+    <!-- gsw - Swiss German -->
+    <item>šwicarska němčina</item>
+    <!-- gu - Gujarati -->
+    <item>gujarati</item>
+    <!-- guz - Gusii -->
+    <item>gusii</item>
+    <!-- gv - Manx -->
+    <item>manšćina</item>
+    <!-- ha - Hausa -->
+    <item>hausa</item>
+    <!-- haw - Hawaiian -->
+    <item>hawaiišćina</item>
+    <!-- he - Hebrew -->
+    <item>hebrejšćina</item>
+    <!-- hi - Hindi -->
+    <item>hindišćina</item>
+    <!-- hr - Croatian -->
+    <item>chorwatšćina</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>hornjoserbšćina</item>
+    <!-- ht - Haitian -->
+    <item>haitišćina</item>
+    <!-- hu - Hungarian -->
+    <item>madźaršćina</item>
+    <!-- hy - Armenian -->
+    <item>armenšćina</item>
+    <!-- ia - Interlingua -->
+    <item>interlingua</item>
+    <!-- id - Indonesian -->
+    <item>indonešćina</item>
+    <!-- ig - Igbo -->
+    <item>igbo</item>
+    <!-- ii - Sichuan Yi -->
+    <item>sichuan yi</item>
+    <!-- ik - Inupiaq -->
+    <item>inupiak</item>
+    <!-- io - Ido -->
+    <item>ido</item>
+    <!-- is - Icelandic -->
+    <item>islandšćina</item>
+    <!-- it - Italian -->
+    <item>italšćina</item>
+    <!-- iu - Inuktitut -->
+    <item>inuitšćina</item>
+    <!-- ja - Japanese -->
+    <item>japanšćina</item>
+    <!-- jgo - Ngomba -->
+    <item>ngomba</item>
+    <!-- jmc - Machame -->
+    <item>machame</item>
+    <!-- jv - Javanese -->
+    <item>javašćina</item>
+    <!-- ka - Georgian -->
+    <item>georgišćina</item>
+    <!-- kab - Kabyle -->
+    <item>kabylšćina</item>
+    <!-- kam - Kamba -->
+    <item>kamba</item>
+    <!-- kde - Makonde -->
+    <item>makonde</item>
+    <!-- kea - Kabuverdianu -->
+    <item>kapverdšćina</item>
+    <!-- khq - Koyra Chiini -->
+    <item>koyra chiini</item>
+    <!-- ki - Kikuyu -->
+    <item>kikuyu</item>
+    <!-- kk - Kazakh -->
+    <item>kazachšćina</item>
+    <!-- kl - Kalaallisut -->
+    <item>gröndlandšćina</item>
+    <!-- kln - Kalenjin -->
+    <item>kalenjin</item>
+    <!-- km - Khmer -->
+    <item>khmeršćina</item>
+    <!-- kn - Kannada -->
+    <item>kannadšćina</item>
+    <!-- ko - Korean -->
+    <item>korejšćina</item>
+    <!-- koi - Komi-Permyak -->
+    <item>permska komišćina</item>
+    <!-- kok - Konkani -->
+    <item>konkani</item>
+    <!-- kri - Krio -->
+    <item>krio</item>
+    <!-- ks - Kashmiri -->
+    <item>kašmiršćina</item>
+    <!-- ksb - Shambala -->
+    <item>šambala</item>
+    <!-- ksf - Bafia -->
+    <item>bafia</item>
+    <!-- ku - Kurdish -->
+    <item>kurdišćina</item>
+    <!-- kw - Cornish -->
+    <item>kornišćina</item>
+    <!-- ky - Kyrgyz -->
+    <item>kirgišćina</item>
+    <!-- la - Latin -->
+    <item>łaćonšćina</item>
+    <!-- lag - Langi -->
+    <item>langi</item>
+    <!-- lb - Luxembourgish -->
+    <item>luxemburgšćina</item>
+    <!-- lg - Ganda -->
+    <item>gandšćina</item>
+    <!-- li - Limburgish -->
+    <item>limburšćina</item>
+    <!-- lkt - Lakota -->
+    <item>lakota</item>
+    <!-- ln - Lingala -->
+    <item>lingala</item>
+    <!-- lo - Lao -->
+    <item>laošćina</item>
+    <!-- lt - Lithuanian -->
+    <item>litawšćina</item>
+    <!-- lu - Luba-Katanga -->
+    <item>luba-katanga</item>
+    <!-- luo - Luo -->
+    <item>luo</item>
+    <!-- luy - Luyia -->
+    <item>luhya</item>
+    <!-- lv - Latvian -->
+    <item>letišćina</item>
+    <!-- mas - Masai -->
+    <item>masaišćina</item>
+    <!-- mer - Meru -->
+    <item>meru</item>
+    <!-- mfe - Morisyen -->
+    <item>mauriciska kreolšćina</item>
+    <!-- mg - Malagasy -->
+    <item>malagassišćina</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>makhuwa-meetto</item>
+    <!-- mgo - Metaʼ -->
+    <item>meta’</item>
+    <!-- mi - Maori -->
+    <item>maoršćina</item>
+    <!-- mk - Macedonian -->
+    <item>makedonšćina</item>
+    <!-- ml - Malayalam -->
+    <item>malajamšćina</item>
+    <!-- mn - Mongolian -->
+    <item>mongolšćina</item>
+    <!-- moh - Mohawk -->
+    <item>mohawkšćina</item>
+    <!-- mr - Marathi -->
+    <item>maratišćina</item>
+    <!-- ms - Malay -->
+    <item>malajšćina</item>
+    <!-- mt - Maltese -->
+    <item>maltašćina</item>
+    <!-- mua - Mundang -->
+    <item>mundang</item>
+    <!-- mus - Creek -->
+    <item>krik</item>
+    <!-- my - Burmese -->
+    <item>burmašćina</item>
+    <!-- na - Nauru -->
+    <item>naurušćina</item>
+    <!-- naq - Nama -->
+    <item>nama</item>
+    <!-- nb - Norwegian Bokmål -->
+    <item>norwegšćina (bokmål)</item>
+    <!-- nd - North Ndebele -->
+    <item>sewjero-ndebele</item>
+    <!-- nds - Low German -->
+    <item>delnjoněmčina</item>
+    <!-- ne - Nepali -->
+    <item>nepalšćina</item>
+    <!-- nl - Dutch -->
+    <item>nižozemšćina</item>
+    <!-- nl_BE - Flemish -->
+    <item>flamšćina</item>
+    <!-- nmg - Kwasio -->
+    <item>kwasio</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>norwegšćina (nynorsk)</item>
+    <!-- no - Norwegian -->
+    <item>norwegšćina</item>
+    <!-- nqo - NʼKo -->
+    <item>n’ko</item>
+    <!-- nus - Nuer -->
+    <item>nuer</item>
+    <!-- nv - Navajo -->
+    <item>navaho</item>
+    <!-- nyn - Nyankole -->
+    <item>nyankole</item>
+    <!-- oc - Occitan -->
+    <item>okcitanšćina</item>
+    <!-- om - Oromo -->
+    <item>oromo</item>
+    <!-- or - Oriya -->
+    <item>orijšćina</item>
+    <!-- pa - Punjabi -->
+    <item>pandźabšćina</item>
+    <!-- pl - Polish -->
+    <item>pólšćina</item>
+    <!-- prg - Prussian -->
+    <item>prušćina</item>
+    <!-- ps - Pashto -->
+    <item>paštunšćina</item>
+    <!-- pt - Portuguese -->
+    <item>portugalšćina</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>brazilska portugalšćina</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>europska portugalšćina</item>
+    <!-- qu - Quechua -->
+    <item>kečua</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>kʼicheʼ</item>
+    <!-- rm - Romansh -->
+    <item>retoromanšćina</item>
+    <!-- rn - Rundi -->
+    <item>kirundišćina</item>
+    <!-- ro - Romanian -->
+    <item>rumunšćina</item>
+    <!-- ro_MD - Moldavian -->
+    <item>moldawšćina</item>
+    <!-- rof - Rombo -->
+    <item>rombo</item>
+    <!-- ru - Russian -->
+    <item>rušćina</item>
+    <!-- rw - Kinyarwanda -->
+    <item>kinjarwanda</item>
+    <!-- rwk - Rwa -->
+    <item>rwa</item>
+    <!-- sa - Sanskrit -->
+    <item>sanskrit</item>
+    <!-- saq - Samburu -->
+    <item>samburu</item>
+    <!-- sbp - Sangu -->
+    <item>sangu</item>
+    <!-- sc - Sardinian -->
+    <item>sardinšćina</item>
+    <!-- scn - Sicilian -->
+    <item>sicilšćina</item>
+    <!-- sd - Sindhi -->
+    <item>sindhišćina</item>
+    <!-- se - Northern Sami -->
+    <item>sewjerosamišćina</item>
+    <!-- seh - Sena -->
+    <item>sena</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>koyra senni</item>
+    <!-- sg - Sango -->
+    <item>sango</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>serbochorwatšćina</item>
+    <!-- shi - Tachelhit -->
+    <item>tašelhit</item>
+    <!-- si - Sinhala -->
+    <item>singhalšćina</item>
+    <!-- sk - Slovak -->
+    <item>słowakšćina</item>
+    <!-- sl - Slovenian -->
+    <item>słowjenšćina</item>
+    <!-- sm - Samoan -->
+    <item>samoašćina</item>
+    <!-- sma - Southern Sami -->
+    <item>južnosamišćina</item>
+    <!-- smj - Lule Sami -->
+    <item>lule-samišćina</item>
+    <!-- smn - Inari Sami -->
+    <item>inari-samišćina</item>
+    <!-- sms - Skolt Sami -->
+    <item>skolt-samišćina</item>
+    <!-- sn - Shona -->
+    <item>šonašćina</item>
+    <!-- so - Somali -->
+    <item>somališćina</item>
+    <!-- sq - Albanian -->
+    <item>albanšćina</item>
+    <!-- sr - Serbian -->
+    <item>serbišćina</item>
+    <!-- ss - Swati -->
+    <item>siswati</item>
+    <!-- st - Southern Sotho -->
+    <item>južnosotšćina (Sesotho)</item>
+    <!-- stq - Saterland Frisian -->
+    <item>saterfrizišćina</item>
+    <!-- su - Sundanese -->
+    <item>sundanezišćina</item>
+    <!-- sv - Swedish -->
+    <item>šwedšćina</item>
+    <!-- sw - Swahili -->
+    <item>suahelšćina</item>
+    <!-- swc - Congo Swahili -->
+    <item>kongoska suahelšćina</item>
+    <!-- ta - Tamil -->
+    <item>tamilšćina</item>
+    <!-- te - Telugu -->
+    <item>telugu</item>
+    <!-- teo - Teso -->
+    <item>teso</item>
+    <!-- tg - Tajik -->
+    <item>tadźikšćina</item>
+    <!-- th - Thai -->
+    <item>thailandšćina</item>
+    <!-- ti - Tigrinya -->
+    <item>tigrinšćina</item>
+    <!-- tk - Turkmen -->
+    <item>turkmenšćina</item>
+    <!-- tl - Tagalog -->
+    <item>tagalog</item>
+    <!-- tn - Tswana -->
+    <item>tswana</item>
+    <!-- to - Tongan -->
+    <item>tongašćina</item>
+    <!-- tr - Turkish -->
+    <item>turkowšćina</item>
+    <!-- ts - Tsonga -->
+    <item>tsonga</item>
+    <!-- tt - Tatar -->
+    <item>tataršćina</item>
+    <!-- tw - Twi -->
+    <item>twi</item>
+    <!-- twq - Tasawaq -->
+    <item>tasawaq</item>
+    <!-- ty - Tahitian -->
+    <item>tahitišćina</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>tamazight (srjedźny Marokko)</item>
+    <!-- ug - Uyghur -->
+    <item>ujguršćina</item>
+    <!-- uk - Ukrainian -->
+    <item>ukrainšćina</item>
+    <!-- und - Unknown Language -->
+    <item>njeznata rěč</item>
+    <!-- ur - Urdu -->
+    <item>urdušćina</item>
+    <!-- uz - Uzbek -->
+    <item>uzbekšćina</item>
+    <!-- vai - Vai -->
+    <item>vai</item>
+    <!-- vi - Vietnamese -->
+    <item>vietnamšćina</item>
+    <!-- vo - Volapük -->
+    <item>volapük</item>
+    <!-- vun - Vunjo -->
+    <item>vunjo</item>
+    <!-- wa - Walloon -->
+    <item>walonšćina</item>
+    <!-- wo - Wolof -->
+    <item>wolof</item>
+    <!-- xh - Xhosa -->
+    <item>xhosa</item>
+    <!-- xog - Soga -->
+    <item>soga</item>
+    <!-- yi - Yiddish -->
+    <item>jidišćina</item>
+    <!-- yo - Yoruba -->
+    <item>jorubašćina</item>
+    <!-- za - Zhuang -->
+    <item>zhuang</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>tamazight</item>
+    <!-- zh - Chinese -->
+    <item>chinšćina</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>chinšćina (zjednorjena)</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>chinšćina (tradicionalna)</item>
+    <!-- zu - Zulu -->
+    <item>zulušćina&quot;</item>
+    <!-- zxx - No linguistic content -->
+    <item>žadyn rěčny wobsah</item>
+  </string-array>
+</resources>

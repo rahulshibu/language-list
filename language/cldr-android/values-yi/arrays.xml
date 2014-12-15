@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Yiddish (yi) -->
+  <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>אַפֿאַר</item>
+    <!-- af - Afrikaans -->
+    <item>אַפֿריקאַנס</item>
+    <!-- akk - Akkadian -->
+    <item>אַקאַדיש</item>
+    <!-- am - Amharic -->
+    <item>אַמהאַריש</item>
+    <!-- an - Aragonese -->
+    <item>אַראַגאניש</item>
+    <!-- ang - Old English -->
+    <item>אַלט ענגליש</item>
+    <!-- ar - Arabic -->
+    <item>אַראַביש</item>
+    <!-- arc - Aramaic -->
+    <item>אַראַמיש</item>
+    <!-- as - Assamese -->
+    <item>אַסאַמיש</item>
+    <!-- az - Azerbaijani -->
+    <item>אַזערביידזשאַניש</item>
+    <!-- azb - South Azerbaijani -->
+    <item>דרום אַזערביידזשאַניש</item>
+    <!-- ban - Balinese -->
+    <item>באַלינעזיש</item>
+    <!-- bar - Bavarian -->
+    <item>בײַעריש</item>
+    <!-- be - Belarusian -->
+    <item>בעלאַרוסיש</item>
+    <!-- bg - Bulgarian -->
+    <item>בולגאַריש</item>
+    <!-- bn - Bengali -->
+    <item>בענגאַליש</item>
+    <!-- bo - Tibetan -->
+    <item>טיבעטיש</item>
+    <!-- br - Breton -->
+    <item>ברעטאניש</item>
+    <!-- bs - Bosnian -->
+    <item>באסניש</item>
+    <!-- ca - Catalan -->
+    <item>קאַטאַלאניש</item>
+    <!-- ceb - Cebuano -->
+    <item>סעבואַניש</item>
+    <!-- crh - Crimean Turkish -->
+    <item>קרים־טערקיש</item>
+    <!-- cs - Czech -->
+    <item>טשעכיש</item>
+    <!-- csb - Kashubian -->
+    <item>קאַשוביש</item>
+    <!-- cu - Church Slavic -->
+    <item>קלויסטער־סלאַוויש</item>
+    <!-- cy - Welsh -->
+    <item>וועלשיש</item>
+    <!-- da - Danish -->
+    <item>דעניש</item>
+    <!-- de - German -->
+    <item>דײַטש</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>אונטער־סארביש</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>זשאלא־פֿאני</item>
+    <!-- el - Greek -->
+    <item>גריכיש</item>
+    <!-- en - English -->
+    <item>ענגליש</item>
+    <!-- enm - Middle English -->
+    <item>מיטל ענגליש</item>
+    <!-- eo - Esperanto -->
+    <item>עספּעראַנטא</item>
+    <!-- es - Spanish -->
+    <item>שפּאַניש</item>
+    <!-- es_ES - European Spanish -->
+    <item>שפּאַניש (ES)</item>
+    <!-- et - Estonian -->
+    <item>עסטיש</item>
+    <!-- eu - Basque -->
+    <item>באַסקיש</item>
+    <!-- fa - Persian -->
+    <item>פּערסיש</item>
+    <!-- fi - Finnish -->
+    <item>פֿיניש</item>
+    <!-- fil - Filipino -->
+    <item>פֿיליפּינא</item>
+    <!-- fj - Fijian -->
+    <item>פֿידזשי</item>
+    <!-- fo - Faroese -->
+    <item>פֿאַראיש</item>
+    <!-- fr - French -->
+    <item>פֿראַנצויזיש</item>
+    <!-- fro - Old French -->
+    <item>אַלט־פֿראַנצויזיש</item>
+    <!-- frr - Northern Frisian -->
+    <item>דרום־פֿריזיש</item>
+    <!-- frs - Eastern Frisian -->
+    <item>מזרח־פֿריזיש</item>
+    <!-- fy - Western Frisian -->
+    <item>מערב־פֿריזיש</item>
+    <!-- ga - Irish -->
+    <item>איריש</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>סקאטיש געליש</item>
+    <!-- gl - Galician -->
+    <item>גאַלישיש</item>
+    <!-- gmh - Middle High German -->
+    <item>מיטל הויכדויטש</item>
+    <!-- goh - Old High German -->
+    <item>אַלט־ הויכדויטש</item>
+    <!-- got - Gothic -->
+    <item>גאטיש</item>
+    <!-- grc - Ancient Greek -->
+    <item>אוראַלט־גריכיש</item>
+    <!-- gv - Manx -->
+    <item>מאַנקס</item>
+    <!-- ha - Hausa -->
+    <item>האַוסאַ</item>
+    <!-- he - Hebrew -->
+    <item>העברעאיש</item>
+    <!-- hi - Hindi -->
+    <item>הינדי</item>
+    <!-- hif - Fiji Hindi -->
+    <item>פידזשי הינדי</item>
+    <!-- hr - Croatian -->
+    <item>קראאַטיש</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>אייבער־סארביש</item>
+    <!-- hu - Hungarian -->
+    <item>אונגעריש</item>
+    <!-- hy - Armenian -->
+    <item>אַרמעניש</item>
+    <!-- id - Indonesian -->
+    <item>אינדאנעזיש</item>
+    <!-- io - Ido -->
+    <item>אידא</item>
+    <!-- is - Icelandic -->
+    <item>איסלאַנדיש</item>
+    <!-- it - Italian -->
+    <item>איטאַליעניש</item>
+    <!-- ja - Japanese -->
+    <item>יאַפּאַניש</item>
+    <!-- jbo - Lojban -->
+    <item>לאזשבאָן</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>יידיש־פערסיש</item>
+    <!-- jv - Javanese -->
+    <item>יאַוואַנעזיש</item>
+    <!-- ka - Georgian -->
+    <item>גרוזיניש</item>
+    <!-- kk - Kazakh -->
+    <item>קאַזאַכיש</item>
+    <!-- km - Khmer -->
+    <item>כמער</item>
+    <!-- kn - Kannada -->
+    <item>קאַנאַדאַ</item>
+    <!-- ko - Korean -->
+    <item>קארעאיש</item>
+    <!-- ku - Kurdish -->
+    <item>קורדיש</item>
+    <!-- kw - Cornish -->
+    <item>קארניש</item>
+    <!-- ky - Kyrgyz -->
+    <item>קירגיזיש</item>
+    <!-- la - Latin -->
+    <item>לאטייניש</item>
+    <!-- lad - Ladino -->
+    <item>לאַדינא</item>
+    <!-- lb - Luxembourgish -->
+    <item>לוקסעמבורגיש</item>
+    <!-- liv - Livonian -->
+    <item>ליוויש</item>
+    <!-- lo - Lao -->
+    <item>לאַא</item>
+    <!-- lt - Lithuanian -->
+    <item>ליטוויש</item>
+    <!-- lus - Mizo -->
+    <item>מיזא</item>
+    <!-- lv - Latvian -->
+    <item>לעטיש</item>
+    <!-- mi - Maori -->
+    <item>מאַאריש</item>
+    <!-- mk - Macedonian -->
+    <item>מאַקעדאניש</item>
+    <!-- ml - Malayalam -->
+    <item>מאַלאַיאַלאַם</item>
+    <!-- mn - Mongolian -->
+    <item>מאנגאליש</item>
+    <!-- mt - Maltese -->
+    <item>מאַלטעזיש</item>
+    <!-- my - Burmese -->
+    <item>בירמאַניש</item>
+    <!-- nap - Neapolitan -->
+    <item>נאַפּאליטַניש</item>
+    <!-- nds - Low German -->
+    <item>נידערדײַטש</item>
+    <!-- ne - Nepali -->
+    <item>נעפּאַליש</item>
+    <!-- nl - Dutch -->
+    <item>האלענדיש</item>
+    <!-- nl_BE - Flemish -->
+    <item>פֿלעמיש</item>
+    <!-- nn - Norwegian Nynorsk -->
+    <item>נײַ־נארוועגיש</item>
+    <!-- no - Norwegian -->
+    <item>נארוועגיש</item>
+    <!-- oc - Occitan -->
+    <item>אקסיטאַניש</item>
+    <!-- os - Ossetic -->
+    <item>אסעטיש</item>
+    <!-- peo - Old Persian -->
+    <item>אַלט פּערסיש</item>
+    <!-- pl - Polish -->
+    <item>פּויליש</item>
+    <!-- prg - Prussian -->
+    <item>פּרייסיש</item>
+    <!-- ps - Pashto -->
+    <item>פּאַשטאָ</item>
+    <!-- pt - Portuguese -->
+    <item>פּארטוגעזיש</item>
+    <!-- ro - Romanian -->
+    <item>רומעניש</item>
+    <!-- ru - Russian -->
+    <item>רוסיש</item>
+    <!-- rue - Rusyn -->
+    <item>רוסיניש</item>
+    <!-- sa - Sanskrit -->
+    <item>סאַנסקריט</item>
+    <!-- sc - Sardinian -->
+    <item>סאַרדיש</item>
+    <!-- scn - Sicilian -->
+    <item>סיציליאַניש</item>
+    <!-- sco - Scots -->
+    <item>סקאטס</item>
+    <!-- sd - Sindhi -->
+    <item>סינדהי</item>
+    <!-- se - Northern Sami -->
+    <item>נארדסאַמיש</item>
+    <!-- sga - Old Irish -->
+    <item>אַלט־איריש</item>
+    <!-- sh - Serbo-Croatian -->
+    <item>סערבא־קראאַטיש</item>
+    <!-- si - Sinhala -->
+    <item>סינהאַליש</item>
+    <!-- sk - Slovak -->
+    <item>סלאוואַקיש</item>
+    <!-- sl - Slovenian -->
+    <item>סלאוועניש</item>
+    <!-- sli - Lower Silesian -->
+    <item>אונטער שלעזיש</item>
+    <!-- sly - Selayar -->
+    <item>sly</item>
+    <!-- sm - Samoan -->
+    <item>סאַמאאַניש</item>
+    <!-- sn - Shona -->
+    <item>שאנאַ</item>
+    <!-- so - Somali -->
+    <item>סאמאַליש</item>
+    <!-- sq - Albanian -->
+    <item>אַלבאַניש</item>
+    <!-- sr - Serbian -->
+    <item>סערביש</item>
+    <!-- sux - Sumerian -->
+    <item>סומעריש</item>
+    <!-- sv - Swedish -->
+    <item>שוועדיש</item>
+    <!-- sw - Swahili -->
+    <item>סוואַהיליש</item>
+    <!-- swb - Comorian -->
+    <item>קאמאריש</item>
+    <!-- swc - Congo Swahili -->
+    <item>קאנגא־סוואַהיליש</item>
+    <!-- szl - Silesian -->
+    <item>שלעזיש</item>
+    <!-- ta - Tamil -->
+    <item>טאַמיל</item>
+    <!-- tig - Tigre -->
+    <item>טיגרע</item>
+    <!-- tk - Turkmen -->
+    <item>טורקמעניש</item>
+    <!-- tl - Tagalog -->
+    <item>טאַגאַלאג</item>
+    <!-- tt - Tatar -->
+    <item>טאָטעריש</item>
+    <!-- uk - Ukrainian -->
+    <item>אוקראַאיניש</item>
+    <!-- und - Unknown Language -->
+    <item>אומבאַוואוסטע שפּראַך</item>
+    <!-- ur - Urdu -->
+    <item>אורדו</item>
+    <!-- uz - Uzbek -->
+    <item>אוזבעקיש</item>
+    <!-- vi - Vietnamese -->
+    <item>וויעטנאַמעזיש</item>
+    <!-- vls - West Flemish -->
+    <item>מערב פֿלעמיש</item>
+    <!-- vo - Volapük -->
+    <item>וואלאַפּוק</item>
+    <!-- yi - Yiddish -->
+    <item>ייִדיש</item>
+    <!-- zh - Chinese -->
+    <item>כינעזיש</item>
+    <!-- zu - Zulu -->
+    <item>זולו</item>
+  </string-array>
+</resources>

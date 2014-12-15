@@ -2,24 +2,66 @@
 <resources>
   <!-- Colognian (ksh) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>Afahresch</item>
     <!-- ab - Abkhazian -->
-    <item>Abchaasesch</item>
+    <item>Abchahsesch</item>
+    <!-- ace - Achinese -->
+    <item>Aschenehsesch</item>
+    <!-- ae - Avestan -->
+    <item>Avästahnesch</item>
+    <!-- aeb - Tunisian Arabic -->
+    <item>Tonehsesch Arahbesch</item>
     <!-- af - Afrikaans -->
     <item>Afrikaans</item>
+    <!-- afh - Afrihili -->
+    <item>Afrehihlesch</item>
+    <!-- ak - Akan -->
+    <item>Akahnesch</item>
+    <!-- akk - Akkadian -->
+    <item>Akahdesch</item>
+    <!-- ale - Aleut -->
+    <item>Ale’uhtesch</item>
     <!-- am - Amharic -->
-    <item>Amhaaresch</item>
+    <item>Amhahresch</item>
+    <!-- an - Aragonese -->
+    <item>Arrajonehsesch</item>
+    <!-- ang - Old English -->
+    <item>Ahl Änglesch</item>
     <!-- ar - Arabic -->
-    <item>Araabesch</item>
+    <item>Arahbesch</item>
     <!-- ar_001 - Modern Standard Arabic -->
-    <item>Schtandatt Araabesch</item>
+    <item>Schtandatt Arahbesch</item>
+    <!-- arq - Algerian Arabic -->
+    <item>Aljehresch Arahbesch</item>
+    <!-- ary - Moroccan Arabic -->
+    <item>Marokahnesch Arahbesch</item>
+    <!-- arz - Egyptian Arabic -->
+    <item>Äjiptesch Arahbesch</item>
     <!-- as - Assamese -->
-    <item>Aßameesesch</item>
+    <item>Aßamehsesch</item>
     <!-- asa - Asu -->
     <item>Pare</item>
+    <!-- ase - American Sign Language -->
+    <item>Amärrekahnesche Blendeschprohch</item>
+    <!-- ast - Asturian -->
+    <item>Astuhrejahnesch</item>
+    <!-- av - Avaric -->
+    <item>Avahresch</item>
     <!-- ay - Aymara -->
-    <item>Aimaresch</item>
+    <item>Aimahresch</item>
     <!-- az - Azerbaijani -->
-    <item>Asserbaidschaanesch</item>
+    <item>Asserbaidschahnesch</item>
+    <!-- azb - South Azerbaijani -->
+    <item>Södasserbaidschahnesch</item>
+    <!-- ba - Bashkir -->
+    <item>Baschkihresch</item>
+    <!-- bal - Baluchi -->
+    <item>Beluhtschesch</item>
+    <!-- ban - Balinese -->
+    <item>Balinehsesch</item>
+    <!-- bar - Bavarian -->
+    <item>Bairesch</item>
     <!-- be - Belarusian -->
     <item>Wiißrußesch</item>
     <!-- bem - Bemba -->
@@ -33,35 +75,69 @@
     <!-- bn - Bengali -->
     <item>Bängjaalesch</item>
     <!-- bo - Tibetan -->
-    <item>Tibeetesch</item>
+    <item>Tibehtesch</item>
+    <!-- bpy - Bishnupriya -->
+    <item>Bischnuprejahnesch</item>
+    <!-- br - Breton -->
+    <item>Bettohnesch</item>
+    <!-- bra - Braj -->
+    <item>Brajesch</item>
+    <!-- brh - Brahui -->
+    <item>Brahuijesch</item>
     <!-- brx - Bodo -->
     <item>Boddo</item>
     <!-- bs - Bosnian -->
     <item>Boßnesch</item>
+    <!-- bua - Buriat -->
+    <item>Burejahtesch</item>
+    <!-- bug - Buginese -->
+    <item>Bujinehsesch</item>
     <!-- ca - Catalan -->
-    <item>Kattalanesch</item>
+    <item>Kattalahnesch</item>
+    <!-- co - Corsican -->
+    <item>Korsesch</item>
+    <!-- cop - Coptic -->
+    <item>Koptesch</item>
     <!-- cs - Czech -->
     <item>Tschäschesch</item>
+    <!-- csb - Kashubian -->
+    <item>Kaschuhbesch</item>
+    <!-- cu - Church Slavic -->
+    <item>Kerscheßlahwesch</item>
+    <!-- cv - Chuvash -->
+    <item>Tschowaschesch</item>
     <!-- cy - Welsh -->
-    <item>Walliisesch</item>
+    <item>Wallihsesch</item>
     <!-- da - Danish -->
-    <item>Dänesch</item>
+    <item>Dähnesch</item>
     <!-- de - German -->
     <item>Deutsch</item>
     <!-- de_AT - Austrian German -->
     <item>Deutsch uß Ößterich</item>
     <!-- de_CH - Swiss High German -->
     <item>Deutsch uß de Schweijz</item>
+    <!-- dsb - Lower Sorbian -->
+    <item>Niddersorbesch</item>
+    <!-- dum - Middle Dutch -->
+    <item>Meddelnehderlängsch</item>
     <!-- dv - Divehi -->
-    <item>Divehesch</item>
+    <item>Divehjesch</item>
     <!-- dz - Dzongkha -->
-    <item>Butanesch</item>
+    <item>Butahnesch</item>
+    <!-- dzg - Dazaga -->
+    <item>Dassajahnesch</item>
     <!-- ebu - Embu -->
     <item>Embu</item>
+    <!-- ee - Ewe -->
+    <item>Ewe</item>
     <!-- efi - Efik -->
     <item>Efik</item>
+    <!-- egl - Emilian -->
+    <item>Emilijahnesch</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>Ahl Äjiptesch</item>
     <!-- el - Greek -->
-    <item>Jriischesch</item>
+    <item>Jrihschesch</item>
     <!-- en - English -->
     <item>Änglesch</item>
     <!-- en_AU - Australian English -->
@@ -72,14 +148,20 @@
     <item>Änglesch uß Jruußbrettannije</item>
     <!-- en_US - American English -->
     <item>Amärrekaanesch Änglesch</item>
+    <!-- enm - Middle English -->
+    <item>Meddelänglesch</item>
     <!-- eo - Esperanto -->
     <item>Esperanto</item>
     <!-- es - Spanish -->
-    <item>Schpaanesch</item>
+    <item>Schpahnesch</item>
     <!-- es_419 - Latin American Spanish -->
     <item>Schpaanesch uß Latting-Ammärrika</item>
     <!-- es_ES - European Spanish -->
-    <item>Schpaanesch uß Schpaaneje</item>
+    <item>Schpahnesch en Schpahneje</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>Schpahnesch en Mäxikoh</item>
+    <!-- esu - Central Yupik -->
+    <item>Zätrahl-Jupik</item>
     <!-- et - Estonian -->
     <item>Äßnesch</item>
     <!-- eu - Basque -->
@@ -89,7 +171,7 @@
     <!-- fi - Finnish -->
     <item>Finnesch</item>
     <!-- fil - Filipino -->
-    <item>Fillipiinesch</item>
+    <item>fil</item>
     <!-- fj - Fijian -->
     <item>Fidschesch</item>
     <!-- fo - Faroese -->
@@ -123,7 +205,7 @@
     <!-- hr - Croatian -->
     <item>Krowatesch</item>
     <!-- ht - Haitian -->
-    <item>Ha'iitesch</item>
+    <item>Ha’iitesch</item>
     <!-- hu - Hungarian -->
     <item>Unjarresch</item>
     <!-- hy - Armenian -->
@@ -132,16 +214,32 @@
     <item>Indoneesesch</item>
     <!-- ig - Igbo -->
     <item>Igbo</item>
+    <!-- inh - Ingush -->
+    <item>Engjuschesch</item>
+    <!-- io - Ido -->
+    <item>Ido</item>
     <!-- is - Icelandic -->
     <item>Ißländesch</item>
     <!-- it - Italian -->
     <item>Etalljänesch</item>
+    <!-- iu - Inuktitut -->
+    <item>Inuktitut</item>
+    <!-- izh - Ingrian -->
+    <item>Ingjrijahnesch</item>
     <!-- ja - Japanese -->
     <item>Japaanesch</item>
+    <!-- jam - Jamaican Creole English -->
+    <item>Jamaikahnesch-Änglesch</item>
+    <!-- jbo - Lojban -->
+    <item>Lodschbahn</item>
+    <!-- jpr - Judeo-Persian -->
+    <item>Jühdesch-Pärsesch</item>
+    <!-- jut - Jutish -->
+    <item>Jütesch</item>
     <!-- jv - Javanese -->
-    <item>Javaanesch</item>
+    <item>Javahnesch</item>
     <!-- ka - Georgian -->
-    <item>Je'orjesch</item>
+    <item>Je’orjesch</item>
     <!-- kea - Kabuverdianu -->
     <item>Kapvärdesch</item>
     <!-- kk - Kazakh -->
@@ -159,7 +257,7 @@
     <!-- ku - Kurdish -->
     <item>Kurdesch</item>
     <!-- ky - Kyrgyz -->
-    <item>Kirjiisesch</item>
+    <item>Kirjihsesch</item>
     <!-- la - Latin -->
     <item>Lateijnesch</item>
     <!-- lah - Lahnda -->
@@ -315,7 +413,7 @@
     <!-- ty - Tahitian -->
     <item>Tahitesch</item>
     <!-- ug - Uyghur -->
-    <item>Uj'juuersch</item>
+    <item>Uj’juuersch</item>
     <!-- uk - Ukrainian -->
     <item>Ukrainesch</item>
     <!-- und - Unknown Language -->

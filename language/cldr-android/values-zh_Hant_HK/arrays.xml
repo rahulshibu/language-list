@@ -2,20 +2,64 @@
 <resources>
   <!-- zh_Hant_HK -->
   <string-array name="languages_all">
+    <!-- arn - Mapuche -->
+    <item>阿勞坎文</item>
+    <!-- ba - Bashkir -->
+    <item>巴什基爾文</item>
+    <!-- br - Breton -->
+    <item>布里多尼文</item>
+    <!-- de_AT - Austrian German -->
+    <item>奧地利德文</item>
     <!-- de_CH - Swiss High German -->
     <item>瑞士德語</item>
+    <!-- en_AU - Australian English -->
+    <item>澳洲英文</item>
+    <!-- en_CA - Canadian English -->
+    <item>加拿大英文</item>
+    <!-- en_GB - British English -->
+    <item>英國英文</item>
+    <!-- en_US - American English -->
+    <item>美國英文</item>
     <!-- eo - Esperanto -->
     <item>世界語</item>
-    <!-- fr_CA - Canadian French -->
-    <item>法文 (加拿大)</item>
-    <!-- gsw - Swiss German -->
-    <item>德文 (瑞士)</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>拉丁美洲西班牙文</item>
+    <!-- es_ES - European Spanish -->
+    <item>歐洲西班牙文</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>墨西哥西班牙文</item>
+    <!-- gl - Galician -->
+    <item>加里西亞文</item>
+    <!-- hr - Croatian -->
+    <item>克羅地亞文</item>
     <!-- it - Italian -->
     <item>意大利文</item>
+    <!-- kn - Kannada -->
+    <item>坎納達文</item>
     <!-- lol - Mongo -->
     <item>蒙古語</item>
+    <!-- mg - Malagasy -->
+    <item>馬拉加斯文</item>
+    <!-- nqo - NʼKo -->
+    <item>西非書面語言 (N’ko)</item>
+    <!-- or - Oriya -->
+    <item>奧里雅文</item>
     <!-- pt_BR - Brazilian Portuguese -->
     <item>巴西葡萄牙語</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>歐洲葡萄牙文</item>
+    <!-- ro_MD - Moldavian -->
+    <item>摩爾多瓦羅馬尼亞文</item>
+    <!-- sd - Sindhi -->
+    <item>信德語</item>
+    <!-- sl - Slovenian -->
+    <item>斯洛文尼亞文</item>
+    <!-- sn - Shona -->
+    <item>修納文</item>
+    <!-- swc - Congo Swahili -->
+    <item>剛果史瓦希里文</item>
+    <!-- ur - Urdu -->
+    <item>烏爾都文</item>
     <!-- zgh - Standard Moroccan Tamazight -->
     <item>摩洛哥標準塔馬齊格特文</item>
   </string-array>
