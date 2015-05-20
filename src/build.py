@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 Builds a set of files in several formats, each of which contains a list of language codes and
