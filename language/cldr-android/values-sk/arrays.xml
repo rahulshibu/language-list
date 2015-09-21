@@ -90,6 +90,8 @@
     <item>bafut</item>
     <!-- bg - Bulgarian -->
     <item>bulharčina</item>
+    <!-- bgn - Western Balochi -->
+    <item>západná balúčtina</item>
     <!-- bho - Bhojpuri -->
     <item>bhódžpurčina</item>
     <!-- bi - Bislama -->
@@ -229,7 +231,7 @@
     <!-- ebu - Embu -->
     <item>embu</item>
     <!-- ee - Ewe -->
-    <item>ewe</item>
+    <item>eweština</item>
     <!-- efi - Efik -->
     <item>efik</item>
     <!-- egy - Ancient Egyptian -->
@@ -325,7 +327,7 @@
     <!-- gmh - Middle High German -->
     <item>stredná horná nemčina</item>
     <!-- gn - Guarani -->
-    <item>guaraní</item>
+    <item>guaraníjčina</item>
     <!-- goh - Old High German -->
     <item>stará horná nemčina</item>
     <!-- gon - Gondi -->
@@ -370,7 +372,7 @@
     <item>chorvátčina</item>
     <!-- hsb - Upper Sorbian -->
     <item>hornolužická srbčina</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>haitčina</item>
     <!-- hu - Hungarian -->
     <item>maďarčina</item>
@@ -540,10 +542,12 @@
     <item>mongo</item>
     <!-- loz - Lozi -->
     <item>lozi</item>
+    <!-- lrc - Northern Luri -->
+    <item>severné luri</item>
     <!-- lt - Lithuanian -->
     <item>litovčina</item>
     <!-- lu - Luba-Katanga -->
-    <item>luba-katanga</item>
+    <item>lubčina (katanžská)</item>
     <!-- lua - Luba-Lulua -->
     <item>luba-luluánčina</item>
     <!-- lui - Luiseno -->
@@ -636,6 +640,8 @@
     <item>myene</item>
     <!-- myv - Erzya -->
     <item>erzjančina</item>
+    <!-- mzn - Mazanderani -->
+    <item>mázandaránčina</item>
     <!-- na - Nauru -->
     <item>nauru</item>
     <!-- nap - Neapolitan -->
@@ -643,11 +649,13 @@
     <!-- naq - Nama -->
     <item>nama</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>nórsky bokmål</item>
+    <item>nórčina (bokmål)</item>
     <!-- nd - North Ndebele -->
     <item>severné ndebele</item>
     <!-- nds - Low German -->
     <item>dolná nemčina</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>dolná saština</item>
     <!-- ne - Nepali -->
     <item>nepálčina</item>
     <!-- new - Newari -->
@@ -665,7 +673,7 @@
     <!-- nmg - Kwasio -->
     <item>kwasio</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>nórsky nynorsk</item>
+    <item>nórčina (nynorsk)</item>
     <!-- nnh - Ngiemboon -->
     <item>ngiemboon</item>
     <!-- no - Norwegian -->
@@ -674,7 +682,7 @@
     <item>nogajčina</item>
     <!-- non - Old Norse -->
     <item>stará nórčina</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>n’ko</item>
     <!-- nr - South Ndebele -->
     <item>južná ndebelčina</item>
@@ -745,7 +753,7 @@
     <!-- qu - Quechua -->
     <item>kečuánčina</item>
     <!-- quc - Kʼicheʼ -->
-    <item>kʼicheʼ</item>
+    <item>kičé</item>
     <!-- raj - Rajasthani -->
     <item>radžastančina</item>
     <!-- rap - Rapanui -->
@@ -800,8 +808,10 @@
     <item>škótčina</item>
     <!-- sd - Sindhi -->
     <item>sindhčina</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>kurdčina (južná)</item>
     <!-- se - Northern Sami -->
-    <item>severné sami</item>
+    <item>lapončina (severná)</item>
     <!-- see - Seneca -->
     <item>seneca</item>
     <!-- seh - Sena -->
@@ -833,13 +843,13 @@
     <!-- sm - Samoan -->
     <item>samojčina</item>
     <!-- sma - Southern Sami -->
-    <item>južné sami</item>
+    <item>lapončina (južná)</item>
     <!-- smj - Lule Sami -->
-    <item>sami (lule)</item>
+    <item>lapončina (lulská)</item>
     <!-- smn - Inari Sami -->
-    <item>sami (inari)</item>
+    <item>lapončina (inarijská)</item>
     <!-- sms - Skolt Sami -->
-    <item>sami (skolt)</item>
+    <item>lapončina (skoltská)</item>
     <!-- sn - Shona -->
     <item>šončina</item>
     <!-- snk - Soninke -->
@@ -986,12 +996,14 @@
     <item>waray</item>
     <!-- was - Washo -->
     <item>washo</item>
+    <!-- wbp - Warlpiri -->
+    <item>warlpiri</item>
     <!-- wo - Wolof -->
-    <item>wolof</item>
+    <item>wolofčina</item>
     <!-- xal - Kalmyk -->
     <item>kalmyčtina</item>
     <!-- xh - Xhosa -->
-    <item>xhosa</item>
+    <item>xhoština</item>
     <!-- xog - Soga -->
     <item>soga</item>
     <!-- yao - Yao -->

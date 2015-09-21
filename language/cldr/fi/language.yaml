@@ -39,7 +39,6 @@ avk: kotava
 awa: awadhi
 ay: aimara
 az: azeri
-azb: "etel\xE4azeri"
 ba: "ba\u0161kiiri"
 bal: "belut\u0161i"
 ban: bali
@@ -56,6 +55,7 @@ bez: bena
 bfd: fut
 bfq: badaga
 bg: bulgaria
+bgn: "l\xE4nsibelut\u0161i"
 bho: "bhod\u017Epuri"
 bi: bislama
 bik: bikol
@@ -147,7 +147,7 @@ enm: keskienglanti
 eo: esperanto
 es: espanja
 es_419: amerikanespanja
-es_ES: espanjanespanja
+es_ES: euroopanespanja
 es_MX: meksikonespanja
 esu: alaskanjupik
 et: viro
@@ -315,6 +315,7 @@ ln: lingala
 lo: lao
 lol: mongo
 loz: lozi
+lrc: pohjoisluri
 lt: liettua
 ltg: latgalli
 lu: katanganluba
@@ -376,6 +377,7 @@ naq: nama
 nb: "norjan bokm\xE5l"
 nd: pohjois-ndebele
 nds: alasaksa
+nds_NL: alankomaidenalasaksa
 ne: nepali
 new: newari
 ng: ndonga
@@ -431,7 +433,7 @@ pro: muinaisprovensaali
 ps: "pa\u0161tu"
 pt: portugali
 pt_BR: brasilianportugali
-pt_PT: portugalinportugali
+pt_PT: euroopanportugali
 qu: "ket\u0161ua"
 quc: "k\u02BCiche\u02BC"
 qug: "chimborazonyl\xE4nk\xF6ket\u0161ua"
@@ -469,6 +471,7 @@ scn: sisilia
 sco: skotti
 sd: sindhi
 sdc: sassarinsardi
+sdh: "etel\xE4kurdi"
 se: pohjoissaame
 see: seneca
 seh: sena
@@ -579,6 +582,7 @@ wae: walser
 wal: wolaitta
 war: waray
 was: washo
+wbp: warlpiri
 wo: wolof
 wuu: wu-kiina
 xal: kalmukki

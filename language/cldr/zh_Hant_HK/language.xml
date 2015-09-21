@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
-    <code>arn</code>
-    <name>阿勞坎文</name>
+    <code>az</code>
+    <name>阿塞拜疆文</name>
+  </language>
+  <language>
+    <code>az_Arab</code>
+    <name>南阿塞拜疆文</name>
   </language>
   <language>
     <code>ba</code>
@@ -11,6 +15,14 @@
   <language>
     <code>br</code>
     <name>布里多尼文</name>
+  </language>
+  <language>
+    <code>bs</code>
+    <name>波斯尼亞文</name>
+  </language>
+  <language>
+    <code>ca</code>
+    <name>加泰隆尼亞文</name>
   </language>
   <language>
     <code>de_AT</code>
@@ -53,8 +65,20 @@
     <name>墨西哥西班牙文</name>
   </language>
   <language>
+    <code>fr_CA</code>
+    <name>加拿大法文</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>瑞士法文</name>
+  </language>
+  <language>
     <code>gl</code>
     <name>加里西亞文</name>
+  </language>
+  <language>
+    <code>gsw</code>
+    <name>瑞士德文</name>
   </language>
   <language>
     <code>hr</code>
@@ -65,20 +89,44 @@
     <name>意大利文</name>
   </language>
   <language>
+    <code>ka</code>
+    <name>格魯吉亞文</name>
+  </language>
+  <language>
     <code>kn</code>
     <name>坎納達文</name>
+  </language>
+  <language>
+    <code>lo</code>
+    <name>老撾文</name>
   </language>
   <language>
     <code>lol</code>
     <name>蒙古語</name>
   </language>
   <language>
+    <code>mfe</code>
+    <name>毛里裘斯克里奧爾文</name>
+  </language>
+  <language>
     <code>mg</code>
     <name>馬拉加斯文</name>
   </language>
   <language>
+    <code>ml</code>
+    <name>馬拉雅拉姆文</name>
+  </language>
+  <language>
+    <code>mt</code>
+    <name>馬耳他文</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>荷蘭低地德文</name>
+  </language>
+  <language>
     <code>nqo</code>
-    <name>西非書面語言 (N’ko)</name>
+    <name>西非書面語言（N’ko）</name>
   </language>
   <language>
     <code>or</code>
@@ -97,6 +145,10 @@
     <name>摩爾多瓦羅馬尼亞文</name>
   </language>
   <language>
+    <code>rw</code>
+    <name>盧旺達文</name>
+  </language>
+  <language>
     <code>sd</code>
     <name>信德語</name>
   </language>
@@ -105,16 +157,36 @@
     <name>斯洛文尼亞文</name>
   </language>
   <language>
+    <code>smn</code>
+    <name>伊納里薩米文</name>
+  </language>
+  <language>
     <code>sn</code>
     <name>修納文</name>
+  </language>
+  <language>
+    <code>so</code>
+    <name>索馬里文</name>
   </language>
   <language>
     <code>swc</code>
     <name>剛果史瓦希里文</name>
   </language>
   <language>
+    <code>ta</code>
+    <name>泰米爾文</name>
+  </language>
+  <language>
+    <code>to</code>
+    <name>湯加文</name>
+  </language>
+  <language>
     <code>ur</code>
     <name>烏爾都文</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>瓦爾皮里文</name>
   </language>
   <language>
     <code>zgh</code>

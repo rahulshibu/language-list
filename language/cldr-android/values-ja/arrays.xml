@@ -84,8 +84,6 @@
     <item>アイマラ語</item>
     <!-- az - Azerbaijani -->
     <item>アゼルバイジャン語</item>
-    <!-- azb - South Azerbaijani -->
-    <item>南アゼルバイジャン語</item>
     <!-- ba - Bashkir -->
     <item>バシキール語</item>
     <!-- bal - Baluchi -->
@@ -118,6 +116,8 @@
     <item>バダガ語</item>
     <!-- bg - Bulgarian -->
     <item>ブルガリア語</item>
+    <!-- bgn - Western Balochi -->
+    <item>西バローチー語</item>
     <!-- bho - Bhojpuri -->
     <item>ボージュプリー語</item>
     <!-- bi - Bislama -->
@@ -233,7 +233,7 @@
     <!-- de - German -->
     <item>ドイツ語</item>
     <!-- de_CH - Swiss High German -->
-    <item>標準ドイツ語(スイス)</item>
+    <item>標準ドイツ語 (スイス)</item>
     <!-- del - Delaware -->
     <item>デラウェア語</item>
     <!-- den - Slave -->
@@ -297,7 +297,7 @@
     <!-- es - Spanish -->
     <item>スペイン語</item>
     <!-- es_ES - European Spanish -->
-    <item>スペイン語(イベリア半島)</item>
+    <item>スペイン語 (イベリア半島)</item>
     <!-- esu - Central Yupik -->
     <item>中央アラスカ・ユピック語</item>
     <!-- et - Estonian -->
@@ -430,7 +430,7 @@
     <item>上ソルビア語</item>
     <!-- hsn - Xiang Chinese -->
     <item>湘語</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>ハイチ語</item>
     <!-- hu - Hungarian -->
     <item>ハンガリー語</item>
@@ -489,7 +489,7 @@
     <!-- jv - Javanese -->
     <item>ジャワ語</item>
     <!-- ka - Georgian -->
-    <item>グルジア語</item>
+    <item>ジョージア語</item>
     <!-- kaa - Kara-Kalpak -->
     <item>カラカルパク語</item>
     <!-- kab - Kabyle -->
@@ -626,6 +626,8 @@
     <item>モンゴ語</item>
     <!-- loz - Lozi -->
     <item>ロジ語</item>
+    <!-- lrc - Northern Luri -->
+    <item>北ロル語</item>
     <!-- lt - Lithuanian -->
     <item>リトアニア語</item>
     <!-- ltg - Latgalian -->
@@ -778,7 +780,7 @@
     <item>古ノルド語</item>
     <!-- nov - Novial -->
     <item>ノヴィアル</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>ンコ語</item>
     <!-- nr - South Ndebele -->
     <item>南ンデベレ語</item>
@@ -857,7 +859,7 @@
     <!-- pt - Portuguese -->
     <item>ポルトガル語</item>
     <!-- pt_PT - European Portuguese -->
-    <item>ポルトガル語(イベリア半島)</item>
+    <item>ポルトガル語 (イベリア半島)</item>
     <!-- qu - Quechua -->
     <item>ケチュア語</item>
     <!-- quc - Kʼicheʼ -->
@@ -932,6 +934,8 @@
     <item>シンド語</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>サッサリ・サルデーニャ語</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>南部クルド語</item>
     <!-- se - Northern Sami -->
     <item>北サーミ語</item>
     <!-- see - Seneca -->
@@ -1152,6 +1156,8 @@
     <item>ワライ語</item>
     <!-- was - Washo -->
     <item>ワショ語</item>
+    <!-- wbp - Warlpiri -->
+    <item>ワルピリ語</item>
     <!-- wo - Wolof -->
     <item>ウォロフ語</item>
     <!-- wuu - Wu Chinese -->

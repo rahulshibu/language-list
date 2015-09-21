@@ -165,10 +165,6 @@
     <name>azerski</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>południowoazerski</name>
-  </language>
-  <language>
     <code>ba</code>
     <name>baszkirski</name>
   </language>
@@ -231,6 +227,10 @@
   <language>
     <code>bg</code>
     <name>bułgarski</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>beludżi północny</name>
   </language>
   <language>
     <code>bho</code>
@@ -1269,6 +1269,10 @@
     <name>lozi</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>luryjski północny</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>litewski</name>
   </language>
@@ -1510,7 +1514,7 @@
   </language>
   <language>
     <code>nds</code>
-    <name>dolnosaksoński</name>
+    <name>dolnoniemiecki</name>
   </language>
   <language>
     <code>ne</code>
@@ -1542,7 +1546,7 @@
   </language>
   <language>
     <code>nl_BE</code>
-    <name>flamandzki (Belgia)</name>
+    <name>flamandzki</name>
   </language>
   <language>
     <code>nmg</code>
@@ -1883,6 +1887,10 @@
   <language>
     <code>sdc</code>
     <name>sassarski</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>południowokurdyjski</name>
   </language>
   <language>
     <code>se</code>
@@ -2325,6 +2333,10 @@
     <name>washo</name>
   </language>
   <language>
+    <code>wbp</code>
+    <name>Warlpiri</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>wolof</name>
   </language>
@@ -2402,7 +2414,7 @@
   </language>
   <language>
     <code>zgh</code>
-    <name>zgh</name>
+    <name>standardowy marokański tamazight</name>
   </language>
   <language>
     <code>zh</code>

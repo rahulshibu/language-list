@@ -165,10 +165,6 @@
     <name>azeri</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>eteläazeri</name>
-  </language>
-  <language>
     <code>ba</code>
     <name>baškiiri</name>
   </language>
@@ -231,6 +227,10 @@
   <language>
     <code>bg</code>
     <name>bulgaria</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>länsibelutši</name>
   </language>
   <language>
     <code>bho</code>
@@ -598,7 +598,7 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>espanjanespanja</name>
+    <name>euroopanespanja</name>
   </language>
   <language>
     <code>es_MX</code>
@@ -1269,6 +1269,10 @@
     <name>lozi</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>pohjoisluri</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>liettua</name>
   </language>
@@ -1513,6 +1517,10 @@
     <name>alasaksa</name>
   </language>
   <language>
+    <code>nds_NL</code>
+    <name>alankomaidenalasaksa</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>nepali</name>
   </language>
@@ -1734,7 +1742,7 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>portugalinportugali</name>
+    <name>euroopanportugali</name>
   </language>
   <language>
     <code>qu</code>
@@ -1883,6 +1891,10 @@
   <language>
     <code>sdc</code>
     <name>sassarinsardi</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>eteläkurdi</name>
   </language>
   <language>
     <code>se</code>
@@ -2323,6 +2335,10 @@
   <language>
     <code>was</code>
     <name>washo</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>warlpiri</name>
   </language>
   <language>
     <code>wo</code>

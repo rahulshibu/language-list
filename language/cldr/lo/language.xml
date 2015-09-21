@@ -177,6 +177,10 @@
     <name>ບັງກາຣຽນ</name>
   </language>
   <language>
+    <code>bgn</code>
+    <name>ບາໂລຈີ ພາກຕາເວັນຕົກ</name>
+  </language>
+  <language>
     <code>bho</code>
     <name>ໂບພູຣິ</name>
   </language>
@@ -386,7 +390,7 @@
   </language>
   <language>
     <code>de_AT</code>
-    <name>ອອສຕຣຽນ ເຈີແມນ</name>
+    <name>ເຢຍລະມັນ (ໂອສຕຣິດ)</name>
   </language>
   <language>
     <code>de_CH</code>
@@ -482,11 +486,7 @@
   </language>
   <language>
     <code>en_AU</code>
-    <name>ອັງກິດ (ອອສເຕຣລຽນ)</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>ອັງກິດ (ເຄເນດຽນ)</name>
+    <name>ອັງກິດ (ໂອດສະຕາລີ)</name>
   </language>
   <language>
     <code>en_GB</code>
@@ -502,7 +502,7 @@
   </language>
   <language>
     <code>eo</code>
-    <name>ເອສເປີຣັນໂຕ</name>
+    <name>ເອສປາຍ</name>
   </language>
   <language>
     <code>es</code>
@@ -514,7 +514,7 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>ຢູໂຣປຽນ ສະແປນນິຊ</name>
+    <name>ສະເປັນ ຢຸໂຣບ</name>
   </language>
   <language>
     <code>es_MX</code>
@@ -574,11 +574,7 @@
   </language>
   <language>
     <code>fr_CA</code>
-    <name>ເຄເນດຽນ ຝຣັ່ງ</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>ສະວິສ ຝຣັ່ງ</name>
+    <name>ຟລັງ(ການາດາ)</name>
   </language>
   <language>
     <code>frm</code>
@@ -602,7 +598,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>ເວສເທີນ ຟຣິຊຽນ</name>
+    <name>ຟຣິຊຽນ ຕາເວັນຕົກ</name>
   </language>
   <language>
     <code>ga</code>
@@ -734,7 +730,7 @@
   </language>
   <language>
     <code>hsb</code>
-    <name>ຊຸບເປີຊໍບຽນ</name>
+    <name>ຊໍບຽນ ທາງຕອນເໜືອ</name>
   </language>
   <language>
     <code>ht</code>
@@ -982,7 +978,7 @@
   </language>
   <language>
     <code>ks</code>
-    <name>ຄັດຊະມີຣີ</name>
+    <name>ຄາສເມຍຣິ</name>
   </language>
   <language>
     <code>ksb</code>
@@ -1075,6 +1071,10 @@
   <language>
     <code>loz</code>
     <name>ໂລຊິ</name>
+  </language>
+  <language>
+    <code>lrc</code>
+    <name>ລູຣິ ທາງຕອນເໜືອ</name>
   </language>
   <language>
     <code>lt</code>
@@ -1269,6 +1269,10 @@
     <name>ເອີຍາ</name>
   </language>
   <language>
+    <code>mzn</code>
+    <name>ມາແຊນເດີລັງ</name>
+  </language>
+  <language>
     <code>na</code>
     <name>ນາຢູລູ</name>
   </language>
@@ -1290,7 +1294,11 @@
   </language>
   <language>
     <code>nds</code>
-    <name>ເຢຍລະມັນຕ່ຳ ແຊກຊອນຕໍ່ຳ</name>
+    <name>ເຢຍລະມັນ ຕອນໄຕ້</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>ຊາຊອນ ຕອນໄຕ</name>
   </language>
   <language>
     <code>ne</code>
@@ -1470,15 +1478,15 @@
   </language>
   <language>
     <code>pt</code>
-    <name>ປໍຕູກີສ</name>
+    <name>ປອກຕຸຍກິສ</name>
   </language>
   <language>
     <code>pt_BR</code>
-    <name>ບຣາຊິລຽນ ປໍຕູກີສ</name>
+    <name>ປອກຕຸຍກິສ ບະເລຊີ່ນ</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>ຢູໂຣປຽນ ປໍຕູກີສ</name>
+    <name>ປອກຕຸຍກິສ ຢຸໂຣບ</name>
   </language>
   <language>
     <code>qu</code>
@@ -1502,7 +1510,7 @@
   </language>
   <language>
     <code>rm</code>
-    <name>ໂຣແມນ</name>
+    <name>ໂຣແມນຊ໌</name>
   </language>
   <language>
     <code>rn</code>
@@ -1530,7 +1538,7 @@
   </language>
   <language>
     <code>ru</code>
-    <name>ຣັດຊຽນ</name>
+    <name>ລັດເຊຍ</name>
   </language>
   <language>
     <code>rup</code>
@@ -1595,6 +1603,10 @@
   <language>
     <code>sd</code>
     <name>ສິນທິ</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>ພາກໄຕ້ ຂອງ ກູດິດ</name>
   </language>
   <language>
     <code>se</code>
@@ -1918,7 +1930,7 @@
   </language>
   <language>
     <code>ur</code>
-    <name>ອູຣະດູ</name>
+    <name>ອູຣດູ</name>
   </language>
   <language>
     <code>uz</code>
@@ -1967,6 +1979,10 @@
   <language>
     <code>was</code>
     <name>ວາໂຊ</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>ວາຣພິຣິ</name>
   </language>
   <language>
     <code>wo</code>

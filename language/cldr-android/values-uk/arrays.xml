@@ -28,6 +28,8 @@
     <item>акан</item>
     <!-- akk - Akkadian -->
     <item>аккадська</item>
+    <!-- akz - Alabama -->
+    <item>алабама</item>
     <!-- ale - Aleut -->
     <item>алеутська</item>
     <!-- alt - Southern Altai -->
@@ -48,14 +50,20 @@
     <item>арамейська</item>
     <!-- arn - Mapuche -->
     <item>арауканська</item>
+    <!-- aro - Araona -->
+    <item>араона</item>
     <!-- arp - Arapaho -->
     <item>арапахо</item>
+    <!-- arq - Algerian Arabic -->
+    <item>алжирська арабська</item>
     <!-- arw - Arawak -->
     <item>аравакська</item>
     <!-- as - Assamese -->
     <item>ассамська</item>
     <!-- asa - Asu -->
     <item>асу</item>
+    <!-- ase - American Sign Language -->
+    <item>американська мова рухів</item>
     <!-- ast - Asturian -->
     <item>астурська</item>
     <!-- av - Avaric -->
@@ -66,16 +74,22 @@
     <item>аймара</item>
     <!-- az - Azerbaijani -->
     <item>азербайджанська</item>
+    <!-- az_Arab -->
+    <item>південноазербайджанська</item>
     <!-- ba - Bashkir -->
     <item>башкирська</item>
     <!-- bal - Baluchi -->
     <item>балучі</item>
     <!-- ban - Balinese -->
     <item>балійська</item>
+    <!-- bar - Bavarian -->
+    <item>баеріш</item>
     <!-- bas - Basaa -->
     <item>баса</item>
     <!-- bax - Bamun -->
     <item>бамум</item>
+    <!-- bbc - Batak Toba -->
+    <item>батак тоба</item>
     <!-- bbj - Ghomala -->
     <item>гомала</item>
     <!-- be - Belarusian -->
@@ -84,12 +98,18 @@
     <item>беджа</item>
     <!-- bem - Bemba -->
     <item>бемба</item>
+    <!-- bew - Betawi -->
+    <item>бетаві</item>
     <!-- bez - Bena -->
     <item>бена</item>
     <!-- bfd - Bafut -->
     <item>бафут</item>
+    <!-- bfq - Badaga -->
+    <item>бадага</item>
     <!-- bg - Bulgarian -->
     <item>болгарська</item>
+    <!-- bgn - Western Balochi -->
+    <item>східнобелуджійська</item>
     <!-- bho - Bhojpuri -->
     <item>бходжпурі</item>
     <!-- bi - Bislama -->
@@ -98,6 +118,8 @@
     <item>бікольська</item>
     <!-- bin - Bini -->
     <item>біні</item>
+    <!-- bjn - Banjar -->
+    <item>банджарська</item>
     <!-- bkm - Kom -->
     <item>ком</item>
     <!-- bla - Siksika -->
@@ -108,6 +130,8 @@
     <item>бенгальська</item>
     <!-- bo - Tibetan -->
     <item>тибетська</item>
+    <!-- bqi - Bakhtiari -->
+    <item>бахтіарі</item>
     <!-- br - Breton -->
     <item>бретонська</item>
     <!-- bra - Braj -->
@@ -280,6 +304,8 @@
     <item>середньофранцузька</item>
     <!-- fro - Old French -->
     <item>давньофранцузька</item>
+    <!-- frp - Arpitan -->
+    <item>арпітанська</item>
     <!-- frr - Northern Frisian -->
     <item>фризька північна</item>
     <!-- frs - Eastern Frisian -->
@@ -287,7 +313,7 @@
     <!-- fur - Friulian -->
     <item>фріульська</item>
     <!-- fy - Western Frisian -->
-    <item>західно-фризька</item>
+    <item>західнофризька</item>
     <!-- ga - Irish -->
     <item>ірландська</item>
     <!-- gaa - Ga -->
@@ -323,7 +349,7 @@
     <!-- grc - Ancient Greek -->
     <item>давньогрецька</item>
     <!-- gsw - Swiss German -->
-    <item>німецька швейцарська</item>
+    <item>німецька (Швейцарія)</item>
     <!-- gu - Gujarati -->
     <item>гуджараті</item>
     <!-- guz - Gusii -->
@@ -354,7 +380,7 @@
     <item>хорватська</item>
     <!-- hsb - Upper Sorbian -->
     <item>верхньолужицька</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>гаїтянська</item>
     <!-- hu - Hungarian -->
     <item>угорська</item>
@@ -524,6 +550,8 @@
     <item>монго</item>
     <!-- loz - Lozi -->
     <item>лозі</item>
+    <!-- lrc - Northern Luri -->
+    <item>північна лурська</item>
     <!-- lt - Lithuanian -->
     <item>литовська</item>
     <!-- lu - Luba-Katanga -->
@@ -620,6 +648,8 @@
     <item>миін</item>
     <!-- myv - Erzya -->
     <item>ерзя</item>
+    <!-- mzn - Mazanderani -->
+    <item>мазандеранська</item>
     <!-- na - Nauru -->
     <item>науру</item>
     <!-- nap - Neapolitan -->
@@ -632,6 +662,8 @@
     <item>ндебелє північна</item>
     <!-- nds - Low German -->
     <item>нижньонімецька</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>нижньосаксонська</item>
     <!-- ne - Nepali -->
     <item>непальська</item>
     <!-- new - Newari -->
@@ -642,6 +674,8 @@
     <item>ніаська</item>
     <!-- niu - Niuean -->
     <item>ніуе</item>
+    <!-- njo - Ao Naga -->
+    <item>ао нага</item>
     <!-- nl - Dutch -->
     <item>голландська</item>
     <!-- nl_BE - Flemish -->
@@ -658,7 +692,7 @@
     <item>ногайська</item>
     <!-- non - Old Norse -->
     <item>давньонорвезька</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>нко</item>
     <!-- nr - South Ndebele -->
     <item>ндебелє південна</item>
@@ -755,7 +789,7 @@
     <!-- rw - Kinyarwanda -->
     <item>кіньяруанда</item>
     <!-- rwk - Rwa -->
-    <item>Рва</item>
+    <item>рва</item>
     <!-- sa - Sanskrit -->
     <item>санскрит</item>
     <!-- sad - Sandawe -->
@@ -782,6 +816,8 @@
     <item>шотландська</item>
     <!-- sd - Sindhi -->
     <item>сіндхі</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>південнокурдська</item>
     <!-- se - Northern Sami -->
     <item>саамська північна</item>
     <!-- see - Seneca -->
@@ -815,7 +851,7 @@
     <!-- sm - Samoan -->
     <item>самоанська</item>
     <!-- sma - Southern Sami -->
-    <item>саамська південна</item>
+    <item>південносаамська</item>
     <!-- smj - Lule Sami -->
     <item>саамська луле</item>
     <!-- smn - Inari Sami -->
@@ -961,13 +997,15 @@
     <!-- wa - Walloon -->
     <item>валлонська</item>
     <!-- wae - Walser -->
-    <item>Валзерська</item>
+    <item>валзерська</item>
     <!-- wal - Wolaytta -->
     <item>валамо</item>
     <!-- war - Waray -->
     <item>варай</item>
     <!-- was - Washo -->
     <item>вашо</item>
+    <!-- wbp - Warlpiri -->
+    <item>валпірі</item>
     <!-- wo - Wolof -->
     <item>волоф</item>
     <!-- xal - Kalmyk -->
@@ -1002,6 +1040,10 @@
     <item>стандартна марокканська берберська</item>
     <!-- zh - Chinese -->
     <item>китайська</item>
+    <!-- zh_Hans - Simplified Chinese -->
+    <item>китайська спрощена</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>китайська традиційна</item>
     <!-- zu - Zulu -->
     <item>зулуська</item>
     <!-- zun - Zuni -->

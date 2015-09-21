@@ -17,7 +17,7 @@
     <!-- ae - Avestan -->
     <item>авестски</item>
     <!-- af - Afrikaans -->
-    <item>африканс</item>
+    <item>африкаанс</item>
     <!-- afh - Afrihili -->
     <item>африхили</item>
     <!-- agq - Aghem -->
@@ -84,6 +84,8 @@
     <item>бена</item>
     <!-- bg - Bulgarian -->
     <item>български</item>
+    <!-- bgn - Western Balochi -->
+    <item>западен балочи</item>
     <!-- bho - Bhojpuri -->
     <item>божпури</item>
     <!-- bi - Bislama -->
@@ -149,7 +151,7 @@
     <!-- chy - Cheyenne -->
     <item>чейенски</item>
     <!-- ckb - Central Kurdish -->
-    <item>кюрдски (сорани)</item>
+    <item>кюрдски (централен)</item>
     <!-- co - Corsican -->
     <item>корсикански</item>
     <!-- cop - Coptic -->
@@ -178,10 +180,6 @@
     <item>таита</item>
     <!-- de - German -->
     <item>немски</item>
-    <!-- de_AT - Austrian German -->
-    <item>австрийски немски</item>
-    <!-- de_CH - Swiss High German -->
-    <item>швейцарски горногермански</item>
     <!-- del - Delaware -->
     <item>делауер</item>
     <!-- den - Slave -->
@@ -224,22 +222,14 @@
     <item>еламитски</item>
     <!-- en - English -->
     <item>английски</item>
-    <!-- en_AU - Australian English -->
-    <item>австралийски английски</item>
-    <!-- en_CA - Canadian English -->
-    <item>канадски английски</item>
-    <!-- en_GB - British English -->
-    <item>британски английски</item>
     <!-- en_US - American English -->
-    <item>американски английски</item>
+    <item>английски (САЩ)</item>
     <!-- enm - Middle English -->
     <item>средновековен английски</item>
     <!-- eo - Esperanto -->
     <item>есперанто</item>
     <!-- es - Spanish -->
     <item>испански</item>
-    <!-- es_MX - Mexican Spanish -->
-    <item>мексикански испански</item>
     <!-- et - Estonian -->
     <item>естонски</item>
     <!-- eu - Basque -->
@@ -266,10 +256,6 @@
     <item>фон</item>
     <!-- fr - French -->
     <item>френски</item>
-    <!-- fr_CA - Canadian French -->
-    <item>канадски френски</item>
-    <!-- fr_CH - Swiss French -->
-    <item>швейцарски френски</item>
     <!-- frm - Middle French -->
     <item>средновековен френски</item>
     <!-- fro - Old French -->
@@ -348,7 +334,7 @@
     <item>хърватски</item>
     <!-- hsb - Upper Sorbian -->
     <item>горнолужишки</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>хаитянски</item>
     <!-- hu - Hungarian -->
     <item>унгарски</item>
@@ -510,6 +496,8 @@
     <item>монго</item>
     <!-- loz - Lozi -->
     <item>лози</item>
+    <!-- lrc - Northern Luri -->
+    <item>северен лури</item>
     <!-- lt - Lithuanian -->
     <item>литовски</item>
     <!-- lu - Luba-Katanga -->
@@ -600,6 +588,8 @@
     <item>бирмански</item>
     <!-- myv - Erzya -->
     <item>ерзиа</item>
+    <!-- mzn - Mazanderani -->
+    <item>мазандаран</item>
     <!-- na - Nauru -->
     <item>науру</item>
     <!-- nap - Neapolitan -->
@@ -607,10 +597,12 @@
     <!-- naq - Nama -->
     <item>нама</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>норвежки букмол</item>
+    <item>норвежки (букмол)</item>
     <!-- nd - North Ndebele -->
     <item>северен ндебеле</item>
     <!-- nds - Low German -->
+    <item>долнонемски</item>
+    <!-- nds_NL - Low Saxon -->
     <item>долносаксонски</item>
     <!-- ne - Nepali -->
     <item>непалски</item>
@@ -629,14 +621,14 @@
     <!-- nmg - Kwasio -->
     <item>квасио</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>норвежки нюношк</item>
+    <item>норвежки (нюношк)</item>
     <!-- no - Norwegian -->
     <item>норвежки</item>
     <!-- nog - Nogai -->
     <item>ногаи</item>
     <!-- non - Old Norse -->
     <item>старонорвежски</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>нко</item>
     <!-- nr - South Ndebele -->
     <item>южен ндебеле</item>
@@ -756,6 +748,8 @@
     <item>шотландски</item>
     <!-- sd - Sindhi -->
     <item>синдхи</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>южнокюрдски</item>
     <!-- se - Northern Sami -->
     <item>северносаамски</item>
     <!-- seh - Sena -->
@@ -932,6 +926,8 @@
     <item>варай</item>
     <!-- was - Washo -->
     <item>уашо</item>
+    <!-- wbp - Warlpiri -->
+    <item>валпири</item>
     <!-- wo - Wolof -->
     <item>волоф</item>
     <!-- xal - Kalmyk -->
@@ -962,10 +958,6 @@
     <item>стандартен марокански тамазигт</item>
     <!-- zh - Chinese -->
     <item>китайски</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>опростен китайски</item>
-    <!-- zh_Hant - Traditional Chinese -->
-    <item>традиционен китайски</item>
     <!-- zu - Zulu -->
     <item>зулуски</item>
     <!-- zun - Zuni -->

@@ -102,7 +102,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>araukan</name>
+    <name>mapuche</name>
   </language>
   <language>
     <code>aro</code>
@@ -163,10 +163,6 @@
   <language>
     <code>az</code>
     <name>azéri</name>
-  </language>
-  <language>
-    <code>azb</code>
-    <name>azéri méridional</name>
   </language>
   <language>
     <code>ba</code>
@@ -231,6 +227,10 @@
   <language>
     <code>bg</code>
     <name>bulgare</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>baloutchi occidental</name>
   </language>
   <language>
     <code>bho</code>
@@ -878,7 +878,7 @@
   </language>
   <language>
     <code>ht</code>
-    <name>haïtien</name>
+    <name>créole haïtien</name>
   </language>
   <language>
     <code>hu</code>
@@ -962,7 +962,7 @@
   </language>
   <language>
     <code>jam</code>
-    <name>créole anglais jamaïcain</name>
+    <name>créole jamaïcain</name>
   </language>
   <language>
     <code>jbo</code>
@@ -1269,6 +1269,10 @@
     <name>lozi</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>lori du Nord</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>lituanien</name>
   </language>
@@ -1511,6 +1515,10 @@
   <language>
     <code>nds</code>
     <name>bas-allemand</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>bas-saxon néerlandais</name>
   </language>
   <language>
     <code>ne</code>
@@ -1885,6 +1893,10 @@
     <name>sarde sassarais</name>
   </language>
   <language>
+    <code>sdh</code>
+    <name>kurde du Sud</name>
+  </language>
+  <language>
     <code>se</code>
     <name>sami du Nord</name>
   </language>
@@ -2174,7 +2186,7 @@
   </language>
   <language>
     <code>tru</code>
-    <name>touroyo</name>
+    <name>turoyo</name>
   </language>
   <language>
     <code>trv</code>
@@ -2325,12 +2337,16 @@
     <name>washo</name>
   </language>
   <language>
+    <code>wbp</code>
+    <name>warlpiri</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>wolof</name>
   </language>
   <language>
     <code>wuu</code>
-    <name>chinois wu</name>
+    <name>wu</name>
   </language>
   <language>
     <code>xal</code>

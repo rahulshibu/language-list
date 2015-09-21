@@ -23,7 +23,7 @@ anp: Angika
 ar: Arabisch
 ar_001: Modernes Hocharabisch
 arc: "Aram\xE4isch"
-arn: Araukanisch
+arn: Mapudungun
 aro: Araona
 arp: Arapaho-Sprache
 arq: Algerisches Arabisch
@@ -39,7 +39,6 @@ avk: Kotava
 awa: Awadhi
 ay: Aymara
 az: Aserbaidschanisch
-azb: "S\xFCdaserbaidschanisch"
 ba: Baschkirisch
 bal: Belutschisch
 ban: Balinesisch
@@ -50,12 +49,13 @@ bbc: Batak Toba
 bbj: Ghomala
 be: "Wei\xDFrussisch"
 bej: Bedauye
-bem: Bemba-Sprache
+bem: Bemba
 bew: Betawi
 bez: Bena
 bfd: Bafut
 bfq: Badaga
 bg: Bulgarisch
+bgn: Westliches Belutschi
 bho: Bhodschpuri
 bi: Bislama
 bik: Bikol-Sprache
@@ -63,7 +63,7 @@ bin: Bini-Sprache
 bjn: Banjaresisch
 bkm: Kom
 bla: Blackfoot-Sprache
-bm: Bambara-Sprache
+bm: Bambara
 bn: Bengalisch
 bo: Tibetisch
 bpy: Bishnupriya
@@ -97,7 +97,7 @@ cho: Choctaw
 chp: Chipewyan
 chr: Cherokee
 chy: Cheyenne
-ckb: Sorani
+ckb: Zentralkurdisch
 co: Korsisch
 cop: Koptisch
 cps: Capiznon
@@ -128,7 +128,7 @@ dum: "Mittelniederl\xE4ndisch"
 dv: Maledivisch
 dyo: Diola
 dyu: Dyula-Sprache
-dz: Bhutanisch
+dz: Dzongkha
 dzg: Dazaga
 ebu: Embu
 ee: Ewe
@@ -203,7 +203,7 @@ gur: Farefare
 guz: Gusii
 gv: Manx
 gwi: Kutchin-Sprache
-ha: Hausa
+ha: Haussa
 hai: Haida-Sprache
 hak: Hakka
 haw: Hawaiisch
@@ -217,7 +217,7 @@ ho: Hiri-Motu
 hr: Kroatisch
 hsb: Obersorbisch
 hsn: Xiang
-ht: Haitianisch
+ht: Haiti-Kreolisch
 hu: Ungarisch
 hup: Hupa
 hy: Armenisch
@@ -273,7 +273,7 @@ kk: Kasachisch
 kkj: Kako
 kl: "Gr\xF6nl\xE4ndisch"
 kln: Kalenjin
-km: Kambodschanisch
+km: Khmer
 kmb: Kimbundu-Sprache
 kn: Kannada
 ko: Koreanisch
@@ -287,7 +287,7 @@ kri: Krio
 krj: Kinaray-a
 krl: Karelisch
 kru: Oraon-Sprache
-ks: Kaschmirisch
+ks: Kaschmiri
 ksb: Shambala
 ksf: Bafia
 ksh: "K\xF6lsch"
@@ -315,6 +315,7 @@ ln: Lingala
 lo: Laotisch
 lol: Mongo
 loz: Rotse-Sprache
+lrc: "N\xF6rdliches Luri"
 lt: Litauisch
 ltg: Lettgallisch
 lu: Luba-Katanga
@@ -333,7 +334,7 @@ mag: Khotta
 mai: Maithili
 mak: Makassarisch
 man: Manding-Sprache
-mas: Massai-Sprache
+mas: Massai
 mde: Maba
 mdf: Moksha
 mdr: Mandaresisch
@@ -374,8 +375,9 @@ nan: Min Nan
 nap: Neapolitanisch
 naq: Nama
 nb: "Norwegisch Bokm\xE5l"
-nd: Nord-Ndebele-Sprache
+nd: Nord-Ndebele
 nds: Niederdeutsch
+nds_NL: "Nieders\xE4chsisch"
 ne: Nepalesisch
 new: Newari
 ng: Ndonga
@@ -409,7 +411,7 @@ or: Oriya
 os: Ossetisch
 osa: Osage-Sprache
 ota: Osmanisch
-pa: Panjabi
+pa: Punjabi
 pag: Pangasinan-Sprache
 pal: Mittelpersisch
 pam: Pampanggan-Sprache
@@ -441,7 +443,7 @@ rar: Rarotonganisch
 rgn: Romagnol
 rif: Tarifit
 rm: "R\xE4toromanisch"
-rn: Rundi-Sprache
+rn: Rundi
 ro: "Rum\xE4nisch"
 ro_MD: Moldauisch
 rof: Rombo
@@ -452,7 +454,7 @@ ru: Russisch
 rue: Russinisch
 rug: Roviana
 rup: Aromunisch
-rw: Ruandisch
+rw: Kinyarwanda
 rwk: Rwa
 sa: Sanskrit
 sad: Sandawe-Sprache
@@ -469,7 +471,8 @@ scn: Sizilianisch
 sco: Schottisch
 sd: Sindhi
 sdc: Sassarisch
-se: Nord-Samisch
+sdh: "S\xFCdkurdisch"
+se: Nordsamisch
 see: Seneca
 seh: Sena
 sei: Seri
@@ -489,10 +492,10 @@ sl: Slowenisch
 sli: Schlesisch
 sly: Selayar
 sm: Samoanisch
-sma: "S\xFCd-Samisch"
-smj: Lule-Lappisch
-smn: Inari-Lappisch
-sms: Skolt-Lappisch
+sma: "S\xFCdsamisch"
+smj: Lule-Samisch
+smn: Inari-Samisch
+sms: Skolt-Samisch
 sn: Shona
 snk: Soninke-Sprache
 so: Somali
@@ -516,7 +519,7 @@ swc: Kongo-Suaheli
 syc: Altsyrisch
 syr: Syrisch
 szl: Schlesisch (Polen)
-ta: Tamilisch
+ta: Tamil
 tcy: Tulu
 te: Telugu
 tem: Temne
@@ -525,7 +528,7 @@ ter: Tereno-Sprache
 tet: Tetum-Sprache
 tg: Tadschikisch
 th: "Thail\xE4ndisch"
-ti: Tigrinja
+ti: Tigrinya
 tig: Tigre
 tiv: Tiv-Sprache
 tk: Turkmenisch
@@ -579,6 +582,7 @@ wae: Walser-Dialekte
 wal: Walamo-Sprache
 war: Waray
 was: Washo-Sprache
+wbp: Warlpiri
 wo: Wolof
 wuu: Wu
 xal: "Kalm\xFCckisch"

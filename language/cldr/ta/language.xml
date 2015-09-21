@@ -86,7 +86,7 @@
   </language>
   <language>
     <code>ar_001</code>
-    <name>மாடர்ன் ஸ்டாண்டர்ட் அரபிக்</name>
+    <name>நவீன நிலையான அரபிக்</name>
   </language>
   <language>
     <code>arc</code>
@@ -106,7 +106,7 @@
   </language>
   <language>
     <code>as</code>
-    <name>அஸ்ஸாமி</name>
+    <name>அஸ்ஸாமீஸ்</name>
   </language>
   <language>
     <code>asa</code>
@@ -134,7 +134,7 @@
   </language>
   <language>
     <code>ba</code>
-    <name>பாஷ்கிர்</name>
+    <name>பஷ்கிர்</name>
   </language>
   <language>
     <code>bal</code>
@@ -171,6 +171,10 @@
   <language>
     <code>bg</code>
     <name>பல்கேரியன்</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>மேற்கு பலோச்சி</name>
   </language>
   <language>
     <code>bho</code>
@@ -254,7 +258,7 @@
   </language>
   <language>
     <code>ce</code>
-    <name>செசென்</name>
+    <name>செச்சென்</name>
   </language>
   <language>
     <code>ceb</code>
@@ -298,7 +302,7 @@
   </language>
   <language>
     <code>chr</code>
-    <name>செரொகி</name>
+    <name>செரோகீ</name>
   </language>
   <language>
     <code>chy</code>
@@ -306,11 +310,11 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>சொரானி குர்திஷ்</name>
+    <name>மத்திய குர்திஷ்</name>
   </language>
   <language>
     <code>co</code>
-    <name>கோர்சிகன்</name>
+    <name>கார்சிகன்</name>
   </language>
   <language>
     <code>cop</code>
@@ -342,7 +346,7 @@
   </language>
   <language>
     <code>cy</code>
-    <name>வெல்ஷ்</name>
+    <name>வேல்ஷ்</name>
   </language>
   <language>
     <code>da</code>
@@ -458,11 +462,11 @@
   </language>
   <language>
     <code>en_AU</code>
-    <name>ஆஸ்திரேலியன் ஆங்கிலம்</name>
+    <name>ஆஸ்திரேலிய ஆங்கிலம்</name>
   </language>
   <language>
     <code>en_CA</code>
-    <name>கனடியன் ஆங்கிலம்</name>
+    <name>கனடிய ஆங்கிலம்</name>
   </language>
   <language>
     <code>en_GB</code>
@@ -485,16 +489,8 @@
     <name>ஸ்பானிஷ்</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>லத்தின் அமெரிக்க ஸ்பானிஷ்</name>
-  </language>
-  <language>
     <code>es_ES</code>
-    <name>ஐரோப்பிய ஸ்பானிஷ்</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>மெக்சிகன் ஸ்பானிஷ்</name>
+    <name>ஸ்பானிஷ் (ஐரோப்பா)</name>
   </language>
   <language>
     <code>et</code>
@@ -502,7 +498,7 @@
   </language>
   <language>
     <code>eu</code>
-    <name>பஸ்க்</name>
+    <name>பாஸ்க்</name>
   </language>
   <language>
     <code>ewo</code>
@@ -578,7 +574,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>மேற்கத்திய ஃப்ரிஷியன்</name>
+    <name>மேற்கு ஃப்ரிஷியன்</name>
   </language>
   <language>
     <code>ga</code>
@@ -650,7 +646,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>ஸ்விஸ் ஜெர்மன்</name>
+    <name>ஜெர்மன் (ஸ்விஸ்)</name>
   </language>
   <language>
     <code>gu</code>
@@ -778,7 +774,7 @@
   </language>
   <language>
     <code>is</code>
-    <name>ஐஸ்லென்டிக்</name>
+    <name>ஐஸ்லேண்டிக்</name>
   </language>
   <language>
     <code>it</code>
@@ -814,7 +810,7 @@
   </language>
   <language>
     <code>jv</code>
-    <name>ஜாவானீஸ்</name>
+    <name>ஜாவனீஸ்</name>
   </language>
   <language>
     <code>ka</code>
@@ -1041,6 +1037,10 @@
     <name>லோசி</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>வடக்கு லுரி</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>லிதுவேனியன்</name>
   </language>
@@ -1174,7 +1174,7 @@
   </language>
   <language>
     <code>moh</code>
-    <name>மோஹாவ்க்</name>
+    <name>மொஹாக்</name>
   </language>
   <language>
     <code>mos</code>
@@ -1214,11 +1214,15 @@
   </language>
   <language>
     <code>my</code>
-    <name>பர்மிஸ்</name>
+    <name>பர்மீஸ்</name>
   </language>
   <language>
     <code>myv</code>
     <name>ஏர்ஜியா</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>மசந்தேரனி</name>
   </language>
   <language>
     <code>na</code>
@@ -1243,6 +1247,10 @@
   <language>
     <code>nds</code>
     <name>லோ ஜெர்மன்</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>லோ சாக்ஸன்</name>
   </language>
   <language>
     <code>ne</code>
@@ -1270,7 +1278,7 @@
   </language>
   <language>
     <code>nl_BE</code>
-    <name>பிலெமிஷ்</name>
+    <name>ஃப்லெமிஷ்</name>
   </language>
   <language>
     <code>nmg</code>
@@ -1430,7 +1438,7 @@
   </language>
   <language>
     <code>pt_PT</code>
-    <name>ஐரோப்பிய போர்ச்சுகீஸ்</name>
+    <name>போர்ச்சுகீஸ் (ஐரோப்பா)</name>
   </language>
   <language>
     <code>qu</code>
@@ -1547,6 +1555,10 @@
   <language>
     <code>sd</code>
     <name>சிந்தி</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>தெற்கு குர்திஷ்</name>
   </language>
   <language>
     <code>se</code>
@@ -1746,7 +1758,7 @@
   </language>
   <language>
     <code>tk</code>
-    <name>டர்க்மென்</name>
+    <name>துருக்மென்</name>
   </language>
   <language>
     <code>tkl</code>
@@ -1786,7 +1798,7 @@
   </language>
   <language>
     <code>tr</code>
-    <name>டர்கிஷ்</name>
+    <name>துருக்கிஷ்</name>
   </language>
   <language>
     <code>ts</code>
@@ -1826,7 +1838,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>மத்திய அட்லஸ் தமசைட்</name>
+    <name>மத்திய அட்லஸ் டமசைட்</name>
   </language>
   <language>
     <code>udm</code>
@@ -1899,6 +1911,10 @@
   <language>
     <code>was</code>
     <name>வாஷோ</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>வல்பிரி</name>
   </language>
   <language>
     <code>wo</code>

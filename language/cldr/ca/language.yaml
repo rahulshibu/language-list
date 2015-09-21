@@ -11,7 +11,9 @@ agq: aghem
 ain: ainu
 ak: "\xE0kan"
 akk: accadi
+akz: alabama
 ale: aleuta
+aln: "alban\xE8s geg"
 alt: altaic meridional
 am: "amh\xE0ric"
 an: "aragon\xE8s"
@@ -21,10 +23,13 @@ ar: "\xE0rab"
 ar_001: "\xE0rab est\xE0ndard modern"
 arc: arameu
 arn: "arauc\xE0"
+aro: araona
 arp: arapaho
 arw: arauac
+arz: "\xE0rab egipci"
 as: "assam\xE8s"
 asa: pare
+ase: llengua de signes americana
 ast: "asturi\xE0"
 av: "\xE0var"
 awa: awadhi
@@ -33,6 +38,7 @@ az: "azerbaidjan\xE8s"
 ba: baixkir
 bal: balutxi
 ban: "balin\xE8s"
+bar: "bavar\xE8s"
 bas: basa
 bax: bamun
 bbj: ghomala
@@ -41,7 +47,9 @@ bej: beja
 bem: bemba
 bez: bena
 bfd: bafut
+bfq: badaga
 bg: "b\xFAlgar"
+bgn: balutxi occidental
 bho: bhojpuri
 bi: bislama
 bik: bicol
@@ -53,6 +61,7 @@ bn: "bengal\xED"
 bo: "tibet\xE0"
 br: "bret\xF3"
 bra: braj
+brh: brahui
 brx: bodo
 bs: "bosni\xE0"
 bss: akoose
@@ -113,6 +122,7 @@ dzg: dazaga
 ebu: embu
 ee: ewe
 efi: efik
+egl: "emili\xE0"
 egy: egipci antic
 eka: ekajuk
 el: grec
@@ -131,6 +141,7 @@ es_MX: "espanyol de M\xE8xic"
 et: "estoni\xE0"
 eu: basc
 ewo: ewondo
+ext: extremeny
 fa: persa
 fan: fang
 fat: fanti
@@ -146,21 +157,24 @@ fr_CH: "franc\xE8s su\xEDs"
 frm: "franc\xE8s mitj\xE0"
 fro: "franc\xE8s antic"
 frr: "fris\xF3 septentrional"
-frs: "fris\xF3 occidental"
+frs: "fris\xF3 oriental"
 fur: "fri\xFCl\xE0"
-fy: "fris\xF3 oriental"
+fy: "fris\xF3 occidental"
 ga: "irland\xE8s"
 gaa: ga
 gag: "gaga\xFAs"
+gan: "xin\xE8s gan"
 gay: gayo
 gba: gbaya
 gd: "ga\xE8lic escoc\xE8s"
 gez: gueez
 gil: "gilbert\xE8s"
 gl: gallec
+glk: gilaki
 gmh: "alt alemany mitj\xE0"
 gn: "guaran\xED"
 goh: alt alemany antic
+gom: concani de Goa
 gon: gondi
 gor: gorontalo
 got: "g\xF2tic"
@@ -168,20 +182,24 @@ grb: grebo
 grc: grec antic
 gsw: "alemany su\xEDs"
 gu: gujarati
+guc: "way\xFA"
 guz: "gus\xED"
 gv: manx
 gwi: gwichin
 ha: haussa
 hai: haida
+hak: "xin\xE8s hakka"
 haw: "hawai\xE0"
 he: hebreu
 hi: hindi
+hif: hindi de Fiji
 hil: hiligainon
 hit: hitita
 hmn: hmong
 ho: hiri motu
 hr: croat
 hsb: "alt s\xF2rab"
+hsn: "xin\xE8s xiang"
 ht: "haiti\xE0"
 hu: "hongar\xE8s"
 hup: hupa
@@ -202,6 +220,7 @@ is: "island\xE8s"
 it: "itali\xE0"
 iu: inuktitut
 ja: "japon\xE8s"
+jam: "crioll angl\xE8s de Jamaica"
 jbo: lojban
 jgo: ngomba
 jmc: machame
@@ -220,8 +239,10 @@ kbl: kanembu
 kcg: tyap
 kde: makonde
 kea: "crioll capverdi\xE0"
+ken: kenyang
 kfo: koro
 kg: kongo
+kgp: "kaing\xE0"
 kha: khasi
 kho: "khotan\xE8s"
 khq: koyra chiini
@@ -241,6 +262,7 @@ kos: "kosrae\xE0"
 kpe: kpelle
 kr: kanuri
 krc: karatxai
+kri: krio
 krl: "careli\xE0"
 kru: kurukh
 ks: caixmiri
@@ -262,11 +284,14 @@ lb: "luxemburgu\xE8s"
 lez: "lesgui\xE0"
 lg: ganda
 li: "limburgu\xE8s"
+lij: "l\xEDgur"
 lkt: lakota
+lmo: llombard
 ln: lingala
 lo: "laosi\xE0"
 lol: mongo
 loz: lozi
+lrc: luri septentrional
 lt: "litu\xE0"
 lu: luba katanga
 lua: luba-lulua
@@ -276,6 +301,8 @@ luo: luo
 lus: mizo
 luy: luyia
 lv: "let\xF3"
+lzh: "xin\xE8s cl\xE0ssic"
+lzz: laz
 mad: "madur\xE8s"
 maf: mafa
 mag: magahi
@@ -305,6 +332,7 @@ mni: "manipur\xED"
 moh: mohawk
 mos: "mor\xE9"
 mr: marathi
+mrj: mari occidental
 ms: malai
 mt: "malt\xE8s"
 mua: mundang
@@ -315,12 +343,15 @@ mwr: marwari
 my: "birm\xE0"
 mye: myene
 myv: "mordovi\xE0 erza"
+mzn: mazanderani
 na: "nauru\xE0"
+nan: "xin\xE8s min del sud"
 nap: "napolit\xE0"
 naq: nama
 nb: "noruec bokm\xE5l"
 nd: ndebele septentrional
 nds: baix alemany
+nds_NL: "baix sax\xF3"
 ne: "nepal\xE8s"
 new: newari
 ng: ndonga
@@ -334,6 +365,7 @@ nnh: ngiemboon
 'no': noruec
 nog: nogai
 non: "n\xF2rdic antic"
+nov: novial
 nqo: "n\u2019Ko"
 nr: ndebele meridional
 nso: sotho septentrional
@@ -349,19 +381,24 @@ oc: "occit\xE0"
 oj: ojibwa
 om: oromo
 or: oriya
-os: osset
+os: osseta
 osa: osage
 ota: "turc otom\xE0"
 pa: panjabi
 pag: pangasi
 pal: pahlavi
-pam: "pampang\xE0"
+pam: pampanga
 pap: papiamento
 pau: "palau\xE0"
+pcd: picard
+pdc: "alemany pennsilvani\xE0"
 peo: persa antic
+pfl: "alemany palat\xED"
 phn: fenici
 pi: pali
 pl: "polon\xE8s"
+pms: "piemont\xE8s"
+pnt: "grec p\xF2ntic"
 pon: "ponape\xE0"
 pro: "proven\xE7al antic"
 ps: paixtu
@@ -373,6 +410,7 @@ quc: "quitx\xE9"
 raj: rajasthani
 rap: rapanui
 rar: "rarotong\xE0"
+rgn: "romany\xE8s"
 rm: "retorom\xE0nic"
 rn: rundi
 ro: "roman\xE8s"
@@ -397,6 +435,8 @@ sc: sard
 scn: "sicili\xE0"
 sco: "escoc\xE8s"
 sd: sindhi
+sdc: "sard sasser\xE8s"
+sdh: kurd meridional
 se: sami septentrional
 see: seneca
 seh: sena
@@ -425,7 +465,7 @@ sq: "alban\xE8s"
 sr: serbi
 srn: sranan
 srr: serer
-ss: siswati
+ss: swazi
 ssy: saho
 st: sotho meridional
 su: "sundan\xE8s"
@@ -438,6 +478,7 @@ swb: "comori\xE0"
 swc: suahili del Congo
 syc: "sir\xEDac cl\xE0ssic"
 syr: "sir\xEDac"
+szl: "silesi\xE0"
 ta: "t\xE0mil"
 te: telugu
 tem: temne
@@ -451,11 +492,13 @@ tig: tigre
 tiv: tiv
 tk: turcman
 tkl: "tokelau\xE8s"
-tl: "tag\xE0log"
+tkr: tsakhur
+tl: tagal
 tlh: "klingoni\xE0"
 tli: tlingit
-tmh: tamazight
-tn: tswana
+tly: talix
+tmh: amazic
+tn: setswana
 to: "tongal\xE8s"
 tog: tonga
 tpi: tok pisin
@@ -464,6 +507,7 @@ trv: taroko
 ts: tsonga
 tsi: "tsimshi\xE0"
 tt: "t\xE0tar"
+ttt: tat meridional
 tum: tumbuka
 tvl: "tuvalu\xE0"
 tw: twi
@@ -481,18 +525,24 @@ ur: "urd\xFA"
 uz: uzbek
 vai: vai
 ve: venda
+vec: "v\xE8net"
+vep: vepse
 vi: vietnamita
+vls: flamenc occidental
 vo: "volap\xFCk"
 vot: "v\xF2tic"
 vun: vunjo
 wa: "val\xF3"
 wae: walser
 wal: ameto
-war: waray-waray
+war: waray
 was: washo
+wbp: warlpiri
 wo: "w\xF2lof"
+wuu: "xin\xE8s wu"
 xal: calmuc
 xh: xosa
+xmf: "mingreli\xE0"
 xog: soga
 yao: yao
 yap: "yape\xE0"
@@ -504,6 +554,7 @@ yue: "canton\xE8s"
 za: zhuang
 zap: zapoteca
 zbl: "s\xEDmbols Bliss"
+zea: "zeland\xE8s"
 zen: zenaga
 zgh: "amazic est\xE0ndard marroqu\xED"
 zh: "xin\xE8s"

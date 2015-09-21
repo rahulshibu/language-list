@@ -39,7 +39,6 @@ avk,lea fakakotava
 awa,lea fakaʻauati
 ay,lea fakaʻaimala
 az,lea fakaʻasapaisani
-azb,lea fakaʻasapaisani-tonga
 ba,lea fakapasikili
 bal,lea fakapalusi
 ban,lea fakapali
@@ -56,6 +55,7 @@ bez,lea fakapena
 bfd,lea fakapafuti
 bfq,lea fakapataka
 bg,lea fakapulukalia
+bgn,lea fakapalusi-hihifo
 bho,lea fakaposipuli
 bi,lea fakapisilama
 bik,lea fakapikoli
@@ -97,7 +97,7 @@ cho,lea fakasokitau
 chp,lea fakasipeuiani
 chr,lea fakaselokī
 chy,lea fakaseiene
-ckb,lea fakakūtisi-solani
+ckb,lea fakakūtisi-loloto
 co,lea fakakōsika
 cop,lea fakakopitika
 cps,lea fakakapiseno
@@ -209,7 +209,7 @@ hak,lea fakasiaina-haka
 haw,lea fakahauaiʻi
 he,lea fakahepelū
 hi,lea fakahinitī
-hif,lea fakahihitī-fisi
+hif,lea fakahinitī-fisi
 hil,lea fakahilikainoni
 hit,lea fakahitite
 hmn,lea fakamōngi
@@ -315,6 +315,7 @@ ln,lea lingikala
 lo,lea fakalau
 lol,lea fakamongikō
 loz,lea fakalosi
+lrc,lea fakaluli-tokelau
 lt,lea fakalituania
 ltg,lea fakalatakale
 lu,lea fakalupa-katanga
@@ -358,7 +359,7 @@ mos,lea fakamosi
 mr,lea fakamalati
 mrj,lea fakamali-hihifo
 ms,lea fakamalei
-mt,lea fakamolota
+mt,lea fakamalita
 mua,lea fakamunitangi
 mul,lea tuifio
 mus,lea fakakileki
@@ -376,6 +377,7 @@ naq,lea fakanama
 nb,lea fakanouaē-pokimali
 nd,lea fakanetepele-tokelau
 nds,lea fakasiamane-hifo
+nds_NL,lea fakasakisoni-hifo
 ne,lea fakanepali
 new,lea fakaneuali
 ng,lea fakanetongikā
@@ -387,7 +389,7 @@ nl_BE,lea fakahōlani-pelesiume
 nmg,lea fakakuasio
 nn,lea fakanoauē-ninosiki
 nnh,lea fakangiemipōni
-no,lea fakanouē
+no,lea fakanouaē
 nog,lea fakanokai
 non,lea fakanoauē-motuʻa
 nov,lea fakanoviale
@@ -422,7 +424,7 @@ peo,lea fakapēsia-motuʻa
 pfl,lea fakasiamane-palatine
 phn,lea fakafoinikia
 pi,lea fakapāli
-pl,lea fakapōlani
+pl,lea fakapolani
 pms,lea fakapiemonite
 pnt,lea fakaponitiki
 pon,lea fakaponapē
@@ -438,7 +440,7 @@ qug,lea fakakuitisa-simipolaso
 raj,lea fakalasasitani
 rap,lea fakalapanui
 rar,lea fakalalotonga
-rgn,lea fakaromaniolo
+rgn,lea fakalomaniolo
 rif,lea fakalifi
 rm,lea fakalaito-lomēnia
 rn,lea fakaluaniti
@@ -469,6 +471,7 @@ scn,lea fakasisīlia
 sco,lea fakasikotilani
 sd,lea fakasīniti
 sdc,lea fakasaletīnia-sasalesu
+sdh,lea faka-tonga ‘o Ketesi
 se,lea fakasami-tokelau
 see,lea fakaseneka
 seh,lea fakasena
@@ -501,7 +504,7 @@ sq,lea fakaʻalapēnia
 sr,lea fakasēpia
 srn,lea fakasuranane-tongikō
 srr,lea fakasēlēle
-ss,lea fakasuasilani
+ss,lea fakasuati
 ssy,lea fakasaho
 st,lea fakasoto-tonga
 stq,lea fakafilisia-satēlani
@@ -526,7 +529,7 @@ tet,lea fakatetumu
 tg,lea fakatāsiki
 th,lea fakatailani
 ti,lea fakatikilinia
-tig,lea fakatikilīnia
+tig,lea fakatikilē
 tiv,lea fakativi
 tk,lea fakatēkimeni
 tkl,lea fakatokelau
@@ -579,6 +582,7 @@ wae,lea fakaʻualiseli
 wal,lea fakaʻuolaita
 war,lea fakaʻualai
 was,lea fakaʻuasiō
+wbp,lea fakaʻuālipili
 wo,lea fakaʻuolofo
 wuu,lea fakasiaina-uū
 xal,lea fakakalimiki

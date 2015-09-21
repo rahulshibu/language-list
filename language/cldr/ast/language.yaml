@@ -10,13 +10,13 @@ af: afrikaans
 afh: afrihili
 agq: aghem
 ain: ainu
-ak: ak
+ak: akan
 akk: acadianu
 akz: alabama
 ale: aleut
 aln: "gheg d\u2019Albania"
 alt: altai del sur
-am: amharicu
+am: "amh\xE1ricu"
 an: "aragon\xE9s"
 ang: "ingl\xE9s antiguu"
 anp: angika
@@ -39,7 +39,6 @@ avk: kotava
 awa: awadhi
 ay: aymara
 az: azerbaixanu
-azb: azerbaixanu del sur
 ba: bashkir
 bal: baluchi
 ban: "balin\xE9s"
@@ -56,6 +55,7 @@ bez: bena
 bfd: bafut
 bfq: badaga
 bg: "b\xFAlgaru"
+bgn: balochi occidental
 bho: bhojpuri
 bi: bislama
 bik: bikol
@@ -97,9 +97,9 @@ cho: choctaw
 chp: chipewyanu
 chr: cheroqui
 chy: cheyenne
-ckb: kurdu sorani
+ckb: kurdu central
 co: corsu
-cop: coptu
+cop: "c\xF3pticu"
 cps: capiznon
 cr: cree
 crh: turcu de Crimea
@@ -113,6 +113,7 @@ dak: dakota
 dar: dargwa
 dav: taita
 de: "alem\xE1n"
+de_AT: "alem\xE1n d\u2019Austria"
 de_CH: "altualem\xE1n de Suiza"
 del: delaware
 den: slave
@@ -138,13 +139,16 @@ eka: ekajuk
 el: griegu
 elx: elamita
 en: "ingl\xE9s"
+en_AU: "ingl\xE9s d\u2019Australia"
 en_CA: "ingl\xE9s de Canad\xE1"
 en_GB: "ingl\xE9s de Gran Breta\xF1a"
-en_US: "ingl\xE9s americanu"
+en_US: "ingl\xE9s d\u2019Estaos Xun\xEDos"
 enm: "ingl\xE9s mediu"
 eo: esperanto
 es: "espa\xF1ol"
-es_MX: "espa\xF1ol de M\xE9xico"
+es_419: "espa\xF1ol d\u2019Am\xE9rica Llatina"
+es_ES: "espa\xF1ol europ\xE9u"
+es_MX: "espa\xF1ol de M\xE9xicu"
 esu: yupik central
 et: estoniu
 eu: vascu
@@ -224,7 +228,7 @@ ibb: ibibio
 id: indonesiu
 ie: interlingue
 ig: igbo
-ii: yi de Sichuan
+ii: "yi de Sichu\xE1n"
 ik: inupiaq
 ilo: iloko
 inh: ingush
@@ -268,8 +272,8 @@ kj: kuanyama
 kk: "kazaquistan\xEDn"
 kkj: kako
 kl: kalaallisut
-kln: kln
-km: khmer
+kln: kalenjin
+km: "\u1E25emer"
 kmb: kimbundu
 kn: "canar\xE9s"
 ko: coreanu
@@ -311,6 +315,7 @@ ln: lingala
 lo: laosianu
 lol: mongo
 loz: lozi
+lrc: luri del norte
 lt: lituanu
 ltg: latgalianu
 lu: luba-katanga
@@ -329,7 +334,7 @@ mag: magahi
 mai: maithili
 mak: makasar
 man: mandingo
-mas: masai
+mas: "mas\xE1i"
 mde: maba
 mdf: moksha
 mdr: mandar
@@ -372,6 +377,7 @@ naq: nama
 nb: "noruegu Bokm\xE5l"
 nd: ndebele del norte
 nds: "baxu alem\xE1n"
+nds_NL: "baxu sax\xF3n"
 ne: "nepal\xE9s"
 new: newari
 ng: ndonga
@@ -403,28 +409,37 @@ oj: ojibwa
 om: oromo
 or: oriya
 os: "os\xE9ticu"
+osa: Osage
 ota: turcu otomanu
 pa: "punyab\xED"
 pag: pangasinan
+pal: pahlavi
 pam: pampanga
 pap: papiamento
 pau: palauanu
 pcd: "p\xEDcaru"
 pdc: "alem\xE1n de Pennsylvania"
+pdt: plautdietsch
 peo: persa antiguu
 pfl: "alem\xE1n palatinu"
 phn: feniciu
+pi: pali
 pl: polacu
 pms: "piamont\xE9s"
+pnt: "p\xF3nticu"
 pon: pohnpeianu
 prg: prusianu
 pro: provenzal antiguu
 ps: pashtu
 pt: "portugu\xE9s"
 pt_BR: "portugu\xE9s del Brasil"
+pt_PT: "portugu\xE9s europ\xE9u"
 qu: quechua
 quc: "k\u02BCiche\u02BC"
+qug: quichua del altiplanu de Chimborazo
 raj: "rajasthan\xEDn"
+rap: rapanui
+rar: rarotonganu
 rgn: "roma\xF1ol"
 rif: rifianu
 rm: romanche
@@ -437,34 +452,45 @@ root: root
 rtm: rotumanu
 ru: rusu
 rue: rusyn
-rw: rw
+rug: roviana
+rup: aromanianu
+rw: kinyarwanda
 rwk: rwa
 sa: "s\xE1nscritu"
+sad: "sandav\xE9s"
 sah: sakha
 sam: "aram\xE9u samaritanu"
 saq: samburu
 sas: sasak
 sat: santali
 saz: saurashtra
+sba: ngambay
 sbp: sangu
 sc: sardu
 scn: sicilianu
 sco: scots
 sd: sindhi
 sdc: "sardu sassar\xE9s"
+sdh: Kurdu del sur
 se: sami del norte
 see: "s\xE9neca"
 seh: sena
+sei: seri
+sel: selkup
 ses: koyraboro senni
 sg: sango
 sga: "irland\xE9s antiguu"
+sgs: samogitianu
 sh: serbo-croata
 shi: tachelhit
 shn: shan
+shu: "\xE1rabe chadianu"
 si: "cingal\xE9s"
 sid: sidamo
 sk: eslovacu
 sl: eslovenu
+sli: baxu silesianu
+sly: "selayar\xE9s"
 sm: samoanu
 sma: sami del sur
 smj: lule sami
@@ -473,6 +499,7 @@ sms: skolt sami
 sn: shona
 snk: soninke
 so: "somal\xEDn"
+sog: sogdianu
 sq: albanu
 sr: serbiu
 srn: sranan tongo
@@ -488,7 +515,7 @@ sux: sumeriu
 sv: suecu
 sw: "sua\u1E25ili"
 swb: comorianu
-swc: swahili del Congo
+swc: swahili del Congu
 syc: "siriacu cl\xE1sicu"
 syr: siriacu
 szl: silesianu
@@ -497,6 +524,7 @@ tcy: tulu
 te: telugu
 tem: timne
 teo: teso
+ter: terena
 tet: tetum
 tg: "taxiquistan\xEDn"
 th: "tailand\xE9s"
@@ -505,42 +533,61 @@ tig: tigre
 tiv: tiv
 tk: turcomanu
 tkl: tokelau
+tkr: tsakhur
 tl: tagalog
 tlh: klingon
+tli: tlingit
+tly: "talix\xEDn"
 tmh: tamashek
 tn: tswana
 to: tonganu
+tog: tonga nyasa
 tpi: tok pisin
 tr: turcu
+tru: turoyo
 trv: taroko
 ts: tsonga
+tsd: tsakoniu
+tsi: tsimshian
 tt: "t\xE1rtaru"
+ttt: "tati musulm\xE1n"
 tum: tumbuka
 tvl: tuvalu
+tw: twi
 twq: tasawaq
 ty: tahitianu
 tyv: tuvinianu
-tzm: tamazight del Atlas central
+tzm: tamazight del Atles central
 udm: udmurt
 ug: uigur
 uga: "ugar\xEDticu"
 uk: "ucra\xEDn"
 umb: umbundu
 und: llingua desconocida
-ur: ur
+ur: urdu
 uz: "uzbequistan\xEDn"
 vai: vai
 ve: venda
 vec: venecianu
+vep: vepsiu
 vi: "vietnam\xEDn"
 vls: flamencu occidental
+vmf: franconianu del Main
+vo: "volap\xFCk"
+vot: "v\xF3ticu"
+vro: voro
 vun: vunjo
 wa: "val\xF3n"
+wae: walser
 wal: wolaytta
 war: waray
+was: washo
+wbp: warlpiri
 wo: wolof
 wuu: chinu wu
+xal: calmuco
 xh: xhosa
+xmf: mingrelianu
 xog: soga
 yao: yao
 yap: "yap\xE9s"
@@ -548,13 +595,18 @@ yav: yangben
 ybb: yemba
 yi: yiddish
 yo: yoruba
+yrl: nheengatu
 yue: "canton\xE9s"
 za: zhuang
 zap: zapoteca
+zbl: "simb\xF3licu Bliss"
 zea: "zeeland\xE9s"
+zen: zenaga
 zgh: "tamazight est\xE1ndar de Marruecos"
 zh: chinu
 zh_Hans: "chinu simplific\xE1u"
 zh_Hant: chinu tradicional
 zu: "zul\xFA"
+zun: zuni
 zxx: "ensin conten\xEDu lling\xFC\xEDsticu"
+zza: zaza

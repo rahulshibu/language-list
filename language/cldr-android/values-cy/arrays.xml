@@ -44,6 +44,8 @@
     <item>Aragoneg</item>
     <!-- ang - Old English -->
     <item>Hen Saesneg</item>
+    <!-- anp - Angika -->
+    <item>Angika</item>
     <!-- ar - Arabic -->
     <item>Arabeg</item>
     <!-- ar_001 - Modern Standard Arabic -->
@@ -66,13 +68,21 @@
     <item>Arabeg yr Aifft</item>
     <!-- as - Assamese -->
     <item>Asameg</item>
+    <!-- asa - Asu -->
+    <item>Asw</item>
     <!-- ase - American Sign Language -->
     <item>Iaith Arwyddion America</item>
+    <!-- ast - Asturian -->
+    <item>Astwrianeg</item>
     <!-- av - Avaric -->
     <item>Afareg</item>
+    <!-- awa - Awadhi -->
+    <item>Awadhi</item>
+    <!-- ay - Aymara -->
+    <item>Aymareg</item>
     <!-- az - Azerbaijani -->
     <item>Aserbaijaneg</item>
-    <!-- azb - South Azerbaijani -->
+    <!-- az_Arab -->
     <item>Aserbaijaneg Deheuol</item>
     <!-- ba - Bashkir -->
     <item>Bashcorteg</item>
@@ -92,12 +102,20 @@
     <item>Bembeg</item>
     <!-- bez - Bena -->
     <item>Bena</item>
+    <!-- bfd - Bafut -->
+    <item>Baffwteg</item>
+    <!-- bfq - Badaga -->
+    <item>Badaga</item>
     <!-- bg - Bulgarian -->
     <item>Bwlgareg</item>
+    <!-- bgn - Western Balochi -->
+    <item>Balochi Gorllewinol</item>
     <!-- bi - Bislama -->
     <item>Bislama</item>
     <!-- bkm - Kom -->
     <item>Comeg</item>
+    <!-- bla - Siksika -->
+    <item>Siksika</item>
     <!-- bm - Bambara -->
     <item>Bambareg</item>
     <!-- bn - Bengali -->
@@ -108,8 +126,12 @@
     <item>Llydaweg</item>
     <!-- brh - Brahui -->
     <item>Brahui</item>
+    <!-- brx - Bodo -->
+    <item>Bodo</item>
     <!-- bs - Bosnian -->
     <item>Bosnieg</item>
+    <!-- bss - Akoose -->
+    <item>Acwseg</item>
     <!-- bua - Buriat -->
     <item>Bwriateg</item>
     <!-- bum - Bulu -->
@@ -124,6 +146,8 @@
     <item>Atsameg</item>
     <!-- ce - Chechen -->
     <item>Tsietsieneg</item>
+    <!-- cgg - Chiga -->
+    <item>Tsiga</item>
     <!-- ch - Chamorro -->
     <item>Tsiamorro</item>
     <!-- chm - Mari -->
@@ -148,6 +172,8 @@
     <item>Tsieceg</item>
     <!-- cu - Church Slavic -->
     <item>Hen Slafoneg</item>
+    <!-- cv - Chuvash -->
+    <item>Tshwfasheg</item>
     <!-- cy - Welsh -->
     <item>Cymraeg</item>
     <!-- da - Danish -->
@@ -156,6 +182,8 @@
     <item>Dacotaeg</item>
     <!-- dar - Dargwa -->
     <item>Dargwa</item>
+    <!-- dav - Taita -->
+    <item>Taita</item>
     <!-- de - German -->
     <item>Almaeneg</item>
     <!-- de_AT - Austrian German -->
@@ -170,10 +198,16 @@
     <item>Dogri</item>
     <!-- dsb - Lower Sorbian -->
     <item>Sorbeg Isaf</item>
+    <!-- dua - Duala -->
+    <item>Diwaleg</item>
     <!-- dum - Middle Dutch -->
     <item>Iseldireg Canol</item>
     <!-- dv - Divehi -->
     <item>Difehi</item>
+    <!-- dyo - Jola-Fonyi -->
+    <item>Jola-Fonyi</item>
+    <!-- dz - Dzongkha -->
+    <item>Dzongkha</item>
     <!-- ebu - Embu -->
     <item>Embw</item>
     <!-- ee - Ewe -->
@@ -242,6 +276,8 @@
     <item>Ffrangeg Canol</item>
     <!-- fro - Old French -->
     <item>Hen Ffrangeg</item>
+    <!-- frp - Arpitan -->
+    <item>Arpitaneg</item>
     <!-- frr - Northern Frisian -->
     <item>Ffriseg y Gogledd</item>
     <!-- frs - Eastern Frisian -->
@@ -252,6 +288,8 @@
     <item>Ffriseg y Gorllewin</item>
     <!-- ga - Irish -->
     <item>Gwyddeleg</item>
+    <!-- gag - Gagauz -->
+    <item>Gagauz</item>
     <!-- gay - Gayo -->
     <item>Gaio</item>
     <!-- gba - Gbaya -->
@@ -278,6 +316,8 @@
     <item>Almaeneg y Swistir</item>
     <!-- gu - Gujarati -->
     <item>Gwjarati</item>
+    <!-- guz - Gusii -->
+    <item>Gusii</item>
     <!-- gv - Manx -->
     <item>Manaweg</item>
     <!-- ha - Hausa -->
@@ -298,7 +338,7 @@
     <item>Croateg</item>
     <!-- hsb - Upper Sorbian -->
     <item>Sorbeg Uchaf</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>Creol Haiti</item>
     <!-- hu - Hungarian -->
     <item>Hwngareg</item>
@@ -334,6 +374,8 @@
     <item>Inwctitwt</item>
     <!-- ja - Japanese -->
     <item>Japaneeg</item>
+    <!-- jgo - Ngomba -->
+    <item>Ngomba</item>
     <!-- jmc - Machame -->
     <item>Matsiame</item>
     <!-- jpr - Judeo-Persian -->
@@ -352,6 +394,8 @@
     <item>Camba</item>
     <!-- kbd - Kabardian -->
     <item>Circaseg Dwyreiniol</item>
+    <!-- kcg - Tyap -->
+    <item>Tyapeg</item>
     <!-- kde - Makonde -->
     <item>Macondeg</item>
     <!-- kea - Kabuverdianu -->
@@ -360,16 +404,26 @@
     <item>Congo</item>
     <!-- kha - Khasi -->
     <item>Càseg</item>
+    <!-- khq - Koyra Chiini -->
+    <item>Koyra Chiini</item>
+    <!-- khw - Khowar -->
+    <item>Chowareg</item>
     <!-- ki - Kikuyu -->
-    <item>ki</item>
+    <item>Kikuyu</item>
     <!-- kk - Kazakh -->
     <item>Casacheg</item>
+    <!-- kl - Kalaallisut -->
+    <item>Kalaallisut</item>
+    <!-- kln - Kalenjin -->
+    <item>Kalenjin</item>
     <!-- km - Khmer -->
     <item>Chmereg</item>
     <!-- kn - Kannada -->
     <item>Kannada</item>
     <!-- ko - Korean -->
     <item>Coreeg</item>
+    <!-- koi - Komi-Permyak -->
+    <item>Komi-Permyak</item>
     <!-- kok - Konkani -->
     <item>Concani</item>
     <!-- kr - Kanuri -->
@@ -378,6 +432,8 @@
     <item>Careleg</item>
     <!-- ks - Kashmiri -->
     <item>Cashmireg</item>
+    <!-- ksb - Shambala -->
+    <item>Shambala</item>
     <!-- ksf - Bafia -->
     <item>Baffia</item>
     <!-- ksh - Colognian -->
@@ -410,6 +466,8 @@
     <item>Ganda</item>
     <!-- li - Limburgish -->
     <item>Limbwrgeg</item>
+    <!-- lkt - Lakota -->
+    <item>Lakota</item>
     <!-- lmo - Lombard -->
     <item>Lombardeg</item>
     <!-- ln - Lingala -->
@@ -420,10 +478,14 @@
     <item>Mongo</item>
     <!-- loz - Lozi -->
     <item>Lozi</item>
+    <!-- lrc - Northern Luri -->
+    <item>Luri Gogleddol</item>
     <!-- lt - Lithuanian -->
     <item>Lithwaneg</item>
     <!-- ltg - Latgalian -->
-    <item>Latgalieg</item>
+    <item>Latgaleg</item>
+    <!-- lu - Luba-Katanga -->
+    <item>Luba-Katanga</item>
     <!-- lun - Lunda -->
     <item>Lwnda</item>
     <!-- luo - Luo -->
@@ -454,10 +516,16 @@
     <item>Mendeg</item>
     <!-- mer - Meru -->
     <item>Mêrw</item>
+    <!-- mfe - Morisyen -->
+    <item>Morisyen</item>
     <!-- mg - Malagasy -->
     <item>Malagaseg</item>
     <!-- mga - Middle Irish -->
     <item>Gwyddeleg Canol</item>
+    <!-- mgh - Makhuwa-Meetto -->
+    <item>Makhuwa-Meetto</item>
+    <!-- mgo - Metaʼ -->
+    <item>Meta</item>
     <!-- mh - Marshallese -->
     <item>Marsialeg</item>
     <!-- mi - Maori -->
@@ -480,12 +548,14 @@
     <item>Mosi</item>
     <!-- mr - Marathi -->
     <item>Marathi</item>
+    <!-- mrj - Western Mari -->
+    <item>Mari Gorllewinol</item>
     <!-- ms - Malay -->
     <item>Maleieg</item>
     <!-- mt - Maltese -->
     <item>Malteg</item>
     <!-- mua - Mundang -->
-    <item>Mas</item>
+    <item>Mundang</item>
     <!-- mul - Multiple Languages -->
     <item>mwy nag un iaith</item>
     <!-- mwl - Mirandese -->
@@ -494,32 +564,44 @@
     <item>Marwari</item>
     <!-- my - Burmese -->
     <item>Byrmaneg</item>
+    <!-- mzn - Mazanderani -->
+    <item>Masanderani</item>
     <!-- na - Nauru -->
     <item>Nawrŵeg</item>
     <!-- nap - Neapolitan -->
     <item>Naplieg</item>
+    <!-- naq - Nama -->
+    <item>Nama</item>
     <!-- nb - Norwegian Bokmål -->
     <item>Norwyeg Bokmål</item>
     <!-- nd - North Ndebele -->
     <item>Ndebele Gogleddol</item>
     <!-- nds - Low German -->
     <item>Isel Almaeneg</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>Sacsoneg Isel</item>
     <!-- ne - Nepali -->
     <item>Nepaleg</item>
     <!-- new - Newari -->
     <item>Newaeg</item>
     <!-- ng - Ndonga -->
     <item>Ndonga</item>
+    <!-- njo - Ao Naga -->
+    <item>Ao Naga</item>
     <!-- nl - Dutch -->
     <item>Iseldireg</item>
     <!-- nl_BE - Flemish -->
     <item>Fflemeg</item>
+    <!-- nmg - Kwasio -->
+    <item>Kwasio</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>Norwyeg Nynorsk</item>
     <!-- no - Norwegian -->
     <item>Norwyeg</item>
     <!-- non - Old Norse -->
     <item>Hen Norseg</item>
+    <!-- nqo - N’Ko -->
+    <item>N’Ko</item>
     <!-- nr - South Ndebele -->
     <item>Ndebele Deheuol</item>
     <!-- nso - Northern Sotho -->
@@ -578,6 +660,8 @@
     <item>Pwyleg</item>
     <!-- pms - Piedmontese -->
     <item>Piedmonteg</item>
+    <!-- pnt - Pontic -->
+    <item>Ponteg</item>
     <!-- pon - Pohnpeian -->
     <item>Pohnpeianeg</item>
     <!-- prg - Prussian -->
@@ -603,7 +687,7 @@
     <!-- rar - Rarotongan -->
     <item>Raratongeg</item>
     <!-- rm - Romansh -->
-    <item>Romaunsch</item>
+    <item>Románsh</item>
     <!-- rn - Rundi -->
     <item>Rwndi</item>
     <!-- ro - Romanian -->
@@ -654,18 +738,30 @@
     <item>Sindhi</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>Sasareseg Sardinia</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>Cwrdeg Deheuol</item>
     <!-- se - Northern Sami -->
     <item>Sami Gogleddol</item>
     <!-- see - Seneca -->
     <item>Seneca</item>
+    <!-- seh - Sena -->
+    <item>Sena</item>
+    <!-- sei - Seri -->
+    <item>Seri</item>
     <!-- sel - Selkup -->
     <item>Selcypeg</item>
+    <!-- ses - Koyraboro Senni -->
+    <item>Koyraboro Senni</item>
     <!-- sg - Sango -->
     <item>Sango</item>
     <!-- sga - Old Irish -->
     <item>Hen Wyddeleg</item>
+    <!-- sgs - Samogitian -->
+    <item>Samogiteg</item>
     <!-- sh - Serbo-Croatian -->
     <item>Serbo-Croateg</item>
+    <!-- shi - Tachelhit -->
+    <item>Tachelhit</item>
     <!-- shu - Chadian Arabic -->
     <item>Arabeg Chad</item>
     <!-- si - Sinhala -->
@@ -688,6 +784,8 @@
     <item>Sami Inari</item>
     <!-- sms - Skolt Sami -->
     <item>Sami Scolt</item>
+    <!-- sn - Shona -->
+    <item>Shona</item>
     <!-- snk - Soninke -->
     <item>Soninceg</item>
     <!-- so - Somali -->
@@ -698,8 +796,14 @@
     <item>Albaneg</item>
     <!-- sr - Serbian -->
     <item>Serbeg</item>
+    <!-- srr - Serer -->
+    <item>Serereg</item>
+    <!-- ss - Swati -->
+    <item>Swati</item>
     <!-- st - Southern Sotho -->
     <item>Sesotheg</item>
+    <!-- stq - Saterland Frisian -->
+    <item>Ffriseg Saterland</item>
     <!-- su - Sundanese -->
     <item>Swndaneg</item>
     <!-- suk - Sukuma -->
@@ -730,6 +834,10 @@
     <item>Telugu</item>
     <!-- tem - Timne -->
     <item>Timneg</item>
+    <!-- teo - Teso -->
+    <item>Teso</item>
+    <!-- ter - Tereno -->
+    <item>Terena</item>
     <!-- tet - Tetum -->
     <item>Tetumeg</item>
     <!-- tg - Tajik -->
@@ -738,30 +846,54 @@
     <item>Thai</item>
     <!-- ti - Tigrinya -->
     <item>Tigrinya</item>
+    <!-- tig - Tigre -->
+    <item>Tigreg</item>
+    <!-- tiv - Tiv -->
+    <item>Tifeg</item>
     <!-- tk - Turkmen -->
     <item>Twrcmeneg</item>
+    <!-- tkl - Tokelau -->
+    <item>Tocelaweg</item>
+    <!-- tkr - Tsakhur -->
+    <item>Tsakhureg</item>
     <!-- tl - Tagalog -->
     <item>Tagalog</item>
     <!-- tlh - Klingon -->
     <item>Klingon</item>
+    <!-- tli - Tlingit -->
+    <item>Llingit</item>
+    <!-- tly - Talysh -->
+    <item>Talysheg</item>
     <!-- tmh - Tamashek -->
     <item>Tamasheceg</item>
     <!-- tn - Tswana -->
     <item>Tswana</item>
     <!-- to - Tongan -->
     <item>Tongeg</item>
+    <!-- tpi - Tok Pisin -->
+    <item>Tok Pisin</item>
     <!-- tr - Turkish -->
     <item>Tyrceg</item>
+    <!-- trv - Taroko -->
+    <item>Taroko</item>
     <!-- ts - Tsonga -->
     <item>Tsongaeg</item>
+    <!-- tsd - Tsakonian -->
+    <item>Tsaconeg</item>
     <!-- tt - Tatar -->
     <item>Tatareg</item>
+    <!-- tum - Tumbuka -->
+    <item>Twmbwca</item>
     <!-- tvl - Tuvalu -->
     <item>Twfalweg</item>
     <!-- tw - Twi -->
     <item>Twi</item>
+    <!-- twq - Tasawaq -->
+    <item>Tasawaq</item>
     <!-- ty - Tahitian -->
     <item>Tahitïeg</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>Tamaseit Canolbarth Moroco</item>
     <!-- udm - Udmurt -->
     <item>Fotiaceg</item>
     <!-- ug - Uyghur -->
@@ -784,20 +916,36 @@
     <item>Fendeg</item>
     <!-- vec - Venetian -->
     <item>Feniseg</item>
+    <!-- vep - Veps -->
+    <item>Feps</item>
     <!-- vi - Vietnamese -->
     <item>Fietnameg</item>
     <!-- vls - West Flemish -->
     <item>Fflemeg Gorllewinol</item>
+    <!-- vot - Votic -->
+    <item>Foteg</item>
+    <!-- vun - Vunjo -->
+    <item>Funjo</item>
     <!-- wa - Walloon -->
     <item>Walwneg</item>
+    <!-- wae - Walser -->
+    <item>Walsereg</item>
     <!-- wal - Wolaytta -->
     <item>Walamo</item>
+    <!-- war - Waray -->
+    <item>Winarayeg</item>
+    <!-- was - Washo -->
+    <item>Washo</item>
+    <!-- wbp - Warlpiri -->
+    <item>Warlpiri</item>
     <!-- wo - Wolof -->
     <item>Woloff</item>
     <!-- xal - Kalmyk -->
     <item>Calmyceg</item>
     <!-- xh - Xhosa -->
     <item>Xhosa</item>
+    <!-- xog - Soga -->
+    <item>Soga</item>
     <!-- ybb - Yemba -->
     <item>Iembaeg</item>
     <!-- yi - Yiddish -->
@@ -813,7 +961,7 @@
     <!-- zea - Zeelandic -->
     <item>Zêlandeg</item>
     <!-- zgh - Standard Moroccan Tamazight -->
-    <item>Tamazight Safonol Moroco</item>
+    <item>Tamaseit Safonol</item>
     <!-- zh - Chinese -->
     <item>Tsieineeg</item>
     <!-- zh_Hans - Simplified Chinese -->

@@ -10,19 +10,19 @@
   </language>
   <language>
     <code>ace</code>
-    <name>akin dili</name>
+    <name>akin</name>
   </language>
   <language>
     <code>ach</code>
-    <name>akoli dili</name>
+    <name>akoli</name>
   </language>
   <language>
     <code>ada</code>
-    <name>adangme dili</name>
+    <name>adangme</name>
   </language>
   <language>
     <code>ady</code>
-    <name>aduge dili</name>
+    <name>aduge</name>
   </language>
   <language>
     <code>ae</code>
@@ -34,7 +34,7 @@
   </language>
   <language>
     <code>afh</code>
-    <name>afrihili dili</name>
+    <name>afrihili</name>
   </language>
   <language>
     <code>agq</code>
@@ -58,7 +58,7 @@
   </language>
   <language>
     <code>alt</code>
-    <name>cənub altay dili</name>
+    <name>cənub altay</name>
   </language>
   <language>
     <code>am</code>
@@ -74,7 +74,7 @@
   </language>
   <language>
     <code>anp</code>
-    <name>angikə dili</name>
+    <name>angikə</name>
   </language>
   <language>
     <code>ar</code>
@@ -86,7 +86,7 @@
   </language>
   <language>
     <code>arc</code>
-    <name>aramik dili</name>
+    <name>aramik</name>
   </language>
   <language>
     <code>arn</code>
@@ -94,7 +94,7 @@
   </language>
   <language>
     <code>arp</code>
-    <name>arapaho dili</name>
+    <name>arapaho</name>
   </language>
   <language>
     <code>arw</code>
@@ -126,7 +126,11 @@
   </language>
   <language>
     <code>az</code>
-    <name>azərbaycan</name>
+    <name>azərbaycan dili</name>
+  </language>
+  <language>
+    <code>az_Arab</code>
+    <name>cənubi azərbaycan</name>
   </language>
   <language>
     <code>ba</code>
@@ -134,7 +138,7 @@
   </language>
   <language>
     <code>bal</code>
-    <name>baluc dili</name>
+    <name>baluc</name>
   </language>
   <language>
     <code>ban</code>
@@ -142,7 +146,7 @@
   </language>
   <language>
     <code>bas</code>
-    <name>basa dili</name>
+    <name>basa</name>
   </language>
   <language>
     <code>be</code>
@@ -150,7 +154,7 @@
   </language>
   <language>
     <code>bej</code>
-    <name>beja dili</name>
+    <name>beja</name>
   </language>
   <language>
     <code>bem</code>
@@ -165,12 +169,16 @@
     <name>bolqar</name>
   </language>
   <language>
+    <code>bgn</code>
+    <name>qərbi bəluc</name>
+  </language>
+  <language>
     <code>bho</code>
-    <name>bxoçpuri dili</name>
+    <name>bxoçpuri</name>
   </language>
   <language>
     <code>bi</code>
-    <name>bislama dili</name>
+    <name>bislama</name>
   </language>
   <language>
     <code>bik</code>
@@ -178,11 +186,11 @@
   </language>
   <language>
     <code>bin</code>
-    <name>bini dili</name>
+    <name>bini</name>
   </language>
   <language>
     <code>bla</code>
-    <name>siksikə dili</name>
+    <name>siksikə</name>
   </language>
   <language>
     <code>bm</code>
@@ -202,7 +210,7 @@
   </language>
   <language>
     <code>bra</code>
-    <name>braj dili</name>
+    <name>braj</name>
   </language>
   <language>
     <code>brx</code>
@@ -214,11 +222,11 @@
   </language>
   <language>
     <code>bua</code>
-    <name>buryat dili</name>
+    <name>buryat</name>
   </language>
   <language>
     <code>bug</code>
-    <name>bugin dili</name>
+    <name>bugin</name>
   </language>
   <language>
     <code>byn</code>
@@ -230,11 +238,11 @@
   </language>
   <language>
     <code>cad</code>
-    <name>kado dili</name>
+    <name>kado</name>
   </language>
   <language>
     <code>car</code>
-    <name>karib dili</name>
+    <name>karib</name>
   </language>
   <language>
     <code>cch</code>
@@ -242,11 +250,11 @@
   </language>
   <language>
     <code>ce</code>
-    <name>çeçen dili</name>
+    <name>çeçen</name>
   </language>
   <language>
     <code>ceb</code>
-    <name>kebuano dili</name>
+    <name>kebuano</name>
   </language>
   <language>
     <code>cgg</code>
@@ -254,23 +262,23 @@
   </language>
   <language>
     <code>ch</code>
-    <name>çamoro dili</name>
+    <name>çamoro</name>
   </language>
   <language>
     <code>chb</code>
-    <name>çibçə dili</name>
+    <name>çibçə</name>
   </language>
   <language>
     <code>chg</code>
-    <name>çağatay dili</name>
+    <name>çağatay</name>
   </language>
   <language>
     <code>chk</code>
-    <name>çukiz dili</name>
+    <name>çukiz</name>
   </language>
   <language>
     <code>chm</code>
-    <name>mari dili</name>
+    <name>mari</name>
   </language>
   <language>
     <code>chn</code>
@@ -278,11 +286,11 @@
   </language>
   <language>
     <code>cho</code>
-    <name>çoktau dili</name>
+    <name>çoktau</name>
   </language>
   <language>
     <code>chp</code>
-    <name>çipevyan dili</name>
+    <name>çipevyan</name>
   </language>
   <language>
     <code>chr</code>
@@ -290,7 +298,7 @@
   </language>
   <language>
     <code>chy</code>
-    <name>çeyen dili</name>
+    <name>çeyen</name>
   </language>
   <language>
     <code>ckb</code>
@@ -302,7 +310,7 @@
   </language>
   <language>
     <code>cop</code>
-    <name>kopt dili</name>
+    <name>kopt</name>
   </language>
   <language>
     <code>cr</code>
@@ -318,15 +326,15 @@
   </language>
   <language>
     <code>csb</code>
-    <name>kaşubyan dili</name>
+    <name>kaşubyan</name>
   </language>
   <language>
     <code>cu</code>
-    <name>kilsə slav dili</name>
+    <name>kilsə slav</name>
   </language>
   <language>
     <code>cv</code>
-    <name>çuvaş dili</name>
+    <name>çuvaş</name>
   </language>
   <language>
     <code>cy</code>
@@ -338,11 +346,11 @@
   </language>
   <language>
     <code>dak</code>
-    <name>dakota dili</name>
+    <name>dakota</name>
   </language>
   <language>
     <code>dar</code>
-    <name>darqva dili</name>
+    <name>darqva</name>
   </language>
   <language>
     <code>dav</code>
@@ -362,7 +370,7 @@
   </language>
   <language>
     <code>del</code>
-    <name>delaver dili</name>
+    <name>delaver</name>
   </language>
   <language>
     <code>den</code>
@@ -370,11 +378,11 @@
   </language>
   <language>
     <code>dgr</code>
-    <name>doqrib dili</name>
+    <name>doqrib</name>
   </language>
   <language>
     <code>din</code>
-    <name>dinka dili</name>
+    <name>dinka</name>
   </language>
   <language>
     <code>dje</code>
@@ -382,7 +390,7 @@
   </language>
   <language>
     <code>doi</code>
-    <name>doqri dili</name>
+    <name>doqri</name>
   </language>
   <language>
     <code>dsb</code>
@@ -398,7 +406,7 @@
   </language>
   <language>
     <code>dv</code>
-    <name>diveh dili</name>
+    <name>diveh</name>
   </language>
   <language>
     <code>dyo</code>
@@ -406,7 +414,7 @@
   </language>
   <language>
     <code>dyu</code>
-    <name>dyula dili</name>
+    <name>dyula</name>
   </language>
   <language>
     <code>dz</code>
@@ -422,15 +430,15 @@
   </language>
   <language>
     <code>efi</code>
-    <name>efik dili</name>
+    <name>efik</name>
   </language>
   <language>
     <code>egy</code>
-    <name>qədimi misir dili</name>
+    <name>qədimi misir</name>
   </language>
   <language>
     <code>eka</code>
-    <name>ekacuk dili</name>
+    <name>ekacuk</name>
   </language>
   <language>
     <code>el</code>
@@ -438,7 +446,7 @@
   </language>
   <language>
     <code>elx</code>
-    <name>elamit dili</name>
+    <name>elamit</name>
   </language>
   <language>
     <code>en</code>
@@ -494,7 +502,7 @@
   </language>
   <language>
     <code>ewo</code>
-    <name>evondo dili</name>
+    <name>evondo</name>
   </language>
   <language>
     <code>fa</code>
@@ -502,15 +510,15 @@
   </language>
   <language>
     <code>fan</code>
-    <name>fang dili</name>
+    <name>fang</name>
   </language>
   <language>
     <code>fat</code>
-    <name>fanti dili</name>
+    <name>fanti</name>
   </language>
   <language>
     <code>ff</code>
-    <name>fula dili</name>
+    <name>fula</name>
   </language>
   <language>
     <code>fi</code>
@@ -530,7 +538,7 @@
   </language>
   <language>
     <code>fon</code>
-    <name>fon dili</name>
+    <name>fon</name>
   </language>
   <language>
     <code>fr</code>
@@ -554,11 +562,11 @@
   </language>
   <language>
     <code>frr</code>
-    <name>şimal fris dili</name>
+    <name>şimal fris</name>
   </language>
   <language>
     <code>fur</code>
-    <name>friul dili</name>
+    <name>friul</name>
   </language>
   <language>
     <code>fy</code>
@@ -570,7 +578,7 @@
   </language>
   <language>
     <code>gaa</code>
-    <name>qa dili</name>
+    <name>qa</name>
   </language>
   <language>
     <code>gag</code>
@@ -578,19 +586,19 @@
   </language>
   <language>
     <code>gay</code>
-    <name>qayo dili</name>
+    <name>qayo</name>
   </language>
   <language>
     <code>gba</code>
-    <name>qabaya dili</name>
+    <name>qabaya</name>
   </language>
   <language>
     <code>gd</code>
-    <name>skot gaelik dili</name>
+    <name>skot gaelik</name>
   </language>
   <language>
     <code>gez</code>
-    <name>qez dili</name>
+    <name>qez</name>
   </language>
   <language>
     <code>gil</code>
@@ -614,11 +622,11 @@
   </language>
   <language>
     <code>gon</code>
-    <name>qondi dili</name>
+    <name>qondi</name>
   </language>
   <language>
     <code>gor</code>
-    <name>qorontalo dili</name>
+    <name>qorontalo</name>
   </language>
   <language>
     <code>got</code>
@@ -626,7 +634,7 @@
   </language>
   <language>
     <code>grb</code>
-    <name>qrebo dili</name>
+    <name>qrebo</name>
   </language>
   <language>
     <code>grc</code>
@@ -650,7 +658,7 @@
   </language>
   <language>
     <code>gwi</code>
-    <name>qviçin dili</name>
+    <name>qviçin</name>
   </language>
   <language>
     <code>ha</code>
@@ -658,7 +666,7 @@
   </language>
   <language>
     <code>hai</code>
-    <name>hayda dili</name>
+    <name>hayda</name>
   </language>
   <language>
     <code>haw</code>
@@ -674,19 +682,19 @@
   </language>
   <language>
     <code>hil</code>
-    <name>hiliqaynon dili</name>
+    <name>hiliqaynon</name>
   </language>
   <language>
     <code>hit</code>
-    <name>hittit dili</name>
+    <name>hittit</name>
   </language>
   <language>
     <code>hmn</code>
-    <name>monq dili</name>
+    <name>monq</name>
   </language>
   <language>
     <code>ho</code>
-    <name>hiri motu dili</name>
+    <name>hiri motu</name>
   </language>
   <language>
     <code>hr</code>
@@ -706,7 +714,7 @@
   </language>
   <language>
     <code>hup</code>
-    <name>hupa dili</name>
+    <name>hupa</name>
   </language>
   <language>
     <code>hy</code>
@@ -714,15 +722,15 @@
   </language>
   <language>
     <code>hz</code>
-    <name>Herer dili</name>
+    <name>Herer</name>
   </language>
   <language>
     <code>ia</code>
-    <name>interlingua dili</name>
+    <name>interlingua</name>
   </language>
   <language>
     <code>iba</code>
-    <name>iban dili</name>
+    <name>iban</name>
   </language>
   <language>
     <code>id</code>
@@ -730,7 +738,7 @@
   </language>
   <language>
     <code>ie</code>
-    <name>interlingue dili</name>
+    <name>interlingue</name>
   </language>
   <language>
     <code>ig</code>
@@ -742,19 +750,19 @@
   </language>
   <language>
     <code>ik</code>
-    <name>inupiaq dili</name>
+    <name>inupiaq</name>
   </language>
   <language>
     <code>ilo</code>
-    <name>iloko dili</name>
+    <name>iloko</name>
   </language>
   <language>
     <code>inh</code>
-    <name>inquş dili</name>
+    <name>inquş</name>
   </language>
   <language>
     <code>io</code>
-    <name>ido dili</name>
+    <name>ido</name>
   </language>
   <language>
     <code>is</code>
@@ -774,7 +782,7 @@
   </language>
   <language>
     <code>jbo</code>
-    <name>loğban dili</name>
+    <name>loğban</name>
   </language>
   <language>
     <code>jgo</code>
@@ -802,7 +810,7 @@
   </language>
   <language>
     <code>kaa</code>
-    <name>qara-qalpaq dili</name>
+    <name>qara-qalpaq</name>
   </language>
   <language>
     <code>kab</code>
@@ -814,7 +822,7 @@
   </language>
   <language>
     <code>kaj</code>
-    <name>ju dili</name>
+    <name>ju</name>
   </language>
   <language>
     <code>kam</code>
@@ -822,7 +830,7 @@
   </language>
   <language>
     <code>kaw</code>
-    <name>kavi dili</name>
+    <name>kavi</name>
   </language>
   <language>
     <code>kbd</code>
@@ -830,7 +838,7 @@
   </language>
   <language>
     <code>kcg</code>
-    <name>tiyap dili</name>
+    <name>tiyap</name>
   </language>
   <language>
     <code>kde</code>
@@ -842,19 +850,19 @@
   </language>
   <language>
     <code>kfo</code>
-    <name>koro dili</name>
+    <name>koro</name>
   </language>
   <language>
     <code>kg</code>
-    <name>konqo dili</name>
+    <name>konqo</name>
   </language>
   <language>
     <code>kha</code>
-    <name>xazi dili</name>
+    <name>xazi</name>
   </language>
   <language>
     <code>kho</code>
-    <name>xotan dili</name>
+    <name>xotan</name>
   </language>
   <language>
     <code>khq</code>
@@ -866,7 +874,7 @@
   </language>
   <language>
     <code>kj</code>
-    <name>kuanyama dili</name>
+    <name>kuanyama</name>
   </language>
   <language>
     <code>kk</code>
@@ -886,7 +894,7 @@
   </language>
   <language>
     <code>kmb</code>
-    <name>kimbundu dili</name>
+    <name>kimbundu</name>
   </language>
   <language>
     <code>kn</code>
@@ -906,27 +914,27 @@
   </language>
   <language>
     <code>kos</code>
-    <name>kosreyan dili</name>
+    <name>kosreyan</name>
   </language>
   <language>
     <code>kpe</code>
-    <name>kpelle dili</name>
+    <name>kpelle</name>
   </language>
   <language>
     <code>kr</code>
-    <name>kanur dili</name>
+    <name>kanur</name>
   </language>
   <language>
     <code>krc</code>
-    <name>qaraçay-balkar dili</name>
+    <name>qaraçay-balkar</name>
   </language>
   <language>
     <code>krl</code>
-    <name>karelyan dili</name>
+    <name>karelyan</name>
   </language>
   <language>
     <code>kru</code>
-    <name>kurux dili</name>
+    <name>kurux</name>
   </language>
   <language>
     <code>ks</code>
@@ -946,15 +954,15 @@
   </language>
   <language>
     <code>kum</code>
-    <name>kumuk dili</name>
+    <name>kumuk</name>
   </language>
   <language>
     <code>kut</code>
-    <name>kutenay dili</name>
+    <name>kutenay</name>
   </language>
   <language>
     <code>kv</code>
-    <name>komi dili</name>
+    <name>komi</name>
   </language>
   <language>
     <code>kw</code>
@@ -970,7 +978,7 @@
   </language>
   <language>
     <code>lad</code>
-    <name>ladin dili</name>
+    <name>ladin</name>
   </language>
   <language>
     <code>lag</code>
@@ -978,11 +986,11 @@
   </language>
   <language>
     <code>lah</code>
-    <name>laxnda dili</name>
+    <name>laxnda</name>
   </language>
   <language>
     <code>lam</code>
-    <name>lamba dili</name>
+    <name>lamba</name>
   </language>
   <language>
     <code>lb</code>
@@ -990,7 +998,7 @@
   </language>
   <language>
     <code>lez</code>
-    <name>ləzqi dili</name>
+    <name>ləzqi</name>
   </language>
   <language>
     <code>lg</code>
@@ -998,7 +1006,7 @@
   </language>
   <language>
     <code>li</code>
-    <name>limburqiş dili</name>
+    <name>limburqiş</name>
   </language>
   <language>
     <code>lkt</code>
@@ -1014,11 +1022,15 @@
   </language>
   <language>
     <code>lol</code>
-    <name>monqo dili</name>
+    <name>monqo</name>
   </language>
   <language>
     <code>loz</code>
-    <name>lozi dili</name>
+    <name>lozi</name>
+  </language>
+  <language>
+    <code>lrc</code>
+    <name>şimali luri</name>
   </language>
   <language>
     <code>lt</code>
@@ -1030,15 +1042,15 @@
   </language>
   <language>
     <code>lua</code>
-    <name>luba-lulua dili</name>
+    <name>luba-lulua</name>
   </language>
   <language>
     <code>lui</code>
-    <name>luyseno dili</name>
+    <name>luyseno</name>
   </language>
   <language>
     <code>lun</code>
-    <name>lunda dili</name>
+    <name>lunda</name>
   </language>
   <language>
     <code>luo</code>
@@ -1058,23 +1070,23 @@
   </language>
   <language>
     <code>mad</code>
-    <name>maduriz dili</name>
+    <name>maduriz</name>
   </language>
   <language>
     <code>mag</code>
-    <name>maqahi dili</name>
+    <name>maqahi</name>
   </language>
   <language>
     <code>mai</code>
-    <name>maitili dili</name>
+    <name>maitili</name>
   </language>
   <language>
     <code>mak</code>
-    <name>makasar dili</name>
+    <name>makasar</name>
   </language>
   <language>
     <code>man</code>
-    <name>məndinqo dili</name>
+    <name>məndinqo</name>
   </language>
   <language>
     <code>mas</code>
@@ -1082,15 +1094,15 @@
   </language>
   <language>
     <code>mdf</code>
-    <name>mokşa dili</name>
+    <name>mokşa</name>
   </language>
   <language>
     <code>mdr</code>
-    <name>mandar dili</name>
+    <name>mandar</name>
   </language>
   <language>
     <code>men</code>
-    <name>mende dili</name>
+    <name>mende</name>
   </language>
   <language>
     <code>mer</code>
@@ -1118,7 +1130,7 @@
   </language>
   <language>
     <code>mh</code>
-    <name>marşal dili</name>
+    <name>marşal</name>
   </language>
   <language>
     <code>mi</code>
@@ -1126,11 +1138,11 @@
   </language>
   <language>
     <code>mic</code>
-    <name>mikmak dili</name>
+    <name>mikmak</name>
   </language>
   <language>
     <code>min</code>
-    <name>minanqkaban dili</name>
+    <name>minanqkaban</name>
   </language>
   <language>
     <code>mk</code>
@@ -1146,11 +1158,11 @@
   </language>
   <language>
     <code>mnc</code>
-    <name>mançu dili</name>
+    <name>mançu</name>
   </language>
   <language>
     <code>mni</code>
-    <name>manipüri dili</name>
+    <name>manipüri</name>
   </language>
   <language>
     <code>moh</code>
@@ -1158,7 +1170,7 @@
   </language>
   <language>
     <code>mos</code>
-    <name>mosi dili</name>
+    <name>mosi</name>
   </language>
   <language>
     <code>mr</code>
@@ -1182,15 +1194,15 @@
   </language>
   <language>
     <code>mus</code>
-    <name>krik dili</name>
+    <name>krik</name>
   </language>
   <language>
     <code>mwl</code>
-    <name>mirand dili</name>
+    <name>mirand</name>
   </language>
   <language>
     <code>mwr</code>
-    <name>maruari dili</name>
+    <name>maruari</name>
   </language>
   <language>
     <code>my</code>
@@ -1198,15 +1210,19 @@
   </language>
   <language>
     <code>myv</code>
-    <name>erzya dili</name>
+    <name>erzya</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>mazandaran</name>
   </language>
   <language>
     <code>na</code>
-    <name>nauru dili</name>
+    <name>nauru</name>
   </language>
   <language>
     <code>nap</code>
-    <name>neapolital dili</name>
+    <name>neapolital</name>
   </language>
   <language>
     <code>naq</code>
@@ -1225,24 +1241,28 @@
     <name>aşağı almanca</name>
   </language>
   <language>
+    <code>nds_NL</code>
+    <name>aşağı sakson</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>nepal</name>
   </language>
   <language>
     <code>new</code>
-    <name>nevari dili</name>
+    <name>nevari</name>
   </language>
   <language>
     <code>ng</code>
-    <name>nqonka dili</name>
+    <name>nqonka</name>
   </language>
   <language>
     <code>nia</code>
-    <name>nyas dili</name>
+    <name>nyas</name>
   </language>
   <language>
     <code>niu</code>
-    <name>niyuan dili</name>
+    <name>niyuan</name>
   </language>
   <language>
     <code>nl</code>
@@ -1262,11 +1282,11 @@
   </language>
   <language>
     <code>no</code>
-    <name>norveç dili</name>
+    <name>norveç</name>
   </language>
   <language>
     <code>nog</code>
-    <name>noqay dili</name>
+    <name>noqay</name>
   </language>
   <language>
     <code>non</code>
@@ -1278,11 +1298,11 @@
   </language>
   <language>
     <code>nr</code>
-    <name>cənub ndebele dili</name>
+    <name>cənub ndebele</name>
   </language>
   <language>
     <code>nso</code>
-    <name>şimal soto dili</name>
+    <name>şimal soto</name>
   </language>
   <language>
     <code>nus</code>
@@ -1290,15 +1310,15 @@
   </language>
   <language>
     <code>nv</code>
-    <name>navayo dili</name>
+    <name>navayo</name>
   </language>
   <language>
     <code>ny</code>
-    <name>nyanca dili</name>
+    <name>nyanca</name>
   </language>
   <language>
     <code>nym</code>
-    <name>nyamvezi dili</name>
+    <name>nyamvezi</name>
   </language>
   <language>
     <code>nyn</code>
@@ -1306,11 +1326,11 @@
   </language>
   <language>
     <code>nyo</code>
-    <name>niyoro dili</name>
+    <name>niyoro</name>
   </language>
   <language>
     <code>nzi</code>
-    <name>nizima dili</name>
+    <name>nizima</name>
   </language>
   <language>
     <code>oc</code>
@@ -1318,7 +1338,7 @@
   </language>
   <language>
     <code>oj</code>
-    <name>ocibva dili</name>
+    <name>ocibva</name>
   </language>
   <language>
     <code>om</code>
@@ -1330,15 +1350,15 @@
   </language>
   <language>
     <code>os</code>
-    <name>osetik dili</name>
+    <name>osetik</name>
   </language>
   <language>
     <code>osa</code>
-    <name>osage dili</name>
+    <name>osage</name>
   </language>
   <language>
     <code>ota</code>
-    <name>osman dili</name>
+    <name>osman</name>
   </language>
   <language>
     <code>pa</code>
@@ -1346,19 +1366,19 @@
   </language>
   <language>
     <code>pag</code>
-    <name>panqasinan dili</name>
+    <name>panqasinan</name>
   </language>
   <language>
     <code>pal</code>
-    <name>paxlavi dili</name>
+    <name>paxlavi</name>
   </language>
   <language>
     <code>pam</code>
-    <name>pampanqa dili</name>
+    <name>pampanqa</name>
   </language>
   <language>
     <code>pap</code>
-    <name>papyamento dili</name>
+    <name>papyamento</name>
   </language>
   <language>
     <code>pau</code>
@@ -1370,11 +1390,11 @@
   </language>
   <language>
     <code>phn</code>
-    <name>foyenik dili</name>
+    <name>foyenik</name>
   </language>
   <language>
     <code>pi</code>
-    <name>pali dili</name>
+    <name>pali</name>
   </language>
   <language>
     <code>pl</code>
@@ -1382,7 +1402,7 @@
   </language>
   <language>
     <code>pon</code>
-    <name>ponpeyan dili</name>
+    <name>ponpeyan</name>
   </language>
   <language>
     <code>pro</code>
@@ -1414,15 +1434,15 @@
   </language>
   <language>
     <code>raj</code>
-    <name>racastan dili</name>
+    <name>racastan</name>
   </language>
   <language>
     <code>rap</code>
-    <name>rapanu dili</name>
+    <name>rapanu</name>
   </language>
   <language>
     <code>rar</code>
-    <name>rarotonqan dili</name>
+    <name>rarotonqan</name>
   </language>
   <language>
     <code>rm</code>
@@ -1446,11 +1466,11 @@
   </language>
   <language>
     <code>rom</code>
-    <name>roman dili</name>
+    <name>roman</name>
   </language>
   <language>
     <code>root</code>
-    <name>rut dili</name>
+    <name>rut</name>
   </language>
   <language>
     <code>ru</code>
@@ -1474,15 +1494,15 @@
   </language>
   <language>
     <code>sad</code>
-    <name>sandave dili</name>
+    <name>sandave</name>
   </language>
   <language>
     <code>sah</code>
-    <name>yakut dili</name>
+    <name>yakut</name>
   </language>
   <language>
     <code>sam</code>
-    <name>samaritan dili</name>
+    <name>samaritan</name>
   </language>
   <language>
     <code>saq</code>
@@ -1490,11 +1510,11 @@
   </language>
   <language>
     <code>sas</code>
-    <name>sasak dili</name>
+    <name>sasak</name>
   </language>
   <language>
     <code>sat</code>
-    <name>santal dili</name>
+    <name>santal</name>
   </language>
   <language>
     <code>sbp</code>
@@ -1502,19 +1522,23 @@
   </language>
   <language>
     <code>sc</code>
-    <name>sardin dili</name>
+    <name>sardin</name>
   </language>
   <language>
     <code>scn</code>
-    <name>sisili dili</name>
+    <name>sisili</name>
   </language>
   <language>
     <code>sco</code>
-    <name>skots dili</name>
+    <name>skots</name>
   </language>
   <language>
     <code>sd</code>
     <name>sindhi</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>cənubi kürd</name>
   </language>
   <language>
     <code>se</code>
@@ -1526,7 +1550,7 @@
   </language>
   <language>
     <code>sel</code>
-    <name>selkup dili</name>
+    <name>selkup</name>
   </language>
   <language>
     <code>ses</code>
@@ -1550,7 +1574,7 @@
   </language>
   <language>
     <code>shn</code>
-    <name>şan dili</name>
+    <name>şan</name>
   </language>
   <language>
     <code>si</code>
@@ -1558,7 +1582,7 @@
   </language>
   <language>
     <code>sid</code>
-    <name>sidamo dili</name>
+    <name>sidamo</name>
   </language>
   <language>
     <code>sk</code>
@@ -1570,7 +1594,7 @@
   </language>
   <language>
     <code>sm</code>
-    <name>samoa dili</name>
+    <name>samoa</name>
   </language>
   <language>
     <code>sma</code>
@@ -1594,7 +1618,7 @@
   </language>
   <language>
     <code>snk</code>
-    <name>soninke dili</name>
+    <name>soninke</name>
   </language>
   <language>
     <code>so</code>
@@ -1602,7 +1626,7 @@
   </language>
   <language>
     <code>sog</code>
-    <name>soqdiyen dili</name>
+    <name>soqdiyen</name>
   </language>
   <language>
     <code>sq</code>
@@ -1614,7 +1638,7 @@
   </language>
   <language>
     <code>srn</code>
-    <name>sranan tonqo dili</name>
+    <name>sranan tonqo</name>
   </language>
   <language>
     <code>srr</code>
@@ -1622,27 +1646,23 @@
   </language>
   <language>
     <code>ss</code>
-    <name>svati dili</name>
+    <name>svati</name>
   </language>
   <language>
     <code>st</code>
-    <name>Sesoto dili</name>
-  </language>
-  <language>
-    <code>su</code>
-    <name>sudan</name>
+    <name>Sesoto</name>
   </language>
   <language>
     <code>suk</code>
-    <name>sukuma dili</name>
+    <name>sukuma</name>
   </language>
   <language>
     <code>sus</code>
-    <name>susu dili</name>
+    <name>susu</name>
   </language>
   <language>
     <code>sux</code>
-    <name>sumeryan dili</name>
+    <name>sumeryan</name>
   </language>
   <language>
     <code>sv</code>
@@ -1658,7 +1678,7 @@
   </language>
   <language>
     <code>syr</code>
-    <name>siryak dili</name>
+    <name>siryak</name>
   </language>
   <language>
     <code>ta</code>
@@ -1670,7 +1690,7 @@
   </language>
   <language>
     <code>tem</code>
-    <name>timne dili</name>
+    <name>timne</name>
   </language>
   <language>
     <code>teo</code>
@@ -1678,11 +1698,11 @@
   </language>
   <language>
     <code>ter</code>
-    <name>tereno dili</name>
+    <name>tereno</name>
   </language>
   <language>
     <code>tet</code>
-    <name>tetum dili</name>
+    <name>tetum</name>
   </language>
   <language>
     <code>tg</code>
@@ -1698,11 +1718,11 @@
   </language>
   <language>
     <code>tig</code>
-    <name>tiqre dili</name>
+    <name>tiqre</name>
   </language>
   <language>
     <code>tiv</code>
-    <name>tiv dili</name>
+    <name>tiv</name>
   </language>
   <language>
     <code>tk</code>
@@ -1710,11 +1730,11 @@
   </language>
   <language>
     <code>tkl</code>
-    <name>tokelay dili</name>
+    <name>tokelay</name>
   </language>
   <language>
     <code>tl</code>
-    <name>taqaloq dili</name>
+    <name>taqaloq</name>
   </language>
   <language>
     <code>tlh</code>
@@ -1722,15 +1742,15 @@
   </language>
   <language>
     <code>tli</code>
-    <name>tlinqit dili</name>
+    <name>tlinqit</name>
   </language>
   <language>
     <code>tmh</code>
-    <name>tamaşek dili</name>
+    <name>tamaşek</name>
   </language>
   <language>
     <code>tn</code>
-    <name>svana dili</name>
+    <name>svana</name>
   </language>
   <language>
     <code>to</code>
@@ -1738,11 +1758,11 @@
   </language>
   <language>
     <code>tog</code>
-    <name>niyasa tonga dili</name>
+    <name>niyasa tonga</name>
   </language>
   <language>
     <code>tpi</code>
-    <name>tok pisin dili</name>
+    <name>tok pisin</name>
   </language>
   <language>
     <code>tr</code>
@@ -1750,11 +1770,11 @@
   </language>
   <language>
     <code>ts</code>
-    <name>sonqa dili</name>
+    <name>sonqa</name>
   </language>
   <language>
     <code>tsi</code>
-    <name>simşyan dili</name>
+    <name>simşyan</name>
   </language>
   <language>
     <code>tt</code>
@@ -1762,15 +1782,15 @@
   </language>
   <language>
     <code>tum</code>
-    <name>tumbuka dili</name>
+    <name>tumbuka</name>
   </language>
   <language>
     <code>tvl</code>
-    <name>tuvalu dili</name>
+    <name>tuvalu</name>
   </language>
   <language>
     <code>tw</code>
-    <name>Tvi dili</name>
+    <name>Tvi</name>
   </language>
   <language>
     <code>twq</code>
@@ -1778,11 +1798,11 @@
   </language>
   <language>
     <code>ty</code>
-    <name>taxiti dili</name>
+    <name>taxiti</name>
   </language>
   <language>
     <code>tyv</code>
-    <name>tuvinyan dili</name>
+    <name>tuvinyan</name>
   </language>
   <language>
     <code>tzm</code>
@@ -1790,7 +1810,7 @@
   </language>
   <language>
     <code>udm</code>
-    <name>udmurt dili</name>
+    <name>udmurt</name>
   </language>
   <language>
     <code>ug</code>
@@ -1798,7 +1818,7 @@
   </language>
   <language>
     <code>uga</code>
-    <name>uqaritik dili</name>
+    <name>uqaritik</name>
   </language>
   <language>
     <code>uk</code>
@@ -1806,7 +1826,7 @@
   </language>
   <language>
     <code>umb</code>
-    <name>umbundu dili</name>
+    <name>umbundu</name>
   </language>
   <language>
     <code>und</code>
@@ -1826,7 +1846,7 @@
   </language>
   <language>
     <code>ve</code>
-    <name>venda dili</name>
+    <name>venda</name>
   </language>
   <language>
     <code>vi</code>
@@ -1834,11 +1854,11 @@
   </language>
   <language>
     <code>vo</code>
-    <name>volapük dili</name>
+    <name>volapük</name>
   </language>
   <language>
     <code>vot</code>
-    <name>votik dili</name>
+    <name>votik</name>
   </language>
   <language>
     <code>vun</code>
@@ -1846,19 +1866,23 @@
   </language>
   <language>
     <code>wa</code>
-    <name>valun dili</name>
+    <name>valun</name>
   </language>
   <language>
     <code>wal</code>
-    <name>valamo dili</name>
+    <name>valamo</name>
   </language>
   <language>
     <code>war</code>
-    <name>varay dili</name>
+    <name>varay</name>
   </language>
   <language>
     <code>was</code>
-    <name>vaşo dili</name>
+    <name>vaşo</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>Valpiri</name>
   </language>
   <language>
     <code>wo</code>
@@ -1878,15 +1902,15 @@
   </language>
   <language>
     <code>yao</code>
-    <name>yao dili</name>
+    <name>yao</name>
   </language>
   <language>
     <code>yap</code>
-    <name>yapiz dili</name>
+    <name>yapiz</name>
   </language>
   <language>
     <code>yi</code>
-    <name>Yahudi dili</name>
+    <name>Yahudi</name>
   </language>
   <language>
     <code>yo</code>
@@ -1894,19 +1918,19 @@
   </language>
   <language>
     <code>za</code>
-    <name>juənq dili</name>
+    <name>juənq</name>
   </language>
   <language>
     <code>zap</code>
-    <name>zapotek dili</name>
+    <name>zapotek</name>
   </language>
   <language>
     <code>zbl</code>
-    <name>blisimbols dili</name>
+    <name>blisimbols</name>
   </language>
   <language>
     <code>zen</code>
-    <name>zenaqa dili</name>
+    <name>zenaqa</name>
   </language>
   <language>
     <code>zgh</code>
@@ -1930,7 +1954,7 @@
   </language>
   <language>
     <code>zun</code>
-    <name>zuni dili</name>
+    <name>zuni</name>
   </language>
   <language>
     <code>zxx</code>
@@ -1938,6 +1962,6 @@
   </language>
   <language>
     <code>zza</code>
-    <name>zaza dili</name>
+    <name>zaza</name>
   </language>
 </languages>

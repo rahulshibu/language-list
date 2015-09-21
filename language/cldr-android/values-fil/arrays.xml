@@ -38,6 +38,8 @@
     <item>Bena</item>
     <!-- bg - Bulgarian -->
     <item>Bulgarian</item>
+    <!-- bgn - Western Balochi -->
+    <item>Kanlurang Balochi</item>
     <!-- bm - Bambara -->
     <item>Bambara</item>
     <!-- bn - Bengali -->
@@ -52,16 +54,20 @@
     <item>Bosnian</item>
     <!-- ca - Catalan -->
     <item>Catalan</item>
+    <!-- ce - Chechen -->
+    <item>Chechen</item>
     <!-- cgg - Chiga -->
     <item>Chiga</item>
     <!-- chr - Cherokee -->
     <item>Cherokee</item>
     <!-- ckb - Central Kurdish -->
-    <item>Sorani Kurdish</item>
+    <item>Central Kurdish</item>
     <!-- co - Corsican -->
     <item>Corsican</item>
     <!-- cs - Czech -->
     <item>Czech</item>
+    <!-- cv - Chuvash -->
+    <item>Chuvash</item>
     <!-- cy - Welsh -->
     <item>Welsh</item>
     <!-- da - Danish -->
@@ -70,6 +76,10 @@
     <item>Taita</item>
     <!-- de - German -->
     <item>German</item>
+    <!-- de_AT - Austrian German -->
+    <item>Austrian German</item>
+    <!-- de_CH - Swiss High German -->
+    <item>Swiss High German</item>
     <!-- dje - Zarma -->
     <item>Zarma</item>
     <!-- dsb - Lower Sorbian -->
@@ -97,19 +107,19 @@
     <!-- en_CA - Canadian English -->
     <item>Ingles sa Canada</item>
     <!-- en_GB - British English -->
-    <item>Ingles (UK)</item>
+    <item>Ingles ng British</item>
     <!-- en_US - American English -->
     <item>Ingles (US)</item>
     <!-- eo - Esperanto -->
     <item>Esperanto</item>
     <!-- es - Spanish -->
-    <item>Spanish</item>
+    <item>Espanyol</item>
     <!-- es_419 - Latin American Spanish -->
-    <item>Latin American Spanish</item>
+    <item>Latin American na Espanyol</item>
     <!-- es_ES - European Spanish -->
     <item>European Spanish</item>
     <!-- es_MX - Mexican Spanish -->
-    <item>Mexican Spanish</item>
+    <item>Espanyol ng Mehiko</item>
     <!-- et - Estonian -->
     <item>Estonian</item>
     <!-- eu - Basque -->
@@ -131,7 +141,7 @@
     <!-- fr_CH - Swiss French -->
     <item>Swiss French</item>
     <!-- fy - Western Frisian -->
-    <item>Western Frisian</item>
+    <item>Kanlurang Frisian</item>
     <!-- ga - Irish -->
     <item>Irish</item>
     <!-- gaa - Ga -->
@@ -164,7 +174,7 @@
     <item>Croatian</item>
     <!-- hsb - Upper Sorbian -->
     <item>Upper Sorbian</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>Haitian</item>
     <!-- hu - Hungarian -->
     <item>Hungarian</item>
@@ -254,6 +264,8 @@
     <item>Lao</item>
     <!-- loz - Lozi -->
     <item>Lozi</item>
+    <!-- lrc - Northern Luri -->
+    <item>Hilagang Luri</item>
     <!-- lt - Lithuanian -->
     <item>Lithuanian</item>
     <!-- lu - Luba-Katanga -->
@@ -298,12 +310,18 @@
     <item>Mundang</item>
     <!-- my - Burmese -->
     <item>Burmese</item>
+    <!-- mzn - Mazanderani -->
+    <item>Mazanderani</item>
     <!-- naq - Nama -->
     <item>Nama</item>
     <!-- nb - Norwegian Bokmål -->
     <item>Norwegian Bokmal</item>
     <!-- nd - North Ndebele -->
-    <item>North Ndebele</item>
+    <item>Hilagang Ndebele</item>
+    <!-- nds - Low German -->
+    <item>Low German</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>Low Saxon</item>
     <!-- ne - Nepali -->
     <item>Nepali</item>
     <!-- nl - Dutch -->
@@ -316,7 +334,7 @@
     <item>Norwegian Nynorsk</item>
     <!-- no - Norwegian -->
     <item>Norwegian</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>N’Ko</item>
     <!-- nso - Northern Sotho -->
     <item>Northern Sotho</item>
@@ -343,7 +361,7 @@
     <!-- pt - Portuguese -->
     <item>Portuges</item>
     <!-- pt_BR - Brazilian Portuguese -->
-    <item>Brazilian Portuguese</item>
+    <item>Portuges ng Brasil</item>
     <!-- pt_PT - European Portuguese -->
     <item>European Portuguese</item>
     <!-- qu - Quechua -->
@@ -374,8 +392,10 @@
     <item>Sangu</item>
     <!-- sd - Sindhi -->
     <item>Sindhi</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>Katimugang Kurdish</item>
     <!-- se - Northern Sami -->
-    <item>Northern Sami</item>
+    <item>Hilagang Sami</item>
     <!-- seh - Sena -->
     <item>Sena</item>
     <!-- ses - Koyraboro Senni -->
@@ -395,7 +415,7 @@
     <!-- sm - Samoan -->
     <item>Samoan</item>
     <!-- sma - Southern Sami -->
-    <item>Southern Sami</item>
+    <item>Katimugang Sami</item>
     <!-- smj - Lule Sami -->
     <item>Lule Sami</item>
     <!-- smn - Inari Sami -->
@@ -484,6 +504,8 @@
     <item>Vietnamese</item>
     <!-- vun - Vunjo -->
     <item>Vunjo</item>
+    <!-- wbp - Warlpiri -->
+    <item>Warlpiri</item>
     <!-- wo - Wolof -->
     <item>Wolof</item>
     <!-- xh - Xhosa -->
@@ -502,6 +524,8 @@
     <item>Chinese</item>
     <!-- zh_Hans - Simplified Chinese -->
     <item>Simplified Chinese</item>
+    <!-- zh_Hant - Traditional Chinese -->
+    <item>Chinese (Traditional)</item>
     <!-- zu - Zulu -->
     <item>Zulu</item>
     <!-- zxx - No linguistic content -->

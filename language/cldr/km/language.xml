@@ -14,15 +14,15 @@
   </language>
   <language>
     <code>af</code>
-    <name>អាហ្វ្រីកាអាន</name>
+    <name>អាហ្វ្រិកាន</name>
   </language>
   <language>
     <code>agq</code>
-    <name>Aghem</name>
+    <name>អាហ្គីម</name>
   </language>
   <language>
     <code>ak</code>
-    <name>Akan</name>
+    <name>អាកាន</name>
   </language>
   <language>
     <code>am</code>
@@ -38,11 +38,11 @@
   </language>
   <language>
     <code>ar_001</code>
-    <name>អារ៉ាប់​ស្តង់ដារ​ទំនើប</name>
+    <name>អារ៉ាប់ផ្លូវការ</name>
   </language>
   <language>
     <code>arn</code>
-    <name>Mapuche</name>
+    <name>ម៉ាពូឈី</name>
   </language>
   <language>
     <code>as</code>
@@ -50,7 +50,7 @@
   </language>
   <language>
     <code>asa</code>
-    <name>Asu</name>
+    <name>អាស៊ូ</name>
   </language>
   <language>
     <code>ay</code>
@@ -70,15 +70,19 @@
   </language>
   <language>
     <code>bem</code>
-    <name>Bemba</name>
+    <name>បេមបា</name>
   </language>
   <language>
     <code>bez</code>
-    <name>Bena</name>
+    <name>បេណា</name>
   </language>
   <language>
     <code>bg</code>
     <name>ប៊ុលហ្ការី</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>បាឡូជីខាងលិច</name>
   </language>
   <language>
     <code>bm</code>
@@ -98,7 +102,7 @@
   </language>
   <language>
     <code>brx</code>
-    <name>Bodo</name>
+    <name>បូដូ</name>
   </language>
   <language>
     <code>bs</code>
@@ -109,8 +113,12 @@
     <name>កាតាឡាន</name>
   </language>
   <language>
+    <code>ce</code>
+    <name>ឈីឆេន</name>
+  </language>
+  <language>
     <code>cgg</code>
-    <name>Chiga</name>
+    <name>ឈីហ្គា</name>
   </language>
   <language>
     <code>chr</code>
@@ -118,15 +126,19 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>សុរ៉ានី</name>
+    <name>ខឺដកណ្តាល</name>
   </language>
   <language>
     <code>co</code>
-    <name>Corsican</name>
+    <name>កូស៊ីខាន</name>
   </language>
   <language>
     <code>cs</code>
     <name>ឆេក</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>ឈូវ៉ាស</name>
   </language>
   <language>
     <code>cy</code>
@@ -138,47 +150,39 @@
   </language>
   <language>
     <code>dav</code>
-    <name>Taita</name>
+    <name>តៃតា</name>
   </language>
   <language>
     <code>de</code>
     <name>អាល្លឺម៉ង់</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>អាល្លឺម៉ង់ អូទ្រីស</name>
-  </language>
-  <language>
-    <code>de_CH</code>
-    <name>អាល្លឺម៉ង់ ស្វីស</name>
-  </language>
-  <language>
     <code>dje</code>
-    <name>Zarma</name>
+    <name>ហ្សាម៉ា</name>
   </language>
   <language>
     <code>dsb</code>
-    <name>Lower Sorbian</name>
+    <name>សូប៊ីក្រោម</name>
   </language>
   <language>
     <code>dua</code>
-    <name>Duala</name>
+    <name>ឌូអាឡា</name>
   </language>
   <language>
     <code>dyo</code>
-    <name>Jola-Fonyi</name>
+    <name>ចូឡាហ៊្វុនយី</name>
   </language>
   <language>
     <code>dz</code>
-    <name>ភាសាប៊ូតាន</name>
+    <name>ដុងខា</name>
   </language>
   <language>
     <code>ebu</code>
-    <name>Embu</name>
+    <name>អេមប៊ូ</name>
   </language>
   <language>
     <code>ee</code>
-    <name>Ewe</name>
+    <name>អ៊ីវ</name>
   </language>
   <language>
     <code>el</code>
@@ -189,22 +193,6 @@
     <name>អង់គ្លេស</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>អង់គ្លេស អូស្ត្រាលី</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>អង់គ្លេស កាណាដា</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>អង់គ្លេស ចក្រភព​អង់គ្លេស</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>អង់គ្លេស អាមេរិក</name>
-  </language>
-  <language>
     <code>eo</code>
     <name>អេស្ពេរ៉ាន់តូ</name>
   </language>
@@ -213,12 +201,8 @@
     <name>អេស្ប៉ាញ</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>អេស្ប៉ាញ អាមេរីកឡាតាំង</name>
-  </language>
-  <language>
     <code>es_ES</code>
-    <name>អេស្ប៉ាញ អឺរ៉ុប</name>
+    <name>អេស្ប៉ាញ (អ៊ឺរ៉ុប)</name>
   </language>
   <language>
     <code>et</code>
@@ -262,7 +246,7 @@
   </language>
   <language>
     <code>gag</code>
-    <name>Gagauz</name>
+    <name>កាគូស</name>
   </language>
   <language>
     <code>gd</code>
@@ -278,7 +262,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>អាល្លឺម៉ង ស្វីស</name>
+    <name>អាល្លឺម៉ង (ស្វីស)</name>
   </language>
   <language>
     <code>gu</code>
@@ -286,11 +270,11 @@
   </language>
   <language>
     <code>guz</code>
-    <name>Gusii</name>
+    <name>ហ្គូស៊ី</name>
   </language>
   <language>
     <code>gv</code>
-    <name>Manx</name>
+    <name>មេន</name>
   </language>
   <language>
     <code>ha</code>
@@ -306,7 +290,7 @@
   </language>
   <language>
     <code>hi</code>
-    <name>ហិណ្ឌូ</name>
+    <name>ហិណ្ឌី</name>
   </language>
   <language>
     <code>hr</code>
@@ -314,7 +298,7 @@
   </language>
   <language>
     <code>hsb</code>
-    <name>Upper Sorbian</name>
+    <name>សូប៊ីលើ</name>
   </language>
   <language>
     <code>ht</code>
@@ -342,7 +326,7 @@
   </language>
   <language>
     <code>ii</code>
-    <name>Sichuan Yi</name>
+    <name>ស៊ីឈាន់យី</name>
   </language>
   <language>
     <code>is</code>
@@ -354,7 +338,7 @@
   </language>
   <language>
     <code>iu</code>
-    <name>Inuktitut</name>
+    <name>អ៊ីនុកទីទុត</name>
   </language>
   <language>
     <code>ja</code>
@@ -362,11 +346,11 @@
   </language>
   <language>
     <code>jgo</code>
-    <name>Ngomba</name>
+    <name>ងុំបា</name>
   </language>
   <language>
     <code>jmc</code>
-    <name>Machame</name>
+    <name>ម៉ាឆាំ</name>
   </language>
   <language>
     <code>jv</code>
@@ -378,27 +362,27 @@
   </language>
   <language>
     <code>kab</code>
-    <name>Kabyle</name>
+    <name>កាប៊ីឡេ</name>
   </language>
   <language>
     <code>kam</code>
-    <name>Kamba</name>
+    <name>កាំបា</name>
   </language>
   <language>
     <code>kde</code>
-    <name>Makonde</name>
+    <name>ម៉ាកូនដេ</name>
   </language>
   <language>
     <code>kea</code>
-    <name>Kabuverdianu</name>
+    <name>កាប៊ូវឺឌៀនូ</name>
   </language>
   <language>
     <code>khq</code>
-    <name>Koyra Chiini</name>
+    <name>គុយរ៉ាឈីនី</name>
   </language>
   <language>
     <code>ki</code>
-    <name>Kikuyu</name>
+    <name>គីគូយូ</name>
   </language>
   <language>
     <code>kk</code>
@@ -406,11 +390,11 @@
   </language>
   <language>
     <code>kl</code>
-    <name>Kalaallisut</name>
+    <name>កាឡាលលីស៊ុត</name>
   </language>
   <language>
     <code>kln</code>
-    <name>Kalenjin</name>
+    <name>កាលែនជីន</name>
   </language>
   <language>
     <code>km</code>
@@ -426,11 +410,11 @@
   </language>
   <language>
     <code>koi</code>
-    <name>Komi-Permyak</name>
+    <name>គូមីភឹមយ៉ាគ</name>
   </language>
   <language>
     <code>kok</code>
-    <name>Konkani</name>
+    <name>គុនកានី</name>
   </language>
   <language>
     <code>ks</code>
@@ -438,11 +422,11 @@
   </language>
   <language>
     <code>ksb</code>
-    <name>Shambala</name>
+    <name>សាមបាឡា</name>
   </language>
   <language>
     <code>ksf</code>
-    <name>Bafia</name>
+    <name>បាហ្វៀ</name>
   </language>
   <language>
     <code>ku</code>
@@ -450,7 +434,7 @@
   </language>
   <language>
     <code>kw</code>
-    <name>Cornish</name>
+    <name>កូនីស</name>
   </language>
   <language>
     <code>ky</code>
@@ -462,7 +446,7 @@
   </language>
   <language>
     <code>lag</code>
-    <name>Langi</name>
+    <name>ឡានហ្គី</name>
   </language>
   <language>
     <code>lb</code>
@@ -470,11 +454,11 @@
   </language>
   <language>
     <code>lg</code>
-    <name>Ganda</name>
+    <name>ហ្គាន់ដា</name>
   </language>
   <language>
     <code>lkt</code>
-    <name>Lakota</name>
+    <name>ឡាកូតា</name>
   </language>
   <language>
     <code>ln</code>
@@ -485,36 +469,40 @@
     <name>ឡាវ</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>លូរីខាងជើង</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>លីទុយអានី</name>
   </language>
   <language>
     <code>lu</code>
-    <name>Luba-Katanga</name>
+    <name>លូបាកាតានហ្គា</name>
   </language>
   <language>
     <code>luo</code>
-    <name>Luo</name>
+    <name>លូអូ</name>
   </language>
   <language>
     <code>luy</code>
-    <name>Luyia</name>
+    <name>លូយ៉ា</name>
   </language>
   <language>
     <code>lv</code>
-    <name>ឡាតវីយ៉ា</name>
+    <name>ឡាតវី</name>
   </language>
   <language>
     <code>mas</code>
-    <name>Masai</name>
+    <name>ម៉ាសៃ</name>
   </language>
   <language>
     <code>mer</code>
-    <name>Meru</name>
+    <name>មេរូ</name>
   </language>
   <language>
     <code>mfe</code>
-    <name>Morisyen</name>
+    <name>ម៉ូរីស៊ីន</name>
   </language>
   <language>
     <code>mg</code>
@@ -522,11 +510,11 @@
   </language>
   <language>
     <code>mgh</code>
-    <name>Makhuwa-Meetto</name>
+    <name>ម៉ាកគូវ៉ាមីតូ</name>
   </language>
   <language>
     <code>mgo</code>
-    <name>Meta</name>
+    <name>មេតា</name>
   </language>
   <language>
     <code>mi</code>
@@ -546,11 +534,11 @@
   </language>
   <language>
     <code>moh</code>
-    <name>Mohawk</name>
+    <name>ម៊ូហាគ</name>
   </language>
   <language>
     <code>mr</code>
-    <name>មរាធិ</name>
+    <name>ម៉ារ៉ាធី</name>
   </language>
   <language>
     <code>ms</code>
@@ -562,15 +550,19 @@
   </language>
   <language>
     <code>mua</code>
-    <name>Mundang</name>
+    <name>មុនដាង</name>
   </language>
   <language>
     <code>my</code>
     <name>ភូមា</name>
   </language>
   <language>
+    <code>mzn</code>
+    <name>ម៉ាហ្សានដឺរេនី</name>
+  </language>
+  <language>
     <code>naq</code>
-    <name>Nama</name>
+    <name>ណាម៉ា</name>
   </language>
   <language>
     <code>nb</code>
@@ -578,7 +570,15 @@
   </language>
   <language>
     <code>nd</code>
-    <name>North Ndebele</name>
+    <name>នេបេលេខាងជើង</name>
+  </language>
+  <language>
+    <code>nds</code>
+    <name>អាល្លឺម៉ង់ក្រោម</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>ហ្សាក់ស្យុងក្រោម</name>
   </language>
   <language>
     <code>ne</code>
@@ -594,7 +594,7 @@
   </language>
   <language>
     <code>nmg</code>
-    <name>Kwasio</name>
+    <name>ក្វាស្យូ</name>
   </language>
   <language>
     <code>nn</code>
@@ -606,15 +606,15 @@
   </language>
   <language>
     <code>nqo</code>
-    <name>N’Ko</name>
+    <name>នគោ</name>
   </language>
   <language>
     <code>nus</code>
-    <name>Nuer</name>
+    <name>នូអ័រ</name>
   </language>
   <language>
     <code>nyn</code>
-    <name>Nyankole</name>
+    <name>ណានកូលេ</name>
   </language>
   <language>
     <code>oc</code>
@@ -622,7 +622,7 @@
   </language>
   <language>
     <code>om</code>
-    <name>Oromo</name>
+    <name>អូរ៉ូម៉ូ</name>
   </language>
   <language>
     <code>or</code>
@@ -645,12 +645,8 @@
     <name>ព័រទុយហ្កាល់</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>ព័រទុយហ្គាល់ ប្រេស៊ីល</name>
-  </language>
-  <language>
     <code>pt_PT</code>
-    <name>ព័រទុយហ្គាល់ អឺរ៉ុប</name>
+    <name>ព័រទុយហ្គាល់ (អឺរ៉ុប)</name>
   </language>
   <language>
     <code>qu</code>
@@ -658,7 +654,7 @@
   </language>
   <language>
     <code>quc</code>
-    <name>Kʼicheʼ</name>
+    <name>គីចឈី</name>
   </language>
   <language>
     <code>rm</code>
@@ -674,11 +670,11 @@
   </language>
   <language>
     <code>ro_MD</code>
-    <name>ភាសាម៉ុលដាវី</name>
+    <name>ម៉ុលដាវី</name>
   </language>
   <language>
     <code>rof</code>
-    <name>Rombo</name>
+    <name>រុមបូ</name>
   </language>
   <language>
     <code>ru</code>
@@ -686,11 +682,11 @@
   </language>
   <language>
     <code>rw</code>
-    <name>Kinyarwanda</name>
+    <name>គិនយ៉ាវ៉ាន់ដា</name>
   </language>
   <language>
     <code>rwk</code>
-    <name>Rwa</name>
+    <name>រ៉្វា</name>
   </language>
   <language>
     <code>sa</code>
@@ -698,31 +694,35 @@
   </language>
   <language>
     <code>saq</code>
-    <name>Samburu</name>
+    <name>សាមបូរូ</name>
   </language>
   <language>
     <code>sbp</code>
-    <name>Sangu</name>
+    <name>សានហ្គូ</name>
   </language>
   <language>
     <code>sd</code>
-    <name>​​ស៊ីន្តី</name>
+    <name>ស៊ីនឌី</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>អម្បូរឃឺដខាងត្បូង</name>
   </language>
   <language>
     <code>se</code>
-    <name>Sami ភាគ​ខាង​ជើង</name>
+    <name>សាមីខាងជើង</name>
   </language>
   <language>
     <code>seh</code>
-    <name>Sena</name>
+    <name>ស៊ីណា</name>
   </language>
   <language>
     <code>ses</code>
-    <name>Koyraboro Senni</name>
+    <name>គុយរ៉ាបូរ៉ុស៊ីនី</name>
   </language>
   <language>
     <code>sg</code>
-    <name>Sango</name>
+    <name>សានហ្គោ</name>
   </language>
   <language>
     <code>sh</code>
@@ -730,7 +730,7 @@
   </language>
   <language>
     <code>shi</code>
-    <name>Tachelhit</name>
+    <name>តាឈីលហ៊ីត</name>
   </language>
   <language>
     <code>si</code>
@@ -750,23 +750,23 @@
   </language>
   <language>
     <code>sma</code>
-    <name>Sami ភាគ​ខាង​ត្បូង</name>
+    <name>សាមីខាងត្បូង</name>
   </language>
   <language>
     <code>smj</code>
-    <name>Lule Sami</name>
+    <name>លូលីសាមី</name>
   </language>
   <language>
     <code>smn</code>
-    <name>Inari Sami</name>
+    <name>អ៊ីណារីសាម៉ី</name>
   </language>
   <language>
     <code>sms</code>
-    <name>Skolt Sami</name>
+    <name>ស្កុលសាមី</name>
   </language>
   <language>
     <code>sn</code>
-    <name>Shona</name>
+    <name>សូណា</name>
   </language>
   <language>
     <code>so</code>
@@ -778,7 +778,7 @@
   </language>
   <language>
     <code>sr</code>
-    <name>សើប</name>
+    <name>ស៊ែប</name>
   </language>
   <language>
     <code>st</code>
@@ -798,7 +798,7 @@
   </language>
   <language>
     <code>swc</code>
-    <name>Congo Swahili</name>
+    <name>កុងហ្គោស្វាហ៊ីលី</name>
   </language>
   <language>
     <code>ta</code>
@@ -810,7 +810,7 @@
   </language>
   <language>
     <code>teo</code>
-    <name>Teso</name>
+    <name>តេសូ</name>
   </language>
   <language>
     <code>tg</code>
@@ -842,7 +842,7 @@
   </language>
   <language>
     <code>tt</code>
-    <name>តាតារ</name>
+    <name>តាតា</name>
   </language>
   <language>
     <code>tw</code>
@@ -850,11 +850,11 @@
   </language>
   <language>
     <code>twq</code>
-    <name>Tasawaq</name>
+    <name>តាសាវ៉ាក់</name>
   </language>
   <language>
     <code>tzm</code>
-    <name>Atlas Tamazight កណ្ដាល</name>
+    <name>តាម៉ាសាយអាត្លាសកណ្តាល</name>
   </language>
   <language>
     <code>ug</code>
@@ -866,7 +866,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>មិន​ស្គាល់​ភាសា</name>
+    <name>ភាសាមិនស្គាល់</name>
   </language>
   <language>
     <code>ur</code>
@@ -878,7 +878,7 @@
   </language>
   <language>
     <code>vai</code>
-    <name>Vai</name>
+    <name>វៃ</name>
   </language>
   <language>
     <code>vi</code>
@@ -886,7 +886,11 @@
   </language>
   <language>
     <code>vun</code>
-    <name>Vunjo</name>
+    <name>វុនចូ</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>វ៉ារីប៉ារី</name>
   </language>
   <language>
     <code>wo</code>
@@ -898,7 +902,7 @@
   </language>
   <language>
     <code>xog</code>
-    <name>Soga</name>
+    <name>សូហ្គា</name>
   </language>
   <language>
     <code>yi</code>

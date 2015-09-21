@@ -47,7 +47,7 @@
     <!-- arc - Aramaic -->
     <item>aramæisk</item>
     <!-- arn - Mapuche -->
-    <item>araukansk</item>
+    <item>mapuche</item>
     <!-- arp - Arapaho -->
     <item>arapaho</item>
     <!-- arw - Arawak -->
@@ -66,6 +66,8 @@
     <item>aymara</item>
     <!-- az - Azerbaijani -->
     <item>aserbajdsjansk</item>
+    <!-- az_Arab -->
+    <item>sydaserbajdsjansk</item>
     <!-- ba - Bashkir -->
     <item>bashkir</item>
     <!-- bal - Baluchi -->
@@ -90,6 +92,8 @@
     <item>bafut</item>
     <!-- bg - Bulgarian -->
     <item>bulgarsk</item>
+    <!-- bgn - Western Balochi -->
+    <item>vestbaluchi</item>
     <!-- bho - Bhojpuri -->
     <item>bhojpuri</item>
     <!-- bi - Bislama -->
@@ -370,7 +374,7 @@
     <item>kroatisk</item>
     <!-- hsb - Upper Sorbian -->
     <item>øvresorbisk</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>haitisk</item>
     <!-- hu - Hungarian -->
     <item>ungarsk</item>
@@ -540,6 +544,8 @@
     <item>mongo</item>
     <!-- loz - Lozi -->
     <item>lozi</item>
+    <!-- lrc - Northern Luri -->
+    <item>nordluri</item>
     <!-- lt - Lithuanian -->
     <item>litauisk</item>
     <!-- lu - Luba-Katanga -->
@@ -636,6 +642,8 @@
     <item>myene</item>
     <!-- myv - Erzya -->
     <item>erzya</item>
+    <!-- mzn - Mazanderani -->
+    <item>mazenisk</item>
     <!-- na - Nauru -->
     <item>nauru</item>
     <!-- nap - Neapolitan -->
@@ -674,7 +682,7 @@
     <item>nogai</item>
     <!-- non - Old Norse -->
     <item>oldislandsk</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>n-ko</item>
     <!-- nr - South Ndebele -->
     <item>sydndebele</item>
@@ -800,6 +808,8 @@
     <item>skotsk</item>
     <!-- sd - Sindhi -->
     <item>sindhi</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>sydkurdisk</item>
     <!-- se - Northern Sami -->
     <item>nordsamisk</item>
     <!-- see - Seneca -->
@@ -897,7 +907,7 @@
     <!-- tg - Tajik -->
     <item>tajik</item>
     <!-- th - Thai -->
-    <item>thailandsk</item>
+    <item>thai</item>
     <!-- ti - Tigrinya -->
     <item>tigrinya</item>
     <!-- tig - Tigre -->
@@ -986,6 +996,8 @@
     <item>waray</item>
     <!-- was - Washo -->
     <item>washo</item>
+    <!-- wbp - Warlpiri -->
+    <item>walbiri</item>
     <!-- wo - Wolof -->
     <item>wolof</item>
     <!-- xal - Kalmyk -->

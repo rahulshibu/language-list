@@ -84,8 +84,6 @@
     <item>ไอย์มารา</item>
     <!-- az - Azerbaijani -->
     <item>อาเซอร์ไบจาน</item>
-    <!-- azb - South Azerbaijani -->
-    <item>อาเซอร์ไบจานใต้</item>
     <!-- ba - Bashkir -->
     <item>บัชคีร์</item>
     <!-- bal - Baluchi -->
@@ -118,6 +116,8 @@
     <item>พทคะ</item>
     <!-- bg - Bulgarian -->
     <item>บัลแกเรีย</item>
+    <!-- bgn - Western Balochi -->
+    <item>บาลูจิตะวันออก</item>
     <!-- bho - Bhojpuri -->
     <item>โภชปุรี</item>
     <!-- bi - Bislama -->
@@ -298,8 +298,12 @@
     <item>เอสเปอรันโต</item>
     <!-- es - Spanish -->
     <item>สเปน</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>สเปน - ละตินอเมริกา</item>
     <!-- es_ES - European Spanish -->
-    <item>สเปน (ยุโรป)</item>
+    <item>สเปน - ยุโรป</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>สเปน - เม็กซิโก</item>
     <!-- esu - Central Yupik -->
     <item>ยูพิกกลาง</item>
     <!-- et - Estonian -->
@@ -332,6 +336,8 @@
     <item>ฟอน</item>
     <!-- fr - French -->
     <item>ฝรั่งเศส</item>
+    <!-- fr_CA - Canadian French -->
+    <item>ฝรั่งเศส - แคนาดา</item>
     <!-- fr_CH - Swiss French -->
     <item>ฝรั่งเศส (สวิส)</item>
     <!-- frc - Cajun French -->
@@ -434,7 +440,7 @@
     <item>ซอร์บส์ตอนบน</item>
     <!-- hsn - Xiang Chinese -->
     <item>จีนเซียง</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>เฮติ</item>
     <!-- hu - Hungarian -->
     <item>ฮังการี</item>
@@ -630,6 +636,8 @@
     <item>มองโก</item>
     <!-- loz - Lozi -->
     <item>โลซิ</item>
+    <!-- lrc - Northern Luri -->
+    <item>ลูรีเหนือ</item>
     <!-- lt - Lithuanian -->
     <item>ลิทัวเนีย</item>
     <!-- ltg - Latgalian -->
@@ -752,6 +760,8 @@
     <item>เอ็นเดเบเลเหนือ</item>
     <!-- nds - Low German -->
     <item>เยอรมันต่ำ - แซกซอนต่ำ</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>แซกซอนใต้</item>
     <!-- ne - Nepali -->
     <item>เนปาล</item>
     <!-- new - Newari -->
@@ -782,7 +792,7 @@
     <item>นอร์สโบราณ</item>
     <!-- nov - Novial -->
     <item>โนเวียล</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>เอ็นโก</item>
     <!-- nr - South Ndebele -->
     <item>เอ็นเดเบเลใต้</item>
@@ -938,6 +948,8 @@
     <item>สินธุ</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>ซาร์ดิเนียซาสซารี</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>เคอร์ดิชใต้</item>
     <!-- se - Northern Sami -->
     <item>ซามิเหนือ</item>
     <!-- see - Seneca -->
@@ -1158,6 +1170,8 @@
     <item>วาเรย์</item>
     <!-- was - Washo -->
     <item>วาโช</item>
+    <!-- wbp - Warlpiri -->
+    <item>วอล์เพอร์รี</item>
     <!-- wo - Wolof -->
     <item>โวลอฟ</item>
     <!-- wuu - Wu Chinese -->

@@ -30,7 +30,7 @@
   </language>
   <language>
     <code>af</code>
-    <name>африканс</name>
+    <name>африкаанс</name>
   </language>
   <language>
     <code>afh</code>
@@ -165,6 +165,10 @@
     <name>български</name>
   </language>
   <language>
+    <code>bgn</code>
+    <name>западен балочи</name>
+  </language>
+  <language>
     <code>bho</code>
     <name>божпури</name>
   </language>
@@ -294,7 +298,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>кюрдски (сорани)</name>
+    <name>кюрдски (централен)</name>
   </language>
   <language>
     <code>co</code>
@@ -351,14 +355,6 @@
   <language>
     <code>de</code>
     <name>немски</name>
-  </language>
-  <language>
-    <code>de_AT</code>
-    <name>австрийски немски</name>
-  </language>
-  <language>
-    <code>de_CH</code>
-    <name>швейцарски горногермански</name>
   </language>
   <language>
     <code>del</code>
@@ -445,20 +441,8 @@
     <name>английски</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>австралийски английски</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>канадски английски</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>британски английски</name>
-  </language>
-  <language>
     <code>en_US</code>
-    <name>американски английски</name>
+    <name>английски (САЩ)</name>
   </language>
   <language>
     <code>enm</code>
@@ -471,10 +455,6 @@
   <language>
     <code>es</code>
     <name>испански</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>мексикански испански</name>
   </language>
   <language>
     <code>et</code>
@@ -527,14 +507,6 @@
   <language>
     <code>fr</code>
     <name>френски</name>
-  </language>
-  <language>
-    <code>fr_CA</code>
-    <name>канадски френски</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>швейцарски френски</name>
   </language>
   <language>
     <code>frm</code>
@@ -1017,6 +989,10 @@
     <name>лози</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>северен лури</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>литовски</name>
   </language>
@@ -1197,6 +1173,10 @@
     <name>ерзиа</name>
   </language>
   <language>
+    <code>mzn</code>
+    <name>мазандаран</name>
+  </language>
+  <language>
     <code>na</code>
     <name>науру</name>
   </language>
@@ -1210,7 +1190,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>норвежки букмол</name>
+    <name>норвежки (букмол)</name>
   </language>
   <language>
     <code>nd</code>
@@ -1218,6 +1198,10 @@
   </language>
   <language>
     <code>nds</code>
+    <name>долнонемски</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
     <name>долносаксонски</name>
   </language>
   <language>
@@ -1254,7 +1238,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>норвежки нюношк</name>
+    <name>норвежки (нюношк)</name>
   </language>
   <language>
     <code>no</code>
@@ -1507,6 +1491,10 @@
   <language>
     <code>sd</code>
     <name>синдхи</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>южнокюрдски</name>
   </language>
   <language>
     <code>se</code>
@@ -1861,6 +1849,10 @@
     <name>уашо</name>
   </language>
   <language>
+    <code>wbp</code>
+    <name>валпири</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>волоф</name>
   </language>
@@ -1919,14 +1911,6 @@
   <language>
     <code>zh</code>
     <name>китайски</name>
-  </language>
-  <language>
-    <code>zh_Hans</code>
-    <name>опростен китайски</name>
-  </language>
-  <language>
-    <code>zh_Hant</code>
-    <name>традиционен китайски</name>
   </language>
   <language>
     <code>zu</code>

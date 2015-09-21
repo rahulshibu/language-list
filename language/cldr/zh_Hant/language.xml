@@ -165,10 +165,6 @@
     <name>亞塞拜然文</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>南亞塞拜然文</name>
-  </language>
-  <language>
     <code>ba</code>
     <name>巴什客爾文</name>
   </language>
@@ -231,6 +227,10 @@
   <language>
     <code>bg</code>
     <name>保加利亞文</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>西俾路支文</name>
   </language>
   <language>
     <code>bho</code>
@@ -571,10 +571,6 @@
   <language>
     <code>es</code>
     <name>西班牙文</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>西班牙文（歐洲）</name>
   </language>
   <language>
     <code>esu</code>
@@ -1233,6 +1229,10 @@
     <name>洛齊文</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>北盧爾文</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>立陶宛文</name>
   </language>
@@ -1446,7 +1446,7 @@
   </language>
   <language>
     <code>mzn</code>
-    <name>瑪詹德拉尼文</name>
+    <name>馬贊德蘭文</name>
   </language>
   <language>
     <code>na</code>
@@ -1475,6 +1475,10 @@
   <language>
     <code>nds</code>
     <name>低地德文</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>低地薩克遜文</name>
   </language>
   <language>
     <code>ne</code>
@@ -1693,10 +1697,6 @@
     <name>葡萄牙文</name>
   </language>
   <language>
-    <code>pt_PT</code>
-    <name>葡萄牙文（歐洲）</name>
-  </language>
-  <language>
     <code>qu</code>
     <name>蓋楚瓦文</name>
   </language>
@@ -1843,6 +1843,10 @@
   <language>
     <code>sdc</code>
     <name>薩丁尼亞-薩薩里文</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>南庫爾德文</name>
   </language>
   <language>
     <code>se</code>
@@ -2283,6 +2287,10 @@
   <language>
     <code>was</code>
     <name>瓦紹文</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>沃皮瑞文</name>
   </language>
   <language>
     <code>wo</code>

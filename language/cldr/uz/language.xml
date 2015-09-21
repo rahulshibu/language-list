@@ -2,127 +2,139 @@
 <languages>
   <language>
     <code>ab</code>
-    <name>abxazcha</name>
+    <name>abxaz</name>
   </language>
   <language>
     <code>af</code>
-    <name>afrikancha</name>
+    <name>afrikaans</name>
   </language>
   <language>
     <code>agq</code>
-    <name>ag‘emcha</name>
+    <name>agem</name>
   </language>
   <language>
     <code>ak</code>
-    <name>akancha</name>
+    <name>akan</name>
   </language>
   <language>
     <code>am</code>
-    <name>amxarcha</name>
+    <name>amxar</name>
   </language>
   <language>
     <code>ar</code>
-    <name>arabcha</name>
+    <name>arab</name>
   </language>
   <language>
     <code>ar_001</code>
-    <name>zamonavij standart arabcha</name>
+    <name>standart arab</name>
   </language>
   <language>
     <code>arn</code>
-    <name>mapuchiycha</name>
+    <name>araukan</name>
   </language>
   <language>
     <code>as</code>
-    <name>assamcha</name>
+    <name>assam</name>
   </language>
   <language>
     <code>asa</code>
-    <name>asucha</name>
+    <name>asu</name>
   </language>
   <language>
     <code>az</code>
-    <name>ozarbayjoncha</name>
+    <name>ozarbayjon</name>
   </language>
   <language>
     <code>ba</code>
-    <name>boshqircha</name>
+    <name>boshqird</name>
   </language>
   <language>
     <code>be</code>
-    <name>belaruscha</name>
+    <name>belarus</name>
   </language>
   <language>
     <code>bem</code>
-    <name>bembacha</name>
+    <name>bemba</name>
   </language>
   <language>
     <code>bez</code>
-    <name>benacha</name>
+    <name>bena</name>
   </language>
   <language>
     <code>bg</code>
-    <name>bolgarcha</name>
+    <name>bolgar</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>g‘arbiy beluji</name>
   </language>
   <language>
     <code>bm</code>
-    <name>bambarcha</name>
+    <name>bambar</name>
   </language>
   <language>
     <code>bn</code>
-    <name>bengalcha</name>
+    <name>bengal</name>
   </language>
   <language>
     <code>bo</code>
-    <name>tibetcha</name>
+    <name>tibet</name>
   </language>
   <language>
     <code>br</code>
-    <name>bretoncha</name>
+    <name>breton</name>
   </language>
   <language>
     <code>brx</code>
-    <name>bodocha</name>
+    <name>bodo</name>
   </language>
   <language>
     <code>bs</code>
-    <name>bosniycha</name>
+    <name>bosniy</name>
   </language>
   <language>
     <code>ca</code>
-    <name>katalancha</name>
+    <name>katalan</name>
+  </language>
+  <language>
+    <code>ce</code>
+    <name>chechen</name>
   </language>
   <language>
     <code>cgg</code>
-    <name>chigcha</name>
+    <name>chiga</name>
   </language>
   <language>
     <code>chr</code>
-    <name>cherokcha</name>
+    <name>cheroki</name>
   </language>
   <language>
     <code>ckb</code>
-    <name>sorani kurd tili</name>
+    <name>sorani-kurd</name>
   </language>
   <language>
     <code>co</code>
-    <name>korsiancha</name>
+    <name>korsikan</name>
   </language>
   <language>
     <code>cs</code>
-    <name>chexcha</name>
+    <name>chex</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>chuvash</name>
   </language>
   <language>
     <code>cy</code>
-    <name>uelscha</name>
+    <name>valliy</name>
   </language>
   <language>
     <code>da</code>
-    <name>datcha</name>
+    <name>dat</name>
   </language>
   <language>
     <code>dav</code>
-    <name>taitcha</name>
+    <name>taita</name>
   </language>
   <language>
     <code>de</code>
@@ -130,15 +142,15 @@
   </language>
   <language>
     <code>de_AT</code>
-    <name>Avstriya olmonchasi</name>
+    <name>nemis (Avstriya)</name>
   </language>
   <language>
     <code>de_CH</code>
-    <name>Shvesariya olmonchasi</name>
+    <name>yuqori nemis (Shveytsariya)</name>
   </language>
   <language>
     <code>dje</code>
-    <name>zarmacha</name>
+    <name>zarma</name>
   </language>
   <language>
     <code>dsb</code>
@@ -146,27 +158,27 @@
   </language>
   <language>
     <code>dua</code>
-    <name>dualcha</name>
+    <name>duala</name>
   </language>
   <language>
     <code>dyo</code>
-    <name>yola-fonyicha</name>
+    <name>diola-fogni</name>
   </language>
   <language>
     <code>dz</code>
-    <name>yovoncha</name>
+    <name>dzongka</name>
   </language>
   <language>
     <code>ebu</code>
-    <name>embucha</name>
+    <name>embu</name>
   </language>
   <language>
     <code>ee</code>
-    <name>ivicha</name>
+    <name>eve</name>
   </language>
   <language>
     <code>el</code>
-    <name>yunoncha</name>
+    <name>grek</name>
   </language>
   <language>
     <code>en</code>
@@ -174,19 +186,23 @@
   </language>
   <language>
     <code>en_AU</code>
-    <name>Avstraliya inglizchasi</name>
+    <name>ingliz (Avstraliya)</name>
   </language>
   <language>
     <code>en_CA</code>
-    <name>Kanada inglizchasi</name>
+    <name>ingliz (Kanada)</name>
   </language>
   <language>
     <code>en_GB</code>
-    <name>Britaniya inglizchasi</name>
+    <name>ingliz (Britaniya)</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>ingliz (Amerika)</name>
   </language>
   <language>
     <code>eo</code>
-    <name>esperantocha</name>
+    <name>esperanto</name>
   </language>
   <language>
     <code>es</code>
@@ -194,15 +210,15 @@
   </language>
   <language>
     <code>es_419</code>
-    <name>Lotin Amerika ispanchasi</name>
+    <name>ispan (Lotin Amerikasi)</name>
   </language>
   <language>
     <code>es_ES</code>
-    <name>Yevropa ispanchasi</name>
+    <name>ispan (Yevropa)</name>
   </language>
   <language>
     <code>es_MX</code>
-    <name>Meksika ispanchasi</name>
+    <name>ispan (Meksika)</name>
   </language>
   <language>
     <code>et</code>
@@ -210,11 +226,11 @@
   </language>
   <language>
     <code>eu</code>
-    <name>baskcha</name>
+    <name>bask</name>
   </language>
   <language>
     <code>fa</code>
-    <name>forscha</name>
+    <name>fors</name>
   </language>
   <language>
     <code>fi</code>
@@ -226,7 +242,7 @@
   </language>
   <language>
     <code>fj</code>
-    <name>fijcha</name>
+    <name>fiji</name>
   </language>
   <language>
     <code>fo</code>
@@ -238,51 +254,51 @@
   </language>
   <language>
     <code>fr_CA</code>
-    <name>Kanada fransuzchasi</name>
+    <name>fransuz (Kanada)</name>
   </language>
   <language>
     <code>fr_CH</code>
-    <name>Shvesariya fransuzchasi</name>
+    <name>fransuz (Shveytsariya)</name>
   </language>
   <language>
     <code>fy</code>
-    <name>gʻarbiy friziancha</name>
+    <name>g‘arbiy friz</name>
   </language>
   <language>
     <code>ga</code>
-    <name>irlandcha</name>
+    <name>irland</name>
   </language>
   <language>
     <code>gag</code>
-    <name>gagozcha</name>
+    <name>gagauz</name>
   </language>
   <language>
     <code>gl</code>
-    <name>galitsiycha</name>
+    <name>galisiy</name>
   </language>
   <language>
     <code>gn</code>
-    <name>gorancha</name>
+    <name>guarani</name>
   </language>
   <language>
     <code>gsw</code>
-    <name>shveysariya nemischasi</name>
+    <name>nemis (Shveytsariya)</name>
   </language>
   <language>
     <code>gu</code>
-    <name>gujoratcha</name>
+    <name>gujarot</name>
   </language>
   <language>
     <code>guz</code>
-    <name>guzcha</name>
+    <name>gusii</name>
   </language>
   <language>
     <code>gv</code>
-    <name>mencha</name>
+    <name>men</name>
   </language>
   <language>
     <code>ha</code>
-    <name>xauscha</name>
+    <name>xausa</name>
   </language>
   <language>
     <code>haw</code>
@@ -294,67 +310,67 @@
   </language>
   <language>
     <code>hi</code>
-    <name>hindcha</name>
+    <name>hind</name>
   </language>
   <language>
     <code>hr</code>
-    <name>xorvatcha</name>
+    <name>xorvat</name>
   </language>
   <language>
     <code>hsb</code>
-    <name>yuqori sorbcha</name>
+    <name>yuqori sorb</name>
   </language>
   <language>
     <code>ht</code>
-    <name>gaitcha</name>
+    <name>gaityan</name>
   </language>
   <language>
     <code>hu</code>
-    <name>vengrcha</name>
+    <name>venger</name>
   </language>
   <language>
     <code>hy</code>
-    <name>armancha</name>
+    <name>arman</name>
   </language>
   <language>
     <code>id</code>
-    <name>indoneyzcha</name>
+    <name>indonez</name>
   </language>
   <language>
     <code>ig</code>
-    <name>igbocha</name>
+    <name>igbo</name>
   </language>
   <language>
     <code>ii</code>
-    <name>zichuan yicha</name>
+    <name>sichuan</name>
   </language>
   <language>
     <code>is</code>
-    <name>islandcha</name>
+    <name>island</name>
   </language>
   <language>
     <code>it</code>
-    <name>italyancha</name>
+    <name>italyan</name>
   </language>
   <language>
     <code>iu</code>
-    <name>inuktitutcha</name>
+    <name>inuktitut</name>
   </language>
   <language>
     <code>ja</code>
-    <name>yaponcha</name>
+    <name>yapon</name>
   </language>
   <language>
     <code>jgo</code>
-    <name>ngombcha</name>
+    <name>ngomba</name>
   </language>
   <language>
     <code>jmc</code>
-    <name>machamcha</name>
+    <name>machame</name>
   </language>
   <language>
     <code>jv</code>
-    <name>yavancha</name>
+    <name>yavan</name>
   </language>
   <language>
     <code>ka</code>
@@ -362,27 +378,27 @@
   </language>
   <language>
     <code>kab</code>
-    <name>qobilcha</name>
+    <name>kabil</name>
   </language>
   <language>
     <code>kam</code>
-    <name>kambcha</name>
+    <name>kamba</name>
   </language>
   <language>
     <code>kde</code>
-    <name>maqondiy</name>
+    <name>makonde</name>
   </language>
   <language>
     <code>kea</code>
-    <name>kabuverdiancha</name>
+    <name>kabuverdianu</name>
   </language>
   <language>
     <code>khq</code>
-    <name>qoyra-chincha</name>
+    <name>koyra-chiini</name>
   </language>
   <language>
     <code>ki</code>
-    <name>kikuycha</name>
+    <name>kikuyu</name>
   </language>
   <language>
     <code>kk</code>
@@ -390,11 +406,11 @@
   </language>
   <language>
     <code>kl</code>
-    <name>kalallisutcha</name>
+    <name>grenland</name>
   </language>
   <language>
     <code>kln</code>
-    <name>kalenjincha</name>
+    <name>kalenjin</name>
   </language>
   <language>
     <code>km</code>
@@ -402,7 +418,7 @@
   </language>
   <language>
     <code>kn</code>
-    <name>kannadcha</name>
+    <name>kannada</name>
   </language>
   <language>
     <code>ko</code>
@@ -410,11 +426,11 @@
   </language>
   <language>
     <code>koi</code>
-    <name>komi-permyakcha</name>
+    <name>komi-permyak</name>
   </language>
   <language>
     <code>kok</code>
-    <name>konkancha</name>
+    <name>konkan</name>
   </language>
   <language>
     <code>ks</code>
@@ -422,11 +438,11 @@
   </language>
   <language>
     <code>ksb</code>
-    <name>shambalacha</name>
+    <name>shambala</name>
   </language>
   <language>
     <code>ksf</code>
-    <name>bafiycha</name>
+    <name>bafiya</name>
   </language>
   <language>
     <code>ku</code>
@@ -434,7 +450,7 @@
   </language>
   <language>
     <code>kw</code>
-    <name>kornishcha</name>
+    <name>korn</name>
   </language>
   <language>
     <code>ky</code>
@@ -446,7 +462,7 @@
   </language>
   <language>
     <code>lag</code>
-    <name>langcha</name>
+    <name>langi</name>
   </language>
   <language>
     <code>lb</code>
@@ -454,35 +470,39 @@
   </language>
   <language>
     <code>lg</code>
-    <name>gandcha</name>
+    <name>ganda</name>
   </language>
   <language>
     <code>lkt</code>
-    <name>lakotcha</name>
+    <name>lakota</name>
   </language>
   <language>
     <code>ln</code>
-    <name>lingalcha</name>
+    <name>lingala</name>
   </language>
   <language>
     <code>lo</code>
     <name>laoscha</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>shimoliy luri</name>
+  </language>
+  <language>
     <code>lt</code>
-    <name>litovcha</name>
+    <name>litva</name>
   </language>
   <language>
     <code>lu</code>
-    <name>luba-katangcha</name>
+    <name>luba-katanga</name>
   </language>
   <language>
     <code>luo</code>
-    <name>luocha</name>
+    <name>luo</name>
   </language>
   <language>
     <code>luy</code>
-    <name>luycha</name>
+    <name>luhya</name>
   </language>
   <language>
     <code>lv</code>
@@ -490,119 +510,135 @@
   </language>
   <language>
     <code>mas</code>
-    <name>masaycha</name>
+    <name>masay</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>mende</name>
   </language>
   <language>
     <code>mer</code>
-    <name>merucha</name>
+    <name>meru</name>
   </language>
   <language>
     <code>mfe</code>
-    <name>morisyencha</name>
+    <name>morisyen</name>
   </language>
   <language>
     <code>mg</code>
-    <name>malagasiycha</name>
+    <name>malagasiy</name>
   </language>
   <language>
     <code>mgh</code>
-    <name>makuva-mittocha</name>
+    <name>maxuva-mitto</name>
   </language>
   <language>
     <code>mgo</code>
-    <name>metacha</name>
+    <name>meta</name>
   </language>
   <language>
     <code>mi</code>
-    <name>maoriycha</name>
+    <name>maori</name>
   </language>
   <language>
     <code>mk</code>
-    <name>makedoncha</name>
+    <name>makedon</name>
   </language>
   <language>
     <code>ml</code>
-    <name>malayamcha</name>
+    <name>malayalam</name>
   </language>
   <language>
     <code>mn</code>
-    <name>mo‘g‘ulcha</name>
+    <name>mo‘g‘ul</name>
   </language>
   <language>
     <code>moh</code>
-    <name>mohaukcha</name>
+    <name>mohauk</name>
   </language>
   <language>
     <code>mr</code>
-    <name>maratcha</name>
+    <name>maratxi</name>
   </language>
   <language>
     <code>ms</code>
-    <name>malaycha</name>
+    <name>malay</name>
   </language>
   <language>
     <code>mt</code>
-    <name>maltacha</name>
+    <name>maltiy</name>
   </language>
   <language>
     <code>mua</code>
-    <name>mundangcha</name>
+    <name>mundang</name>
   </language>
   <language>
     <code>my</code>
-    <name>birmancha</name>
+    <name>birman</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>mazanderan</name>
   </language>
   <language>
     <code>naq</code>
-    <name>namacha</name>
+    <name>nama</name>
   </language>
   <language>
     <code>nb</code>
-    <name>norvegcha bokmal</name>
+    <name>norveg-bokmal</name>
   </language>
   <language>
     <code>nd</code>
-    <name>shimoliy ndebelcha</name>
+    <name>shimoliy ndebele</name>
+  </language>
+  <language>
+    <code>nds</code>
+    <name>quyi nemis</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>quyi sakson</name>
   </language>
   <language>
     <code>ne</code>
-    <name>nepalcha</name>
+    <name>nepal</name>
   </language>
   <language>
     <code>nl</code>
-    <name>gollandcha</name>
+    <name>golland</name>
   </language>
   <language>
     <code>nl_BE</code>
-    <name>flamandcha</name>
+    <name>flamand</name>
   </language>
   <language>
     <code>nmg</code>
-    <name>kvaziycha</name>
+    <name>kvasio</name>
   </language>
   <language>
     <code>nn</code>
-    <name>norvegcha ninorsk</name>
+    <name>norveg-nyunorsk</name>
   </language>
   <language>
     <code>nqo</code>
-    <name>nqoancha</name>
+    <name>nko</name>
   </language>
   <language>
     <code>nus</code>
-    <name>noyrcha</name>
+    <name>nuer</name>
   </language>
   <language>
     <code>nyn</code>
-    <name>nyankolcha</name>
+    <name>nyankole</name>
   </language>
   <language>
     <code>om</code>
-    <name>oromocha</name>
+    <name>oromo</name>
   </language>
   <language>
     <code>or</code>
-    <name>oriycha</name>
+    <name>oriya</name>
   </language>
   <language>
     <code>pa</code>
@@ -614,7 +650,7 @@
   </language>
   <language>
     <code>ps</code>
-    <name>pushtu tili</name>
+    <name>pushtu</name>
   </language>
   <language>
     <code>pt</code>
@@ -622,27 +658,27 @@
   </language>
   <language>
     <code>pt_BR</code>
-    <name>Braziliya portugalchasi</name>
+    <name>portugal (Braziliya)</name>
   </language>
   <language>
     <code>pt_PT</code>
-    <name>Yevropa portugalchasi</name>
+    <name>portugal (Yevropa)</name>
   </language>
   <language>
     <code>qu</code>
-    <name>qvechuancha</name>
+    <name>kechua</name>
   </language>
   <language>
     <code>quc</code>
-    <name>qichiancha</name>
+    <name>kiche</name>
   </language>
   <language>
     <code>rm</code>
-    <name>romancha</name>
+    <name>romansh</name>
   </language>
   <language>
     <code>rn</code>
-    <name>rundcha</name>
+    <name>rundi</name>
   </language>
   <language>
     <code>ro</code>
@@ -650,11 +686,11 @@
   </language>
   <language>
     <code>ro_MD</code>
-    <name>moldovan rumincha</name>
+    <name>moldovan</name>
   </language>
   <language>
     <code>rof</code>
-    <name>rombacha</name>
+    <name>rombo</name>
   </language>
   <language>
     <code>ru</code>
@@ -662,51 +698,55 @@
   </language>
   <language>
     <code>rw</code>
-    <name>kinyarvandcha</name>
+    <name>kinyaruanda</name>
   </language>
   <language>
     <code>rwk</code>
-    <name>ruandcha</name>
+    <name>ruanda</name>
   </language>
   <language>
     <code>sa</code>
-    <name>sanskritcha</name>
+    <name>sanskrit</name>
   </language>
   <language>
     <code>saq</code>
-    <name>samburcha</name>
+    <name>samburu</name>
   </language>
   <language>
     <code>sbp</code>
-    <name>sanguancha</name>
+    <name>sangu</name>
   </language>
   <language>
     <code>sd</code>
-    <name>sindxiycha</name>
+    <name>sindxi</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>janubiy kurd</name>
   </language>
   <language>
     <code>se</code>
-    <name>shimoliy semiycha</name>
+    <name>shimoliy saam</name>
   </language>
   <language>
     <code>seh</code>
-    <name>seniycha</name>
+    <name>sena</name>
   </language>
   <language>
     <code>ses</code>
-    <name>koryaboro senniycha</name>
+    <name>koyraboro-senni</name>
   </language>
   <language>
     <code>sg</code>
-    <name>sangoancha</name>
+    <name>sango</name>
   </language>
   <language>
     <code>shi</code>
-    <name>tachilgitcha</name>
+    <name>tashelxit</name>
   </language>
   <language>
     <code>si</code>
-    <name>sinholcha</name>
+    <name>singal</name>
   </language>
   <language>
     <code>sk</code>
@@ -718,23 +758,23 @@
   </language>
   <language>
     <code>sma</code>
-    <name>janubiy semiycha</name>
+    <name>janubiy saam</name>
   </language>
   <language>
     <code>smj</code>
-    <name>luli semiycha</name>
+    <name>lule-saam</name>
   </language>
   <language>
     <code>smn</code>
-    <name>inari semiycha</name>
+    <name>inari-saam</name>
   </language>
   <language>
     <code>sms</code>
-    <name>shkolt semiycha</name>
+    <name>skolt-saam</name>
   </language>
   <language>
     <code>sn</code>
-    <name>shoniycha</name>
+    <name>shona</name>
   </language>
   <language>
     <code>so</code>
@@ -742,7 +782,7 @@
   </language>
   <language>
     <code>sq</code>
-    <name>albancha</name>
+    <name>alban</name>
   </language>
   <language>
     <code>sr</code>
@@ -750,138 +790,142 @@
   </language>
   <language>
     <code>su</code>
-    <name>sundancha</name>
+    <name>sundan</name>
   </language>
   <language>
     <code>sv</code>
-    <name>shvedcha</name>
+    <name>shved</name>
   </language>
   <language>
     <code>sw</code>
-    <name>svahilcha</name>
+    <name>suaxili</name>
   </language>
   <language>
     <code>swc</code>
-    <name>kongo svahiliycha</name>
+    <name>kongo-suaxili</name>
   </language>
   <language>
     <code>ta</code>
-    <name>tamilcha</name>
+    <name>tamil</name>
   </language>
   <language>
     <code>te</code>
-    <name>telugvancha</name>
+    <name>telugu</name>
   </language>
   <language>
     <code>teo</code>
-    <name>tesoancha</name>
+    <name>teso</name>
   </language>
   <language>
     <code>tg</code>
-    <name>tojikcha</name>
+    <name>tojik</name>
   </language>
   <language>
     <code>th</code>
-    <name>taycha</name>
+    <name>tay</name>
   </language>
   <language>
     <code>ti</code>
-    <name>tigrincha</name>
+    <name>tigrinya</name>
   </language>
   <language>
     <code>tk</code>
-    <name>turkmancha</name>
+    <name>turkman</name>
   </language>
   <language>
     <code>to</code>
-    <name>tongocha</name>
+    <name>tongan</name>
   </language>
   <language>
     <code>tr</code>
-    <name>turkcha</name>
+    <name>turk</name>
   </language>
   <language>
     <code>tt</code>
-    <name>tatarcha</name>
+    <name>tatar</name>
   </language>
   <language>
     <code>twq</code>
-    <name>tosovoqcha</name>
+    <name>tasavaq</name>
   </language>
   <language>
     <code>tzm</code>
-    <name>markaziy atlas vaqt zonasi</name>
+    <name>markaziy atlas tamazigxt</name>
   </language>
   <language>
     <code>ug</code>
-    <name>uygʻurcha</name>
+    <name>uyg‘ur</name>
   </language>
   <language>
     <code>uk</code>
-    <name>ukraincha</name>
+    <name>ukrain</name>
   </language>
   <language>
     <code>und</code>
-    <name>nomaʼlum til</name>
+    <name>noma’lum til</name>
   </language>
   <language>
     <code>ur</code>
-    <name>urducha</name>
+    <name>urdu</name>
   </language>
   <language>
     <code>uz</code>
-    <name>oʻzbekcha</name>
+    <name>o‘zbek</name>
   </language>
   <language>
     <code>vai</code>
-    <name>vayancha</name>
+    <name>vai</name>
   </language>
   <language>
     <code>vi</code>
-    <name>vyetnamcha</name>
+    <name>vyetnam</name>
   </language>
   <language>
     <code>vun</code>
-    <name>vunjoancha</name>
+    <name>vunjo</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>valbiri</name>
   </language>
   <language>
     <code>wo</code>
-    <name>volofcha</name>
+    <name>volof</name>
   </language>
   <language>
     <code>xh</code>
-    <name>xosancha</name>
+    <name>kxosa</name>
   </language>
   <language>
     <code>xog</code>
-    <name>sogancha</name>
+    <name>soga</name>
   </language>
   <language>
     <code>yo</code>
-    <name>yorubcha</name>
+    <name>yoruba</name>
   </language>
   <language>
     <code>zgh</code>
-    <name>standart marokash tamazit</name>
+    <name>tamazigxt</name>
   </language>
   <language>
     <code>zh</code>
-    <name>xitoycha</name>
+    <name>xitoy</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>soddalashtirilgan xitoycha</name>
+    <name>soddalashgan xitoy</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>anʼanaviy xitoycha</name>
+    <name>an’anaviy xitoy</name>
   </language>
   <language>
     <code>zu</code>
-    <name>zuluancha</name>
+    <name>zulu</name>
   </language>
   <language>
     <code>zxx</code>
-    <name>til tarkibi yoʻq</name>
+    <name>til tarkibi yo‘q</name>
   </language>
 </languages>

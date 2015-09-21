@@ -73,6 +73,10 @@
     <name>Bulgarian</name>
   </language>
   <language>
+    <code>bgn</code>
+    <name>Kanlurang Balochi</name>
+  </language>
+  <language>
     <code>bm</code>
     <name>Bambara</name>
   </language>
@@ -101,6 +105,10 @@
     <name>Catalan</name>
   </language>
   <language>
+    <code>ce</code>
+    <name>Chechen</name>
+  </language>
+  <language>
     <code>cgg</code>
     <name>Chiga</name>
   </language>
@@ -110,7 +118,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>Sorani Kurdish</name>
+    <name>Central Kurdish</name>
   </language>
   <language>
     <code>co</code>
@@ -119,6 +127,10 @@
   <language>
     <code>cs</code>
     <name>Czech</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>Chuvash</name>
   </language>
   <language>
     <code>cy</code>
@@ -135,6 +147,14 @@
   <language>
     <code>de</code>
     <name>German</name>
+  </language>
+  <language>
+    <code>de_AT</code>
+    <name>Austrian German</name>
+  </language>
+  <language>
+    <code>de_CH</code>
+    <name>Swiss High German</name>
   </language>
   <language>
     <code>dje</code>
@@ -190,7 +210,7 @@
   </language>
   <language>
     <code>en_GB</code>
-    <name>Ingles (UK)</name>
+    <name>Ingles ng British</name>
   </language>
   <language>
     <code>en_US</code>
@@ -202,11 +222,11 @@
   </language>
   <language>
     <code>es</code>
-    <name>Spanish</name>
+    <name>Espanyol</name>
   </language>
   <language>
     <code>es_419</code>
-    <name>Latin American Spanish</name>
+    <name>Latin American na Espanyol</name>
   </language>
   <language>
     <code>es_ES</code>
@@ -214,7 +234,7 @@
   </language>
   <language>
     <code>es_MX</code>
-    <name>Mexican Spanish</name>
+    <name>Espanyol ng Mehiko</name>
   </language>
   <language>
     <code>et</code>
@@ -258,7 +278,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>Western Frisian</name>
+    <name>Kanlurang Frisian</name>
   </language>
   <language>
     <code>ga</code>
@@ -505,6 +525,10 @@
     <name>Lozi</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>Hilagang Luri</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>Lithuanian</name>
   </language>
@@ -593,6 +617,10 @@
     <name>Burmese</name>
   </language>
   <language>
+    <code>mzn</code>
+    <name>Mazanderani</name>
+  </language>
+  <language>
     <code>naq</code>
     <name>Nama</name>
   </language>
@@ -602,7 +630,15 @@
   </language>
   <language>
     <code>nd</code>
-    <name>North Ndebele</name>
+    <name>Hilagang Ndebele</name>
+  </language>
+  <language>
+    <code>nds</code>
+    <name>Low German</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>Low Saxon</name>
   </language>
   <language>
     <code>ne</code>
@@ -682,7 +718,7 @@
   </language>
   <language>
     <code>pt_BR</code>
-    <name>Brazilian Portuguese</name>
+    <name>Portuges ng Brasil</name>
   </language>
   <language>
     <code>pt_PT</code>
@@ -745,8 +781,12 @@
     <name>Sindhi</name>
   </language>
   <language>
+    <code>sdh</code>
+    <name>Katimugang Kurdish</name>
+  </language>
+  <language>
     <code>se</code>
-    <name>Northern Sami</name>
+    <name>Hilagang Sami</name>
   </language>
   <language>
     <code>seh</code>
@@ -786,7 +826,7 @@
   </language>
   <language>
     <code>sma</code>
-    <name>Southern Sami</name>
+    <name>Katimugang Sami</name>
   </language>
   <language>
     <code>smj</code>
@@ -965,6 +1005,10 @@
     <name>Vunjo</name>
   </language>
   <language>
+    <code>wbp</code>
+    <name>Warlpiri</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>Wolof</name>
   </language>
@@ -999,6 +1043,10 @@
   <language>
     <code>zh_Hans</code>
     <name>Simplified Chinese</name>
+  </language>
+  <language>
+    <code>zh_Hant</code>
+    <name>Chinese (Traditional)</name>
   </language>
   <language>
     <code>zu</code>

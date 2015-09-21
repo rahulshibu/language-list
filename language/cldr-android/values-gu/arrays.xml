@@ -47,7 +47,7 @@
     <!-- arc - Aramaic -->
     <item>અર્માઇક</item>
     <!-- arn - Mapuche -->
-    <item>એરોકૈનિયન</item>
+    <item>મેપુચે</item>
     <!-- arp - Arapaho -->
     <item>અરાપાહો</item>
     <!-- arq - Algerian Arabic -->
@@ -72,8 +72,6 @@
     <item>આયમારા</item>
     <!-- az - Azerbaijani -->
     <item>અઝરબૈજાની</item>
-    <!-- azb - South Azerbaijani -->
-    <item>દક્ષિણ ઝરબૈજાની</item>
     <!-- ba - Bashkir -->
     <item>બશ્કીર</item>
     <!-- bal - Baluchi -->
@@ -94,6 +92,8 @@
     <item>બેના</item>
     <!-- bg - Bulgarian -->
     <item>બલ્ગેરિયન</item>
+    <!-- bgn - Western Balochi -->
+    <item>પશ્ચિમી બાલોચી</item>
     <!-- bho - Bhojpuri -->
     <item>ભોજપુરી</item>
     <!-- bi - Bislama -->
@@ -163,7 +163,7 @@
     <!-- chy - Cheyenne -->
     <item>શેયેન્ન</item>
     <!-- ckb - Central Kurdish -->
-    <item>સોરાની કુર્દિશ</item>
+    <item>સેન્ટ્રલ કુર્દિશ</item>
     <!-- co - Corsican -->
     <item>કોર્સિકન</item>
     <!-- cop - Coptic -->
@@ -299,7 +299,7 @@
     <!-- fur - Friulian -->
     <item>ફ્રિયુલિયાન</item>
     <!-- fy - Western Frisian -->
-    <item>પશ્ચિમી ફ્રિશિયન</item>
+    <item>પશ્ચિમી ફ્રિસિયન</item>
     <!-- ga - Irish -->
     <item>આઇરિશ</item>
     <!-- gaa - Ga -->
@@ -372,7 +372,7 @@
     <item>ક્રોએશિયન</item>
     <!-- hsb - Upper Sorbian -->
     <item>અપ્પર સોર્બિયન</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>હૈતીયન</item>
     <!-- hu - Hungarian -->
     <item>હંગેરિયન</item>
@@ -536,6 +536,8 @@
     <item>મોગો</item>
     <!-- loz - Lozi -->
     <item>લોઝી</item>
+    <!-- lrc - Northern Luri -->
+    <item>ઉત્તરીય લુરી</item>
     <!-- lt - Lithuanian -->
     <item>લિથુનિયન</item>
     <!-- lu - Luba-Katanga -->
@@ -628,6 +630,8 @@
     <item>બર્મીઝ</item>
     <!-- myv - Erzya -->
     <item>એર્ઝયા</item>
+    <!-- mzn - Mazanderani -->
+    <item>મઝાન્દેરાની</item>
     <!-- na - Nauru -->
     <item>નાઉરૂ</item>
     <!-- nap - Neapolitan -->
@@ -637,9 +641,11 @@
     <!-- nb - Norwegian Bokmål -->
     <item>નોર્વેજીયન બોકમાલ</item>
     <!-- nd - North Ndebele -->
-    <item>ઉતર દેબેલ</item>
+    <item>ઉત્તર દેબેલ</item>
     <!-- nds - Low German -->
     <item>લો જર્મન</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>લો સેક્સોન</item>
     <!-- ne - Nepali -->
     <item>નેપાળી</item>
     <!-- new - Newari -->
@@ -664,7 +670,7 @@
     <item>નોગાઇ</item>
     <!-- non - Old Norse -->
     <item>જૂની નોર્સ</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>એન’કો</item>
     <!-- nr - South Ndebele -->
     <item>દક્ષિણ દેબેલ</item>
@@ -788,6 +794,8 @@
     <item>સ્કોટ્સ</item>
     <!-- sd - Sindhi -->
     <item>સિંધી</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>સર્ઘન કુર્દીશ</item>
     <!-- se - Northern Sami -->
     <item>ઉત્તરીય સામી</item>
     <!-- seh - Sena -->
@@ -968,6 +976,8 @@
     <item>વારે</item>
     <!-- was - Washo -->
     <item>વાશો</item>
+    <!-- wbp - Warlpiri -->
+    <item>વાર્લ્પીરી</item>
     <!-- wo - Wolof -->
     <item>વોલોફ</item>
     <!-- xal - Kalmyk -->
@@ -995,7 +1005,7 @@
     <!-- zen - Zenaga -->
     <item>ઝેનાગા</item>
     <!-- zgh - Standard Moroccan Tamazight -->
-    <item>પ્રમાણભૂત મોરોક્કન ટમાઝિટ</item>
+    <item>પ્રમાણભૂત મોરોક્કન તામાઝિગ્ટ</item>
     <!-- zh - Chinese -->
     <item>ચાઇનીઝ</item>
     <!-- zh_Hans - Simplified Chinese -->

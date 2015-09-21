@@ -84,8 +84,6 @@
     <item>ајмарски</item>
     <!-- az - Azerbaijani -->
     <item>азербејџански</item>
-    <!-- azb - South Azerbaijani -->
-    <item>јужноазербејџански</item>
     <!-- ba - Bashkir -->
     <item>башкирски</item>
     <!-- bal - Baluchi -->
@@ -118,6 +116,8 @@
     <item>бадага</item>
     <!-- bg - Bulgarian -->
     <item>бугарски</item>
+    <!-- bgn - Western Balochi -->
+    <item>западен балочи</item>
     <!-- bho - Bhojpuri -->
     <item>боџпури</item>
     <!-- bi - Bislama -->
@@ -201,7 +201,7 @@
     <!-- chy - Cheyenne -->
     <item>чејенски</item>
     <!-- ckb - Central Kurdish -->
-    <item>сорански курдски</item>
+    <item>централен курдски</item>
     <!-- co - Corsican -->
     <item>корзикански</item>
     <!-- cop - Coptic -->
@@ -426,7 +426,7 @@
     <item>горнолужички</item>
     <!-- hsn - Xiang Chinese -->
     <item>сјанг</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>хаитски</item>
     <!-- hu - Hungarian -->
     <item>унгарски</item>
@@ -449,7 +449,7 @@
     <!-- ig - Igbo -->
     <item>игбо</item>
     <!-- ii - Sichuan Yi -->
-    <item>носу</item>
+    <item>сичуан ји</item>
     <!-- ik - Inupiaq -->
     <item>инупијачки</item>
     <!-- ilo - Iloko -->
@@ -585,7 +585,7 @@
     <!-- kw - Cornish -->
     <item>корнски</item>
     <!-- ky - Kyrgyz -->
-    <item>киргиски</item>
+    <item>киргистански</item>
     <!-- la - Latin -->
     <item>латински</item>
     <!-- lad - Ladino -->
@@ -622,6 +622,8 @@
     <item>монго</item>
     <!-- loz - Lozi -->
     <item>лози</item>
+    <!-- lrc - Northern Luri -->
+    <item>севернолуриски</item>
     <!-- lt - Lithuanian -->
     <item>литвански</item>
     <!-- ltg - Latgalian -->
@@ -756,6 +758,8 @@
     <item>ао</item>
     <!-- nl - Dutch -->
     <item>холандски</item>
+    <!-- nl_BE - Flemish -->
+    <item>фламански</item>
     <!-- nmg - Kwasio -->
     <item>квазио</item>
     <!-- nn - Norwegian Nynorsk -->
@@ -770,7 +774,7 @@
     <item>старонордиски</item>
     <!-- nov - Novial -->
     <item>новијал</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>нко</item>
     <!-- nr - South Ndebele -->
     <item>јужен ндебеле</item>
@@ -924,6 +928,8 @@
     <item>синди</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>сасарски сардински</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>јужнокурдски</item>
     <!-- se - Northern Sami -->
     <item>севернолапонски</item>
     <!-- see - Seneca -->
@@ -1144,6 +1150,8 @@
     <item>варајски</item>
     <!-- was - Washo -->
     <item>вашо</item>
+    <!-- wbp - Warlpiri -->
+    <item>варлпири</item>
     <!-- wo - Wolof -->
     <item>волофски</item>
     <!-- wuu - Wu Chinese -->

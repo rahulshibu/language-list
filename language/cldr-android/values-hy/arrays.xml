@@ -2,26 +2,54 @@
 <resources>
   <!-- Armenian (hy) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>աֆարերեն</item>
     <!-- ab - Abkhazian -->
     <item>աբխազերեն</item>
+    <!-- ace - Achinese -->
+    <item>աչեհերեն</item>
+    <!-- ach - Acoli -->
+    <item>ակոլերեն</item>
+    <!-- ada - Adangme -->
+    <item>ադանգմերեն</item>
+    <!-- ady - Adyghe -->
+    <item>ադիղերեն</item>
+    <!-- aeb - Tunisian Arabic -->
+    <item>թունիսական արաբերեն</item>
     <!-- af - Afrikaans -->
     <item>աֆրիկաանս</item>
     <!-- agq - Aghem -->
     <item>աղեմ</item>
+    <!-- ain - Ainu -->
+    <item>այներեն</item>
     <!-- ak - Akan -->
     <item>աքաներեն</item>
+    <!-- akk - Akkadian -->
+    <item>աքքադերեն</item>
     <!-- am - Amharic -->
     <item>ամհարերեն</item>
+    <!-- ang - Old English -->
+    <item>հին անգլերեն</item>
     <!-- ar - Arabic -->
     <item>արաբերեն</item>
     <!-- ar_001 - Modern Standard Arabic -->
     <item>ժամանակակից ստանդարտ արաբերեն</item>
+    <!-- arc - Aramaic -->
+    <item>արամեերեն</item>
     <!-- arn - Mapuche -->
     <item>մապուչի</item>
+    <!-- arq - Algerian Arabic -->
+    <item>ալժիրական արաբերեն</item>
+    <!-- arz - Egyptian Arabic -->
+    <item>եգիպտական արաբերեն</item>
     <!-- as - Assamese -->
     <item>ասամերեն</item>
     <!-- asa - Asu -->
     <item>ասու</item>
+    <!-- ase - American Sign Language -->
+    <item>ամերիկյան ժեստերի լեզու</item>
+    <!-- ast - Asturian -->
+    <item>աստուրերեն</item>
     <!-- az - Azerbaijani -->
     <item>ադրբեջաներեն</item>
     <!-- ba - Bashkir -->
@@ -34,6 +62,8 @@
     <item>բենա</item>
     <!-- bg - Bulgarian -->
     <item>բուլղարերեն</item>
+    <!-- bgn - Western Balochi -->
+    <item>արևմտյան բելոչի</item>
     <!-- bm - Bambara -->
     <item>բամբարա</item>
     <!-- bn - Bengali -->
@@ -46,8 +76,14 @@
     <item>բոդո</item>
     <!-- bs - Bosnian -->
     <item>բոսնիերեն</item>
+    <!-- bss - Akoose -->
+    <item>աքուզերեն</item>
     <!-- ca - Catalan -->
     <item>կատալաներեն</item>
+    <!-- ce - Chechen -->
+    <item>չեչեներեն</item>
+    <!-- ceb - Cebuano -->
+    <item>կաբուաներեն</item>
     <!-- cgg - Chiga -->
     <item>չիգա</item>
     <!-- chr - Cherokee -->
@@ -56,8 +92,14 @@
     <item>սորանի (քրդերեն)</item>
     <!-- co - Corsican -->
     <item>կորսիկերեն</item>
+    <!-- cop - Coptic -->
+    <item>ղպտերեն</item>
+    <!-- crh - Crimean Turkish -->
+    <item>ղրիմյան թուրքերեն</item>
     <!-- cs - Czech -->
     <item>չեխերեն</item>
+    <!-- cv - Chuvash -->
+    <item>չուվաշերեն</item>
     <!-- cy - Welsh -->
     <item>ուելսերեն</item>
     <!-- da - Danish -->
@@ -84,12 +126,16 @@
     <item>էմբու</item>
     <!-- ee - Ewe -->
     <item>էվե</item>
+    <!-- efi - Efik -->
+    <item>էֆիկերեն</item>
+    <!-- egy - Ancient Egyptian -->
+    <item>հին եգիպտերեն</item>
     <!-- el - Greek -->
     <item>հունարեն</item>
     <!-- en - English -->
     <item>անգլերեն</item>
     <!-- en_AU - Australian English -->
-    <item>ավստրալական անգլերեն</item>
+    <item>ավստրալիական անգլերեն</item>
     <!-- en_CA - Canadian English -->
     <item>կանադական անգլերեն</item>
     <!-- en_GB - British English -->
@@ -116,32 +162,54 @@
     <item>ֆիններեն</item>
     <!-- fil - Filipino -->
     <item>ֆիլիպիներեն</item>
+    <!-- fit - Tornedalen Finnish -->
+    <item>տորնադելեն ֆիններեն</item>
     <!-- fj - Fijian -->
     <item>ֆիջիերեն</item>
     <!-- fo - Faroese -->
     <item>ֆարյորերեն</item>
+    <!-- fon - Fon -->
+    <item>ֆոներեն</item>
     <!-- fr - French -->
     <item>ֆրանսերեն</item>
     <!-- fr_CA - Canadian French -->
     <item>կանադական ֆրանսերեն</item>
     <!-- fr_CH - Swiss French -->
     <item>շվեյցարական ֆրանսերեն</item>
+    <!-- fro - Old French -->
+    <item>հին ֆրանսերեն</item>
+    <!-- frs - Eastern Frisian -->
+    <item>արևելյան ֆրիզերեն</item>
+    <!-- fur - Friulian -->
+    <item>ֆրիուլիերեն</item>
     <!-- fy - Western Frisian -->
     <item>արևմտյան ֆրիզերեն</item>
     <!-- ga - Irish -->
     <item>իռլանդերեն</item>
+    <!-- gaa - Ga -->
+    <item>գաերեն</item>
     <!-- gag - Gagauz -->
     <item>գագաուզերեն</item>
+    <!-- gbz - Zoroastrian Dari -->
+    <item>զրադաշտական դարի</item>
     <!-- gd - Scottish Gaelic -->
     <item>Գաելյան Շոտլանդերեն</item>
     <!-- gl - Galician -->
     <item>գալիսերեն</item>
     <!-- gn - Guarani -->
     <item>գուարանի</item>
+    <!-- goh - Old High German -->
+    <item>հին բարձր գերմաներեն</item>
+    <!-- got - Gothic -->
+    <item>գոթերեն</item>
+    <!-- grc - Ancient Greek -->
+    <item>հին հունարեն</item>
     <!-- gsw - Swiss German -->
     <item>շվեյցարական գերմաներեն</item>
     <!-- gu - Gujarati -->
     <item>գուջարաթի</item>
+    <!-- guc - Wayuu -->
+    <item>վայու</item>
     <!-- guz - Gusii -->
     <item>գուսի</item>
     <!-- gv - Manx -->
@@ -158,7 +226,9 @@
     <item>խորվաթերեն</item>
     <!-- hsb - Upper Sorbian -->
     <item>վերին սորբիերեն</item>
-    <!-- ht - Haitian -->
+    <!-- hsn - Xiang Chinese -->
+    <item>սյան չինարեն</item>
+    <!-- ht - Haitian Creole -->
     <item>հաիթերեն</item>
     <!-- hu - Hungarian -->
     <item>հունգարերեն</item>
@@ -194,6 +264,8 @@
     <item>կաբիլերեն</item>
     <!-- kam - Kamba -->
     <item>կամբա</item>
+    <!-- kcg - Tyap -->
+    <item>տիապ</item>
     <!-- kde - Makonde -->
     <item>մակոնդե</item>
     <!-- kea - Kabuverdianu -->
@@ -244,6 +316,8 @@
     <item>լինգալա</item>
     <!-- lo - Lao -->
     <item>լաոսերեն</item>
+    <!-- lrc - Northern Luri -->
+    <item>հյուսիսային լուրիերեն</item>
     <!-- lt - Lithuanian -->
     <item>լիտվերեն</item>
     <!-- lu - Luba-Katanga -->
@@ -278,6 +352,8 @@
     <item>մոհավք</item>
     <!-- mr - Marathi -->
     <item>մարաթի</item>
+    <!-- mrj - Western Mari -->
+    <item>արևմտյան մարիերեն</item>
     <!-- ms - Malay -->
     <item>մալայերեն</item>
     <!-- mt - Maltese -->
@@ -286,6 +362,8 @@
     <item>մունդանգ</item>
     <!-- my - Burmese -->
     <item>բիրմայերեն</item>
+    <!-- mzn - Mazanderani -->
+    <item>մազանդարաներեն</item>
     <!-- naq - Nama -->
     <item>նամա</item>
     <!-- nb - Norwegian Bokmål -->
@@ -304,22 +382,66 @@
     <item>նորվեգերեն նյունորսկ</item>
     <!-- no - Norwegian -->
     <item>Նորվեգերեն</item>
-    <!-- nqo - NʼKo -->
+    <!-- non - Old Norse -->
+    <item>հին նորվեգերեն</item>
+    <!-- nqo - N’Ko -->
     <item>նկո</item>
     <!-- nus - Nuer -->
     <item>նուեր</item>
     <!-- nyn - Nyankole -->
     <item>նյանկոլե</item>
     <!-- oc - Occitan -->
-    <item>Ակվիտաներեն</item>
+    <item>ակվիտաներեն</item>
+    <!-- oj - Ojibwa -->
+    <item>օջիբվա</item>
     <!-- om - Oromo -->
     <item>օրոմո</item>
     <!-- or - Oriya -->
     <item>օրիյա</item>
+    <!-- os - Ossetic -->
+    <item>օսերեն</item>
+    <!-- osa - Osage -->
+    <item>օսեյջի</item>
+    <!-- ota - Ottoman Turkish -->
+    <item>օսմաներեն</item>
     <!-- pa - Punjabi -->
     <item>փենջաբերեն</item>
+    <!-- pag - Pangasinan -->
+    <item>պանգասինաներեն</item>
+    <!-- pal - Pahlavi -->
+    <item>պահլավերեն</item>
+    <!-- pam - Pampanga -->
+    <item>պանպանգաերեն</item>
+    <!-- pap - Papiamento -->
+    <item>պապիամենտո</item>
+    <!-- pau - Palauan -->
+    <item>պալաուերեն</item>
+    <!-- pcd - Picard -->
+    <item>պիկարդերեն</item>
+    <!-- pdc - Pennsylvania German -->
+    <item>փենսիլվանական գերմաներեն</item>
+    <!-- pdt - Plautdietsch -->
+    <item>պլատագերմաներեն</item>
+    <!-- peo - Old Persian -->
+    <item>հին պարսկերեն</item>
+    <!-- pfl - Palatine German -->
+    <item>պալանտինների գերմաներեն</item>
+    <!-- phn - Phoenician -->
+    <item>փյունիկերեն</item>
+    <!-- pi - Pali -->
+    <item>պալի</item>
     <!-- pl - Polish -->
     <item>լեհերեն</item>
+    <!-- pms - Piedmontese -->
+    <item>պիեմոնտերեն</item>
+    <!-- pnt - Pontic -->
+    <item>պոնտիկերեն</item>
+    <!-- pon - Pohnpeian -->
+    <item>պոնպեերեն</item>
+    <!-- prg - Prussian -->
+    <item>պրուսերեն</item>
+    <!-- pro - Old Provençal -->
+    <item>հին պրովենսիալ</item>
     <!-- ps - Pashto -->
     <item>փուշթու</item>
     <!-- pt - Portuguese -->
@@ -332,6 +454,16 @@
     <item>քեչուա</item>
     <!-- quc - Kʼicheʼ -->
     <item>կիչե</item>
+    <!-- raj - Rajasthani -->
+    <item>ռաջաստաներեն</item>
+    <!-- rap - Rapanui -->
+    <item>ռապանուի</item>
+    <!-- rar - Rarotongan -->
+    <item>ռարոտոնգան</item>
+    <!-- rgn - Romagnol -->
+    <item>ռոմանիոլերեն</item>
+    <!-- rif - Riffian -->
+    <item>ռիֆերեն</item>
     <!-- rm - Romansh -->
     <item>ռոմանշերեն</item>
     <!-- rn - Rundi -->
@@ -342,8 +474,20 @@
     <item>մոլդովերեն</item>
     <!-- rof - Rombo -->
     <item>ռոմբո</item>
+    <!-- rom - Romany -->
+    <item>ռոմաներեն</item>
+    <!-- root - Root -->
+    <item>ռուտերեն</item>
+    <!-- rtm - Rotuman -->
+    <item>ռոտուման</item>
     <!-- ru - Russian -->
     <item>ռուսերեն</item>
+    <!-- rue - Rusyn -->
+    <item>ռուսիներեն</item>
+    <!-- rug - Roviana -->
+    <item>ռովիանա</item>
+    <!-- rup - Aromanian -->
+    <item>արոմաներեն</item>
     <!-- rw - Kinyarwanda -->
     <item>քինյարվանդա</item>
     <!-- rwk - Rwa -->
@@ -356,6 +500,8 @@
     <item>սանգու</item>
     <!-- sd - Sindhi -->
     <item>սինդհի</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>հարավային քրդերեն</item>
     <!-- se - Northern Sami -->
     <item>հյուսիսային սամի</item>
     <!-- seh - Sena -->
@@ -364,6 +510,8 @@
     <item>կոյրաբորո սեննի</item>
     <!-- sg - Sango -->
     <item>սանգո</item>
+    <!-- sga - Old Irish -->
+    <item>հին իռլանդերեն</item>
     <!-- sh - Serbo-Croatian -->
     <item>Սերբա-Խորվաթերեն</item>
     <!-- shi - Tachelhit -->
@@ -391,7 +539,7 @@
     <!-- sr - Serbian -->
     <item>սերբերեն</item>
     <!-- st - Southern Sotho -->
-    <item>Սեսոտո</item>
+    <item>հյուսիսային սոտո</item>
     <!-- su - Sundanese -->
     <item>սունդաներեն</item>
     <!-- sv - Swedish -->
@@ -402,36 +550,88 @@
     <item>կոնգոյի սուահիլի</item>
     <!-- ta - Tamil -->
     <item>թամիլերեն</item>
+    <!-- tcy - Tulu -->
+    <item>տուլու</item>
     <!-- te - Telugu -->
     <item>թելուգու</item>
+    <!-- tem - Timne -->
+    <item>տիմնե</item>
     <!-- teo - Teso -->
     <item>տեսո</item>
+    <!-- ter - Tereno -->
+    <item>տերենո</item>
+    <!-- tet - Tetum -->
+    <item>թեթում</item>
     <!-- tg - Tajik -->
     <item>տաջիկերեն</item>
     <!-- th - Thai -->
     <item>թայերեն</item>
     <!-- ti - Tigrinya -->
     <item>թիգրինիա</item>
+    <!-- tig - Tigre -->
+    <item>տիգրե</item>
+    <!-- tiv - Tiv -->
+    <item>տիվերեն</item>
     <!-- tk - Turkmen -->
     <item>թուրքմեներեն</item>
+    <!-- tkl - Tokelau -->
+    <item>տոկելաու</item>
+    <!-- tkr - Tsakhur -->
+    <item>ցախուր</item>
+    <!-- tl - Tagalog -->
+    <item>տագալերեն</item>
     <!-- tlh - Klingon -->
     <item>Կլինգոն</item>
+    <!-- tli - Tlingit -->
+    <item>տլինգիտ</item>
+    <!-- tly - Talysh -->
+    <item>թալիշերեն</item>
+    <!-- tmh - Tamashek -->
+    <item>տամաշեկ</item>
+    <!-- tn - Tswana -->
+    <item>ցվանա</item>
     <!-- to - Tongan -->
-    <item>տոնգա</item>
+    <item>տոնգերեն</item>
+    <!-- tpi - Tok Pisin -->
+    <item>տոկ փիսին</item>
     <!-- tr - Turkish -->
     <item>թուրքերեն</item>
+    <!-- tru - Turoyo -->
+    <item>տուրոյո</item>
+    <!-- trv - Taroko -->
+    <item>տարոկո</item>
+    <!-- ts - Tsonga -->
+    <item>ցոնգա</item>
+    <!-- tsd - Tsakonian -->
+    <item>ցակոներեն</item>
+    <!-- tsi - Tsimshian -->
+    <item>ցիմշյան</item>
     <!-- tt - Tatar -->
     <item>թաթարերեն</item>
+    <!-- tum - Tumbuka -->
+    <item>տումբուկա</item>
+    <!-- tvl - Tuvalu -->
+    <item>թուվալուերեն</item>
     <!-- tw - Twi -->
-    <item>Տուի</item>
+    <item>տուի</item>
     <!-- twq - Tasawaq -->
     <item>տասավաք</item>
+    <!-- ty - Tahitian -->
+    <item>թաիտերեն</item>
+    <!-- tyv - Tuvinian -->
+    <item>տուվերեն</item>
     <!-- tzm - Central Atlas Tamazight -->
     <item>կենտրոնատլասյան թամազիխտ</item>
+    <!-- udm - Udmurt -->
+    <item>ուդմուրտերեն</item>
     <!-- ug - Uyghur -->
     <item>ույղուրերեն</item>
+    <!-- uga - Ugaritic -->
+    <item>ուգարիտերեն</item>
     <!-- uk - Ukrainian -->
     <item>ուկրաիներեն</item>
+    <!-- umb - Umbundu -->
+    <item>ումբունդու</item>
     <!-- und - Unknown Language -->
     <item>անհայտ լեզու</item>
     <!-- ur - Urdu -->
@@ -440,20 +640,64 @@
     <item>ուզբեկերեն</item>
     <!-- vai - Vai -->
     <item>վաի</item>
+    <!-- ve - Venda -->
+    <item>վենդա</item>
+    <!-- vec - Venetian -->
+    <item>վենետիկերեն</item>
+    <!-- vep - Veps -->
+    <item>վեպսկերեն</item>
     <!-- vi - Vietnamese -->
     <item>վիետնամերեն</item>
+    <!-- vls - West Flemish -->
+    <item>արևմտյան ֆլամադերեն</item>
+    <!-- vo - Volapük -->
+    <item>վոլապյուկ</item>
+    <!-- vot - Votic -->
+    <item>վոդերեն</item>
+    <!-- vro - Võro -->
+    <item>վորո</item>
     <!-- vun - Vunjo -->
     <item>վունջո</item>
+    <!-- wa - Walloon -->
+    <item>վալոներեն</item>
+    <!-- wae - Walser -->
+    <item>վալսերեն</item>
+    <!-- wal - Wolaytta -->
+    <item>վոլայտա</item>
+    <!-- war - Waray -->
+    <item>վարայերեն</item>
+    <!-- was - Washo -->
+    <item>վաշո</item>
+    <!-- wbp - Warlpiri -->
+    <item>վարլպիրի</item>
     <!-- wo - Wolof -->
     <item>վոլոֆ</item>
+    <!-- wuu - Wu Chinese -->
+    <item>վու չինարեն</item>
     <!-- xh - Xhosa -->
     <item>քսոզա</item>
     <!-- xog - Soga -->
     <item>սոգա</item>
+    <!-- yao - Yao -->
+    <item>յաո</item>
+    <!-- yap - Yapese -->
+    <item>յապսկերեն</item>
+    <!-- yav - Yangben -->
+    <item>յանգբեն</item>
+    <!-- ybb - Yemba -->
+    <item>յեմբաերեն</item>
     <!-- yi - Yiddish -->
-    <item>Իդիշ</item>
+    <item>իդիշ</item>
     <!-- yo - Yoruba -->
     <item>յորուբա</item>
+    <!-- za - Zhuang -->
+    <item>ժուանգ</item>
+    <!-- zap - Zapotec -->
+    <item>սապոտեկերեն</item>
+    <!-- zea - Zeelandic -->
+    <item>զեյլանդերեն</item>
+    <!-- zen - Zenaga -->
+    <item>զենագա</item>
     <!-- zgh - Standard Moroccan Tamazight -->
     <item>ստանդարտ մարոկական թամազիղտ</item>
     <!-- zh - Chinese -->
@@ -464,7 +708,11 @@
     <item>ավանդական չինարեն</item>
     <!-- zu - Zulu -->
     <item>զուլուսերեն</item>
+    <!-- zun - Zuni -->
+    <item>զունիերեն</item>
     <!-- zxx - No linguistic content -->
     <item>առանց լեզվային բովանդակության</item>
+    <!-- zza - Zaza -->
+    <item>զազաերեն</item>
   </string-array>
 </resources>

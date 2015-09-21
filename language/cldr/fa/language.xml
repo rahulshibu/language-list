@@ -145,8 +145,8 @@
     <name>ترکی آذربایجانی</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>ترکی آذربایجانی ایران</name>
+    <code>az_Arab</code>
+    <name>ترکی آذری جنوبی</name>
   </language>
   <language>
     <code>ba</code>
@@ -174,7 +174,7 @@
   </language>
   <language>
     <code>be</code>
-    <name>بلوروسی</name>
+    <name>بلاروسی</name>
   </language>
   <language>
     <code>bej</code>
@@ -191,6 +191,10 @@
   <language>
     <code>bg</code>
     <name>بلغاری</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>بلوچی غربی</name>
   </language>
   <language>
     <code>bho</code>
@@ -226,7 +230,7 @@
   </language>
   <language>
     <code>br</code>
-    <name>برتانیایی</name>
+    <name>برتون</name>
   </language>
   <language>
     <code>bra</code>
@@ -354,7 +358,7 @@
   </language>
   <language>
     <code>cy</code>
-    <name>ویلزی</name>
+    <name>ولزی</name>
   </language>
   <language>
     <code>da</code>
@@ -382,7 +386,7 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>آلمانی علیای سوئیس</name>
+    <name>آلمانی معیار سوئیس</name>
   </language>
   <language>
     <code>del</code>
@@ -521,6 +525,10 @@
     <name>فارسی</name>
   </language>
   <language>
+    <code>fa_AF</code>
+    <name>دری</name>
+  </language>
+  <language>
     <code>fan</code>
     <name>فانکی</name>
   </language>
@@ -602,7 +610,7 @@
   </language>
   <language>
     <code>gag</code>
-    <name>گاگاوز</name>
+    <name>گاگائوزیایی</name>
   </language>
   <language>
     <code>gay</code>
@@ -638,7 +646,7 @@
   </language>
   <language>
     <code>gmh</code>
-    <name>آلمانی علیای میانه</name>
+    <name>آلمانی معیار میانه</name>
   </language>
   <language>
     <code>gn</code>
@@ -910,7 +918,7 @@
   </language>
   <language>
     <code>kiu</code>
-    <name>زازاکی</name>
+    <name>کرمانجی</name>
   </language>
   <language>
     <code>kj</code>
@@ -938,7 +946,7 @@
   </language>
   <language>
     <code>kn</code>
-    <name>کاناده‌ای</name>
+    <name>کانارا</name>
   </language>
   <language>
     <code>ko</code>
@@ -1006,7 +1014,7 @@
   </language>
   <language>
     <code>la</code>
-    <name>لاتینی</name>
+    <name>لاتین</name>
   </language>
   <language>
     <code>lad</code>
@@ -1059,6 +1067,10 @@
   <language>
     <code>loz</code>
     <name>لوزیایی</name>
+  </language>
+  <language>
+    <code>lrc</code>
+    <name>لری شمالی</name>
   </language>
   <language>
     <code>lt</code>
@@ -1241,6 +1253,10 @@
     <name>ارزیایی</name>
   </language>
   <language>
+    <code>mzn</code>
+    <name>مازندرانی</name>
+  </language>
+  <language>
     <code>na</code>
     <name>نائورویی</name>
   </language>
@@ -1254,7 +1270,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>بوکسمال نروژی</name>
+    <name>نروژی بوک‌مُل</name>
   </language>
   <language>
     <code>nd</code>
@@ -1263,6 +1279,10 @@
   <language>
     <code>nds</code>
     <name>آلمانی سفلی</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>ساکسونی سفلی</name>
   </language>
   <language>
     <code>ne</code>
@@ -1298,7 +1318,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>نرس جدید نروژی</name>
+    <name>نروژی نی‌نُشک</name>
   </language>
   <language>
     <code>no</code>
@@ -1509,6 +1529,10 @@
     <name>روسی</name>
   </language>
   <language>
+    <code>rup</code>
+    <name>آرومانی</name>
+  </language>
+  <language>
     <code>rw</code>
     <name>کینیارواندایی</name>
   </language>
@@ -1518,7 +1542,7 @@
   </language>
   <language>
     <code>sa</code>
-    <name>سنسکریت</name>
+    <name>سانسکریت</name>
   </language>
   <language>
     <code>sad</code>
@@ -1546,7 +1570,7 @@
   </language>
   <language>
     <code>sbp</code>
-    <name>سانگو</name>
+    <name>سانگویی</name>
   </language>
   <language>
     <code>sc</code>
@@ -1563,6 +1587,10 @@
   <language>
     <code>sd</code>
     <name>سندی</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>کردی جنوبی</name>
   </language>
   <language>
     <code>se</code>
@@ -1582,7 +1610,7 @@
   </language>
   <language>
     <code>sg</code>
-    <name>سانگویی</name>
+    <name>سانگو</name>
   </language>
   <language>
     <code>sga</code>
@@ -1618,7 +1646,11 @@
   </language>
   <language>
     <code>sl</code>
-    <name>اسلووینیایی</name>
+    <name>اسلوونیایی</name>
+  </language>
+  <language>
+    <code>sli</code>
+    <name>سیلزیایی سفلی</name>
   </language>
   <language>
     <code>sm</code>
@@ -1719,6 +1751,10 @@
   <language>
     <code>syr</code>
     <name>سریانی</name>
+  </language>
+  <language>
+    <code>szl</code>
+    <name>سیلزیایی</name>
   </language>
   <language>
     <code>ta</code>
@@ -1915,6 +1951,10 @@
   <language>
     <code>was</code>
     <name>واشویی</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>وارلپیری</name>
   </language>
   <language>
     <code>wo</code>

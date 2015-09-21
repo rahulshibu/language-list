@@ -14,7 +14,7 @@ ba: baxkir
 be: bielorusu
 bem: bemba
 bez: bena
-bg: bulgaru
+bg: "b\xFAlgaru"
 bm: bambara
 bn: bengali
 bo: tibetanu
@@ -22,11 +22,13 @@ br: "bret\xE3u"
 brx: bodo
 bs: bosniu
 ca: "katal\xE3u"
+ce: txetxenu
 cgg: xiga
 chr: xeroki
-ckb: kurdu sorani
-co: "c\xF3rsiku"
+ckb: kurdu sentral
+co: "k\xF3rsiku"
 cs: txeku
+cv: txuvaxi
 cy: gales
 da: dinamarkes
 dav: taita
@@ -44,7 +46,7 @@ el: gregu
 en: ingles
 en_AU: ingles australianu
 en_CA: ingles kanadianu
-en_GB: ingles britanuku
+en_GB: ingles britaniku
 en_US: ingles merkanu
 eo: sperantu
 es: spanhol
@@ -79,7 +81,7 @@ hsb: "s\xF3rbiu altu"
 ht: aitianu
 hu: "\xFAngaru"
 hy: "arm\xE9niu"
-id: indoneziu
+id: "indon\xE9ziu"
 ig: ibo
 ii: nuosu
 is: islandes
@@ -90,16 +92,27 @@ jgo: "\xF1omba"
 jmc: matxame
 jv: javanes
 ka: jorjianu
+kab: kabila
+kam: kamba
 kea: kabuverdianu
+khq: koira txiini
+ki: kikuiu
 kk: kazak
+kl: groenlandes
+kln: kalenjin
 km: kmer
 kn: kanares
-ko: kureanu
+ko: korianu
+koi: komi-permiak
+kok: konkani
 ks: kaxmira
+ksf: bafia
 ku: kurdu
+kw: "k\xF3rniku"
 ky: kirgiz
 la: latin
 lb: luxemburges
+lg: luganda
 lo: lausianu
 lt: lituanes
 lv: "let\xE3u"
@@ -115,6 +128,7 @@ nb: "norueges bokm\xE5l"
 ne: nepales
 nl: olandes
 nl_BE: flamengu
+nmg: kuazio
 nn: norueges nynorsk
 om: oromo
 or: oriya
@@ -132,16 +146,18 @@ ru: rusu
 rw: kiniaruanda
 sa: sanskritu
 sd: sindi
+ses: koiraboro seni
 si: singales
 sk: slovaku
 sl: sloveniu
+smn: inari sami
 so: somali
 sq: albanes
 sr: "s\xE9rviu"
 su: sundanes
 sv: sueku
 sw: "sua\xEDli"
-swc: "sua\xEDli di Kongu"
+swc: "sua\xEDli kongoles"
 ta: tamil
 te: telugu
 tg: tajik
@@ -151,6 +167,7 @@ tk: turkmenu
 to: tonganes
 tr: turku
 tt: tatar
+tzm: tamazait di Atlas Sentral
 ug: uigur
 uk: ukranianu
 und: lingua diskonxedu

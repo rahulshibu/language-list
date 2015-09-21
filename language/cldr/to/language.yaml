@@ -39,7 +39,6 @@ avk: lea fakakotava
 awa: "lea faka\u02BBauati"
 ay: "lea faka\u02BBaimala"
 az: "lea faka\u02BBasapaisani"
-azb: "lea faka\u02BBasapaisani-tonga"
 ba: lea fakapasikili
 bal: lea fakapalusi
 ban: lea fakapali
@@ -56,6 +55,7 @@ bez: lea fakapena
 bfd: lea fakapafuti
 bfq: lea fakapataka
 bg: lea fakapulukalia
+bgn: lea fakapalusi-hihifo
 bho: lea fakaposipuli
 bi: lea fakapisilama
 bik: lea fakapikoli
@@ -97,7 +97,7 @@ cho: lea fakasokitau
 chp: lea fakasipeuiani
 chr: "lea fakaselok\u012B"
 chy: lea fakaseiene
-ckb: "lea fakak\u016Btisi-solani"
+ckb: "lea fakak\u016Btisi-loloto"
 co: "lea fakak\u014Dsika"
 cop: lea fakakopitika
 cps: lea fakakapiseno
@@ -209,7 +209,7 @@ hak: lea fakasiaina-haka
 haw: "lea fakahauai\u02BBi"
 he: "lea fakahepel\u016B"
 hi: "lea fakahinit\u012B"
-hif: "lea fakahihit\u012B-fisi"
+hif: "lea fakahinit\u012B-fisi"
 hil: lea fakahilikainoni
 hit: lea fakahitite
 hmn: "lea fakam\u014Dngi"
@@ -315,6 +315,7 @@ ln: lea lingikala
 lo: lea fakalau
 lol: "lea fakamongik\u014D"
 loz: lea fakalosi
+lrc: lea fakaluli-tokelau
 lt: lea fakalituania
 ltg: lea fakalatakale
 lu: lea fakalupa-katanga
@@ -358,7 +359,7 @@ mos: lea fakamosi
 mr: lea fakamalati
 mrj: lea fakamali-hihifo
 ms: lea fakamalei
-mt: lea fakamolota
+mt: lea fakamalita
 mua: lea fakamunitangi
 mul: lea tuifio
 mus: lea fakakileki
@@ -376,6 +377,7 @@ naq: lea fakanama
 nb: "lea fakanoua\u0113-pokimali"
 nd: lea fakanetepele-tokelau
 nds: lea fakasiamane-hifo
+nds_NL: lea fakasakisoni-hifo
 ne: lea fakanepali
 new: lea fakaneuali
 ng: "lea fakanetongik\u0101"
@@ -387,7 +389,7 @@ nl_BE: "lea fakah\u014Dlani-pelesiume"
 nmg: lea fakakuasio
 nn: "lea fakanoau\u0113-ninosiki"
 nnh: "lea fakangiemip\u014Dni"
-'no': "lea fakanou\u0113"
+'no': "lea fakanoua\u0113"
 nog: lea fakanokai
 non: "lea fakanoau\u0113-motu\u02BBa"
 nov: lea fakanoviale
@@ -422,7 +424,7 @@ peo: "lea fakap\u0113sia-motu\u02BBa"
 pfl: lea fakasiamane-palatine
 phn: lea fakafoinikia
 pi: "lea fakap\u0101li"
-pl: "lea fakap\u014Dlani"
+pl: lea fakapolani
 pms: lea fakapiemonite
 pnt: lea fakaponitiki
 pon: "lea fakaponap\u0113"
@@ -438,7 +440,7 @@ qug: lea fakakuitisa-simipolaso
 raj: lea fakalasasitani
 rap: lea fakalapanui
 rar: lea fakalalotonga
-rgn: lea fakaromaniolo
+rgn: lea fakalomaniolo
 rif: lea fakalifi
 rm: "lea fakalaito-lom\u0113nia"
 rn: lea fakaluaniti
@@ -469,6 +471,7 @@ scn: "lea fakasis\u012Blia"
 sco: lea fakasikotilani
 sd: "lea fakas\u012Bniti"
 sdc: "lea fakasalet\u012Bnia-sasalesu"
+sdh: "lea faka-tonga \u2018o Ketesi"
 se: lea fakasami-tokelau
 see: lea fakaseneka
 seh: lea fakasena
@@ -501,7 +504,7 @@ sq: "lea faka\u02BBalap\u0113nia"
 sr: "lea fakas\u0113pia"
 srn: "lea fakasuranane-tongik\u014D"
 srr: "lea fakas\u0113l\u0113le"
-ss: lea fakasuasilani
+ss: lea fakasuati
 ssy: lea fakasaho
 st: lea fakasoto-tonga
 stq: "lea fakafilisia-sat\u0113lani"
@@ -526,7 +529,7 @@ tet: lea fakatetumu
 tg: "lea fakat\u0101siki"
 th: lea fakatailani
 ti: lea fakatikilinia
-tig: "lea fakatikil\u012Bnia"
+tig: "lea fakatikil\u0113"
 tiv: lea fakativi
 tk: "lea fakat\u0113kimeni"
 tkl: lea fakatokelau
@@ -579,6 +582,7 @@ wae: "lea faka\u02BBualiseli"
 wal: "lea faka\u02BBuolaita"
 war: "lea faka\u02BBualai"
 was: "lea faka\u02BBuasi\u014D"
+wbp: "lea faka\u02BBu\u0101lipili"
 wo: "lea faka\u02BBuolofo"
 wuu: "lea fakasiaina-u\u016B"
 xal: lea fakakalimiki

@@ -1,7 +1,7 @@
 ab: abkhazo
 ach: acoli
 af: afrikaans
-agq: aghem
+agq: agq
 ak: "ak\xE1n"
 am: "am\xE1rico"
 an: "aragon\xE9s"
@@ -17,21 +17,24 @@ az: acerbaixano
 ba: baskir
 be: bielorruso
 bem: bemba
-bez: bena
+bez: bez
 bg: "b\xFAlgaro"
-bm: bambara
+bgn: Baluchi occidental
+bm: bm
 bn: "bengal\xED"
 bo: tibetano
 br: "bret\xF3n"
-brx: bodo
+brx: brx
 bs: bosnio
 ca: "catal\xE1n"
+ce: Checheno
 cgg: kiga
 chr: cheroqui
 ckb: "curdo soran\xED"
 co: corso
 cs: checo
 cu: "eslavo eclesi\xE1stico"
+cv: Chuvash
 cy: "gal\xE9s"
 da: "dinamarqu\xE9s"
 dav: taita
@@ -39,7 +42,7 @@ de: "alem\xE1n"
 de_AT: "alem\xE1n de austria"
 de_CH: "alto alem\xE1n su\xEDzo"
 dje: zarma
-dsb: baixo sorabio
+dsb: dsb
 dua: duala
 dv: divehi
 dyo: jola-fonyi
@@ -86,7 +89,7 @@ haw: hawaiano
 he: hebreo
 hi: hindi
 hr: croata
-hsb: alto sorabio
+hsb: hsb
 ht: haitiano
 hu: "h\xFAngaro"
 hy: armenio
@@ -96,10 +99,10 @@ ig: ibo
 ii: "yi sichuan\xE9s"
 is: "island\xE9s"
 it: italiano
-iu: inuit
+iu: iu
 ja: "xapon\xE9s"
 jgo: ngomba
-jmc: machame
+jmc: mapache
 jv: "xavan\xE9s"
 ka: xeorxiano
 kab: kabile
@@ -107,11 +110,11 @@ kam: kamba
 kde: makonde
 kea: caboverdiano
 kg: kongo
-khq: koyra chiini
+khq: koyra Chiini
 ki: kikuyu
 kk: casaco
-kl: "groenland\xE9s"
-kln: kalenjin
+kl: kl
+kln: kln
 km: cambodiano
 kn: kannada
 ko: coreano
@@ -121,18 +124,19 @@ ks: cachemir
 ksb: shambala
 ksf: bafia
 ku: kurdo
-kw: "c\xF3rnico"
+kw: kw
 ky: quirguiz
 la: "lat\xEDn"
-lag: langi
+lag: Langi
 lb: "luxemburgu\xE9s"
 lg: ganda
-lkt: lakota
+lkt: Lakota
 ln: lingala
 lo: laotiano
 loz: lozi
+lrc: "Lur\xED do norte"
 lt: lituano
-lu: luba-katanga
+lu: luba-Katanga
 lua: luba-lulua
 luo: luo
 luy: luyia
@@ -141,8 +145,8 @@ mas: masai
 mer: meru
 mfe: crioulo mauritano
 mg: malgaxe
-mgh: makhuwa-meetto
-mgo: "meta\u2019"
+mgh: mgh
+mgo: mgo
 mi: "maor\xED"
 mk: macedonio
 ml: malabar
@@ -154,18 +158,21 @@ mt: "malt\xE9s"
 mua: mundang
 mul: varias linguas
 my: birmano
-naq: nama
+mzn: "Mazandaran\xED"
+naq: naq
 nb: "noruegu\xE9s bokmal"
 nd: ndebele do norte
+nds: "Baixo alem\xE1n"
+nds_NL: "Baixo sax\xF3n"
 ne: "nepal\xED"
 nl: "holand\xE9s"
 nl_BE: flamenco
-nmg: kwasio
+nmg: nmg
 nn: "noruegu\xE9s nynorsk"
 'no': "noruegu\xE9s"
-nqo: "n\u2019ko"
+nqo: nqo
 nso: sesotho sa leboa
-nus: nuer
+nus: nus
 ny: chewa
 nyn: nyankole
 oc: occitano
@@ -183,18 +190,18 @@ quc: "quich\xE9"
 rm: romanche
 rn: rundi
 ro: "roman\xE9s"
-ro_MD: "roman\xE9s moldavo"
 rof: rombo
 ru: ruso
 rw: "ruand\xE9s"
-rwk: rwa
+rwk: rwk
 sa: "s\xE1nscrito"
-saq: samburu
-sbp: sangu
+saq: saq
+sbp: sbp
 sd: sindhi
+sdh: Kurdo meridional
 se: sami do norte
 seh: sena
-ses: koyraboro senni
+ses: ses
 sg: sango
 sh: serbocroata
 shi: tachelhit
@@ -202,10 +209,10 @@ si: "cingal\xE9s"
 sk: eslovaco
 sl: esloveno
 sm: samoano
-sma: saami do sur
-smj: saami lule
-smn: saami inari
-sms: saami skolt
+sma: sma
+smj: smj
+smn: smn
+sms: sms
 sn: shona
 so: "somal\xED"
 sq: "alban\xE9s"
@@ -215,7 +222,7 @@ st: sesoto
 su: "sondan\xE9s"
 sv: sueco
 sw: swahili
-swc: "suahili congol\xE9s"
+swc: swc
 ta: tamil
 te: telugu
 teo: teso
@@ -234,18 +241,19 @@ ts: xitsonga
 tt: "t\xE1rtaro"
 tum: tumbuka
 tw: twi
-twq: tasawaq
+twq: twq
 ty: tahitiano
-tzm: "tamazight marroqu\xED central"
+tzm: tzm
 ug: uigur
 uk: "ucra\xEDno"
-und: "lingua desco\xF1ecida ou non v\xE1lida"
+und: "Lingua desco\xF1ecida"
 ur: "urd\xFA"
 uz: uzbeco
 vai: vai
 ve: venda
 vi: vietnamita
 vun: vunjo
+wbp: Warlpiri
 wo: "w\xF3lof"
 xh: xhosa
 xog: soga

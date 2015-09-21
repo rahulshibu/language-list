@@ -42,6 +42,7 @@ bem: bemba
 bez: bena
 bfd: bafut
 bg: "bulhar\u010Dina"
+bgn: "z\xE1padn\xE1 bal\xFA\u010Dtina"
 bho: "bh\xF3d\u017Epur\u010Dina"
 bi: bislama
 bik: bikol
@@ -111,7 +112,7 @@ dyu: "\u010Fula"
 dz: "dzongk\xE4"
 dzg: dazaga
 ebu: embu
-ee: ewe
+ee: "ewe\u0161tina"
 efi: efik
 egy: "staroegyptsk\xFD"
 eka: "ekad\u017Euk"
@@ -159,7 +160,7 @@ gez: "eti\xF3p\u010Dina"
 gil: "kiribat\u010Dina"
 gl: "gal\xEDcij\u010Dina"
 gmh: "stredn\xE1 horn\xE1 nem\u010Dina"
-gn: "guaran\xED"
+gn: "guaran\xEDj\u010Dina"
 goh: "star\xE1 horn\xE1 nem\u010Dina"
 gon: "g\xF3nd\u010Dina"
 gor: gorontalo
@@ -267,8 +268,9 @@ ln: "lingal\u010Dina"
 lo: "lao\u0161tina"
 lol: mongo
 loz: lozi
+lrc: "severn\xE9 luri"
 lt: "litov\u010Dina"
-lu: luba-katanga
+lu: "lub\u010Dina (katan\u017Esk\xE1)"
 lua: "luba-lulu\xE1n\u010Dina"
 lui: "luise\u0148o"
 lun: lunda
@@ -315,12 +317,14 @@ mwr: marawari
 my: "barm\u010Dina"
 mye: myene
 myv: "erzjan\u010Dina"
+mzn: "m\xE1zandar\xE1n\u010Dina"
 na: nauru
 nap: "neapol\u010Dina"
 naq: nama
-nb: "n\xF3rsky bokm\xE5l"
+nb: "n\xF3r\u010Dina (bokm\xE5l)"
 nd: "severn\xE9 ndebele"
 nds: "doln\xE1 nem\u010Dina"
+nds_NL: "doln\xE1 sa\u0161tina"
 ne: "nep\xE1l\u010Dina"
 new: "nev\xE1r\u010Dina"
 ng: ndonga
@@ -329,7 +333,7 @@ niu: "niue\u0161tina"
 nl: "holand\u010Dina"
 nl_BE: "fl\xE1m\u010Dina"
 nmg: kwasio
-nn: "n\xF3rsky nynorsk"
+nn: "n\xF3r\u010Dina (nynorsk)"
 nnh: ngiemboon
 'no': "n\xF3r\u010Dina"
 nog: "nogaj\u010Dina"
@@ -369,7 +373,7 @@ pt: "portugal\u010Dina"
 pt_BR: "portugal\u010Dina (braz\xEDlska)"
 pt_PT: "portugal\u010Dina (eur\xF3pska)"
 qu: "ke\u010Du\xE1n\u010Dina"
-quc: "k\u02BCiche\u02BC"
+quc: "ki\u010D\xE9"
 raj: "rad\u017Eastan\u010Dina"
 rap: "rapanuj\u010Dina"
 rar: rarotongan
@@ -397,7 +401,8 @@ sc: "sard\xEDn\u010Dina"
 scn: "sic\xEDl\u010Dina"
 sco: "\u0161k\xF3t\u010Dina"
 sd: "sindh\u010Dina"
-se: "severn\xE9 sami"
+sdh: "kurd\u010Dina (ju\u017En\xE1)"
+se: "lapon\u010Dina (severn\xE1)"
 see: seneca
 seh: sena
 sel: "selkup\u010Dina"
@@ -413,10 +418,10 @@ sid: sidamo
 sk: "sloven\u010Dina"
 sl: "slovin\u010Dina"
 sm: "samoj\u010Dina"
-sma: "ju\u017En\xE9 sami"
-smj: sami (lule)
-smn: sami (inari)
-sms: sami (skolt)
+sma: "lapon\u010Dina (ju\u017En\xE1)"
+smj: "lapon\u010Dina (lulsk\xE1)"
+smn: "lapon\u010Dina (inarijsk\xE1)"
+sms: "lapon\u010Dina (skoltsk\xE1)"
 sn: "\u0161on\u010Dina"
 snk: soninke
 so: "som\xE1l\u010Dina"
@@ -490,9 +495,10 @@ wae: "walser\u010Dina"
 wal: walamo
 war: waray
 was: washo
-wo: wolof
+wbp: warlpiri
+wo: "wolof\u010Dina"
 xal: "kalmy\u010Dtina"
-xh: xhosa
+xh: "xho\u0161tina"
 xog: soga
 yao: jao
 yap: "jap\u010Dina"

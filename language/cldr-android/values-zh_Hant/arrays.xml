@@ -84,8 +84,6 @@
     <item>艾馬拉文</item>
     <!-- az - Azerbaijani -->
     <item>亞塞拜然文</item>
-    <!-- azb - South Azerbaijani -->
-    <item>南亞塞拜然文</item>
     <!-- ba - Bashkir -->
     <item>巴什客爾文</item>
     <!-- bal - Baluchi -->
@@ -118,6 +116,8 @@
     <item>巴達加文</item>
     <!-- bg - Bulgarian -->
     <item>保加利亞文</item>
+    <!-- bgn - Western Balochi -->
+    <item>西俾路支文</item>
     <!-- bho - Bhojpuri -->
     <item>博傑普爾文</item>
     <!-- bi - Bislama -->
@@ -288,8 +288,6 @@
     <item>世界文</item>
     <!-- es - Spanish -->
     <item>西班牙文</item>
-    <!-- es_ES - European Spanish -->
-    <item>西班牙文（歐洲）</item>
     <!-- esu - Central Yupik -->
     <item>中尤皮克文</item>
     <!-- et - Estonian -->
@@ -422,7 +420,7 @@
     <item>上索布文</item>
     <!-- hsn - Xiang Chinese -->
     <item>湘語</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>海地文</item>
     <!-- hu - Hungarian -->
     <item>匈牙利文</item>
@@ -618,6 +616,8 @@
     <item>芒戈文</item>
     <!-- loz - Lozi -->
     <item>洛齊文</item>
+    <!-- lrc - Northern Luri -->
+    <item>北盧爾文</item>
     <!-- lt - Lithuanian -->
     <item>立陶宛文</item>
     <!-- ltg - Latgalian -->
@@ -725,7 +725,7 @@
     <!-- myv - Erzya -->
     <item>厄爾茲亞文</item>
     <!-- mzn - Mazanderani -->
-    <item>瑪詹德拉尼文</item>
+    <item>馬贊德蘭文</item>
     <!-- na - Nauru -->
     <item>諾魯文</item>
     <!-- nan - Min Nan Chinese -->
@@ -740,6 +740,8 @@
     <item>北地畢列文</item>
     <!-- nds - Low German -->
     <item>低地德文</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>低地薩克遜文</item>
     <!-- ne - Nepali -->
     <item>尼泊爾文</item>
     <!-- new - Newari -->
@@ -770,7 +772,7 @@
     <item>古諾爾斯文</item>
     <!-- nov - Novial -->
     <item>諾維亞文</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>曼德文字 (N’Ko)</item>
     <!-- nr - South Ndebele -->
     <item>南地畢列文</item>
@@ -848,8 +850,6 @@
     <item>普什圖文</item>
     <!-- pt - Portuguese -->
     <item>葡萄牙文</item>
-    <!-- pt_PT - European Portuguese -->
-    <item>葡萄牙文（歐洲）</item>
     <!-- qu - Quechua -->
     <item>蓋楚瓦文</item>
     <!-- quc - Kʼicheʼ -->
@@ -924,6 +924,8 @@
     <item>信德文</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>薩丁尼亞-薩薩里文</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>南庫爾德文</item>
     <!-- se - Northern Sami -->
     <item>北方薩米文</item>
     <!-- see - Seneca -->
@@ -1144,6 +1146,8 @@
     <item>瓦瑞文</item>
     <!-- was - Washo -->
     <item>瓦紹文</item>
+    <!-- wbp - Warlpiri -->
+    <item>沃皮瑞文</item>
     <!-- wo - Wolof -->
     <item>沃洛夫文</item>
     <!-- wuu - Wu Chinese -->

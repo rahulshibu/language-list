@@ -11,7 +11,9 @@ agq,aghem
 ain,ainu
 ak,àkan
 akk,accadi
+akz,alabama
 ale,aleuta
+aln,albanès geg
 alt,altaic meridional
 am,amhàric
 an,aragonès
@@ -21,10 +23,13 @@ ar,àrab
 ar_001,àrab estàndard modern
 arc,arameu
 arn,araucà
+aro,araona
 arp,arapaho
 arw,arauac
+arz,àrab egipci
 as,assamès
 asa,pare
+ase,llengua de signes americana
 ast,asturià
 av,àvar
 awa,awadhi
@@ -33,6 +38,7 @@ az,azerbaidjanès
 ba,baixkir
 bal,balutxi
 ban,balinès
+bar,bavarès
 bas,basa
 bax,bamun
 bbj,ghomala
@@ -41,7 +47,9 @@ bej,beja
 bem,bemba
 bez,bena
 bfd,bafut
+bfq,badaga
 bg,búlgar
+bgn,balutxi occidental
 bho,bhojpuri
 bi,bislama
 bik,bicol
@@ -53,6 +61,7 @@ bn,bengalí
 bo,tibetà
 br,bretó
 bra,braj
+brh,brahui
 brx,bodo
 bs,bosnià
 bss,akoose
@@ -113,6 +122,7 @@ dzg,dazaga
 ebu,embu
 ee,ewe
 efi,efik
+egl,emilià
 egy,egipci antic
 eka,ekajuk
 el,grec
@@ -131,6 +141,7 @@ es_MX,espanyol de Mèxic
 et,estonià
 eu,basc
 ewo,ewondo
+ext,extremeny
 fa,persa
 fan,fang
 fat,fanti
@@ -146,21 +157,24 @@ fr_CH,francès suís
 frm,francès mitjà
 fro,francès antic
 frr,frisó septentrional
-frs,frisó occidental
+frs,frisó oriental
 fur,friülà
-fy,frisó oriental
+fy,frisó occidental
 ga,irlandès
 gaa,ga
 gag,gagaús
+gan,xinès gan
 gay,gayo
 gba,gbaya
 gd,gaèlic escocès
 gez,gueez
 gil,gilbertès
 gl,gallec
+glk,gilaki
 gmh,alt alemany mitjà
 gn,guaraní
 goh,alt alemany antic
+gom,concani de Goa
 gon,gondi
 gor,gorontalo
 got,gòtic
@@ -168,20 +182,24 @@ grb,grebo
 grc,grec antic
 gsw,alemany suís
 gu,gujarati
+guc,wayú
 guz,gusí
 gv,manx
 gwi,gwichin
 ha,haussa
 hai,haida
+hak,xinès hakka
 haw,hawaià
 he,hebreu
 hi,hindi
+hif,hindi de Fiji
 hil,hiligainon
 hit,hitita
 hmn,hmong
 ho,hiri motu
 hr,croat
 hsb,alt sòrab
+hsn,xinès xiang
 ht,haitià
 hu,hongarès
 hup,hupa
@@ -202,6 +220,7 @@ is,islandès
 it,italià
 iu,inuktitut
 ja,japonès
+jam,crioll anglès de Jamaica
 jbo,lojban
 jgo,ngomba
 jmc,machame
@@ -220,8 +239,10 @@ kbl,kanembu
 kcg,tyap
 kde,makonde
 kea,crioll capverdià
+ken,kenyang
 kfo,koro
 kg,kongo
+kgp,kaingà
 kha,khasi
 kho,khotanès
 khq,koyra chiini
@@ -241,6 +262,7 @@ kos,kosraeà
 kpe,kpelle
 kr,kanuri
 krc,karatxai
+kri,krio
 krl,carelià
 kru,kurukh
 ks,caixmiri
@@ -262,11 +284,14 @@ lb,luxemburguès
 lez,lesguià
 lg,ganda
 li,limburguès
+lij,lígur
 lkt,lakota
+lmo,llombard
 ln,lingala
 lo,laosià
 lol,mongo
 loz,lozi
+lrc,luri septentrional
 lt,lituà
 lu,luba katanga
 lua,luba-lulua
@@ -276,6 +301,8 @@ luo,luo
 lus,mizo
 luy,luyia
 lv,letó
+lzh,xinès clàssic
+lzz,laz
 mad,madurès
 maf,mafa
 mag,magahi
@@ -305,6 +332,7 @@ mni,manipurí
 moh,mohawk
 mos,moré
 mr,marathi
+mrj,mari occidental
 ms,malai
 mt,maltès
 mua,mundang
@@ -315,12 +343,15 @@ mwr,marwari
 my,birmà
 mye,myene
 myv,mordovià erza
+mzn,mazanderani
 na,nauruà
+nan,xinès min del sud
 nap,napolità
 naq,nama
 nb,noruec bokmål
 nd,ndebele septentrional
 nds,baix alemany
+nds_NL,baix saxó
 ne,nepalès
 new,newari
 ng,ndonga
@@ -334,6 +365,7 @@ nnh,ngiemboon
 no,noruec
 nog,nogai
 non,nòrdic antic
+nov,novial
 nqo,n’Ko
 nr,ndebele meridional
 nso,sotho septentrional
@@ -349,19 +381,24 @@ oc,occità
 oj,ojibwa
 om,oromo
 or,oriya
-os,osset
+os,osseta
 osa,osage
 ota,turc otomà
 pa,panjabi
 pag,pangasi
 pal,pahlavi
-pam,pampangà
+pam,pampanga
 pap,papiamento
 pau,palauà
+pcd,picard
+pdc,alemany pennsilvanià
 peo,persa antic
+pfl,alemany palatí
 phn,fenici
 pi,pali
 pl,polonès
+pms,piemontès
+pnt,grec pòntic
 pon,ponapeà
 pro,provençal antic
 ps,paixtu
@@ -373,6 +410,7 @@ quc,quitxé
 raj,rajasthani
 rap,rapanui
 rar,rarotongà
+rgn,romanyès
 rm,retoromànic
 rn,rundi
 ro,romanès
@@ -397,6 +435,8 @@ sc,sard
 scn,sicilià
 sco,escocès
 sd,sindhi
+sdc,sard sasserès
+sdh,kurd meridional
 se,sami septentrional
 see,seneca
 seh,sena
@@ -425,7 +465,7 @@ sq,albanès
 sr,serbi
 srn,sranan
 srr,serer
-ss,siswati
+ss,swazi
 ssy,saho
 st,sotho meridional
 su,sundanès
@@ -438,6 +478,7 @@ swb,comorià
 swc,suahili del Congo
 syc,siríac clàssic
 syr,siríac
+szl,silesià
 ta,tàmil
 te,telugu
 tem,temne
@@ -451,11 +492,13 @@ tig,tigre
 tiv,tiv
 tk,turcman
 tkl,tokelauès
-tl,tagàlog
+tkr,tsakhur
+tl,tagal
 tlh,klingonià
 tli,tlingit
-tmh,tamazight
-tn,tswana
+tly,talix
+tmh,amazic
+tn,setswana
 to,tongalès
 tog,tonga
 tpi,tok pisin
@@ -464,6 +507,7 @@ trv,taroko
 ts,tsonga
 tsi,tsimshià
 tt,tàtar
+ttt,tat meridional
 tum,tumbuka
 tvl,tuvaluà
 tw,twi
@@ -481,18 +525,24 @@ ur,urdú
 uz,uzbek
 vai,vai
 ve,venda
+vec,vènet
+vep,vepse
 vi,vietnamita
+vls,flamenc occidental
 vo,volapük
 vot,vòtic
 vun,vunjo
 wa,való
 wae,walser
 wal,ameto
-war,waray-waray
+war,waray
 was,washo
+wbp,warlpiri
 wo,wòlof
+wuu,xinès wu
 xal,calmuc
 xh,xosa
+xmf,mingrelià
 xog,soga
 yao,yao
 yap,yapeà
@@ -504,6 +554,7 @@ yue,cantonès
 za,zhuang
 zap,zapoteca
 zbl,símbols Bliss
+zea,zelandès
 zen,zenaga
 zgh,amazic estàndard marroquí
 zh,xinès

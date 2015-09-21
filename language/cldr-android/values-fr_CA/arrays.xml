@@ -2,7 +2,13 @@
 <resources>
   <!-- Canadian French (fr_CA) -->
   <string-array name="languages_all">
+    <!-- arn - Mapuche -->
+    <item>araukan</item>
     <!-- luo - Luo -->
     <item>luo</item>
+    <!-- mgo - Metaʼ -->
+    <item>Meta’</item>
+    <!-- nds - Low German -->
+    <item>bas allemand</item>
   </string-array>
 </resources>

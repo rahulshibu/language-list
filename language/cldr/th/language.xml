@@ -165,10 +165,6 @@
     <name>อาเซอร์ไบจาน</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>อาเซอร์ไบจานใต้</name>
-  </language>
-  <language>
     <code>ba</code>
     <name>บัชคีร์</name>
   </language>
@@ -231,6 +227,10 @@
   <language>
     <code>bg</code>
     <name>บัลแกเรีย</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>บาลูจิตะวันออก</name>
   </language>
   <language>
     <code>bho</code>
@@ -593,8 +593,16 @@
     <name>สเปน</name>
   </language>
   <language>
+    <code>es_419</code>
+    <name>สเปน - ละตินอเมริกา</name>
+  </language>
+  <language>
     <code>es_ES</code>
-    <name>สเปน (ยุโรป)</name>
+    <name>สเปน - ยุโรป</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>สเปน - เม็กซิโก</name>
   </language>
   <language>
     <code>esu</code>
@@ -659,6 +667,10 @@
   <language>
     <code>fr</code>
     <name>ฝรั่งเศส</name>
+  </language>
+  <language>
+    <code>fr_CA</code>
+    <name>ฝรั่งเศส - แคนาดา</name>
   </language>
   <language>
     <code>fr_CH</code>
@@ -1257,6 +1269,10 @@
     <name>โลซิ</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>ลูรีเหนือ</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>ลิทัวเนีย</name>
   </language>
@@ -1499,6 +1515,10 @@
   <language>
     <code>nds</code>
     <name>เยอรมันต่ำ - แซกซอนต่ำ</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>แซกซอนใต้</name>
   </language>
   <language>
     <code>ne</code>
@@ -1871,6 +1891,10 @@
   <language>
     <code>sdc</code>
     <name>ซาร์ดิเนียซาสซารี</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>เคอร์ดิชใต้</name>
   </language>
   <language>
     <code>se</code>
@@ -2311,6 +2335,10 @@
   <language>
     <code>was</code>
     <name>วาโช</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>วอล์เพอร์รี</name>
   </language>
   <language>
     <code>wo</code>

@@ -153,10 +153,6 @@
     <name>Azerbaijan</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>Azerbaijani Selatan</name>
-  </language>
-  <language>
     <code>ba</code>
     <name>Bashkir</name>
   </language>
@@ -214,7 +210,11 @@
   </language>
   <language>
     <code>bg</code>
-    <name>Bulgar</name>
+    <name>Bulgaria</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>Balochi Barat</name>
   </language>
   <language>
     <code>bho</code>
@@ -429,12 +429,8 @@
     <name>Jerman</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>Jerman Austria</name>
-  </language>
-  <language>
     <code>de_CH</code>
-    <name>Jerman Tinggi Swiss</name>
+    <name>Jerman Tinggi (Swiss)</name>
   </language>
   <language>
     <code>del</code>
@@ -525,22 +521,6 @@
     <name>Inggris</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>Inggris Australia</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>Inggris Kanada</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>Inggris Inggris</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>Inggris Amerika</name>
-  </language>
-  <language>
     <code>enm</code>
     <name>Inggris Abad Pertengahan</name>
   </language>
@@ -558,7 +538,7 @@
   </language>
   <language>
     <code>es_ES</code>
-    <name>Spanyol Eropa</name>
+    <name>Spanyol (Eropa)</name>
   </language>
   <language>
     <code>es_MX</code>
@@ -615,14 +595,6 @@
   <language>
     <code>fr</code>
     <name>Prancis</name>
-  </language>
-  <language>
-    <code>fr_CA</code>
-    <name>Prancis Kanada</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>Prancis Swiss</name>
   </language>
   <language>
     <code>frm</code>
@@ -726,7 +698,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>Jerman Swiss</name>
+    <name>Jerman (Swiss)</name>
   </language>
   <language>
     <code>gu</code>
@@ -826,7 +798,7 @@
   </language>
   <language>
     <code>id</code>
-    <name>Bahasa Indonesia</name>
+    <name>Indonesia</name>
   </language>
   <language>
     <code>ie</code>
@@ -1145,6 +1117,10 @@
     <name>Lozi</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>Luri Utara</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>Lituavi</name>
   </language>
@@ -1334,7 +1310,7 @@
   </language>
   <language>
     <code>my</code>
-    <name>Burma</name>
+    <name>Myanmar</name>
   </language>
   <language>
     <code>mye</code>
@@ -1343,6 +1319,10 @@
   <language>
     <code>myv</code>
     <name>Eryza</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>Mazanderani</name>
   </language>
   <language>
     <code>na</code>
@@ -1391,10 +1371,6 @@
   <language>
     <code>nl</code>
     <name>Belanda</name>
-  </language>
-  <language>
-    <code>nl_BE</code>
-    <name>Flemish</name>
   </language>
   <language>
     <code>nmg</code>
@@ -1553,12 +1529,8 @@
     <name>Portugis</name>
   </language>
   <language>
-    <code>pt_BR</code>
-    <name>Portugis Brasil</name>
-  </language>
-  <language>
     <code>pt_PT</code>
-    <name>Portugis Eropa</name>
+    <name>Portugis (Eropa)</name>
   </language>
   <language>
     <code>qu</code>
@@ -1679,6 +1651,10 @@
   <language>
     <code>sd</code>
     <name>Sindhi</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>Kurdi Selatan</name>
   </language>
   <language>
     <code>se</code>
@@ -2083,6 +2059,10 @@
   <language>
     <code>was</code>
     <name>Washo</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>Warlpiri</name>
   </language>
   <language>
     <code>wo</code>

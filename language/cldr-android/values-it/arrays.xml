@@ -84,8 +84,6 @@
     <item>aymara</item>
     <!-- az - Azerbaijani -->
     <item>azerbaigiano</item>
-    <!-- azb - South Azerbaijani -->
-    <item>azero meridionale</item>
     <!-- ba - Bashkir -->
     <item>baschiro</item>
     <!-- bal - Baluchi -->
@@ -118,6 +116,8 @@
     <item>badaga</item>
     <!-- bg - Bulgarian -->
     <item>bulgaro</item>
+    <!-- bgn - Western Balochi -->
+    <item>beluci occidentale</item>
     <!-- bho - Bhojpuri -->
     <item>bhojpuri</item>
     <!-- bi - Bislama -->
@@ -219,7 +219,7 @@
     <!-- cu - Church Slavic -->
     <item>slavo della Chiesa</item>
     <!-- cv - Chuvash -->
-    <item>chuvash</item>
+    <item>ciuvascio</item>
     <!-- cy - Welsh -->
     <item>gallese</item>
     <!-- da - Danish -->
@@ -407,7 +407,7 @@
     <!-- guz - Gusii -->
     <item>gusii</item>
     <!-- gv - Manx -->
-    <item>manx</item>
+    <item>mannese</item>
     <!-- gwi - Gwichʼin -->
     <item>gwichʼin</item>
     <!-- ha - Hausa -->
@@ -438,7 +438,7 @@
     <item>alto sorabo</item>
     <!-- hsn - Xiang Chinese -->
     <item>xiang</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>haitiano</item>
     <!-- hu - Hungarian -->
     <item>ungherese</item>
@@ -545,7 +545,7 @@
     <!-- kkj - Kako -->
     <item>kako</item>
     <!-- kl - Kalaallisut -->
-    <item>kalaallisut</item>
+    <item>groenlandese</item>
     <!-- kln - Kalenjin -->
     <item>kalenjin</item>
     <!-- km - Khmer -->
@@ -628,6 +628,8 @@
     <item>lolo bantu</item>
     <!-- loz - Lozi -->
     <item>lozi</item>
+    <!-- lrc - Northern Luri -->
+    <item>luri settentrionale</item>
     <!-- lt - Lithuanian -->
     <item>lituano</item>
     <!-- ltg - Latgalian -->
@@ -750,6 +752,8 @@
     <item>ndebele del nord</item>
     <!-- nds - Low German -->
     <item>basso tedesco</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>basso tedesco olandese</item>
     <!-- ne - Nepali -->
     <item>nepalese</item>
     <!-- new - Newari -->
@@ -780,7 +784,7 @@
     <item>norse antico</item>
     <!-- nov - Novial -->
     <item>novial</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>n’ko</item>
     <!-- nr - South Ndebele -->
     <item>ndebele del sud</item>
@@ -934,6 +938,8 @@
     <item>sindhi</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>sassarese</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>curdo meridionale</item>
     <!-- se - Northern Sami -->
     <item>sami del nord</item>
     <!-- see - Seneca -->
@@ -1152,6 +1158,8 @@
     <item>waray</item>
     <!-- was - Washo -->
     <item>washo</item>
+    <!-- wbp - Warlpiri -->
+    <item>warlpiri</item>
     <!-- wo - Wolof -->
     <item>wolof</item>
     <!-- wuu - Wu Chinese -->

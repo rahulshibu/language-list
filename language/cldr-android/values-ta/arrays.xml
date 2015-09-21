@@ -45,7 +45,7 @@
     <!-- ar - Arabic -->
     <item>அரபிக்</item>
     <!-- ar_001 - Modern Standard Arabic -->
-    <item>மாடர்ன் ஸ்டாண்டர்ட் அரபிக்</item>
+    <item>நவீன நிலையான அரபிக்</item>
     <!-- arc - Aramaic -->
     <item>அராமைக்</item>
     <!-- arn - Mapuche -->
@@ -55,7 +55,7 @@
     <!-- arw - Arawak -->
     <item>அராவாக்</item>
     <!-- as - Assamese -->
-    <item>அஸ்ஸாமி</item>
+    <item>அஸ்ஸாமீஸ்</item>
     <!-- asa - Asu -->
     <item>அசு</item>
     <!-- ast - Asturian -->
@@ -69,7 +69,7 @@
     <!-- az - Azerbaijani -->
     <item>அஸர்பைஜானி</item>
     <!-- ba - Bashkir -->
-    <item>பாஷ்கிர்</item>
+    <item>பஷ்கிர்</item>
     <!-- bal - Baluchi -->
     <item>பெலுசி</item>
     <!-- ban - Balinese -->
@@ -88,6 +88,8 @@
     <item>படகா</item>
     <!-- bg - Bulgarian -->
     <item>பல்கேரியன்</item>
+    <!-- bgn - Western Balochi -->
+    <item>மேற்கு பலோச்சி</item>
     <!-- bho - Bhojpuri -->
     <item>போஜ்பூரி</item>
     <!-- bi - Bislama -->
@@ -129,7 +131,7 @@
     <!-- cch - Atsam -->
     <item>ஆட்சம்</item>
     <!-- ce - Chechen -->
-    <item>செசென்</item>
+    <item>செச்சென்</item>
     <!-- ceb - Cebuano -->
     <item>செபுவானோ</item>
     <!-- cgg - Chiga -->
@@ -151,13 +153,13 @@
     <!-- chp - Chipewyan -->
     <item>சிபெவ்யான்</item>
     <!-- chr - Cherokee -->
-    <item>செரொகி</item>
+    <item>செரோகீ</item>
     <!-- chy - Cheyenne -->
     <item>செயேனி</item>
     <!-- ckb - Central Kurdish -->
-    <item>சொரானி குர்திஷ்</item>
+    <item>மத்திய குர்திஷ்</item>
     <!-- co - Corsican -->
-    <item>கோர்சிகன்</item>
+    <item>கார்சிகன்</item>
     <!-- cop - Coptic -->
     <item>காப்டிக்</item>
     <!-- cr - Cree -->
@@ -173,7 +175,7 @@
     <!-- cv - Chuvash -->
     <item>சுவாஷ்</item>
     <!-- cy - Welsh -->
-    <item>வெல்ஷ்</item>
+    <item>வேல்ஷ்</item>
     <!-- da - Danish -->
     <item>டேனிஷ்</item>
     <!-- dak - Dakota -->
@@ -231,9 +233,9 @@
     <!-- en - English -->
     <item>ஆங்கிலம்</item>
     <!-- en_AU - Australian English -->
-    <item>ஆஸ்திரேலியன் ஆங்கிலம்</item>
+    <item>ஆஸ்திரேலிய ஆங்கிலம்</item>
     <!-- en_CA - Canadian English -->
-    <item>கனடியன் ஆங்கிலம்</item>
+    <item>கனடிய ஆங்கிலம்</item>
     <!-- en_GB - British English -->
     <item>பிரிட்டிஷ் ஆங்கிலம்</item>
     <!-- en_US - American English -->
@@ -244,16 +246,12 @@
     <item>எஸ்பரேன்டோ</item>
     <!-- es - Spanish -->
     <item>ஸ்பானிஷ்</item>
-    <!-- es_419 - Latin American Spanish -->
-    <item>லத்தின் அமெரிக்க ஸ்பானிஷ்</item>
     <!-- es_ES - European Spanish -->
-    <item>ஐரோப்பிய ஸ்பானிஷ்</item>
-    <!-- es_MX - Mexican Spanish -->
-    <item>மெக்சிகன் ஸ்பானிஷ்</item>
+    <item>ஸ்பானிஷ் (ஐரோப்பா)</item>
     <!-- et - Estonian -->
     <item>எஸ்டோனியன்</item>
     <!-- eu - Basque -->
-    <item>பஸ்க்</item>
+    <item>பாஸ்க்</item>
     <!-- ewo - Ewondo -->
     <item>எவோன்டோ</item>
     <!-- fa - Persian -->
@@ -291,7 +289,7 @@
     <!-- fur - Friulian -->
     <item>ஃப்ரியூலியன்</item>
     <!-- fy - Western Frisian -->
-    <item>மேற்கத்திய ஃப்ரிஷியன்</item>
+    <item>மேற்கு ஃப்ரிஷியன்</item>
     <!-- ga - Irish -->
     <item>ஐரிஷ்</item>
     <!-- gaa - Ga -->
@@ -327,7 +325,7 @@
     <!-- grc - Ancient Greek -->
     <item>பண்டைய கிரேக்கம்</item>
     <!-- gsw - Swiss German -->
-    <item>ஸ்விஸ் ஜெர்மன்</item>
+    <item>ஜெர்மன் (ஸ்விஸ்)</item>
     <!-- gu - Gujarati -->
     <item>குஜராத்தி</item>
     <!-- guz - Gusii -->
@@ -360,7 +358,7 @@
     <item>குரோஷியன்</item>
     <!-- hsb - Upper Sorbian -->
     <item>அப்பர் சோர்பியான்</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>ஹைத்தியன்</item>
     <!-- hu - Hungarian -->
     <item>ஹங்கேரியன்</item>
@@ -391,7 +389,7 @@
     <!-- io - Ido -->
     <item>இடோ</item>
     <!-- is - Icelandic -->
-    <item>ஐஸ்லென்டிக்</item>
+    <item>ஐஸ்லேண்டிக்</item>
     <!-- it - Italian -->
     <item>இத்தாலியன்</item>
     <!-- iu - Inuktitut -->
@@ -409,7 +407,7 @@
     <!-- jrb - Judeo-Arabic -->
     <item>ஜூதேயோ-அராபிக்</item>
     <!-- jv - Javanese -->
-    <item>ஜாவானீஸ்</item>
+    <item>ஜாவனீஸ்</item>
     <!-- ka - Georgian -->
     <item>ஜார்ஜியன்</item>
     <!-- kaa - Kara-Kalpak -->
@@ -522,6 +520,8 @@
     <item>மோங்கோ</item>
     <!-- loz - Lozi -->
     <item>லோசி</item>
+    <!-- lrc - Northern Luri -->
+    <item>வடக்கு லுரி</item>
     <!-- lt - Lithuanian -->
     <item>லிதுவேனியன்</item>
     <!-- lu - Luba-Katanga -->
@@ -589,7 +589,7 @@
     <!-- mni - Manipuri -->
     <item>மனிபூரி</item>
     <!-- moh - Mohawk -->
-    <item>மோஹாவ்க்</item>
+    <item>மொஹாக்</item>
     <!-- mos - Mossi -->
     <item>மோஸ்ஸி</item>
     <!-- mr - Marathi -->
@@ -609,9 +609,11 @@
     <!-- mwr - Marwari -->
     <item>மார்வாரி</item>
     <!-- my - Burmese -->
-    <item>பர்மிஸ்</item>
+    <item>பர்மீஸ்</item>
     <!-- myv - Erzya -->
     <item>ஏர்ஜியா</item>
+    <!-- mzn - Mazanderani -->
+    <item>மசந்தேரனி</item>
     <!-- na - Nauru -->
     <item>நவ்ரூ</item>
     <!-- nap - Neapolitan -->
@@ -624,6 +626,8 @@
     <item>வடக்கு தெபெலே</item>
     <!-- nds - Low German -->
     <item>லோ ஜெர்மன்</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>லோ சாக்ஸன்</item>
     <!-- ne - Nepali -->
     <item>நேபாளி</item>
     <!-- new - Newari -->
@@ -637,7 +641,7 @@
     <!-- nl - Dutch -->
     <item>டச்சு</item>
     <!-- nl_BE - Flemish -->
-    <item>பிலெமிஷ்</item>
+    <item>ஃப்லெமிஷ்</item>
     <!-- nmg - Kwasio -->
     <item>க்வாசியோ</item>
     <!-- nn - Norwegian Nynorsk -->
@@ -648,7 +652,7 @@
     <item>நோகை</item>
     <!-- non - Old Norse -->
     <item>பழைய நோர்ஸ்</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>என்‘கோ</item>
     <!-- nr - South Ndebele -->
     <item>தெற்கு தெபெலே</item>
@@ -717,7 +721,7 @@
     <!-- pt_BR - Brazilian Portuguese -->
     <item>போர்ச்சுகீஸ் (பிரேசில்)</item>
     <!-- pt_PT - European Portuguese -->
-    <item>ஐரோப்பிய போர்ச்சுகீஸ்</item>
+    <item>போர்ச்சுகீஸ் (ஐரோப்பா)</item>
     <!-- qu - Quechua -->
     <item>கிவேசுவா</item>
     <!-- quc - Kʼicheʼ -->
@@ -776,6 +780,8 @@
     <item>ஸ்காட்ஸ்</item>
     <!-- sd - Sindhi -->
     <item>சிந்தி</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>தெற்கு குர்திஷ்</item>
     <!-- se - Northern Sami -->
     <item>வடக்கு சமி</item>
     <!-- seh - Sena -->
@@ -875,7 +881,7 @@
     <!-- tiv - Tiv -->
     <item>டிவ்</item>
     <!-- tk - Turkmen -->
-    <item>டர்க்மென்</item>
+    <item>துருக்மென்</item>
     <!-- tkl - Tokelau -->
     <item>டோகேலௌ</item>
     <!-- tl - Tagalog -->
@@ -895,7 +901,7 @@
     <!-- tpi - Tok Pisin -->
     <item>டோக் பிஸின்</item>
     <!-- tr - Turkish -->
-    <item>டர்கிஷ்</item>
+    <item>துருக்கிஷ்</item>
     <!-- ts - Tsonga -->
     <item>ஸோங்கா</item>
     <!-- tsi - Tsimshian -->
@@ -915,7 +921,7 @@
     <!-- tyv - Tuvinian -->
     <item>டுவினியன்</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>மத்திய அட்லஸ் தமசைட்</item>
+    <item>மத்திய அட்லஸ் டமசைட்</item>
     <!-- udm - Udmurt -->
     <item>உட்முர்ட்</item>
     <!-- ug - Uyghur -->
@@ -952,6 +958,8 @@
     <item>வாரே</item>
     <!-- was - Washo -->
     <item>வாஷோ</item>
+    <!-- wbp - Warlpiri -->
+    <item>வல்பிரி</item>
     <!-- wo - Wolof -->
     <item>ஒலூஃப்</item>
     <!-- xal - Kalmyk -->

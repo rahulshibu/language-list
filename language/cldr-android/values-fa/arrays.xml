@@ -74,8 +74,8 @@
     <item>آیمارایی</item>
     <!-- az - Azerbaijani -->
     <item>ترکی آذربایجانی</item>
-    <!-- azb - South Azerbaijani -->
-    <item>ترکی آذربایجانی ایران</item>
+    <!-- az_Arab -->
+    <item>ترکی آذری جنوبی</item>
     <!-- ba - Bashkir -->
     <item>باشغیری</item>
     <!-- bal - Baluchi -->
@@ -89,7 +89,7 @@
     <!-- bax - Bamun -->
     <item>بمونی</item>
     <!-- be - Belarusian -->
-    <item>بلوروسی</item>
+    <item>بلاروسی</item>
     <!-- bej - Beja -->
     <item>بجایی</item>
     <!-- bem - Bemba -->
@@ -98,6 +98,8 @@
     <item>بنایی</item>
     <!-- bg - Bulgarian -->
     <item>بلغاری</item>
+    <!-- bgn - Western Balochi -->
+    <item>بلوچی غربی</item>
     <!-- bho - Bhojpuri -->
     <item>بوجپوری</item>
     <!-- bi - Bislama -->
@@ -115,7 +117,7 @@
     <!-- bqi - Bakhtiari -->
     <item>لری بختیاری</item>
     <!-- br - Breton -->
-    <item>برتانیایی</item>
+    <item>برتون</item>
     <!-- bra - Braj -->
     <item>براج</item>
     <!-- brh - Brahui -->
@@ -179,7 +181,7 @@
     <!-- cv - Chuvash -->
     <item>چوواشی</item>
     <!-- cy - Welsh -->
-    <item>ویلزی</item>
+    <item>ولزی</item>
     <!-- da - Danish -->
     <item>دانمارکی</item>
     <!-- dak - Dakota -->
@@ -193,7 +195,7 @@
     <!-- de_AT - Austrian German -->
     <item>آلمانی اتریش</item>
     <!-- de_CH - Swiss High German -->
-    <item>آلمانی علیای سوئیس</item>
+    <item>آلمانی معیار سوئیس</item>
     <!-- del - Delaware -->
     <item>دلاواری</item>
     <!-- dgr - Dogrib -->
@@ -262,6 +264,8 @@
     <item>اواندو</item>
     <!-- fa - Persian -->
     <item>فارسی</item>
+    <!-- fa_AF - Dari -->
+    <item>دری</item>
     <!-- fan - Fang -->
     <item>فانکی</item>
     <!-- fat - Fanti -->
@@ -303,7 +307,7 @@
     <!-- gaa - Ga -->
     <item>گایی</item>
     <!-- gag - Gagauz -->
-    <item>گاگاوز</item>
+    <item>گاگائوزیایی</item>
     <!-- gay - Gayo -->
     <item>گایویی</item>
     <!-- gba - Gbaya -->
@@ -321,7 +325,7 @@
     <!-- glk - Gilaki -->
     <item>گیلکی</item>
     <!-- gmh - Middle High German -->
-    <item>آلمانی علیای میانه</item>
+    <item>آلمانی معیار میانه</item>
     <!-- gn - Guarani -->
     <item>گوارانی</item>
     <!-- goh - Old High German -->
@@ -370,7 +374,7 @@
     <item>کروات</item>
     <!-- hsb - Upper Sorbian -->
     <item>صُربی علیا</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>هائیتیایی</item>
     <!-- hu - Hungarian -->
     <item>مجاری</item>
@@ -457,7 +461,7 @@
     <!-- ki - Kikuyu -->
     <item>کیکویویی</item>
     <!-- kiu - Kirmanjki -->
-    <item>زازاکی</item>
+    <item>کرمانجی</item>
     <!-- kj - Kuanyama -->
     <item>کوانیاما</item>
     <!-- kk - Kazakh -->
@@ -471,7 +475,7 @@
     <!-- kmb - Kimbundu -->
     <item>کیمبوندویی</item>
     <!-- kn - Kannada -->
-    <item>کاناده‌ای</item>
+    <item>کانارا</item>
     <!-- ko - Korean -->
     <item>کره‌ای</item>
     <!-- koi - Komi-Permyak -->
@@ -505,7 +509,7 @@
     <!-- ky - Kyrgyz -->
     <item>قرقیزی</item>
     <!-- la - Latin -->
-    <item>لاتینی</item>
+    <item>لاتین</item>
     <!-- lad - Ladino -->
     <item>لادینو</item>
     <!-- lag - Langi -->
@@ -532,6 +536,8 @@
     <item>مونگویی</item>
     <!-- loz - Lozi -->
     <item>لوزیایی</item>
+    <!-- lrc - Northern Luri -->
+    <item>لری شمالی</item>
     <!-- lt - Lithuanian -->
     <item>لیتوانیایی</item>
     <!-- lu - Luba-Katanga -->
@@ -622,6 +628,8 @@
     <item>برمه‌ای</item>
     <!-- myv - Erzya -->
     <item>ارزیایی</item>
+    <!-- mzn - Mazanderani -->
+    <item>مازندرانی</item>
     <!-- na - Nauru -->
     <item>نائورویی</item>
     <!-- nap - Neapolitan -->
@@ -629,11 +637,13 @@
     <!-- naq - Nama -->
     <item>نامایی</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>بوکسمال نروژی</item>
+    <item>نروژی بوک‌مُل</item>
     <!-- nd - North Ndebele -->
     <item>انده‌بله‌ای شمالی</item>
     <!-- nds - Low German -->
     <item>آلمانی سفلی</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>ساکسونی سفلی</item>
     <!-- ne - Nepali -->
     <item>نپالی</item>
     <!-- new - Newari -->
@@ -651,14 +661,14 @@
     <!-- nmg - Kwasio -->
     <item>کوازیو</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>نرس جدید نروژی</item>
+    <item>نروژی نی‌نُشک</item>
     <!-- no - Norwegian -->
     <item>نروژی</item>
     <!-- nog - Nogai -->
     <item>نغایی</item>
     <!-- non - Old Norse -->
     <item>نرس باستان</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>نکو</item>
     <!-- nr - South Ndebele -->
     <item>انده‌بله‌ای جنوبی</item>
@@ -756,12 +766,14 @@
     <item>ریشه</item>
     <!-- ru - Russian -->
     <item>روسی</item>
+    <!-- rup - Aromanian -->
+    <item>آرومانی</item>
     <!-- rw - Kinyarwanda -->
     <item>کینیارواندایی</item>
     <!-- rwk - Rwa -->
     <item>روایی</item>
     <!-- sa - Sanskrit -->
-    <item>سنسکریت</item>
+    <item>سانسکریت</item>
     <!-- sad - Sandawe -->
     <item>سانداوه‌ای</item>
     <!-- sah - Sakha -->
@@ -775,7 +787,7 @@
     <!-- sat - Santali -->
     <item>سانتالی</item>
     <!-- sbp - Sangu -->
-    <item>سانگو</item>
+    <item>سانگویی</item>
     <!-- sc - Sardinian -->
     <item>ساردینیایی</item>
     <!-- scn - Sicilian -->
@@ -784,6 +796,8 @@
     <item>اسکاتلندی</item>
     <!-- sd - Sindhi -->
     <item>سندی</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>کردی جنوبی</item>
     <!-- se - Northern Sami -->
     <item>سامی شمالی</item>
     <!-- seh - Sena -->
@@ -793,7 +807,7 @@
     <!-- ses - Koyraboro Senni -->
     <item>کویرابورا سنی</item>
     <!-- sg - Sango -->
-    <item>سانگویی</item>
+    <item>سانگو</item>
     <!-- sga - Old Irish -->
     <item>ایرلندی باستان</item>
     <!-- sh - Serbo-Croatian -->
@@ -811,7 +825,9 @@
     <!-- sk - Slovak -->
     <item>اسلواکی</item>
     <!-- sl - Slovenian -->
-    <item>اسلووینیایی</item>
+    <item>اسلوونیایی</item>
+    <!-- sli - Lower Silesian -->
+    <item>سیلزیایی سفلی</item>
     <!-- sm - Samoan -->
     <item>ساموآیی</item>
     <!-- sma - Southern Sami -->
@@ -862,6 +878,8 @@
     <item>سریانی کلاسیک</item>
     <!-- syr - Syriac -->
     <item>سریانی</item>
+    <!-- szl - Silesian -->
+    <item>سیلزیایی</item>
     <!-- ta - Tamil -->
     <item>تامیلی</item>
     <!-- te - Telugu -->
@@ -960,6 +978,8 @@
     <item>وارایی</item>
     <!-- was - Washo -->
     <item>واشویی</item>
+    <!-- wbp - Warlpiri -->
+    <item>وارلپیری</item>
     <!-- wo - Wolof -->
     <item>ولوفی</item>
     <!-- xal - Kalmyk -->

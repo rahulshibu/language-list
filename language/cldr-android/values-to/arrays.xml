@@ -84,8 +84,6 @@
     <item>lea fakaʻaimala</item>
     <!-- az - Azerbaijani -->
     <item>lea fakaʻasapaisani</item>
-    <!-- azb - South Azerbaijani -->
-    <item>lea fakaʻasapaisani-tonga</item>
     <!-- ba - Bashkir -->
     <item>lea fakapasikili</item>
     <!-- bal - Baluchi -->
@@ -118,6 +116,8 @@
     <item>lea fakapataka</item>
     <!-- bg - Bulgarian -->
     <item>lea fakapulukalia</item>
+    <!-- bgn - Western Balochi -->
+    <item>lea fakapalusi-hihifo</item>
     <!-- bho - Bhojpuri -->
     <item>lea fakaposipuli</item>
     <!-- bi - Bislama -->
@@ -201,7 +201,7 @@
     <!-- chy - Cheyenne -->
     <item>lea fakaseiene</item>
     <!-- ckb - Central Kurdish -->
-    <item>lea fakakūtisi-solani</item>
+    <item>lea fakakūtisi-loloto</item>
     <!-- co - Corsican -->
     <item>lea fakakōsika</item>
     <!-- cop - Coptic -->
@@ -425,7 +425,7 @@
     <!-- hi - Hindi -->
     <item>lea fakahinitī</item>
     <!-- hif - Fiji Hindi -->
-    <item>lea fakahihitī-fisi</item>
+    <item>lea fakahinitī-fisi</item>
     <!-- hil - Hiligaynon -->
     <item>lea fakahilikainoni</item>
     <!-- hit - Hittite -->
@@ -440,7 +440,7 @@
     <item>lea fakasōpia-hake</item>
     <!-- hsn - Xiang Chinese -->
     <item>lea fakasiaina-siangi</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>lea fakahaiti</item>
     <!-- hu - Hungarian -->
     <item>lea fakahungakalia</item>
@@ -636,6 +636,8 @@
     <item>lea fakamongikō</item>
     <!-- loz - Lozi -->
     <item>lea fakalosi</item>
+    <!-- lrc - Northern Luri -->
+    <item>lea fakaluli-tokelau</item>
     <!-- lt - Lithuanian -->
     <item>lea fakalituania</item>
     <!-- ltg - Latgalian -->
@@ -723,7 +725,7 @@
     <!-- ms - Malay -->
     <item>lea fakamalei</item>
     <!-- mt - Maltese -->
-    <item>lea fakamolota</item>
+    <item>lea fakamalita</item>
     <!-- mua - Mundang -->
     <item>lea fakamunitangi</item>
     <!-- mul - Multiple Languages -->
@@ -758,6 +760,8 @@
     <item>lea fakanetepele-tokelau</item>
     <!-- nds - Low German -->
     <item>lea fakasiamane-hifo</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>lea fakasakisoni-hifo</item>
     <!-- ne - Nepali -->
     <item>lea fakanepali</item>
     <!-- new - Newari -->
@@ -781,14 +785,14 @@
     <!-- nnh - Ngiemboon -->
     <item>lea fakangiemipōni</item>
     <!-- no - Norwegian -->
-    <item>lea fakanouē</item>
+    <item>lea fakanouaē</item>
     <!-- nog - Nogai -->
     <item>lea fakanokai</item>
     <!-- non - Old Norse -->
     <item>lea fakanoauē-motuʻa</item>
     <!-- nov - Novial -->
     <item>lea fakanoviale</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>lea fakanikō</item>
     <!-- nr - South Ndebele -->
     <item>lea fakanetepele-tonga</item>
@@ -851,7 +855,7 @@
     <!-- pi - Pali -->
     <item>lea fakapāli</item>
     <!-- pl - Polish -->
-    <item>lea fakapōlani</item>
+    <item>lea fakapolani</item>
     <!-- pms - Piedmontese -->
     <item>lea fakapiemonite</item>
     <!-- pnt - Pontic -->
@@ -883,7 +887,7 @@
     <!-- rar - Rarotongan -->
     <item>lea fakalalotonga</item>
     <!-- rgn - Romagnol -->
-    <item>lea fakaromaniolo</item>
+    <item>lea fakalomaniolo</item>
     <!-- rif - Riffian -->
     <item>lea fakalifi</item>
     <!-- rm - Romansh -->
@@ -944,6 +948,8 @@
     <item>lea fakasīniti</item>
     <!-- sdc - Sassarese Sardinian -->
     <item>lea fakasaletīnia-sasalesu</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>lea faka-tonga ‘o Ketesi</item>
     <!-- se - Northern Sami -->
     <item>lea fakasami-tokelau</item>
     <!-- see - Seneca -->
@@ -1009,7 +1015,7 @@
     <!-- srr - Serer -->
     <item>lea fakasēlēle</item>
     <!-- ss - Swati -->
-    <item>lea fakasuasilani</item>
+    <item>lea fakasuati</item>
     <!-- ssy - Saho -->
     <item>lea fakasaho</item>
     <!-- st - Southern Sotho -->
@@ -1059,7 +1065,7 @@
     <!-- ti - Tigrinya -->
     <item>lea fakatikilinia</item>
     <!-- tig - Tigre -->
-    <item>lea fakatikilīnia</item>
+    <item>lea fakatikilē</item>
     <!-- tiv - Tiv -->
     <item>lea fakativi</item>
     <!-- tk - Turkmen -->
@@ -1164,6 +1170,8 @@
     <item>lea fakaʻualai</item>
     <!-- was - Washo -->
     <item>lea fakaʻuasiō</item>
+    <!-- wbp - Warlpiri -->
+    <item>lea fakaʻuālipili</item>
     <!-- wo - Wolof -->
     <item>lea fakaʻuolofo</item>
     <!-- wuu - Wu Chinese -->

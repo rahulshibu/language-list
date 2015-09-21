@@ -14,7 +14,7 @@
   </language>
   <language>
     <code>ach</code>
-    <name>akoli</name>
+    <name>atšoli</name>
   </language>
   <language>
     <code>ada</code>
@@ -27,6 +27,10 @@
   <language>
     <code>ae</code>
     <name>avesta</name>
+  </language>
+  <language>
+    <code>aeb</code>
+    <name>Tuneesia araabia</name>
   </language>
   <language>
     <code>af</code>
@@ -53,8 +57,16 @@
     <name>akadi</name>
   </language>
   <language>
+    <code>akz</code>
+    <name>alabama</name>
+  </language>
+  <language>
     <code>ale</code>
     <name>aleuudi</name>
+  </language>
+  <language>
+    <code>aln</code>
+    <name>geegi</name>
   </language>
   <language>
     <code>alt</code>
@@ -90,15 +102,31 @@
   </language>
   <language>
     <code>arn</code>
-    <name>araukaani</name>
+    <name>mapudunguni</name>
+  </language>
+  <language>
+    <code>aro</code>
+    <name>araona</name>
   </language>
   <language>
     <code>arp</code>
     <name>arapaho</name>
   </language>
   <language>
+    <code>arq</code>
+    <name>Alžeeria araabia</name>
+  </language>
+  <language>
     <code>arw</code>
     <name>aravaki</name>
+  </language>
+  <language>
+    <code>ary</code>
+    <name>Maroko araabia</name>
+  </language>
+  <language>
+    <code>arz</code>
+    <name>Egiptuse araabia</name>
   </language>
   <language>
     <code>as</code>
@@ -106,7 +134,11 @@
   </language>
   <language>
     <code>asa</code>
-    <name>asa</name>
+    <name>asu</name>
+  </language>
+  <language>
+    <code>ase</code>
+    <name>Ameerika viipekeel</name>
   </language>
   <language>
     <code>ast</code>
@@ -141,12 +173,20 @@
     <name>bali</name>
   </language>
   <language>
+    <code>bar</code>
+    <name>baieri</name>
+  </language>
+  <language>
     <code>bas</code>
     <name>basa</name>
   </language>
   <language>
     <code>bax</code>
     <name>bamuni</name>
+  </language>
+  <language>
+    <code>bbc</code>
+    <name>bataki</name>
   </language>
   <language>
     <code>bbj</code>
@@ -165,6 +205,10 @@
     <name>bemba</name>
   </language>
   <language>
+    <code>bew</code>
+    <name>betavi</name>
+  </language>
+  <language>
     <code>bez</code>
     <name>bena</name>
   </language>
@@ -173,8 +217,16 @@
     <name>bafuti</name>
   </language>
   <language>
+    <code>bfq</code>
+    <name>badaga</name>
+  </language>
+  <language>
     <code>bg</code>
     <name>bulgaaria</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>läänebelutši</name>
   </language>
   <language>
     <code>bho</code>
@@ -193,12 +245,16 @@
     <name>edo</name>
   </language>
   <language>
+    <code>bjn</code>
+    <name>bandžari</name>
+  </language>
+  <language>
     <code>bkm</code>
-    <name>itaŋikomi</name>
+    <name>komi (Aafrika)</name>
   </language>
   <language>
     <code>bla</code>
-    <name>siksika</name>
+    <name>mustjalaindiaani</name>
   </language>
   <language>
     <code>bm</code>
@@ -213,12 +269,24 @@
     <name>tiibeti</name>
   </language>
   <language>
+    <code>bpy</code>
+    <name>bišnuprija</name>
+  </language>
+  <language>
+    <code>bqi</code>
+    <name>bahtiari</name>
+  </language>
+  <language>
     <code>br</code>
     <name>bretooni</name>
   </language>
   <language>
     <code>bra</code>
     <name>bradži</name>
+  </language>
+  <language>
+    <code>brh</code>
+    <name>brahui</name>
   </language>
   <language>
     <code>brx</code>
@@ -266,7 +334,7 @@
   </language>
   <language>
     <code>cay</code>
-    <name>cayuga</name>
+    <name>kajuka</name>
   </language>
   <language>
     <code>cch</code>
@@ -282,7 +350,7 @@
   </language>
   <language>
     <code>cgg</code>
-    <name>chiga</name>
+    <name>tšiga</name>
   </language>
   <language>
     <code>ch</code>
@@ -326,7 +394,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>sorani kurdi</name>
+    <name>sorani</name>
   </language>
   <language>
     <code>co</code>
@@ -335,6 +403,10 @@
   <language>
     <code>cop</code>
     <name>kopti</name>
+  </language>
+  <language>
+    <code>cps</code>
+    <name>kapisnoni</name>
   </language>
   <language>
     <code>cr</code>
@@ -378,15 +450,19 @@
   </language>
   <language>
     <code>dav</code>
-    <name>taita</name>
+    <name>davida</name>
   </language>
   <language>
     <code>de</code>
     <name>saksa</name>
   </language>
   <language>
+    <code>de_AT</code>
+    <name>Austria saksa</name>
+  </language>
+  <language>
     <code>de_CH</code>
-    <name>saksa (kõrgsaksa)</name>
+    <name>Šveitsi ülemsaksa</name>
   </language>
   <language>
     <code>del</code>
@@ -417,6 +493,10 @@
     <name>alamsorbi</name>
   </language>
   <language>
+    <code>dtp</code>
+    <name>keskdusuni</name>
+  </language>
+  <language>
     <code>dua</code>
     <name>duala</name>
   </language>
@@ -430,7 +510,7 @@
   </language>
   <language>
     <code>dyo</code>
-    <name>jola-fonyi</name>
+    <name>fonji</name>
   </language>
   <language>
     <code>dyu</code>
@@ -442,7 +522,7 @@
   </language>
   <language>
     <code>dzg</code>
-    <name>dazaga</name>
+    <name>daza</name>
   </language>
   <language>
     <code>ebu</code>
@@ -457,8 +537,12 @@
     <name>efiki</name>
   </language>
   <language>
+    <code>egl</code>
+    <name>emiilia</name>
+  </language>
+  <language>
     <code>egy</code>
-    <name>muinasegiptuse</name>
+    <name>egiptuse</name>
   </language>
   <language>
     <code>eka</code>
@@ -477,12 +561,20 @@
     <name>inglise</name>
   </language>
   <language>
+    <code>en_AU</code>
+    <name>Austraalia inglise</name>
+  </language>
+  <language>
+    <code>en_CA</code>
+    <name>Kanada inglise</name>
+  </language>
+  <language>
     <code>en_GB</code>
-    <name>inglise (Briti)</name>
+    <name>Briti inglise</name>
   </language>
   <language>
     <code>en_US</code>
-    <name>inglise (USA)</name>
+    <name>Ameerika inglise</name>
   </language>
   <language>
     <code>enm</code>
@@ -497,8 +589,20 @@
     <name>hispaania</name>
   </language>
   <language>
+    <code>es_419</code>
+    <name>Ladina-Ameerika hispaania</name>
+  </language>
+  <language>
     <code>es_ES</code>
-    <name>hispaania (Euroopa)</name>
+    <name>Euroopa hispaania</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>Mehhiko hispaania</name>
+  </language>
+  <language>
+    <code>esu</code>
+    <name>keskjupiki</name>
   </language>
   <language>
     <code>et</code>
@@ -511,6 +615,10 @@
   <language>
     <code>ewo</code>
     <name>evondo</name>
+  </language>
+  <language>
+    <code>ext</code>
+    <name>estremenju</name>
   </language>
   <language>
     <code>fa</code>
@@ -526,7 +634,7 @@
   </language>
   <language>
     <code>ff</code>
-    <name>fulbe</name>
+    <name>fula</name>
   </language>
   <language>
     <code>fi</code>
@@ -534,7 +642,11 @@
   </language>
   <language>
     <code>fil</code>
-    <name>filipino</name>
+    <name>filipiini</name>
+  </language>
+  <language>
+    <code>fit</code>
+    <name>meä</name>
   </language>
   <language>
     <code>fj</code>
@@ -553,12 +665,28 @@
     <name>prantsuse</name>
   </language>
   <language>
+    <code>fr_CA</code>
+    <name>Kanada prantsuse</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>Šveitsi prantsuse</name>
+  </language>
+  <language>
+    <code>frc</code>
+    <name>cajun’i</name>
+  </language>
+  <language>
     <code>frm</code>
     <name>keskprantsuse</name>
   </language>
   <language>
     <code>fro</code>
     <name>vanaprantsuse</name>
+  </language>
+  <language>
+    <code>frp</code>
+    <name>frankoprovansi</name>
   </language>
   <language>
     <code>frr</code>
@@ -589,6 +717,10 @@
     <name>gagauusi</name>
   </language>
   <language>
+    <code>gan</code>
+    <name>kani</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>gajo</name>
   </language>
@@ -611,6 +743,10 @@
   <language>
     <code>gl</code>
     <name>galeegi</name>
+  </language>
+  <language>
+    <code>glk</code>
+    <name>gilaki</name>
   </language>
   <language>
     <code>gmh</code>
@@ -653,6 +789,14 @@
     <name>gudžarati</name>
   </language>
   <language>
+    <code>guc</code>
+    <name>vajuu</name>
+  </language>
+  <language>
+    <code>gur</code>
+    <name>farefare</name>
+  </language>
+  <language>
     <code>guz</code>
     <name>gusii</name>
   </language>
@@ -685,6 +829,10 @@
     <name>hindi</name>
   </language>
   <language>
+    <code>hif</code>
+    <name>Fidži hindi</name>
+  </language>
+  <language>
     <code>hil</code>
     <name>hiligainoni</name>
   </language>
@@ -698,7 +846,7 @@
   </language>
   <language>
     <code>ho</code>
-    <name>motu</name>
+    <name>hirimotu</name>
   </language>
   <language>
     <code>hr</code>
@@ -707,6 +855,10 @@
   <language>
     <code>hsb</code>
     <name>ülemsorbi</name>
+  </language>
+  <language>
+    <code>hsn</code>
+    <name>sjangi</name>
   </language>
   <language>
     <code>ht</code>
@@ -754,7 +906,7 @@
   </language>
   <language>
     <code>ii</code>
-    <name>sichuani jii</name>
+    <name>Sichuani jii</name>
   </language>
   <language>
     <code>ik</code>
@@ -785,12 +937,20 @@
     <name>inuktituti</name>
   </language>
   <language>
+    <code>izh</code>
+    <name>isuri</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>jaapani</name>
   </language>
   <language>
+    <code>jam</code>
+    <name>Jamaica kreoolkeel</name>
+  </language>
+  <language>
     <code>jbo</code>
-    <name>lojbani</name>
+    <name>ložban</name>
   </language>
   <language>
     <code>jgo</code>
@@ -798,7 +958,7 @@
   </language>
   <language>
     <code>jmc</code>
-    <name>machame</name>
+    <name>matšame</name>
   </language>
   <language>
     <code>jpr</code>
@@ -807,6 +967,10 @@
   <language>
     <code>jrb</code>
     <name>juudiaraabia</name>
+  </language>
+  <language>
+    <code>jut</code>
+    <name>jüüti</name>
   </language>
   <language>
     <code>jv</code>
@@ -850,7 +1014,7 @@
   </language>
   <language>
     <code>kcg</code>
-    <name>tyapi</name>
+    <name>tjapi</name>
   </language>
   <language>
     <code>kde</code>
@@ -869,24 +1033,36 @@
     <name>kongo</name>
   </language>
   <language>
+    <code>kgp</code>
+    <name>kaingangi</name>
+  </language>
+  <language>
     <code>kha</code>
     <name>khasi</name>
   </language>
   <language>
     <code>kho</code>
-    <name>saki</name>
+    <name>saka</name>
   </language>
   <language>
     <code>khq</code>
     <name>koyra chiini</name>
   </language>
   <language>
+    <code>khw</code>
+    <name>khovari</name>
+  </language>
+  <language>
     <code>ki</code>
     <name>kikuju</name>
   </language>
   <language>
+    <code>kiu</code>
+    <name>kõrmandžki</name>
+  </language>
+  <language>
     <code>kj</code>
-    <name>ambo</name>
+    <name>kvanjama</name>
   </language>
   <language>
     <code>kk</code>
@@ -902,7 +1078,7 @@
   </language>
   <language>
     <code>kln</code>
-    <name>kaljenjin</name>
+    <name>kalendžini</name>
   </language>
   <language>
     <code>km</code>
@@ -945,12 +1121,20 @@
     <name>karatšai-balkaari</name>
   </language>
   <language>
+    <code>kri</code>
+    <name>krio</name>
+  </language>
+  <language>
+    <code>krj</code>
+    <name>kinaraia</name>
+  </language>
+  <language>
     <code>krl</code>
     <name>karjala</name>
   </language>
   <language>
     <code>kru</code>
-    <name>oraoni</name>
+    <name>kuruhhi</name>
   </language>
   <language>
     <code>ks</code>
@@ -958,7 +1142,7 @@
   </language>
   <language>
     <code>ksb</code>
-    <name>shambala</name>
+    <name>šambala</name>
   </language>
   <language>
     <code>ksf</code>
@@ -966,7 +1150,7 @@
   </language>
   <language>
     <code>ksh</code>
-    <name>cologniani</name>
+    <name>kölni</name>
   </language>
   <language>
     <code>ku</code>
@@ -1029,8 +1213,20 @@
     <name>limburgi</name>
   </language>
   <language>
+    <code>lij</code>
+    <name>liguuri</name>
+  </language>
+  <language>
+    <code>liv</code>
+    <name>liivi</name>
+  </language>
+  <language>
     <code>lkt</code>
     <name>lakota</name>
+  </language>
+  <language>
+    <code>lmo</code>
+    <name>lombardi</name>
   </language>
   <language>
     <code>ln</code>
@@ -1049,8 +1245,16 @@
     <name>lozi</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>põhjaluri</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>leedu</name>
+  </language>
+  <language>
+    <code>ltg</code>
+    <name>latgali</name>
   </language>
   <language>
     <code>lu</code>
@@ -1058,7 +1262,7 @@
   </language>
   <language>
     <code>lua</code>
-    <name>luba-lulua</name>
+    <name>lulua</name>
   </language>
   <language>
     <code>lui</code>
@@ -1078,11 +1282,19 @@
   </language>
   <language>
     <code>luy</code>
-    <name>luyia</name>
+    <name>luhja</name>
   </language>
   <language>
     <code>lv</code>
     <name>läti</name>
+  </language>
+  <language>
+    <code>lzh</code>
+    <name>klassikaline hiina</name>
+  </language>
+  <language>
+    <code>lzz</code>
+    <name>lazi</name>
   </language>
   <language>
     <code>mad</code>
@@ -1094,7 +1306,7 @@
   </language>
   <language>
     <code>mag</code>
-    <name>magali</name>
+    <name>magahi</name>
   </language>
   <language>
     <code>mai</code>
@@ -1150,7 +1362,7 @@
   </language>
   <language>
     <code>mgo</code>
-    <name>meta’</name>
+    <name>meta</name>
   </language>
   <language>
     <code>mh</code>
@@ -1201,6 +1413,10 @@
     <name>marathi</name>
   </language>
   <language>
+    <code>mrj</code>
+    <name>mäemari</name>
+  </language>
+  <language>
     <code>ms</code>
     <name>malai</name>
   </language>
@@ -1229,20 +1445,32 @@
     <name>marvari</name>
   </language>
   <language>
+    <code>mwv</code>
+    <name>mentavei</name>
+  </language>
+  <language>
     <code>my</code>
     <name>birma</name>
   </language>
   <language>
     <code>mye</code>
-    <name>myene</name>
+    <name>mjene</name>
   </language>
   <language>
     <code>myv</code>
     <name>ersa</name>
   </language>
   <language>
+    <code>mzn</code>
+    <name>mazandaraani</name>
+  </language>
+  <language>
     <code>na</code>
     <name>nauru</name>
+  </language>
+  <language>
+    <code>nan</code>
+    <name>lõunamini</name>
   </language>
   <language>
     <code>nap</code>
@@ -1265,6 +1493,10 @@
     <name>alamsaksa</name>
   </language>
   <language>
+    <code>nds_NL</code>
+    <name>Hollandi alamsaksa</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>nepali</name>
   </language>
@@ -1285,6 +1517,10 @@
     <name>niue</name>
   </language>
   <language>
+    <code>njo</code>
+    <name>ao</name>
+  </language>
+  <language>
     <code>nl</code>
     <name>hollandi</name>
   </language>
@@ -1298,7 +1534,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>norra nynorsk</name>
+    <name>uusnorra</name>
   </language>
   <language>
     <code>nnh</code>
@@ -1315,6 +1551,10 @@
   <language>
     <code>non</code>
     <name>vanapõhjala</name>
+  </language>
+  <language>
+    <code>nov</code>
+    <name>noviaal</name>
   </language>
   <language>
     <code>nqo</code>
@@ -1413,8 +1653,24 @@
     <name>belau</name>
   </language>
   <language>
+    <code>pcd</code>
+    <name>pikardi</name>
+  </language>
+  <language>
+    <code>pdc</code>
+    <name>Pennsylvania saksa</name>
+  </language>
+  <language>
+    <code>pdt</code>
+    <name>mennoniidisaksa</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>vanapärsia</name>
+  </language>
+  <language>
+    <code>pfl</code>
+    <name>Pfalzi</name>
   </language>
   <language>
     <code>phn</code>
@@ -1429,8 +1685,20 @@
     <name>poola</name>
   </language>
   <language>
+    <code>pms</code>
+    <name>piemonte</name>
+  </language>
+  <language>
+    <code>pnt</code>
+    <name>pontose</name>
+  </language>
+  <language>
     <code>pon</code>
     <name>poonpei</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>preisi</name>
   </language>
   <language>
     <code>pro</code>
@@ -1445,8 +1713,12 @@
     <name>portugali</name>
   </language>
   <language>
+    <code>pt_BR</code>
+    <name>Brasiilia portugali</name>
+  </language>
+  <language>
     <code>pt_PT</code>
-    <name>portugali (Euroopa)</name>
+    <name>Euroopa portugali</name>
   </language>
   <language>
     <code>qu</code>
@@ -1454,7 +1726,7 @@
   </language>
   <language>
     <code>quc</code>
-    <name>k’iche’</name>
+    <name>kitše</name>
   </language>
   <language>
     <code>raj</code>
@@ -1469,8 +1741,16 @@
     <name>rarotonga</name>
   </language>
   <language>
+    <code>rgn</code>
+    <name>romanja</name>
+  </language>
+  <language>
+    <code>rif</code>
+    <name>riifi</name>
+  </language>
+  <language>
     <code>rm</code>
-    <name>retoromaani</name>
+    <name>romanši</name>
   </language>
   <language>
     <code>rn</code>
@@ -1497,8 +1777,20 @@
     <name>root</name>
   </language>
   <language>
+    <code>rtm</code>
+    <name>rotuma</name>
+  </language>
+  <language>
     <code>ru</code>
     <name>vene</name>
+  </language>
+  <language>
+    <code>rue</code>
+    <name>russiini</name>
+  </language>
+  <language>
+    <code>rug</code>
+    <name>roviana</name>
   </language>
   <language>
     <code>rup</code>
@@ -1510,7 +1802,7 @@
   </language>
   <language>
     <code>rwk</code>
-    <name>rwa</name>
+    <name>rvaa</name>
   </language>
   <language>
     <code>sa</code>
@@ -1526,7 +1818,7 @@
   </language>
   <language>
     <code>sam</code>
-    <name>samaaria aramea</name>
+    <name>Samaaria aramea</name>
   </language>
   <language>
     <code>saq</code>
@@ -1541,8 +1833,12 @@
     <name>santali</name>
   </language>
   <language>
+    <code>saz</code>
+    <name>sauraštra</name>
+  </language>
+  <language>
     <code>sba</code>
-    <name>ngembay</name>
+    <name>ngambai</name>
   </language>
   <language>
     <code>sbp</code>
@@ -1550,7 +1846,7 @@
   </language>
   <language>
     <code>sc</code>
-    <name>sardiinia</name>
+    <name>sardi</name>
   </language>
   <language>
     <code>scn</code>
@@ -1565,16 +1861,24 @@
     <name>sindhi</name>
   </language>
   <language>
+    <code>sdh</code>
+    <name>lõunakurdi</name>
+  </language>
+  <language>
     <code>se</code>
     <name>põhjasaami</name>
   </language>
   <language>
     <code>see</code>
-    <name>seneca</name>
+    <name>seneka</name>
   </language>
   <language>
     <code>seh</code>
     <name>sena</name>
+  </language>
+  <language>
+    <code>sei</code>
+    <name>seri</name>
   </language>
   <language>
     <code>sel</code>
@@ -1593,12 +1897,16 @@
     <name>vanaiiri</name>
   </language>
   <language>
+    <code>sgs</code>
+    <name>žemaidi</name>
+  </language>
+  <language>
     <code>sh</code>
     <name>serbia-horvaadi</name>
   </language>
   <language>
     <code>shi</code>
-    <name>tachelhiti</name>
+    <name>šilha</name>
   </language>
   <language>
     <code>shn</code>
@@ -1625,6 +1933,14 @@
     <name>sloveeni</name>
   </language>
   <language>
+    <code>sli</code>
+    <name>alamsileesia</name>
+  </language>
+  <language>
+    <code>sly</code>
+    <name>selajari</name>
+  </language>
+  <language>
     <code>sm</code>
     <name>samoa</name>
   </language>
@@ -1634,11 +1950,11 @@
   </language>
   <language>
     <code>smj</code>
-    <name>lule saami</name>
+    <name>Lule saami</name>
   </language>
   <language>
     <code>smn</code>
-    <name>inari saami</name>
+    <name>Inari saami</name>
   </language>
   <language>
     <code>sms</code>
@@ -1689,6 +2005,10 @@
     <name>lõunasotho</name>
   </language>
   <language>
+    <code>stq</code>
+    <name>saterfriisi</name>
+  </language>
+  <language>
     <code>su</code>
     <name>sunda</name>
   </language>
@@ -1722,15 +2042,23 @@
   </language>
   <language>
     <code>syc</code>
-    <name>klassikaline süüria</name>
+    <name>vanasüüria</name>
   </language>
   <language>
     <code>syr</code>
     <name>süüria</name>
   </language>
   <language>
+    <code>szl</code>
+    <name>sileesia</name>
+  </language>
+  <language>
     <code>ta</code>
     <name>tamili</name>
+  </language>
+  <language>
+    <code>tcy</code>
+    <name>tulu</name>
   </language>
   <language>
     <code>te</code>
@@ -1781,6 +2109,10 @@
     <name>tokelau</name>
   </language>
   <language>
+    <code>tkr</code>
+    <name>tsahhi</name>
+  </language>
+  <language>
     <code>tl</code>
     <name>tagalogi</name>
   </language>
@@ -1791,6 +2123,10 @@
   <language>
     <code>tli</code>
     <name>tlingiti</name>
+  </language>
+  <language>
+    <code>tly</code>
+    <name>talõši</name>
   </language>
   <language>
     <code>tmh</code>
@@ -1817,6 +2153,10 @@
     <name>türgi</name>
   </language>
   <language>
+    <code>tru</code>
+    <name>turojo</name>
+  </language>
+  <language>
     <code>trv</code>
     <name>taroko</name>
   </language>
@@ -1825,12 +2165,20 @@
     <name>tsonga</name>
   </language>
   <language>
+    <code>tsd</code>
+    <name>tsakoonia</name>
+  </language>
+  <language>
     <code>tsi</code>
     <name>tšimši</name>
   </language>
   <language>
     <code>tt</code>
     <name>tatari</name>
+  </language>
+  <language>
+    <code>ttt</code>
+    <name>lõunataadi</name>
   </language>
   <language>
     <code>tum</code>
@@ -1858,7 +2206,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>Kesk-Maroko tamazighti</name>
+    <name>tamasikti</name>
   </language>
   <language>
     <code>udm</code>
@@ -1882,7 +2230,7 @@
   </language>
   <language>
     <code>und</code>
-    <name>määramata</name>
+    <name>määramata keel</name>
   </language>
   <language>
     <code>ur</code>
@@ -1901,8 +2249,24 @@
     <name>venda</name>
   </language>
   <language>
+    <code>vec</code>
+    <name>veneti</name>
+  </language>
+  <language>
+    <code>vep</code>
+    <name>vepsa</name>
+  </language>
+  <language>
     <code>vi</code>
     <name>vietnami</name>
+  </language>
+  <language>
+    <code>vls</code>
+    <name>lääneflaami</name>
+  </language>
+  <language>
+    <code>vmf</code>
+    <name>Maini frangi</name>
   </language>
   <language>
     <code>vo</code>
@@ -1913,8 +2277,12 @@
     <name>vadja</name>
   </language>
   <language>
+    <code>vro</code>
+    <name>võru</name>
+  </language>
+  <language>
     <code>vun</code>
-    <name>vunjo</name>
+    <name>vundžo</name>
   </language>
   <language>
     <code>wa</code>
@@ -1926,7 +2294,7 @@
   </language>
   <language>
     <code>wal</code>
-    <name>volamo</name>
+    <name>volaita</name>
   </language>
   <language>
     <code>war</code>
@@ -1937,8 +2305,16 @@
     <name>vašo</name>
   </language>
   <language>
+    <code>wbp</code>
+    <name>varlpiri</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>volofi</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>uu</name>
   </language>
   <language>
     <code>xal</code>
@@ -1947,6 +2323,10 @@
   <language>
     <code>xh</code>
     <name>koosa</name>
+  </language>
+  <language>
+    <code>xmf</code>
+    <name>megreli</name>
   </language>
   <language>
     <code>xog</code>
@@ -1966,7 +2346,7 @@
   </language>
   <language>
     <code>ybb</code>
-    <name>yemba</name>
+    <name>jemba</name>
   </language>
   <language>
     <code>yi</code>
@@ -1975,6 +2355,10 @@
   <language>
     <code>yo</code>
     <name>joruba</name>
+  </language>
+  <language>
+    <code>yrl</code>
+    <name>njengatu</name>
   </language>
   <language>
     <code>yue</code>
@@ -1990,7 +2374,11 @@
   </language>
   <language>
     <code>zbl</code>
-    <name>blissümbolid</name>
+    <name>Blissi sümbolid</name>
+  </language>
+  <language>
+    <code>zea</code>
+    <name>zeelandi</name>
   </language>
   <language>
     <code>zen</code>

@@ -78,8 +78,6 @@
     <item>Aymara</item>
     <!-- az - Azerbaijani -->
     <item>Azerbaijan</item>
-    <!-- azb - South Azerbaijani -->
-    <item>Azerbaijani Selatan</item>
     <!-- ba - Bashkir -->
     <item>Bashkir</item>
     <!-- bal - Baluchi -->
@@ -109,7 +107,9 @@
     <!-- bfd - Bafut -->
     <item>Bafut</item>
     <!-- bg - Bulgarian -->
-    <item>Bulgar</item>
+    <item>Bulgaria</item>
+    <!-- bgn - Western Balochi -->
+    <item>Balochi Barat</item>
     <!-- bho - Bhojpuri -->
     <item>Bhojpuri</item>
     <!-- bi - Bislama -->
@@ -216,10 +216,8 @@
     <item>Taita</item>
     <!-- de - German -->
     <item>Jerman</item>
-    <!-- de_AT - Austrian German -->
-    <item>Jerman Austria</item>
     <!-- de_CH - Swiss High German -->
-    <item>Jerman Tinggi Swiss</item>
+    <item>Jerman Tinggi (Swiss)</item>
     <!-- del - Delaware -->
     <item>Delaware</item>
     <!-- den - Slave -->
@@ -264,14 +262,6 @@
     <item>Elam</item>
     <!-- en - English -->
     <item>Inggris</item>
-    <!-- en_AU - Australian English -->
-    <item>Inggris Australia</item>
-    <!-- en_CA - Canadian English -->
-    <item>Inggris Kanada</item>
-    <!-- en_GB - British English -->
-    <item>Inggris Inggris</item>
-    <!-- en_US - American English -->
-    <item>Inggris Amerika</item>
     <!-- enm - Middle English -->
     <item>Inggris Abad Pertengahan</item>
     <!-- eo - Esperanto -->
@@ -281,7 +271,7 @@
     <!-- es_419 - Latin American Spanish -->
     <item>Spanyol Amerika Latin</item>
     <!-- es_ES - European Spanish -->
-    <item>Spanyol Eropa</item>
+    <item>Spanyol (Eropa)</item>
     <!-- es_MX - Mexican Spanish -->
     <item>Spanyol Meksiko</item>
     <!-- et - Estonian -->
@@ -310,10 +300,6 @@
     <item>Fon</item>
     <!-- fr - French -->
     <item>Prancis</item>
-    <!-- fr_CA - Canadian French -->
-    <item>Prancis Kanada</item>
-    <!-- fr_CH - Swiss French -->
-    <item>Prancis Swiss</item>
     <!-- frm - Middle French -->
     <item>Prancis Abad Pertengahan</item>
     <!-- fro - Old French -->
@@ -365,7 +351,7 @@
     <!-- grc - Ancient Greek -->
     <item>Yunani Kuno</item>
     <!-- gsw - Swiss German -->
-    <item>Jerman Swiss</item>
+    <item>Jerman (Swiss)</item>
     <!-- gu - Gujarati -->
     <item>Gujarati</item>
     <!-- guz - Gusii -->
@@ -398,7 +384,7 @@
     <item>Kroasia</item>
     <!-- hsb - Upper Sorbian -->
     <item>Sorbia Atas</item>
-    <!-- ht - Haitian -->
+    <!-- ht - Haitian Creole -->
     <item>Haiti</item>
     <!-- hu - Hungarian -->
     <item>Hungaria</item>
@@ -415,7 +401,7 @@
     <!-- ibb - Ibibio -->
     <item>Ibibio</item>
     <!-- id - Indonesian -->
-    <item>Bahasa Indonesia</item>
+    <item>Indonesia</item>
     <!-- ie - Interlingue -->
     <item>Interlingue</item>
     <!-- ig - Igbo -->
@@ -574,6 +560,8 @@
     <item>Mongo</item>
     <!-- loz - Lozi -->
     <item>Lozi</item>
+    <!-- lrc - Northern Luri -->
+    <item>Luri Utara</item>
     <!-- lt - Lithuanian -->
     <item>Lituavi</item>
     <!-- lu - Luba-Katanga -->
@@ -669,11 +657,13 @@
     <!-- mwv - Mentawai -->
     <item>Mentawai</item>
     <!-- my - Burmese -->
-    <item>Burma</item>
+    <item>Myanmar</item>
     <!-- mye - Myene -->
     <item>Myene</item>
     <!-- myv - Erzya -->
     <item>Eryza</item>
+    <!-- mzn - Mazanderani -->
+    <item>Mazanderani</item>
     <!-- na - Nauru -->
     <item>Nauru</item>
     <!-- nap - Neapolitan -->
@@ -698,8 +688,6 @@
     <item>Niuea</item>
     <!-- nl - Dutch -->
     <item>Belanda</item>
-    <!-- nl_BE - Flemish -->
-    <item>Flemish</item>
     <!-- nmg - Kwasio -->
     <item>Kwasio</item>
     <!-- nn - Norwegian Nynorsk -->
@@ -712,7 +700,7 @@
     <item>Nogai</item>
     <!-- non - Old Norse -->
     <item>Norse Kuno</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>N’Ko</item>
     <!-- nr - South Ndebele -->
     <item>Ndebele Selatan</item>
@@ -778,10 +766,8 @@
     <item>Pashto</item>
     <!-- pt - Portuguese -->
     <item>Portugis</item>
-    <!-- pt_BR - Brazilian Portuguese -->
-    <item>Portugis Brasil</item>
     <!-- pt_PT - European Portuguese -->
-    <item>Portugis Eropa</item>
+    <item>Portugis (Eropa)</item>
     <!-- qu - Quechua -->
     <item>Quechua</item>
     <!-- quc - Kʼicheʼ -->
@@ -842,6 +828,8 @@
     <item>Skotlandia</item>
     <!-- sd - Sindhi -->
     <item>Sindhi</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>Kurdi Selatan</item>
     <!-- se - Northern Sami -->
     <item>Sami Utara</item>
     <!-- see - Seneca -->
@@ -1044,6 +1032,8 @@
     <item>Warai</item>
     <!-- was - Washo -->
     <item>Washo</item>
+    <!-- wbp - Warlpiri -->
+    <item>Warlpiri</item>
     <!-- wo - Wolof -->
     <item>Wolof</item>
     <!-- xal - Kalmyk -->

@@ -90,6 +90,8 @@
     <item>ບາຟັດ</item>
     <!-- bg - Bulgarian -->
     <item>ບັງກາຣຽນ</item>
+    <!-- bgn - Western Balochi -->
+    <item>ບາໂລຈີ ພາກຕາເວັນຕົກ</item>
     <!-- bho - Bhojpuri -->
     <item>ໂບພູຣິ</item>
     <!-- bi - Bislama -->
@@ -195,7 +197,7 @@
     <!-- de - German -->
     <item>ເຢຍລະມັນ</item>
     <!-- de_AT - Austrian German -->
-    <item>ອອສຕຣຽນ ເຈີແມນ</item>
+    <item>ເຢຍລະມັນ (ໂອສຕຣິດ)</item>
     <!-- de_CH - Swiss High German -->
     <item>ສະວິສ ໄຮ ເຈີແມນ</item>
     <!-- del - Delaware -->
@@ -243,9 +245,7 @@
     <!-- en - English -->
     <item>ອັງກິດ</item>
     <!-- en_AU - Australian English -->
-    <item>ອັງກິດ (ອອສເຕຣລຽນ)</item>
-    <!-- en_CA - Canadian English -->
-    <item>ອັງກິດ (ເຄເນດຽນ)</item>
+    <item>ອັງກິດ (ໂອດສະຕາລີ)</item>
     <!-- en_GB - British English -->
     <item>ອັງກິດ (ບຣິດທິຊ)</item>
     <!-- en_US - American English -->
@@ -253,13 +253,13 @@
     <!-- enm - Middle English -->
     <item>ອັງກິດກາງ</item>
     <!-- eo - Esperanto -->
-    <item>ເອສເປີຣັນໂຕ</item>
+    <item>ເອສປາຍ</item>
     <!-- es - Spanish -->
     <item>ສະແປນນິຊ</item>
     <!-- es_419 - Latin American Spanish -->
     <item>ລາຕິນ ອາເມຣິກັນ ສະແປນນິຊ</item>
     <!-- es_ES - European Spanish -->
-    <item>ຢູໂຣປຽນ ສະແປນນິຊ</item>
+    <item>ສະເປັນ ຢຸໂຣບ</item>
     <!-- es_MX - Mexican Spanish -->
     <item>ເມັກຊິກັນ ສະແປນນິຊ</item>
     <!-- et - Estonian -->
@@ -289,9 +289,7 @@
     <!-- fr - French -->
     <item>ຝຣັ່ງ</item>
     <!-- fr_CA - Canadian French -->
-    <item>ເຄເນດຽນ ຝຣັ່ງ</item>
-    <!-- fr_CH - Swiss French -->
-    <item>ສະວິສ ຝຣັ່ງ</item>
+    <item>ຟລັງ(ການາດາ)</item>
     <!-- frm - Middle French -->
     <item>ຟຮັ່ງເສດກາງ</item>
     <!-- fro - Old French -->
@@ -303,7 +301,7 @@
     <!-- fur - Friulian -->
     <item>ຟຣີລຽນ</item>
     <!-- fy - Western Frisian -->
-    <item>ເວສເທີນ ຟຣິຊຽນ</item>
+    <item>ຟຣິຊຽນ ຕາເວັນຕົກ</item>
     <!-- ga - Irish -->
     <item>ໄອຣິສ</item>
     <!-- gaa - Ga -->
@@ -369,8 +367,8 @@
     <!-- hr - Croatian -->
     <item>ໂຄຣເອທຽນ</item>
     <!-- hsb - Upper Sorbian -->
-    <item>ຊຸບເປີຊໍບຽນ</item>
-    <!-- ht - Haitian -->
+    <item>ຊໍບຽນ ທາງຕອນເໜືອ</item>
+    <!-- ht - Haitian Creole -->
     <item>ໄຮຕຽນ</item>
     <!-- hu - Hungarian -->
     <item>ຮັງກາຣຽນ</item>
@@ -493,7 +491,7 @@
     <!-- kru - Kurukh -->
     <item>ກູຣູກ</item>
     <!-- ks - Kashmiri -->
-    <item>ຄັດຊະມີຣີ</item>
+    <item>ຄາສເມຍຣິ</item>
     <!-- ksb - Shambala -->
     <item>ຊຳບາລ້າ</item>
     <!-- ksf - Bafia -->
@@ -540,6 +538,8 @@
     <item>ແມັງໂກ້</item>
     <!-- loz - Lozi -->
     <item>ໂລຊິ</item>
+    <!-- lrc - Northern Luri -->
+    <item>ລູຣິ ທາງຕອນເໜືອ</item>
     <!-- lt - Lithuanian -->
     <item>ລິທົວນຽນ</item>
     <!-- lu - Luba-Katanga -->
@@ -636,6 +636,8 @@
     <item>ມໍຢິນ</item>
     <!-- myv - Erzya -->
     <item>ເອີຍາ</item>
+    <!-- mzn - Mazanderani -->
+    <item>ມາແຊນເດີລັງ</item>
     <!-- na - Nauru -->
     <item>ນາຢູລູ</item>
     <!-- nap - Neapolitan -->
@@ -647,7 +649,9 @@
     <!-- nd - North Ndebele -->
     <item>ເອັນເດເບເລເໜືອ</item>
     <!-- nds - Low German -->
-    <item>ເຢຍລະມັນຕ່ຳ ແຊກຊອນຕໍ່ຳ</item>
+    <item>ເຢຍລະມັນ ຕອນໄຕ້</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>ຊາຊອນ ຕອນໄຕ</item>
     <!-- ne - Nepali -->
     <item>ເນປາລີ</item>
     <!-- new - Newari -->
@@ -674,7 +678,7 @@
     <item>ນໍໄກ</item>
     <!-- non - Old Norse -->
     <item>ນໍໂບຮານ</item>
-    <!-- nqo - NʼKo -->
+    <!-- nqo - N’Ko -->
     <item>ເອັນໂກ</item>
     <!-- nr - South Ndebele -->
     <item>ນີບີລີໃຕ້</item>
@@ -737,11 +741,11 @@
     <!-- ps - Pashto -->
     <item>ປາສໂຕ</item>
     <!-- pt - Portuguese -->
-    <item>ປໍຕູກີສ</item>
+    <item>ປອກຕຸຍກິສ</item>
     <!-- pt_BR - Brazilian Portuguese -->
-    <item>ບຣາຊິລຽນ ປໍຕູກີສ</item>
+    <item>ປອກຕຸຍກິສ ບະເລຊີ່ນ</item>
     <!-- pt_PT - European Portuguese -->
-    <item>ຢູໂຣປຽນ ປໍຕູກີສ</item>
+    <item>ປອກຕຸຍກິສ ຢຸໂຣບ</item>
     <!-- qu - Quechua -->
     <item>ຄີຊົວ</item>
     <!-- quc - Kʼicheʼ -->
@@ -753,7 +757,7 @@
     <!-- rar - Rarotongan -->
     <item>ຣາໂຣທອນການ</item>
     <!-- rm - Romansh -->
-    <item>ໂຣແມນ</item>
+    <item>ໂຣແມນຊ໌</item>
     <!-- rn - Rundi -->
     <item>ຣຸນດິ</item>
     <!-- ro - Romanian -->
@@ -767,7 +771,7 @@
     <!-- root - Root -->
     <item>ລູດ</item>
     <!-- ru - Russian -->
-    <item>ຣັດຊຽນ</item>
+    <item>ລັດເຊຍ</item>
     <!-- rup - Aromanian -->
     <item>ອາໂຣມານຽນ</item>
     <!-- rw - Kinyarwanda -->
@@ -800,6 +804,8 @@
     <item>ສກອດ</item>
     <!-- sd - Sindhi -->
     <item>ສິນທິ</item>
+    <!-- sdh - Southern Kurdish -->
+    <item>ພາກໄຕ້ ຂອງ ກູດິດ</item>
     <!-- se - Northern Sami -->
     <item>ຊາມິເໜືອ</item>
     <!-- see - Seneca -->
@@ -961,7 +967,7 @@
     <!-- und - Unknown Language -->
     <item>ບໍ່ສາມາດລະບຸພາສາ</item>
     <!-- ur - Urdu -->
-    <item>ອູຣະດູ</item>
+    <item>ອູຣດູ</item>
     <!-- uz - Uzbek -->
     <item>ອຸສເບກ</item>
     <!-- vai - Vai -->
@@ -986,6 +992,8 @@
     <item>ວາເລ</item>
     <!-- was - Washo -->
     <item>ວາໂຊ</item>
+    <!-- wbp - Warlpiri -->
+    <item>ວາຣພິຣິ</item>
     <!-- wo - Wolof -->
     <item>ວໍລອບ</item>
     <!-- xal - Kalmyk -->

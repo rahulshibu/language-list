@@ -102,7 +102,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>Araukanisch</name>
+    <name>Mapudungun</name>
   </language>
   <language>
     <code>aro</code>
@@ -165,10 +165,6 @@
     <name>Aserbaidschanisch</name>
   </language>
   <language>
-    <code>azb</code>
-    <name>Südaserbaidschanisch</name>
-  </language>
-  <language>
     <code>ba</code>
     <name>Baschkirisch</name>
   </language>
@@ -210,7 +206,7 @@
   </language>
   <language>
     <code>bem</code>
-    <name>Bemba-Sprache</name>
+    <name>Bemba</name>
   </language>
   <language>
     <code>bew</code>
@@ -231,6 +227,10 @@
   <language>
     <code>bg</code>
     <name>Bulgarisch</name>
+  </language>
+  <language>
+    <code>bgn</code>
+    <name>Westliches Belutschi</name>
   </language>
   <language>
     <code>bho</code>
@@ -262,7 +262,7 @@
   </language>
   <language>
     <code>bm</code>
-    <name>Bambara-Sprache</name>
+    <name>Bambara</name>
   </language>
   <language>
     <code>bn</code>
@@ -398,7 +398,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>Sorani</name>
+    <name>Zentralkurdisch</name>
   </language>
   <language>
     <code>co</code>
@@ -522,7 +522,7 @@
   </language>
   <language>
     <code>dz</code>
-    <name>Bhutanisch</name>
+    <name>Dzongkha</name>
   </language>
   <language>
     <code>dzg</code>
@@ -822,7 +822,7 @@
   </language>
   <language>
     <code>ha</code>
-    <name>Hausa</name>
+    <name>Haussa</name>
   </language>
   <language>
     <code>hai</code>
@@ -878,7 +878,7 @@
   </language>
   <language>
     <code>ht</code>
-    <name>Haitianisch</name>
+    <name>Haiti-Kreolisch</name>
   </language>
   <language>
     <code>hu</code>
@@ -1102,7 +1102,7 @@
   </language>
   <language>
     <code>km</code>
-    <name>Kambodschanisch</name>
+    <name>Khmer</name>
   </language>
   <language>
     <code>kmb</code>
@@ -1158,7 +1158,7 @@
   </language>
   <language>
     <code>ks</code>
-    <name>Kaschmirisch</name>
+    <name>Kaschmiri</name>
   </language>
   <language>
     <code>ksb</code>
@@ -1269,6 +1269,10 @@
     <name>Rotse-Sprache</name>
   </language>
   <language>
+    <code>lrc</code>
+    <name>Nördliches Luri</name>
+  </language>
+  <language>
     <code>lt</code>
     <name>Litauisch</name>
   </language>
@@ -1342,7 +1346,7 @@
   </language>
   <language>
     <code>mas</code>
-    <name>Massai-Sprache</name>
+    <name>Massai</name>
   </language>
   <language>
     <code>mde</code>
@@ -1506,11 +1510,15 @@
   </language>
   <language>
     <code>nd</code>
-    <name>Nord-Ndebele-Sprache</name>
+    <name>Nord-Ndebele</name>
   </language>
   <language>
     <code>nds</code>
     <name>Niederdeutsch</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>Niedersächsisch</name>
   </language>
   <language>
     <code>ne</code>
@@ -1646,7 +1654,7 @@
   </language>
   <language>
     <code>pa</code>
-    <name>Panjabi</name>
+    <name>Punjabi</name>
   </language>
   <language>
     <code>pag</code>
@@ -1774,7 +1782,7 @@
   </language>
   <language>
     <code>rn</code>
-    <name>Rundi-Sprache</name>
+    <name>Rundi</name>
   </language>
   <language>
     <code>ro</code>
@@ -1818,7 +1826,7 @@
   </language>
   <language>
     <code>rw</code>
-    <name>Ruandisch</name>
+    <name>Kinyarwanda</name>
   </language>
   <language>
     <code>rwk</code>
@@ -1885,8 +1893,12 @@
     <name>Sassarisch</name>
   </language>
   <language>
+    <code>sdh</code>
+    <name>Südkurdisch</name>
+  </language>
+  <language>
     <code>se</code>
-    <name>Nord-Samisch</name>
+    <name>Nordsamisch</name>
   </language>
   <language>
     <code>see</code>
@@ -1966,19 +1978,19 @@
   </language>
   <language>
     <code>sma</code>
-    <name>Süd-Samisch</name>
+    <name>Südsamisch</name>
   </language>
   <language>
     <code>smj</code>
-    <name>Lule-Lappisch</name>
+    <name>Lule-Samisch</name>
   </language>
   <language>
     <code>smn</code>
-    <name>Inari-Lappisch</name>
+    <name>Inari-Samisch</name>
   </language>
   <language>
     <code>sms</code>
-    <name>Skolt-Lappisch</name>
+    <name>Skolt-Samisch</name>
   </language>
   <language>
     <code>sn</code>
@@ -2074,7 +2086,7 @@
   </language>
   <language>
     <code>ta</code>
-    <name>Tamilisch</name>
+    <name>Tamil</name>
   </language>
   <language>
     <code>tcy</code>
@@ -2110,7 +2122,7 @@
   </language>
   <language>
     <code>ti</code>
-    <name>Tigrinja</name>
+    <name>Tigrinya</name>
   </language>
   <language>
     <code>tig</code>
@@ -2323,6 +2335,10 @@
   <language>
     <code>was</code>
     <name>Washo-Sprache</name>
+  </language>
+  <language>
+    <code>wbp</code>
+    <name>Warlpiri</name>
   </language>
   <language>
     <code>wo</code>

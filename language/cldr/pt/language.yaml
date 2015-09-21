@@ -20,7 +20,7 @@ anp: angika
 ar: "\xE1rabe"
 ar_001: "\xE1rabe moderno"
 arc: aramaico
-arn: araucano
+arn: mapudungun
 arp: arapaho
 arw: arauaqui
 as: "assam\xEAs"
@@ -30,6 +30,7 @@ av: avaric
 awa: awadhi
 ay: aimara
 az: azerbaijano
+az_Arab: azeri sul
 ba: bashkir
 bal: "bal\xFAchi"
 ban: "balin\xEAs"
@@ -42,6 +43,7 @@ bem: bemba
 bez: bena
 bfd: bafut
 bg: "b\xFAlgaro"
+bgn: "bal\xFAchi ocidental"
 bho: bhojpuri
 bi: "bislam\xE1"
 bik: bikol
@@ -87,7 +89,7 @@ crh: turco da Crimeia
 cs: tcheco
 csb: kashubian
 cu: "eslavo eclesi\xE1stico"
-cv: chuvash
+cv: tchuvache
 cy: "gal\xEAs"
 da: "dinamarqu\xEAs"
 dak: dacota
@@ -267,6 +269,7 @@ ln: lingala
 lo: laosiano
 lol: mongo
 loz: lozi
+lrc: luri setentrional
 lt: lituano
 lu: luba-catanga
 lua: luba-lulua
@@ -315,12 +318,14 @@ mwr: marwari
 my: "birman\xEAs"
 mye: myene
 myv: erzya
+mzn: mazandarani
 na: nauruano
 nap: napolitano
 naq: nama
 nb: "bokm\xE5l noruegu\xEAs"
 nd: ndebele do norte
 nds: "baixo alem\xE3o"
+nds_NL: "baixo-sax\xE3o"
 ne: nepali
 new: newari
 ng: dongo
@@ -381,7 +386,7 @@ rof: rombo
 rom: romani
 ru: russo
 rup: aromeno
-rw: kinyarwanda
+rw: quiniaruanda
 rwk: rwa
 sa: "s\xE2nscrito"
 sad: sandawe
@@ -396,6 +401,7 @@ sc: sardo
 scn: siciliano
 sco: "escoc\xEAs"
 sd: sindi
+sdh: curdo meridional
 se: sami do norte
 see: seneca
 seh: sena
@@ -413,9 +419,9 @@ sk: eslovaco
 sl: esloveno
 sm: samoano
 sma: sami do sul
-smj: lule sami
-smn: inari sami
-sms: skolt sami
+smj: sami de Lule
+smn: sami de Inari
+sms: sami de Skolt
 sn: shona
 snk: "soninqu\xEA"
 so: somali
@@ -489,6 +495,7 @@ wae: walser
 wal: walamo
 war: waray
 was: washo
+wbp: warlpiri
 wo: "u\xF3lofe"
 xal: kalmyk
 xh: xosa

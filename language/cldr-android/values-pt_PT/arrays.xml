@@ -4,8 +4,12 @@
   <string-array name="languages_all">
     <!-- af - Afrikaans -->
     <item>africânder</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>árabe moderno padrão</item>
     <!-- arn - Mapuche -->
     <item>mapuche</item>
+    <!-- az_Arab -->
+    <item>azeri meridional</item>
     <!-- bax - Bamun -->
     <item>bamun</item>
     <!-- bbj - Ghomala -->
@@ -16,6 +20,8 @@
     <item>sorani curdo</item>
     <!-- cs - Czech -->
     <item>checo</item>
+    <!-- cv - Chuvash -->
+    <item>chuvash</item>
     <!-- dsb - Lower Sorbian -->
     <item>baixo sórabio</item>
     <!-- ee - Ewe -->
@@ -60,14 +66,20 @@
     <item>lezghiano</item>
     <!-- lg - Ganda -->
     <item>ganda</item>
+    <!-- lrc - Northern Luri -->
+    <item>luri do norte</item>
     <!-- luo - Luo -->
     <item>luo</item>
     <!-- mga - Middle Irish -->
     <item>irlandês, medieval</item>
     <!-- mk - Macedonian -->
     <item>macedónio</item>
+    <!-- moh - Mohawk -->
+    <item>mohawk</item>
     <!-- nb - Norwegian Bokmål -->
     <item>norueguês bokmål</item>
+    <!-- nds - Low German -->
+    <item>baixo-alemão</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>norueguês nynorsk</item>
     <!-- oc - Occitan -->
@@ -80,10 +92,20 @@
     <item>pastó</item>
     <!-- rom - Romany -->
     <item>romanês</item>
+    <!-- root - Root -->
+    <item>root</item>
+    <!-- rw - Kinyarwanda -->
+    <item>kinyarwanda</item>
     <!-- sah - Sakha -->
     <item>sakha</item>
     <!-- shu - Chadian Arabic -->
     <item>árabe do Chade</item>
+    <!-- smj - Lule Sami -->
+    <item>lule sami</item>
+    <!-- smn - Inari Sami -->
+    <item>inari sami</item>
+    <!-- sms - Skolt Sami -->
+    <item>skolt sami</item>
     <!-- tk - Turkmen -->
     <item>turcomano</item>
     <!-- tl - Tagalog -->
