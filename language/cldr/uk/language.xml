@@ -362,7 +362,7 @@
   </language>
   <language>
     <code>chp</code>
-    <name>чіпев’ян</name>
+    <name>чіпевʼян</name>
   </language>
   <language>
     <code>chr</code>
@@ -393,6 +393,10 @@
     <name>кримськотатарська</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>сейшельська креольська</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>чеська</name>
   </language>
@@ -402,7 +406,7 @@
   </language>
   <language>
     <code>cu</code>
-    <name>церковнослов’янська</name>
+    <name>церковнословʼянська</name>
   </language>
   <language>
     <code>cv</code>
@@ -526,7 +530,11 @@
   </language>
   <language>
     <code>en_GB</code>
-    <name>англійська британська</name>
+    <name>британська англійська</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>американська англійська</name>
   </language>
   <language>
     <code>enm</code>
@@ -850,11 +858,11 @@
   </language>
   <language>
     <code>jpr</code>
-    <name>іудео-перська</name>
+    <name>юдео-перська</name>
   </language>
   <language>
     <code>jrb</code>
-    <name>іудео-арабська</name>
+    <name>юдео-арабська</name>
   </language>
   <language>
     <code>jv</code>
@@ -1126,7 +1134,7 @@
   </language>
   <language>
     <code>lus</code>
-    <name>лушей</name>
+    <name>мізо</name>
   </language>
   <language>
     <code>luy</code>
@@ -1266,7 +1274,7 @@
   </language>
   <language>
     <code>mul</code>
-    <name>декілька мов</name>
+    <name>кілька мов</name>
   </language>
   <language>
     <code>mus</code>
@@ -1470,11 +1478,15 @@
   </language>
   <language>
     <code>pap</code>
-    <name>пап’яменто</name>
+    <name>папʼяменто</name>
   </language>
   <language>
     <code>pau</code>
     <name>палауанська</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>нігерійсько-креольська</name>
   </language>
   <language>
     <code>peo</code>
@@ -1495,6 +1507,10 @@
   <language>
     <code>pon</code>
     <name>понапе</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>пруська</name>
   </language>
   <language>
     <code>pro</code>
@@ -1781,12 +1797,12 @@
     <name>суахілі</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>коморська</name>
+    <code>sw_CD</code>
+    <name>конгійське суахілі</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>конгійське суахілі</name>
+    <code>swb</code>
+    <name>коморська</name>
   </language>
   <language>
     <code>syc</code>
@@ -1974,7 +1990,7 @@
   </language>
   <language>
     <code>vo</code>
-    <name>волап’юк</name>
+    <name>волапʼюк</name>
   </language>
   <language>
     <code>vot</code>

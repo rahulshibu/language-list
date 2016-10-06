@@ -36,6 +36,8 @@
     <item>Aleutais</item>
     <!-- aln - Gheg Albanian -->
     <item>Albàinis Ghegeach</item>
+    <!-- alt - Southern Altai -->
+    <item>Altais Dheasach</item>
     <!-- am - Amharic -->
     <item>Amtharais</item>
     <!-- an - Aragonese -->
@@ -51,7 +53,7 @@
     <!-- arc - Aramaic -->
     <item>Aramais</item>
     <!-- arn - Mapuche -->
-    <item>Mapuche</item>
+    <item>Mapudungun</item>
     <!-- aro - Araona -->
     <item>Araona</item>
     <!-- arp - Arapaho -->
@@ -130,8 +132,8 @@
     <item>Siksika</item>
     <!-- bm - Bambara -->
     <item>Bambara</item>
-    <!-- bn - Bengali -->
-    <item>Beangailis</item>
+    <!-- bn - Bangla -->
+    <item>Bangla</item>
     <!-- bo - Tibetan -->
     <item>Tibeitis</item>
     <!-- bpy - Bishnupriya -->
@@ -197,7 +199,7 @@
     <!-- chy - Cheyenne -->
     <item>Cheyenne</item>
     <!-- ckb - Central Kurdish -->
-    <item>Cùrdais Soranî</item>
+    <item>Cùrdais Mheadhanach</item>
     <!-- co - Corsican -->
     <item>Corsais</item>
     <!-- cop - Coptic -->
@@ -208,8 +210,10 @@
     <item>Cree</item>
     <!-- crh - Crimean Turkish -->
     <item>Turcais Chriomach</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>Seiseallais</item>
     <!-- cs - Czech -->
-    <item>Seacais</item>
+    <item>Seicis</item>
     <!-- csb - Kashubian -->
     <item>Caisiubais</item>
     <!-- cu - Church Slavic -->
@@ -502,6 +506,8 @@
     <item>Kamba</item>
     <!-- kaw - Kawi -->
     <item>Kawi</item>
+    <!-- kbd - Kabardian -->
+    <item>Cabardais</item>
     <!-- kbl - Kanembu -->
     <item>Kanembu</item>
     <!-- kcg - Tyap -->
@@ -562,6 +568,8 @@
     <item>Krio</item>
     <!-- krj - Kinaray-a -->
     <item>Kinaray-a</item>
+    <!-- krl - Karelian -->
+    <item>Cairealais</item>
     <!-- kru - Kurukh -->
     <item>Kurukh</item>
     <!-- ks - Kashmiri -->
@@ -570,6 +578,8 @@
     <item>Shambala</item>
     <!-- ksf - Bafia -->
     <item>Bafia</item>
+    <!-- ksh - Colognian -->
+    <item>Gearmailtis Chologne</item>
     <!-- ku - Kurdish -->
     <item>Cùrdais</item>
     <!-- kum - Kumyk -->
@@ -594,6 +604,8 @@
     <item>Lamba</item>
     <!-- lb - Luxembourgish -->
     <item>Lugsamburgais</item>
+    <!-- lez - Lezghian -->
+    <item>Leasgais</item>
     <!-- lfn - Lingua Franca Nova -->
     <item>Lingua Franca Nova</item>
     <!-- lg - Ganda -->
@@ -676,7 +688,7 @@
     <item>Marshallais</item>
     <!-- mi - Maori -->
     <item>Māori</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>Mi’kmaq</item>
     <!-- min - Minangkabau -->
     <item>Minangkabau</item>
@@ -704,10 +716,12 @@
     <item>Maltais</item>
     <!-- mua - Mundang -->
     <item>Mundang</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>Iomadh cànan</item>
     <!-- mus - Creek -->
     <item>Creek</item>
+    <!-- mwl - Mirandese -->
+    <item>Miorandais</item>
     <!-- mwr - Marwari -->
     <item>Marwari</item>
     <!-- mwv - Mentawai -->
@@ -724,6 +738,8 @@
     <item>Nabhru</item>
     <!-- nan - Min Nan Chinese -->
     <item>Min Nan</item>
+    <!-- nap - Neapolitan -->
+    <item>Eadailtis Napoli</item>
     <!-- naq - Nama -->
     <item>Nama</item>
     <!-- nb - Norwegian Bokmål -->
@@ -769,7 +785,7 @@
     <!-- nr - South Ndebele -->
     <item>Ndebele Dheasach</item>
     <!-- nso - Northern Sotho -->
-    <item>Leasotais Thuathach</item>
+    <item>Sesotho sa Leboa</item>
     <!-- nus - Nuer -->
     <item>Nuer</item>
     <!-- nv - Navajo -->
@@ -777,7 +793,7 @@
     <!-- nwc - Classical Newari -->
     <item>Newari Chlasaigeach</item>
     <!-- ny - Nyanja -->
-    <item>Chichewa</item>
+    <item>Nyanja</item>
     <!-- nym - Nyamwezi -->
     <item>Nyamwezi</item>
     <!-- nyn - Nyankole -->
@@ -792,7 +808,7 @@
     <item>Ojibwa</item>
     <!-- om - Oromo -->
     <item>Oromo</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>Odia</item>
     <!-- os - Ossetic -->
     <item>Ossetic</item>
@@ -809,11 +825,13 @@
     <!-- pam - Pampanga -->
     <item>Pampanga</item>
     <!-- pap - Papiamento -->
-    <item>Papiamento</item>
+    <item>Papiamentu</item>
     <!-- pau - Palauan -->
     <item>Palabhais</item>
     <!-- pcd - Picard -->
     <item>Picard</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Beurla Nigèiriach</item>
     <!-- pdc - Pennsylvania German -->
     <item>Gearmailtis Phennsylvania</item>
     <!-- pdt - Plautdietsch -->
@@ -843,7 +861,7 @@
     <!-- pt_PT - European Portuguese -->
     <item>Portagailis Eòrpach</item>
     <!-- qu - Quechua -->
-    <item>Ceatsua</item>
+    <item>Quechua</item>
     <!-- quc - Kʼicheʼ -->
     <item>K’iche’</item>
     <!-- qug - Chimborazo Highland Quichua -->
@@ -876,6 +894,8 @@
     <item>Rusyn</item>
     <!-- rug - Roviana -->
     <item>Roviana</item>
+    <!-- rup - Aromanian -->
+    <item>Aromanais</item>
     <!-- rw - Kinyarwanda -->
     <item>Kinyarwanda</item>
     <!-- rwk - Rwa -->
@@ -885,7 +905,7 @@
     <!-- sad - Sandawe -->
     <item>Sandawe</item>
     <!-- sah - Sakha -->
-    <item>Sachais</item>
+    <item>Sakha</item>
     <!-- sam - Samaritan Aramaic -->
     <item>Aramais Shamaritanach</item>
     <!-- saq - Samburu -->
@@ -975,7 +995,7 @@
     <!-- ssy - Saho -->
     <item>Saho</item>
     <!-- st - Southern Sotho -->
-    <item>Leasotach Dheasach</item>
+    <item>Sesotho</item>
     <!-- su - Sundanese -->
     <item>Cànan Sunda</item>
     <!-- suk - Sukuma -->
@@ -988,10 +1008,10 @@
     <item>Suainis</item>
     <!-- sw - Swahili -->
     <item>Kiswahili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>Kiswahili na Congo</item>
     <!-- swb - Comorian -->
     <item>Comorais</item>
-    <!-- swc - Congo Swahili -->
-    <item>Kiswahili na Congo</item>
     <!-- syc - Classical Syriac -->
     <item>Suraidheac Chlasaigeach</item>
     <!-- syr - Syriac -->
@@ -1013,7 +1033,7 @@
     <!-- tg - Tajik -->
     <item>Taidigis</item>
     <!-- th - Thai -->
-    <item>Tàidh</item>
+    <item>Cànan nan Tàidh</item>
     <!-- ti - Tigrinya -->
     <item>Tigrinya</item>
     <!-- tig - Tigre -->
@@ -1039,7 +1059,7 @@
     <!-- tn - Tswana -->
     <item>Tswana</item>
     <!-- to - Tongan -->
-    <item>Tongais</item>
+    <item>Tonga</item>
     <!-- tog - Nyasa Tonga -->
     <item>Nyasa Tonga</item>
     <!-- tpi - Tok Pisin -->
@@ -1071,7 +1091,7 @@
     <!-- tyv - Tuvinian -->
     <item>Cànan Tuva</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>Tamazight Meadhan na h-Atlas</item>
+    <item>Tamazight an Atlais Mheadhanaich</item>
     <!-- udm - Udmurt -->
     <item>Udmurt</item>
     <!-- ug - Uyghur -->
@@ -1080,7 +1100,7 @@
     <item>Ucràinis</item>
     <!-- umb - Umbundu -->
     <item>Umbundu</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>Cànan neo-aithnichte</item>
     <!-- ur - Urdu -->
     <item>Ùrdu</item>
@@ -1135,7 +1155,7 @@
     <!-- yi - Yiddish -->
     <item>Iùdhais</item>
     <!-- yo - Yoruba -->
-    <item>Ioruba</item>
+    <item>Yoruba</item>
     <!-- yrl - Nheengatu -->
     <item>Nheengatu</item>
     <!-- yue - Cantonese -->

@@ -150,11 +150,11 @@
   </language>
   <language>
     <code>bax</code>
-    <name>באקס</name>
+    <name>במום</name>
   </language>
   <language>
     <code>bbj</code>
-    <name>גומל</name>
+    <name>גומאלה</name>
   </language>
   <language>
     <code>be</code>
@@ -182,7 +182,7 @@
   </language>
   <language>
     <code>bgn</code>
-    <name>בלוצ׳י (מערב)</name>
+    <name>באלוצ׳י מערבית</name>
   </language>
   <language>
     <code>bho</code>
@@ -353,12 +353,16 @@
     <name>טטרית של קרים</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>קריאולית (סיישל)</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>צ׳כית</name>
   </language>
   <language>
     <code>csb</code>
-    <name>קשוביאן</name>
+    <name>קשובית</name>
   </language>
   <language>
     <code>cu</code>
@@ -370,7 +374,7 @@
   </language>
   <language>
     <code>cy</code>
-    <name>ולשית</name>
+    <name>וולשית</name>
   </language>
   <language>
     <code>da</code>
@@ -393,12 +397,8 @@
     <name>גרמנית</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>גרמנית אוסטרית</name>
-  </language>
-  <language>
     <code>de_CH</code>
-    <name>גרמנית שוויצרית (גבוהה)</name>
+    <name>גרמנית (שוויץ)</name>
   </language>
   <language>
     <code>del</code>
@@ -442,7 +442,7 @@
   </language>
   <language>
     <code>dyo</code>
-    <name>הולה-פוניי</name>
+    <name>ג׳ולה פונית</name>
   </language>
   <language>
     <code>dyu</code>
@@ -489,20 +489,8 @@
     <name>אנגלית</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>אנגלית אוסטרלית</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>אנגלית קנדית</name>
-  </language>
-  <language>
     <code>en_GB</code>
-    <name>אנגלית בריטית</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>אנגלית אמריקאית</name>
+    <name>אנגלית (בריטניה)</name>
   </language>
   <language>
     <code>enm</code>
@@ -515,18 +503,6 @@
   <language>
     <code>es</code>
     <name>ספרדית</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>ספרדית לטינו־אמריקאית</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>ספרדית אירופאית</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>ספרדית מקסיקנית</name>
   </language>
   <language>
     <code>et</code>
@@ -581,12 +557,8 @@
     <name>צרפתית</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>צרפתית קנדית</name>
-  </language>
-  <language>
     <code>fr_CH</code>
-    <name>צרפתית שוויצרית</name>
+    <name>צרפתית (שוויץ)</name>
   </language>
   <language>
     <code>frm</code>
@@ -602,7 +574,7 @@
   </language>
   <language>
     <code>frs</code>
-    <name>פריזיאן מזרחית</name>
+    <name>פריזית מזרחית</name>
   </language>
   <language>
     <code>fur</code>
@@ -610,7 +582,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>פריזית</name>
+    <name>פריזית מערבית</name>
   </language>
   <language>
     <code>ga</code>
@@ -623,6 +595,10 @@
   <language>
     <code>gag</code>
     <name>גגאוזית</name>
+  </language>
+  <language>
+    <code>gan</code>
+    <name>סינית גאן</name>
   </language>
   <language>
     <code>gay</code>
@@ -642,7 +618,7 @@
   </language>
   <language>
     <code>gil</code>
-    <name>גילברטזית</name>
+    <name>קיריבטית</name>
   </language>
   <language>
     <code>gl</code>
@@ -686,7 +662,7 @@
   </language>
   <language>
     <code>gu</code>
-    <name>גוג׳ראטית</name>
+    <name>גוג׳ארטי</name>
   </language>
   <language>
     <code>guz</code>
@@ -698,7 +674,7 @@
   </language>
   <language>
     <code>gwi</code>
-    <name>גוויצ׳ין</name>
+    <name>גוויצ׳ן</name>
   </language>
   <language>
     <code>ha</code>
@@ -707,6 +683,10 @@
   <language>
     <code>hai</code>
     <name>האידה</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>סינית האקה</name>
   </language>
   <language>
     <code>haw</code>
@@ -726,15 +706,15 @@
   </language>
   <language>
     <code>hit</code>
-    <name>חיתית</name>
+    <name>חתית</name>
   </language>
   <language>
     <code>hmn</code>
-    <name>מונג</name>
+    <name>המונג</name>
   </language>
   <language>
     <code>ho</code>
-    <name>הארי מוטו</name>
+    <name>הירי מוטו</name>
   </language>
   <language>
     <code>hr</code>
@@ -745,8 +725,12 @@
     <name>סורבית גבוהה</name>
   </language>
   <language>
+    <code>hsn</code>
+    <name>סינית שיאנג</name>
+  </language>
+  <language>
     <code>ht</code>
-    <name>האיטית</name>
+    <name>קריאולית (האיטי)</name>
   </language>
   <language>
     <code>hu</code>
@@ -790,7 +774,7 @@
   </language>
   <language>
     <code>ii</code>
-    <name>סיצ׳ואן יי</name>
+    <name>סצ׳ואן יי</name>
   </language>
   <language>
     <code>ik</code>
@@ -826,15 +810,15 @@
   </language>
   <language>
     <code>jbo</code>
-    <name>לויבאן</name>
+    <name>לוז׳באן</name>
   </language>
   <language>
     <code>jgo</code>
-    <name>נגומה</name>
+    <name>נגומבה</name>
   </language>
   <language>
     <code>jmc</code>
-    <name>מצ׳אמה</name>
+    <name>מאקאמה</name>
   </language>
   <language>
     <code>jpr</code>
@@ -846,7 +830,7 @@
   </language>
   <language>
     <code>jv</code>
-    <name>יאוונית</name>
+    <name>יאוואית</name>
   </language>
   <language>
     <code>ka</code>
@@ -866,7 +850,7 @@
   </language>
   <language>
     <code>kaj</code>
-    <name>ג׳יו</name>
+    <name>ג׳ו</name>
   </language>
   <language>
     <code>kam</code>
@@ -906,7 +890,7 @@
   </language>
   <language>
     <code>kha</code>
-    <name>קאסי</name>
+    <name>קהאסי</name>
   </language>
   <language>
     <code>kho</code>
@@ -934,15 +918,15 @@
   </language>
   <language>
     <code>kl</code>
-    <name>קאלאליסוטית</name>
+    <name>גרינלנדית</name>
   </language>
   <language>
     <code>kln</code>
-    <name>קאלנג׳ין</name>
+    <name>קלנג׳ין</name>
   </language>
   <language>
     <code>km</code>
-    <name>קמרית</name>
+    <name>חמרית</name>
   </language>
   <language>
     <code>kmb</code>
@@ -1010,7 +994,7 @@
   </language>
   <language>
     <code>kum</code>
-    <name>קומיק</name>
+    <name>קומיקית</name>
   </language>
   <language>
     <code>kut</code>
@@ -1062,7 +1046,7 @@
   </language>
   <language>
     <code>li</code>
-    <name>לימבורגיש</name>
+    <name>לימבורגית</name>
   </language>
   <language>
     <code>lkt</code>
@@ -1074,7 +1058,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>לאית</name>
+    <name>לאו</name>
   </language>
   <language>
     <code>lol</code>
@@ -1082,11 +1066,11 @@
   </language>
   <language>
     <code>loz</code>
-    <name>לוזי</name>
+    <name>לוזית</name>
   </language>
   <language>
     <code>lrc</code>
-    <name>לורי צפונית</name>
+    <name>לורית צפונית</name>
   </language>
   <language>
     <code>lt</code>
@@ -1098,11 +1082,11 @@
   </language>
   <language>
     <code>lua</code>
-    <name>לובה, לולואה</name>
+    <name>לובה-לולואה</name>
   </language>
   <language>
     <code>lui</code>
-    <name>לואיסנו</name>
+    <name>לויסנו</name>
   </language>
   <language>
     <code>lun</code>
@@ -1114,7 +1098,7 @@
   </language>
   <language>
     <code>lus</code>
-    <name>לושאי</name>
+    <name>מיזו</name>
   </language>
   <language>
     <code>luy</code>
@@ -1126,11 +1110,11 @@
   </language>
   <language>
     <code>mad</code>
-    <name>מדורסה</name>
+    <name>מדורזית</name>
   </language>
   <language>
     <code>maf</code>
-    <name>מאפא</name>
+    <name>מאפאה</name>
   </language>
   <language>
     <code>mag</code>
@@ -1150,7 +1134,7 @@
   </language>
   <language>
     <code>mas</code>
-    <name>מאסאית</name>
+    <name>מסאית</name>
   </language>
   <language>
     <code>mde</code>
@@ -1174,7 +1158,7 @@
   </language>
   <language>
     <code>mfe</code>
-    <name>מוריסיין</name>
+    <name>קריאולית מאוריציאנית</name>
   </language>
   <language>
     <code>mg</code>
@@ -1186,7 +1170,7 @@
   </language>
   <language>
     <code>mgh</code>
-    <name>מקואה-מיטו</name>
+    <name>מאקוואה מטו</name>
   </language>
   <language>
     <code>mgo</code>
@@ -1194,7 +1178,7 @@
   </language>
   <language>
     <code>mh</code>
-    <name>מרשאלס</name>
+    <name>מרשלית</name>
   </language>
   <language>
     <code>mi</code>
@@ -1214,7 +1198,7 @@
   </language>
   <language>
     <code>ml</code>
-    <name>מלאיאלם</name>
+    <name>מליאלאם</name>
   </language>
   <language>
     <code>mn</code>
@@ -1238,7 +1222,7 @@
   </language>
   <language>
     <code>mr</code>
-    <name>מרטהי</name>
+    <name>מראטהי</name>
   </language>
   <language>
     <code>ms</code>
@@ -1282,11 +1266,15 @@
   </language>
   <language>
     <code>mzn</code>
-    <name>מזנדראן</name>
+    <name>מאזאנדראני</name>
   </language>
   <language>
     <code>na</code>
     <name>נאורית</name>
+  </language>
+  <language>
+    <code>nan</code>
+    <name>סינית מין נאן</name>
   </language>
   <language>
     <code>nap</code>
@@ -1302,7 +1290,7 @@
   </language>
   <language>
     <code>nd</code>
-    <name>צפון נדבלה</name>
+    <name>נדבלה צפונית</name>
   </language>
   <language>
     <code>nds</code>
@@ -1330,7 +1318,7 @@
   </language>
   <language>
     <code>niu</code>
-    <name>ניואיאן</name>
+    <name>ניואן</name>
   </language>
   <language>
     <code>nl</code>
@@ -1354,7 +1342,7 @@
   </language>
   <language>
     <code>no</code>
-    <name>נורבגית</name>
+    <name>נורווגית</name>
   </language>
   <language>
     <code>nog</code>
@@ -1370,11 +1358,11 @@
   </language>
   <language>
     <code>nr</code>
-    <name>דרום נדבלה</name>
+    <name>נדבלה דרומית</name>
   </language>
   <language>
     <code>nso</code>
-    <name>סוטו הצפונית</name>
+    <name>סותו צפונית</name>
   </language>
   <language>
     <code>nus</code>
@@ -1382,7 +1370,7 @@
   </language>
   <language>
     <code>nv</code>
-    <name>נבחו</name>
+    <name>נאוואחו</name>
   </language>
   <language>
     <code>nwc</code>
@@ -1430,7 +1418,7 @@
   </language>
   <language>
     <code>osa</code>
-    <name>אוסג׳ה</name>
+    <name>אוסג׳</name>
   </language>
   <language>
     <code>ota</code>
@@ -1438,7 +1426,7 @@
   </language>
   <language>
     <code>pa</code>
-    <name>פנג׳אבית</name>
+    <name>פנג׳אבי</name>
   </language>
   <language>
     <code>pag</code>
@@ -1461,12 +1449,16 @@
     <name>פלוואן</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>ניגרית פידג׳ית</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>פרסית עתיקה</name>
   </language>
   <language>
     <code>phn</code>
-    <name>פניקית</name>
+    <name>פיניקית</name>
   </language>
   <language>
     <code>pi</code>
@@ -1481,6 +1473,10 @@
     <name>פונפיאן</name>
   </language>
   <language>
+    <code>prg</code>
+    <name>פרוסית</name>
+  </language>
+  <language>
     <code>pro</code>
     <name>פרובנסאל עתיקה</name>
   </language>
@@ -1490,15 +1486,7 @@
   </language>
   <language>
     <code>pt</code>
-    <name>פורטוגלית</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>פורטוגלית ברזילאית</name>
-  </language>
-  <language>
-    <code>pt_PT</code>
-    <name>פורטוגלית אירופאית</name>
+    <name>פורטוגזית</name>
   </language>
   <language>
     <code>qu</code>
@@ -1510,7 +1498,7 @@
   </language>
   <language>
     <code>raj</code>
-    <name>ראג׳סטן</name>
+    <name>ראג׳סטאני</name>
   </language>
   <language>
     <code>rap</code>
@@ -1542,7 +1530,7 @@
   </language>
   <language>
     <code>rom</code>
-    <name>רומאנית</name>
+    <name>רומאני</name>
   </language>
   <language>
     <code>root</code>
@@ -1558,11 +1546,11 @@
   </language>
   <language>
     <code>rw</code>
-    <name>קינירואנדה</name>
+    <name>קנירואנדית</name>
   </language>
   <language>
     <code>rwk</code>
-    <name>רווא</name>
+    <name>ראווה</name>
   </language>
   <language>
     <code>sa</code>
@@ -1586,11 +1574,11 @@
   </language>
   <language>
     <code>sas</code>
-    <name>ססאק</name>
+    <name>סאסק</name>
   </language>
   <language>
     <code>sat</code>
-    <name>סאנטלי</name>
+    <name>סאנטאלי</name>
   </language>
   <language>
     <code>sba</code>
@@ -1622,7 +1610,7 @@
   </language>
   <language>
     <code>se</code>
-    <name>לאפית צפונית</name>
+    <name>סמי צפונית</name>
   </language>
   <language>
     <code>see</code>
@@ -1654,7 +1642,7 @@
   </language>
   <language>
     <code>shi</code>
-    <name>טצ׳להיט</name>
+    <name>שילה</name>
   </language>
   <language>
     <code>shn</code>
@@ -1670,7 +1658,7 @@
   </language>
   <language>
     <code>sid</code>
-    <name>סידמו</name>
+    <name>סידאמו</name>
   </language>
   <language>
     <code>sk</code>
@@ -1734,7 +1722,7 @@
   </language>
   <language>
     <code>ss</code>
-    <name>סיסוואטי</name>
+    <name>סאווזי</name>
   </language>
   <language>
     <code>ssy</code>
@@ -1742,11 +1730,11 @@
   </language>
   <language>
     <code>st</code>
-    <name>ססות׳ו</name>
+    <name>סותו דרומית</name>
   </language>
   <language>
     <code>su</code>
-    <name>סונדנית</name>
+    <name>סונדנזית</name>
   </language>
   <language>
     <code>suk</code>
@@ -1766,15 +1754,15 @@
   </language>
   <language>
     <code>sw</code>
-    <name>סווהילית</name>
+    <name>סווהילי</name>
+  </language>
+  <language>
+    <code>sw_CD</code>
+    <name>סווהילי קונגו</name>
   </language>
   <language>
     <code>swb</code>
     <name>קומורו</name>
-  </language>
-  <language>
-    <code>swc</code>
-    <name>סווהילי קונגולטזית</name>
   </language>
   <language>
     <code>syc</code>
@@ -1818,7 +1806,7 @@
   </language>
   <language>
     <code>ti</code>
-    <name>טיגרינאית</name>
+    <name>תיגרינית</name>
   </language>
   <language>
     <code>tig</code>
@@ -1838,7 +1826,7 @@
   </language>
   <language>
     <code>tl</code>
-    <name>טגלוג</name>
+    <name>טאגאלוג</name>
   </language>
   <language>
     <code>tlh</code>
@@ -1854,11 +1842,11 @@
   </language>
   <language>
     <code>tn</code>
-    <name>טוניסיה</name>
+    <name>סוואנה</name>
   </language>
   <language>
     <code>to</code>
-    <name>טונגן</name>
+    <name>טונגאית</name>
   </language>
   <language>
     <code>tog</code>
@@ -1922,7 +1910,7 @@
   </language>
   <language>
     <code>ug</code>
-    <name>אויגהור</name>
+    <name>אויגור</name>
   </language>
   <language>
     <code>uga</code>
@@ -1950,7 +1938,7 @@
   </language>
   <language>
     <code>vai</code>
-    <name>ואי</name>
+    <name>וואי</name>
   </language>
   <language>
     <code>ve</code>
@@ -1982,7 +1970,7 @@
   </language>
   <language>
     <code>wal</code>
-    <name>וולאמו</name>
+    <name>ווליאטה</name>
   </language>
   <language>
     <code>war</code>
@@ -1998,15 +1986,19 @@
   </language>
   <language>
     <code>wo</code>
-    <name>ג׳ולוף</name>
+    <name>וולוף</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>סינית וו</name>
   </language>
   <language>
     <code>xal</code>
-    <name>קלמיק</name>
+    <name>קלמיקית</name>
   </language>
   <language>
     <code>xh</code>
-    <name>קסוסה</name>
+    <name>קוסה</name>
   </language>
   <language>
     <code>xog</code>
@@ -2042,7 +2034,7 @@
   </language>
   <language>
     <code>za</code>
-    <name>ז׳ואנג</name>
+    <name>זואנג</name>
   </language>
   <language>
     <code>zap</code>
@@ -2066,7 +2058,7 @@
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>סינית מפושטת</name>
+    <name>סינית פשוטה</name>
   </language>
   <language>
     <code>zh_Hant</code>

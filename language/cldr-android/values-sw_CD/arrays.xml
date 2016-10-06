@@ -1,16 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- sw_CD -->
+  <!-- Congo Swahili (sw_CD) -->
   <string-array name="languages_all">
     <!-- ak - Akan -->
     <item>Kiakan</item>
-    <!-- bn - Bengali -->
-    <item>Kibangla</item>
-    <!-- cs - Czech -->
-    <item>Kichecki</item>
-    <!-- en - English -->
-    <item>Kingereza</item>
-    <!-- swc - Congo Swahili -->
-    <item>Kiswahili ya Kongo</item>
+    <!-- ar_001 - Modern Standard Arabic -->
+    <item>Kiarabu cha Dunia Kilichosanifishwa</item>
+    <!-- arq - Algerian Arabic -->
+    <item>Kiarabu cha Aljeria</item>
+    <!-- az - Azerbaijani -->
+    <item>Kiazabajani</item>
+    <!-- bug - Buginese -->
+    <item>Kibugini</item>
+    <!-- gv - Manx -->
+    <item>Kimanksi</item>
+    <!-- gwi - Gwichʼin -->
+    <item>Kigwichiin</item>
+    <!-- hup - Hupa -->
+    <item>Kihupa</item>
+    <!-- inh - Ingush -->
+    <item>Kiingush</item>
+    <!-- jbo - Lojban -->
+    <item>Kilojban</item>
+    <!-- kac - Kachin -->
+    <item>Kikachin</item>
+    <!-- khq - Koyra Chiini -->
+    <item>Kikoyra Chiini</item>
+    <!-- kkj - Kako -->
+    <item>Kikako</item>
+    <!-- koi - Komi-Permyak -->
+    <item>Kikomipermyak</item>
+    <!-- kru - Kurukh -->
+    <item>Kikurukh</item>
+    <!-- kum - Kumyk -->
+    <item>Kikumyk</item>
+    <!-- ky - Kyrgyz -->
+    <item>Kikirigizi</item>
+    <!-- lam - Lamba -->
+    <item>Kilamba</item>
+    <!-- li - Limburgish -->
+    <item>Kilimburgi</item>
+    <!-- mak - Makasar -->
+    <item>mak</item>
+    <!-- mdf - Moksha -->
+    <item>Kimoksha</item>
+    <!-- mic - Mi'kmaq -->
+    <item>Kimikmaki</item>
+    <!-- mk - Macedonian -->
+    <item>Kimasedonia</item>
+    <!-- moh - Mohawk -->
+    <item>Kimohoki</item>
+    <!-- mos - Mossi -->
+    <item>Kimossi</item>
+    <!-- nnh - Ngiemboon -->
+    <item>Kingiemboon</item>
+    <!-- nqo - N’Ko -->
+    <item>Kiinko</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Pijini ya Nijeria</item>
+    <!-- quc - Kʼicheʼ -->
+    <item>Kikiiche</item>
+    <!-- root - Root -->
+    <item>Kiroot</item>
+    <!-- shu - Chadian Arabic -->
+    <item>Kiarabu cha Chadi</item>
+    <!-- srn - Sranan Tongo -->
+    <item>Kitongo cha Sranan</item>
+    <!-- swb - Comorian -->
+    <item>Kikomoro</item>
+    <!-- syr - Syriac -->
+    <item>Kisiria</item>
+    <!-- udm - Udmurt -->
+    <item>Kiudumurti</item>
+    <!-- wae - Walser -->
+    <item>Kiwalser</item>
+    <!-- yi - Yiddish -->
+    <item>Kiyidi</item>
   </string-array>
 </resources>

@@ -1,16 +1,16 @@
 aa,afarski
 ab,abhaski
-ace,achinese
-ach,acoli
+ace,ačinski
+ach,ačoli
 ada,adangme
 ady,adigejski
-ae,avestan
+ae,avestički
 af,afrikaans
 afh,afrihili
 agq,aghem
-ain,ainu
+ain,ainuski
 ak,akanski
-akk,akkadian
+akk,akadski
 ale,aleutski
 alt,južni altai
 am,amharski
@@ -20,20 +20,20 @@ anp,angika
 ar,arapski
 ar_001,moderni standardni arapski
 arc,aramejski
-arn,araukanski
+arn,mapuche
 arp,arapaho
-arw,arawak
+arw,aravački
 as,asamski
 asa,asu
 ast,asturijski
 av,avarski
 awa,awadhi
-ay,aymara
+ay,ajmarski
 az,azerbajdžanski
 az_Arab,južnoazerbajdžanski
 ba,baškirski
-bal,baluchi
-ban,balinezijski
+bal,belučki
+ban,balijski
 bas,basa
 bax,bamunski
 bbj,ghomala
@@ -46,19 +46,19 @@ bg,bugarski
 bgn,zapadnobaludžijski
 bho,bhojpuri
 bi,bislama
-bik,bikol
+bik,bikolski
 bin,bini
 bkm,kom
 bla,siksika
 bm,bambara
-bn,bengalski
-bo,tibetanski
+bn,bangla
+bo,tibetski
 br,bretonski
 bra,braj
 brx,bodo
 bs,bosanski
 bss,akoose
-bua,buriat
+bua,burjatski
 bug,buginski
 bum,bulu
 byn,blin
@@ -72,24 +72,25 @@ ce,čečenski
 ceb,cebuano
 cgg,chiga
 ch,chamorro
-chb,chibcha
-chg,chagatai
+chb,čibča
+chg,čagatajski
 chk,chuukese
-chm,mari
+chm,marijski
 chn,chinook žargon
 cho,choctaw
 chp,chipewyan
-chr,čeroki
+chr,čerokijski
 chy,čejenski
 ckb,soranski kurdski
 co,korzički
 cop,koptski
 cr,cree
 crh,krimski turski
+crs,sejšelski kreolski
 cs,češki
 csb,kašupski
 cu,crkvenoslavenski
-cv,chuvash
+cv,čuvaški
 cy,velški
 da,danski
 dak,dakota jezik
@@ -104,9 +105,9 @@ dgr,dogrib
 din,dinka
 dje,zarma
 doi,dogri
-dsb,lužičkosrpski
+dsb,donjolužički
 dua,duala
-dum,"nizozemski, srednji"
+dum,srednjonizozemski
 dv,divehi
 dyo,jola-fonyi
 dyu,dyula
@@ -124,7 +125,7 @@ en_AU,australski engleski
 en_CA,kanadski engleski
 en_GB,britanski engleski
 en_US,američki engleski
-enm,"engleski, srednji"
+enm,srednjoengleski
 eo,esperanto
 es,španjolski
 es_419,latinoamerički španjolski
@@ -136,36 +137,37 @@ ewo,ewondo
 fa,perzijski
 fan,fang
 fat,fanti
-ff,fulah
+ff,fula
 fi,finski
-fil,filipino
+fil,filipinski
 fj,fidžijski
 fo,ferojski
 fon,fon
 fr,francuski
 fr_CA,kanadski francuski
 fr_CH,švicarski francuski
-frm,"francuski, srednji"
+frm,srednjofrancuski
 fro,starofrancuski
 frr,sjevernofrizijski
 frs,istočnofrizijski
-fur,friulski
+fur,furlanski
 fy,zapadnofrizijski
 ga,irski
 gaa,ga
 gag,gagauski
+gan,gan kineski
 gay,gayo
 gba,gbaya
-gd,škotski-galski
-gez,staroetiopski
+gd,škotski gaelski
+gez,geez
 gil,gilbertski
 gl,galicijski
-gmh,"njemački, srednji visoki"
-gn,guarani
-goh,"staronjemački, visoki"
+gmh,srednjogornjonjemački
+gn,gvaranski
+goh,starovisokonjemački
 gon,gondi
 gor,gorontalo
-got,gothic
+got,gotski
 grb,grebo
 grc,starogrčki
 gsw,švicarski njemački
@@ -175,16 +177,18 @@ gv,manski
 gwi,gwich’in
 ha,hausa
 hai,haidi
+hak,hakka kineski
 haw,havajski
 he,hebrejski
 hi,hindski
-hil,hiligaynon
+hil,hiligaynonski
 hit,hetitski
 hmn,hmong
 ho,hiri motu
 hr,hrvatski
 hsb,gornjolužički
-ht,kreolski
+hsn,xiang kineski
+ht,haićanski kreolski
 hu,mađarski
 hup,hupa
 hy,armenski
@@ -213,11 +217,11 @@ jv,javanski
 ka,gruzijski
 kaa,kara-kalpak
 kab,kabilski
-kac,kachin
+kac,kačinski
 kaj,kaje
 kam,kamba
 kaw,kawi
-kbd,kabardian
+kbd,kabardinski
 kbl,kanembu
 kcg,tyap
 kde,makonde
@@ -235,9 +239,9 @@ kl,kalaallisut
 kln,kalenjin
 km,kmerski
 kmb,kimbundu
-kn,kannadski
+kn,karnatački
 ko,korejski
-koi,komski ili permski
+koi,komi-permski
 kok,konkani
 kos,naurski
 kpe,kpelle
@@ -254,7 +258,7 @@ kum,kumyk
 kut,kutenai
 kv,komi
 kw,kornski
-ky,kirgiški
+ky,kirgiski
 la,latinski
 lad,ladino
 lag,langi
@@ -263,7 +267,7 @@ lam,lamba
 lb,luksemburški
 lez,lezgiški
 lg,ganda
-li,limburgish
+li,limburški
 lkt,lakota
 ln,lingala
 lo,laoski
@@ -293,7 +297,7 @@ men,mende
 mer,meru
 mfe,mauricijski kreolski
 mg,malgaški
-mga,"irski, srednji"
+mga,srednjoirski
 mgh,makhuwa-meetto
 mgo,meta’
 mh,maršalski
@@ -305,7 +309,7 @@ ml,malajalamski
 mn,mongolski
 mnc,mandžurski
 mni,manipurski
-moh,mohawk
+moh,mohok
 mos,mossi
 mr,marathski
 ms,malajski
@@ -320,9 +324,10 @@ mye,myene
 myv,mordvinski
 mzn,mazanderanski
 na,nauru
+nan,min nan kineski
 nap,napolitanski
 naq,nama
-nb,književni norveški
+nb,norveški bokmål
 nd,sjeverni ndebele
 nds,donjonjemački
 nds_NL,donjosaksonski
@@ -334,18 +339,18 @@ niu,niujski
 nl,nizozemski
 nl_BE,flamanski
 nmg,kwasio
-nn,novonorveški
+nn,norveški nynorsk
 nnh,ngiemboon
 no,norveški
 nog,nogajski
 non,staronorveški
 nqo,n’ko
 nr,južni ndebele
-nso,sjeverni sotho
-nus,nuer
+nso,sjeverni sotski
+nus,nuerski
 nv,navajo
 nwc,klasični newari
-ny,nyanja
+ny,njandža
 nym,nyamwezi
 nyn,nyankole
 nyo,nyoro
@@ -363,22 +368,24 @@ pal,pahlavi
 pam,pampanga
 pap,papiamento
 pau,palauanski
+pcm,nigerijski pidžin
 peo,staroperzijski
 phn,fenički
 pi,pali
 pl,poljski
 pon,pohnpeian
+prg,pruski
 pro,staroprovansalski
-ps,paštu
+ps,paštunski
 pt,portugalski
 pt_BR,brazilski portugalski
 pt_PT,europski portugalski
-qu,kečua
+qu,kečuanski
 quc,kiče
 raj,rajasthani
 rap,rapa nui
 rar,rarotonški
-rm,romanš
+rm,retoromanski
 rn,rundi
 ro,rumunjski
 ro_MD,moldavski
@@ -395,15 +402,15 @@ sah,jakutski
 sam,samarijanski aramejski
 saq,samburu
 sas,sasak
-sat,santali
+sat,santalski
 sba,ngambay
 sbp,sangu
 sc,sardski
 scn,sicilijski
 sco,škotski
-sd,sindhi
+sd,sindski
 sdh,južnokurdski
-se,južni sami
+se,sjeverni sami
 see,seneca
 seh,sena
 sel,selkupski
@@ -419,7 +426,7 @@ sid,sidamo
 sk,slovački
 sl,slovenski
 sm,samoanski
-sma,sjeverni sami
+sma,južni sami
 smj,lule sami
 smn,inari sami
 sms,skolt sami
@@ -440,12 +447,12 @@ sus,susu
 sux,sumerski
 sv,švedski
 sw,svahili
+sw_CD,kongoanski svahili
 swb,komorski
-swc,kongoanski swahili
 syc,klasični sirski
 syr,sirijski
 ta,tamilski
-te,telugu
+te,teluški
 tem,temne
 teo,teso
 ter,tereno
@@ -460,7 +467,7 @@ tkl,tokelaunski
 tl,tagalog
 tlh,klingonski
 tli,tlingit
-tmh,tamashek
+tmh,tamašečki
 tn,cvana
 to,tonganski
 tog,nyasa tonga
@@ -475,8 +482,8 @@ tvl,tuvaluanski
 tw,twi
 twq,tasawaq
 ty,tahićanski
-tyv,tuvinian
-tzm,marokanski tamazight
+tyv,tuvinski
+tzm,tamašek (Srednji Atlas)
 udm,udmurtski
 ug,ujgurski
 uga,ugaritski
@@ -489,15 +496,16 @@ vai,vai
 ve,venda
 vi,vijetnamski
 vo,volapük
-vot,votic
+vot,votski
 vun,vunjo
 wa,valonski
-wae,walser
+wae,walserski
 wal,walamo
 war,waray
 was,washo
 wbp,warlpiri
-wo,wolof
+wo,volof
+wuu,wu kineski
 xal,kalmyk
 xh,xhosa
 xog,soga
@@ -506,13 +514,13 @@ yap,japski
 yav,yangben
 ybb,yemba
 yi,jidiš
-yo,joruba
+yo,jorupski
 yue,kantonski
 za,zhuang
-zap,zapotec
-zbl,blissymbols
+zap,zapotečki
+zbl,Blissovi simboli
 zen,zenaga
-zgh,standardni marokanski tamazight
+zgh,standardni marokanski tamašek
 zh,kineski
 zh_Hans,kineski (pojednostavljeni)
 zh_Hant,kineski (tradicionalni)

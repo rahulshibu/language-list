@@ -78,7 +78,7 @@ bua,bouriate
 bug,bugi
 bum,boulou
 byn,blin
-byv,medumba
+byv,médumba
 ca,catalan
 cad,caddo
 car,caribe
@@ -103,6 +103,7 @@ cop,copte
 cps,capiznon
 cr,cree
 crh,turc de Crimée
+crs,créole seychellois
 cs,tchèque
 csb,kachoube
 cu,slavon d’église
@@ -116,7 +117,7 @@ de,allemand
 de_AT,allemand autrichien
 de_CH,allemand suisse
 del,delaware
-den,slavey
+den,esclave
 dgr,dogrib
 din,dinka
 dje,zarma
@@ -132,10 +133,10 @@ dz,dzongkha
 dzg,dazaga
 ebu,embou
 ee,éwé
-efi,efik
+efi,éfik
 egl,émilien
 egy,égyptien ancien
-eka,ekajuk
+eka,ékadjouk
 el,grec
 elx,élamite
 en,anglais
@@ -146,9 +147,6 @@ en_US,anglais américain
 enm,moyen anglais
 eo,espéranto
 es,espagnol
-es_419,espagnol latino-américain
-es_ES,espagnol européen
-es_MX,espagnol mexicain
 esu,youpik central
 et,estonien
 eu,basque
@@ -170,7 +168,7 @@ fr_CH,français suisse
 frc,français cadien
 frm,moyen français
 fro,ancien français
-frp,franco-provençal
+frp,francoprovençal
 frr,frison du Nord
 frs,frison oriental
 fur,frioulan
@@ -184,7 +182,7 @@ gba,gbaya
 gbz,dari zoroastrien
 gd,gaélique écossais
 gez,guèze
-gil,gilbertais
+gil,gilbertin
 gl,galicien
 glk,gilaki
 gmh,moyen haut-allemand
@@ -193,15 +191,15 @@ goh,ancien haut allemand
 gom,konkani de Goa
 gon,gondi
 gor,gorontalo
-got,gotique
+got,gothique
 grb,grebo
 grc,grec ancien
 gsw,suisse allemand
-gu,gujarati
+gu,goudjerati
 guc,wayuu
 gur,gurenne
 guz,gusii
-gv,manx
+gv,mannois
 gwi,gwichʼin
 ha,haoussa
 hai,haida
@@ -241,7 +239,7 @@ ja,japonais
 jam,créole jamaïcain
 jbo,lojban
 jgo,ngomba
-jmc,machame
+jmc,matchamé
 jpr,judéo-persan
 jrb,judéo-arabe
 jut,jute
@@ -256,9 +254,9 @@ kaw,kawi
 kbd,kabardin
 kbl,kanembou
 kcg,tyap
-kde,makonde
+kde,makondé
 kea,capverdien
-ken,kenyang
+ken,kényang
 kfo,koro
 kg,kongo
 kgp,caingangue
@@ -268,25 +266,25 @@ khq,koyra chiini
 khw,khowar
 ki,kikuyu
 kiu,kirmanjki
-kj,kuanyama
+kj,kouanyama
 kk,kazakh
 kkj,kako
 kl,groenlandais
-kln,kalenjin
+kln,kalendjin
 km,khmer
-kmb,kiMboundou
+kmb,kimboundou
 kn,kannada
 ko,coréen
 koi,komi-permiak
 kok,konkani
-kos,kusaien
+kos,kosraéen
 kpe,kpellé
 kr,kanouri
 krc,karatchaï balkar
 kri,krio
 krj,kinaray-a
 krl,carélien
-kru,kurukh
+kru,kouroukh
 ks,kashmiri
 ksb,chambala
 ksf,bafia
@@ -320,32 +318,32 @@ lt,lituanien
 ltg,latgalien
 lu,luba-katanga
 lua,luba-lulua
-lui,luiseno
+lui,luiseño
 lun,lunda
 luo,luo
-lus,lushai
-luy,oluluyia
+lus,lushaï
+luy,luhya
 lv,letton
 lzh,chinois littéraire
 lzz,laze
-mad,madurais
+mad,madourais
 maf,mafa
 mag,magahi
 mai,maithili
 mak,makassar
 man,mandingue
-mas,masai
+mas,massaï
 mde,maba
 mdf,moksa
 mdr,mandar
 men,mendé
-mer,merou
+mer,mérou
 mfe,créole mauricien
 mg,malgache
 mga,moyen irlandais
 mgh,makhuwa-meetto
 mgo,méta’
-mh,marshall
+mh,marshallais
 mi,maori
 mic,micmac
 min,minangkabau
@@ -360,7 +358,7 @@ mr,marathe
 mrj,mari occidental
 ms,malais
 mt,maltais
-mua,mundang
+mua,moundang
 mul,multilingue
 mus,creek
 mwl,mirandais
@@ -382,8 +380,8 @@ ne,népalais
 new,newari
 ng,ndonga
 nia,nias
-niu,niué
-njo,ao naga
+niu,niuéen
+njo,Ao
 nl,néerlandais
 nl_BE,flamand
 nmg,kwasio
@@ -418,7 +416,8 @@ pam,pampangan
 pap,papiamento
 pau,palau
 pcd,picard
-pdc,allemand de Pennsylvanie
+pcm,pidgin nigérian
+pdc,pennsilfaanisch
 pdt,bas-prussien
 peo,persan ancien
 pfl,allemand palatin
@@ -441,13 +440,13 @@ raj,rajasthani
 rap,rapanui
 rar,rarotongien
 rgn,romagnol
-rif,riffain
+rif,rifain
 rm,romanche
 rn,roundi
 ro,roumain
 ro_MD,moldave
 rof,rombo
-rom,tzigane
+rom,romani
 root,racine
 rtm,rotuman
 ru,russe
@@ -460,7 +459,7 @@ sa,sanskrit
 sad,sandawe
 sah,iakoute
 sam,araméen samaritain
-saq,samburu
+saq,sambourou
 sas,sasak
 sat,santal
 saz,saurashtra
@@ -474,7 +473,7 @@ sdc,sarde sassarais
 sdh,kurde du Sud
 se,sami du Nord
 see,seneca
-seh,sena
+seh,cisena
 sei,séri
 sel,selkoupe
 ses,koyraboro senni
@@ -490,7 +489,7 @@ sid,sidamo
 sk,slovaque
 sl,slovène
 sli,bas-silésien
-sly,selayar
+sly,sélayar
 sm,samoan
 sma,sami du Sud
 smj,sami de Lule
@@ -506,16 +505,16 @@ srn,sranan tongo
 srr,sérère
 ss,swati
 ssy,saho
-st,sesotho
-stq,frison de Saterland
+st,sotho du Sud
+stq,saterlandais
 su,soundanais
-suk,sukuma
+suk,soukouma
 sus,soussou
 sux,sumérien
 sv,suédois
 sw,swahili
+sw_CD,swahili du Congo
 swb,comorien
-swc,swahili du Congo
 syc,syriaque classique
 syr,syriaque
 szl,silésien
@@ -533,7 +532,7 @@ tig,tigré
 tiv,tiv
 tk,turkmène
 tkl,tokelau
-tkr,tsakhur
+tkr,tsakhour
 tl,tagalog
 tlh,klingon
 tli,tlingit
@@ -544,25 +543,25 @@ to,tonguien
 tog,tonga nyasa
 tpi,tok pisin
 tr,turc
-tru,turoyo
+tru,touroyo
 trv,taroko
 ts,tsonga
 tsd,tsakonien
 tsi,tsimshian
 tt,tatar
 ttt,tati caucasien
-tum,tumbuka
+tum,toumbouka
 tvl,tuvalu
 tw,twi
 twq,tasawaq
 ty,tahitien
 tyv,touva
-tzm,tamazight
+tzm,tamazight du Maroc central
 udm,oudmourte
 ug,ouïghour
 uga,ougaritique
 uk,ukrainien
-umb,umbundu
+umb,oumboundou
 und,langue indéterminée
 ur,ourdou
 uz,ouzbek
@@ -607,6 +606,6 @@ zh,chinois
 zh_Hans,chinois simplifié
 zh_Hant,chinois traditionnel
 zu,zoulou
-zun,zuni
+zun,zuñi
 zxx,sans contenu linguistique
 zza,zazaki

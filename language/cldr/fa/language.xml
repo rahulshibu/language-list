@@ -137,6 +137,10 @@
     <name>آواری</name>
   </language>
   <language>
+    <code>awa</code>
+    <name>اودهی</name>
+  </language>
+  <language>
     <code>ay</code>
     <name>آیمارایی</name>
   </language>
@@ -211,6 +215,10 @@
   <language>
     <code>bin</code>
     <name>بینی</name>
+  </language>
+  <language>
+    <code>bla</code>
+    <name>سیکسیکا</name>
   </language>
   <language>
     <code>bm</code>
@@ -322,7 +330,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>کردی سورانی</name>
+    <name>کردی مرکزی</name>
   </language>
   <language>
     <code>co</code>
@@ -339,6 +347,10 @@
   <language>
     <code>crh</code>
     <name>ترکی کریمه</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>سیشل آمیختهٔ فرانسوی</name>
   </language>
   <language>
     <code>cs</code>
@@ -422,7 +434,7 @@
   </language>
   <language>
     <code>dv</code>
-    <name>مالدیوی</name>
+    <name>دیوهی</name>
   </language>
   <language>
     <code>dyo</code>
@@ -435,6 +447,10 @@
   <language>
     <code>dz</code>
     <name>جونخایی</name>
+  </language>
+  <language>
+    <code>dzg</code>
+    <name>دازاگایی</name>
   </language>
   <language>
     <code>ebu</code>
@@ -530,7 +546,7 @@
   </language>
   <language>
     <code>fan</code>
-    <name>فانکی</name>
+    <name>فانگی</name>
   </language>
   <language>
     <code>fat</code>
@@ -770,7 +786,11 @@
   </language>
   <language>
     <code>iba</code>
-    <name>آیبن</name>
+    <name>ایبانی</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>ایبیبویی</name>
   </language>
   <language>
     <code>id</code>
@@ -929,6 +949,10 @@
     <name>قزاقی</name>
   </language>
   <language>
+    <code>kkj</code>
+    <name>کاکایی</name>
+  </language>
+  <language>
     <code>kl</code>
     <name>گرینلندی</name>
   </language>
@@ -973,6 +997,10 @@
     <name>قره‌چایی‐بالکاری</name>
   </language>
   <language>
+    <code>krl</code>
+    <name>کاریلیانی</name>
+  </language>
+  <language>
     <code>kru</code>
     <name>کوروخی</name>
   </language>
@@ -987,6 +1015,10 @@
   <language>
     <code>ksf</code>
     <name>بافیایی</name>
+  </language>
+  <language>
+    <code>ksh</code>
+    <name>ریپواری</name>
   </language>
   <language>
     <code>ku</code>
@@ -1241,6 +1273,10 @@
     <name>کریکی</name>
   </language>
   <language>
+    <code>mwl</code>
+    <name>میراندی</name>
+  </language>
+  <language>
     <code>mwr</code>
     <name>مارواری</name>
   </language>
@@ -1319,6 +1355,10 @@
   <language>
     <code>nn</code>
     <name>نروژی نی‌نُشک</name>
+  </language>
+  <language>
+    <code>nnh</code>
+    <name>انگیمبونی</name>
   </language>
   <language>
     <code>no</code>
@@ -1427,6 +1467,10 @@
   <language>
     <code>pau</code>
     <name>پالائویی</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>نیم‌زبان نیجریه‌ای</name>
   </language>
   <language>
     <code>pdc</code>
@@ -1569,6 +1613,10 @@
     <name>سانتالی</name>
   </language>
   <language>
+    <code>sba</code>
+    <name>انگامبایی</name>
+  </language>
+  <language>
     <code>sbp</code>
     <name>سانگویی</name>
   </language>
@@ -1709,6 +1757,10 @@
     <name>سوازیایی</name>
   </language>
   <language>
+    <code>ssy</code>
+    <name>ساهو</name>
+  </language>
+  <language>
     <code>st</code>
     <name>سوتویی جنوبی</name>
   </language>
@@ -1734,15 +1786,15 @@
   </language>
   <language>
     <code>sw</code>
-    <name>سواحلی</name>
+    <name>سواحیلی</name>
+  </language>
+  <language>
+    <code>sw_CD</code>
+    <name>سواحیلی کنگو</name>
   </language>
   <language>
     <code>swb</code>
     <name>کوموری</name>
-  </language>
-  <language>
-    <code>swc</code>
-    <name>سواحلی کنگویی</name>
   </language>
   <language>
     <code>syc</code>
@@ -1839,6 +1891,10 @@
   <language>
     <code>tr</code>
     <name>ترکی استانبولی</name>
+  </language>
+  <language>
+    <code>trv</code>
+    <name>تاروکویی</name>
   </language>
   <language>
     <code>ts</code>
@@ -1941,6 +1997,10 @@
     <name>والونی</name>
   </language>
   <language>
+    <code>wae</code>
+    <name>والسر</name>
+  </language>
+  <language>
     <code>wal</code>
     <name>والامو</name>
   </language>
@@ -1979,6 +2039,14 @@
   <language>
     <code>yap</code>
     <name>یاپی</name>
+  </language>
+  <language>
+    <code>yav</code>
+    <name>یانگبنی</name>
+  </language>
+  <language>
+    <code>ybb</code>
+    <name>یمبایی</name>
   </language>
   <language>
     <code>yi</code>

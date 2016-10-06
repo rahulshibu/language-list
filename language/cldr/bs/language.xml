@@ -6,11 +6,11 @@
   </language>
   <language>
     <code>ab</code>
-    <name>abhazijski</name>
+    <name>abhaski</name>
   </language>
   <language>
     <code>ace</code>
-    <name>ačineski</name>
+    <name>acehneski</name>
   </language>
   <language>
     <code>ach</code>
@@ -30,7 +30,7 @@
   </language>
   <language>
     <code>af</code>
-    <name>afrikanerski</name>
+    <name>afrikans</name>
   </language>
   <language>
     <code>afh</code>
@@ -54,7 +54,7 @@
   </language>
   <language>
     <code>ale</code>
-    <name>aljut</name>
+    <name>aleutski</name>
   </language>
   <language>
     <code>alt</code>
@@ -66,7 +66,7 @@
   </language>
   <language>
     <code>an</code>
-    <name>aragonežanski</name>
+    <name>aragonski</name>
   </language>
   <language>
     <code>ang</code>
@@ -86,11 +86,11 @@
   </language>
   <language>
     <code>arc</code>
-    <name>armajski</name>
+    <name>aramejski</name>
   </language>
   <language>
     <code>arn</code>
-    <name>araukanski</name>
+    <name>mapuški</name>
   </language>
   <language>
     <code>arp</code>
@@ -102,7 +102,7 @@
   </language>
   <language>
     <code>as</code>
-    <name>asemijski</name>
+    <name>asamski</name>
   </language>
   <language>
     <code>asa</code>
@@ -150,7 +150,7 @@
   </language>
   <language>
     <code>bbj</code>
-    <name>ghomala</name>
+    <name>gomala</name>
   </language>
   <language>
     <code>be</code>
@@ -234,7 +234,7 @@
   </language>
   <language>
     <code>bss</code>
-    <name>akoose</name>
+    <name>akoski</name>
   </language>
   <language>
     <code>bua</code>
@@ -242,7 +242,7 @@
   </language>
   <language>
     <code>bug</code>
-    <name>buginežanskii</name>
+    <name>bugiški</name>
   </language>
   <language>
     <code>bum</code>
@@ -270,7 +270,7 @@
   </language>
   <language>
     <code>cay</code>
-    <name>cayuga</name>
+    <name>kajuga</name>
   </language>
   <language>
     <code>cch</code>
@@ -310,11 +310,11 @@
   </language>
   <language>
     <code>chn</code>
-    <name>činukski</name>
+    <name>činukski žargon</name>
   </language>
   <language>
     <code>cho</code>
-    <name>čoktavski</name>
+    <name>čoktav</name>
   </language>
   <language>
     <code>chp</code>
@@ -330,7 +330,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>soranski kurdski</name>
+    <name>centralnokurdski</name>
   </language>
   <language>
     <code>co</code>
@@ -346,7 +346,11 @@
   </language>
   <language>
     <code>crh</code>
-    <name>krimeanski turski</name>
+    <name>krimski turski</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>seselva kreolski francuski</name>
   </language>
   <language>
     <code>cs</code>
@@ -358,7 +362,7 @@
   </language>
   <language>
     <code>cu</code>
-    <name>staroslovenski</name>
+    <name>staroslavenski</name>
   </language>
   <language>
     <code>cv</code>
@@ -389,12 +393,8 @@
     <name>njemački</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>austrijski njemački</name>
-  </language>
-  <language>
     <code>de_CH</code>
-    <name>gornjonjemački (švicarski)</name>
+    <name>gornjonjemački (Švicarska)</name>
   </language>
   <language>
     <code>del</code>
@@ -402,7 +402,7 @@
   </language>
   <language>
     <code>den</code>
-    <name>slavski</name>
+    <name>slave</name>
   </language>
   <language>
     <code>dgr</code>
@@ -430,19 +430,19 @@
   </language>
   <language>
     <code>dum</code>
-    <name>srednji holandski</name>
+    <name>srednjovjekovni holandski</name>
   </language>
   <language>
     <code>dv</code>
-    <name>divehijski</name>
+    <name>divehi</name>
   </language>
   <language>
     <code>dyo</code>
-    <name>jola-fonyi</name>
+    <name>jola-foni</name>
   </language>
   <language>
     <code>dyu</code>
-    <name>đula</name>
+    <name>diula</name>
   </language>
   <language>
     <code>dz</code>
@@ -462,7 +462,7 @@
   </language>
   <language>
     <code>efi</code>
-    <name>efikski</name>
+    <name>efik</name>
   </language>
   <language>
     <code>egy</code>
@@ -485,24 +485,8 @@
     <name>engleski</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>australski engleski</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>kanadski engleski</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>britanski engleski</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>američki engleski</name>
-  </language>
-  <language>
     <code>enm</code>
-    <name>srednji engleski</name>
+    <name>srednjovjekovni engleski</name>
   </language>
   <language>
     <code>eo</code>
@@ -511,18 +495,6 @@
   <language>
     <code>es</code>
     <name>španski</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>latinoamerički španski</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>evropski španski</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>meksički španski</name>
   </language>
   <language>
     <code>et</code>
@@ -558,7 +530,7 @@
   </language>
   <language>
     <code>fil</code>
-    <name>filipinski</name>
+    <name>filipino</name>
   </language>
   <language>
     <code>fj</code>
@@ -577,16 +549,8 @@
     <name>francuski</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>kanadski francuski</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>švajcarski francuski</name>
-  </language>
-  <language>
     <code>frm</code>
-    <name>srednji francuski</name>
+    <name>srednjovjekovni francuski</name>
   </language>
   <language>
     <code>fro</code>
@@ -594,11 +558,11 @@
   </language>
   <language>
     <code>frr</code>
-    <name>severno-frizijski</name>
+    <name>sjeverni frizijski</name>
   </language>
   <language>
     <code>frs</code>
-    <name>istočni frizijski</name>
+    <name>istočnofrizijski</name>
   </language>
   <language>
     <code>fur</code>
@@ -606,7 +570,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>frizijski</name>
+    <name>zapadni frizijski</name>
   </language>
   <language>
     <code>ga</code>
@@ -634,19 +598,19 @@
   </language>
   <language>
     <code>gez</code>
-    <name>džiz</name>
+    <name>staroetiopski</name>
   </language>
   <language>
     <code>gil</code>
-    <name>gilbertški</name>
+    <name>gilbertski</name>
   </language>
   <language>
     <code>gl</code>
-    <name>galski</name>
+    <name>galicijski</name>
   </language>
   <language>
     <code>gmh</code>
-    <name>srednji visoki nemački</name>
+    <name>srednjovjekovni gornjonjemački</name>
   </language>
   <language>
     <code>gn</code>
@@ -654,7 +618,7 @@
   </language>
   <language>
     <code>goh</code>
-    <name>staronemački</name>
+    <name>staronjemački</name>
   </language>
   <language>
     <code>gon</code>
@@ -678,7 +642,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>švajcarski njemački</name>
+    <name>njemački (Švicarska)</name>
   </language>
   <language>
     <code>gu</code>
@@ -686,7 +650,7 @@
   </language>
   <language>
     <code>guz</code>
-    <name>gusii</name>
+    <name>gusi</name>
   </language>
   <language>
     <code>gv</code>
@@ -694,7 +658,7 @@
   </language>
   <language>
     <code>gwi</code>
-    <name>gwich’in</name>
+    <name>gvičin</name>
   </language>
   <language>
     <code>ha</code>
@@ -714,7 +678,7 @@
   </language>
   <language>
     <code>hi</code>
-    <name>hindi</name>
+    <name>hindu</name>
   </language>
   <language>
     <code>hil</code>
@@ -754,7 +718,7 @@
   </language>
   <language>
     <code>hy</code>
-    <name>jermenski</name>
+    <name>armenski</name>
   </language>
   <language>
     <code>hz</code>
@@ -810,7 +774,7 @@
   </language>
   <language>
     <code>it</code>
-    <name>italijanski</name>
+    <name>talijanski</name>
   </language>
   <language>
     <code>iu</code>
@@ -830,11 +794,11 @@
   </language>
   <language>
     <code>jmc</code>
-    <name>machame</name>
+    <name>makame</name>
   </language>
   <language>
     <code>jpr</code>
-    <name>judeo-persijski</name>
+    <name>judeo-perzijski</name>
   </language>
   <language>
     <code>jrb</code>
@@ -850,7 +814,7 @@
   </language>
   <language>
     <code>kaa</code>
-    <name>kara-kalpaški</name>
+    <name>kara-kalpak</name>
   </language>
   <language>
     <code>kab</code>
@@ -862,7 +826,7 @@
   </language>
   <language>
     <code>kaj</code>
-    <name>žju</name>
+    <name>kaju</name>
   </language>
   <language>
     <code>kam</code>
@@ -910,7 +874,7 @@
   </language>
   <language>
     <code>khq</code>
-    <name>koyra chiini</name>
+    <name>kojra čini</name>
   </language>
   <language>
     <code>ki</code>
@@ -954,7 +918,7 @@
   </language>
   <language>
     <code>koi</code>
-    <name>komi-permjački</name>
+    <name>komi-permski</name>
   </language>
   <language>
     <code>kok</code>
@@ -962,7 +926,7 @@
   </language>
   <language>
     <code>kos</code>
-    <name>kosreanski</name>
+    <name>kosrejski</name>
   </language>
   <language>
     <code>kpe</code>
@@ -986,15 +950,15 @@
   </language>
   <language>
     <code>kru</code>
-    <name>kurukh</name>
+    <name>kuruški</name>
   </language>
   <language>
     <code>ks</code>
-    <name>kašmiri</name>
+    <name>kašmirski</name>
   </language>
   <language>
     <code>ksb</code>
-    <name>shambala</name>
+    <name>šambala</name>
   </language>
   <language>
     <code>ksf</code>
@@ -1022,11 +986,11 @@
   </language>
   <language>
     <code>kw</code>
-    <name>korniški</name>
+    <name>kornski</name>
   </language>
   <language>
     <code>ky</code>
-    <name>kirgiski</name>
+    <name>kirgiški</name>
   </language>
   <language>
     <code>la</code>
@@ -1054,7 +1018,7 @@
   </language>
   <language>
     <code>lez</code>
-    <name>lezgian</name>
+    <name>lezgijski</name>
   </language>
   <language>
     <code>lg</code>
@@ -1062,7 +1026,7 @@
   </language>
   <language>
     <code>li</code>
-    <name>limburgiš</name>
+    <name>limburški</name>
   </language>
   <language>
     <code>lkt</code>
@@ -1114,15 +1078,15 @@
   </language>
   <language>
     <code>lus</code>
-    <name>lušai</name>
+    <name>mizo</name>
   </language>
   <language>
     <code>luy</code>
-    <name>luyia</name>
+    <name>luhija</name>
   </language>
   <language>
     <code>lv</code>
-    <name>letonski</name>
+    <name>latvijski</name>
   </language>
   <language>
     <code>mad</code>
@@ -1178,19 +1142,19 @@
   </language>
   <language>
     <code>mg</code>
-    <name>malagazijski</name>
+    <name>malagaški</name>
   </language>
   <language>
     <code>mga</code>
-    <name>srednji irski</name>
+    <name>srednjovjekovni irski</name>
   </language>
   <language>
     <code>mgh</code>
-    <name>makhuwa-meetto</name>
+    <name>makuva-meto</name>
   </language>
   <language>
     <code>mgo</code>
-    <name>meta’</name>
+    <name>meta</name>
   </language>
   <language>
     <code>mh</code>
@@ -1230,7 +1194,7 @@
   </language>
   <language>
     <code>moh</code>
-    <name>mahavski</name>
+    <name>mohavk</name>
   </language>
   <language>
     <code>mos</code>
@@ -1274,7 +1238,7 @@
   </language>
   <language>
     <code>mye</code>
-    <name>myene</name>
+    <name>mjene</name>
   </language>
   <language>
     <code>myv</code>
@@ -1290,7 +1254,7 @@
   </language>
   <language>
     <code>nap</code>
-    <name>neapolitanski</name>
+    <name>napolitanski</name>
   </language>
   <language>
     <code>naq</code>
@@ -1298,7 +1262,7 @@
   </language>
   <language>
     <code>nb</code>
-    <name>norveški bokmal</name>
+    <name>norveški (Bokmal)</name>
   </language>
   <language>
     <code>nd</code>
@@ -1306,11 +1270,11 @@
   </language>
   <language>
     <code>nds</code>
-    <name>niski nemački</name>
+    <name>donjonjemački</name>
   </language>
   <language>
     <code>nds_NL</code>
-    <name>niskosaksonski</name>
+    <name>donjosaksonski</name>
   </language>
   <language>
     <code>ne</code>
@@ -1342,15 +1306,15 @@
   </language>
   <language>
     <code>nmg</code>
-    <name>kwasio</name>
+    <name>kvasio</name>
   </language>
   <language>
     <code>nn</code>
-    <name>norveški njorsk</name>
+    <name>norveški (Nynorsk)</name>
   </language>
   <language>
     <code>nnh</code>
-    <name>ngiemboon</name>
+    <name>ngiembon</name>
   </language>
   <language>
     <code>no</code>
@@ -1362,7 +1326,7 @@
   </language>
   <language>
     <code>non</code>
-    <name>stari norski</name>
+    <name>staronordijski</name>
   </language>
   <language>
     <code>nqo</code>
@@ -1374,7 +1338,7 @@
   </language>
   <language>
     <code>nso</code>
-    <name>severni soto</name>
+    <name>sjeverni soto</name>
   </language>
   <language>
     <code>nus</code>
@@ -1410,7 +1374,7 @@
   </language>
   <language>
     <code>oc</code>
-    <name>provansalski</name>
+    <name>oksitanski</name>
   </language>
   <language>
     <code>oj</code>
@@ -1434,11 +1398,11 @@
   </language>
   <language>
     <code>ota</code>
-    <name>otomanski turski</name>
+    <name>osmanski turski</name>
   </language>
   <language>
     <code>pa</code>
-    <name>pandžabski</name>
+    <name>pandžapski</name>
   </language>
   <language>
     <code>pag</code>
@@ -1461,8 +1425,12 @@
     <name>palauanski</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>nigerijski pidžin</name>
+  </language>
+  <language>
     <code>peo</code>
-    <name>staropersijski</name>
+    <name>staroperzijski</name>
   </language>
   <language>
     <code>phn</code>
@@ -1481,12 +1449,16 @@
     <name>ponpejski</name>
   </language>
   <language>
+    <code>prg</code>
+    <name>pruski</name>
+  </language>
+  <language>
     <code>pro</code>
     <name>staroprovansalski</name>
   </language>
   <language>
     <code>ps</code>
-    <name>paštunski</name>
+    <name>paštu</name>
   </language>
   <language>
     <code>pt</code>
@@ -1494,7 +1466,7 @@
   </language>
   <language>
     <code>qu</code>
-    <name>kvenča</name>
+    <name>kečua</name>
   </language>
   <language>
     <code>quc</code>
@@ -1502,7 +1474,7 @@
   </language>
   <language>
     <code>raj</code>
-    <name>rađastani</name>
+    <name>rajastani</name>
   </language>
   <language>
     <code>rap</code>
@@ -1538,7 +1510,7 @@
   </language>
   <language>
     <code>root</code>
-    <name>run</name>
+    <name>korijenski</name>
   </language>
   <language>
     <code>ru</code>
@@ -1546,7 +1518,7 @@
   </language>
   <language>
     <code>rup</code>
-    <name>aromanijski</name>
+    <name>arumunski</name>
   </language>
   <language>
     <code>rw</code>
@@ -1566,7 +1538,7 @@
   </language>
   <language>
     <code>sah</code>
-    <name>jakut</name>
+    <name>jakutski</name>
   </language>
   <language>
     <code>sam</code>
@@ -1586,7 +1558,7 @@
   </language>
   <language>
     <code>sba</code>
-    <name>ngambay</name>
+    <name>ngambaj</name>
   </language>
   <language>
     <code>sbp</code>
@@ -1610,7 +1582,7 @@
   </language>
   <language>
     <code>sdh</code>
-    <name>južnokurdski</name>
+    <name>južni kurdski</name>
   </language>
   <language>
     <code>se</code>
@@ -1618,7 +1590,7 @@
   </language>
   <language>
     <code>see</code>
-    <name>seneca</name>
+    <name>seneka</name>
   </language>
   <language>
     <code>seh</code>
@@ -1626,7 +1598,7 @@
   </language>
   <language>
     <code>sel</code>
-    <name>selkap</name>
+    <name>selkup</name>
   </language>
   <language>
     <code>ses</code>
@@ -1658,7 +1630,7 @@
   </language>
   <language>
     <code>si</code>
-    <name>singaleski</name>
+    <name>sinhaleški</name>
   </language>
   <language>
     <code>sid</code>
@@ -1670,7 +1642,7 @@
   </language>
   <language>
     <code>sl</code>
-    <name>slovenački</name>
+    <name>slovenski</name>
   </language>
   <language>
     <code>sm</code>
@@ -1690,7 +1662,7 @@
   </language>
   <language>
     <code>sms</code>
-    <name>skoltski jezik</name>
+    <name>skolt sami</name>
   </language>
   <language>
     <code>sn</code>
@@ -1706,7 +1678,7 @@
   </language>
   <language>
     <code>sog</code>
-    <name>sodžijenski</name>
+    <name>sogdien</name>
   </language>
   <language>
     <code>sq</code>
@@ -1734,7 +1706,7 @@
   </language>
   <language>
     <code>st</code>
-    <name>sesoto</name>
+    <name>južni soto</name>
   </language>
   <language>
     <code>su</code>
@@ -1763,10 +1735,6 @@
   <language>
     <code>swb</code>
     <name>komorski</name>
-  </language>
-  <language>
-    <code>swc</code>
-    <name>kongoanski swahili</name>
   </language>
   <language>
     <code>syc</code>
@@ -1830,7 +1798,7 @@
   </language>
   <language>
     <code>tl</code>
-    <name>tagalski</name>
+    <name>tagalog</name>
   </language>
   <language>
     <code>tlh</code>
@@ -1906,7 +1874,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>marokanski tamazigt</name>
+    <name>centralnoatlaski tamazigt</name>
   </language>
   <language>
     <code>udm</code>
@@ -1954,7 +1922,7 @@
   </language>
   <language>
     <code>vo</code>
-    <name>volapük</name>
+    <name>volapuk</name>
   </language>
   <language>
     <code>vot</code>
@@ -1970,7 +1938,7 @@
   </language>
   <language>
     <code>wae</code>
-    <name>walser</name>
+    <name>valser</name>
   </language>
   <language>
     <code>wal</code>
@@ -1998,7 +1966,7 @@
   </language>
   <language>
     <code>xh</code>
-    <name>kosa</name>
+    <name>hosa</name>
   </language>
   <language>
     <code>xog</code>
@@ -2014,11 +1982,11 @@
   </language>
   <language>
     <code>yav</code>
-    <name>yangben</name>
+    <name>jangben</name>
   </language>
   <language>
     <code>ybb</code>
-    <name>yemba</name>
+    <name>jemba</name>
   </language>
   <language>
     <code>yi</code>
@@ -2042,7 +2010,7 @@
   </language>
   <language>
     <code>zbl</code>
-    <name>blisimboli</name>
+    <name>blis simboli</name>
   </language>
   <language>
     <code>zen</code>

@@ -2,30 +2,62 @@
 <resources>
   <!-- Kyrgyz (ky) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>афарча</item>
     <!-- ab - Abkhazian -->
     <item>абхазча</item>
+    <!-- ace - Achinese -->
+    <item>ачехче</item>
+    <!-- ada - Adangme -->
+    <item>адаңмече</item>
+    <!-- ady - Adyghe -->
+    <item>адыгейче</item>
     <!-- af - Afrikaans -->
     <item>африкаанча</item>
     <!-- agq - Aghem -->
     <item>агемче</item>
+    <!-- ain - Ainu -->
+    <item>айнуча</item>
     <!-- ak - Akan -->
     <item>аканча</item>
+    <!-- ale - Aleut -->
+    <item>алеутча</item>
+    <!-- alt - Southern Altai -->
+    <item>түштүк алтайча</item>
     <!-- am - Amharic -->
     <item>амхарча</item>
+    <!-- an - Aragonese -->
+    <item>арагончо</item>
+    <!-- anp - Angika -->
+    <item>ангикача</item>
     <!-- ar - Arabic -->
     <item>арабча</item>
     <!-- ar_001 - Modern Standard Arabic -->
     <item>азыркы адабий араб тилинде</item>
     <!-- arn - Mapuche -->
-    <item>мапучеде</item>
+    <item>мапучече</item>
+    <!-- arp - Arapaho -->
+    <item>арапахочо</item>
     <!-- as - Assamese -->
     <item>ассамча</item>
     <!-- asa - Asu -->
     <item>асуча</item>
+    <!-- ast - Asturian -->
+    <item>астурийче</item>
+    <!-- av - Avaric -->
+    <item>аварикче</item>
+    <!-- awa - Awadhi -->
+    <item>авадхиче</item>
+    <!-- ay - Aymara -->
+    <item>аймарача</item>
     <!-- az - Azerbaijani -->
     <item>азербайжанча</item>
     <!-- ba - Bashkir -->
     <item>башкырча</item>
+    <!-- ban - Balinese -->
+    <item>баличе</item>
+    <!-- bas - Basaa -->
+    <item>басаача</item>
     <!-- be - Belarusian -->
     <item>беларусча</item>
     <!-- bem - Bemba -->
@@ -36,56 +68,100 @@
     <item>болгарча</item>
     <!-- bgn - Western Balochi -->
     <item>чыгыш балучиче</item>
+    <!-- bho - Bhojpuri -->
+    <item>бхожпуриче</item>
+    <!-- bi - Bislama -->
+    <item>бисламача</item>
+    <!-- bin - Bini -->
+    <item>биниче</item>
+    <!-- bla - Siksika -->
+    <item>сиксикача</item>
     <!-- bm - Bambara -->
-    <item>бамбарада</item>
-    <!-- bn - Bengali -->
+    <item>бамбарача</item>
+    <!-- bn - Bangla -->
     <item>бангладешче</item>
     <!-- bo - Tibetan -->
     <item>тибетче</item>
     <!-- br - Breton -->
     <item>бретончо</item>
     <!-- brx - Bodo -->
-    <item>бододо</item>
+    <item>бодочо</item>
     <!-- bs - Bosnian -->
     <item>боснийче</item>
+    <!-- bug - Buginese -->
+    <item>бугийче</item>
+    <!-- byn - Blin -->
+    <item>блинче</item>
     <!-- ca - Catalan -->
     <item>каталанча</item>
     <!-- ce - Chechen -->
     <item>чеченче</item>
+    <!-- ceb - Cebuano -->
+    <item>себуанча</item>
     <!-- cgg - Chiga -->
     <item>чигача</item>
+    <!-- ch - Chamorro -->
+    <item>чаморрочо</item>
+    <!-- chk - Chuukese -->
+    <item>чуукиче</item>
+    <!-- chm - Mari -->
+    <item>мариче</item>
+    <!-- cho - Choctaw -->
+    <item>чокточо</item>
     <!-- chr - Cherokee -->
     <item>черокиче</item>
+    <!-- chy - Cheyenne -->
+    <item>шайеннче</item>
     <!-- ckb - Central Kurdish -->
-    <item>сорани курд</item>
+    <item>борбордук курдча</item>
     <!-- co - Corsican -->
     <item>корсиканча</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>сеселва креол французча</item>
     <!-- cs - Czech -->
     <item>чехче</item>
+    <!-- cu - Church Slavic -->
+    <item>чиркөө славянча</item>
     <!-- cv - Chuvash -->
     <item>чувашча</item>
     <!-- cy - Welsh -->
     <item>уелшче</item>
     <!-- da - Danish -->
     <item>датча</item>
+    <!-- dak - Dakota -->
+    <item>дакотача</item>
+    <!-- dar - Dargwa -->
+    <item>даргинче</item>
     <!-- dav - Taita -->
     <item>таитача</item>
     <!-- de - German -->
     <item>немисче</item>
+    <!-- de_CH - Swiss High German -->
+    <item>адабий немисче (Швейцария)</item>
+    <!-- dgr - Dogrib -->
+    <item>догрибче</item>
     <!-- dje - Zarma -->
     <item>замрача</item>
     <!-- dsb - Lower Sorbian -->
     <item>төмөнкү сорбианча</item>
     <!-- dua - Duala -->
     <item>дуалача</item>
+    <!-- dv - Divehi -->
+    <item>дивехиче</item>
     <!-- dyo - Jola-Fonyi -->
     <item>жола-фониче</item>
     <!-- dz - Dzongkha -->
     <item>жонгуча</item>
+    <!-- dzg - Dazaga -->
+    <item>дазагача</item>
     <!-- ebu - Embu -->
     <item>эмбуча</item>
     <!-- ee - Ewe -->
     <item>эбече</item>
+    <!-- efi - Efik -->
+    <item>эфикче</item>
+    <!-- eka - Ekajuk -->
+    <item>экажукча</item>
     <!-- el - Greek -->
     <item>грекче</item>
     <!-- en - English -->
@@ -100,28 +176,48 @@
     <item>эстончо</item>
     <!-- eu - Basque -->
     <item>баскча</item>
+    <!-- ewo - Ewondo -->
+    <item>эвондочо</item>
     <!-- fa - Persian -->
     <item>фарсча</item>
+    <!-- ff - Fulah -->
+    <item>фулача</item>
     <!-- fi - Finnish -->
     <item>финче</item>
     <!-- fil - Filipino -->
-    <item>филипино</item>
+    <item>филипинче</item>
     <!-- fj - Fijian -->
     <item>фижиче</item>
     <!-- fo - Faroese -->
     <item>фароэче</item>
+    <!-- fon - Fon -->
+    <item>фончо</item>
     <!-- fr - French -->
     <item>французча</item>
+    <!-- fur - Friulian -->
+    <item>фриулча</item>
     <!-- fy - Western Frisian -->
     <item>батыш фризче</item>
     <!-- ga - Irish -->
     <item>ирландча</item>
+    <!-- gaa - Ga -->
+    <item>гача</item>
     <!-- gag - Gagauz -->
     <item>гагаузча</item>
+    <!-- gan - Gan Chinese -->
+    <item>Гань Кытайча</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>кельтче</item>
+    <!-- gez - Geez -->
+    <item>гиизче</item>
+    <!-- gil - Gilbertese -->
+    <item>гилбертче</item>
     <!-- gl - Galician -->
     <item>галисияча</item>
     <!-- gn - Guarani -->
     <item>гуараш</item>
+    <!-- gor - Gorontalo -->
+    <item>горонталочо</item>
     <!-- gsw - Swiss German -->
     <item>немисче (Швейцария)</item>
     <!-- gu - Gujarati -->
@@ -130,38 +226,66 @@
     <item>гусиче</item>
     <!-- gv - Manx -->
     <item>манксыча</item>
+    <!-- gwi - Gwichʼin -->
+    <item>гвичинче</item>
     <!-- ha - Hausa -->
     <item>хаусача</item>
+    <!-- hak - Hakka Chinese -->
+    <item>Хакка кытайча</item>
     <!-- haw - Hawaiian -->
     <item>гавайча</item>
     <!-- he - Hebrew -->
     <item>ивритте</item>
     <!-- hi - Hindi -->
     <item>хиндиче</item>
+    <!-- hil - Hiligaynon -->
+    <item>хилигайнончо</item>
+    <!-- hmn - Hmong -->
+    <item>хмонгчо</item>
     <!-- hr - Croatian -->
     <item>хорватча</item>
     <!-- hsb - Upper Sorbian -->
     <item>жогорку сорбианча</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>Сянь Кытайча</item>
     <!-- ht - Haitian Creole -->
     <item>гаитиче</item>
     <!-- hu - Hungarian -->
-    <item>мажарча</item>
+    <item>венгерче</item>
+    <!-- hup - Hupa -->
+    <item>хупача</item>
     <!-- hy - Armenian -->
     <item>армянча</item>
+    <!-- hz - Herero -->
+    <item>герерочо</item>
+    <!-- ia - Interlingua -->
+    <item>интерлингва</item>
+    <!-- iba - Iban -->
+    <item>ибанча</item>
+    <!-- ibb - Ibibio -->
+    <item>ибибиочо</item>
     <!-- id - Indonesian -->
     <item>индонезче</item>
     <!-- ig - Igbo -->
     <item>игбочо</item>
     <!-- ii - Sichuan Yi -->
-    <item>носуча</item>
+    <item>сычуань йиче</item>
+    <!-- ilo - Iloko -->
+    <item>илокочо</item>
+    <!-- inh - Ingush -->
+    <item>ингушча</item>
+    <!-- io - Ido -->
+    <item>идочо</item>
     <!-- is - Icelandic -->
     <item>исландча</item>
     <!-- it - Italian -->
     <item>италиянча</item>
     <!-- iu - Inuktitut -->
-    <item>инуктитутта</item>
+    <item>инуктитутча</item>
     <!-- ja - Japanese -->
-    <item>япончо</item>
+    <item>жапончо</item>
+    <!-- jbo - Lojban -->
+    <item>ложбанча</item>
     <!-- jgo - Ngomba -->
     <item>нгомбача</item>
     <!-- jmc - Machame -->
@@ -172,24 +296,42 @@
     <item>грузинче</item>
     <!-- kab - Kabyle -->
     <item>кабылча</item>
+    <!-- kac - Kachin -->
+    <item>кахинче</item>
+    <!-- kaj - Jju -->
+    <item>джуча</item>
     <!-- kam - Kamba -->
     <item>камбача</item>
+    <!-- kbd - Kabardian -->
+    <item>кабардинче</item>
+    <!-- kcg - Tyap -->
+    <item>тяпча</item>
     <!-- kde - Makonde -->
     <item>макондече</item>
     <!-- kea - Kabuverdianu -->
     <item>кабувердиче</item>
+    <!-- kfo - Koro -->
+    <item>корочо</item>
+    <!-- kha - Khasi -->
+    <item>хасиче</item>
     <!-- khq - Koyra Chiini -->
     <item>койра чиниче</item>
     <!-- ki - Kikuyu -->
     <item>кикуйиче</item>
+    <!-- kj - Kuanyama -->
+    <item>куаньямача</item>
     <!-- kk - Kazakh -->
     <item>казакча</item>
+    <!-- kkj - Kako -->
+    <item>какочо</item>
     <!-- kl - Kalaallisut -->
     <item>калаалисутча</item>
     <!-- kln - Kalenjin -->
     <item>каленжиче</item>
     <!-- km - Khmer -->
     <item>кмерче</item>
+    <!-- kmb - Kimbundu -->
+    <item>кимбундуча</item>
     <!-- kn - Kannada -->
     <item>каннадача</item>
     <!-- ko - Korean -->
@@ -198,46 +340,88 @@
     <item>коми-пермякча</item>
     <!-- kok - Konkani -->
     <item>конканиче</item>
+    <!-- kpe - Kpelle -->
+    <item>кпеллече</item>
+    <!-- kr - Kanuri -->
+    <item>кануриче</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>карачай-балкарча</item>
+    <!-- krl - Karelian -->
+    <item>карелче</item>
+    <!-- kru - Kurukh -->
+    <item>курухча</item>
     <!-- ks - Kashmiri -->
     <item>кашмирче</item>
     <!-- ksb - Shambala -->
     <item>шамабалача</item>
     <!-- ksf - Bafia -->
     <item>бафияча</item>
+    <!-- ksh - Colognian -->
+    <item>колоньяча</item>
     <!-- ku - Kurdish -->
     <item>курдча</item>
+    <!-- kum - Kumyk -->
+    <item>кумыкча</item>
+    <!-- kv - Komi -->
+    <item>комиче</item>
     <!-- kw - Cornish -->
     <item>корнишче</item>
     <!-- ky - Kyrgyz -->
     <item>кыргызча</item>
     <!-- la - Latin -->
     <item>латынча</item>
+    <!-- lad - Ladino -->
+    <item>ладиночо</item>
     <!-- lag - Langi -->
     <item>лангиче</item>
     <!-- lb - Luxembourgish -->
     <item>люксембургча</item>
+    <!-- lez - Lezghian -->
+    <item>лезгинче</item>
     <!-- lg - Ganda -->
     <item>гандача</item>
+    <!-- li - Limburgish -->
+    <item>лимбургиче</item>
     <!-- lkt - Lakota -->
     <item>лакотача</item>
     <!-- ln - Lingala -->
     <item>лингалача</item>
     <!-- lo - Lao -->
     <item>лаочо</item>
+    <!-- loz - Lozi -->
+    <item>лозиче</item>
     <!-- lrc - Northern Luri -->
     <item>түндүк луриче</item>
     <!-- lt - Lithuanian -->
     <item>литовчо</item>
     <!-- lu - Luba-Katanga -->
     <item>луба-катангача</item>
+    <!-- lua - Luba-Lulua -->
+    <item>луба-лулуача</item>
+    <!-- lun - Lunda -->
+    <item>лундача</item>
     <!-- luo - Luo -->
     <item>луочо</item>
+    <!-- lus - Mizo -->
+    <item>мизочо</item>
     <!-- luy - Luyia -->
     <item>лухияча</item>
     <!-- lv - Latvian -->
     <item>латышча</item>
+    <!-- mad - Madurese -->
+    <item>мадурисче</item>
+    <!-- mag - Magahi -->
+    <item>магахиче</item>
+    <!-- mai - Maithili -->
+    <item>маитиличе</item>
+    <!-- mak - Makasar -->
+    <item>макасарча</item>
     <!-- mas - Masai -->
     <item>масайча</item>
+    <!-- mdf - Moksha -->
+    <item>мокшача</item>
+    <!-- men - Mende -->
+    <item>мендече</item>
     <!-- mer - Meru -->
     <item>меруча</item>
     <!-- mfe - Morisyen -->
@@ -247,17 +431,27 @@
     <!-- mgh - Makhuwa-Meetto -->
     <item>макуача</item>
     <!-- mgo - Metaʼ -->
-    <item>метөчө</item>
+    <item>метача</item>
+    <!-- mh - Marshallese -->
+    <item>маршаллча</item>
     <!-- mi - Maori -->
     <item>маориче</item>
+    <!-- mic - Mi'kmaq -->
+    <item>микмакча</item>
+    <!-- min - Minangkabau -->
+    <item>минанкабауча</item>
     <!-- mk - Macedonian -->
     <item>македончо</item>
     <!-- ml - Malayalam -->
     <item>малайаламча</item>
     <!-- mn - Mongolian -->
-    <item>моңголчо</item>
+    <item>монголчо</item>
+    <!-- mni - Manipuri -->
+    <item>манипуриче</item>
     <!-- moh - Mohawk -->
     <item>мохаукча</item>
+    <!-- mos - Mossi -->
+    <item>моссиче</item>
     <!-- mr - Marathi -->
     <item>маратиче</item>
     <!-- ms - Malay -->
@@ -266,10 +460,24 @@
     <item>малтизче</item>
     <!-- mua - Mundang -->
     <item>мундангча</item>
+    <!-- mul - Multiple languages -->
+    <item>бир нече тилде</item>
+    <!-- mus - Creek -->
+    <item>крикче</item>
+    <!-- mwl - Mirandese -->
+    <item>мирандизче</item>
     <!-- my - Burmese -->
     <item>бурмача</item>
+    <!-- myv - Erzya -->
+    <item>эрзянча</item>
     <!-- mzn - Mazanderani -->
     <item>мазандераниче</item>
+    <!-- na - Nauru -->
+    <item>науруча</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>nan</item>
+    <!-- nap - Neapolitan -->
+    <item>неополитанча</item>
     <!-- naq - Nama -->
     <item>намача</item>
     <!-- nb - Norwegian Bokmål -->
@@ -282,6 +490,14 @@
     <item>төмөнкү саксончо</item>
     <!-- ne - Nepali -->
     <item>непалча</item>
+    <!-- new - Newari -->
+    <item>невариче</item>
+    <!-- ng - Ndonga -->
+    <item>ндонгача</item>
+    <!-- nia - Nias -->
+    <item>ниасча</item>
+    <!-- niu - Niuean -->
+    <item>ньюанча</item>
     <!-- nl - Dutch -->
     <item>голландча</item>
     <!-- nl_BE - Flemish -->
@@ -290,24 +506,52 @@
     <item>квасиочо</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>норвежче (Нинорск)</item>
+    <!-- nnh - Ngiemboon -->
+    <item>нгимбунча</item>
     <!-- no - Norwegian -->
     <item>норвежче</item>
+    <!-- nog - Nogai -->
+    <item>ногайча</item>
     <!-- nqo - N’Ko -->
     <item>нкочо</item>
+    <!-- nr - South Ndebele -->
+    <item>түштүк ндебелече</item>
+    <!-- nso - Northern Sotho -->
+    <item>түндүк сохочо</item>
     <!-- nus - Nuer -->
     <item>нуерче</item>
+    <!-- nv - Navajo -->
+    <item>наваджочо</item>
+    <!-- ny - Nyanja -->
+    <item>ньянджача</item>
     <!-- nyn - Nyankole -->
     <item>ныйанколчо</item>
+    <!-- oc - Occitan -->
+    <item>окситанча</item>
     <!-- om - Oromo -->
     <item>оромочо</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>орияча</item>
+    <!-- os - Ossetic -->
+    <item>осетинче</item>
     <!-- pa - Punjabi -->
     <item>пунжабиче</item>
+    <!-- pag - Pangasinan -->
+    <item>пангасиче</item>
+    <!-- pam - Pampanga -->
+    <item>пампангача</item>
+    <!-- pap - Papiamento -->
+    <item>папиаменточо</item>
+    <!-- pau - Palauan -->
+    <item>палауанча</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>аргындашкан тил (Нигерия)</item>
     <!-- pl - Polish -->
     <item>полякча</item>
+    <!-- prg - Prussian -->
+    <item>пруссча</item>
     <!-- ps - Pashto -->
-    <item>пашточо</item>
+    <item>пуштуча</item>
     <!-- pt - Portuguese -->
     <item>португалча</item>
     <!-- pt_PT - European Portuguese -->
@@ -316,6 +560,10 @@
     <item>кечуача</item>
     <!-- quc - Kʼicheʼ -->
     <item>кичече</item>
+    <!-- rap - Rapanui -->
+    <item>рапаньюча</item>
+    <!-- rar - Rarotongan -->
+    <item>раротонгача</item>
     <!-- rm - Romansh -->
     <item>романшча</item>
     <!-- rn - Rundi -->
@@ -326,18 +574,36 @@
     <item>молдованча</item>
     <!-- rof - Rombo -->
     <item>ромбочо</item>
+    <!-- root - Root -->
+    <item>түпкү</item>
     <!-- ru - Russian -->
     <item>орусча</item>
+    <!-- rup - Aromanian -->
+    <item>аромунча</item>
     <!-- rw - Kinyarwanda -->
     <item>руандача</item>
     <!-- rwk - Rwa -->
     <item>руача</item>
     <!-- sa - Sanskrit -->
     <item>санскритче</item>
+    <!-- sad - Sandawe -->
+    <item>сандавече</item>
+    <!-- sah - Sakha -->
+    <item>сахача</item>
     <!-- saq - Samburu -->
     <item>самбуруча</item>
+    <!-- sat - Santali -->
+    <item>санталиче</item>
+    <!-- sba - Ngambay -->
+    <item>нгамбайча</item>
     <!-- sbp - Sangu -->
     <item>сангуча</item>
+    <!-- sc - Sardinian -->
+    <item>сардинче</item>
+    <!-- scn - Sicilian -->
+    <item>сицилийче</item>
+    <!-- sco - Scots -->
+    <item>шотландча</item>
     <!-- sd - Sindhi -->
     <item>синдхиче</item>
     <!-- sdh - Southern Kurdish -->
@@ -354,71 +620,115 @@
     <item>серб-хорват</item>
     <!-- shi - Tachelhit -->
     <item>ташелитче</item>
+    <!-- shn - Shan -->
+    <item>шанча</item>
     <!-- si - Sinhala -->
     <item>сингалача</item>
     <!-- sk - Slovak -->
     <item>словакча</item>
     <!-- sl - Slovenian -->
     <item>словенче</item>
+    <!-- sm - Samoan -->
+    <item>самоанча</item>
     <!-- sma - Southern Sami -->
     <item>түштүк саамиче</item>
     <!-- smj - Lule Sami -->
-    <item>лөлө саамиче</item>
+    <item>луле-самиче</item>
     <!-- smn - Inari Sami -->
     <item>инари саамиче</item>
     <!-- sms - Skolt Sami -->
     <item>сколт саамиче</item>
     <!-- sn - Shona -->
     <item>шонача</item>
+    <!-- snk - Soninke -->
+    <item>сонинкече</item>
     <!-- so - Somali -->
     <item>сомаличе</item>
     <!-- sq - Albanian -->
     <item>албанча</item>
     <!-- sr - Serbian -->
     <item>сербче</item>
+    <!-- srn - Sranan Tongo -->
+    <item>сранан тонгочо</item>
+    <!-- ss - Swati -->
+    <item>сватиче</item>
+    <!-- ssy - Saho -->
+    <item>сахочо</item>
     <!-- st - Southern Sotho -->
-    <item>сесото</item>
+    <item>сесоточо</item>
     <!-- su - Sundanese -->
     <item>сунданча</item>
+    <!-- suk - Sukuma -->
+    <item>сукумача</item>
     <!-- sv - Swedish -->
     <item>шведче</item>
     <!-- sw - Swahili -->
     <item>суахиличе</item>
-    <!-- swc - Congo Swahili -->
+    <!-- sw_CD - Congo Swahili -->
     <item>конго суахаличе</item>
+    <!-- swb - Comorian -->
+    <item>коморчо</item>
+    <!-- syr - Syriac -->
+    <item>сирияча</item>
     <!-- ta - Tamil -->
     <item>тамилче</item>
     <!-- te - Telugu -->
     <item>телугуча</item>
+    <!-- tem - Timne -->
+    <item>тимнече</item>
     <!-- teo - Teso -->
     <item>тесочо</item>
+    <!-- tet - Tetum -->
+    <item>тетумча</item>
     <!-- tg - Tajik -->
     <item>тажикче</item>
     <!-- th - Thai -->
     <item>тайча</item>
     <!-- ti - Tigrinya -->
     <item>тигриниача</item>
+    <!-- tig - Tigre -->
+    <item>тигрече</item>
     <!-- tk - Turkmen -->
     <item>түркмөнчө</item>
     <!-- tlh - Klingon -->
     <item>клингончо</item>
+    <!-- tn - Tswana -->
+    <item>тсванача</item>
     <!-- to - Tongan -->
     <item>тонгача</item>
+    <!-- tpi - Tok Pisin -->
+    <item>ток-писинче</item>
     <!-- tr - Turkish -->
     <item>түркчө</item>
+    <!-- trv - Taroko -->
+    <item>тарокочо</item>
+    <!-- ts - Tsonga -->
+    <item>тсонгача</item>
     <!-- tt - Tatar -->
     <item>татарча</item>
+    <!-- tum - Tumbuka -->
+    <item>тумбукача</item>
+    <!-- tvl - Tuvalu -->
+    <item>тувалуча</item>
     <!-- tw - Twi -->
     <item>тви</item>
     <!-- twq - Tasawaq -->
     <item>тасабакча</item>
+    <!-- ty - Tahitian -->
+    <item>таитиче</item>
+    <!-- tyv - Tuvinian -->
+    <item>тувинче</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>борбордук Атлас тамазитче</item>
+    <item>Борбордук Атлас тамазитче</item>
+    <!-- udm - Udmurt -->
+    <item>удмуртча</item>
     <!-- ug - Uyghur -->
     <item>уйгурча</item>
     <!-- uk - Ukrainian -->
     <item>украинче</item>
-    <!-- und - Unknown Language -->
+    <!-- umb - Umbundu -->
+    <item>умбундуча</item>
+    <!-- und - Unknown language -->
     <item>белгисиз тилде</item>
     <!-- ur - Urdu -->
     <item>урдуча</item>
@@ -426,22 +736,44 @@
     <item>өзбекче</item>
     <!-- vai - Vai -->
     <item>вайиче</item>
+    <!-- ve - Venda -->
+    <item>вендача</item>
     <!-- vi - Vietnamese -->
     <item>вьетнамча</item>
+    <!-- vo - Volapük -->
+    <item>волапюкча</item>
     <!-- vun - Vunjo -->
     <item>вунжочо</item>
+    <!-- wa - Walloon -->
+    <item>валлончо</item>
+    <!-- wae - Walser -->
+    <item>валцерче</item>
+    <!-- wal - Wolaytta -->
+    <item>вольяттача</item>
+    <!-- war - Waray -->
+    <item>варайча</item>
     <!-- wbp - Warlpiri -->
     <item>ворлпириче</item>
     <!-- wo - Wolof -->
     <item>уолофчо</item>
+    <!-- wuu - Wu Chinese -->
+    <item>wuu</item>
+    <!-- xal - Kalmyk -->
+    <item>калмыкча</item>
     <!-- xh - Xhosa -->
     <item>косача</item>
     <!-- xog - Soga -->
     <item>согача</item>
+    <!-- yav - Yangben -->
+    <item>янгбенче</item>
+    <!-- ybb - Yemba -->
+    <item>йембача</item>
     <!-- yi - Yiddish -->
     <item>идишче</item>
     <!-- yo - Yoruba -->
     <item>йорубача</item>
+    <!-- yue - Cantonese -->
+    <item>кантончо</item>
     <!-- zgh - Standard Moroccan Tamazight -->
     <item>марокко тамазигт адабий тилинде</item>
     <!-- zh - Chinese -->
@@ -452,7 +784,11 @@
     <item>кытайча (салттуу)</item>
     <!-- zu - Zulu -->
     <item>зулуча</item>
+    <!-- zun - Zuni -->
+    <item>зуниче</item>
     <!-- zxx - No linguistic content -->
     <item>тилдик мазмун жок</item>
+    <!-- zza - Zaza -->
+    <item>зазача</item>
   </string-array>
 </resources>

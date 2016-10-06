@@ -3,7 +3,7 @@ ab: abjasio
 ace: "acehn\xE9s"
 ach: acoli
 ada: adangme
-ady: adigeo
+ady: "adigu\xE9"
 ae: "av\xE9stico"
 af: "afrik\xE1ans"
 afh: afrihili
@@ -33,8 +33,8 @@ az: azerbaiyano
 ba: baskir
 bal: baluchi
 ban: "balin\xE9s"
-bas: basa
-bax: bamun
+bas: basaa
+bax: "bam\xFAn"
 bbj: ghomala
 be: bielorruso
 bej: beja
@@ -43,7 +43,7 @@ bez: bena
 bfd: bafut
 bg: "b\xFAlgaro"
 bgn: baluchi occidental
-bho: bhojpuri
+bho: "bhoyapur\xED"
 bi: bislama
 bik: bicol
 bin: bini
@@ -57,7 +57,7 @@ bra: braj
 brx: bodo
 bs: bosnio
 bss: akoose
-bua: buriat
+bua: buriato
 bug: "bugin\xE9s"
 bum: bulu
 byn: blin
@@ -85,6 +85,7 @@ co: corso
 cop: copto
 cr: cree
 crh: "t\xE1rtaro de Crimea"
+crs: criollo seychelense
 cs: checo
 csb: casubio
 cu: "eslavo eclesi\xE1stico"
@@ -105,7 +106,7 @@ dje: zarma
 doi: dogri
 dsb: bajo sorbio
 dua: duala
-dum: "neerland\xE9s medieval"
+dum: "neerland\xE9s medio"
 dv: divehi
 dyo: jola-fonyi
 dyu: diula
@@ -123,7 +124,7 @@ en_AU: "ingl\xE9s australiano"
 en_CA: "ingl\xE9s canadiense"
 en_GB: "ingl\xE9s brit\xE1nico"
 en_US: "ingl\xE9s estadounidense"
-enm: "ingl\xE9s medieval"
+enm: "ingl\xE9s medio"
 eo: esperanto
 es: "espa\xF1ol"
 es_419: "espa\xF1ol latinoamericano"
@@ -144,7 +145,7 @@ fon: fon
 fr: "franc\xE9s"
 fr_CA: "franc\xE9s canadiense"
 fr_CH: "franc\xE9s suizo"
-frm: "franc\xE9s medieval"
+frm: "franc\xE9s medio"
 fro: "franc\xE9s antiguo"
 frr: "fris\xF3n septentrional"
 frs: "fris\xF3n oriental"
@@ -153,27 +154,29 @@ fy: "fris\xF3n occidental"
 ga: "irland\xE9s"
 gaa: ga
 gag: gagauzo
+gan: chino gan
 gay: gayo
 gba: gbaya
 gd: "ga\xE9lico escoc\xE9s"
 gez: geez
 gil: "gilbert\xE9s"
 gl: gallego
-gmh: "alem\xE1n de la alta edad media"
+gmh: "alto alem\xE1n medio"
 gn: "guaran\xED"
-goh: "alem\xE1n de la alta edad antigua"
+goh: "alto alem\xE1n antiguo"
 gon: gondi
 gor: gorontalo
 got: "g\xF3tico"
 grb: grebo
 grc: griego antiguo
 gsw: "alem\xE1n suizo"
-gu: gujarati
+gu: "guyarat\xED"
 guz: gusii
 gv: "man\xE9s"
 gwi: kutchin
 ha: hausa
 hai: haida
+hak: chino hakka
 haw: hawaiano
 he: hebreo
 hi: hindi
@@ -183,7 +186,8 @@ hmn: hmong
 ho: hiri motu
 hr: croata
 hsb: alto sorbio
-ht: haitiano
+hsn: chino xiang
+ht: criollo haitiano
 hu: "h\xFAngaro"
 hup: hupa
 hy: armenio
@@ -265,7 +269,7 @@ lg: ganda
 li: "limburgu\xE9s"
 lkt: lakota
 ln: lingala
-lo: laosiano
+lo: lao
 lol: mongo
 loz: lozi
 lrc: "lor\xED septentrional"
@@ -275,7 +279,7 @@ lua: luba-lulua
 lui: "luise\xF1o"
 lun: lunda
 luo: luo
-lus: lushai
+lus: mizo
 luy: luyia
 lv: "let\xF3n"
 mad: "madur\xE9s"
@@ -292,7 +296,7 @@ men: mende
 mer: meru
 mfe: criollo mauriciano
 mg: malgache
-mga: "irland\xE9s medieval"
+mga: "irland\xE9s medio"
 mgh: makhuwa-meetto
 mgo: "meta\u2019"
 mh: "marshal\xE9s"
@@ -310,7 +314,7 @@ mr: "marat\xED"
 ms: malayo
 mt: "malt\xE9s"
 mua: mundang
-mul: "lenguas m\xFAltiples"
+mul: varios idiomas
 mus: creek
 mwl: "mirand\xE9s"
 mwr: marwari
@@ -319,11 +323,13 @@ mye: myene
 myv: erzya
 mzn: "mazandaran\xED"
 na: nauruano
+nan: chino min nan
 nap: napolitano
 naq: nama
 nb: noruego bokmal
 nd: ndebele septentrional
 nds: "bajo alem\xE1n"
+nds_NL: "bajo saj\xF3n"
 ne: "nepal\xED"
 new: newari
 ng: ndonga
@@ -339,7 +345,7 @@ nog: nogai
 non: "n\xF3rdico antiguo"
 nqo: "n\u2019ko"
 nr: ndebele meridional
-nso: sotho septentrional
+nso: sesotho septentrional
 nus: nuer
 nv: navajo
 nwc: "newari cl\xE1sico"
@@ -361,11 +367,13 @@ pal: pahlavi
 pam: pampanga
 pap: papiamento
 pau: palauano
+pcm: pidgin de Nigeria
 peo: persa antiguo
 phn: fenicio
 pi: pali
 pl: polaco
 pon: pohnpeiano
+prg: prusiano
 pro: provenzal antiguo
 ps: "past\xFAn"
 pt: "portugu\xE9s"
@@ -376,8 +384,8 @@ quc: "quich\xE9"
 raj: rajasthani
 rap: rapanui
 rar: rarotongano
-rm: "retorrom\xE1nico"
-rn: kiroundi
+rm: romanche
+rn: kirundi
 ro: rumano
 ro_MD: moldavo
 rof: rombo
@@ -429,7 +437,7 @@ sq: "alban\xE9s"
 sr: serbio
 srn: sranan tongo
 srr: serer
-ss: siswati
+ss: suazi
 ssy: saho
 st: sesotho meridional
 su: "sundan\xE9s"
@@ -438,8 +446,8 @@ sus: susu
 sux: sumerio
 sv: sueco
 sw: suajili
+sw_CD: suajili del Congo
 swb: comorense
-swc: suajili del Congo
 syc: "sir\xEDaco cl\xE1sico"
 syr: siriaco
 ta: tamil
@@ -459,7 +467,7 @@ tl: tagalo
 tlh: klingon
 tli: tlingit
 tmh: tamashek
-tn: setchwana
+tn: setsuana
 to: tongano
 tog: tonga del Nyasa
 tpi: tok pisin
@@ -474,7 +482,7 @@ tw: twi
 twq: tasawaq
 ty: tahitiano
 tyv: tuviniano
-tzm: tamazight del Marruecos Central
+tzm: tamazight del Atlas Central
 udm: udmurt
 ug: uigur
 uga: "ugar\xEDtico"
@@ -491,11 +499,12 @@ vot: "v\xF3tico"
 vun: vunjo
 wa: "val\xF3n"
 wae: walser
-wal: walamo
+wal: wolayta
 war: waray
 was: washo
 wbp: warlpiri
-wo: wolof
+wo: "w\xF3lof"
+wuu: chino wu
 xal: kalmyk
 xh: xhosa
 xog: soga
@@ -503,7 +512,7 @@ yao: yao
 yap: "yap\xE9s"
 yav: yangben
 ybb: yemba
-yi: "y\xEDdish"
+yi: yidis
 yo: yoruba
 yue: "canton\xE9s"
 za: zhuang
@@ -515,6 +524,6 @@ zh: chino
 zh_Hans: chino simplificado
 zh_Hant: chino tradicional
 zu: "zul\xFA"
-zun: zuni
+zun: "zu\xF1i"
 zxx: "sin contenido ling\xFC\xEDstico"
 zza: zazaki

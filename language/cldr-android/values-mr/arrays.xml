@@ -27,7 +27,7 @@
     <!-- ak - Akan -->
     <item>अकान</item>
     <!-- akk - Akkadian -->
-    <item>अक्कादिआन</item>
+    <item>अक्केडियन</item>
     <!-- ale - Aleut -->
     <item>अलेउत</item>
     <!-- alt - Southern Altai -->
@@ -49,9 +49,9 @@
     <!-- arn - Mapuche -->
     <item>मापुची</item>
     <!-- arp - Arapaho -->
-    <item>अराफाओ</item>
+    <item>आरापाहो</item>
     <!-- arw - Arawak -->
-    <item>अरावक</item>
+    <item>आरावाक</item>
     <!-- as - Assamese -->
     <item>आसामी</item>
     <!-- asa - Asu -->
@@ -71,7 +71,7 @@
     <!-- bal - Baluchi -->
     <item>बलुची</item>
     <!-- ban - Balinese -->
-    <item>बालिनीस</item>
+    <item>बालिनीज</item>
     <!-- bas - Basaa -->
     <item>बसा</item>
     <!-- be - Belarusian -->
@@ -98,7 +98,7 @@
     <item>सिक्सिका</item>
     <!-- bm - Bambara -->
     <item>बाम्बारा</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>बंगाली</item>
     <!-- bo - Tibetan -->
     <item>तिबेटी</item>
@@ -135,7 +135,7 @@
     <!-- chb - Chibcha -->
     <item>चिब्चा</item>
     <!-- chg - Chagatai -->
-    <item>छगाताई</item>
+    <item>छागाताइ</item>
     <!-- chk - Chuukese -->
     <item>चूकीसे</item>
     <!-- chm - Mari -->
@@ -160,6 +160,8 @@
     <item>क्री</item>
     <!-- crh - Crimean Turkish -->
     <item>क्राइमीन तुर्की</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>सेसेल्वा क्रिओल फ्रेंच</item>
     <!-- cs - Czech -->
     <item>झेक</item>
     <!-- csb - Kashubian -->
@@ -173,7 +175,7 @@
     <!-- da - Danish -->
     <item>डॅनिश</item>
     <!-- dak - Dakota -->
-    <item>दाकोता</item>
+    <item>डाकोटा</item>
     <!-- dar - Dargwa -->
     <item>दार्गवा</item>
     <!-- dav - Taita -->
@@ -185,13 +187,13 @@
     <!-- de_CH - Swiss High German -->
     <item>स्विस हाय जर्मन</item>
     <!-- del - Delaware -->
-    <item>डेलॅवेयर</item>
+    <item>डेलावेयर</item>
     <!-- den - Slave -->
     <item>स्लाव्ह</item>
     <!-- dgr - Dogrib -->
     <item>डोग्रिब</item>
     <!-- din - Dinka -->
-    <item>दिन्का</item>
+    <item>डिन्का</item>
     <!-- dje - Zarma -->
     <item>झार्मा</item>
     <!-- doi - Dogri -->
@@ -210,6 +212,8 @@
     <item>ड्युला</item>
     <!-- dz - Dzongkha -->
     <item>झोंगखा</item>
+    <!-- dzg - Dazaga -->
+    <item>दाझागा</item>
     <!-- ebu - Embu -->
     <item>एम्बू</item>
     <!-- ee - Ewe -->
@@ -291,9 +295,11 @@
     <!-- ga - Irish -->
     <item>आयरिश</item>
     <!-- gaa - Ga -->
-    <item>Ga</item>
+    <item>गा</item>
     <!-- gag - Gagauz -->
     <item>गागाउझ</item>
+    <!-- gan - Gan Chinese -->
+    <item>गॅन चिनी</item>
     <!-- gay - Gayo -->
     <item>गायो</item>
     <!-- gba - Gbaya -->
@@ -336,6 +342,8 @@
     <item>हौसा</item>
     <!-- hai - Haida -->
     <item>हैडा</item>
+    <!-- hak - Hakka Chinese -->
+    <item>हाक्का चिनी</item>
     <!-- haw - Hawaiian -->
     <item>हवाईयन</item>
     <!-- he - Hebrew -->
@@ -354,6 +362,8 @@
     <item>क्रोएशियन</item>
     <!-- hsb - Upper Sorbian -->
     <item>अप्पर सॉर्बियन</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>शियांग चिनी</item>
     <!-- ht - Haitian Creole -->
     <item>हैतीयन</item>
     <!-- hu - Hungarian -->
@@ -368,6 +378,8 @@
     <item>इंटरलिंग्वा</item>
     <!-- iba - Iban -->
     <item>इबान</item>
+    <!-- ibb - Ibibio -->
+    <item>इबिबिओ</item>
     <!-- id - Indonesian -->
     <item>इंडोनेशियन</item>
     <!-- ie - Interlingue -->
@@ -442,6 +454,8 @@
     <item>क्वान्यामा</item>
     <!-- kk - Kazakh -->
     <item>कझाक</item>
+    <!-- kkj - Kako -->
+    <item>काको</item>
     <!-- kl - Kalaallisut -->
     <item>कलाल्लिसत</item>
     <!-- kln - Kalenjin -->
@@ -476,6 +490,8 @@
     <item>शांबाला</item>
     <!-- ksf - Bafia -->
     <item>बाफिया</item>
+    <!-- ksh - Colognian -->
+    <item>कोलोग्नियन</item>
     <!-- ku - Kurdish -->
     <item>कुर्दिश</item>
     <!-- kum - Kumyk -->
@@ -531,7 +547,7 @@
     <!-- luo - Luo -->
     <item>ल्युओ</item>
     <!-- lus - Mizo -->
-    <item>लुशाई</item>
+    <item>मिझो</item>
     <!-- luy - Luyia -->
     <item>ल्युइया</item>
     <!-- lv - Latvian -->
@@ -570,7 +586,7 @@
     <item>मार्शलीज</item>
     <!-- mi - Maori -->
     <item>माओरी</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>मिकमॅक</item>
     <!-- min - Minangkabau -->
     <item>मिनांग्काबाउ</item>
@@ -596,7 +612,7 @@
     <item>माल्टिज्</item>
     <!-- mua - Mundang -->
     <item>मुंडांग</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>एकविध भाषा</item>
     <!-- mus - Creek -->
     <item>क्रीक</item>
@@ -612,6 +628,8 @@
     <item>माझानदेरानी</item>
     <!-- na - Nauru -->
     <item>नउरू</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>मिन नान चिनी</item>
     <!-- nap - Neapolitan -->
     <item>नेपोलिटान</item>
     <!-- naq - Nama -->
@@ -642,6 +660,8 @@
     <item>क्वासिओ</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>नॉर्वेजियन न्योर्स्क</item>
+    <!-- nnh - Ngiemboon -->
+    <item>जिएम्बून</item>
     <!-- no - Norwegian -->
     <item>नोर्वेजियन</item>
     <!-- nog - Nogai -->
@@ -676,7 +696,7 @@
     <item>ओजिब्वा</item>
     <!-- om - Oromo -->
     <item>ओरोमो</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>उडिया</item>
     <!-- os - Ossetic -->
     <item>ओस्सेटिक</item>
@@ -696,6 +716,8 @@
     <item>पापियामेन्टो</item>
     <!-- pau - Palauan -->
     <item>पालाउआन</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>नायजिरिअन पिजिन</item>
     <!-- peo - Old Persian -->
     <item>पुरातन फारसी</item>
     <!-- phn - Phoenician -->
@@ -706,6 +728,8 @@
     <item>पोलिश</item>
     <!-- pon - Pohnpeian -->
     <item>पोह्नपियन</item>
+    <!-- prg - Prussian -->
+    <item>प्रुशियन</item>
     <!-- pro - Old Provençal -->
     <item>पुरातन प्रोव्हेन्सल</item>
     <!-- ps - Pashto -->
@@ -753,7 +777,7 @@
     <!-- sad - Sandawe -->
     <item>सँडवे</item>
     <!-- sah - Sakha -->
-    <item>याकूत</item>
+    <item>साखा</item>
     <!-- sam - Samaritan Aramaic -->
     <item>सामरिटान अरॅमिक</item>
     <!-- saq - Samburu -->
@@ -762,6 +786,8 @@
     <item>सासाक</item>
     <!-- sat - Santali -->
     <item>संताली</item>
+    <!-- sba - Ngambay -->
+    <item>गाम्बे</item>
     <!-- sbp - Sangu -->
     <item>सांगु</item>
     <!-- sc - Sardinian -->
@@ -828,6 +854,8 @@
     <item>सेरेर</item>
     <!-- ss - Swati -->
     <item>स्वाती</item>
+    <!-- ssy - Saho -->
+    <item>साहो</item>
     <!-- st - Southern Sotho -->
     <item>सेसोथो</item>
     <!-- su - Sundanese -->
@@ -842,10 +870,10 @@
     <item>स्वीडिश</item>
     <!-- sw - Swahili -->
     <item>स्वाहिली</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>काँगो स्वाहिली</item>
     <!-- swb - Comorian -->
     <item>कोमोरियन</item>
-    <!-- swc - Congo Swahili -->
-    <item>काँगो स्वाहिली</item>
     <!-- syc - Classical Syriac -->
     <item>अभिजात सिरियाक</item>
     <!-- syr - Syriac -->
@@ -894,6 +922,8 @@
     <item>टोक पिसिन</item>
     <!-- tr - Turkish -->
     <item>तुर्की</item>
+    <!-- trv - Taroko -->
+    <item>तारोको</item>
     <!-- ts - Tsonga -->
     <item>सोंगा</item>
     <!-- tsi - Tsimshian -->
@@ -924,7 +954,7 @@
     <item>युक्रेनियन</item>
     <!-- umb - Umbundu -->
     <item>उम्बुन्डु</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>अज्ञात भाषा</item>
     <!-- ur - Urdu -->
     <item>उर्दू</item>
@@ -944,8 +974,10 @@
     <item>वुंजो</item>
     <!-- wa - Walloon -->
     <item>वालून</item>
+    <!-- wae - Walser -->
+    <item>वालसेर</item>
     <!-- wal - Wolaytta -->
-    <item>वलामो</item>
+    <item>वोलायता</item>
     <!-- war - Waray -->
     <item>वारे</item>
     <!-- was - Washo -->
@@ -954,6 +986,8 @@
     <item>वार्लपिरी</item>
     <!-- wo - Wolof -->
     <item>वोलोफ</item>
+    <!-- wuu - Wu Chinese -->
+    <item>व्हू चिनी</item>
     <!-- xal - Kalmyk -->
     <item>काल्मिक</item>
     <!-- xh - Xhosa -->
@@ -964,6 +998,10 @@
     <item>याओ</item>
     <!-- yap - Yapese -->
     <item>यापीस</item>
+    <!-- yav - Yangben -->
+    <item>यानगबेन</item>
+    <!-- ybb - Yemba -->
+    <item>येमबा</item>
     <!-- yi - Yiddish -->
     <item>यिद्दिश</item>
     <!-- yo - Yoruba -->

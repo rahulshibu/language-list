@@ -47,9 +47,11 @@
     <!-- arc - Aramaic -->
     <item>الآرامية</item>
     <!-- arn - Mapuche -->
-    <item>الأروكانية</item>
+    <item>المابودونغونية</item>
     <!-- arp - Arapaho -->
     <item>الأراباهو</item>
+    <!-- ars - Najdi Arabic -->
+    <item>اللهجة النجدية</item>
     <!-- arw - Arawak -->
     <item>الأراواكية</item>
     <!-- as - Assamese -->
@@ -106,7 +108,7 @@
     <item>السيكسيكية</item>
     <!-- bm - Bambara -->
     <item>البامبارا</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>البنغالية</item>
     <!-- bo - Tibetan -->
     <item>التبتية</item>
@@ -176,6 +178,8 @@
     <item>الكرى</item>
     <!-- crh - Crimean Turkish -->
     <item>لغة تتار القرم</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>الفرنسية الكريولية السيشيلية</item>
     <!-- cs - Czech -->
     <item>التشيكية</item>
     <!-- csb - Kashubian -->
@@ -185,7 +189,7 @@
     <!-- cv - Chuvash -->
     <item>التشوفاشي</item>
     <!-- cy - Welsh -->
-    <item>الولزية</item>
+    <item>الويلزية</item>
     <!-- da - Danish -->
     <item>الدانماركية</item>
     <!-- dak - Dakota -->
@@ -213,7 +217,7 @@
     <!-- doi - Dogri -->
     <item>الدوجرية</item>
     <!-- dsb - Lower Sorbian -->
-    <item>الصربية السفلى</item>
+    <item>صوربيا السفلى</item>
     <!-- dua - Duala -->
     <item>الديولا</item>
     <!-- dum - Middle Dutch -->
@@ -277,7 +281,7 @@
     <!-- fat - Fanti -->
     <item>الفانتي</item>
     <!-- ff - Fulah -->
-    <item>الفلة</item>
+    <item>الفولانية</item>
     <!-- fi - Finnish -->
     <item>الفنلندية</item>
     <!-- fil - Filipino -->
@@ -285,7 +289,7 @@
     <!-- fj - Fijian -->
     <item>الفيجية</item>
     <!-- fo - Faroese -->
-    <item>الفارويز</item>
+    <item>الفاروية</item>
     <!-- fon - Fon -->
     <item>الفون</item>
     <!-- fr - French -->
@@ -312,6 +316,8 @@
     <item>الجا</item>
     <!-- gag - Gagauz -->
     <item>الغاغوز</item>
+    <!-- gan - Gan Chinese -->
+    <item>الغان الصينية</item>
     <!-- gay - Gayo -->
     <item>الجايو</item>
     <!-- gba - Gbaya -->
@@ -327,7 +333,7 @@
     <!-- gmh - Middle High German -->
     <item>الألمانية العليا الوسطى</item>
     <!-- gn - Guarani -->
-    <item>الجواراني</item>
+    <item>الغوارانية</item>
     <!-- goh - Old High German -->
     <item>الألمانية العليا القديمة</item>
     <!-- gon - Gondi -->
@@ -354,6 +360,8 @@
     <item>الهوسا</item>
     <!-- hai - Haida -->
     <item>الهيدا</item>
+    <!-- hak - Hakka Chinese -->
+    <item>الهاكا الصينية</item>
     <!-- haw - Hawaiian -->
     <item>لغة أهل الهاواي</item>
     <!-- he - Hebrew -->
@@ -371,9 +379,11 @@
     <!-- hr - Croatian -->
     <item>الكرواتية</item>
     <!-- hsb - Upper Sorbian -->
-    <item>الصربية العليا</item>
+    <item>الصوربية العليا</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>شيانغ الصينية</item>
     <!-- ht - Haitian Creole -->
-    <item>الهايتية</item>
+    <item>الكريولية الهايتية</item>
     <!-- hu - Hungarian -->
     <item>الهنغارية</item>
     <!-- hup - Hupa -->
@@ -405,7 +415,7 @@
     <!-- io - Ido -->
     <item>الإيدو</item>
     <!-- is - Icelandic -->
-    <item>الأيسلاندية</item>
+    <item>الأيسلندية</item>
     <!-- it - Italian -->
     <item>الإيطالية</item>
     <!-- iu - Inuktitut -->
@@ -464,6 +474,8 @@
     <item>الكيونياما</item>
     <!-- kk - Kazakh -->
     <item>الكازاخستانية</item>
+    <!-- kkj - Kako -->
+    <item>لغة الكاكو</item>
     <!-- kl - Kalaallisut -->
     <item>الكالاليست</item>
     <!-- kln - Kalenjin -->
@@ -511,7 +523,7 @@
     <!-- kw - Cornish -->
     <item>الكورنية</item>
     <!-- ky - Kyrgyz -->
-    <item>القرغيزية</item>
+    <item>القيرغيزية</item>
     <!-- la - Latin -->
     <item>اللاتينية</item>
     <!-- lad - Ladino -->
@@ -523,7 +535,7 @@
     <!-- lam - Lamba -->
     <item>اللامبا</item>
     <!-- lb - Luxembourgish -->
-    <item>اللوكسمبرجية</item>
+    <item>اللكسمبورغية</item>
     <!-- lez - Lezghian -->
     <item>الليزجية</item>
     <!-- lg - Ganda -->
@@ -543,7 +555,7 @@
     <!-- lrc - Northern Luri -->
     <item>اللرية الشمالية</item>
     <!-- lt - Lithuanian -->
-    <item>اللتوانية</item>
+    <item>الليتوانية</item>
     <!-- lu - Luba-Katanga -->
     <item>اللبا-كاتانجا</item>
     <!-- lua - Luba-Lulua -->
@@ -596,14 +608,14 @@
     <item>المارشالية</item>
     <!-- mi - Maori -->
     <item>الماورية</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>الميكماكيونية</item>
     <!-- min - Minangkabau -->
     <item>المينانجكاباو</item>
     <!-- mk - Macedonian -->
     <item>المقدونية</item>
     <!-- ml - Malayalam -->
-    <item>الماليالام</item>
+    <item>المالايالامية</item>
     <!-- mn - Mongolian -->
     <item>المنغولية</item>
     <!-- mnc - Manchu -->
@@ -615,14 +627,14 @@
     <!-- mos - Mossi -->
     <item>الموسي</item>
     <!-- mr - Marathi -->
-    <item>الماراثي</item>
+    <item>الماراثية</item>
     <!-- ms - Malay -->
-    <item>لغة الملايو</item>
+    <item>الماليزية</item>
     <!-- mt - Maltese -->
     <item>المالطية</item>
     <!-- mua - Mundang -->
     <item>مندنج</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>لغات متعددة</item>
     <!-- mus - Creek -->
     <item>الكريك</item>
@@ -638,14 +650,16 @@
     <item>المازندرانية</item>
     <!-- na - Nauru -->
     <item>النورو</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>مين-نان الصينية</item>
     <!-- nap - Neapolitan -->
-    <item>اللغة النابولية</item>
+    <item>النابولية</item>
     <!-- naq - Nama -->
     <item>لغة الناما</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>البوكمالية النرويجية</item>
+    <item>النرويجية بوكمال</item>
     <!-- nd - North Ndebele -->
-    <item>النديبيل الشمالي</item>
+    <item>النديبيل الشمالية</item>
     <!-- nds - Low German -->
     <item>الألمانية السفلى</item>
     <!-- nds_NL - Low Saxon -->
@@ -667,7 +681,7 @@
     <!-- nmg - Kwasio -->
     <item>كواسيو</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>النينورسك النرويجي</item>
+    <item>النرويجية نينورسك</item>
     <!-- nnh - Ngiemboon -->
     <item>لغة النجيمبون</item>
     <!-- no - Norwegian -->
@@ -703,9 +717,9 @@
     <!-- oj - Ojibwa -->
     <item>الأوجيبوا</item>
     <!-- om - Oromo -->
-    <item>الأورومو</item>
-    <!-- or - Oriya -->
-    <item>الأورييا</item>
+    <item>الأورومية</item>
+    <!-- or - Odia -->
+    <item>اللغة الأورية</item>
     <!-- os - Ossetic -->
     <item>الأوسيتيك</item>
     <!-- osa - Osage -->
@@ -724,6 +738,8 @@
     <item>البابيامينتو</item>
     <!-- pau - Palauan -->
     <item>البالوان</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>البدجنية النيجيرية</item>
     <!-- peo - Old Persian -->
     <item>الفارسية القديمة</item>
     <!-- phn - Phoenician -->
@@ -734,6 +750,8 @@
     <item>البولندية</item>
     <!-- pon - Pohnpeian -->
     <item>البوهنبيايان</item>
+    <!-- prg - Prussian -->
+    <item>البروسياوية</item>
     <!-- pro - Old Provençal -->
     <item>البروفانسية القديمة</item>
     <!-- ps - Pashto -->
@@ -765,7 +783,7 @@
     <!-- rof - Rombo -->
     <item>الرومبو</item>
     <!-- rom - Romany -->
-    <item>غجري</item>
+    <item>الغجرية</item>
     <!-- root - Root -->
     <item>الجذر</item>
     <!-- ru - Russian -->
@@ -805,7 +823,7 @@
     <!-- sdh - Southern Kurdish -->
     <item>الكردية الجنوبية</item>
     <!-- se - Northern Sami -->
-    <item>السامي الشمالي</item>
+    <item>السامي الشمالية</item>
     <!-- see - Seneca -->
     <item>السنيكا</item>
     <!-- seh - Sena -->
@@ -823,7 +841,7 @@
     <!-- shi - Tachelhit -->
     <item>تشلحيت</item>
     <!-- shn - Shan -->
-    <item>الشانية</item>
+    <item>الشان</item>
     <!-- shu - Chadian Arabic -->
     <item>العربية التشادية</item>
     <!-- si - Sinhala -->
@@ -878,10 +896,10 @@
     <item>السويدية</item>
     <!-- sw - Swahili -->
     <item>السواحلية</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>الكونغو السواحلية</item>
     <!-- swb - Comorian -->
     <item>القمرية</item>
-    <!-- swc - Congo Swahili -->
-    <item>الكونغو السواحلية</item>
     <!-- syc - Classical Syriac -->
     <item>سريانية تقليدية</item>
     <!-- syr - Syriac -->
@@ -889,7 +907,7 @@
     <!-- ta - Tamil -->
     <item>التاميلية</item>
     <!-- te - Telugu -->
-    <item>التيلجو</item>
+    <item>التيلوجو</item>
     <!-- tem - Timne -->
     <item>التيمن</item>
     <!-- teo - Teso -->
@@ -905,7 +923,7 @@
     <!-- ti - Tigrinya -->
     <item>التغرينية</item>
     <!-- tig - Tigre -->
-    <item>التغرية</item>
+    <item>التيغرية</item>
     <!-- tiv - Tiv -->
     <item>التيف</item>
     <!-- tk - Turkmen -->
@@ -937,7 +955,7 @@
     <!-- tsi - Tsimshian -->
     <item>التسيمشيان</item>
     <!-- tt - Tatar -->
-    <item>التتارية</item>
+    <item>التترية</item>
     <!-- tum - Tumbuka -->
     <item>التامبوكا</item>
     <!-- tvl - Tuvalu -->
@@ -955,17 +973,17 @@
     <!-- udm - Udmurt -->
     <item>الأدمرت</item>
     <!-- ug - Uyghur -->
-    <item>الأغورية</item>
+    <item>الأويغورية</item>
     <!-- uga - Ugaritic -->
     <item>اليجاريتيك</item>
     <!-- uk - Ukrainian -->
     <item>الأوكرانية</item>
     <!-- umb - Umbundu -->
     <item>الأمبندو</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>لغة غير معروفة</item>
     <!-- ur - Urdu -->
-    <item>الأردية</item>
+    <item>الأوردية</item>
     <!-- uz - Uzbek -->
     <item>الأوزبكية</item>
     <!-- vai - Vai -->
@@ -993,7 +1011,9 @@
     <!-- wbp - Warlpiri -->
     <item>وارلبيري</item>
     <!-- wo - Wolof -->
-    <item>الولوف</item>
+    <item>الولوفية</item>
+    <!-- wuu - Wu Chinese -->
+    <item>الوو الصينية</item>
     <!-- xal - Kalmyk -->
     <item>الكالميك</item>
     <!-- xh - Xhosa -->

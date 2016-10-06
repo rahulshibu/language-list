@@ -1,468 +1,1204 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>афарча</name>
+  </language>
+  <language>
     <code>ab</code>
-    <name>Абхазча</name>
+    <name>абхазча</name>
+  </language>
+  <language>
+    <code>ace</code>
+    <name>ачин</name>
+  </language>
+  <language>
+    <code>ada</code>
+    <name>адангмэ</name>
+  </language>
+  <language>
+    <code>ady</code>
+    <name>адигей</name>
   </language>
   <language>
     <code>af</code>
-    <name>Африканча</name>
+    <name>африкаанс</name>
+  </language>
+  <language>
+    <code>agq</code>
+    <name>агемча</name>
+  </language>
+  <language>
+    <code>ain</code>
+    <name>айну</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>аканча</name>
+  </language>
+  <language>
+    <code>ale</code>
+    <name>алеут</name>
   </language>
   <language>
     <code>am</code>
-    <name>Амхарча</name>
+    <name>амхарча</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>арагон</name>
+  </language>
+  <language>
+    <code>anp</code>
+    <name>ангика</name>
   </language>
   <language>
     <code>ar</code>
-    <name>Арабча</name>
+    <name>арабча</name>
+  </language>
+  <language>
+    <code>ar_001</code>
+    <name>стандарт арабча</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>мапудунгун</name>
+  </language>
+  <language>
+    <code>arp</code>
+    <name>арапахо</name>
   </language>
   <language>
     <code>as</code>
-    <name>Ассамча</name>
+    <name>ассомча</name>
+  </language>
+  <language>
+    <code>asa</code>
+    <name>асуча</name>
+  </language>
+  <language>
+    <code>ast</code>
+    <name>астурийча</name>
+  </language>
+  <language>
+    <code>av</code>
+    <name>аварча</name>
+  </language>
+  <language>
+    <code>awa</code>
+    <name>авадхи</name>
+  </language>
+  <language>
+    <code>ay</code>
+    <name>аймара</name>
   </language>
   <language>
     <code>az</code>
-    <name>Озарбайжонча</name>
+    <name>озарбайжонча</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>бошқирдча</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>балича</name>
+  </language>
+  <language>
+    <code>bas</code>
+    <name>басаа</name>
   </language>
   <language>
     <code>be</code>
-    <name>Беларусча</name>
+    <name>беларусча</name>
+  </language>
+  <language>
+    <code>bem</code>
+    <name>бемба</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>бенача</name>
   </language>
   <language>
     <code>bg</code>
-    <name>Болгарча</name>
+    <name>болгарча</name>
+  </language>
+  <language>
+    <code>bho</code>
+    <name>бхожпури</name>
+  </language>
+  <language>
+    <code>bi</code>
+    <name>бислама</name>
+  </language>
+  <language>
+    <code>bin</code>
+    <name>бини</name>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>бамбарча</name>
   </language>
   <language>
     <code>bn</code>
-    <name>Бенгалча</name>
+    <name>бенгалча</name>
   </language>
   <language>
     <code>bo</code>
-    <name>Тибетча</name>
+    <name>тибетча</name>
+  </language>
+  <language>
+    <code>br</code>
+    <name>бретонча</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>бодоча</name>
   </language>
   <language>
     <code>bs</code>
-    <name>Боснияча</name>
+    <name>боснийча</name>
+  </language>
+  <language>
+    <code>bug</code>
+    <name>бугийча</name>
+  </language>
+  <language>
+    <code>byn</code>
+    <name>блинча</name>
   </language>
   <language>
     <code>ca</code>
-    <name>Каталанча</name>
+    <name>каталонча</name>
+  </language>
+  <language>
+    <code>ce</code>
+    <name>чечен тили</name>
+  </language>
+  <language>
+    <code>ceb</code>
+    <name>себуанча</name>
+  </language>
+  <language>
+    <code>cgg</code>
+    <name>чигача</name>
+  </language>
+  <language>
+    <code>ch</code>
+    <name>чаморро</name>
+  </language>
+  <language>
+    <code>chk</code>
+    <name>чуукча</name>
+  </language>
+  <language>
+    <code>chm</code>
+    <name>мари</name>
+  </language>
+  <language>
+    <code>cho</code>
+    <name>чоктавча</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>чероки</name>
+  </language>
+  <language>
+    <code>chy</code>
+    <name>шайенн</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>сорани-курдча</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>корсиканча</name>
   </language>
   <language>
     <code>cs</code>
-    <name>Чехча</name>
+    <name>чехча</name>
+  </language>
+  <language>
+    <code>cu</code>
+    <name>славянча (черков)</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>чуваш тили</name>
   </language>
   <language>
     <code>cy</code>
-    <name>Уэлсча</name>
+    <name>уэлсча</name>
   </language>
   <language>
     <code>da</code>
-    <name>Данияча</name>
+    <name>датча</name>
+  </language>
+  <language>
+    <code>dak</code>
+    <name>дакотча</name>
+  </language>
+  <language>
+    <code>dar</code>
+    <name>даргинча</name>
+  </language>
+  <language>
+    <code>dav</code>
+    <name>таитача</name>
   </language>
   <language>
     <code>de</code>
-    <name>Олмонча</name>
+    <name>немисча</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>догриб</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>зарма</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>қуйи-сорбча</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>дуалача</name>
+  </language>
+  <language>
+    <code>dv</code>
+    <name>дивехи</name>
+  </language>
+  <language>
+    <code>dyo</code>
+    <name>диола-фогни</name>
+  </language>
+  <language>
+    <code>dz</code>
+    <name>дзонгка</name>
+  </language>
+  <language>
+    <code>dzg</code>
+    <name>дазага</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>эмбуча</name>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>эвеча</name>
+  </language>
+  <language>
+    <code>efi</code>
+    <name>эфик</name>
+  </language>
+  <language>
+    <code>eka</code>
+    <name>экажук</name>
   </language>
   <language>
     <code>el</code>
-    <name>Грекча</name>
+    <name>грекча</name>
   </language>
   <language>
     <code>en</code>
-    <name>Инглизча</name>
+    <name>инглизча</name>
+  </language>
+  <language>
+    <code>en_GB</code>
+    <name>инглизча (Британия)</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>инглизча (Америка)</name>
   </language>
   <language>
     <code>eo</code>
-    <name>Эсперанто</name>
+    <name>эсперанто</name>
   </language>
   <language>
     <code>es</code>
-    <name>Испанча</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>Лотин Америка испанчаси</name>
+    <name>испанча</name>
   </language>
   <language>
     <code>et</code>
-    <name>Эстонча</name>
+    <name>эстонча</name>
   </language>
   <language>
     <code>eu</code>
-    <name>Баскча</name>
+    <name>баскча</name>
+  </language>
+  <language>
+    <code>ewo</code>
+    <name>эвондонча</name>
   </language>
   <language>
     <code>fa</code>
-    <name>Форсча</name>
+    <name>форсий</name>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>фулаҳ</name>
   </language>
   <language>
     <code>fi</code>
-    <name>Финча</name>
+    <name>финча</name>
   </language>
   <language>
     <code>fil</code>
-    <name>Филипино</name>
+    <name>филипинча</name>
   </language>
   <language>
     <code>fj</code>
-    <name>Фижича</name>
+    <name>фижича</name>
   </language>
   <language>
     <code>fo</code>
-    <name>Фарэрча</name>
+    <name>фарерча</name>
+  </language>
+  <language>
+    <code>fon</code>
+    <name>фон</name>
   </language>
   <language>
     <code>fr</code>
-    <name>Французча</name>
+    <name>французча</name>
+  </language>
+  <language>
+    <code>fur</code>
+    <name>фриулча</name>
   </language>
   <language>
     <code>fy</code>
-    <name>Ғарбий фризианча</name>
+    <name>ғарбий фризча</name>
   </language>
   <language>
     <code>ga</code>
-    <name>Ирландча</name>
+    <name>ирландча</name>
+  </language>
+  <language>
+    <code>gaa</code>
+    <name>га</name>
+  </language>
+  <language>
+    <code>gd</code>
+    <name>шотландча гаелик</name>
+  </language>
+  <language>
+    <code>gez</code>
+    <name>геэз</name>
+  </language>
+  <language>
+    <code>gil</code>
+    <name>гилбертча</name>
   </language>
   <language>
     <code>gl</code>
-    <name>Галицийча</name>
+    <name>галицийча</name>
   </language>
   <language>
     <code>gn</code>
-    <name>Гуарани</name>
+    <name>гуарани</name>
+  </language>
+  <language>
+    <code>gor</code>
+    <name>горонтало</name>
   </language>
   <language>
     <code>gsw</code>
-    <name>Швейцария немисчаси</name>
+    <name>немисча (Швейцария)</name>
   </language>
   <language>
     <code>gu</code>
-    <name>Гужарати</name>
+    <name>гужаротча</name>
+  </language>
+  <language>
+    <code>guz</code>
+    <name>гусии</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>мэнча</name>
+  </language>
+  <language>
+    <code>gwi</code>
+    <name>гвичин</name>
   </language>
   <language>
     <code>ha</code>
-    <name>Хауса</name>
+    <name>хауса</name>
   </language>
   <language>
     <code>haw</code>
-    <name>Гавайча</name>
+    <name>гавайча</name>
   </language>
   <language>
     <code>he</code>
-    <name>Иброний</name>
+    <name>иброний</name>
   </language>
   <language>
     <code>hi</code>
-    <name>Ҳиндча</name>
+    <name>ҳинди</name>
+  </language>
+  <language>
+    <code>hil</code>
+    <name>хилигайнон</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>хмонгча</name>
   </language>
   <language>
     <code>hr</code>
-    <name>Хорватча</name>
+    <name>хорватча</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>юқори сорбча</name>
   </language>
   <language>
     <code>ht</code>
-    <name>Гаитианча</name>
+    <name>гаитянча</name>
   </language>
   <language>
     <code>hu</code>
-    <name>Венгрча</name>
+    <name>венгерча</name>
+  </language>
+  <language>
+    <code>hup</code>
+    <name>хупа тили</name>
   </language>
   <language>
     <code>hy</code>
-    <name>Арманча</name>
+    <name>арманча</name>
+  </language>
+  <language>
+    <code>hz</code>
+    <name>гереро</name>
+  </language>
+  <language>
+    <code>ia</code>
+    <name>интерлингва</name>
+  </language>
+  <language>
+    <code>iba</code>
+    <name>ибан тили</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>ибибо</name>
   </language>
   <language>
     <code>id</code>
-    <name>Индонезияча</name>
+    <name>индонезча</name>
   </language>
   <language>
     <code>ig</code>
-    <name>Игбо</name>
+    <name>игбо</name>
+  </language>
+  <language>
+    <code>ilo</code>
+    <name>илоко</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>ингушча</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>идо</name>
   </language>
   <language>
     <code>is</code>
-    <name>Исландча</name>
+    <name>исландча</name>
   </language>
   <language>
     <code>it</code>
-    <name>Италянча</name>
+    <name>италянча</name>
+  </language>
+  <language>
+    <code>iu</code>
+    <name>инуктитут</name>
   </language>
   <language>
     <code>ja</code>
-    <name>Японча</name>
+    <name>японча</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>нгомба</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>мачаме тили</name>
   </language>
   <language>
     <code>jv</code>
-    <name>Яванча</name>
+    <name>яванча</name>
   </language>
   <language>
     <code>ka</code>
-    <name>Грузинча</name>
+    <name>грузинча</name>
+  </language>
+  <language>
+    <code>kab</code>
+    <name>кабилча</name>
+  </language>
+  <language>
+    <code>kaj</code>
+    <name>кажи</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>камбача</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>макондеча</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>кабувердиану</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>койра-чиини</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>кикую</name>
   </language>
   <language>
     <code>kk</code>
-    <name>Қозоқча</name>
+    <name>қозоқча</name>
+  </language>
+  <language>
+    <code>kkj</code>
+    <name>како</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>гренландча</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>каленжинча</name>
   </language>
   <language>
     <code>km</code>
-    <name>Хмерча</name>
+    <name>хмерча</name>
   </language>
   <language>
     <code>kn</code>
-    <name>Каннада</name>
+    <name>каннада</name>
   </language>
   <language>
     <code>ko</code>
-    <name>Корейсча</name>
+    <name>корейсча</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>конканча</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>канури</name>
   </language>
   <language>
     <code>ks</code>
-    <name>Кашмирча</name>
+    <name>кашмирча</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>шамбала</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>бафияча</name>
+  </language>
+  <language>
+    <code>ksh</code>
+    <name>кёлнча</name>
   </language>
   <language>
     <code>ku</code>
-    <name>Курдча</name>
+    <name>курдча</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>корнча</name>
   </language>
   <language>
     <code>ky</code>
-    <name>Қирғизча</name>
+    <name>қирғизча</name>
   </language>
   <language>
     <code>la</code>
-    <name>Лотинча</name>
+    <name>лотинча</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>лангича</name>
   </language>
   <language>
     <code>lb</code>
-    <name>Люксембургча</name>
+    <name>люксембургча</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>гандача</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>лакотачалакотача</name>
+  </language>
+  <language>
+    <code>ln</code>
+    <name>лингалча</name>
   </language>
   <language>
     <code>lo</code>
-    <name>Лао</name>
+    <name>лаосча</name>
+  </language>
+  <language>
+    <code>lrc</code>
+    <name>шимолий лури</name>
   </language>
   <language>
     <code>lt</code>
-    <name>Литвача</name>
+    <name>литвача</name>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>луба-катанга</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>лушай</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>луҳя</name>
   </language>
   <language>
     <code>lv</code>
-    <name>Латишча</name>
+    <name>латишча</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>масайча</name>
+  </language>
+  <language>
+    <code>mdf</code>
+    <name>мокша тили</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>менде</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>меруча</name>
+  </language>
+  <language>
+    <code>mfe</code>
+    <name>морисьен</name>
   </language>
   <language>
     <code>mg</code>
-    <name>Малагаси</name>
+    <name>малагасийча</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>махува-митто</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>мета</name>
+  </language>
+  <language>
+    <code>mh</code>
+    <name>маршалл тили</name>
   </language>
   <language>
     <code>mi</code>
-    <name>Маори</name>
+    <name>маори</name>
+  </language>
+  <language>
+    <code>mic</code>
+    <name>микмак</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>минангкабау</name>
   </language>
   <language>
     <code>mk</code>
-    <name>Македонча</name>
+    <name>македонча</name>
   </language>
   <language>
     <code>ml</code>
-    <name>Малайалам</name>
+    <name>малаялам</name>
+  </language>
+  <language>
+    <code>mn</code>
+    <name>мўғулча</name>
+  </language>
+  <language>
+    <code>mni</code>
+    <name>манипурча</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>могавк</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>мосси</name>
   </language>
   <language>
     <code>mr</code>
-    <name>Марати</name>
+    <name>маратхи</name>
   </language>
   <language>
     <code>ms</code>
-    <name>Малайча</name>
+    <name>малай тил</name>
   </language>
   <language>
     <code>mt</code>
-    <name>Мальтача</name>
+    <name>малтача</name>
+  </language>
+  <language>
+    <code>mua</code>
+    <name>мунданг</name>
+  </language>
+  <language>
+    <code>mul</code>
+    <name>бир нечта тил</name>
+  </language>
+  <language>
+    <code>mus</code>
+    <name>крикча</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>мирандес</name>
   </language>
   <language>
     <code>my</code>
-    <name>Бирманча</name>
+    <name>бирманча</name>
+  </language>
+  <language>
+    <code>myv</code>
+    <name>эрзянча</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>мазандеран</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>нама</name>
   </language>
   <language>
     <code>nb</code>
-    <name>Норвегча Бокмал</name>
+    <name>норвегча бокмал</name>
+  </language>
+  <language>
+    <code>nd</code>
+    <name>шимолий ндебеле</name>
   </language>
   <language>
     <code>ne</code>
-    <name>Непалча</name>
+    <name>непалча</name>
+  </language>
+  <language>
+    <code>niu</code>
+    <name>ниуэча</name>
   </language>
   <language>
     <code>nl</code>
-    <name>Голландча</name>
+    <name>голландча</name>
   </language>
   <language>
     <code>nl_BE</code>
-    <name>Фламандча</name>
+    <name>фламандча</name>
+  </language>
+  <language>
+    <code>nmg</code>
+    <name>квасио</name>
   </language>
   <language>
     <code>nn</code>
-    <name>Норвегча Нинорск</name>
+    <name>норвегча нюнорск</name>
+  </language>
+  <language>
+    <code>nnh</code>
+    <name>нгиембун</name>
+  </language>
+  <language>
+    <code>nqo</code>
+    <name>нко</name>
+  </language>
+  <language>
+    <code>nr</code>
+    <name>жанубий ндебелча</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>нуэрча</name>
+  </language>
+  <language>
+    <code>ny</code>
+    <name>чева</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>нянколе</name>
+  </language>
+  <language>
+    <code>oc</code>
+    <name>окситанча</name>
+  </language>
+  <language>
+    <code>om</code>
+    <name>оромо</name>
   </language>
   <language>
     <code>or</code>
-    <name>Ория</name>
+    <name>одия</name>
   </language>
   <language>
     <code>pa</code>
-    <name>Панжобча</name>
+    <name>панжобча</name>
+  </language>
+  <language>
+    <code>pap</code>
+    <name>папияменто</name>
   </language>
   <language>
     <code>pl</code>
-    <name>Полякча</name>
+    <name>полякча</name>
   </language>
   <language>
     <code>ps</code>
-    <name>Пушту</name>
+    <name>пушту</name>
   </language>
   <language>
     <code>pt</code>
-    <name>Португалча</name>
+    <name>португалча</name>
   </language>
   <language>
     <code>qu</code>
-    <name>Квечуа</name>
+    <name>кечуа</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>кичэ</name>
   </language>
   <language>
     <code>rm</code>
-    <name>Романча</name>
+    <name>романшча</name>
+  </language>
+  <language>
+    <code>rn</code>
+    <name>рунди</name>
   </language>
   <language>
     <code>ro</code>
-    <name>Руминча</name>
+    <name>руминча</name>
+  </language>
+  <language>
+    <code>rof</code>
+    <name>ромбоча</name>
   </language>
   <language>
     <code>ru</code>
-    <name>Русча</name>
+    <name>русча</name>
+  </language>
+  <language>
+    <code>rup</code>
+    <name>арумин</name>
+  </language>
+  <language>
+    <code>rw</code>
+    <name>киняруанда</name>
+  </language>
+  <language>
+    <code>rwk</code>
+    <name>руанда тили</name>
   </language>
   <language>
     <code>sa</code>
-    <name>Санскритча</name>
+    <name>санскрит</name>
+  </language>
+  <language>
+    <code>sah</code>
+    <name>саха</name>
+  </language>
+  <language>
+    <code>saq</code>
+    <name>самбуруча</name>
+  </language>
+  <language>
+    <code>sat</code>
+    <name>сантали</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>сангуча</name>
   </language>
   <language>
     <code>sd</code>
-    <name>Синдхи</name>
+    <name>синдҳи</name>
+  </language>
+  <language>
+    <code>se</code>
+    <name>шимолий саамча</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>сена</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>койраборо-сенни</name>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>санго</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>ташелхит</name>
   </language>
   <language>
     <code>si</code>
-    <name>Синхала</name>
+    <name>сингалча</name>
   </language>
   <language>
     <code>sk</code>
-    <name>Словакча</name>
+    <name>словакча</name>
   </language>
   <language>
     <code>sl</code>
-    <name>Словенча</name>
+    <name>словенча</name>
+  </language>
+  <language>
+    <code>sma</code>
+    <name>жанубий саамча</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>луле-саамча</name>
+  </language>
+  <language>
+    <code>smn</code>
+    <name>инари-саамча</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>сколт-саамча</name>
+  </language>
+  <language>
+    <code>sn</code>
+    <name>шона</name>
   </language>
   <language>
     <code>so</code>
-    <name>Сомалича</name>
+    <name>сомалича</name>
   </language>
   <language>
     <code>sq</code>
-    <name>Албанча</name>
+    <name>албанча</name>
   </language>
   <language>
     <code>sr</code>
-    <name>Сербча</name>
+    <name>сербча</name>
+  </language>
+  <language>
+    <code>ss</code>
+    <name>свати</name>
+  </language>
+  <language>
+    <code>ssy</code>
+    <name>саҳоча</name>
   </language>
   <language>
     <code>su</code>
-    <name>Сунданча</name>
+    <name>сунданча</name>
   </language>
   <language>
     <code>sv</code>
-    <name>Шведча</name>
+    <name>шведча</name>
   </language>
   <language>
     <code>sw</code>
-    <name>Суахили</name>
+    <name>суахили</name>
+  </language>
+  <language>
+    <code>sw_CD</code>
+    <name>конго-суахили</name>
+  </language>
+  <language>
+    <code>swb</code>
+    <name>коморча</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>сурияча</name>
   </language>
   <language>
     <code>ta</code>
-    <name>Тамилча</name>
+    <name>тамилча</name>
   </language>
   <language>
     <code>te</code>
-    <name>Телугу</name>
+    <name>телугу</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>тесо</name>
   </language>
   <language>
     <code>tg</code>
-    <name>Тожикча</name>
+    <name>тожикча</name>
   </language>
   <language>
     <code>th</code>
-    <name>Тайча</name>
+    <name>тайча</name>
   </language>
   <language>
     <code>ti</code>
-    <name>Тигринья</name>
+    <name>тигриняча</name>
+  </language>
+  <language>
+    <code>tig</code>
+    <name>тигре</name>
   </language>
   <language>
     <code>tk</code>
-    <name>Туркманча</name>
+    <name>туркманча</name>
   </language>
   <language>
     <code>to</code>
-    <name>Тонгоча</name>
+    <name>тонганча</name>
   </language>
   <language>
     <code>tr</code>
-    <name>Туркча</name>
+    <name>туркча</name>
   </language>
   <language>
     <code>tt</code>
-    <name>Татарча</name>
+    <name>татарча</name>
+  </language>
+  <language>
+    <code>twq</code>
+    <name>тасавак</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>марказий атлас тамазигхт</name>
   </language>
   <language>
     <code>ug</code>
-    <name>Уйғурча</name>
+    <name>уйғурча</name>
   </language>
   <language>
     <code>uk</code>
-    <name>Украинча</name>
+    <name>украинча</name>
   </language>
   <language>
     <code>und</code>
-    <name>Номаълум тил</name>
+    <name>номаълум тил</name>
   </language>
   <language>
     <code>ur</code>
-    <name>Урду</name>
+    <name>урду</name>
   </language>
   <language>
     <code>uz</code>
-    <name>Ўзбек</name>
+    <name>ўзбекча</name>
+  </language>
+  <language>
+    <code>vai</code>
+    <name>ваи</name>
+  </language>
+  <language>
+    <code>ve</code>
+    <name>венда</name>
   </language>
   <language>
     <code>vi</code>
-    <name>Вьетнамча</name>
+    <name>ветнамча</name>
+  </language>
+  <language>
+    <code>vo</code>
+    <name>волапюк</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>вунжо</name>
+  </language>
+  <language>
+    <code>wae</code>
+    <name>валсерча</name>
+  </language>
+  <language>
+    <code>wal</code>
+    <name>волятта</name>
   </language>
   <language>
     <code>wo</code>
-    <name>Волофча</name>
+    <name>волофча</name>
   </language>
   <language>
     <code>xh</code>
-    <name>Хоса</name>
+    <name>хоса</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>сога</name>
+  </language>
+  <language>
+    <code>yav</code>
+    <name>янгбен</name>
+  </language>
+  <language>
+    <code>yi</code>
+    <name>иддиш</name>
   </language>
   <language>
     <code>yo</code>
-    <name>Йоруба</name>
+    <name>йоруба</name>
+  </language>
+  <language>
+    <code>yue</code>
+    <name>кантонча</name>
   </language>
   <language>
     <code>zgh</code>
-    <name>Стандарт Марокаш Тамазит</name>
+    <name>тамазигхт</name>
   </language>
   <language>
     <code>zh</code>
-    <name>Хитойча</name>
+    <name>хитойча</name>
+  </language>
+  <language>
+    <code>zh_Hans</code>
+    <name>соддалаштирилган хитойча</name>
+  </language>
+  <language>
+    <code>zh_Hant</code>
+    <name>анъанавий хитойча</name>
   </language>
   <language>
     <code>zu</code>
-    <name>Зулу</name>
+    <name>зулу</name>
   </language>
   <language>
     <code>zxx</code>

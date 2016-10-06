@@ -15,7 +15,7 @@
     <!-- ady - Adyghe -->
     <item>阿迪各文</item>
     <!-- ae - Avestan -->
-    <item>阿緯斯陀文</item>
+    <item>阿維斯塔文</item>
     <!-- aeb - Tunisian Arabic -->
     <item>突尼斯阿拉伯文</item>
     <!-- af - Afrikaans -->
@@ -85,7 +85,7 @@
     <!-- az - Azerbaijani -->
     <item>亞塞拜然文</item>
     <!-- ba - Bashkir -->
-    <item>巴什客爾文</item>
+    <item>巴什喀爾文</item>
     <!-- bal - Baluchi -->
     <item>俾路支文</item>
     <!-- ban - Balinese -->
@@ -134,7 +134,7 @@
     <item>錫克錫卡文</item>
     <!-- bm - Bambara -->
     <item>班巴拉文</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>孟加拉文</item>
     <!-- bo - Tibetan -->
     <item>藏文</item>
@@ -165,7 +165,7 @@
     <!-- byv - Medumba -->
     <item>梅敦巴文</item>
     <!-- ca - Catalan -->
-    <item>加泰羅尼亞文</item>
+    <item>加泰蘭文</item>
     <!-- cad - Caddo -->
     <item>卡多文</item>
     <!-- car - Carib -->
@@ -201,7 +201,7 @@
     <!-- chy - Cheyenne -->
     <item>沙伊安文</item>
     <!-- ckb - Central Kurdish -->
-    <item>索拉尼庫爾德文</item>
+    <item>中庫德文</item>
     <!-- co - Corsican -->
     <item>科西嘉文</item>
     <!-- cop - Coptic -->
@@ -209,9 +209,11 @@
     <!-- cps - Capiznon -->
     <item>卡皮茲文</item>
     <!-- cr - Cree -->
-    <item>克裡文</item>
+    <item>克里文</item>
     <!-- crh - Crimean Turkish -->
-    <item>克里米亞半島的土耳其文；克里米亞半島的塔塔爾文</item>
+    <item>土耳其文（克里米亞半島）</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>塞席爾克里奧爾法文</item>
     <!-- cs - Czech -->
     <item>捷克文</item>
     <!-- csb - Kashubian -->
@@ -365,7 +367,7 @@
     <!-- gn - Guarani -->
     <item>瓜拉尼文</item>
     <!-- goh - Old High German -->
-    <item>古高地日耳曼文</item>
+    <item>古高地德文</item>
     <!-- gom - Goan Konkani -->
     <item>孔卡尼文</item>
     <!-- gon - Gondi -->
@@ -403,7 +405,7 @@
     <!-- he - Hebrew -->
     <item>希伯來文</item>
     <!-- hi - Hindi -->
-    <item>北印度文</item>
+    <item>印地文</item>
     <!-- hif - Fiji Hindi -->
     <item>斐濟印地文</item>
     <!-- hil - Hiligaynon -->
@@ -459,11 +461,11 @@
     <!-- iu - Inuktitut -->
     <item>因紐特文</item>
     <!-- izh - Ingrian -->
-    <item>英格裏亞文</item>
+    <item>英格里亞文</item>
     <!-- ja - Japanese -->
     <item>日文</item>
     <!-- jam - Jamaican Creole English -->
-    <item>牙買加克裏奧爾英文</item>
+    <item>牙買加克里奧爾英文</item>
     <!-- jbo - Lojban -->
     <item>邏輯文</item>
     <!-- jgo - Ngomba -->
@@ -549,7 +551,7 @@
     <!-- kpe - Kpelle -->
     <item>克佩列文</item>
     <!-- kr - Kanuri -->
-    <item>卡努裡文</item>
+    <item>卡努里文</item>
     <!-- krc - Karachay-Balkar -->
     <item>卡拉柴-包爾卡爾文</item>
     <!-- kri - Krio -->
@@ -569,7 +571,7 @@
     <!-- ksh - Colognian -->
     <item>科隆文</item>
     <!-- ku - Kurdish -->
-    <item>庫爾德文</item>
+    <item>庫德文</item>
     <!-- kum - Kumyk -->
     <item>庫密克文</item>
     <!-- kut - Kutenai -->
@@ -633,7 +635,7 @@
     <!-- luo - Luo -->
     <item>盧奧文</item>
     <!-- lus - Mizo -->
-    <item>盧晒文</item>
+    <item>米佐文</item>
     <!-- luy - Luyia -->
     <item>盧雅文</item>
     <!-- lv - Latvian -->
@@ -680,7 +682,7 @@
     <item>馬紹爾文</item>
     <!-- mi - Maori -->
     <item>毛利文</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>米克馬克文</item>
     <!-- min - Minangkabau -->
     <item>米南卡堡文</item>
@@ -693,7 +695,7 @@
     <!-- mnc - Manchu -->
     <item>滿族文</item>
     <!-- mni - Manipuri -->
-    <item>曼尼普裡文</item>
+    <item>曼尼普爾文</item>
     <!-- moh - Mohawk -->
     <item>莫霍克文</item>
     <!-- mos - Mossi -->
@@ -701,21 +703,21 @@
     <!-- mr - Marathi -->
     <item>馬拉地文</item>
     <!-- mrj - Western Mari -->
-    <item>西馬裏文</item>
+    <item>西馬里文</item>
     <!-- ms - Malay -->
     <item>馬來文</item>
     <!-- mt - Maltese -->
     <item>馬爾他文</item>
     <!-- mua - Mundang -->
     <item>蒙當文</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>多種語言</item>
     <!-- mus - Creek -->
     <item>克里克文</item>
     <!-- mwl - Mirandese -->
     <item>米蘭德斯文</item>
     <!-- mwr - Marwari -->
-    <item>馬爾尼裡文</item>
+    <item>馬瓦里文</item>
     <!-- mwv - Mentawai -->
     <item>明打威文</item>
     <!-- my - Burmese -->
@@ -800,8 +802,8 @@
     <item>奧杰布瓦文</item>
     <!-- om - Oromo -->
     <item>奧羅莫文</item>
-    <!-- or - Oriya -->
-    <item>歐利亞文</item>
+    <!-- or - Odia -->
+    <item>歐迪亞文</item>
     <!-- os - Ossetic -->
     <item>奧塞提文</item>
     <!-- osa - Osage -->
@@ -822,6 +824,8 @@
     <item>帛琉文</item>
     <!-- pcd - Picard -->
     <item>庇卡底文</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>奈及利亞皮欽文</item>
     <!-- pdc - Pennsylvania German -->
     <item>賓夕法尼亞德文</item>
     <!-- pdt - Plautdietsch -->
@@ -925,9 +929,9 @@
     <!-- sdc - Sassarese Sardinian -->
     <item>薩丁尼亞-薩薩里文</item>
     <!-- sdh - Southern Kurdish -->
-    <item>南庫爾德文</item>
+    <item>南庫德文</item>
     <!-- se - Northern Sami -->
-    <item>北方薩米文</item>
+    <item>北薩米文</item>
     <!-- see - Seneca -->
     <item>塞訥卡文</item>
     <!-- seh - Sena -->
@@ -935,7 +939,7 @@
     <!-- sei - Seri -->
     <item>瑟里文</item>
     <!-- sel - Selkup -->
-    <item>瑟爾卡普文</item>
+    <item>塞爾庫普文</item>
     <!-- ses - Koyraboro Senni -->
     <item>東桑海文</item>
     <!-- sg - Sango -->
@@ -971,11 +975,11 @@
     <!-- smj - Lule Sami -->
     <item>魯勒薩米文</item>
     <!-- smn - Inari Sami -->
-    <item>伊納裡薩米文</item>
+    <item>伊納里薩米文</item>
     <!-- sms - Skolt Sami -->
     <item>斯科特薩米文</item>
     <!-- sn - Shona -->
-    <item>塞內加爾文</item>
+    <item>紹納文</item>
     <!-- snk - Soninke -->
     <item>索尼基文</item>
     <!-- so - Somali -->
@@ -1010,10 +1014,10 @@
     <item>瑞典文</item>
     <!-- sw - Swahili -->
     <item>史瓦希里文</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>史瓦希里文（剛果）</item>
     <!-- swb - Comorian -->
     <item>葛摩文</item>
-    <!-- swc - Congo Swahili -->
-    <item>史瓦希里文（剛果）</item>
     <!-- syc - Classical Syriac -->
     <item>古敘利亞文</item>
     <!-- syr - Syriac -->
@@ -1095,11 +1099,11 @@
     <!-- ty - Tahitian -->
     <item>大溪地文</item>
     <!-- tyv - Tuvinian -->
-    <item>土凡文</item>
+    <item>圖瓦文</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>塔馬齊格特文</item>
+    <item>中阿特拉斯塔馬塞特文</item>
     <!-- udm - Udmurt -->
-    <item>沃蒂艾克文</item>
+    <item>烏德穆爾特文</item>
     <!-- ug - Uyghur -->
     <item>維吾爾文</item>
     <!-- uga - Ugaritic -->
@@ -1108,7 +1112,7 @@
     <item>烏克蘭文</item>
     <!-- umb - Umbundu -->
     <item>姆本杜文</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>未知語言</item>
     <!-- ur - Urdu -->
     <item>烏都文</item>
@@ -1139,7 +1143,7 @@
     <!-- wa - Walloon -->
     <item>瓦隆文</item>
     <!-- wae - Walser -->
-    <item>瓦瑟文</item>
+    <item>瓦爾瑟文</item>
     <!-- wal - Wolaytta -->
     <item>瓦拉莫文</item>
     <!-- war - Waray -->

@@ -47,7 +47,7 @@
     <!-- arc - Aramaic -->
     <item>aramaică</item>
     <!-- arn - Mapuche -->
-    <item>mapuche</item>
+    <item>araucaniană</item>
     <!-- arp - Arapaho -->
     <item>arapaho</item>
     <!-- arw - Arawak -->
@@ -106,7 +106,7 @@
     <item>siksika</item>
     <!-- bm - Bambara -->
     <item>bambara</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>bengaleză</item>
     <!-- bo - Tibetan -->
     <item>tibetană</item>
@@ -143,7 +143,7 @@
     <!-- ce - Chechen -->
     <item>cecenă</item>
     <!-- ceb - Cebuano -->
-    <item>cebuano</item>
+    <item>cebuană</item>
     <!-- cgg - Chiga -->
     <item>chiga</item>
     <!-- ch - Chamorro -->
@@ -167,7 +167,7 @@
     <!-- chy - Cheyenne -->
     <item>cheyenne</item>
     <!-- ckb - Central Kurdish -->
-    <item>kurdă sorani</item>
+    <item>kurdă centrală</item>
     <!-- co - Corsican -->
     <item>corsicană</item>
     <!-- cop - Coptic -->
@@ -176,6 +176,8 @@
     <item>cree</item>
     <!-- crh - Crimean Turkish -->
     <item>turcă crimeeană</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>creolă franceză seselwa</item>
     <!-- cs - Czech -->
     <item>cehă</item>
     <!-- csb - Kashubian -->
@@ -196,10 +198,8 @@
     <item>taita</item>
     <!-- de - German -->
     <item>germană</item>
-    <!-- de_AT - Austrian German -->
-    <item>germană austriacă</item>
     <!-- de_CH - Swiss High German -->
-    <item>germană standard elvețiană</item>
+    <item>germană standard (Elveția)</item>
     <!-- del - Delaware -->
     <item>delaware</item>
     <!-- den - Slave -->
@@ -217,7 +217,7 @@
     <!-- dua - Duala -->
     <item>duala</item>
     <!-- dum - Middle Dutch -->
-    <item>olandeză mijlocie</item>
+    <item>neerlandeză medie</item>
     <!-- dv - Divehi -->
     <item>divehi</item>
     <!-- dyo - Jola-Fonyi -->
@@ -244,28 +244,14 @@
     <item>elamită</item>
     <!-- en - English -->
     <item>engleză</item>
-    <!-- en_AU - Australian English -->
-    <item>engleză australiană</item>
-    <!-- en_CA - Canadian English -->
-    <item>engleză canadiană</item>
-    <!-- en_GB - British English -->
-    <item>engleză britanică</item>
-    <!-- en_US - American English -->
-    <item>engleză americană</item>
     <!-- enm - Middle English -->
-    <item>engleză mijlocie</item>
+    <item>engleză medie</item>
     <!-- eo - Esperanto -->
     <item>esperanto</item>
     <!-- es - Spanish -->
     <item>spaniolă</item>
-    <!-- es_419 - Latin American Spanish -->
-    <item>spaniolă latino-americană</item>
-    <!-- es_ES - European Spanish -->
-    <item>spaniolă europeană</item>
-    <!-- es_MX - Mexican Spanish -->
-    <item>spaniolă mexicană</item>
     <!-- et - Estonian -->
-    <item>estoniană</item>
+    <item>estonă</item>
     <!-- eu - Basque -->
     <item>bască</item>
     <!-- ewo - Ewondo -->
@@ -290,12 +276,8 @@
     <item>fon</item>
     <!-- fr - French -->
     <item>franceză</item>
-    <!-- fr_CA - Canadian French -->
-    <item>franceză canadiană</item>
-    <!-- fr_CH - Swiss French -->
-    <item>franceză elvețiană</item>
     <!-- frm - Middle French -->
-    <item>franceză mijlocie</item>
+    <item>franceză medie</item>
     <!-- fro - Old French -->
     <item>franceză veche</item>
     <!-- frr - Northern Frisian -->
@@ -312,6 +294,8 @@
     <item>ga</item>
     <!-- gag - Gagauz -->
     <item>găgăuză</item>
+    <!-- gan - Gan Chinese -->
+    <item>chineză gan</item>
     <!-- gay - Gayo -->
     <item>gayo</item>
     <!-- gba - Gbaya -->
@@ -325,11 +309,11 @@
     <!-- gl - Galician -->
     <item>galiciană</item>
     <!-- gmh - Middle High German -->
-    <item>germană mijlocie înaltă</item>
+    <item>germană înaltă medie</item>
     <!-- gn - Guarani -->
     <item>guarani</item>
     <!-- goh - Old High German -->
-    <item>germană veche înaltă</item>
+    <item>germană înaltă veche</item>
     <!-- gon - Gondi -->
     <item>gondi</item>
     <!-- gor - Gorontalo -->
@@ -341,7 +325,7 @@
     <!-- grc - Ancient Greek -->
     <item>greacă veche</item>
     <!-- gsw - Swiss German -->
-    <item>germană elvețiană</item>
+    <item>germană (Elveția)</item>
     <!-- gu - Gujarati -->
     <item>gujarati</item>
     <!-- guz - Gusii -->
@@ -354,6 +338,8 @@
     <item>hausa</item>
     <!-- hai - Haida -->
     <item>haida</item>
+    <!-- hak - Hakka Chinese -->
+    <item>chineză hakka</item>
     <!-- haw - Hawaiian -->
     <item>hawaiiană</item>
     <!-- he - Hebrew -->
@@ -372,6 +358,8 @@
     <item>croată</item>
     <!-- hsb - Upper Sorbian -->
     <item>sorabă de sus</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>chineză xiang</item>
     <!-- ht - Haitian Creole -->
     <item>haitiană</item>
     <!-- hu - Hungarian -->
@@ -455,7 +443,7 @@
     <!-- kha - Khasi -->
     <item>khasi</item>
     <!-- kho - Khotanese -->
-    <item>limbp khotaneză</item>
+    <item>khotaneză</item>
     <!-- khq - Koyra Chiini -->
     <item>koyra chiini</item>
     <!-- ki - Kikuyu -->
@@ -557,7 +545,7 @@
     <!-- luo - Luo -->
     <item>luo</item>
     <!-- lus - Mizo -->
-    <item>lusahi</item>
+    <item>mizo</item>
     <!-- luy - Luyia -->
     <item>luyia</item>
     <!-- lv - Latvian -->
@@ -591,7 +579,7 @@
     <!-- mg - Malagasy -->
     <item>malgașă</item>
     <!-- mga - Middle Irish -->
-    <item>irlandeză mijlocie</item>
+    <item>irlandeză medie</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>makhuwa-meetto</item>
     <!-- mgo - Metaʼ -->
@@ -600,7 +588,7 @@
     <item>marshalleză</item>
     <!-- mi - Maori -->
     <item>maori</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>micmac</item>
     <!-- min - Minangkabau -->
     <item>minangkabau</item>
@@ -613,7 +601,7 @@
     <!-- mnc - Manchu -->
     <item>manciuriană</item>
     <!-- mni - Manipuri -->
-    <item>manipur</item>
+    <item>manipuri</item>
     <!-- moh - Mohawk -->
     <item>mohawk</item>
     <!-- mos - Mossi -->
@@ -626,8 +614,8 @@
     <item>malteză</item>
     <!-- mua - Mundang -->
     <item>mundang</item>
-    <!-- mul - Multiple Languages -->
-    <item>limbi multiple</item>
+    <!-- mul - Multiple languages -->
+    <item>mai multe limbi</item>
     <!-- mus - Creek -->
     <item>creek</item>
     <!-- mwl - Mirandese -->
@@ -635,7 +623,7 @@
     <!-- mwr - Marwari -->
     <item>marwari</item>
     <!-- my - Burmese -->
-    <item>birmaneză</item>
+    <item>birmană</item>
     <!-- mye - Myene -->
     <item>myene</item>
     <!-- myv - Erzya -->
@@ -644,6 +632,8 @@
     <item>mazanderani</item>
     <!-- na - Nauru -->
     <item>nauru</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>chineză min nan</item>
     <!-- nap - Neapolitan -->
     <item>napolitană</item>
     <!-- naq - Nama -->
@@ -710,7 +700,7 @@
     <item>ojibwa</item>
     <!-- om - Oromo -->
     <item>oromo</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>oriya</item>
     <!-- os - Ossetic -->
     <item>osetă</item>
@@ -730,6 +720,8 @@
     <item>papiamento</item>
     <!-- pau - Palauan -->
     <item>palauană</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>pidgin nigerian</item>
     <!-- peo - Old Persian -->
     <item>persană veche</item>
     <!-- phn - Phoenician -->
@@ -740,16 +732,14 @@
     <item>poloneză</item>
     <!-- pon - Pohnpeian -->
     <item>pohnpeiană</item>
+    <!-- prg - Prussian -->
+    <item>prusacă</item>
     <!-- pro - Old Provençal -->
     <item>provensală veche</item>
     <!-- ps - Pashto -->
     <item>paștună</item>
     <!-- pt - Portuguese -->
     <item>portugheză</item>
-    <!-- pt_BR - Brazilian Portuguese -->
-    <item>portugheză braziliană</item>
-    <!-- pt_PT - European Portuguese -->
-    <item>portugheză europeană</item>
     <!-- qu - Quechua -->
     <item>quechua</item>
     <!-- quc - Kʼicheʼ -->
@@ -833,7 +823,7 @@
     <!-- shu - Chadian Arabic -->
     <item>arabă ciadiană</item>
     <!-- si - Sinhala -->
-    <item>singhaleză</item>
+    <item>singaleză</item>
     <!-- sid - Sidamo -->
     <item>sidamo</item>
     <!-- sk - Slovak -->
@@ -884,10 +874,10 @@
     <item>suedeză</item>
     <!-- sw - Swahili -->
     <item>swahili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>swahili (R.D. Congo)</item>
     <!-- swb - Comorian -->
     <item>comoreză</item>
-    <!-- swc - Congo Swahili -->
-    <item>swahili Congo</item>
     <!-- syc - Classical Syriac -->
     <item>siriacă clasică</item>
     <!-- syr - Syriac -->
@@ -929,7 +919,7 @@
     <!-- tn - Tswana -->
     <item>setswana</item>
     <!-- to - Tongan -->
-    <item>tonga</item>
+    <item>tongană</item>
     <!-- tog - Nyasa Tonga -->
     <item>nyasa tonga</item>
     <!-- tpi - Tok Pisin -->
@@ -968,7 +958,7 @@
     <item>ucraineană</item>
     <!-- umb - Umbundu -->
     <item>umbundu</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>limbă necunoscută</item>
     <!-- ur - Urdu -->
     <item>urdu</item>
@@ -983,7 +973,7 @@
     <!-- vo - Volapük -->
     <item>volapuk</item>
     <!-- vot - Votic -->
-    <item>votic</item>
+    <item>votică</item>
     <!-- vun - Vunjo -->
     <item>vunjo</item>
     <!-- wa - Walloon -->
@@ -991,7 +981,7 @@
     <!-- wae - Walser -->
     <item>walser</item>
     <!-- wal - Wolaytta -->
-    <item>walamo</item>
+    <item>wolaita</item>
     <!-- war - Waray -->
     <item>waray</item>
     <!-- was - Washo -->
@@ -1000,6 +990,8 @@
     <item>warlpiri</item>
     <!-- wo - Wolof -->
     <item>wolof</item>
+    <!-- wuu - Wu Chinese -->
+    <item>chineză wu</item>
     <!-- xal - Kalmyk -->
     <item>calmucă</item>
     <!-- xh - Xhosa -->
@@ -1032,8 +1024,6 @@
     <item>tamazight standard marocană</item>
     <!-- zh - Chinese -->
     <item>chineză</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>chineză simplificată</item>
     <!-- zh_Hant - Traditional Chinese -->
     <item>chineză tradițională</item>
     <!-- zu - Zulu -->

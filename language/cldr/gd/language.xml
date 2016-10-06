@@ -69,6 +69,10 @@
     <name>Albàinis Ghegeach</name>
   </language>
   <language>
+    <code>alt</code>
+    <name>Altais Dheasach</name>
+  </language>
+  <language>
     <code>am</code>
     <name>Amtharais</name>
   </language>
@@ -98,7 +102,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>Mapuche</name>
+    <name>Mapudungun</name>
   </language>
   <language>
     <code>aro</code>
@@ -258,7 +262,7 @@
   </language>
   <language>
     <code>bn</code>
-    <name>Beangailis</name>
+    <name>Bangla</name>
   </language>
   <language>
     <code>bo</code>
@@ -390,7 +394,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>Cùrdais Soranî</name>
+    <name>Cùrdais Mheadhanach</name>
   </language>
   <language>
     <code>co</code>
@@ -413,8 +417,12 @@
     <name>Turcais Chriomach</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>Seiseallais</name>
+  </language>
+  <language>
     <code>cs</code>
-    <name>Seacais</name>
+    <name>Seicis</name>
   </language>
   <language>
     <code>csb</code>
@@ -1001,6 +1009,10 @@
     <name>Kawi</name>
   </language>
   <language>
+    <code>kbd</code>
+    <name>Cabardais</name>
+  </language>
+  <language>
     <code>kbl</code>
     <name>Kanembu</name>
   </language>
@@ -1121,6 +1133,10 @@
     <name>Kinaray-a</name>
   </language>
   <language>
+    <code>krl</code>
+    <name>Cairealais</name>
+  </language>
+  <language>
     <code>kru</code>
     <name>Kurukh</name>
   </language>
@@ -1135,6 +1151,10 @@
   <language>
     <code>ksf</code>
     <name>Bafia</name>
+  </language>
+  <language>
+    <code>ksh</code>
+    <name>Gearmailtis Chologne</name>
   </language>
   <language>
     <code>ku</code>
@@ -1183,6 +1203,10 @@
   <language>
     <code>lb</code>
     <name>Lugsamburgais</name>
+  </language>
+  <language>
+    <code>lez</code>
+    <name>Leasgais</name>
   </language>
   <language>
     <code>lfn</code>
@@ -1413,6 +1437,10 @@
     <name>Creek</name>
   </language>
   <language>
+    <code>mwl</code>
+    <name>Miorandais</name>
+  </language>
+  <language>
     <code>mwr</code>
     <name>Marwari</name>
   </language>
@@ -1443,6 +1471,10 @@
   <language>
     <code>nan</code>
     <name>Min Nan</name>
+  </language>
+  <language>
+    <code>nap</code>
+    <name>Eadailtis Napoli</name>
   </language>
   <language>
     <code>naq</code>
@@ -1534,7 +1566,7 @@
   </language>
   <language>
     <code>nso</code>
-    <name>Leasotais Thuathach</name>
+    <name>Sesotho sa Leboa</name>
   </language>
   <language>
     <code>nus</code>
@@ -1550,7 +1582,7 @@
   </language>
   <language>
     <code>ny</code>
-    <name>Chichewa</name>
+    <name>Nyanja</name>
   </language>
   <language>
     <code>nym</code>
@@ -1614,7 +1646,7 @@
   </language>
   <language>
     <code>pap</code>
-    <name>Papiamento</name>
+    <name>Papiamentu</name>
   </language>
   <language>
     <code>pau</code>
@@ -1623,6 +1655,10 @@
   <language>
     <code>pcd</code>
     <name>Picard</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>Beurla Nigèiriach</name>
   </language>
   <language>
     <code>pdc</code>
@@ -1682,7 +1718,7 @@
   </language>
   <language>
     <code>qu</code>
-    <name>Ceatsua</name>
+    <name>Quechua</name>
   </language>
   <language>
     <code>quc</code>
@@ -1749,6 +1785,10 @@
     <name>Roviana</name>
   </language>
   <language>
+    <code>rup</code>
+    <name>Aromanais</name>
+  </language>
+  <language>
     <code>rw</code>
     <name>Kinyarwanda</name>
   </language>
@@ -1766,7 +1806,7 @@
   </language>
   <language>
     <code>sah</code>
-    <name>Sachais</name>
+    <name>Sakha</name>
   </language>
   <language>
     <code>sam</code>
@@ -1946,7 +1986,7 @@
   </language>
   <language>
     <code>st</code>
-    <name>Leasotach Dheasach</name>
+    <name>Sesotho</name>
   </language>
   <language>
     <code>su</code>
@@ -1973,12 +2013,12 @@
     <name>Kiswahili</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>Comorais</name>
+    <code>sw_CD</code>
+    <name>Kiswahili na Congo</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>Kiswahili na Congo</name>
+    <code>swb</code>
+    <name>Comorais</name>
   </language>
   <language>
     <code>syc</code>
@@ -2022,7 +2062,7 @@
   </language>
   <language>
     <code>th</code>
-    <name>Tàidh</name>
+    <name>Cànan nan Tàidh</name>
   </language>
   <language>
     <code>ti</code>
@@ -2074,7 +2114,7 @@
   </language>
   <language>
     <code>to</code>
-    <name>Tongais</name>
+    <name>Tonga</name>
   </language>
   <language>
     <code>tog</code>
@@ -2138,7 +2178,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>Tamazight Meadhan na h-Atlas</name>
+    <name>Tamazight an Atlais Mheadhanaich</name>
   </language>
   <language>
     <code>udm</code>
@@ -2266,7 +2306,7 @@
   </language>
   <language>
     <code>yo</code>
-    <name>Ioruba</name>
+    <name>Yoruba</name>
   </language>
   <language>
     <code>yrl</code>

@@ -2,32 +2,62 @@
 <resources>
   <!-- Kazakh (kk) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>афар тілі</item>
     <!-- ab - Abkhazian -->
     <item>абхаз тілі</item>
+    <!-- ace - Achinese -->
+    <item>ачех тілі</item>
+    <!-- ada - Adangme -->
+    <item>адангме тілі</item>
+    <!-- ady - Adyghe -->
+    <item>адыгей тілі</item>
     <!-- af - Afrikaans -->
     <item>африкаанс тілі</item>
     <!-- agq - Aghem -->
     <item>агхем тілі</item>
+    <!-- ain - Ainu -->
+    <item>айну тілі</item>
     <!-- ak - Akan -->
     <item>акан тілі</item>
+    <!-- ale - Aleut -->
+    <item>алеут тілі</item>
+    <!-- alt - Southern Altai -->
+    <item>оңтүстік алтай тілі</item>
     <!-- am - Amharic -->
     <item>амхар тілі</item>
+    <!-- an - Aragonese -->
+    <item>арагон тілі</item>
+    <!-- anp - Angika -->
+    <item>ангика тілі</item>
     <!-- ar - Arabic -->
     <item>араб тілі</item>
     <!-- ar_001 - Modern Standard Arabic -->
     <item>қазіргі стандартты араб тілі</item>
     <!-- arn - Mapuche -->
     <item>мапуче тілі</item>
+    <!-- arp - Arapaho -->
+    <item>арапахо тілі</item>
     <!-- as - Assamese -->
     <item>ассам тілі</item>
     <!-- asa - Asu -->
     <item>асу тілі</item>
+    <!-- ast - Asturian -->
+    <item>астурия тілі</item>
+    <!-- av - Avaric -->
+    <item>авар тілі</item>
+    <!-- awa - Awadhi -->
+    <item>авадхи тілі</item>
     <!-- ay - Aymara -->
-    <item>Аймара</item>
+    <item>аймара тілі</item>
     <!-- az - Azerbaijani -->
     <item>әзірбайжан тілі</item>
     <!-- ba - Bashkir -->
     <item>башқұрт тілі</item>
+    <!-- ban - Balinese -->
+    <item>бали тілі</item>
+    <!-- bas - Basaa -->
+    <item>баса тілі</item>
     <!-- be - Belarusian -->
     <item>беларусь тілі</item>
     <!-- bem - Bemba -->
@@ -38,9 +68,17 @@
     <item>болгар тілі</item>
     <!-- bgn - Western Balochi -->
     <item>батыс балучи тілі</item>
+    <!-- bho - Bhojpuri -->
+    <item>бходжпури тілі</item>
+    <!-- bi - Bislama -->
+    <item>бислама тілі</item>
+    <!-- bin - Bini -->
+    <item>бини тілі</item>
+    <!-- bla - Siksika -->
+    <item>сиксика тілі</item>
     <!-- bm - Bambara -->
     <item>бамбара тілі</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>бенгал тілі</item>
     <!-- bo - Tibetan -->
     <item>тибет тілі</item>
@@ -50,34 +88,56 @@
     <item>бодо тілі</item>
     <!-- bs - Bosnian -->
     <item>босния тілі</item>
+    <!-- bug - Buginese -->
+    <item>бугис тілі</item>
+    <!-- byn - Blin -->
+    <item>блин тілі</item>
     <!-- ca - Catalan -->
     <item>каталан тілі</item>
     <!-- ce - Chechen -->
     <item>шешен тілі</item>
+    <!-- ceb - Cebuano -->
+    <item>себуано тілі</item>
     <!-- cgg - Chiga -->
     <item>кига тілі</item>
+    <!-- ch - Chamorro -->
+    <item>чаморро тілі</item>
+    <!-- chk - Chuukese -->
+    <item>чуук тілі</item>
+    <!-- chm - Mari -->
+    <item>мари тілі</item>
+    <!-- cho - Choctaw -->
+    <item>чокто тілі</item>
     <!-- chr - Cherokee -->
     <item>чероки тілі</item>
+    <!-- chy - Cheyenne -->
+    <item>шайен тілі</item>
     <!-- ckb - Central Kurdish -->
     <item>сорани тілі</item>
     <!-- co - Corsican -->
     <item>корсика тілі</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>сейшельдік креол тілі</item>
     <!-- cs - Czech -->
     <item>чех тілі</item>
+    <!-- cu - Church Slavic -->
+    <item>шіркеулік славян тілі</item>
     <!-- cv - Chuvash -->
     <item>чуваш тілі</item>
     <!-- cy - Welsh -->
     <item>валлий тілі</item>
     <!-- da - Danish -->
     <item>дат тілі</item>
+    <!-- dak - Dakota -->
+    <item>дакота тілі</item>
+    <!-- dar - Dargwa -->
+    <item>даргин тілі</item>
     <!-- dav - Taita -->
     <item>таита тілі</item>
     <!-- de - German -->
     <item>неміс тілі</item>
-    <!-- de_AT - Austrian German -->
-    <item>австриялық неміс тілі</item>
-    <!-- de_CH - Swiss High German -->
-    <item>швейцариялық жоғарғы неміс тілі</item>
+    <!-- dgr - Dogrib -->
+    <item>догриб тілі</item>
     <!-- dje - Zarma -->
     <item>зарма тілі</item>
     <!-- dsb - Lower Sorbian -->
@@ -85,45 +145,41 @@
     <!-- dua - Duala -->
     <item>дуала тілі</item>
     <!-- dv - Divehi -->
-    <item>Мальдив</item>
+    <item>дивехи тілі</item>
     <!-- dyo - Jola-Fonyi -->
     <item>диола тілі</item>
     <!-- dz - Dzongkha -->
     <item>дзонг-кэ тілі</item>
+    <!-- dzg - Dazaga -->
+    <item>дазага тілі</item>
     <!-- ebu - Embu -->
-    <item>ембу тілі</item>
+    <item>эмбу тілі</item>
     <!-- ee - Ewe -->
     <item>эве тілі</item>
     <!-- efi - Efik -->
-    <item>эфик</item>
+    <item>эфик тілі</item>
+    <!-- eka - Ekajuk -->
+    <item>экаджук тілі</item>
     <!-- el - Greek -->
     <item>грек тілі</item>
     <!-- en - English -->
     <item>ағылшын тілі</item>
-    <!-- en_AU - Australian English -->
-    <item>австралиялық ағылшын тілі</item>
-    <!-- en_CA - Canadian English -->
-    <item>канадалық ағылшын тілі</item>
-    <!-- en_GB - British English -->
-    <item>британиялық ағылшын тілі</item>
     <!-- en_US - American English -->
-    <item>американдық ағылшын тілі</item>
+    <item>ағылшын тілі (АҚШ)</item>
     <!-- eo - Esperanto -->
     <item>эсперанто тілі</item>
     <!-- es - Spanish -->
     <item>испан тілі</item>
-    <!-- es_419 - Latin American Spanish -->
-    <item>латын американдық испан тілі</item>
-    <!-- es_ES - European Spanish -->
-    <item>ибериялық испан тілі</item>
-    <!-- es_MX - Mexican Spanish -->
-    <item>мексикалық испан тілі</item>
     <!-- et - Estonian -->
     <item>эстон тілі</item>
     <!-- eu - Basque -->
     <item>баск тілі</item>
+    <!-- ewo - Ewondo -->
+    <item>эвондо тілі</item>
     <!-- fa - Persian -->
     <item>парсы тілі</item>
+    <!-- ff - Fulah -->
+    <item>фула тілі</item>
     <!-- fi - Finnish -->
     <item>фин тілі</item>
     <!-- fil - Filipino -->
@@ -132,24 +188,32 @@
     <item>фиджи тілі</item>
     <!-- fo - Faroese -->
     <item>фарер тілі</item>
+    <!-- fon - Fon -->
+    <item>фон тілі</item>
     <!-- fr - French -->
     <item>француз тілі</item>
-    <!-- fr_CA - Canadian French -->
-    <item>канадалық француз тілі</item>
-    <!-- fr_CH - Swiss French -->
-    <item>швейцариялық француз тілі</item>
+    <!-- fur - Friulian -->
+    <item>фриуль тілі</item>
     <!-- fy - Western Frisian -->
     <item>батыс фриз тілі</item>
     <!-- ga - Irish -->
     <item>ирланд тілі</item>
+    <!-- gaa - Ga -->
+    <item>га тілі</item>
     <!-- gag - Gagauz -->
     <item>гагауз тілі</item>
     <!-- gd - Scottish Gaelic -->
-    <item>Солтүстік Шотландия</item>
+    <item>гэль тілі</item>
+    <!-- gez - Geez -->
+    <item>геэз тілі</item>
+    <!-- gil - Gilbertese -->
+    <item>гильберт тілі</item>
     <!-- gl - Galician -->
     <item>галисия тілі</item>
     <!-- gn - Guarani -->
     <item>гуарани тілі</item>
+    <!-- gor - Gorontalo -->
+    <item>горонтало тілі</item>
     <!-- gsw - Swiss German -->
     <item>швейцариялық неміс тілі</item>
     <!-- gu - Gujarati -->
@@ -157,7 +221,9 @@
     <!-- guz - Gusii -->
     <item>гусии тілі</item>
     <!-- gv - Manx -->
-    <item>мэнс тілі</item>
+    <item>мэн тілі</item>
+    <!-- gwi - Gwichʼin -->
+    <item>гвичин тілі</item>
     <!-- ha - Hausa -->
     <item>хауса тілі</item>
     <!-- haw - Hawaiian -->
@@ -166,6 +232,10 @@
     <item>иврит тілі</item>
     <!-- hi - Hindi -->
     <item>хинди тілі</item>
+    <!-- hil - Hiligaynon -->
+    <item>хилигайнон тілі</item>
+    <!-- hmn - Hmong -->
+    <item>хмонг тілі</item>
     <!-- hr - Croatian -->
     <item>хорват тілі</item>
     <!-- hsb - Upper Sorbian -->
@@ -174,18 +244,32 @@
     <item>гаити тілі</item>
     <!-- hu - Hungarian -->
     <item>венгр тілі</item>
+    <!-- hup - Hupa -->
+    <item>хупа тілі</item>
     <!-- hy - Armenian -->
     <item>армян тілі</item>
+    <!-- hz - Herero -->
+    <item>гереро тілі</item>
     <!-- ia - Interlingua -->
-    <item>интерлингва</item>
+    <item>интерлингва тілі</item>
+    <!-- iba - Iban -->
+    <item>ибан тілі</item>
+    <!-- ibb - Ibibio -->
+    <item>ибибио тілі</item>
     <!-- id - Indonesian -->
     <item>индонезия тілі</item>
     <!-- ie - Interlingue -->
-    <item>интерлингве</item>
+    <item>интерлингве тілі</item>
     <!-- ig - Igbo -->
     <item>игбо тілі</item>
     <!-- ii - Sichuan Yi -->
     <item>сычуан и тілі</item>
+    <!-- ilo - Iloko -->
+    <item>илоко тілі</item>
+    <!-- inh - Ingush -->
+    <item>ингуш тілі</item>
+    <!-- io - Ido -->
+    <item>идо тілі</item>
     <!-- is - Icelandic -->
     <item>исланд тілі</item>
     <!-- it - Italian -->
@@ -194,6 +278,8 @@
     <item>инуктитут тілі</item>
     <!-- ja - Japanese -->
     <item>жапон тілі</item>
+    <!-- jbo - Lojban -->
+    <item>ложбан тілі</item>
     <!-- jgo - Ngomba -->
     <item>нгомба тілі</item>
     <!-- jmc - Machame -->
@@ -204,72 +290,132 @@
     <item>грузин тілі</item>
     <!-- kab - Kabyle -->
     <item>кабил тілі</item>
+    <!-- kac - Kachin -->
+    <item>качин тілі</item>
+    <!-- kaj - Jju -->
+    <item>джу тілі</item>
     <!-- kam - Kamba -->
     <item>камба тілі</item>
+    <!-- kbd - Kabardian -->
+    <item>кабардин тілі</item>
+    <!-- kcg - Tyap -->
+    <item>тьяп тілі</item>
     <!-- kde - Makonde -->
     <item>маконде тілі</item>
     <!-- kea - Kabuverdianu -->
-    <item>кабувердиана тілі</item>
+    <item>кабувердьяну тілі</item>
+    <!-- kfo - Koro -->
+    <item>коро тілі</item>
+    <!-- kha - Khasi -->
+    <item>кхаси тілі</item>
     <!-- khq - Koyra Chiini -->
     <item>койра чини тілі</item>
     <!-- ki - Kikuyu -->
     <item>кикуйю тілі</item>
+    <!-- kj - Kuanyama -->
+    <item>кваньяма тілі</item>
     <!-- kk - Kazakh -->
     <item>қазақ тілі</item>
+    <!-- kkj - Kako -->
+    <item>како тілі</item>
     <!-- kl - Kalaallisut -->
     <item>калаалисут тілі</item>
     <!-- kln - Kalenjin -->
     <item>каленжин тілі</item>
     <!-- km - Khmer -->
     <item>кхмер тілі</item>
+    <!-- kmb - Kimbundu -->
+    <item>кимбунду тілі</item>
     <!-- kn - Kannada -->
     <item>каннада тілі</item>
     <!-- ko - Korean -->
-    <item>кәріс тілі</item>
+    <item>корей тілі</item>
     <!-- koi - Komi-Permyak -->
     <item>коми-пермяк тілі</item>
     <!-- kok - Konkani -->
     <item>конкани тілі</item>
+    <!-- kpe - Kpelle -->
+    <item>кпелле тілі</item>
+    <!-- kr - Kanuri -->
+    <item>канури тілі</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>қарашай-балқар тілі</item>
+    <!-- krl - Karelian -->
+    <item>карель тілі</item>
+    <!-- kru - Kurukh -->
+    <item>курух тілі</item>
     <!-- ks - Kashmiri -->
     <item>кашмир тілі</item>
     <!-- ksb - Shambala -->
     <item>шамбала тілі</item>
     <!-- ksf - Bafia -->
     <item>бафиа тілі</item>
+    <!-- ksh - Colognian -->
+    <item>кёльн тілі</item>
     <!-- ku - Kurdish -->
     <item>күрд тілі</item>
+    <!-- kum - Kumyk -->
+    <item>құмық тілі</item>
+    <!-- kv - Komi -->
+    <item>коми тілі</item>
     <!-- kw - Cornish -->
     <item>корн тілі</item>
     <!-- ky - Kyrgyz -->
     <item>қырғыз тілі</item>
     <!-- la - Latin -->
     <item>латын тілі</item>
+    <!-- lad - Ladino -->
+    <item>ладино тілі</item>
     <!-- lag - Langi -->
     <item>ланги тілі</item>
     <!-- lb - Luxembourgish -->
     <item>люксембург тілі</item>
+    <!-- lez - Lezghian -->
+    <item>лезгин тілі</item>
     <!-- lg - Ganda -->
     <item>ганда тілі</item>
+    <!-- li - Limburgish -->
+    <item>лимбург тілі</item>
     <!-- lkt - Lakota -->
     <item>лакота тілі</item>
     <!-- ln - Lingala -->
     <item>лингала тілі</item>
     <!-- lo - Lao -->
     <item>лаос тілі</item>
+    <!-- loz - Lozi -->
+    <item>лози тілі</item>
     <!-- lrc - Northern Luri -->
     <item>солтүстік люри тілі</item>
     <!-- lt - Lithuanian -->
     <item>литва тілі</item>
     <!-- lu - Luba-Katanga -->
     <item>луба-катанга тілі</item>
+    <!-- lua - Luba-Lulua -->
+    <item>луба-лулуа тілі</item>
+    <!-- lun - Lunda -->
+    <item>лунда тілі</item>
     <!-- luo - Luo -->
     <item>луо тілі</item>
+    <!-- lus - Mizo -->
+    <item>мизо тілі</item>
     <!-- luy - Luyia -->
     <item>лухиа тілі</item>
     <!-- lv - Latvian -->
     <item>латыш тілі</item>
+    <!-- mad - Madurese -->
+    <item>мадур тілі</item>
+    <!-- mag - Magahi -->
+    <item>магахи тілі</item>
+    <!-- mai - Maithili -->
+    <item>майтхили тілі</item>
+    <!-- mak - Makasar -->
+    <item>макасар тілі</item>
     <!-- mas - Masai -->
     <item>масай тілі</item>
+    <!-- mdf - Moksha -->
+    <item>мокша тілі</item>
+    <!-- men - Mende -->
+    <item>менде тілі</item>
     <!-- mer - Meru -->
     <item>меру тілі</item>
     <!-- mfe - Morisyen -->
@@ -280,16 +426,26 @@
     <item>макуа-меетто тілі</item>
     <!-- mgo - Metaʼ -->
     <item>мета тілі</item>
+    <!-- mh - Marshallese -->
+    <item>маршалл тілі</item>
     <!-- mi - Maori -->
     <item>маори тілі</item>
+    <!-- mic - Mi'kmaq -->
+    <item>микмак тілі</item>
+    <!-- min - Minangkabau -->
+    <item>минангкабау тілі</item>
     <!-- mk - Macedonian -->
     <item>македон тілі</item>
     <!-- ml - Malayalam -->
     <item>малаялам тілі</item>
     <!-- mn - Mongolian -->
     <item>моңғол тілі</item>
+    <!-- mni - Manipuri -->
+    <item>манипури тілі</item>
     <!-- moh - Mohawk -->
     <item>могавк тілі</item>
+    <!-- mos - Mossi -->
+    <item>мосси тілі</item>
     <!-- mr - Marathi -->
     <item>маратхи тілі</item>
     <!-- ms - Malay -->
@@ -298,10 +454,22 @@
     <item>мальта тілі</item>
     <!-- mua - Mundang -->
     <item>мунданг тілі</item>
+    <!-- mul - Multiple languages -->
+    <item>бірнеше тіл</item>
+    <!-- mus - Creek -->
+    <item>крик тілі</item>
+    <!-- mwl - Mirandese -->
+    <item>миранд тілі</item>
     <!-- my - Burmese -->
     <item>бирма тілі</item>
+    <!-- myv - Erzya -->
+    <item>эрзян тілі</item>
     <!-- mzn - Mazanderani -->
     <item>мазандеран тілі</item>
+    <!-- na - Nauru -->
+    <item>науру тілі</item>
+    <!-- nap - Neapolitan -->
+    <item>неаполитан тілі</item>
     <!-- naq - Nama -->
     <item>нама тілі</item>
     <!-- nb - Norwegian Bokmål -->
@@ -314,6 +482,14 @@
     <item>төменгі саксон тілі</item>
     <!-- ne - Nepali -->
     <item>непал тілі</item>
+    <!-- new - Newari -->
+    <item>невар тілі</item>
+    <!-- ng - Ndonga -->
+    <item>ндонга тілі</item>
+    <!-- nia - Nias -->
+    <item>ниас тілі</item>
+    <!-- niu - Niuean -->
+    <item>ниуэ тілі</item>
     <!-- nl - Dutch -->
     <item>нидерланд тілі</item>
     <!-- nl_BE - Flemish -->
@@ -322,42 +498,62 @@
     <item>квасио тілі</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>норвегиялық нюнорск тілі</item>
+    <!-- nnh - Ngiemboon -->
+    <item>нгиембун тілі</item>
     <!-- no - Norwegian -->
-    <item>норвег</item>
+    <item>норвег тілі</item>
+    <!-- nog - Nogai -->
+    <item>ноғай тілі</item>
     <!-- nqo - N’Ko -->
     <item>нко тілі</item>
+    <!-- nr - South Ndebele -->
+    <item>оңтүстік ндебеле тілі</item>
     <!-- nso - Northern Sotho -->
-    <item>Солтүстік сотхо</item>
+    <item>солтүстік сото тілі</item>
     <!-- nus - Nuer -->
     <item>нуэр тілі</item>
+    <!-- nv - Navajo -->
+    <item>навахо тілі</item>
     <!-- ny - Nyanja -->
-    <item>ньянджа</item>
+    <item>ньянджа тілі</item>
     <!-- nyn - Nyankole -->
     <item>нианколе тілі</item>
     <!-- oc - Occitan -->
-    <item>окситан</item>
+    <item>окситан тілі</item>
     <!-- om - Oromo -->
     <item>оромо тілі</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>ория тілі</item>
     <!-- os - Ossetic -->
-    <item>осетин</item>
+    <item>осетин тілі</item>
     <!-- pa - Punjabi -->
     <item>пенджаб тілі</item>
+    <!-- pag - Pangasinan -->
+    <item>пангасинан тілі</item>
+    <!-- pam - Pampanga -->
+    <item>пампанга тілі</item>
+    <!-- pap - Papiamento -->
+    <item>папьяменто тілі</item>
+    <!-- pau - Palauan -->
+    <item>палау тілі</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>нигериялық пиджин тілі</item>
     <!-- pl - Polish -->
     <item>поляк тілі</item>
+    <!-- prg - Prussian -->
+    <item>пруссия тілі</item>
     <!-- ps - Pashto -->
     <item>пушту тілі</item>
     <!-- pt - Portuguese -->
     <item>португал тілі</item>
-    <!-- pt_BR - Brazilian Portuguese -->
-    <item>бразилиялық португал тілі</item>
-    <!-- pt_PT - European Portuguese -->
-    <item>еуропалық португал тілі</item>
     <!-- qu - Quechua -->
     <item>кечуа тілі</item>
     <!-- quc - Kʼicheʼ -->
     <item>киче тілі</item>
+    <!-- rap - Rapanui -->
+    <item>рапануй тілі</item>
+    <!-- rar - Rarotongan -->
+    <item>раротонган тілі</item>
     <!-- rm - Romansh -->
     <item>романш тілі</item>
     <!-- rn - Rundi -->
@@ -368,20 +564,36 @@
     <item>молдован тілі</item>
     <!-- rof - Rombo -->
     <item>ромбо тілі</item>
+    <!-- root - Root -->
+    <item>ата тіл</item>
     <!-- ru - Russian -->
     <item>орыс тілі</item>
+    <!-- rup - Aromanian -->
+    <item>арумын тілі</item>
     <!-- rw - Kinyarwanda -->
     <item>киньяруанда тілі</item>
     <!-- rwk - Rwa -->
     <item>руа тілі</item>
     <!-- sa - Sanskrit -->
     <item>санскрит тілі</item>
+    <!-- sad - Sandawe -->
+    <item>сандаве тілі</item>
     <!-- sah - Sakha -->
-    <item>якут</item>
+    <item>якут тілі</item>
     <!-- saq - Samburu -->
     <item>самбуру тілі</item>
+    <!-- sat - Santali -->
+    <item>сантали тілі</item>
+    <!-- sba - Ngambay -->
+    <item>нгамбай тілі</item>
     <!-- sbp - Sangu -->
     <item>сангу тілі</item>
+    <!-- sc - Sardinian -->
+    <item>сардин тілі</item>
+    <!-- scn - Sicilian -->
+    <item>сицилия тілі</item>
+    <!-- sco - Scots -->
+    <item>шотланд тілі</item>
     <!-- sd - Sindhi -->
     <item>синдхи тілі</item>
     <!-- sdh - Southern Kurdish -->
@@ -395,15 +607,19 @@
     <!-- sg - Sango -->
     <item>санго тілі</item>
     <!-- sh - Serbo-Croatian -->
-    <item>сербхорват</item>
+    <item>серб-хорват тілі</item>
     <!-- shi - Tachelhit -->
     <item>ташелхит тілі</item>
+    <!-- shn - Shan -->
+    <item>шан тілі</item>
     <!-- si - Sinhala -->
     <item>сингал тілі</item>
     <!-- sk - Slovak -->
     <item>словак тілі</item>
     <!-- sl - Slovenian -->
     <item>словен тілі</item>
+    <!-- sm - Samoan -->
+    <item>самоа тілі</item>
     <!-- sma - Southern Sami -->
     <item>оңтүстік саам тілі</item>
     <!-- smj - Lule Sami -->
@@ -411,56 +627,98 @@
     <!-- smn - Inari Sami -->
     <item>инари саам тілі</item>
     <!-- sms - Skolt Sami -->
-    <item>сколт саам</item>
+    <item>колтта саам тілі</item>
     <!-- sn - Shona -->
     <item>шона тілі</item>
+    <!-- snk - Soninke -->
+    <item>сонинке тілі</item>
     <!-- so - Somali -->
     <item>сомали тілі</item>
     <!-- sq - Albanian -->
     <item>албан тілі</item>
     <!-- sr - Serbian -->
     <item>серб тілі</item>
+    <!-- srn - Sranan Tongo -->
+    <item>сранан тонго тілі</item>
+    <!-- ss - Swati -->
+    <item>свати тілі</item>
+    <!-- ssy - Saho -->
+    <item>сахо тілі</item>
     <!-- st - Southern Sotho -->
-    <item>сесото</item>
+    <item>сесото тілі</item>
+    <!-- su - Sundanese -->
+    <item>сундан тілі</item>
+    <!-- suk - Sukuma -->
+    <item>сукума тілі</item>
     <!-- sv - Swedish -->
     <item>швед тілі</item>
     <!-- sw - Swahili -->
     <item>суахили тілі</item>
-    <!-- swc - Congo Swahili -->
+    <!-- sw_CD - Congo Swahili -->
     <item>конго суахили тілі</item>
+    <!-- swb - Comorian -->
+    <item>комор тілі</item>
+    <!-- syr - Syriac -->
+    <item>сирия тілі</item>
     <!-- ta - Tamil -->
     <item>тамил тілі</item>
     <!-- te - Telugu -->
     <item>телугу тілі</item>
+    <!-- tem - Timne -->
+    <item>темне тілі</item>
     <!-- teo - Teso -->
     <item>тесо тілі</item>
+    <!-- tet - Tetum -->
+    <item>тетум тілі</item>
     <!-- tg - Tajik -->
     <item>тәжік тілі</item>
     <!-- th - Thai -->
     <item>тай тілі</item>
     <!-- ti - Tigrinya -->
     <item>тигринья тілі</item>
+    <!-- tig - Tigre -->
+    <item>тигре тілі</item>
     <!-- tk - Turkmen -->
     <item>түрікмен тілі</item>
     <!-- tlh - Klingon -->
-    <item>клингон</item>
+    <item>клингон тілі</item>
+    <!-- tn - Tswana -->
+    <item>тсвана тілі</item>
     <!-- to - Tongan -->
     <item>тонган тілі</item>
+    <!-- tpi - Tok Pisin -->
+    <item>ток-писин тілі</item>
     <!-- tr - Turkish -->
     <item>түрік тілі</item>
+    <!-- trv - Taroko -->
+    <item>тароко тілі</item>
+    <!-- ts - Tsonga -->
+    <item>тсонга тілі</item>
     <!-- tt - Tatar -->
     <item>татар тілі</item>
+    <!-- tum - Tumbuka -->
+    <item>тумбука тілі</item>
+    <!-- tvl - Tuvalu -->
+    <item>тувалу тілі</item>
     <!-- tw - Twi -->
-    <item>тви</item>
+    <item>тви тілі</item>
     <!-- twq - Tasawaq -->
     <item>тасавак тілі</item>
+    <!-- ty - Tahitian -->
+    <item>таити тілі</item>
+    <!-- tyv - Tuvinian -->
+    <item>тувин тілі</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>орталық атлас тамасагихт тілі</item>
+    <item>орталық атлас тамазигхт тілі</item>
+    <!-- udm - Udmurt -->
+    <item>удмурт тілі</item>
     <!-- ug - Uyghur -->
     <item>ұйғыр тілі</item>
     <!-- uk - Ukrainian -->
     <item>украин тілі</item>
-    <!-- und - Unknown Language -->
+    <!-- umb - Umbundu -->
+    <item>умбунду тілі</item>
+    <!-- und - Unknown language -->
     <item>белгісіз тіл</item>
     <!-- ur - Urdu -->
     <item>урду тілі</item>
@@ -468,22 +726,42 @@
     <item>өзбек тілі</item>
     <!-- vai - Vai -->
     <item>вай тілі</item>
+    <!-- ve - Venda -->
+    <item>венда тілі</item>
     <!-- vi - Vietnamese -->
     <item>вьетнам тілі</item>
+    <!-- vo - Volapük -->
+    <item>волапюк тілі</item>
     <!-- vun - Vunjo -->
     <item>вунджо тілі</item>
+    <!-- wa - Walloon -->
+    <item>валлон тілі</item>
+    <!-- wae - Walser -->
+    <item>вальзер тілі</item>
+    <!-- wal - Wolaytta -->
+    <item>волайта тілі</item>
+    <!-- war - Waray -->
+    <item>варай тілі</item>
     <!-- wbp - Warlpiri -->
     <item>вальбири тілі</item>
     <!-- wo - Wolof -->
     <item>волоф тілі</item>
+    <!-- xal - Kalmyk -->
+    <item>қалмақ тілі</item>
     <!-- xh - Xhosa -->
     <item>кхоса тілі</item>
     <!-- xog - Soga -->
     <item>сога тілі</item>
+    <!-- yav - Yangben -->
+    <item>янгбен тілі</item>
+    <!-- ybb - Yemba -->
+    <item>йемба тілі</item>
     <!-- yi - Yiddish -->
-    <item>идиш</item>
+    <item>идиш тілі</item>
     <!-- yo - Yoruba -->
     <item>йоруба тілі</item>
+    <!-- yue - Cantonese -->
+    <item>кантон тілі</item>
     <!-- zgh - Standard Moroccan Tamazight -->
     <item>марокколық стандартты тамазигхт тілі</item>
     <!-- zh - Chinese -->
@@ -494,7 +772,11 @@
     <item>дәстүрлі қытай тілі</item>
     <!-- zu - Zulu -->
     <item>зулу тілі</item>
+    <!-- zun - Zuni -->
+    <item>зуни тілі</item>
     <!-- zxx - No linguistic content -->
     <item>тілдік мазмұны жоқ</item>
+    <!-- zza - Zaza -->
+    <item>заза тілі</item>
   </string-array>
 </resources>

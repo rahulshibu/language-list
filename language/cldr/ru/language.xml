@@ -2,7 +2,7 @@
 <languages>
   <language>
     <code>aa</code>
-    <name>афар</name>
+    <name>афарский</name>
   </language>
   <language>
     <code>ab</code>
@@ -90,7 +90,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>арауканский</name>
+    <name>мапуче</name>
   </language>
   <language>
     <code>arp</code>
@@ -150,7 +150,7 @@
   </language>
   <language>
     <code>bbj</code>
-    <name>гхомала</name>
+    <name>гомала</name>
   </language>
   <language>
     <code>be</code>
@@ -178,7 +178,7 @@
   </language>
   <language>
     <code>bgn</code>
-    <name>западно-белуджский</name>
+    <name>западный белуджский</name>
   </language>
   <language>
     <code>bho</code>
@@ -206,7 +206,7 @@
   </language>
   <language>
     <code>bm</code>
-    <name>бамбарийский</name>
+    <name>бамбара</name>
   </language>
   <language>
     <code>bn</code>
@@ -250,7 +250,7 @@
   </language>
   <language>
     <code>byn</code>
-    <name>билин (блин)</name>
+    <name>билин</name>
   </language>
   <language>
     <code>byv</code>
@@ -282,11 +282,11 @@
   </language>
   <language>
     <code>ceb</code>
-    <name>кебуано</name>
+    <name>себуано</name>
   </language>
   <language>
     <code>cgg</code>
-    <name>чига</name>
+    <name>кига</name>
   </language>
   <language>
     <code>ch</code>
@@ -306,7 +306,7 @@
   </language>
   <language>
     <code>chm</code>
-    <name>марийский (черемисский)</name>
+    <name>марийский</name>
   </language>
   <language>
     <code>chn</code>
@@ -318,7 +318,7 @@
   </language>
   <language>
     <code>chp</code>
-    <name>чипевайян</name>
+    <name>чипевьян</name>
   </language>
   <language>
     <code>chr</code>
@@ -330,7 +330,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>сорани курдский</name>
+    <name>сорани</name>
   </language>
   <language>
     <code>co</code>
@@ -342,11 +342,15 @@
   </language>
   <language>
     <code>cr</code>
-    <name>криийский</name>
+    <name>кри</name>
   </language>
   <language>
     <code>crh</code>
     <name>крымско-татарский</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>сейшельский креольский</name>
   </language>
   <language>
     <code>cs</code>
@@ -354,7 +358,7 @@
   </language>
   <language>
     <code>csb</code>
-    <name>кашубианский</name>
+    <name>кашубский</name>
   </language>
   <language>
     <code>cu</code>
@@ -378,7 +382,7 @@
   </language>
   <language>
     <code>dar</code>
-    <name>даргва</name>
+    <name>даргинский</name>
   </language>
   <language>
     <code>dav</code>
@@ -394,7 +398,7 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>швейцарский верхненемецкий</name>
+    <name>литературный швейцарский немецкий</name>
   </language>
   <language>
     <code>del</code>
@@ -414,7 +418,7 @@
   </language>
   <language>
     <code>dje</code>
-    <name>зарма</name>
+    <name>джерма</name>
   </language>
   <language>
     <code>doi</code>
@@ -438,11 +442,11 @@
   </language>
   <language>
     <code>dyo</code>
-    <name>дьола-фоньи</name>
+    <name>диола-фоньи</name>
   </language>
   <language>
     <code>dyu</code>
-    <name>диула (дьюла)</name>
+    <name>диула</name>
   </language>
   <language>
     <code>dz</code>
@@ -450,7 +454,7 @@
   </language>
   <language>
     <code>dzg</code>
-    <name>дазагский</name>
+    <name>даза</name>
   </language>
   <language>
     <code>ebu</code>
@@ -594,7 +598,7 @@
   </language>
   <language>
     <code>frr</code>
-    <name>фризский северный</name>
+    <name>северный фризский</name>
   </language>
   <language>
     <code>frs</code>
@@ -606,7 +610,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>западно-фризский</name>
+    <name>западный фризский</name>
   </language>
   <language>
     <code>ga</code>
@@ -619,6 +623,10 @@
   <language>
     <code>gag</code>
     <name>гагаузский</name>
+  </language>
+  <language>
+    <code>gan</code>
+    <name>гань</name>
   </language>
   <language>
     <code>gay</code>
@@ -705,6 +713,10 @@
     <name>хайда</name>
   </language>
   <language>
+    <code>hak</code>
+    <name>хакка</name>
+  </language>
+  <language>
     <code>haw</code>
     <name>гавайский</name>
   </language>
@@ -739,6 +751,10 @@
   <language>
     <code>hsb</code>
     <name>верхнелужицкий</name>
+  </language>
+  <language>
+    <code>hsn</code>
+    <name>сян</name>
   </language>
   <language>
     <code>ht</code>
@@ -786,7 +802,7 @@
   </language>
   <language>
     <code>ii</code>
-    <name>сычуань</name>
+    <name>носу</name>
   </language>
   <language>
     <code>ik</code>
@@ -942,7 +958,7 @@
   </language>
   <language>
     <code>kmb</code>
-    <name>кимбундийский</name>
+    <name>кимбунду</name>
   </language>
   <language>
     <code>kn</code>
@@ -998,7 +1014,7 @@
   </language>
   <language>
     <code>ksh</code>
-    <name>кёльш</name>
+    <name>кёльнский</name>
   </language>
   <language>
     <code>ku</code>
@@ -1018,7 +1034,7 @@
   </language>
   <language>
     <code>kw</code>
-    <name>корнийский</name>
+    <name>корнский</name>
   </language>
   <language>
     <code>ky</code>
@@ -1034,7 +1050,7 @@
   </language>
   <language>
     <code>lag</code>
-    <name>ланги</name>
+    <name>ланго</name>
   </language>
   <language>
     <code>lah</code>
@@ -1082,7 +1098,7 @@
   </language>
   <language>
     <code>lrc</code>
-    <name>северно-лурийский</name>
+    <name>севернолурский</name>
   </language>
   <language>
     <code>lt</code>
@@ -1106,11 +1122,11 @@
   </language>
   <language>
     <code>luo</code>
-    <name>луо (Кения и Танзания)</name>
+    <name>луо</name>
   </language>
   <language>
     <code>lus</code>
-    <name>лушай</name>
+    <name>лушей</name>
   </language>
   <language>
     <code>luy</code>
@@ -1150,7 +1166,7 @@
   </language>
   <language>
     <code>mde</code>
-    <name>мабанский</name>
+    <name>маба</name>
   </language>
   <language>
     <code>mdf</code>
@@ -1250,7 +1266,7 @@
   </language>
   <language>
     <code>mul</code>
-    <name>несколько языков</name>
+    <name>языки разных семей</name>
   </language>
   <language>
     <code>mus</code>
@@ -1258,7 +1274,7 @@
   </language>
   <language>
     <code>mwl</code>
-    <name>мирандийский</name>
+    <name>мирандский</name>
   </language>
   <language>
     <code>mwr</code>
@@ -1274,7 +1290,7 @@
   </language>
   <language>
     <code>myv</code>
-    <name>эрзя</name>
+    <name>эрзянский</name>
   </language>
   <language>
     <code>mzn</code>
@@ -1283,6 +1299,10 @@
   <language>
     <code>na</code>
     <name>науру</name>
+  </language>
+  <language>
+    <code>nan</code>
+    <name>миньнань</name>
   </language>
   <language>
     <code>nap</code>
@@ -1298,7 +1318,7 @@
   </language>
   <language>
     <code>nd</code>
-    <name>северный ндебели</name>
+    <name>северный ндебеле</name>
   </language>
   <language>
     <code>nds</code>
@@ -1342,7 +1362,7 @@
   </language>
   <language>
     <code>nn</code>
-    <name>норвежский нюнорск</name>
+    <name>нюнорск</name>
   </language>
   <language>
     <code>nnh</code>
@@ -1366,11 +1386,11 @@
   </language>
   <language>
     <code>nr</code>
-    <name>ндебели южный</name>
+    <name>южный ндебеле</name>
   </language>
   <language>
     <code>nso</code>
-    <name>сото северный</name>
+    <name>северный сото</name>
   </language>
   <language>
     <code>nus</code>
@@ -1382,7 +1402,7 @@
   </language>
   <language>
     <code>nwc</code>
-    <name>невари (классический)</name>
+    <name>классический невари</name>
   </language>
   <language>
     <code>ny</code>
@@ -1457,6 +1477,10 @@
     <name>палау</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>нигерийско-креольский</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>староперсидский</name>
   </language>
@@ -1475,6 +1499,10 @@
   <language>
     <code>pon</code>
     <name>понапе</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>прусский</name>
   </language>
   <language>
     <code>pro</code>
@@ -1510,11 +1538,11 @@
   </language>
   <language>
     <code>rap</code>
-    <name>рапануи</name>
+    <name>рапануйский</name>
   </language>
   <language>
     <code>rar</code>
-    <name>раротонганский</name>
+    <name>раротонга</name>
   </language>
   <language>
     <code>rm</code>
@@ -1582,7 +1610,7 @@
   </language>
   <language>
     <code>sas</code>
-    <name>сасаки</name>
+    <name>сасакский</name>
   </language>
   <language>
     <code>sat</code>
@@ -1658,7 +1686,7 @@
   </language>
   <language>
     <code>shu</code>
-    <name>чадский арабс</name>
+    <name>чадский арабский</name>
   </language>
   <language>
     <code>si</code>
@@ -1682,7 +1710,7 @@
   </language>
   <language>
     <code>sma</code>
-    <name>южно-саамский</name>
+    <name>южносаамский</name>
   </language>
   <language>
     <code>smj</code>
@@ -1694,7 +1722,7 @@
   </language>
   <language>
     <code>sms</code>
-    <name>скольт-саамский</name>
+    <name>колтта-саамский</name>
   </language>
   <language>
     <code>sn</code>
@@ -1722,7 +1750,7 @@
   </language>
   <language>
     <code>srn</code>
-    <name>сранан тонго</name>
+    <name>сранан-тонго</name>
   </language>
   <language>
     <code>srr</code>
@@ -1738,7 +1766,7 @@
   </language>
   <language>
     <code>st</code>
-    <name>сото южный</name>
+    <name>южный сото</name>
   </language>
   <language>
     <code>su</code>
@@ -1765,12 +1793,12 @@
     <name>суахили</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>коморский</name>
+    <code>sw_CD</code>
+    <name>конголезский суахили</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>конголезский суахили</name>
+    <code>swb</code>
+    <name>коморский</name>
   </language>
   <language>
     <code>syc</code>
@@ -1858,7 +1886,7 @@
   </language>
   <language>
     <code>tog</code>
-    <name>ньяса (тонга)</name>
+    <name>тонга</name>
   </language>
   <language>
     <code>tpi</code>
@@ -1874,7 +1902,7 @@
   </language>
   <language>
     <code>trv</code>
-    <name>тароко</name>
+    <name>седекский</name>
   </language>
   <language>
     <code>ts</code>
@@ -1978,7 +2006,7 @@
   </language>
   <language>
     <code>wae</code>
-    <name>валисский</name>
+    <name>валлисский</name>
   </language>
   <language>
     <code>wal</code>
@@ -1999,6 +2027,10 @@
   <language>
     <code>wo</code>
     <name>волоф</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>ву</name>
   </language>
   <language>
     <code>xal</code>
@@ -2022,7 +2054,7 @@
   </language>
   <language>
     <code>yav</code>
-    <name>янбан</name>
+    <name>янгбен</name>
   </language>
   <language>
     <code>ybb</code>
@@ -2066,11 +2098,11 @@
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>упрощенный китайский</name>
+    <name>китайский, упрощенное письмо</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>традиционный китайский</name>
+    <name>китайский, традиционное письмо</name>
   </language>
   <language>
     <code>zu</code>
@@ -2082,7 +2114,7 @@
   </language>
   <language>
     <code>zxx</code>
-    <name>без языкового содержания</name>
+    <name>нет языкового материала</name>
   </language>
   <language>
     <code>zza</code>

@@ -126,7 +126,7 @@
     <item>сіксіка</item>
     <!-- bm - Bambara -->
     <item>бамбара</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>бенгальська</item>
     <!-- bo - Tibetan -->
     <item>тибетська</item>
@@ -183,7 +183,7 @@
     <!-- cho - Choctaw -->
     <item>чокто</item>
     <!-- chp - Chipewyan -->
-    <item>чіпев’ян</item>
+    <item>чіпевʼян</item>
     <!-- chr - Cherokee -->
     <item>черокі</item>
     <!-- chy - Cheyenne -->
@@ -198,12 +198,14 @@
     <item>крі</item>
     <!-- crh - Crimean Turkish -->
     <item>кримськотатарська</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>сейшельська креольська</item>
     <!-- cs - Czech -->
     <item>чеська</item>
     <!-- csb - Kashubian -->
     <item>кашубська</item>
     <!-- cu - Church Slavic -->
-    <item>церковнослов’янська</item>
+    <item>церковнословʼянська</item>
     <!-- cv - Chuvash -->
     <item>чуваська</item>
     <!-- cy - Welsh -->
@@ -265,7 +267,9 @@
     <!-- en - English -->
     <item>англійська</item>
     <!-- en_GB - British English -->
-    <item>англійська британська</item>
+    <item>британська англійська</item>
+    <!-- en_US - American English -->
+    <item>американська англійська</item>
     <!-- enm - Middle English -->
     <item>середньоанглійська</item>
     <!-- eo - Esperanto -->
@@ -427,9 +431,9 @@
     <!-- jmc - Machame -->
     <item>мачаме</item>
     <!-- jpr - Judeo-Persian -->
-    <item>іудео-перська</item>
+    <item>юдео-перська</item>
     <!-- jrb - Judeo-Arabic -->
-    <item>іудео-арабська</item>
+    <item>юдео-арабська</item>
     <!-- jv - Javanese -->
     <item>яванська</item>
     <!-- ka - Georgian -->
@@ -565,7 +569,7 @@
     <!-- luo - Luo -->
     <item>луо</item>
     <!-- lus - Mizo -->
-    <item>лушей</item>
+    <item>мізо</item>
     <!-- luy - Luyia -->
     <item>луйя</item>
     <!-- lv - Latvian -->
@@ -608,7 +612,7 @@
     <item>маршалльська</item>
     <!-- mi - Maori -->
     <item>маорі</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>мікмак</item>
     <!-- min - Minangkabau -->
     <item>мінангкабау</item>
@@ -634,8 +638,8 @@
     <item>мальтійська</item>
     <!-- mua - Mundang -->
     <item>мунданг</item>
-    <!-- mul - Multiple Languages -->
-    <item>декілька мов</item>
+    <!-- mul - Multiple languages -->
+    <item>кілька мов</item>
     <!-- mus - Creek -->
     <item>крік</item>
     <!-- mwl - Mirandese -->
@@ -720,7 +724,7 @@
     <item>оджібва</item>
     <!-- om - Oromo -->
     <item>оромо</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>орія</item>
     <!-- os - Ossetic -->
     <item>осетинська</item>
@@ -737,9 +741,11 @@
     <!-- pam - Pampanga -->
     <item>пампанга</item>
     <!-- pap - Papiamento -->
-    <item>пап’яменто</item>
+    <item>папʼяменто</item>
     <!-- pau - Palauan -->
     <item>палауанська</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>нігерійсько-креольська</item>
     <!-- peo - Old Persian -->
     <item>давньоперська</item>
     <!-- phn - Phoenician -->
@@ -750,6 +756,8 @@
     <item>польська</item>
     <!-- pon - Pohnpeian -->
     <item>понапе</item>
+    <!-- prg - Prussian -->
+    <item>пруська</item>
     <!-- pro - Old Provençal -->
     <item>давньопровансальська</item>
     <!-- ps - Pashto -->
@@ -892,10 +900,10 @@
     <item>шведська</item>
     <!-- sw - Swahili -->
     <item>суахілі</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>конгійське суахілі</item>
     <!-- swb - Comorian -->
     <item>коморська</item>
-    <!-- swc - Congo Swahili -->
-    <item>конгійське суахілі</item>
     <!-- syc - Classical Syriac -->
     <item>сирійська класична</item>
     <!-- syr - Syriac -->
@@ -976,7 +984,7 @@
     <item>українська</item>
     <!-- umb - Umbundu -->
     <item>умбунду</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>невідома мова</item>
     <!-- ur - Urdu -->
     <item>урду</item>
@@ -989,7 +997,7 @@
     <!-- vi - Vietnamese -->
     <item>вʼєтнамська</item>
     <!-- vo - Volapük -->
-    <item>волап’юк</item>
+    <item>волапʼюк</item>
     <!-- vot - Votic -->
     <item>водська</item>
     <!-- vun - Vunjo -->

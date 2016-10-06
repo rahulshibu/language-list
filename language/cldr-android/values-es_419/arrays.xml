@@ -2,15 +2,51 @@
 <resources>
   <!-- Latin American Spanish (es_419) -->
   <string-array name="languages_all">
+    <!-- ace - Achinese -->
+    <item>achenés</item>
+    <!-- ady - Adyghe -->
+    <item>adigeo</item>
+    <!-- arp - Arapaho -->
+    <item>arapajó</item>
     <!-- eu - Basque -->
     <item>vasco</item>
+    <!-- goh - Old High German -->
+    <item>alemán de la alta edad antigua</item>
+    <!-- grc - Ancient Greek -->
+    <item>griego clásico</item>
+    <!-- gu - Gujarati -->
+    <item>gujarati</item>
+    <!-- hsb - Upper Sorbian -->
+    <item>sorbio alto</item>
+    <!-- ht - Haitian Creole -->
+    <item>haitiano</item>
+    <!-- kea - Kabuverdianu -->
+    <item>Criollo (Cabo Verde)</item>
+    <!-- lo - Lao -->
+    <item>laosiano</item>
     <!-- luo - Luo -->
     <item>luo</item>
+    <!-- prg - Prussian -->
+    <item>prusiano antiguo</item>
+    <!-- rm - Romansh -->
+    <item>retorrománico</item>
+    <!-- shu - Chadian Arabic -->
+    <item>árabe (Chad)</item>
     <!-- sw - Swahili -->
     <item>swahili</item>
-    <!-- swc - Congo Swahili -->
-    <item>swahili del Congo</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>swahili (Congo)</item>
+    <!-- tzm - Central Atlas Tamazight -->
+    <item>tamazight del Marruecos Central</item>
     <!-- vai - Vai -->
     <item>vai</item>
+    <!-- wal - Wolaytta -->
+    <item>walamo</item>
+    <!-- wuu - Wu Chinese -->
+    <item>wu</item>
+    <!-- yi - Yiddish -->
+    <item>yídish</item>
+    <!-- zun - Zuni -->
+    <item>zuni</item>
   </string-array>
 </resources>

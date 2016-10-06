@@ -2,34 +2,64 @@
 <resources>
   <!-- Filipino (fil) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>Afar</item>
     <!-- ab - Abkhazian -->
     <item>Abkhazian</item>
+    <!-- ace - Achinese -->
+    <item>Achinese</item>
     <!-- ach - Acoli -->
     <item>Acoli</item>
+    <!-- ada - Adangme -->
+    <item>Adangme</item>
+    <!-- ady - Adyghe -->
+    <item>Adyghe</item>
     <!-- af - Afrikaans -->
     <item>Afrikaans</item>
     <!-- agq - Aghem -->
     <item>Aghem</item>
+    <!-- ain - Ainu -->
+    <item>Ainu</item>
     <!-- ak - Akan -->
     <item>Akan</item>
+    <!-- ale - Aleut -->
+    <item>Aleut</item>
+    <!-- alt - Southern Altai -->
+    <item>Southern Altai</item>
     <!-- am - Amharic -->
     <item>Amharic</item>
+    <!-- an - Aragonese -->
+    <item>Aragonese</item>
+    <!-- anp - Angika -->
+    <item>Angika</item>
     <!-- ar - Arabic -->
-    <item>Arabe</item>
+    <item>Arabic</item>
     <!-- ar_001 - Modern Standard Arabic -->
-    <item>Modernong Karaniwang Arabe</item>
+    <item>Modernong Karaniwang Arabic</item>
     <!-- arn - Mapuche -->
     <item>Mapuche</item>
+    <!-- arp - Arapaho -->
+    <item>Arapaho</item>
     <!-- as - Assamese -->
     <item>Assamese</item>
     <!-- asa - Asu -->
     <item>Asu</item>
+    <!-- ast - Asturian -->
+    <item>Asturian</item>
+    <!-- av - Avaric -->
+    <item>Avaric</item>
+    <!-- awa - Awadhi -->
+    <item>Awadhi</item>
     <!-- ay - Aymara -->
     <item>Aymara</item>
     <!-- az - Azerbaijani -->
     <item>Azerbaijani</item>
     <!-- ba - Bashkir -->
     <item>Bashkir</item>
+    <!-- ban - Balinese -->
+    <item>Balinese</item>
+    <!-- bas - Basaa -->
+    <item>Basaa</item>
     <!-- be - Belarusian -->
     <item>Belarusian</item>
     <!-- bem - Bemba -->
@@ -40,10 +70,18 @@
     <item>Bulgarian</item>
     <!-- bgn - Western Balochi -->
     <item>Kanlurang Balochi</item>
+    <!-- bho - Bhojpuri -->
+    <item>Bhojpuri</item>
+    <!-- bi - Bislama -->
+    <item>Bislama</item>
+    <!-- bin - Bini -->
+    <item>Bini</item>
+    <!-- bla - Siksika -->
+    <item>Siksika</item>
     <!-- bm - Bambara -->
     <item>Bambara</item>
-    <!-- bn - Bengali -->
-    <item>Bengali</item>
+    <!-- bn - Bangla -->
+    <item>Bangla</item>
     <!-- bo - Tibetan -->
     <item>Tibetan</item>
     <!-- br - Breton -->
@@ -52,26 +90,50 @@
     <item>Bodo</item>
     <!-- bs - Bosnian -->
     <item>Bosnian</item>
+    <!-- bug - Buginese -->
+    <item>Buginese</item>
+    <!-- byn - Blin -->
+    <item>Blin</item>
     <!-- ca - Catalan -->
     <item>Catalan</item>
     <!-- ce - Chechen -->
     <item>Chechen</item>
+    <!-- ceb - Cebuano -->
+    <item>Cebuano</item>
     <!-- cgg - Chiga -->
     <item>Chiga</item>
+    <!-- ch - Chamorro -->
+    <item>Chamorro</item>
+    <!-- chk - Chuukese -->
+    <item>Chuukese</item>
+    <!-- chm - Mari -->
+    <item>Mari</item>
+    <!-- cho - Choctaw -->
+    <item>Choctaw</item>
     <!-- chr - Cherokee -->
     <item>Cherokee</item>
+    <!-- chy - Cheyenne -->
+    <item>Cheyenne</item>
     <!-- ckb - Central Kurdish -->
     <item>Central Kurdish</item>
     <!-- co - Corsican -->
     <item>Corsican</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>Seselwa Creole French</item>
     <!-- cs - Czech -->
     <item>Czech</item>
+    <!-- cu - Church Slavic -->
+    <item>Church Slavic</item>
     <!-- cv - Chuvash -->
     <item>Chuvash</item>
     <!-- cy - Welsh -->
     <item>Welsh</item>
     <!-- da - Danish -->
     <item>Danish</item>
+    <!-- dak - Dakota -->
+    <item>Dakota</item>
+    <!-- dar - Dargwa -->
+    <item>Dargwa</item>
     <!-- dav - Taita -->
     <item>Taita</item>
     <!-- de - German -->
@@ -80,6 +142,8 @@
     <item>Austrian German</item>
     <!-- de_CH - Swiss High German -->
     <item>Swiss High German</item>
+    <!-- dgr - Dogrib -->
+    <item>Dogrib</item>
     <!-- dje - Zarma -->
     <item>Zarma</item>
     <!-- dsb - Lower Sorbian -->
@@ -92,12 +156,16 @@
     <item>Jola-Fonyi</item>
     <!-- dz - Dzongkha -->
     <item>Dzongkha</item>
+    <!-- dzg - Dazaga -->
+    <item>Dazaga</item>
     <!-- ebu - Embu -->
     <item>Embu</item>
     <!-- ee - Ewe -->
     <item>Ewe</item>
     <!-- efi - Efik -->
     <item>Efik</item>
+    <!-- eka - Ekajuk -->
+    <item>Ekajuk</item>
     <!-- el - Greek -->
     <item>Greek</item>
     <!-- en - English -->
@@ -107,25 +175,29 @@
     <!-- en_CA - Canadian English -->
     <item>Ingles sa Canada</item>
     <!-- en_GB - British English -->
-    <item>Ingles ng British</item>
+    <item>Ingles na British</item>
     <!-- en_US - American English -->
-    <item>Ingles (US)</item>
+    <item>Ingles na American</item>
     <!-- eo - Esperanto -->
     <item>Esperanto</item>
     <!-- es - Spanish -->
-    <item>Espanyol</item>
+    <item>Spanish</item>
     <!-- es_419 - Latin American Spanish -->
     <item>Latin American na Espanyol</item>
     <!-- es_ES - European Spanish -->
     <item>European Spanish</item>
     <!-- es_MX - Mexican Spanish -->
-    <item>Espanyol ng Mehiko</item>
+    <item>Mexican na Espanyol</item>
     <!-- et - Estonian -->
     <item>Estonian</item>
     <!-- eu - Basque -->
     <item>Basque</item>
+    <!-- ewo - Ewondo -->
+    <item>Ewondo</item>
     <!-- fa - Persian -->
     <item>Persian</item>
+    <!-- ff - Fulah -->
+    <item>Fulah</item>
     <!-- fi - Finnish -->
     <item>Finnish</item>
     <!-- fil - Filipino -->
@@ -134,12 +206,16 @@
     <item>Fijian</item>
     <!-- fo - Faroese -->
     <item>Faroese</item>
+    <!-- fon - Fon -->
+    <item>Fon</item>
     <!-- fr - French -->
     <item>French</item>
     <!-- fr_CA - Canadian French -->
-    <item>Canadian French</item>
+    <item>French sa Canada</item>
     <!-- fr_CH - Swiss French -->
-    <item>Swiss French</item>
+    <item>Swiss na French</item>
+    <!-- fur - Friulian -->
+    <item>Friulian</item>
     <!-- fy - Western Frisian -->
     <item>Kanlurang Frisian</item>
     <!-- ga - Irish -->
@@ -150,10 +226,16 @@
     <item>Gagauz</item>
     <!-- gd - Scottish Gaelic -->
     <item>Scots Gaelic</item>
+    <!-- gez - Geez -->
+    <item>Geez</item>
+    <!-- gil - Gilbertese -->
+    <item>Gilbertese</item>
     <!-- gl - Galician -->
     <item>Galician</item>
     <!-- gn - Guarani -->
     <item>Guarani</item>
+    <!-- gor - Gorontalo -->
+    <item>Gorontalo</item>
     <!-- gsw - Swiss German -->
     <item>Swiss German</item>
     <!-- gu - Gujarati -->
@@ -162,6 +244,8 @@
     <item>Gusii</item>
     <!-- gv - Manx -->
     <item>Manx</item>
+    <!-- gwi - Gwichʼin -->
+    <item>Gwichʼin</item>
     <!-- ha - Hausa -->
     <item>Hausa</item>
     <!-- haw - Hawaiian -->
@@ -170,6 +254,10 @@
     <item>Hebrew</item>
     <!-- hi - Hindi -->
     <item>Hindi</item>
+    <!-- hil - Hiligaynon -->
+    <item>Hiligaynon</item>
+    <!-- hmn - Hmong -->
+    <item>Hmong</item>
     <!-- hr - Croatian -->
     <item>Croatian</item>
     <!-- hsb - Upper Sorbian -->
@@ -178,10 +266,18 @@
     <item>Haitian</item>
     <!-- hu - Hungarian -->
     <item>Hungarian</item>
+    <!-- hup - Hupa -->
+    <item>Hupa</item>
     <!-- hy - Armenian -->
     <item>Armenian</item>
+    <!-- hz - Herero -->
+    <item>Herero</item>
     <!-- ia - Interlingua -->
     <item>Interlingua</item>
+    <!-- iba - Iban -->
+    <item>Iban</item>
+    <!-- ibb - Ibibio -->
+    <item>Ibibio</item>
     <!-- id - Indonesian -->
     <item>Indonesian</item>
     <!-- ie - Interlingue -->
@@ -190,6 +286,12 @@
     <item>Igbo</item>
     <!-- ii - Sichuan Yi -->
     <item>Sichuan Yi</item>
+    <!-- ilo - Iloko -->
+    <item>Iloko</item>
+    <!-- inh - Ingush -->
+    <item>Ingush</item>
+    <!-- io - Ido -->
+    <item>Ido</item>
     <!-- is - Icelandic -->
     <item>Icelandic</item>
     <!-- it - Italian -->
@@ -198,6 +300,8 @@
     <item>Inuktitut</item>
     <!-- ja - Japanese -->
     <item>Japanese</item>
+    <!-- jbo - Lojban -->
+    <item>Lojban</item>
     <!-- jgo - Ngomba -->
     <item>Ngomba</item>
     <!-- jmc - Machame -->
@@ -208,26 +312,44 @@
     <item>Georgian</item>
     <!-- kab - Kabyle -->
     <item>Kabyle</item>
+    <!-- kac - Kachin -->
+    <item>Kachin</item>
+    <!-- kaj - Jju -->
+    <item>Jju</item>
     <!-- kam - Kamba -->
     <item>Kamba</item>
+    <!-- kbd - Kabardian -->
+    <item>Kabardian</item>
+    <!-- kcg - Tyap -->
+    <item>Tyap</item>
     <!-- kde - Makonde -->
     <item>Makonde</item>
     <!-- kea - Kabuverdianu -->
     <item>Kabuverdianu</item>
+    <!-- kfo - Koro -->
+    <item>Koro</item>
     <!-- kg - Kongo -->
     <item>Kongo</item>
+    <!-- kha - Khasi -->
+    <item>Khasi</item>
     <!-- khq - Koyra Chiini -->
     <item>Koyra Chiini</item>
     <!-- ki - Kikuyu -->
     <item>Kikuyu</item>
+    <!-- kj - Kuanyama -->
+    <item>Kuanyama</item>
     <!-- kk - Kazakh -->
     <item>Kazakh</item>
+    <!-- kkj - Kako -->
+    <item>Kako</item>
     <!-- kl - Kalaallisut -->
     <item>Kalaallisut</item>
     <!-- kln - Kalenjin -->
     <item>Kalenjin</item>
     <!-- km - Khmer -->
     <item>Khmer</item>
+    <!-- kmb - Kimbundu -->
+    <item>Kimbundu</item>
     <!-- kn - Kannada -->
     <item>Kannada</item>
     <!-- ko - Korean -->
@@ -236,26 +358,48 @@
     <item>Komi-Permyak</item>
     <!-- kok - Konkani -->
     <item>Konkani</item>
+    <!-- kpe - Kpelle -->
+    <item>Kpelle</item>
+    <!-- kr - Kanuri -->
+    <item>Kanuri</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>Karachay-Balkar</item>
+    <!-- krl - Karelian -->
+    <item>Karelian</item>
+    <!-- kru - Kurukh -->
+    <item>Kurukh</item>
     <!-- ks - Kashmiri -->
     <item>Kashmiri</item>
     <!-- ksb - Shambala -->
     <item>Shambala</item>
     <!-- ksf - Bafia -->
     <item>Bafia</item>
+    <!-- ksh - Colognian -->
+    <item>Colognian</item>
     <!-- ku - Kurdish -->
     <item>Kurdish</item>
+    <!-- kum - Kumyk -->
+    <item>Kumyk</item>
+    <!-- kv - Komi -->
+    <item>Komi</item>
     <!-- kw - Cornish -->
     <item>Cornish</item>
     <!-- ky - Kyrgyz -->
     <item>Kirghiz</item>
     <!-- la - Latin -->
     <item>Latin</item>
+    <!-- lad - Ladino -->
+    <item>Ladino</item>
     <!-- lag - Langi -->
     <item>Langi</item>
     <!-- lb - Luxembourgish -->
     <item>Luxembourgish</item>
+    <!-- lez - Lezghian -->
+    <item>Lezghian</item>
     <!-- lg - Ganda -->
     <item>Ganda</item>
+    <!-- li - Limburgish -->
+    <item>Limburgish</item>
     <!-- lkt - Lakota -->
     <item>Lakota</item>
     <!-- ln - Lingala -->
@@ -272,14 +416,30 @@
     <item>Luba-Katanga</item>
     <!-- lua - Luba-Lulua -->
     <item>Luba-Lulua</item>
+    <!-- lun - Lunda -->
+    <item>Lunda</item>
     <!-- luo - Luo -->
     <item>Luo</item>
+    <!-- lus - Mizo -->
+    <item>Mizo</item>
     <!-- luy - Luyia -->
     <item>Luyia</item>
     <!-- lv - Latvian -->
     <item>Latvian</item>
+    <!-- mad - Madurese -->
+    <item>Madurese</item>
+    <!-- mag - Magahi -->
+    <item>Magahi</item>
+    <!-- mai - Maithili -->
+    <item>Maithili</item>
+    <!-- mak - Makasar -->
+    <item>Makasar</item>
     <!-- mas - Masai -->
     <item>Masai</item>
+    <!-- mdf - Moksha -->
+    <item>Moksha</item>
+    <!-- men - Mende -->
+    <item>Mende</item>
     <!-- mer - Meru -->
     <item>Meru</item>
     <!-- mfe - Morisyen -->
@@ -290,16 +450,26 @@
     <item>Makhuwa-Meetto</item>
     <!-- mgo - Metaʼ -->
     <item>Meta’</item>
+    <!-- mh - Marshallese -->
+    <item>Marshallese</item>
     <!-- mi - Maori -->
     <item>Maori</item>
+    <!-- mic - Mi'kmaq -->
+    <item>Micmac</item>
+    <!-- min - Minangkabau -->
+    <item>Minangkabau</item>
     <!-- mk - Macedonian -->
     <item>Macedonian</item>
     <!-- ml - Malayalam -->
     <item>Malayalam</item>
     <!-- mn - Mongolian -->
     <item>Mongolian</item>
+    <!-- mni - Manipuri -->
+    <item>Manipuri</item>
     <!-- moh - Mohawk -->
     <item>Mohawk</item>
+    <!-- mos - Mossi -->
+    <item>Mossi</item>
     <!-- mr - Marathi -->
     <item>Marathi</item>
     <!-- ms - Malay -->
@@ -308,14 +478,26 @@
     <item>Maltese</item>
     <!-- mua - Mundang -->
     <item>Mundang</item>
+    <!-- mul - Multiple languages -->
+    <item>Maramihang Wika</item>
+    <!-- mus - Creek -->
+    <item>Creek</item>
+    <!-- mwl - Mirandese -->
+    <item>Mirandese</item>
     <!-- my - Burmese -->
     <item>Burmese</item>
+    <!-- myv - Erzya -->
+    <item>Erzya</item>
     <!-- mzn - Mazanderani -->
     <item>Mazanderani</item>
+    <!-- na - Nauru -->
+    <item>Nauru</item>
+    <!-- nap - Neapolitan -->
+    <item>Neapolitan</item>
     <!-- naq - Nama -->
     <item>Nama</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>Norwegian Bokmal</item>
+    <item>Norwegian Bokmål</item>
     <!-- nd - North Ndebele -->
     <item>Hilagang Ndebele</item>
     <!-- nds - Low German -->
@@ -324,6 +506,14 @@
     <item>Low Saxon</item>
     <!-- ne - Nepali -->
     <item>Nepali</item>
+    <!-- new - Newari -->
+    <item>Newari</item>
+    <!-- ng - Ndonga -->
+    <item>Ndonga</item>
+    <!-- nia - Nias -->
+    <item>Nias</item>
+    <!-- niu - Niuean -->
+    <item>Niuean</item>
     <!-- nl - Dutch -->
     <item>Dutch</item>
     <!-- nl_BE - Flemish -->
@@ -332,14 +522,22 @@
     <item>Kwasio</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>Norwegian Nynorsk</item>
+    <!-- nnh - Ngiemboon -->
+    <item>Ngiemboon</item>
     <!-- no - Norwegian -->
     <item>Norwegian</item>
+    <!-- nog - Nogai -->
+    <item>Nogai</item>
     <!-- nqo - N’Ko -->
     <item>N’Ko</item>
+    <!-- nr - South Ndebele -->
+    <item>South Ndebele</item>
     <!-- nso - Northern Sotho -->
-    <item>Northern Sotho</item>
+    <item>Hilagang Sotho</item>
     <!-- nus - Nuer -->
     <item>Nuer</item>
+    <!-- nv - Navajo -->
+    <item>Navajo</item>
     <!-- ny - Nyanja -->
     <item>Nyanja</item>
     <!-- nyn - Nyankole -->
@@ -348,18 +546,30 @@
     <item>Occitan</item>
     <!-- om - Oromo -->
     <item>Oromo</item>
-    <!-- or - Oriya -->
-    <item>Oriya</item>
+    <!-- or - Odia -->
+    <item>Odia</item>
     <!-- os - Ossetic -->
     <item>Ossetic</item>
     <!-- pa - Punjabi -->
     <item>Punjabi</item>
+    <!-- pag - Pangasinan -->
+    <item>Pangasinan</item>
+    <!-- pam - Pampanga -->
+    <item>Pampanga</item>
+    <!-- pap - Papiamento -->
+    <item>Papiamento</item>
+    <!-- pau - Palauan -->
+    <item>Palauan</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Nigerian Pidgin</item>
     <!-- pl - Polish -->
     <item>Polish</item>
+    <!-- prg - Prussian -->
+    <item>Prussian</item>
     <!-- ps - Pashto -->
     <item>Pashto</item>
     <!-- pt - Portuguese -->
-    <item>Portuges</item>
+    <item>Portuguese</item>
     <!-- pt_BR - Brazilian Portuguese -->
     <item>Portuges ng Brasil</item>
     <!-- pt_PT - European Portuguese -->
@@ -368,6 +578,10 @@
     <item>Quechua</item>
     <!-- quc - Kʼicheʼ -->
     <item>Kʼicheʼ</item>
+    <!-- rap - Rapanui -->
+    <item>Rapanui</item>
+    <!-- rar - Rarotongan -->
+    <item>Rarotongan</item>
     <!-- rm - Romansh -->
     <item>Romansh</item>
     <!-- rn - Rundi -->
@@ -378,18 +592,36 @@
     <item>Moldavian</item>
     <!-- rof - Rombo -->
     <item>Rombo</item>
+    <!-- root - Root -->
+    <item>Root</item>
     <!-- ru - Russian -->
     <item>Russian</item>
+    <!-- rup - Aromanian -->
+    <item>Aromanian</item>
     <!-- rw - Kinyarwanda -->
     <item>Kinyarwanda</item>
     <!-- rwk - Rwa -->
     <item>Rwa</item>
     <!-- sa - Sanskrit -->
     <item>Sanskrit</item>
+    <!-- sad - Sandawe -->
+    <item>Sandawe</item>
+    <!-- sah - Sakha -->
+    <item>Sakha</item>
     <!-- saq - Samburu -->
     <item>Samburu</item>
+    <!-- sat - Santali -->
+    <item>Santali</item>
+    <!-- sba - Ngambay -->
+    <item>Ngambay</item>
     <!-- sbp - Sangu -->
     <item>Sangu</item>
+    <!-- sc - Sardinian -->
+    <item>Sardinian</item>
+    <!-- scn - Sicilian -->
+    <item>Sicilian</item>
+    <!-- sco - Scots -->
+    <item>Scots</item>
     <!-- sd - Sindhi -->
     <item>Sindhi</item>
     <!-- sdh - Southern Kurdish -->
@@ -406,6 +638,8 @@
     <item>Serbo-Croatian</item>
     <!-- shi - Tachelhit -->
     <item>Tachelhit</item>
+    <!-- shn - Shan -->
+    <item>Shan</item>
     <!-- si - Sinhala -->
     <item>Sinhala</item>
     <!-- sk - Slovak -->
@@ -424,30 +658,42 @@
     <item>Skolt Sami</item>
     <!-- sn - Shona -->
     <item>Shona</item>
+    <!-- snk - Soninke -->
+    <item>Soninke</item>
     <!-- so - Somali -->
     <item>Somali</item>
     <!-- sq - Albanian -->
     <item>Albanian</item>
     <!-- sr - Serbian -->
     <item>Serbian</item>
+    <!-- srn - Sranan Tongo -->
+    <item>Sranan Tongo</item>
     <!-- ss - Swati -->
     <item>Swati</item>
+    <!-- ssy - Saho -->
+    <item>Saho</item>
     <!-- st - Southern Sotho -->
-    <item>Southern Sotho</item>
+    <item>Katimugang Sotho</item>
     <!-- su - Sundanese -->
     <item>Sundanese</item>
+    <!-- suk - Sukuma -->
+    <item>Sukuma</item>
     <!-- sv - Swedish -->
     <item>Swedish</item>
     <!-- sw - Swahili -->
     <item>Swahili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>Congo Swahili</item>
     <!-- swb - Comorian -->
     <item>Comorian</item>
-    <!-- swc - Congo Swahili -->
-    <item>Swahili (Congo)</item>
+    <!-- syr - Syriac -->
+    <item>Syriac</item>
     <!-- ta - Tamil -->
     <item>Tamil</item>
     <!-- te - Telugu -->
     <item>Telugu</item>
+    <!-- tem - Timne -->
+    <item>Timne</item>
     <!-- teo - Teso -->
     <item>Teso</item>
     <!-- tet - Tetum -->
@@ -458,6 +704,8 @@
     <item>Thai</item>
     <!-- ti - Tigrinya -->
     <item>Tigrinya</item>
+    <!-- tig - Tigre -->
+    <item>Tigre</item>
     <!-- tk - Turkmen -->
     <item>Turkmen</item>
     <!-- tl - Tagalog -->
@@ -472,25 +720,35 @@
     <item>Tok Pisin</item>
     <!-- tr - Turkish -->
     <item>Turkish</item>
+    <!-- trv - Taroko -->
+    <item>Taroko</item>
     <!-- ts - Tsonga -->
     <item>Tsonga</item>
     <!-- tt - Tatar -->
     <item>Tatar</item>
     <!-- tum - Tumbuka -->
     <item>Tumbuka</item>
+    <!-- tvl - Tuvalu -->
+    <item>Tuvalu</item>
     <!-- tw - Twi -->
     <item>Twi</item>
     <!-- twq - Tasawaq -->
     <item>Tasawaq</item>
     <!-- ty - Tahitian -->
     <item>Tahitian</item>
+    <!-- tyv - Tuvinian -->
+    <item>Tuvinian</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>Tamazight ng Gitnang Atlas</item>
+    <item>Central Atlas Tamazight</item>
+    <!-- udm - Udmurt -->
+    <item>Udmurt</item>
     <!-- ug - Uyghur -->
     <item>Uyghur</item>
     <!-- uk - Ukrainian -->
     <item>Ukranian</item>
-    <!-- und - Unknown Language -->
+    <!-- umb - Umbundu -->
+    <item>Umbundu</item>
+    <!-- und - Unknown language -->
     <item>Hindi Kilalang Wika</item>
     <!-- ur - Urdu -->
     <item>Urdu</item>
@@ -502,16 +760,32 @@
     <item>Venda</item>
     <!-- vi - Vietnamese -->
     <item>Vietnamese</item>
+    <!-- vo - Volapük -->
+    <item>Volapük</item>
     <!-- vun - Vunjo -->
     <item>Vunjo</item>
+    <!-- wa - Walloon -->
+    <item>Walloon</item>
+    <!-- wae - Walser -->
+    <item>Walser</item>
+    <!-- wal - Wolaytta -->
+    <item>Wolaytta</item>
+    <!-- war - Waray -->
+    <item>Waray</item>
     <!-- wbp - Warlpiri -->
     <item>Warlpiri</item>
     <!-- wo - Wolof -->
     <item>Wolof</item>
+    <!-- xal - Kalmyk -->
+    <item>Kalmyk</item>
     <!-- xh - Xhosa -->
     <item>Xhosa</item>
     <!-- xog - Soga -->
     <item>Soga</item>
+    <!-- yav - Yangben -->
+    <item>Yangben</item>
+    <!-- ybb - Yemba -->
+    <item>Yemba</item>
     <!-- yi - Yiddish -->
     <item>Yiddish</item>
     <!-- yo - Yoruba -->
@@ -523,12 +797,16 @@
     <!-- zh - Chinese -->
     <item>Chinese</item>
     <!-- zh_Hans - Simplified Chinese -->
-    <item>Simplified Chinese</item>
+    <item>Pinasimpleng Chinese</item>
     <!-- zh_Hant - Traditional Chinese -->
-    <item>Chinese (Traditional)</item>
+    <item>Tradisyonal na Chinese</item>
     <!-- zu - Zulu -->
     <item>Zulu</item>
+    <!-- zun - Zuni -->
+    <item>Zuni</item>
     <!-- zxx - No linguistic content -->
     <item>Walang nilalaman na ukol sa wika</item>
+    <!-- zza - Zaza -->
+    <item>Zaza</item>
   </string-array>
 </resources>

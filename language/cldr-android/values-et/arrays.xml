@@ -39,7 +39,7 @@
     <!-- alt - Southern Altai -->
     <item>altai</item>
     <!-- am - Amharic -->
-    <item>amhari</item>
+    <item>amhara</item>
     <!-- an - Aragonese -->
     <item>aragoni</item>
     <!-- ang - Old English -->
@@ -132,7 +132,7 @@
     <item>mustjalaindiaani</item>
     <!-- bm - Bambara -->
     <item>bambara</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>bengali</item>
     <!-- bo - Tibetan -->
     <item>tiibeti</item>
@@ -210,6 +210,8 @@
     <item>krii</item>
     <!-- crh - Crimean Turkish -->
     <item>krimmitatari</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>seišelli</item>
     <!-- cs - Czech -->
     <item>tšehhi</item>
     <!-- csb - Kashubian -->
@@ -410,6 +412,8 @@
     <item>hausa</item>
     <!-- hai - Haida -->
     <item>haida</item>
+    <!-- hak - Hakka Chinese -->
+    <item>hakka</item>
     <!-- haw - Hawaiian -->
     <item>havai</item>
     <!-- he - Hebrew -->
@@ -688,7 +692,7 @@
     <item>maršalli</item>
     <!-- mi - Maori -->
     <item>maoori</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>mikmaki</item>
     <!-- min - Minangkabau -->
     <item>minangkabau</item>
@@ -716,7 +720,7 @@
     <item>malta</item>
     <!-- mua - Mundang -->
     <item>mundangi</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>mitu keelt</item>
     <!-- mus - Creek -->
     <item>maskogi</item>
@@ -785,7 +789,7 @@
     <!-- nr - South Ndebele -->
     <item>lõunandebele</item>
     <!-- nso - Northern Sotho -->
-    <item>pedi</item>
+    <item>põhjasotho</item>
     <!-- nus - Nuer -->
     <item>nueri</item>
     <!-- nv - Navajo -->
@@ -803,12 +807,12 @@
     <!-- nzi - Nzima -->
     <item>nzima</item>
     <!-- oc - Occitan -->
-    <item>provansi</item>
+    <item>oksitaani</item>
     <!-- oj - Ojibwa -->
     <item>odžibvei</item>
     <!-- om - Oromo -->
     <item>oromo</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>oria</item>
     <!-- os - Ossetic -->
     <item>osseedi</item>
@@ -830,6 +834,8 @@
     <item>belau</item>
     <!-- pcd - Picard -->
     <item>pikardi</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Nigeeria pidžinkeel</item>
     <!-- pdc - Pennsylvania German -->
     <item>Pennsylvania saksa</item>
     <!-- pdt - Plautdietsch -->
@@ -1018,10 +1024,10 @@
     <item>rootsi</item>
     <!-- sw - Swahili -->
     <item>suahiili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>Kongo suahiili</item>
     <!-- swb - Comorian -->
     <item>komoori</item>
-    <!-- swc - Congo Swahili -->
-    <item>Kongo suahiili</item>
     <!-- syc - Classical Syriac -->
     <item>vanasüüria</item>
     <!-- syr - Syriac -->
@@ -1116,7 +1122,7 @@
     <item>ukraina</item>
     <!-- umb - Umbundu -->
     <item>umbundu</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>määramata keel</item>
     <!-- ur - Urdu -->
     <item>urdu</item>
@@ -1198,10 +1204,6 @@
     <item>tamasikti (Maroko)</item>
     <!-- zh - Chinese -->
     <item>hiina</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>hiina (lihtsustatud)</item>
-    <!-- zh_Hant - Traditional Chinese -->
-    <item>hiina (traditsiooniline)</item>
     <!-- zu - Zulu -->
     <item>suulu</item>
     <!-- zun - Zuni -->

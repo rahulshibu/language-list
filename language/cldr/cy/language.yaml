@@ -52,7 +52,9 @@ bfd: Baffwteg
 bfq: Badaga
 bg: Bwlgareg
 bgn: Balochi Gorllewinol
+bho: Bhojpuri
 bi: Bislama
+bin: Bini
 bkm: Comeg
 bla: Siksika
 bm: Bambareg
@@ -64,14 +66,18 @@ brx: Bodo
 bs: Bosnieg
 bss: Acwseg
 bua: Bwriateg
+bug: Buginese
 bum: Bwlw
+byn: Blin
 ca: Catalaneg
 cad: Cado
 car: Caribeg
 cch: Atsameg
 ce: Tsietsieneg
+ceb: Cebuano
 cgg: Tsiga
 ch: Tsiamorro
+chk: Chuukese
 chm: Marieg
 cho: Siocto
 chr: "Tsieroc\xEE"
@@ -81,6 +87,7 @@ co: Corseg
 cop: Copteg
 cr: Cri
 crh: Tyrceg y Crimea
+crs: Ffrangeg Seselwa Creole
 cs: Tsieceg
 cu: Hen Slafoneg
 cv: Tshwfasheg
@@ -92,6 +99,7 @@ dav: Taita
 de: Almaeneg
 de_AT: Almaeneg Awstria
 de_CH: Almaeneg Safonol y Swistir
+dgr: Dogrib
 din: Dinca
 dje: Zarmaeg
 doi: Dogri
@@ -101,9 +109,12 @@ dum: Iseldireg Canol
 dv: Difehi
 dyo: Jola-Fonyi
 dz: Dzongkha
+dzg: Dazaga
 ebu: Embw
 ee: Ewe
+efi: Efik
 egy: Hen Eiffteg
+eka: Ekajuk
 el: Groeg
 elx: Elameg
 en: Saesneg
@@ -129,6 +140,7 @@ fil: Ffilipineg
 fit: Ffinneg Tornedal
 fj: "Ffij\xEFeg"
 fo: "Ffar\xF6eg"
+fon: Fon
 fr: Ffrangeg
 fr_CA: Ffrangeg Canada
 fr_CH: Ffrangeg y Swistir
@@ -136,38 +148,44 @@ frc: Ffrangeg Cajwn
 frm: Ffrangeg Canol
 fro: Hen Ffrangeg
 frp: Arpitaneg
-frr: Ffriseg y Gogledd
+frr: Ffriseg Gogleddol
 frs: Ffriseg y Dwyrain
 fur: Ffriwleg
 fy: Ffriseg y Gorllewin
 ga: Gwyddeleg
+gaa: Ga
 gag: Gagauz
 gay: Gaio
 gba: Gbaia
 gbz: Dareg y Zoroastriaid
 gd: Gaeleg yr Alban
+gez: Geez
 gil: Gilberteg
 gl: Galisieg
-gmh: Uchel Almaeneg Canol
+gmh: Almaeneg Uchel Canol
 gn: "Guaran\xED"
-goh: Hen Uchel Almaeneg
+goh: Hen Almaeneg Uchel
+gor: Gorontalo
 got: Gotheg
 grc: Hen Roeg
 gsw: Almaeneg y Swistir
 gu: Gwjarati
 guz: Gusii
 gv: Manaweg
+gwi: "Gwich\u02BCin"
 ha: Hawsa
 hai: Haida
 haw: "Haw\xE4ieg"
 he: Hebraeg
 hi: Hindi
+hil: Hiligaynon
 hit: Hetheg
 hmn: Hmongeg
 hr: Croateg
 hsb: Sorbeg Uchaf
 ht: Creol Haiti
 hu: Hwngareg
+hup: Hupa
 hy: Armeneg
 hz: Herero
 ia: Interlingua
@@ -180,10 +198,12 @@ ii: Nwosw
 ik: Inwpiaceg
 ilo: Ilocaneg
 inh: Ingwsieg
+io: Ido
 is: Islandeg
 it: Eidaleg
 iu: Inwctitwt
 ja: Japaneeg
+jbo: Lojban
 jgo: Ngomba
 jmc: Matsiame
 jpr: Iddew-Bersieg
@@ -192,26 +212,35 @@ jv: Jafanaeg
 ka: Georgeg
 kaa: Cara-Calpaceg
 kab: Cabileg
+kac: Kachin
+kaj: Jju
 kam: Camba
 kbd: Circaseg Dwyreiniol
 kcg: Tyapeg
 kde: Macondeg
 kea: Caboferdianeg
+kfo: Koro
 kg: Congo
 kha: "C\xE0seg"
 khq: Koyra Chiini
 khw: Chowareg
 ki: Kikuyu
+kj: Kuanyama
 kk: Casacheg
+kkj: Kako
 kl: Kalaallisut
 kln: Kalenjin
 km: Chmereg
+kmb: Kimbundu
 kn: Kannada
 ko: Coreeg
 koi: Komi-Permyak
 kok: Concani
+kpe: Kpelle
 kr: Canwri
+krc: Karachay-Balkar
 krl: Careleg
+kru: Kurukh
 ks: Cashmireg
 ksb: Shambala
 ksf: Baffia
@@ -240,6 +269,7 @@ lrc: Luri Gogleddol
 lt: Lithwaneg
 ltg: Latgaleg
 lu: Luba-Katanga
+lua: Luba-Lulua
 lun: Lwnda
 luo: "L\u0175o"
 lus: Lwshaieg
@@ -263,6 +293,7 @@ mgo: Meta
 mh: Marsialeg
 mi: Maori
 mic: Micmaceg
+min: Minangkabau
 mk: Macedoneg
 ml: Malayalam
 mn: Mongoleg
@@ -275,27 +306,33 @@ mrj: Mari Gorllewinol
 ms: Maleieg
 mt: Malteg
 mua: Mundang
-mul: mwy nag un iaith
+mul: Mwy nag un iaith
+mus: Creek
 mwl: Mirandeg
 mwr: Marwari
 my: Byrmaneg
+myv: Erzya
 mzn: Masanderani
 na: "Nawr\u0175eg"
 nap: Naplieg
 naq: Nama
 nb: "Norwyeg Bokm\xE5l"
 nd: Ndebele Gogleddol
-nds: Isel Almaeneg
+nds: Almaeneg Isel
 nds_NL: Sacsoneg Isel
 ne: Nepaleg
 new: Newaeg
 ng: Ndonga
+nia: Nias
+niu: Niuean
 njo: Ao Naga
 nl: Iseldireg
 nl_BE: Fflemeg
 nmg: Kwasio
 nn: Norwyeg Nynorsk
+nnh: Ngiemboon
 'no': Norwyeg
+nog: Nogai
 non: Hen Norseg
 nqo: "N\u2019Ko"
 nr: Ndebele Deheuol
@@ -319,7 +356,10 @@ pa: Pwnjabeg
 pag: Pangasineg
 pal: Pahlafi
 pam: Pampanga
+pap: Papiamento
+pau: Palawan
 pcd: Picardeg
+pcm: Pidgin Nigeria
 pdc: Almaeneg Pensylfania
 peo: Hen Bersieg
 pfl: Almaeneg Palatin
@@ -346,7 +386,7 @@ ro: Rwmaneg
 ro_MD: Moldofeg
 rof: Rombo
 rom: Romani
-root: y Gwraidd
+root: Y Gwraidd
 rtm: Rotumaneg
 ru: Rwseg
 rup: Aromaneg
@@ -354,7 +394,7 @@ rw: "Ciniar\u0175andeg"
 rwk: Rwa
 sa: Sansgrit
 sad: "Sand\xE4weg"
-sah: Iacwteg
+sah: Sakha
 sam: Aramaeg Samaria
 saq: "Samb\u0175rw"
 sas: Sasaceg
@@ -378,6 +418,7 @@ sga: Hen Wyddeleg
 sgs: Samogiteg
 sh: Serbo-Croateg
 shi: Tachelhit
+shn: Shan
 shu: Arabeg Chad
 si: Sinhaleg
 sid: Sidamo
@@ -395,9 +436,11 @@ so: Somaleg
 sog: Sogdeg
 sq: Albaneg
 sr: Serbeg
+srn: Sranan Tongo
 srr: Serereg
 ss: Swati
-st: Sesotheg
+ssy: Saho
+st: Sesotheg Deheuol
 stq: Ffriseg Saterland
 su: Swndaneg
 suk: Swcwma
@@ -405,8 +448,8 @@ sus: "Sws\u0175eg"
 sux: Swmereg
 sv: Swedeg
 sw: Swahili
+sw_CD: "Swahili\u2019r Congo"
 swb: Comoreg
-swc: "Swahili\u2019r Congo"
 syc: Hen Syrieg
 syr: Syrieg
 szl: Silesieg
@@ -443,6 +486,7 @@ tvl: Twfalweg
 tw: Twi
 twq: Tasawaq
 ty: "Tahit\xEFeg"
+tyv: Twfwnieg
 tzm: Tamaseit Canolbarth Moroco
 udm: Fotiaceg
 ug: Uighur
@@ -458,6 +502,7 @@ vec: Feniseg
 vep: Feps
 vi: Fietnameg
 vls: Fflemeg Gorllewinol
+vo: "Folap\xFCk"
 vot: Foteg
 vun: Funjo
 wa: Walwneg
@@ -470,6 +515,7 @@ wo: Woloff
 xal: Calmyceg
 xh: Xhosa
 xog: Soga
+yav: Iangben
 ybb: Iembaeg
 yi: Iddew-Almaeneg
 yo: Iorwba

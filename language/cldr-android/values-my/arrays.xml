@@ -2,49 +2,83 @@
 <resources>
   <!-- Burmese (my) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>အာဖာ</item>
     <!-- ab - Abkhazian -->
-    <item>အဘ်ခါဇီရန်</item>
+    <item>အဘ်ခါဇီရာ</item>
+    <!-- ace - Achinese -->
+    <item>အာချေး</item>
+    <!-- ada - Adangme -->
+    <item>ဒန်မဲ</item>
+    <!-- ady - Adyghe -->
+    <item>အဒိုင်ဂီ</item>
     <!-- af - Afrikaans -->
-    <item>အာဖရိကန်းစ်</item>
+    <item>တောင်အာဖရိက</item>
     <!-- agq - Aghem -->
     <item>အာဂ်ဟိန်း</item>
+    <!-- ain - Ainu -->
+    <item>အိန်နု</item>
     <!-- ak - Akan -->
-    <item>အာကိန်</item>
+    <item>အာကန်</item>
+    <!-- ale - Aleut -->
+    <item>အာလီယု</item>
+    <!-- alt - Southern Altai -->
+    <item>တောင် အာလ်တိုင်း</item>
     <!-- am - Amharic -->
-    <item>အန်ဟာရစျချ</item>
+    <item>အမ်ဟာရစ်ခ်</item>
+    <!-- an - Aragonese -->
+    <item>အာရာဂွန်</item>
     <!-- ang - Old English -->
-    <item>အင်္ဂလိပ်စာဟောင်း</item>
+    <item>အင်ဂလို ဆက္ကစွန်</item>
+    <!-- anp - Angika -->
+    <item>အန်ဂီကာ</item>
     <!-- ar - Arabic -->
-    <item>အာရေဗီ</item>
-    <!-- ar_001 - Modern Standard Arabic -->
-    <item>အရေဗီ(ပုံမှန်)</item>
+    <item>အာရဗီ</item>
     <!-- arn - Mapuche -->
     <item>မာပုချီ</item>
+    <!-- arp - Arapaho -->
+    <item>အာရာပါဟို</item>
     <!-- as - Assamese -->
-    <item>အက္စမီစ်</item>
+    <item>အာသံ</item>
     <!-- asa - Asu -->
     <item>အာစု</item>
+    <!-- ast - Asturian -->
+    <item>အက်စတူရီယန်း</item>
+    <!-- av - Avaric -->
+    <item>အာဗာရစ်ခ်</item>
+    <!-- awa - Awadhi -->
+    <item>အာဝါဒီ</item>
+    <!-- ay - Aymara -->
+    <item>အိုင်မာရ</item>
     <!-- az - Azerbaijani -->
-    <item>အော်ဇောဘိုင်ဂျောနီ</item>
+    <item>အဇာဘိုင်ဂျန်</item>
     <!-- ba - Bashkir -->
-    <item>ဘက်ရှ်ကီအာ</item>
+    <item>ဘက်ရှ်ကာ</item>
     <!-- ban - Balinese -->
     <item>ဘာလီ</item>
     <!-- bas - Basaa -->
     <item>ဘာဆာ</item>
     <!-- be - Belarusian -->
-    <item>ဘီလာရု</item>
+    <item>ဘီလာရုဇ်</item>
     <!-- bem - Bemba -->
     <item>ဘိန်ဘာ</item>
     <!-- bez - Bena -->
     <item>ဘီနာ</item>
     <!-- bg - Bulgarian -->
-    <item>ဘူဂေးရီးယား</item>
+    <item>ဘူလ်ဂေးရီးယား</item>
     <!-- bgn - Western Balochi -->
-    <item>အနောက်ပိုင်းဘဲလိုချီ</item>
+    <item>အနောက် ဘဲလိုချီ</item>
+    <!-- bho - Bhojpuri -->
+    <item>ဘို့ဂျ်ပူရီ</item>
+    <!-- bi - Bislama -->
+    <item>ဘစ်စ်လာမာ</item>
+    <!-- bin - Bini -->
+    <item>ဘီနီ</item>
+    <!-- bla - Siksika -->
+    <item>စစ္စီကာ</item>
     <!-- bm - Bambara -->
     <item>ဘန်ဘာရာ</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>ဘင်္ဂါလီ</item>
     <!-- bo - Tibetan -->
     <item>တိဘက်</item>
@@ -54,22 +88,42 @@
     <item>ဗိုဒို</item>
     <!-- bs - Bosnian -->
     <item>ဘော့စ်နီးယား</item>
+    <!-- bug - Buginese -->
+    <item>ဘူဂစ်စ်</item>
+    <!-- byn - Blin -->
+    <item>ဘလင်</item>
     <!-- ca - Catalan -->
-    <item>ကာတာလန်</item>
+    <item>ကတ်တလန်</item>
     <!-- ce - Chechen -->
-    <item>ချေချင်း</item>
+    <item>ချက်ချန်း</item>
+    <!-- ceb - Cebuano -->
+    <item>စီဗူအာနို</item>
     <!-- cgg - Chiga -->
     <item>ချီဂါ</item>
+    <!-- ch - Chamorro -->
+    <item>ချမိုရို</item>
+    <!-- chk - Chuukese -->
+    <item>ချူကီးစ်</item>
+    <!-- chm - Mari -->
+    <item>မာရီ</item>
+    <!-- cho - Choctaw -->
+    <item>ချော့တို</item>
     <!-- chr - Cherokee -->
     <item>ချာရိုကီ</item>
+    <!-- chy - Cheyenne -->
+    <item>ချေယန်း</item>
     <!-- ckb - Central Kurdish -->
-    <item>ဆိုရာနီ ကူဒစ်ရှ်</item>
+    <item>ဆိုရာနီ</item>
     <!-- co - Corsican -->
     <item>ခိုစီကန်</item>
     <!-- cr - Cree -->
     <item>ခရီး</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>ခရီအိုလီ</item>
     <!-- cs - Czech -->
     <item>ချက်</item>
+    <!-- cu - Church Slavic -->
+    <item>ချပ်ချ် စလာဗစ်</item>
     <!-- cv - Chuvash -->
     <item>ချူဗက်ရှ်</item>
     <!-- cy - Welsh -->
@@ -78,34 +132,46 @@
     <item>ဒိန်းမတ်</item>
     <!-- dak - Dakota -->
     <item>ဒါကိုတာ</item>
+    <!-- dar - Dargwa -->
+    <item>ဒါဂ်ဝါ</item>
     <!-- dav - Taita -->
     <item>တိုင်တာ</item>
     <!-- de - German -->
     <item>ဂျာမန်</item>
     <!-- de_AT - Austrian German -->
-    <item>ဩစတြီးယ ဂျာမန်</item>
+    <item>ဩစတြီးယား ဂျာမန်</item>
     <!-- de_CH - Swiss High German -->
-    <item>ဆွစ် အမြင့် ဂျာမန်</item>
+    <item>အလီမဲန်နစ် ဂျာမန်</item>
     <!-- del - Delaware -->
-    <item>ဒီလာဝဲ</item>
+    <item>ဒယ်လာဝဲလ်</item>
+    <!-- dgr - Dogrib -->
+    <item>ဒေါ့ဂ်ရစ်ဘ်</item>
     <!-- dje - Zarma -->
     <item>ဇာမာ</item>
     <!-- dsb - Lower Sorbian -->
-    <item>အောက်ဆိုဘီအမ်</item>
+    <item>အနိမ့် ဆိုဘီယန်း</item>
     <!-- dua - Duala -->
     <item>ဒူအလာ</item>
     <!-- dum - Middle Dutch -->
     <item>အလယ်ပိုင်း ဒတ်ချ်</item>
+    <!-- dv - Divehi -->
+    <item>ဒီဗာဟီ</item>
     <!-- dyo - Jola-Fonyi -->
     <item>ဂျိုလာ-ဖွန်ရီ</item>
     <!-- dz - Dzongkha -->
-    <item>ဒွန်ကာ</item>
+    <item>ဒဇွန်ကာ</item>
+    <!-- dzg - Dazaga -->
+    <item>ဒဇာဂါ</item>
     <!-- ebu - Embu -->
     <item>အမ်ဘူ</item>
     <!-- ee - Ewe -->
-    <item>ဝီ</item>
+    <item>အီဝီ</item>
+    <!-- efi - Efik -->
+    <item>အာဖိခ်</item>
     <!-- egy - Ancient Egyptian -->
     <item>ရှေးဟောင်း အီဂျစ်</item>
+    <!-- eka - Ekajuk -->
+    <item>အီကာဂျုခ်</item>
     <!-- el - Greek -->
     <item>ဂရိ</item>
     <!-- en - English -->
@@ -121,27 +187,31 @@
     <!-- enm - Middle English -->
     <item>အလယ်ပိုင်း အင်္ဂလိပ်</item>
     <!-- eo - Esperanto -->
-    <item>အက္စပရန္တို</item>
+    <item>အက်စ်ပရန်တို</item>
     <!-- es - Spanish -->
     <item>စပိန်</item>
-    <!-- es_419 - Latin American Spanish -->
-    <item>လက်တင်အမေရိက စပိန်</item>
     <!-- es_ES - European Spanish -->
-    <item>စပိန်(ဥရောပ)</item>
+    <item>စပိန် (ဥရောပ)</item>
     <!-- et - Estonian -->
-    <item>အက်စ်တိုးနီးရန်း</item>
+    <item>အက်စ်တိုးနီးယား</item>
     <!-- eu - Basque -->
-    <item>ဘစ်က္ကီ</item>
+    <item>ဘာစ်ခ်</item>
+    <!-- ewo - Ewondo -->
+    <item>အီဝန်ဒို</item>
     <!-- fa - Persian -->
     <item>ပါရှန်</item>
+    <!-- ff - Fulah -->
+    <item>ဖူလာ</item>
     <!-- fi - Finnish -->
-    <item>ဖင်နစ်ရှ်</item>
+    <item>ဖင်လန်</item>
     <!-- fil - Filipino -->
-    <item>ဖိလစ်ပီနို</item>
+    <item>ဖိလစ်ပိုင်</item>
     <!-- fj - Fijian -->
     <item>ဖီဂျီ</item>
     <!-- fo - Faroese -->
-    <item>ဖာရိုအိစ်</item>
+    <item>ဖာရို</item>
+    <!-- fon - Fon -->
+    <item>ဖော်န်</item>
     <!-- fr - French -->
     <item>ပြင်သစ်</item>
     <!-- fr_CA - Canadian French -->
@@ -149,25 +219,37 @@
     <!-- fr_CH - Swiss French -->
     <item>ဆွစ် ပြင်သစ်</item>
     <!-- frm - Middle French -->
-    <item>အလယ်ပိုင်းပြင်သစ်</item>
+    <item>အလယ်ပိုင်း ပြင်သစ်</item>
     <!-- fro - Old French -->
-    <item>ပြင်သစ်ဟောင်း</item>
+    <item>ဖရန်စီစ်</item>
     <!-- frr - Northern Frisian -->
-    <item>မြောက်ပိုင်း ဖရီစီရန်</item>
+    <item>မြောက် ဖရီစီရန်</item>
     <!-- frs - Eastern Frisian -->
-    <item>အရှေ့ပိုင်း ဖရီစီရန်</item>
+    <item>အရှေ့ ဖရီစီရန်</item>
+    <!-- fur - Friulian -->
+    <item>ဖရူလီယန်း</item>
     <!-- fy - Western Frisian -->
-    <item>အနောက်ပိုင်း ဖရီစီရန်</item>
+    <item>အနောက် ဖရီစီရန်</item>
     <!-- ga - Irish -->
-    <item>အိုင်းရစ်</item>
+    <item>အိုင်းရစ်ရှ်</item>
+    <!-- gaa - Ga -->
+    <item>ဂါ</item>
     <!-- gag - Gagauz -->
-    <item>ဂါဂါဇ်</item>
+    <item>ဂါဂုဇ်</item>
+    <!-- gd - Scottish Gaelic -->
+    <item>စကော့တစ်ရှ် ဂေးလစ်ခ်</item>
+    <!-- gez - Geez -->
+    <item>ဂီးဇ်</item>
+    <!-- gil - Gilbertese -->
+    <item>ကာရီဗာတီ</item>
     <!-- gl - Galician -->
-    <item>ဂါလာစီယံ</item>
+    <item>ဂါလီစီယာ</item>
     <!-- gmh - Middle High German -->
-    <item>အလယ်ပိုင်းအမြင့်ဂျာမန်</item>
+    <item>အလယ်ပိုင်း အမြင့် ဂျာမန်</item>
     <!-- gn - Guarani -->
     <item>ဂူအာရာနီ</item>
+    <!-- gor - Gorontalo -->
+    <item>ဂိုရိုတာလို</item>
     <!-- grc - Ancient Greek -->
     <item>ရှေးဟောင်း ဂရိ</item>
     <!-- gsw - Swiss German -->
@@ -178,38 +260,62 @@
     <item>ဂူစီး</item>
     <!-- gv - Manx -->
     <item>မန်းဇ်</item>
+    <!-- gwi - Gwichʼin -->
+    <item>ဂွစ်ချင်</item>
     <!-- ha - Hausa -->
     <item>ဟာဥစာ</item>
     <!-- haw - Hawaiian -->
-    <item>ဟာဝေယံ</item>
+    <item>ဟာဝိုင်ယီ</item>
     <!-- he - Hebrew -->
     <item>ဟီးဘရူး</item>
     <!-- hi - Hindi -->
-    <item>ဟိန္ဒီ</item>
+    <item>ဟိန္ဒူ</item>
+    <!-- hil - Hiligaynon -->
+    <item>ဟီလီဂေနွန်</item>
+    <!-- hmn - Hmong -->
+    <item>မုံ</item>
     <!-- hr - Croatian -->
-    <item>ခရိုအေရှန်</item>
+    <item>ခရိုအေးရှား</item>
     <!-- hsb - Upper Sorbian -->
-    <item>အပေါ်ဆိုဘီအမ်</item>
+    <item>ဆက္ကဆိုနီ</item>
     <!-- ht - Haitian Creole -->
-    <item>ဟာအီတီအန်</item>
+    <item>ဟေတီ</item>
     <!-- hu - Hungarian -->
     <item>ဟန်ဂေရီ</item>
+    <!-- hup - Hupa -->
+    <item>ဟူပါ</item>
     <!-- hy - Armenian -->
-    <item>အာမေနီအန်</item>
+    <item>အာမေးနီးယား</item>
+    <!-- hz - Herero -->
+    <item>ဟီရဲရို</item>
+    <!-- ia - Interlingua -->
+    <item>အင်တာလင်ဂွါ</item>
+    <!-- iba - Iban -->
+    <item>အီဗန်</item>
+    <!-- ibb - Ibibio -->
+    <item>အီဘီဘီယို</item>
     <!-- id - Indonesian -->
     <item>အင်ဒိုနီးရှား</item>
     <!-- ig - Igbo -->
     <item>အစ္ဂဘို</item>
     <!-- ii - Sichuan Yi -->
     <item>စီချွမ် ရီ</item>
+    <!-- ilo - Iloko -->
+    <item>အီလိုကို</item>
+    <!-- inh - Ingush -->
+    <item>အင်ဂုရှ်</item>
+    <!-- io - Ido -->
+    <item>အီဒို</item>
     <!-- is - Icelandic -->
-    <item>အိုင်စ်လန္ဒီ</item>
+    <item>အိုက်စ်လန်</item>
     <!-- it - Italian -->
     <item>အီတလီ</item>
     <!-- iu - Inuktitut -->
     <item>အီနုခ်တီတု</item>
     <!-- ja - Japanese -->
     <item>ဂျပန်</item>
+    <!-- jbo - Lojban -->
+    <item>လိုဂျ်ဘန်</item>
     <!-- jgo - Ngomba -->
     <item>ဂွမ်ဘာ</item>
     <!-- jmc - Machame -->
@@ -217,165 +323,277 @@
     <!-- jpr - Judeo-Persian -->
     <item>ဂျူဒီယို-ပါရှန်</item>
     <!-- jrb - Judeo-Arabic -->
-    <item>ဂျူဒီယို-အာရေဗျ</item>
+    <item>ဂျူဒီယို-အာရဗီ</item>
     <!-- jv - Javanese -->
-    <item>ဂျာဗားနီးစ်</item>
+    <item>ဂျာဗား</item>
     <!-- ka - Georgian -->
-    <item>ဂျော်ဂျီယန်</item>
+    <item>ဂျော်ဂျီယာ</item>
     <!-- kab - Kabyle -->
-    <item>ခဘိုင်လ်</item>
+    <item>ကဘိုင်လ်</item>
     <!-- kac - Kachin -->
     <item>ကချင်</item>
+    <!-- kaj - Jju -->
+    <item>ဂျူအူ</item>
     <!-- kam - Kamba -->
-    <item>ခမ်ဘာ</item>
+    <item>ကမ်ဘာ</item>
+    <!-- kbd - Kabardian -->
+    <item>ကဘာဒင်</item>
+    <!-- kcg - Tyap -->
+    <item>တိုင်အပ်</item>
     <!-- kde - Makonde -->
     <item>မာခွန်ဒီ</item>
     <!-- kea - Kabuverdianu -->
-    <item>ခဘူဗာဒီအာနူ</item>
+    <item>ကဘူဗာဒီအာနူ</item>
+    <!-- kfo - Koro -->
+    <item>ကိုရို</item>
     <!-- kg - Kongo -->
     <item>ကွန်ဂို</item>
     <!-- kha - Khasi -->
     <item>ခါစီ</item>
     <!-- khq - Koyra Chiini -->
-    <item>ခိုရာ ချီအီနီ</item>
+    <item>ကိုရာ ချီအီနီ</item>
     <!-- ki - Kikuyu -->
-    <item>ခီခူယူ</item>
+    <item>ကီကူယူ</item>
+    <!-- kj - Kuanyama -->
+    <item>ကွန်းယာမာ</item>
     <!-- kk - Kazakh -->
-    <item>ခါဇါခ်</item>
+    <item>ကာဇာခ်</item>
+    <!-- kkj - Kako -->
+    <item>ကကို</item>
     <!-- kl - Kalaallisut -->
-    <item>ခလာအ်လီဆပ်</item>
+    <item>ကလာအ်လီဆပ်</item>
     <!-- kln - Kalenjin -->
-    <item>ခါလိမ်ဂျင်</item>
+    <item>ကလန်ဂျင်</item>
     <!-- km - Khmer -->
     <item>ခမာ</item>
+    <!-- kmb - Kimbundu -->
+    <item>ကင်ဘွန်ဒူ</item>
     <!-- kn - Kannada -->
     <item>ကန္နာဒါ</item>
     <!-- ko - Korean -->
-    <item>ကိုးရီးယား</item>
+    <item>ကိုရီးယား</item>
     <!-- koi - Komi-Permyak -->
     <item>ကိုမီ-ပါမြက်</item>
     <!-- kok - Konkani -->
     <item>ကွန်ကနီ</item>
+    <!-- kpe - Kpelle -->
+    <item>ကပ်ပဲလ်</item>
+    <!-- kr - Kanuri -->
+    <item>ကနူရီ</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>ကရာချေး-ဘာကာ</item>
+    <!-- krl - Karelian -->
+    <item>ကာရီလီယန်</item>
+    <!-- kru - Kurukh -->
+    <item>ကူရုပ်ခ်</item>
     <!-- ks - Kashmiri -->
-    <item>ကက်ရှ်မီရီ</item>
+    <item>ကက်ရှ်မီးယား</item>
     <!-- ksb - Shambala -->
     <item>ရှန်ဘာလာ</item>
     <!-- ksf - Bafia -->
     <item>ဘာဖီအာ</item>
+    <!-- ksh - Colognian -->
+    <item>ကိုလိုနီယန်း</item>
     <!-- ku - Kurdish -->
     <item>ကဒ်</item>
+    <!-- kum - Kumyk -->
+    <item>ကွမ်မိုက်</item>
+    <!-- kv - Komi -->
+    <item>ကိုမီ</item>
     <!-- kw - Cornish -->
     <item>ခိုနီရှ်</item>
     <!-- ky - Kyrgyz -->
-    <item>ခရူဂစ်</item>
+    <item>ကာဂျစ်</item>
     <!-- la - Latin -->
     <item>လက်တင်</item>
+    <!-- lad - Ladino -->
+    <item>လာဒီနို</item>
     <!-- lag - Langi -->
     <item>လန်ဂီ</item>
     <!-- lb - Luxembourgish -->
-    <item>လူဇင်ဘတ်က်</item>
+    <item>လူဇင်ဘတ်</item>
+    <!-- lez - Lezghian -->
+    <item>လက်ဇ်ဂီးယား</item>
     <!-- lg - Ganda -->
-    <item>ဂန်ဒီ</item>
+    <item>ဂန်ဒါ</item>
+    <!-- li - Limburgish -->
+    <item>လင်ဘာဂစ်ရှ်</item>
     <!-- lkt - Lakota -->
     <item>လာကိုတာ</item>
     <!-- ln - Lingala -->
     <item>လင်ဂါလာ</item>
     <!-- lo - Lao -->
     <item>လာအို</item>
+    <!-- loz - Lozi -->
+    <item>လိုဇီ</item>
     <!-- lrc - Northern Luri -->
     <item>မြောက်လူရီ</item>
     <!-- lt - Lithuanian -->
-    <item>လစ္သူအာနီယံ</item>
+    <item>လစ်သူဝေးနီးယား</item>
     <!-- lu - Luba-Katanga -->
-    <item>လူဘာ-ခါတန်ဂါ</item>
+    <item>လူဘာ-ကတန်ဂါ</item>
+    <!-- lua - Luba-Lulua -->
+    <item>လူဘာ-လူလူအာ</item>
+    <!-- lun - Lunda -->
+    <item>လွန်ဒါ</item>
     <!-- luo - Luo -->
     <item>လူအို</item>
+    <!-- lus - Mizo -->
+    <item>မီဇို</item>
     <!-- luy - Luyia -->
     <item>လူရီအာ</item>
     <!-- lv - Latvian -->
-    <item>လက္ဘီအံ</item>
+    <item>လတ်ဗီးယား</item>
+    <!-- mad - Madurese -->
+    <item>မဒူရာ</item>
+    <!-- mag - Magahi -->
+    <item>မဂါဟီ</item>
+    <!-- mai - Maithili -->
+    <item>မိုင်သီလီ</item>
+    <!-- mak - Makasar -->
+    <item>မကာဆာ</item>
     <!-- mas - Masai -->
     <item>မာဆိုင်</item>
+    <!-- mdf - Moksha -->
+    <item>မို့ခ်ရှာ</item>
+    <!-- men - Mende -->
+    <item>မန်ဒဲ</item>
     <!-- mer - Meru -->
     <item>မီရု</item>
     <!-- mfe - Morisyen -->
-    <item>မိုရှီစ်ယန်း</item>
+    <item>မောရစ်ရှ</item>
     <!-- mg - Malagasy -->
-    <item>အာလာဂါစီ</item>
+    <item>မာလဂက်စီ</item>
     <!-- mga - Middle Irish -->
-    <item>အလယ်ပိုင်း အိုင်းရစ်</item>
+    <item>အလယ်ပိုင်း အိုင်းရစ်ရှ်</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>မာခူဝါ-မီအီတို</item>
     <!-- mgo - Metaʼ -->
     <item>မီတာ</item>
+    <!-- mh - Marshallese -->
+    <item>မာရှယ်လိဇ်</item>
     <!-- mi - Maori -->
-    <item>မောင်းရီ (နယူးဇီလန်ကျွန်းရှိ ပင်ရင်းတိုင်းရင်းသားလူမျိုး)</item>
+    <item>မာအိုရီ</item>
+    <!-- mic - Mi'kmaq -->
+    <item>မစ်ခ်မက်ခ်</item>
+    <!-- min - Minangkabau -->
+    <item>စူကူမီနန်</item>
     <!-- mk - Macedonian -->
-    <item>မာစီဒိုနီယံ</item>
+    <item>မက်စီဒိုးနီးယား</item>
     <!-- ml - Malayalam -->
     <item>မလေးရာလမ်</item>
     <!-- mn - Mongolian -->
-    <item>မွန်ဂိုလီးယန်း</item>
+    <item>မွန်ဂိုလီးယား</item>
     <!-- mnc - Manchu -->
     <item>မန်ချူး</item>
     <!-- mni - Manipuri -->
-    <item>မနိပူရီ</item>
+    <item>မနိပူရ</item>
     <!-- moh - Mohawk -->
     <item>မိုဟော့ခ်</item>
+    <!-- mos - Mossi -->
+    <item>မိုစီ</item>
     <!-- mr - Marathi -->
     <item>မာရသီ</item>
     <!-- ms - Malay -->
     <item>မလေး</item>
     <!-- mt - Maltese -->
-    <item>မောလ္တီစ်</item>
+    <item>မော်လ်တာ</item>
     <!-- mua - Mundang -->
-    <item>မန်ဒန်း</item>
-    <!-- mul - Multiple Languages -->
-    <item>အကြိမ်များစွာ ဘာသာစကားများ</item>
+    <item>မွန်ဒန်း</item>
+    <!-- mul - Multiple languages -->
+    <item>ဘာသာစကား အမျိုးမျိုး</item>
+    <!-- mus - Creek -->
+    <item>ခရိခ်</item>
+    <!-- mwl - Mirandese -->
+    <item>မီရန်ဒီးဇ်</item>
     <!-- my - Burmese -->
-    <item>ဗမာ</item>
+    <item>မြန်မာ</item>
+    <!-- myv - Erzya -->
+    <item>အီဇယာ</item>
     <!-- mzn - Mazanderani -->
     <item>မာဇန်ဒါရန်နီ</item>
+    <!-- na - Nauru -->
+    <item>နော်ရူး</item>
+    <!-- nap - Neapolitan -->
+    <item>နပိုလီတန်</item>
     <!-- naq - Nama -->
     <item>နာမာ</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>ဘွတ်မော်လ်</item>
+    <item>နော်ဝေး ဘွတ်ခ်မော်လ်</item>
     <!-- nd - North Ndebele -->
-    <item>တောင်ဒီဘီလီ</item>
+    <item>တောင် အွန်န်ဒီဘီလီ</item>
     <!-- nds - Low German -->
     <item>အနိမ့် ဂျာမန်</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>ဂျာမန် (နယ်သာလန်)</item>
     <!-- ne - Nepali -->
-    <item>နီပါလီ</item>
+    <item>နီပေါ</item>
+    <!-- new - Newari -->
+    <item>နီဝါရီ</item>
+    <!-- ng - Ndonga -->
+    <item>အွန်ဒွန်ဂါ</item>
+    <!-- nia - Nias -->
+    <item>နီးရပ်စ်</item>
+    <!-- niu - Niuean -->
+    <item>နူအဲယန်း</item>
     <!-- nl - Dutch -->
     <item>ဒတ်ချ်</item>
     <!-- nl_BE - Flemish -->
     <item>ဖလီမစ်ရှ်</item>
     <!-- nmg - Kwasio -->
-    <item>ဝါဆီအို</item>
+    <item>ကွာစီအို</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>နော်ဝေး နီးနော်စ်ခ်</item>
+    <item>နော်ဝေး နီးနောစ်</item>
+    <!-- nnh - Ngiemboon -->
+    <item>အွန်ရဲဘွန်း</item>
     <!-- no - Norwegian -->
     <item>နော်ဝေး</item>
+    <!-- nog - Nogai -->
+    <item>နိုဂိုင်</item>
     <!-- nqo - N’Ko -->
-    <item>နကို</item>
+    <item>အွန်ကို</item>
+    <!-- nr - South Ndebele -->
+    <item>တောင် အွန်န်ဘီလီ</item>
+    <!-- nso - Northern Sotho -->
+    <item>မြောက် ဆိုသို</item>
     <!-- nus - Nuer -->
     <item>နူအာ</item>
+    <!-- nv - Navajo -->
+    <item>နာဗာဟို</item>
+    <!-- ny - Nyanja -->
+    <item>နရန်ဂျာ</item>
     <!-- nyn - Nyankole -->
-    <item>ယန်ကိုလီ</item>
+    <item>နရန်ကိုလီ</item>
+    <!-- oc - Occitan -->
+    <item>အိုစီတန်</item>
     <!-- om - Oromo -->
     <item>အိုရိုမို</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>အိုရီရာ</item>
+    <!-- os - Ossetic -->
+    <item>အိုဆဲတစ်ခ်</item>
     <!-- pa - Punjabi -->
     <item>ပန်ချာပီ</item>
+    <!-- pag - Pangasinan -->
+    <item>ပန်ဂါစီနန်</item>
+    <!-- pam - Pampanga -->
+    <item>ပမ်ပန်ညာ</item>
+    <!-- pap - Papiamento -->
+    <item>ပါပီမင်တို</item>
+    <!-- pau - Palauan -->
+    <item>ပလာအို</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>နိုင်ဂျီးရီးယား ပစ်ဂျင်</item>
     <!-- peo - Old Persian -->
     <item>ပါရှန် အဟောင်း</item>
     <!-- pi - Pali -->
     <item>ပါဠိ</item>
     <!-- pl - Polish -->
     <item>ပိုလန်</item>
+    <!-- prg - Prussian -->
+    <item>ပရူရှန်</item>
     <!-- ps - Pashto -->
-    <item>ပါရှ်တို</item>
+    <item>ပက်ရှ်တွန်း</item>
     <!-- pt - Portuguese -->
     <item>ပေါ်တူဂီ</item>
     <!-- pt_BR - Brazilian Portuguese -->
@@ -383,43 +601,63 @@
     <!-- pt_PT - European Portuguese -->
     <item>ဥရောပ ပေါ်တူဂီ</item>
     <!-- qu - Quechua -->
-    <item>ခက်ချ်ဝါ</item>
+    <item>ခီချူဝါအိုဝါ</item>
     <!-- quc - Kʼicheʼ -->
-    <item>ခီခ်အီချီ</item>
+    <item>ကီခ်အီချီ</item>
+    <!-- rap - Rapanui -->
+    <item>ရပန်နူအီ</item>
+    <!-- rar - Rarotongan -->
+    <item>ရရိုတွန်ဂန်</item>
     <!-- rm - Romansh -->
     <item>ရောမ</item>
     <!-- rn - Rundi -->
     <item>ရွန်ဒီ</item>
     <!-- ro - Romanian -->
     <item>ရိုမေနီယား</item>
+    <!-- ro_MD - Moldavian -->
+    <item>မော်လဒိုဗာ</item>
     <!-- rof - Rombo -->
     <item>ရွမ်ဘို</item>
     <!-- root - Root -->
     <item>မူလရင်းမြစ်</item>
     <!-- ru - Russian -->
     <item>ရုရှ</item>
+    <!-- rup - Aromanian -->
+    <item>အာရိုမန်းနီးယန်း</item>
     <!-- rw - Kinyarwanda -->
     <item>ကင်ရာဝန်ဒါ</item>
     <!-- rwk - Rwa -->
-    <item>ဝါ</item>
+    <item>ရူဝမ်</item>
     <!-- sa - Sanskrit -->
     <item>သင်္သကရိုက်</item>
+    <!-- sad - Sandawe -->
+    <item>ဆန်ဒါဝီ</item>
+    <!-- sah - Sakha -->
+    <item>ဆခါ</item>
     <!-- saq - Samburu -->
-    <item>ဆန်ဘူရု</item>
+    <item>ဆမ်ဘူရူ</item>
+    <!-- sat - Santali -->
+    <item>ဆန်တာလီ</item>
+    <!-- sba - Ngambay -->
+    <item>အွန်ဂမ်းဘေး</item>
     <!-- sbp - Sangu -->
     <item>ဆန်ဂု</item>
+    <!-- sc - Sardinian -->
+    <item>ဆာဒီနီးယား</item>
+    <!-- scn - Sicilian -->
+    <item>စစ္စလီ</item>
     <!-- sco - Scots -->
-    <item>စကော့</item>
+    <item>စကော့တ်</item>
     <!-- sd - Sindhi -->
     <item>စင်ဒီ</item>
     <!-- se - Northern Sami -->
-    <item>တောင်ဆာမိ</item>
+    <item>မြောက် ဆာမိ</item>
     <!-- seh - Sena -->
     <item>စီနာ</item>
     <!-- ses - Koyraboro Senni -->
-    <item>ခိုရာဘိုရို ဆမ်နီ</item>
+    <item>ကိုရာဘိုရို ဆမ်နီ</item>
     <!-- sg - Sango -->
-    <item>ဆမ်ဂို</item>
+    <item>ဆန်ဂို</item>
     <!-- sga - Old Irish -->
     <item>အိုင်းရစ် ဟောင်း</item>
     <!-- shi - Tachelhit -->
@@ -427,94 +665,164 @@
     <!-- shn - Shan -->
     <item>ရှမ်း</item>
     <!-- si - Sinhala -->
-    <item>ဆင်ဟာလ</item>
+    <item>စင်ဟာလာ</item>
     <!-- sk - Slovak -->
     <item>စလိုဗက်</item>
     <!-- sl - Slovenian -->
-    <item>စလိုဗေးနီးယမ်း</item>
+    <item>စလိုဗေးနီးယား</item>
+    <!-- sm - Samoan -->
+    <item>ဆမိုအာ</item>
     <!-- sma - Southern Sami -->
-    <item>တောင်ပိုင်း ဆာမိ</item>
+    <item>တောင် ဆာမိ</item>
     <!-- smj - Lule Sami -->
     <item>လူလီ ဆာမိ</item>
     <!-- smn - Inari Sami -->
     <item>အီနာရီ ဆာမိ</item>
     <!-- sms - Skolt Sami -->
-    <item>ခိုလ် ဆာမိ</item>
+    <item>စခိုးလ် ဆမ်မီ</item>
     <!-- sn - Shona -->
-    <item>ရှိနာ</item>
+    <item>ရှိုနာ</item>
+    <!-- snk - Soninke -->
+    <item>ဆိုနင်ကေး</item>
     <!-- so - Somali -->
     <item>ဆိုမာလီ</item>
     <!-- sq - Albanian -->
-    <item>အယ်လ်ဘေးနီးယန်း</item>
+    <item>အယ်လ်ဘေးနီးယား</item>
     <!-- sr - Serbian -->
-    <item>ဆားဗီးယန်း</item>
+    <item>ဆားဘီးယား</item>
+    <!-- srn - Sranan Tongo -->
+    <item>ဆရာနန် တွန်ဂို</item>
+    <!-- ss - Swati -->
+    <item>ဆွာဇီလန်</item>
+    <!-- ssy - Saho -->
+    <item>ဆာဟို</item>
+    <!-- st - Southern Sotho -->
+    <item>တောင်ပိုင်း ဆိုသို</item>
+    <!-- su - Sundanese -->
+    <item>ဆူဒန်</item>
+    <!-- suk - Sukuma -->
+    <item>ဆူကူမာ</item>
     <!-- sv - Swedish -->
     <item>ဆွီဒင်</item>
     <!-- sw - Swahili -->
-    <item>ဆြာဟီလီ</item>
-    <!-- swc - Congo Swahili -->
-    <item>ခွန်ဂို စွာဟီလီ</item>
+    <item>ဆွာဟီလီ</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>ကွန်ဂို ဆွာဟီလီ</item>
+    <!-- swb - Comorian -->
+    <item>ကိုမိုရီးယန်း</item>
+    <!-- syr - Syriac -->
+    <item>ဆီးရီးယား</item>
     <!-- ta - Tamil -->
     <item>တမီးလ်</item>
     <!-- te - Telugu -->
-    <item>တီလီဂု</item>
+    <item>တီလီဂူ</item>
+    <!-- tem - Timne -->
+    <item>တင်မ်နဲ</item>
     <!-- teo - Teso -->
     <item>တီဆို</item>
+    <!-- tet - Tetum -->
+    <item>တီတွမ်</item>
     <!-- tg - Tajik -->
     <item>တာဂျစ်</item>
     <!-- th - Thai -->
     <item>ထိုင်း</item>
     <!-- ti - Tigrinya -->
     <item>တီဂ်ရင်ရာ</item>
+    <!-- tig - Tigre -->
+    <item>တီဂရီ</item>
     <!-- tk - Turkmen -->
-    <item>တခ္မင်</item>
+    <item>တာ့ခ်မင်နစ္စတန်</item>
+    <!-- tlh - Klingon -->
+    <item>ကလင်ဂွန်</item>
+    <!-- tn - Tswana -->
+    <item>တီဆဝါနာ</item>
     <!-- to - Tongan -->
     <item>တွန်ဂါ</item>
+    <!-- tpi - Tok Pisin -->
+    <item>တော့ခ် ပိစင်</item>
     <!-- tr - Turkish -->
-    <item>တာကစ်</item>
+    <item>တူရကီ</item>
+    <!-- trv - Taroko -->
+    <item>တရိုကို</item>
+    <!-- ts - Tsonga -->
+    <item>ဆွန်ဂါ</item>
     <!-- tt - Tatar -->
-    <item>တတာ</item>
+    <item>တာတာ</item>
+    <!-- tum - Tumbuka -->
+    <item>တမ်ဘူကာ</item>
+    <!-- tvl - Tuvalu -->
+    <item>တူဗာလူ</item>
     <!-- twq - Tasawaq -->
     <item>တာဆာဝါခ်</item>
+    <!-- ty - Tahitian -->
+    <item>တဟီတီ</item>
+    <!-- tyv - Tuvinian -->
+    <item>တူဗန်</item>
     <!-- tzm - Central Atlas Tamazight -->
-    <item>အလယ်အက်တ်လက်စ် တာမာဇိုက်</item>
+    <item>အလယ်အာ့တလာစ် တာမာဇိုက်</item>
+    <!-- udm - Udmurt -->
+    <item>အူမူရတ်</item>
     <!-- ug - Uyghur -->
     <item>ဝီဂါ</item>
     <!-- uk - Ukrainian -->
     <item>ယူကရိန်း</item>
-    <!-- und - Unknown Language -->
-    <item>မသိ သို့မဟုတ် မရှိ သော ဘာသာစကား</item>
+    <!-- umb - Umbundu -->
+    <item>အူဘန်ဒူ</item>
+    <!-- und - Unknown language -->
+    <item>မသိသော ဘာသာ</item>
     <!-- ur - Urdu -->
-    <item>အော်ဒူ</item>
+    <item>အူရ်ဒူ</item>
     <!-- uz - Uzbek -->
     <item>ဦးဇ်ဘက်</item>
     <!-- vai - Vai -->
     <item>ဗိုင်</item>
+    <!-- ve - Venda -->
+    <item>ဗင်န်ဒါ</item>
     <!-- vi - Vietnamese -->
     <item>ဗီယက်နမ်</item>
+    <!-- vo - Volapük -->
+    <item>ဗိုလာပိုက်</item>
     <!-- vun - Vunjo -->
-    <item>ဗန်ဂျို</item>
+    <item>ဗွန်ဂျို</item>
+    <!-- wa - Walloon -->
+    <item>ဝါလူးန်</item>
+    <!-- wae - Walser -->
+    <item>ဝေါလ်ဆာ</item>
+    <!-- wal - Wolaytta -->
+    <item>ဝိုလက်တာ</item>
+    <!-- war - Waray -->
+    <item>ဝါရေး</item>
     <!-- wbp - Warlpiri -->
-    <item>ဝေါလ်ပါရီ</item>
+    <item>ဝေါလ်ပီရီ</item>
     <!-- wo - Wolof -->
     <item>ဝူလိုဖ်</item>
+    <!-- xal - Kalmyk -->
+    <item>ကာလ်မိုက်</item>
     <!-- xh - Xhosa -->
     <item>ဇိုစာ</item>
     <!-- xog - Soga -->
     <item>ဆိုဂါ</item>
+    <!-- yav - Yangben -->
+    <item>ရန်ဘဲန်</item>
+    <!-- ybb - Yemba -->
+    <item>ရမ်ဘာ</item>
+    <!-- yi - Yiddish -->
+    <item>ဂျူး</item>
     <!-- yo - Yoruba -->
-    <item>ရိုရုဘာ</item>
+    <item>ယိုရူဘာ</item>
+    <!-- yue - Cantonese -->
+    <item>ကွမ်တုံ</item>
     <!-- zgh - Standard Moroccan Tamazight -->
-    <item>မိုရိုကန် တွမ်မဇိုတ် စံ</item>
+    <item>မိုရိုကို တမဇိုက်</item>
     <!-- zh - Chinese -->
     <item>တရုတ်</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>ရိုးရှင်းသော တရုတ်</item>
-    <!-- zh_Hant - Traditional Chinese -->
-    <item>ရှေးရိုးစဉ်လာ တရုတ်</item>
     <!-- zu - Zulu -->
-    <item>ဇူလူ</item>
+    <item>ဇူးလူး</item>
+    <!-- zun - Zuni -->
+    <item>ဇူနီ</item>
     <!-- zxx - No linguistic content -->
-    <item>ဘာသာစကား နှင့် ပတ်သက် သောအရာမရှိ</item>
+    <item>ဘာသာစကားနှင့် ပတ်သက်သောအရာ မရှိပါ</item>
+    <!-- zza - Zaza -->
+    <item>ဇာဇာ</item>
   </string-array>
 </resources>

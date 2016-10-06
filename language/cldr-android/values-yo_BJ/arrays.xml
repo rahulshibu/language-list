@@ -2,200 +2,20 @@
 <resources>
   <!-- yo_BJ -->
   <string-array name="languages_all">
-    <!-- af - Afrikaans -->
-    <item>Èdè Afrikani</item>
-    <!-- ak - Akan -->
-    <item>Èdè Akani</item>
-    <!-- am - Amharic -->
-    <item>Èdè Amariki</item>
-    <!-- ar - Arabic -->
-    <item>Èdè Arabiki</item>
-    <!-- as - Assamese -->
-    <item>Ti Assam</item>
-    <!-- az - Azerbaijani -->
-    <item>Èdè Azerbaijani</item>
-    <!-- be - Belarusian -->
-    <item>Èdè Belarusi</item>
-    <!-- bg - Bulgarian -->
-    <item>Èdè Bugaria</item>
-    <!-- bn - Bengali -->
-    <item>Èdè Bengali</item>
-    <!-- br - Breton -->
-    <item>Èdè Bretoni</item>
-    <!-- bs - Bosnian -->
-    <item>Èdè Bosnia</item>
-    <!-- ca - Catalan -->
-    <item>Èdè Catala</item>
-    <!-- cs - Czech -->
-    <item>Èdè seeki</item>
-    <!-- cy - Welsh -->
-    <item>Èdè Welshi</item>
     <!-- da - Danish -->
     <item>Èdè Ilɛ̀ Denmark</item>
     <!-- de - German -->
     <item>Èdè Ilɛ̀ Gemani</item>
-    <!-- el - Greek -->
-    <item>Èdè Giriki</item>
     <!-- en - English -->
     <item>Èdè Gɛ̀ɛ́sì</item>
-    <!-- eo - Esperanto -->
-    <item>Èdè Esperanto</item>
-    <!-- es - Spanish -->
-    <item>Èdè Sipanisi</item>
-    <!-- et - Estonian -->
-    <item>Èdè Estonia</item>
-    <!-- eu - Basque -->
-    <item>Èdè Baski</item>
-    <!-- fa - Persian -->
-    <item>Èdè Pasia</item>
-    <!-- fi - Finnish -->
-    <item>Èdè Finisi</item>
-    <!-- fil - Filipino -->
-    <item>Èdè Tagalogi</item>
-    <!-- fo - Faroese -->
-    <item>Èdè Faroesi</item>
-    <!-- fr - French -->
-    <item>Èdè Faransé</item>
-    <!-- fy - Western Frisian -->
-    <item>Èdè Frisia</item>
-    <!-- ga - Irish -->
-    <item>Èdè Ireland</item>
-    <!-- gd - Scottish Gaelic -->
-    <item>Èdè Gaelik ti Ilu Scotland</item>
-    <!-- gl - Galician -->
-    <item>Èdè Galicia</item>
-    <!-- gn - Guarani -->
-    <item>Èdè Guarani</item>
-    <!-- gu - Gujarati -->
-    <item>Èdè Gujarati</item>
-    <!-- ha - Hausa -->
-    <item>Èdè Hausa</item>
-    <!-- he - Hebrew -->
-    <item>Èdè Heberu</item>
-    <!-- hi - Hindi -->
-    <item>Èdè Hindi</item>
-    <!-- hr - Croatian -->
-    <item>Èdè Kroatia</item>
-    <!-- hu - Hungarian -->
-    <item>Èdè Hungaria</item>
-    <!-- hy - Armenian -->
-    <item>Èdè Ile Armenia</item>
-    <!-- ia - Interlingua -->
-    <item>Èdè pipo</item>
-    <!-- id - Indonesian -->
-    <item>Èdè Indonasia</item>
-    <!-- ie - Interlingue -->
-    <item>Iru Èdè</item>
-    <!-- ig - Igbo -->
-    <item>Èdè Ibo</item>
-    <!-- is - Icelandic -->
-    <item>Èdè Icelandic</item>
-    <!-- it - Italian -->
-    <item>Èdè Italiani</item>
-    <!-- ja - Japanese -->
-    <item>Èdè Japanisi</item>
-    <!-- jv - Javanese -->
-    <item>Èdè Javanasi</item>
-    <!-- ka - Georgian -->
-    <item>Èdè Georgia</item>
-    <!-- km - Khmer -->
-    <item>Èdè kameri</item>
-    <!-- kn - Kannada -->
-    <item>Èdè Kannada</item>
-    <!-- ko - Korean -->
-    <item>Èdè Koria</item>
-    <!-- la - Latin -->
-    <item>Èdè Latini</item>
-    <!-- lt - Lithuanian -->
-    <item>Èdè Lithuania</item>
-    <!-- lv - Latvian -->
-    <item>Èdè Latvianu</item>
-    <!-- mk - Macedonian -->
-    <item>Èdè Macedonia</item>
-    <!-- mr - Marathi -->
-    <item>Èdè marathi</item>
-    <!-- ms - Malay -->
-    <item>Èdè Malaya</item>
-    <!-- mt - Maltese -->
-    <item>Èdè Malta</item>
-    <!-- my - Burmese -->
-    <item>Èdè Bumiisi</item>
-    <!-- ne - Nepali -->
-    <item>Èdè Nepali</item>
-    <!-- nl - Dutch -->
-    <item>Èdè Duki</item>
-    <!-- no - Norwegian -->
-    <item>Èdè Norway</item>
-    <!-- oc - Occitan -->
-    <item>Èdè Occitani</item>
-    <!-- pa - Punjabi -->
-    <item>Èdè Punjabi</item>
     <!-- pl - Polish -->
     <item>Èdè Ilɛ̀ Polandi</item>
     <!-- pt - Portuguese -->
     <item>Èdè Pɔtugi</item>
-    <!-- ro - Romanian -->
-    <item>Èdè Romania</item>
     <!-- ru - Russian -->
     <item>Èdè ̣Rɔɔsia</item>
-    <!-- rw - Kinyarwanda -->
-    <item>Èdè Ruwanda</item>
-    <!-- sa - Sanskrit -->
-    <item>Èdè awon ara Indo</item>
-    <!-- sd - Sindhi -->
-    <item>Èdè Sindhi</item>
-    <!-- sh - Serbo-Croatian -->
-    <item>Èdè Serbo-Croatiani</item>
-    <!-- si - Sinhala -->
-    <item>Èdè Sinhalese</item>
-    <!-- sk - Slovak -->
-    <item>Èdè Slovaki</item>
-    <!-- sl - Slovenian -->
-    <item>Èdè Slovenia</item>
-    <!-- so - Somali -->
-    <item>Èdè ara Somalia</item>
-    <!-- sq - Albanian -->
-    <item>Èdè Albania</item>
-    <!-- sr - Serbian -->
-    <item>Èdè Serbia</item>
-    <!-- st - Southern Sotho -->
-    <item>Èdè Sesoto</item>
-    <!-- su - Sundanese -->
-    <item>Èdè Sudani</item>
-    <!-- sv - Swedish -->
-    <item>Èdè Suwidiisi</item>
-    <!-- sw - Swahili -->
-    <item>Èdè Swahili</item>
-    <!-- ta - Tamil -->
-    <item>Èdè Tamili</item>
-    <!-- te - Telugu -->
-    <item>Èdè Telugu</item>
-    <!-- th - Thai -->
-    <item>Èdè Tai</item>
-    <!-- ti - Tigrinya -->
-    <item>Èdè Tigrinya</item>
-    <!-- tk - Turkmen -->
-    <item>Èdè Turkmen</item>
-    <!-- tlh - Klingon -->
-    <item>Èdè Klingoni</item>
     <!-- tr - Turkish -->
     <item>Èdè Tɔɔkisi</item>
-    <!-- uk - Ukrainian -->
-    <item>Èdè Ukania</item>
-    <!-- ur - Urdu -->
-    <item>Èdè Udu</item>
-    <!-- uz - Uzbek -->
-    <item>Èdè Uzbek</item>
-    <!-- vi - Vietnamese -->
-    <item>Èdè Jetinamu</item>
-    <!-- xh - Xhosa -->
-    <item>Èdè Xhosa</item>
-    <!-- yi - Yiddish -->
-    <item>Èdè Yiddishi</item>
-    <!-- yo - Yoruba -->
-    <item>Èdè Yorùbá</item>
-    <!-- zh - Chinese -->
-    <item>Èdè Mandari</item>
     <!-- zu - Zulu -->
     <item>Èdè Shulu</item>
   </string-array>

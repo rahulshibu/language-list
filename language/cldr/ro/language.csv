@@ -20,7 +20,7 @@ anp,angika
 ar,arabă
 ar_001,arabă standard modernă
 arc,aramaică
-arn,mapuche
+arn,araucaniană
 arp,arapaho
 arw,arawak
 as,asameză
@@ -68,7 +68,7 @@ car,carib
 cay,cayuga
 cch,atsam
 ce,cecenă
-ceb,cebuano
+ceb,cebuană
 cgg,chiga
 ch,chamorro
 chb,chibcha
@@ -80,11 +80,12 @@ cho,choctaw
 chp,chipewyan
 chr,cherokee
 chy,cheyenne
-ckb,kurdă sorani
+ckb,kurdă centrală
 co,corsicană
 cop,coptă
 cr,cree
 crh,turcă crimeeană
+crs,creolă franceză seselwa
 cs,cehă
 csb,cașubiană
 cu,slavonă
@@ -95,8 +96,7 @@ dak,dakota
 dar,dargwa
 dav,taita
 de,germană
-de_AT,germană austriacă
-de_CH,germană standard elvețiană
+de_CH,germană standard (Elveția)
 del,delaware
 den,slave
 dgr,dogrib
@@ -105,7 +105,7 @@ dje,zarma
 doi,dogri
 dsb,sorabă de jos
 dua,duala
-dum,olandeză mijlocie
+dum,neerlandeză medie
 dv,divehi
 dyo,jola-fonyi
 dyu,dyula
@@ -119,17 +119,10 @@ eka,ekajuk
 el,greacă
 elx,elamită
 en,engleză
-en_AU,engleză australiană
-en_CA,engleză canadiană
-en_GB,engleză britanică
-en_US,engleză americană
-enm,engleză mijlocie
+enm,engleză medie
 eo,esperanto
 es,spaniolă
-es_419,spaniolă latino-americană
-es_ES,spaniolă europeană
-es_MX,spaniolă mexicană
-et,estoniană
+et,estonă
 eu,bască
 ewo,ewondo
 fa,persană
@@ -142,9 +135,7 @@ fj,fijiană
 fo,faroeză
 fon,fon
 fr,franceză
-fr_CA,franceză canadiană
-fr_CH,franceză elvețiană
-frm,franceză mijlocie
+frm,franceză medie
 fro,franceză veche
 frr,frizonă nordică
 frs,frizonă orientală
@@ -153,27 +144,29 @@ fy,frizonă occidentală
 ga,irlandeză
 gaa,ga
 gag,găgăuză
+gan,chineză gan
 gay,gayo
 gba,gbaya
 gd,gaelică scoțiană
 gez,geez
 gil,gilbertină
 gl,galiciană
-gmh,germană mijlocie înaltă
+gmh,germană înaltă medie
 gn,guarani
-goh,germană veche înaltă
+goh,germană înaltă veche
 gon,gondi
 gor,gorontalo
 got,gotică
 grb,grebo
 grc,greacă veche
-gsw,germană elvețiană
+gsw,germană (Elveția)
 gu,gujarati
 guz,gusii
 gv,manx
 gwi,gwichʼin
 ha,hausa
 hai,haida
+hak,chineză hakka
 haw,hawaiiană
 he,ebraică
 hi,hindi
@@ -183,6 +176,7 @@ hmn,hmong
 ho,hiri motu
 hr,croată
 hsb,sorabă de sus
+hsn,chineză xiang
 ht,haitiană
 hu,maghiară
 hup,hupa
@@ -224,7 +218,7 @@ kea,kabuverdianu
 kfo,koro
 kg,congoleză
 kha,khasi
-kho,limbp khotaneză
+kho,khotaneză
 khq,koyra chiini
 ki,kikuyu
 kj,kuanyama
@@ -275,7 +269,7 @@ lua,luba-lulua
 lui,luiseno
 lun,lunda
 luo,luo
-lus,lusahi
+lus,mizo
 luy,luyia
 lv,letonă
 mad,madureză
@@ -292,7 +286,7 @@ men,mende
 mer,meru
 mfe,morisyen
 mg,malgașă
-mga,irlandeză mijlocie
+mga,irlandeză medie
 mgh,makhuwa-meetto
 mgo,meta’
 mh,marshalleză
@@ -303,22 +297,23 @@ mk,macedoneană
 ml,malayalam
 mn,mongolă
 mnc,manciuriană
-mni,manipur
+mni,manipuri
 moh,mohawk
 mos,mossi
 mr,marathi
 ms,malaeză
 mt,malteză
 mua,mundang
-mul,limbi multiple
+mul,mai multe limbi
 mus,creek
 mwl,mirandeză
 mwr,marwari
-my,birmaneză
+my,birmană
 mye,myene
 myv,erzya
 mzn,mazanderani
 na,nauru
+nan,chineză min nan
 nap,napolitană
 naq,nama
 nb,norvegiană bokmål
@@ -362,16 +357,16 @@ pal,pahlavi
 pam,pampanga
 pap,papiamento
 pau,palauană
+pcm,pidgin nigerian
 peo,persană veche
 phn,feniciană
 pi,pali
 pl,poloneză
 pon,pohnpeiană
+prg,prusacă
 pro,provensală veche
 ps,paștună
 pt,portugheză
-pt_BR,portugheză braziliană
-pt_PT,portugheză europeană
 qu,quechua
 quc,quiché
 raj,rajasthani
@@ -413,7 +408,7 @@ sh,sârbo-croată
 shi,tachelhit
 shn,shan
 shu,arabă ciadiană
-si,singhaleză
+si,singaleză
 sid,sidamo
 sk,slovacă
 sl,slovenă
@@ -439,8 +434,8 @@ sus,susu
 sux,sumeriană
 sv,suedeză
 sw,swahili
+sw_CD,swahili (R.D. Congo)
 swb,comoreză
-swc,swahili Congo
 syc,siriacă clasică
 syr,siriacă
 ta,tamilă
@@ -461,7 +456,7 @@ tlh,klingoniană
 tli,tlingit
 tmh,tamashek
 tn,setswana
-to,tonga
+to,tongană
 tog,nyasa tonga
 tpi,tok pisin
 tr,turcă
@@ -488,15 +483,16 @@ vai,vai
 ve,venda
 vi,vietnameză
 vo,volapuk
-vot,votic
+vot,votică
 vun,vunjo
 wa,valonă
 wae,walser
-wal,walamo
+wal,wolaita
 war,waray
 was,washo
 wbp,warlpiri
 wo,wolof
+wuu,chineză wu
 xal,calmucă
 xh,xhosa
 xog,soga
@@ -513,7 +509,6 @@ zbl,simboluri Bilss
 zen,zenaga
 zgh,tamazight standard marocană
 zh,chineză
-zh_Hans,chineză simplificată
 zh_Hant,chineză tradițională
 zu,zulu
 zun,zuni

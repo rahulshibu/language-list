@@ -1,10 +1,10 @@
-ab: abkaziu
+ab: "abk\xE1ziu"
 af: afrikaner
 agq: aghem
 ak: akan
-am: amariku
-ar: arabi
-ar_001: arabi mudernu
+am: "am\xE1riku"
+ar: "\xE1rabi"
+ar_001: "\xE1rabi mudernu"
 arn: araukanu
 as: asames
 asa: asu
@@ -63,12 +63,12 @@ fo: faroes
 fr: franses
 fr_CA: franses kanadianu
 fr_CH: franses suisu
-fy: frisiu osidental
+fy: "fr\xEDziu osidental"
 ga: irlandes
 gag: gagauz
 gl: galegu
 gn: guarani
-gsw: "alim\xE3u di Suisa"
+gsw: "alim\xE3u su\xEDsu"
 gu: gujarati
 guz: gusii
 gv: manks
@@ -118,10 +118,10 @@ lt: lituanes
 lv: "let\xE3u"
 mg: malgaxi
 mi: maori
-mk: masedoniu
+mk: "mased\xF3niu"
 ml: malaialam
 mr: marati
-ms: malaiu
+ms: "mal\xE1iu"
 mt: maltes
 my: birmanes
 nb: "norueges bokm\xE5l"
@@ -131,7 +131,7 @@ nl_BE: flamengu
 nmg: kuazio
 nn: norueges nynorsk
 om: oromo
-or: oriya
+or: "od\xEDa"
 pa: pandjabi
 pl: pulaku
 ps: paxto
@@ -142,14 +142,15 @@ qu: kexua
 quc: kitxe
 rm: romanxi
 ro: rumenu
+ro_MD: "rumenu mold\xE1viku"
 ru: rusu
 rw: kiniaruanda
-sa: sanskritu
+sa: "s\xE1nskritu"
 sd: sindi
 ses: koiraboro seni
 si: singales
 sk: slovaku
-sl: sloveniu
+sl: "slov\xE9niu"
 smn: inari sami
 so: somali
 sq: albanes
@@ -157,10 +158,10 @@ sr: "s\xE9rviu"
 su: sundanes
 sv: sueku
 sw: "sua\xEDli"
-swc: "sua\xEDli kongoles"
+sw_CD: "sua\xEDli kongoles"
 ta: tamil
 te: telugu
-tg: tajik
+tg: tadjiki
 th: tailandes
 ti: tigrinia
 tk: turkmenu
@@ -170,7 +171,7 @@ tt: tatar
 tzm: tamazait di Atlas Sentral
 ug: uigur
 uk: ukranianu
-und: lingua diskonxedu
+und: "l\xEDngua diskonxedu"
 ur: urdu
 uz: uzbeki
 vi: vietnamita
@@ -181,4 +182,4 @@ zh: xines
 zh_Hans: xines simplifikadu
 zh_Hant: xines tradisional
 zu: zulu
-zxx: sem konteudo linguistiku
+zxx: "sen kontiudu lingu\xEDstiku"

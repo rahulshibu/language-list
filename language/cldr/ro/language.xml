@@ -90,7 +90,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>mapuche</name>
+    <name>araucaniană</name>
   </language>
   <language>
     <code>arp</code>
@@ -282,7 +282,7 @@
   </language>
   <language>
     <code>ceb</code>
-    <name>cebuano</name>
+    <name>cebuană</name>
   </language>
   <language>
     <code>cgg</code>
@@ -330,7 +330,7 @@
   </language>
   <language>
     <code>ckb</code>
-    <name>kurdă sorani</name>
+    <name>kurdă centrală</name>
   </language>
   <language>
     <code>co</code>
@@ -347,6 +347,10 @@
   <language>
     <code>crh</code>
     <name>turcă crimeeană</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>creolă franceză seselwa</name>
   </language>
   <language>
     <code>cs</code>
@@ -389,12 +393,8 @@
     <name>germană</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>germană austriacă</name>
-  </language>
-  <language>
     <code>de_CH</code>
-    <name>germană standard elvețiană</name>
+    <name>germană standard (Elveția)</name>
   </language>
   <language>
     <code>del</code>
@@ -430,7 +430,7 @@
   </language>
   <language>
     <code>dum</code>
-    <name>olandeză mijlocie</name>
+    <name>neerlandeză medie</name>
   </language>
   <language>
     <code>dv</code>
@@ -485,24 +485,8 @@
     <name>engleză</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>engleză australiană</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>engleză canadiană</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>engleză britanică</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>engleză americană</name>
-  </language>
-  <language>
     <code>enm</code>
-    <name>engleză mijlocie</name>
+    <name>engleză medie</name>
   </language>
   <language>
     <code>eo</code>
@@ -513,20 +497,8 @@
     <name>spaniolă</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>spaniolă latino-americană</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>spaniolă europeană</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>spaniolă mexicană</name>
-  </language>
-  <language>
     <code>et</code>
-    <name>estoniană</name>
+    <name>estonă</name>
   </language>
   <language>
     <code>eu</code>
@@ -577,16 +549,8 @@
     <name>franceză</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>franceză canadiană</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>franceză elvețiană</name>
-  </language>
-  <language>
     <code>frm</code>
-    <name>franceză mijlocie</name>
+    <name>franceză medie</name>
   </language>
   <language>
     <code>fro</code>
@@ -621,6 +585,10 @@
     <name>găgăuză</name>
   </language>
   <language>
+    <code>gan</code>
+    <name>chineză gan</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>gayo</name>
   </language>
@@ -646,7 +614,7 @@
   </language>
   <language>
     <code>gmh</code>
-    <name>germană mijlocie înaltă</name>
+    <name>germană înaltă medie</name>
   </language>
   <language>
     <code>gn</code>
@@ -654,7 +622,7 @@
   </language>
   <language>
     <code>goh</code>
-    <name>germană veche înaltă</name>
+    <name>germană înaltă veche</name>
   </language>
   <language>
     <code>gon</code>
@@ -678,7 +646,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>germană elvețiană</name>
+    <name>germană (Elveția)</name>
   </language>
   <language>
     <code>gu</code>
@@ -703,6 +671,10 @@
   <language>
     <code>hai</code>
     <name>haida</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>chineză hakka</name>
   </language>
   <language>
     <code>haw</code>
@@ -739,6 +711,10 @@
   <language>
     <code>hsb</code>
     <name>sorabă de sus</name>
+  </language>
+  <language>
+    <code>hsn</code>
+    <name>chineză xiang</name>
   </language>
   <language>
     <code>ht</code>
@@ -906,7 +882,7 @@
   </language>
   <language>
     <code>kho</code>
-    <name>limbp khotaneză</name>
+    <name>khotaneză</name>
   </language>
   <language>
     <code>khq</code>
@@ -1110,7 +1086,7 @@
   </language>
   <language>
     <code>lus</code>
-    <name>lusahi</name>
+    <name>mizo</name>
   </language>
   <language>
     <code>luy</code>
@@ -1178,7 +1154,7 @@
   </language>
   <language>
     <code>mga</code>
-    <name>irlandeză mijlocie</name>
+    <name>irlandeză medie</name>
   </language>
   <language>
     <code>mgh</code>
@@ -1222,7 +1198,7 @@
   </language>
   <language>
     <code>mni</code>
-    <name>manipur</name>
+    <name>manipuri</name>
   </language>
   <language>
     <code>moh</code>
@@ -1250,7 +1226,7 @@
   </language>
   <language>
     <code>mul</code>
-    <name>limbi multiple</name>
+    <name>mai multe limbi</name>
   </language>
   <language>
     <code>mus</code>
@@ -1266,7 +1242,7 @@
   </language>
   <language>
     <code>my</code>
-    <name>birmaneză</name>
+    <name>birmană</name>
   </language>
   <language>
     <code>mye</code>
@@ -1283,6 +1259,10 @@
   <language>
     <code>na</code>
     <name>nauru</name>
+  </language>
+  <language>
+    <code>nan</code>
+    <name>chineză min nan</name>
   </language>
   <language>
     <code>nap</code>
@@ -1457,6 +1437,10 @@
     <name>palauană</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>pidgin nigerian</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>persană veche</name>
   </language>
@@ -1477,6 +1461,10 @@
     <name>pohnpeiană</name>
   </language>
   <language>
+    <code>prg</code>
+    <name>prusacă</name>
+  </language>
+  <language>
     <code>pro</code>
     <name>provensală veche</name>
   </language>
@@ -1487,14 +1475,6 @@
   <language>
     <code>pt</code>
     <name>portugheză</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>portugheză braziliană</name>
-  </language>
-  <language>
-    <code>pt_PT</code>
-    <name>portugheză europeană</name>
   </language>
   <language>
     <code>qu</code>
@@ -1662,7 +1642,7 @@
   </language>
   <language>
     <code>si</code>
-    <name>singhaleză</name>
+    <name>singaleză</name>
   </language>
   <language>
     <code>sid</code>
@@ -1765,12 +1745,12 @@
     <name>swahili</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>comoreză</name>
+    <code>sw_CD</code>
+    <name>swahili (R.D. Congo)</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>swahili Congo</name>
+    <code>swb</code>
+    <name>comoreză</name>
   </language>
   <language>
     <code>syc</code>
@@ -1854,7 +1834,7 @@
   </language>
   <language>
     <code>to</code>
-    <name>tonga</name>
+    <name>tongană</name>
   </language>
   <language>
     <code>tog</code>
@@ -1962,7 +1942,7 @@
   </language>
   <language>
     <code>vot</code>
-    <name>votic</name>
+    <name>votică</name>
   </language>
   <language>
     <code>vun</code>
@@ -1978,7 +1958,7 @@
   </language>
   <language>
     <code>wal</code>
-    <name>walamo</name>
+    <name>wolaita</name>
   </language>
   <language>
     <code>war</code>
@@ -1995,6 +1975,10 @@
   <language>
     <code>wo</code>
     <name>wolof</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>chineză wu</name>
   </language>
   <language>
     <code>xal</code>
@@ -2059,10 +2043,6 @@
   <language>
     <code>zh</code>
     <name>chineză</name>
-  </language>
-  <language>
-    <code>zh_Hans</code>
-    <name>chineză simplificată</name>
   </language>
   <language>
     <code>zh_Hant</code>

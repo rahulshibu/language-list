@@ -17,7 +17,7 @@
     <!-- ae - Avestan -->
     <item>Tiếng Avestan</item>
     <!-- af - Afrikaans -->
-    <item>Tiếng Nam Phi</item>
+    <item>Tiếng Afrikaans</item>
     <!-- afh - Afrihili -->
     <item>Tiếng Afrihili</item>
     <!-- agq - Aghem -->
@@ -51,7 +51,7 @@
     <!-- arc - Aramaic -->
     <item>Tiếng Aramaic</item>
     <!-- arn - Mapuche -->
-    <item>Tiếng Araucanian</item>
+    <item>Tiếng Mapuche</item>
     <!-- aro - Araona -->
     <item>Tiếng Araona</item>
     <!-- arp - Arapaho -->
@@ -128,8 +128,8 @@
     <item>Tiếng Siksika</item>
     <!-- bm - Bambara -->
     <item>Tiếng Bambara</item>
-    <!-- bn - Bengali -->
-    <item>Tiếng Bengali</item>
+    <!-- bn - Bangla -->
+    <item>Tiếng Bangla</item>
     <!-- bo - Tibetan -->
     <item>Tiếng Tây Tạng</item>
     <!-- bpy - Bishnupriya -->
@@ -145,7 +145,7 @@
     <!-- brx - Bodo -->
     <item>Tiếng Bodo</item>
     <!-- bs - Bosnian -->
-    <item>Tiếng Nam Tư</item>
+    <item>Tiếng Bosnia</item>
     <!-- bss - Akoose -->
     <item>Tiếng Akoose</item>
     <!-- bua - Buriat -->
@@ -206,6 +206,8 @@
     <item>Tiếng Cree</item>
     <!-- crh - Crimean Turkish -->
     <item>Tiếng Thổ Nhĩ Kỳ Crimean</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>Tiếng Pháp Seselwa Creole</item>
     <!-- cs - Czech -->
     <item>Tiếng Séc</item>
     <!-- csb - Kashubian -->
@@ -311,11 +313,11 @@
     <!-- fi - Finnish -->
     <item>Tiếng Phần Lan</item>
     <!-- fil - Filipino -->
-    <item>Tiếng Philipin</item>
+    <item>Tiếng Philippines</item>
     <!-- fj - Fijian -->
     <item>Tiếng Fiji</item>
     <!-- fo - Faroese -->
-    <item>Tiếng Faore</item>
+    <item>Tiếng Faroe</item>
     <!-- fon - Fon -->
     <item>Tiếng Fon</item>
     <!-- fr - French -->
@@ -329,7 +331,7 @@
     <!-- frp - Arpitan -->
     <item>Tiếng Arpitan</item>
     <!-- frr - Northern Frisian -->
-    <item>Tiếng Frisian Miền Bắc</item>
+    <item>Tiếng Frisia Miền Bắc</item>
     <!-- frs - Eastern Frisian -->
     <item>Tiếng Frisian Miền Đông</item>
     <!-- fur - Friulian -->
@@ -337,17 +339,19 @@
     <!-- fy - Western Frisian -->
     <item>Tiếng Frisia</item>
     <!-- ga - Irish -->
-    <item>Tiếng Ai-len</item>
+    <item>Tiếng Ireland</item>
     <!-- gaa - Ga -->
     <item>Tiếng Ga</item>
     <!-- gag - Gagauz -->
     <item>Tiếng Gagauz</item>
+    <!-- gan - Gan Chinese -->
+    <item>Tiếng Cám</item>
     <!-- gay - Gayo -->
     <item>Tiếng Gayo</item>
     <!-- gba - Gbaya -->
     <item>Tiếng Gbaya</item>
     <!-- gd - Scottish Gaelic -->
-    <item>Tiếng Xentơ (Xcốt len)</item>
+    <item>Tiếng Gael Scotland</item>
     <!-- gez - Geez -->
     <item>Tiếng Geez</item>
     <!-- gil - Gilbertese -->
@@ -391,7 +395,7 @@
     <!-- hai - Haida -->
     <item>Tiếng Haida</item>
     <!-- hak - Hakka Chinese -->
-    <item>Tiếng Trung Hakka</item>
+    <item>Tiếng Khách Gia</item>
     <!-- haw - Hawaiian -->
     <item>Tiếng Hawaii</item>
     <!-- he - Hebrew -->
@@ -412,6 +416,8 @@
     <item>Tiếng Croatia</item>
     <!-- hsb - Upper Sorbian -->
     <item>Tiếng Thượng Sorbia</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>Tiếng Tương</item>
     <!-- ht - Haitian Creole -->
     <item>Tiếng Haiti</item>
     <!-- hu - Hungarian -->
@@ -541,7 +547,7 @@
     <!-- kru - Kurukh -->
     <item>Tiếng Kurukh</item>
     <!-- ks - Kashmiri -->
-    <item>Tiếng Kashmiri</item>
+    <item>Tiếng Kashmir</item>
     <!-- ksb - Shambala -->
     <item>Tiếng Shambala</item>
     <!-- ksf - Bafia -->
@@ -591,7 +597,7 @@
     <!-- lrc - Northern Luri -->
     <item>Tiếng Bắc Luri</item>
     <!-- lt - Lithuanian -->
-    <item>Tiếng Lít-va</item>
+    <item>Tiếng Litva</item>
     <!-- lu - Luba-Katanga -->
     <item>Tiếng Luba-Katanga</item>
     <!-- lua - Luba-Lulua -->
@@ -646,7 +652,7 @@
     <item>Tiếng Marshall</item>
     <!-- mi - Maori -->
     <item>Tiếng Maori</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>Tiếng Micmac</item>
     <!-- min - Minangkabau -->
     <item>Tiếng Minangkabau</item>
@@ -657,7 +663,7 @@
     <!-- mn - Mongolian -->
     <item>Tiếng Mông Cổ</item>
     <!-- mnc - Manchu -->
-    <item>Tiếng Manchu</item>
+    <item>Tiếng Mãn Châu</item>
     <!-- mni - Manipuri -->
     <item>Tiếng Manipuri</item>
     <!-- moh - Mohawk -->
@@ -667,12 +673,12 @@
     <!-- mr - Marathi -->
     <item>Tiếng Marathi</item>
     <!-- ms - Malay -->
-    <item>Tiếng Malaysia</item>
+    <item>Tiếng Mã Lai</item>
     <!-- mt - Maltese -->
-    <item>Tiếng Malt</item>
+    <item>Tiếng Malta</item>
     <!-- mua - Mundang -->
     <item>Tiếng Mundang</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>Nhiều Ngôn ngữ</item>
     <!-- mus - Creek -->
     <item>Tiếng Creek</item>
@@ -690,6 +696,8 @@
     <item>Tiếng Mazanderani</item>
     <!-- na - Nauru -->
     <item>Tiếng Nauru</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>Tiếng Mân Nam</item>
     <!-- nap - Neapolitan -->
     <item>Tiếng Napoli</item>
     <!-- naq - Nama -->
@@ -735,13 +743,13 @@
     <!-- nr - South Ndebele -->
     <item>Tiếng Ndebele Miền Nam</item>
     <!-- nso - Northern Sotho -->
-    <item>Bắc Sotho</item>
+    <item>Tiếng Sotho Miền Bắc</item>
     <!-- nus - Nuer -->
     <item>Tiếng Nuer</item>
     <!-- nv - Navajo -->
     <item>Tiếng Navajo</item>
     <!-- nwc - Classical Newari -->
-    <item>Tiếng Newari Cổ điển</item>
+    <item>Tiếng Newari cổ</item>
     <!-- ny - Nyanja -->
     <item>Tiếng Nyanja</item>
     <!-- nym - Nyamwezi -->
@@ -758,8 +766,8 @@
     <item>Tiếng Ojibwa</item>
     <!-- om - Oromo -->
     <item>Tiếng Oromo</item>
-    <!-- or - Oriya -->
-    <item>Tiếng Oriya</item>
+    <!-- or - Odia -->
+    <item>Tiếng Odia</item>
     <!-- os - Ossetic -->
     <item>Tiếng Ossetic</item>
     <!-- osa - Osage -->
@@ -778,6 +786,8 @@
     <item>Tiếng Papiamento</item>
     <!-- pau - Palauan -->
     <item>Tiếng Palauan</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Tiếng Nigeria Pidgin</item>
     <!-- peo - Old Persian -->
     <item>Tiếng Ba Tư cổ</item>
     <!-- phn - Phoenician -->
@@ -788,14 +798,14 @@
     <item>Tiếng Ba Lan</item>
     <!-- pon - Pohnpeian -->
     <item>Tiếng Pohnpeian</item>
+    <!-- prg - Prussian -->
+    <item>Tiếng Prussia</item>
     <!-- pro - Old Provençal -->
     <item>Tiếng Provençal cổ</item>
     <!-- ps - Pashto -->
     <item>Tiếng Pashto</item>
     <!-- pt - Portuguese -->
     <item>Tiếng Bồ Đào Nha</item>
-    <!-- pt_BR - Brazilian Portuguese -->
-    <item>Tiếng Bồ Đào Nha (Braxin)</item>
     <!-- pt_PT - European Portuguese -->
     <item>Tiếng Bồ Đào Nha (Châu Âu)</item>
     <!-- qu - Quechua -->
@@ -815,7 +825,7 @@
     <!-- rn - Rundi -->
     <item>Tiếng Rundi</item>
     <!-- ro - Romanian -->
-    <item>Tiếng Rumani</item>
+    <item>Tiếng Romania</item>
     <!-- ro_MD - Moldavian -->
     <item>Tiếng Moldova</item>
     <!-- rof - Rombo -->
@@ -875,7 +885,7 @@
     <!-- sga - Old Irish -->
     <item>Tiếng Ai-len cổ</item>
     <!-- sh - Serbo-Croatian -->
-    <item>Tiếng Xéc bi - Croatia</item>
+    <item>Tiếng Serbo-Croatia</item>
     <!-- shi - Tachelhit -->
     <item>Tiếng Tachelhit</item>
     <!-- shn - Shan -->
@@ -893,7 +903,7 @@
     <!-- sm - Samoan -->
     <item>Tiếng Samoa</item>
     <!-- sma - Southern Sami -->
-    <item>TIếng Sami Miền Nam</item>
+    <item>Tiếng Sami Miền Nam</item>
     <!-- smj - Lule Sami -->
     <item>Tiếng Lule Sami</item>
     <!-- smn - Inari Sami -->
@@ -909,7 +919,7 @@
     <!-- sog - Sogdien -->
     <item>Tiếng Sogdien</item>
     <!-- sq - Albanian -->
-    <item>Tiếng An-ba-ni</item>
+    <item>Tiếng Albania</item>
     <!-- sr - Serbian -->
     <item>Tiếng Serbia</item>
     <!-- srn - Sranan Tongo -->
@@ -921,7 +931,7 @@
     <!-- ssy - Saho -->
     <item>Tiếng Saho</item>
     <!-- st - Southern Sotho -->
-    <item>Tiếng Sesotho</item>
+    <item>Tiếng Sotho Miền Nam</item>
     <!-- su - Sundanese -->
     <item>Tiếng Sunda</item>
     <!-- suk - Sukuma -->
@@ -934,12 +944,12 @@
     <item>Tiếng Thụy Điển</item>
     <!-- sw - Swahili -->
     <item>Tiếng Swahili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>Tiếng Swahili Congo</item>
     <!-- swb - Comorian -->
     <item>Tiếng Cômo</item>
-    <!-- swc - Congo Swahili -->
-    <item>Tiếng Swahili Congo</item>
     <!-- syc - Classical Syriac -->
-    <item>Tiếng Syria Cổ điển</item>
+    <item>Tiếng Syriac cổ</item>
     <!-- syr - Syriac -->
     <item>Tiếng Syriac</item>
     <!-- ta - Tamil -->
@@ -953,19 +963,19 @@
     <!-- ter - Tereno -->
     <item>Tiếng Tereno</item>
     <!-- tet - Tetum -->
-    <item>Tetum</item>
+    <item>Tiếng Tetum</item>
     <!-- tg - Tajik -->
     <item>Tiếng Tajik</item>
     <!-- th - Thai -->
     <item>Tiếng Thái</item>
     <!-- ti - Tigrinya -->
-    <item>Tiếng Tigrigya</item>
+    <item>Tiếng Tigrinya</item>
     <!-- tig - Tigre -->
     <item>Tiếng Tigre</item>
     <!-- tiv - Tiv -->
     <item>Tiếng Tiv</item>
     <!-- tk - Turkmen -->
-    <item>Tiếng Turk</item>
+    <item>Tiếng Turkmen</item>
     <!-- tkl - Tokelau -->
     <item>Tiếng Tokelau</item>
     <!-- tl - Tagalog -->
@@ -1011,17 +1021,17 @@
     <!-- udm - Udmurt -->
     <item>Tiếng Udmurt</item>
     <!-- ug - Uyghur -->
-    <item>Tiếng Uyghur</item>
+    <item>Tiếng Duy Ngô Nhĩ</item>
     <!-- uga - Ugaritic -->
     <item>Tiếng Ugaritic</item>
     <!-- uk - Ukrainian -->
     <item>Tiếng Ucraina</item>
     <!-- umb - Umbundu -->
     <item>Tiếng Umbundu</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>Ngôn ngữ không xác định</item>
     <!-- ur - Urdu -->
-    <item>Tiếng Uđu</item>
+    <item>Tiếng Urdu</item>
     <!-- uz - Uzbek -->
     <item>Tiếng Uzbek</item>
     <!-- vai - Vai -->
@@ -1050,6 +1060,8 @@
     <item>Tiếng Warlpiri</item>
     <!-- wo - Wolof -->
     <item>Tiếng Wolof</item>
+    <!-- wuu - Wu Chinese -->
+    <item>Tiếng Ngô</item>
     <!-- xal - Kalmyk -->
     <item>Tiếng Kalmyk</item>
     <!-- xh - Xhosa -->
@@ -1065,13 +1077,13 @@
     <!-- ybb - Yemba -->
     <item>Tiếng Yemba</item>
     <!-- yi - Yiddish -->
-    <item>Tiếng Y-đit</item>
+    <item>Tiếng Yiddish</item>
     <!-- yo - Yoruba -->
     <item>Tiếng Yoruba</item>
     <!-- yue - Cantonese -->
     <item>Tiếng Quảng Đông</item>
     <!-- za - Zhuang -->
-    <item>Tiếng Zhuang</item>
+    <item>Tiếng Choang</item>
     <!-- zap - Zapotec -->
     <item>Tiếng Zapotec</item>
     <!-- zbl - Blissymbols -->

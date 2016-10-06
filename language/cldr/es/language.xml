@@ -22,7 +22,7 @@
   </language>
   <language>
     <code>ady</code>
-    <name>adigeo</name>
+    <name>adigué</name>
   </language>
   <language>
     <code>ae</code>
@@ -142,11 +142,11 @@
   </language>
   <language>
     <code>bas</code>
-    <name>basa</name>
+    <name>basaa</name>
   </language>
   <language>
     <code>bax</code>
-    <name>bamun</name>
+    <name>bamún</name>
   </language>
   <language>
     <code>bbj</code>
@@ -182,7 +182,7 @@
   </language>
   <language>
     <code>bho</code>
-    <name>bhojpuri</name>
+    <name>bhoyapurí</name>
   </language>
   <language>
     <code>bi</code>
@@ -238,7 +238,7 @@
   </language>
   <language>
     <code>bua</code>
-    <name>buriat</name>
+    <name>buriato</name>
   </language>
   <language>
     <code>bug</code>
@@ -349,6 +349,10 @@
     <name>tártaro de Crimea</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>criollo seychelense</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>checo</name>
   </language>
@@ -430,7 +434,7 @@
   </language>
   <language>
     <code>dum</code>
-    <name>neerlandés medieval</name>
+    <name>neerlandés medio</name>
   </language>
   <language>
     <code>dv</code>
@@ -502,7 +506,7 @@
   </language>
   <language>
     <code>enm</code>
-    <name>inglés medieval</name>
+    <name>inglés medio</name>
   </language>
   <language>
     <code>eo</code>
@@ -586,7 +590,7 @@
   </language>
   <language>
     <code>frm</code>
-    <name>francés medieval</name>
+    <name>francés medio</name>
   </language>
   <language>
     <code>fro</code>
@@ -621,6 +625,10 @@
     <name>gagauzo</name>
   </language>
   <language>
+    <code>gan</code>
+    <name>chino gan</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>gayo</name>
   </language>
@@ -646,7 +654,7 @@
   </language>
   <language>
     <code>gmh</code>
-    <name>alemán de la alta edad media</name>
+    <name>alto alemán medio</name>
   </language>
   <language>
     <code>gn</code>
@@ -654,7 +662,7 @@
   </language>
   <language>
     <code>goh</code>
-    <name>alemán de la alta edad antigua</name>
+    <name>alto alemán antiguo</name>
   </language>
   <language>
     <code>gon</code>
@@ -682,7 +690,7 @@
   </language>
   <language>
     <code>gu</code>
-    <name>gujarati</name>
+    <name>guyaratí</name>
   </language>
   <language>
     <code>guz</code>
@@ -703,6 +711,10 @@
   <language>
     <code>hai</code>
     <name>haida</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>chino hakka</name>
   </language>
   <language>
     <code>haw</code>
@@ -741,8 +753,12 @@
     <name>alto sorbio</name>
   </language>
   <language>
+    <code>hsn</code>
+    <name>chino xiang</name>
+  </language>
+  <language>
     <code>ht</code>
-    <name>haitiano</name>
+    <name>criollo haitiano</name>
   </language>
   <language>
     <code>hu</code>
@@ -1070,7 +1086,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>laosiano</name>
+    <name>lao</name>
   </language>
   <language>
     <code>lol</code>
@@ -1110,7 +1126,7 @@
   </language>
   <language>
     <code>lus</code>
-    <name>lushai</name>
+    <name>mizo</name>
   </language>
   <language>
     <code>luy</code>
@@ -1178,7 +1194,7 @@
   </language>
   <language>
     <code>mga</code>
-    <name>irlandés medieval</name>
+    <name>irlandés medio</name>
   </language>
   <language>
     <code>mgh</code>
@@ -1250,7 +1266,7 @@
   </language>
   <language>
     <code>mul</code>
-    <name>lenguas múltiples</name>
+    <name>varios idiomas</name>
   </language>
   <language>
     <code>mus</code>
@@ -1285,6 +1301,10 @@
     <name>nauruano</name>
   </language>
   <language>
+    <code>nan</code>
+    <name>chino min nan</name>
+  </language>
+  <language>
     <code>nap</code>
     <name>napolitano</name>
   </language>
@@ -1303,6 +1323,10 @@
   <language>
     <code>nds</code>
     <name>bajo alemán</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>bajo sajón</name>
   </language>
   <language>
     <code>ne</code>
@@ -1366,7 +1390,7 @@
   </language>
   <language>
     <code>nso</code>
-    <name>sotho septentrional</name>
+    <name>sesotho septentrional</name>
   </language>
   <language>
     <code>nus</code>
@@ -1453,6 +1477,10 @@
     <name>palauano</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>pidgin de Nigeria</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>persa antiguo</name>
   </language>
@@ -1471,6 +1499,10 @@
   <language>
     <code>pon</code>
     <name>pohnpeiano</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>prusiano</name>
   </language>
   <language>
     <code>pro</code>
@@ -1514,11 +1546,11 @@
   </language>
   <language>
     <code>rm</code>
-    <name>retorrománico</name>
+    <name>romanche</name>
   </language>
   <language>
     <code>rn</code>
-    <name>kiroundi</name>
+    <name>kirundi</name>
   </language>
   <language>
     <code>ro</code>
@@ -1726,7 +1758,7 @@
   </language>
   <language>
     <code>ss</code>
-    <name>siswati</name>
+    <name>suazi</name>
   </language>
   <language>
     <code>ssy</code>
@@ -1761,12 +1793,12 @@
     <name>suajili</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>comorense</name>
+    <code>sw_CD</code>
+    <name>suajili del Congo</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>suajili del Congo</name>
+    <code>swb</code>
+    <name>comorense</name>
   </language>
   <language>
     <code>syc</code>
@@ -1846,7 +1878,7 @@
   </language>
   <language>
     <code>tn</code>
-    <name>setchwana</name>
+    <name>setsuana</name>
   </language>
   <language>
     <code>to</code>
@@ -1906,7 +1938,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>tamazight del Marruecos Central</name>
+    <name>tamazight del Atlas Central</name>
   </language>
   <language>
     <code>udm</code>
@@ -1974,7 +2006,7 @@
   </language>
   <language>
     <code>wal</code>
-    <name>walamo</name>
+    <name>wolayta</name>
   </language>
   <language>
     <code>war</code>
@@ -1990,7 +2022,11 @@
   </language>
   <language>
     <code>wo</code>
-    <name>wolof</name>
+    <name>wólof</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>chino wu</name>
   </language>
   <language>
     <code>xal</code>
@@ -2022,7 +2058,7 @@
   </language>
   <language>
     <code>yi</code>
-    <name>yídish</name>
+    <name>yidis</name>
   </language>
   <language>
     <code>yo</code>
@@ -2070,7 +2106,7 @@
   </language>
   <language>
     <code>zun</code>
-    <name>zuni</name>
+    <name>zuñi</name>
   </language>
   <language>
     <code>zxx</code>

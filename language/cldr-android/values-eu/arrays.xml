@@ -2,34 +2,64 @@
 <resources>
   <!-- Basque (eu) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>afarera</item>
     <!-- ab - Abkhazian -->
     <item>abkhazera</item>
+    <!-- ace - Achinese -->
+    <item>acehnera</item>
     <!-- ach - Acoli -->
-    <item>Acholiera</item>
+    <item>acholiera</item>
+    <!-- ada - Adangme -->
+    <item>adangmera</item>
+    <!-- ady - Adyghe -->
+    <item>adyghera</item>
     <!-- af - Afrikaans -->
     <item>afrikaansa</item>
     <!-- agq - Aghem -->
     <item>aghemera</item>
+    <!-- ain - Ainu -->
+    <item>ainuera</item>
     <!-- ak - Akan -->
     <item>akanera</item>
+    <!-- ale - Aleut -->
+    <item>aleutera</item>
+    <!-- alt - Southern Altai -->
+    <item>hegoaldeko altaiera</item>
     <!-- am - Amharic -->
     <item>amharera</item>
+    <!-- an - Aragonese -->
+    <item>aragoiera</item>
+    <!-- anp - Angika -->
+    <item>angikera</item>
     <!-- ar - Arabic -->
     <item>arabiera</item>
     <!-- ar_001 - Modern Standard Arabic -->
     <item>arabiera moderno estandarra</item>
     <!-- arn - Mapuche -->
     <item>maputxea</item>
+    <!-- arp - Arapaho -->
+    <item>arapahoa</item>
     <!-- as - Assamese -->
     <item>assamera</item>
     <!-- asa - Asu -->
     <item>asua</item>
+    <!-- ast - Asturian -->
+    <item>asturiera</item>
+    <!-- av - Avaric -->
+    <item>avarera</item>
+    <!-- awa - Awadhi -->
+    <item>awadhiera</item>
     <!-- ay - Aymara -->
     <item>aimara</item>
     <!-- az - Azerbaijani -->
     <item>azerbaijanera</item>
     <!-- ba - Bashkir -->
     <item>bashkirrera</item>
+    <!-- ban - Balinese -->
+    <item>baliera</item>
+    <!-- bas - Basaa -->
+    <item>basaa</item>
     <!-- be - Belarusian -->
     <item>bielorrusiera</item>
     <!-- bem - Bemba -->
@@ -38,9 +68,17 @@
     <item>benera</item>
     <!-- bg - Bulgarian -->
     <item>bulgariera</item>
+    <!-- bho - Bhojpuri -->
+    <item>bhojpurera</item>
+    <!-- bi - Bislama -->
+    <item>bislama</item>
+    <!-- bin - Bini -->
+    <item>edoera</item>
+    <!-- bla - Siksika -->
+    <item>siksikera</item>
     <!-- bm - Bambara -->
     <item>bambarera</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>bengalera</item>
     <!-- bo - Tibetan -->
     <item>tibetera</item>
@@ -50,28 +88,60 @@
     <item>bodoera</item>
     <!-- bs - Bosnian -->
     <item>bosniera</item>
+    <!-- bug - Buginese -->
+    <item>buginera</item>
+    <!-- byn - Blin -->
+    <item>bilena</item>
     <!-- ca - Catalan -->
     <item>katalana</item>
+    <!-- ce - Chechen -->
+    <item>txetxeniera</item>
+    <!-- ceb - Cebuano -->
+    <item>cebuera</item>
     <!-- cgg - Chiga -->
     <item>chigera</item>
+    <!-- ch - Chamorro -->
+    <item>chamorrera</item>
+    <!-- chk - Chuukese -->
+    <item>chuukera</item>
+    <!-- chm - Mari -->
+    <item>mariera</item>
+    <!-- cho - Choctaw -->
+    <item>choctaw</item>
     <!-- chr - Cherokee -->
     <item>txerokiera</item>
+    <!-- chy - Cheyenne -->
+    <item>cheyennera</item>
     <!-- ckb - Central Kurdish -->
-    <item>soraniera</item>
+    <item>sorania</item>
     <!-- co - Corsican -->
     <item>korsikera</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>seselwa frantses-kreolera</item>
     <!-- cs - Czech -->
     <item>txekiera</item>
+    <!-- cu - Church Slavic -->
+    <item>Elizako eslaviera</item>
+    <!-- cv - Chuvash -->
+    <item>chuvashera</item>
     <!-- cy - Welsh -->
     <item>galesera</item>
     <!-- da - Danish -->
     <item>daniera</item>
+    <!-- dak - Dakota -->
+    <item>dakotera</item>
+    <!-- dar - Dargwa -->
+    <item>dargvera</item>
     <!-- dav - Taita -->
     <item>taitera</item>
     <!-- de - German -->
     <item>alemana</item>
+    <!-- de_AT - Austrian German -->
+    <item>Austriako alemana</item>
     <!-- de_CH - Swiss High German -->
     <item>aleman garaia (Suitza)</item>
+    <!-- dgr - Dogrib -->
+    <item>dogribera</item>
     <!-- dje - Zarma -->
     <item>zarmera</item>
     <!-- dsb - Lower Sorbian -->
@@ -84,30 +154,48 @@
     <item>fonyi jolera</item>
     <!-- dz - Dzongkha -->
     <item>dzongkha</item>
+    <!-- dzg - Dazaga -->
+    <item>dazaga</item>
     <!-- ebu - Embu -->
     <item>embua</item>
     <!-- ee - Ewe -->
     <item>eweera</item>
     <!-- efi - Efik -->
     <item>efikera</item>
+    <!-- eka - Ekajuk -->
+    <item>akajuka</item>
     <!-- el - Greek -->
     <item>greziera</item>
     <!-- en - English -->
     <item>ingelesa</item>
+    <!-- en_AU - Australian English -->
+    <item>Australiako ingelesa</item>
+    <!-- en_CA - Canadian English -->
+    <item>Kanadako ingelesa</item>
+    <!-- en_GB - British English -->
+    <item>Britainia Handiko ingelesa</item>
     <!-- en_US - American English -->
-    <item>ingelesa (AEB)</item>
+    <item>AEBko ingelesa</item>
     <!-- eo - Esperanto -->
     <item>esperantoa</item>
     <!-- es - Spanish -->
     <item>espainiera</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>Latinoamerikako espainiera</item>
     <!-- es_ES - European Spanish -->
     <item>espainiera (Europa)</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>Mexikoko espainiera</item>
     <!-- et - Estonian -->
     <item>estoniera</item>
     <!-- eu - Basque -->
     <item>euskara</item>
+    <!-- ewo - Ewondo -->
+    <item>ewondera</item>
     <!-- fa - Persian -->
     <item>persiera</item>
+    <!-- ff - Fulah -->
+    <item>fula</item>
     <!-- fi - Finnish -->
     <item>finlandiera</item>
     <!-- fil - Filipino -->
@@ -116,22 +204,36 @@
     <item>fijiera</item>
     <!-- fo - Faroese -->
     <item>faroera</item>
+    <!-- fon - Fon -->
+    <item>fona</item>
     <!-- fr - French -->
     <item>frantsesa</item>
+    <!-- fr_CA - Canadian French -->
+    <item>Kanadako frantsesa</item>
+    <!-- fr_CH - Swiss French -->
+    <item>Suitzako frantsesa</item>
+    <!-- fur - Friulian -->
+    <item>friuliera</item>
     <!-- fy - Western Frisian -->
     <item>frisiera</item>
     <!-- ga - Irish -->
     <item>gaelikoa</item>
     <!-- gaa - Ga -->
-    <item>Ga</item>
+    <item>ga</item>
     <!-- gag - Gagauz -->
     <item>gagauzera</item>
     <!-- gd - Scottish Gaelic -->
     <item>eskoziako gaelikoa</item>
+    <!-- gez - Geez -->
+    <item>ge’ez</item>
+    <!-- gil - Gilbertese -->
+    <item>gilbertera</item>
     <!-- gl - Galician -->
     <item>galiziera</item>
     <!-- gn - Guarani -->
     <item>guaraniera</item>
+    <!-- gor - Gorontalo -->
+    <item>gorontaloa</item>
     <!-- gsw - Swiss German -->
     <item>alemana (Suitza)</item>
     <!-- gu - Gujarati -->
@@ -140,6 +242,8 @@
     <item>gusiiera</item>
     <!-- gv - Manx -->
     <item>manxera</item>
+    <!-- gwi - Gwichʼin -->
+    <item>gwichʼin</item>
     <!-- ha - Hausa -->
     <item>hausa</item>
     <!-- haw - Hawaiian -->
@@ -148,18 +252,30 @@
     <item>hebreera</item>
     <!-- hi - Hindi -->
     <item>hindia</item>
+    <!-- hil - Hiligaynon -->
+    <item>hiligainona</item>
+    <!-- hmn - Hmong -->
+    <item>hmong</item>
     <!-- hr - Croatian -->
     <item>kroaziera</item>
     <!-- hsb - Upper Sorbian -->
     <item>goi-sorabiera</item>
     <!-- ht - Haitian Creole -->
-    <item>haitiera</item>
+    <item>Haitiko kreolera</item>
     <!-- hu - Hungarian -->
     <item>hungariera</item>
+    <!-- hup - Hupa -->
+    <item>hupera</item>
     <!-- hy - Armenian -->
     <item>armeniera</item>
+    <!-- hz - Herero -->
+    <item>herera</item>
     <!-- ia - Interlingua -->
-    <item>Interlingua</item>
+    <item>interlingua</item>
+    <!-- iba - Iban -->
+    <item>ibanera</item>
+    <!-- ibb - Ibibio -->
+    <item>ibibioera</item>
     <!-- id - Indonesian -->
     <item>indonesiera</item>
     <!-- ie - Interlingue -->
@@ -168,6 +284,12 @@
     <item>igboera</item>
     <!-- ii - Sichuan Yi -->
     <item>sichuan yia</item>
+    <!-- ilo - Iloko -->
+    <item>ilokanera</item>
+    <!-- inh - Ingush -->
+    <item>ingushera</item>
+    <!-- io - Ido -->
+    <item>ido</item>
     <!-- is - Icelandic -->
     <item>islandiera</item>
     <!-- it - Italian -->
@@ -176,6 +298,8 @@
     <item>inuitera</item>
     <!-- ja - Japanese -->
     <item>japoniera</item>
+    <!-- jbo - Lojban -->
+    <item>lojbanera</item>
     <!-- jgo - Ngomba -->
     <item>ngomba</item>
     <!-- jmc - Machame -->
@@ -186,26 +310,44 @@
     <item>georgiera</item>
     <!-- kab - Kabyle -->
     <item>kabilera</item>
+    <!-- kac - Kachin -->
+    <item>jingpoera</item>
+    <!-- kaj - Jju -->
+    <item>kaiji</item>
     <!-- kam - Kamba -->
     <item>kambera</item>
+    <!-- kbd - Kabardian -->
+    <item>kabardiera</item>
+    <!-- kcg - Tyap -->
+    <item>kataba</item>
     <!-- kde - Makonde -->
     <item>makondera</item>
     <!-- kea - Kabuverdianu -->
     <item>Cabo Verdeko kreola</item>
+    <!-- kfo - Koro -->
+    <item>koroa</item>
     <!-- kg - Kongo -->
-    <item>Kikongoa</item>
+    <item>kikongoa</item>
+    <!-- kha - Khasi -->
+    <item>kashia</item>
     <!-- khq - Koyra Chiini -->
     <item>koyra chiiniera</item>
     <!-- ki - Kikuyu -->
     <item>kikuyuera</item>
+    <!-- kj - Kuanyama -->
+    <item>kuanyama</item>
     <!-- kk - Kazakh -->
     <item>kazakhera</item>
+    <!-- kkj - Kako -->
+    <item>kakoa</item>
     <!-- kl - Kalaallisut -->
     <item>kalaallisutera</item>
     <!-- kln - Kalenjin -->
     <item>kalenjinera</item>
     <!-- km - Khmer -->
     <item>khemerera</item>
+    <!-- kmb - Kimbundu -->
+    <item>kimbundua</item>
     <!-- kn - Kannada -->
     <item>kannadera</item>
     <!-- ko - Korean -->
@@ -214,26 +356,48 @@
     <item>komi-permyakera</item>
     <!-- kok - Konkani -->
     <item>konkaniera</item>
+    <!-- kpe - Kpelle -->
+    <item>kpellea</item>
+    <!-- kr - Kanuri -->
+    <item>kanuriera</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>karachayera-balkarera</item>
+    <!-- krl - Karelian -->
+    <item>kareliera</item>
+    <!-- kru - Kurukh -->
+    <item>kurukhera</item>
     <!-- ks - Kashmiri -->
     <item>kashmirera</item>
     <!-- ksb - Shambala -->
     <item>shambalera</item>
     <!-- ksf - Bafia -->
     <item>bafiera</item>
+    <!-- ksh - Colognian -->
+    <item>koloniera</item>
     <!-- ku - Kurdish -->
     <item>kurduera</item>
+    <!-- kum - Kumyk -->
+    <item>kumykera</item>
+    <!-- kv - Komi -->
+    <item>komiera</item>
     <!-- kw - Cornish -->
     <item>kornubiera</item>
     <!-- ky - Kyrgyz -->
     <item>kirgizera</item>
     <!-- la - Latin -->
     <item>latina</item>
+    <!-- lad - Ladino -->
+    <item>ladinera</item>
     <!-- lag - Langi -->
     <item>langiera</item>
     <!-- lb - Luxembourgish -->
     <item>luxenburgera</item>
+    <!-- lez - Lezghian -->
+    <item>lezgiera</item>
     <!-- lg - Ganda -->
     <item>gandera</item>
+    <!-- li - Limburgish -->
+    <item>limburgera</item>
     <!-- lkt - Lakota -->
     <item>lakotera</item>
     <!-- ln - Lingala -->
@@ -241,21 +405,39 @@
     <!-- lo - Lao -->
     <item>laosera</item>
     <!-- loz - Lozi -->
-    <item>Loziera</item>
+    <item>loziera</item>
+    <!-- lrc - Northern Luri -->
+    <item>iparraldeko lurera</item>
     <!-- lt - Lithuanian -->
     <item>lituaniera</item>
     <!-- lu - Luba-Katanga -->
     <item>luba-katangera</item>
     <!-- lua - Luba-Lulua -->
-    <item>Luba-lulua</item>
+    <item>txilubera</item>
+    <!-- lun - Lunda -->
+    <item>lundera</item>
     <!-- luo - Luo -->
     <item>luoera</item>
+    <!-- lus - Mizo -->
+    <item>mizoa</item>
     <!-- luy - Luyia -->
     <item>luhyera</item>
     <!-- lv - Latvian -->
     <item>letoniera</item>
+    <!-- mad - Madurese -->
+    <item>madurera</item>
+    <!-- mag - Magahi -->
+    <item>magahiera</item>
+    <!-- mai - Maithili -->
+    <item>maithilera</item>
+    <!-- mak - Makasar -->
+    <item>makasarera</item>
     <!-- mas - Masai -->
     <item>masaiera</item>
+    <!-- mdf - Moksha -->
+    <item>mokxera</item>
+    <!-- men - Mende -->
+    <item>mendeera</item>
     <!-- mer - Meru -->
     <item>meruera</item>
     <!-- mfe - Morisyen -->
@@ -266,16 +448,26 @@
     <item>makhuwa-meettoera</item>
     <!-- mgo - Metaʼ -->
     <item>metera</item>
+    <!-- mh - Marshallese -->
+    <item>marshallera</item>
     <!-- mi - Maori -->
     <item>maoriera</item>
+    <!-- mic - Mi'kmaq -->
+    <item>mikmakera</item>
+    <!-- min - Minangkabau -->
+    <item>minangkabauera</item>
     <!-- mk - Macedonian -->
     <item>mazedoniera</item>
     <!-- ml - Malayalam -->
     <item>malayalamera</item>
     <!-- mn - Mongolian -->
     <item>mongoliera</item>
+    <!-- mni - Manipuri -->
+    <item>manipurera</item>
     <!-- moh - Mohawk -->
     <item>mohawkera</item>
+    <!-- mos - Mossi -->
+    <item>moreera</item>
     <!-- mr - Marathi -->
     <item>marathera</item>
     <!-- ms - Malay -->
@@ -284,18 +476,40 @@
     <item>maltera</item>
     <!-- mua - Mundang -->
     <item>mudangera</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>hizkuntza anitzak</item>
+    <!-- mus - Creek -->
+    <item>creera</item>
+    <!-- mwl - Mirandese -->
+    <item>mirandera</item>
     <!-- my - Burmese -->
     <item>burmatarra</item>
+    <!-- myv - Erzya -->
+    <item>erziera</item>
+    <!-- mzn - Mazanderani -->
+    <item>mazandarandera</item>
+    <!-- na - Nauru -->
+    <item>nauruera</item>
+    <!-- nap - Neapolitan -->
+    <item>napoliera</item>
     <!-- naq - Nama -->
     <item>namera</item>
     <!-- nb - Norwegian Bokmål -->
     <item>bokmala (Norvegia)</item>
     <!-- nd - North Ndebele -->
     <item>iparraldeko ndebeleera</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>behe-saxoiera</item>
     <!-- ne - Nepali -->
     <item>nepalera</item>
+    <!-- new - Newari -->
+    <item>newarera</item>
+    <!-- ng - Ndonga -->
+    <item>ndongera</item>
+    <!-- nia - Nias -->
+    <item>niasa</item>
+    <!-- niu - Niuean -->
+    <item>niuera</item>
     <!-- nl - Dutch -->
     <item>nederlandera</item>
     <!-- nl_BE - Flemish -->
@@ -304,60 +518,106 @@
     <item>kwasiera</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>nynorsk norvegiera</item>
+    <!-- nnh - Ngiemboon -->
+    <item>ngiemboonera</item>
     <!-- no - Norwegian -->
     <item>norvegiera</item>
+    <!-- nog - Nogai -->
+    <item>nogaiera</item>
     <!-- nqo - N’Ko -->
     <item>n’koera</item>
+    <!-- nr - South Ndebele -->
+    <item>hegoaldeko ndebelera</item>
     <!-- nso - Northern Sotho -->
     <item>pediera</item>
     <!-- nus - Nuer -->
     <item>nuerera</item>
+    <!-- nv - Navajo -->
+    <item>navahoera</item>
     <!-- ny - Nyanja -->
     <item>nyanja</item>
     <!-- nyn - Nyankole -->
     <item>ankolera</item>
     <!-- oc - Occitan -->
-    <item>Okzitaniera</item>
+    <item>okzitaniera</item>
     <!-- om - Oromo -->
     <item>oromoera</item>
-    <!-- or - Oriya -->
-    <item>oriyera</item>
+    <!-- or - Odia -->
+    <item>oriya</item>
     <!-- os - Ossetic -->
     <item>osetiera</item>
     <!-- pa - Punjabi -->
     <item>punjabera</item>
+    <!-- pag - Pangasinan -->
+    <item>pangasinanera</item>
+    <!-- pam - Pampanga -->
+    <item>pampangera</item>
+    <!-- pap - Papiamento -->
+    <item>papiamentoa</item>
+    <!-- pau - Palauan -->
+    <item>palauera</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Nigeriako pidgina</item>
     <!-- pl - Polish -->
     <item>poloniera</item>
+    <!-- prg - Prussian -->
+    <item>prusiera</item>
     <!-- ps - Pashto -->
     <item>paxtuera</item>
     <!-- pt - Portuguese -->
     <item>portugesa</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Brasilgo portugesa</item>
     <!-- pt_PT - European Portuguese -->
     <item>portugesa (Europa)</item>
     <!-- qu - Quechua -->
     <item>quechuera</item>
     <!-- quc - Kʼicheʼ -->
     <item>k’iche’ra</item>
+    <!-- rap - Rapanui -->
+    <item>rapa nui</item>
+    <!-- rar - Rarotongan -->
+    <item>rarotongera</item>
     <!-- rm - Romansh -->
     <item>erromantxera</item>
     <!-- rn - Rundi -->
     <item>rundiera</item>
     <!-- ro - Romanian -->
     <item>errumaniera</item>
+    <!-- ro_MD - Moldavian -->
+    <item>moldaviera</item>
     <!-- rof - Rombo -->
     <item>romboera</item>
+    <!-- root - Root -->
+    <item>erroa</item>
     <!-- ru - Russian -->
     <item>errusiera</item>
+    <!-- rup - Aromanian -->
+    <item>aromania</item>
     <!-- rw - Kinyarwanda -->
     <item>kinyaruanda</item>
     <!-- rwk - Rwa -->
     <item>rwaera</item>
     <!-- sa - Sanskrit -->
     <item>sanskritoa</item>
+    <!-- sad - Sandawe -->
+    <item>sandawea</item>
+    <!-- sah - Sakha -->
+    <item>sakhera</item>
     <!-- saq - Samburu -->
     <item>samburuera</item>
+    <!-- sat - Santali -->
+    <item>santalera</item>
+    <!-- sba - Ngambay -->
+    <item>ngambayera</item>
     <!-- sbp - Sangu -->
     <item>sanguera</item>
+    <!-- sc - Sardinian -->
+    <item>sardiniera</item>
+    <!-- scn - Sicilian -->
+    <item>siziliera</item>
+    <!-- sco - Scots -->
+    <item>eskoziera</item>
     <!-- sd - Sindhi -->
     <item>sindhia</item>
     <!-- se - Northern Sami -->
@@ -372,6 +632,8 @@
     <item>serbokroaziera</item>
     <!-- shi - Tachelhit -->
     <item>tachelhita</item>
+    <!-- shn - Shan -->
+    <item>shanera</item>
     <!-- si - Sinhala -->
     <item>sinhala</item>
     <!-- sk - Slovak -->
@@ -383,35 +645,49 @@
     <!-- sma - Southern Sami -->
     <item>hegoaldeko samiera</item>
     <!-- smj - Lule Sami -->
-    <item>Lule samiera</item>
+    <item>lule samiera</item>
     <!-- smn - Inari Sami -->
-    <item>Inari samiera</item>
+    <item>inari-samiera</item>
     <!-- sms - Skolt Sami -->
-    <item>Skolt samiera</item>
+    <item>skolt samiera</item>
     <!-- sn - Shona -->
     <item>shonera</item>
+    <!-- snk - Soninke -->
+    <item>soninkera</item>
     <!-- so - Somali -->
     <item>somaliera</item>
     <!-- sq - Albanian -->
     <item>albaniera</item>
     <!-- sr - Serbian -->
     <item>serbiera</item>
+    <!-- srn - Sranan Tongo -->
+    <item>srananera</item>
     <!-- ss - Swati -->
     <item>swatiera</item>
+    <!-- ssy - Saho -->
+    <item>sahoa</item>
     <!-- st - Southern Sotho -->
     <item>hegoaldeko sothoera</item>
     <!-- su - Sundanese -->
     <item>sundanera</item>
+    <!-- suk - Sukuma -->
+    <item>sukumera</item>
     <!-- sv - Swedish -->
     <item>suediera</item>
     <!-- sw - Swahili -->
     <item>swahili</item>
-    <!-- swc - Congo Swahili -->
+    <!-- sw_CD - Congo Swahili -->
     <item>Kongoko swahilia</item>
+    <!-- swb - Comorian -->
+    <item>komoreera</item>
+    <!-- syr - Syriac -->
+    <item>asiriera</item>
     <!-- ta - Tamil -->
     <item>tamilera</item>
     <!-- te - Telugu -->
     <item>teluguera</item>
+    <!-- tem - Timne -->
+    <item>temnea</item>
     <!-- teo - Teso -->
     <item>tesoera</item>
     <!-- tet - Tetum -->
@@ -422,12 +698,14 @@
     <item>thailandiera</item>
     <!-- ti - Tigrinya -->
     <item>tigriñera</item>
+    <!-- tig - Tigre -->
+    <item>tigrea</item>
     <!-- tk - Turkmen -->
     <item>turkmeniera</item>
     <!-- tl - Tagalog -->
     <item>tagalog</item>
     <!-- tlh - Klingon -->
-    <item>Klingonera</item>
+    <item>klingonera</item>
     <!-- tn - Tswana -->
     <item>tswanera</item>
     <!-- to - Tongan -->
@@ -436,25 +714,35 @@
     <item>tok pisina</item>
     <!-- tr - Turkish -->
     <item>turkiera</item>
+    <!-- trv - Taroko -->
+    <item>tarokoa</item>
     <!-- ts - Tsonga -->
     <item>tsongera</item>
     <!-- tt - Tatar -->
     <item>tatarera</item>
     <!-- tum - Tumbuka -->
-    <item>Tumbukera</item>
+    <item>tumbukera</item>
+    <!-- tvl - Tuvalu -->
+    <item>tuvaluera</item>
     <!-- tw - Twi -->
     <item>twia</item>
     <!-- twq - Tasawaq -->
     <item>tasawaqa</item>
     <!-- ty - Tahitian -->
     <item>tahitiera</item>
+    <!-- tyv - Tuvinian -->
+    <item>tuvera</item>
     <!-- tzm - Central Atlas Tamazight -->
     <item>Maroko erdialdeko tamazighta</item>
+    <!-- udm - Udmurt -->
+    <item>udmurtera</item>
     <!-- ug - Uyghur -->
     <item>uigurrera</item>
     <!-- uk - Ukrainian -->
     <item>ukrainera</item>
-    <!-- und - Unknown Language -->
+    <!-- umb - Umbundu -->
+    <item>umbunduera</item>
+    <!-- und - Unknown language -->
     <item>hizkuntza ezezaguna</item>
     <!-- ur - Urdu -->
     <item>urdua</item>
@@ -466,18 +754,36 @@
     <item>vendera</item>
     <!-- vi - Vietnamese -->
     <item>vietnamera</item>
+    <!-- vo - Volapük -->
+    <item>volapüka</item>
     <!-- vun - Vunjo -->
     <item>vunjoa</item>
+    <!-- wa - Walloon -->
+    <item>valoniera</item>
+    <!-- wae - Walser -->
+    <item>walserera</item>
+    <!-- wal - Wolaytta -->
+    <item>welayta</item>
+    <!-- war - Waray -->
+    <item>samerera</item>
     <!-- wo - Wolof -->
     <item>wolofera</item>
+    <!-- xal - Kalmyk -->
+    <item>kalmykera</item>
     <!-- xh - Xhosa -->
     <item>xhosera</item>
     <!-- xog - Soga -->
     <item>sogera</item>
+    <!-- yav - Yangben -->
+    <item>jangbenera</item>
+    <!-- ybb - Yemba -->
+    <item>yemba</item>
     <!-- yi - Yiddish -->
-    <item>Jiddisha</item>
+    <item>yiddisha</item>
     <!-- yo - Yoruba -->
     <item>yorubera</item>
+    <!-- yue - Cantonese -->
+    <item>kantonera</item>
     <!-- zgh - Standard Moroccan Tamazight -->
     <item>tamazight estandarra</item>
     <!-- zh - Chinese -->
@@ -488,7 +794,11 @@
     <item>txinera tradizionala</item>
     <!-- zu - Zulu -->
     <item>zuluera</item>
+    <!-- zun - Zuni -->
+    <item>zuñia</item>
     <!-- zxx - No linguistic content -->
     <item>ez dago eduki linguistikorik</item>
+    <!-- zza - Zaza -->
+    <item>zazakia</item>
   </string-array>
 </resources>

@@ -20,7 +20,7 @@ anp: angika
 ar: arab
 ar_001: "modern szab\xE1nyos arab"
 arc: "ar\xE1mi"
-arn: araucani
+arn: mapucse
 arp: arapaho
 arw: aravak
 as: "assz\xE1mi"
@@ -36,7 +36,7 @@ ban: "balin\xE9z"
 bas: basza
 bax: bamun
 bbj: gomala
-be: belorusz
+be: belarusz
 bej: bedzsa
 bem: bemba
 bez: bena
@@ -50,7 +50,7 @@ bin: bini
 bkm: kom
 bla: siksika
 bm: bambara
-bn: "beng\xE1li"
+bn: bangla
 bo: tibeti
 br: breton
 bra: braj
@@ -68,7 +68,7 @@ car: karib
 cay: kajuga
 cch: atszam
 ce: csecsen
-ceb: cebui
+ceb: szebuano
 cgg: kiga
 ch: "csamor\xF3"
 chb: csibcsa
@@ -80,11 +80,12 @@ cho: "csokt\xF3"
 chp: "csipev\xE9"
 chr: cseroki
 chy: csejen
-ckb: "szor\xE1ni kurd"
+ckb: "k\xF6z\xE9p-\xE1zsiai kurd"
 co: korzikai
 cop: kopt
 cr: "kr\xED"
 crh: "kr\xEDmi tat\xE1r"
+crs: szeszelva kreol francia
 cs: cseh
 csb: kasub
 cu: "egyh\xE1zi szl\xE1v"
@@ -103,13 +104,13 @@ dgr: dogrib
 din: dinka
 dje: zarma
 doi: dogri
-dsb: "als\xF3 szorb"
+dsb: "als\xF3-szorb"
 dua: duala
 dum: "k\xF6z\xE9p holland"
 dv: divehi
 dyo: jola-fonyi
 dyu: diula
-dz: "but\xE1ni"
+dz: dzsonga
 dzg: dazaga
 ebu: embu
 ee: eve
@@ -149,16 +150,17 @@ fro: "\xF3francia"
 frr: "\xE9szaki fr\xEDz"
 frs: "keleti fr\xEDz"
 fur: friuli
-fy: "fr\xEDz"
+fy: "nyugati fr\xEDz"
 ga: "\xEDr"
 gaa: ga
 gag: gagauz
+gan: "gan k\xEDnai"
 gay: gajo
 gba: gbaja
-gd: "sk\xF3t gael"
+gd: "sk\xF3ciai kelta"
 gez: geez
 gil: ikiribati
-gl: "gal\xEDciai"
+gl: gallego
 gmh: "k\xF6z\xE9p fels\u0151 n\xE9met"
 gn: guarani
 goh: "\xF3fels\u0151 n\xE9met"
@@ -168,29 +170,31 @@ got: "g\xF3t"
 grb: "greb\xF3"
 grc: "\xF3g\xF6r\xF6g"
 gsw: "sv\xE1jci n\xE9met"
-gu: gudzsarati
+gu: "gudzsar\xE1ti"
 guz: guszii
 gv: man-szigeti
 gwi: gvicsin
 ha: hausza
 hai: haida
+hak: "hakka k\xEDnai"
 haw: hawaii
 he: "h\xE9ber"
 hi: hindi
-hil: hiligajnon
+hil: ilokano
 hit: hittite
 hmn: hmong
 ho: hiri motu
 hr: "horv\xE1t"
-hsb: "fels\u0151 szorb"
-ht: haiti
+hsb: "fels\u0151-szorb"
+hsn: "xiang k\xEDnai"
+ht: haiti kreol
 hu: magyar
 hup: hupa
 hy: "\xF6rm\xE9ny"
 hz: herero
 ia: interlingva
 iba: iban
-ibb: "ibibi\xF3"
+ibb: ibibio
 id: "indon\xE9z"
 ie: interlingue
 ig: "igb\xF3"
@@ -232,7 +236,7 @@ kk: kazah
 kkj: "kak\xF3"
 kl: "gr\xF6nlandi"
 kln: kalendzsin
-km: kambodzsai
+km: khmer
 kmb: kimbundu
 kn: kannada
 ko: koreai
@@ -244,7 +248,7 @@ kr: kanuri
 krc: "karacs\xE1j-balk\xE1r"
 krl: karelai
 kru: kuruh
-ks: "k\xE1sm\xEDri"
+ks: "kasm\xEDri"
 ksb: sambala
 ksf: bafia
 ksh: "k\xF6lsch"
@@ -265,7 +269,7 @@ lg: ganda
 li: limburgi
 lkt: lakota
 ln: lingala
-lo: laoszi
+lo: lao
 lol: "mong\xF3"
 loz: lozi
 lrc: "\xE9szaki luri"
@@ -291,7 +295,7 @@ mdr: mandar
 men: mende
 mer: meru
 mfe: mauritiusi kreol
-mg: "m\xE1lgas"
+mg: malgas
 mga: "k\xF6z\xE9p \xEDr"
 mgh: "makua-met\xF3"
 mgo: "meta\u2019"
@@ -306,22 +310,23 @@ mnc: mandzsu
 mni: manipuri
 moh: mohawk
 mos: moszi
-mr: marathi
+mr: "mar\xE1thi"
 ms: "mal\xE1j"
 mt: "m\xE1ltai"
 mua: mundang
 mul: "t\xF6bbsz\xF6r\xF6s nyelvek"
 mus: "kr\xEDk"
 mwl: "mirand\xE9z"
-mwr: marvari
+mwr: "m\xE1rv\xE1ri"
 my: burmai
 mye: myene
 myv: "erzj\xE1ny"
 mzn: "m\xE1zander\xE1ni"
 na: naurui
+nan: "min nan k\xEDnai"
 nap: "n\xE1polyi"
 naq: nama
-nb: "norv\xE9g bokmal"
+nb: "norv\xE9g (bokm\xE1l)"
 nd: "\xE9szaki ndebele"
 nds: "als\xF3n\xE9met"
 nds_NL: "als\xF3sz\xE1sz"
@@ -329,30 +334,30 @@ ne: "nep\xE1li"
 new: nevari
 ng: ndonga
 nia: nias
-niu: niui
+niu: niuei
 nl: holland
 nl_BE: flamand
 nmg: ngumba
-nn: "norv\xE9g nynorsk"
+nn: "norv\xE9g (nynrosk)"
 nnh: ngiemboon
 'no': "norv\xE9g"
 nog: nogaj
 non: "\xF3skandin\xE1v"
 nqo: "n\u2019k\xF3"
 nr: "d\xE9li ndebele"
-nso: "\xE9szaki szot\xF3"
+nso: "\xE9szaki szeszot\xF3"
 nus: nuer
 nv: "navah\xF3"
 nwc: klasszikus newari
-ny: nyanja
+ny: nyandzsa
 nym: "nyamv\xE9zi"
 nyn: nyankole
 nyo: "nyor\xF3"
 nzi: nzima
 oc: "okszit\xE1n"
 oj: ojibva
-om: "orom\xF3i"
-or: orija
+om: oromo
+or: odia
 os: "osz\xE9t"
 osa: osage
 ota: "ottom\xE1n t\xF6r\xF6k"
@@ -360,13 +365,15 @@ pa: "pandzs\xE1bi"
 pag: pangaszinan
 pal: pahlavi
 pam: pampangan
-pap: "papiament\xF3"
+pap: papiamento
 pau: palaui
+pcm: "nig\xE9riai pidgin"
 peo: "\xF3perzsa"
 phn: "f\u0151niciai"
 pi: pali
 pl: lengyel
 pon: pohnpei
+prg: porosz
 pro: "\xF3prov\xE1nszi"
 ps: pastu
 pt: "portug\xE1l"
@@ -377,7 +384,7 @@ quc: kicse
 raj: "radzsaszt\xE1ni"
 rap: rapanui
 rar: rarotongai
-rm: "r\xE9to-rom\xE1n"
+rm: "r\xE9torom\xE1n"
 rn: kirundi
 ro: "rom\xE1n"
 ro_MD: moldvai
@@ -386,11 +393,11 @@ rom: roma
 root: "\u0151si"
 ru: orosz
 rup: "arom\xE1n"
-rw: kiruanda
+rw: kinyarvanda
 rwk: rwo
 sa: szanszkrit
 sad: szandave
-sah: jakut
+sah: szaha
 sam: "szamarit\xE1nus ar\xE1mi"
 saq: szamburu
 sas: sasak
@@ -419,12 +426,12 @@ sk: "szlov\xE1k"
 sl: "szlov\xE9n"
 sm: szamoai
 sma: "d\xE9li sz\xE1mi"
-smj: "lule sz\xE1mi"
-smn: inar sami
-sms: koltta lapp
+smj: "lulei sz\xE1mi"
+smn: "inari sz\xE1mi"
+sms: "kolta sz\xE1mi"
 sn: sona
 snk: szoninke
-so: "szom\xE1liai"
+so: "szom\xE1li"
 sog: sogdien
 sq: "alb\xE1n"
 sr: szerb
@@ -432,17 +439,17 @@ srn: "szranai tong\xF3"
 srr: szerer
 ss: sziszuati
 ssy: "szah\xF3"
-st: "szeszot\xF3"
+st: "d\xE9li szeszot\xF3"
 su: "szundan\xE9z"
 suk: szukuma
 sus: szuszu
 sux: "sum\xE9r"
 sv: "sv\xE9d"
 sw: "szuah\xE9li"
+sw_CD: "kong\xF3i szuah\xE9li"
 swb: comorei
-swc: "kong\xF3i szuah\xE9li"
 syc: "klasszikus sz\xEDr"
-syr: "sz\xEDriai"
+syr: "sz\xEDr"
 ta: tamil
 te: telugu
 tem: temne
@@ -451,7 +458,7 @@ ter: "teren\xF3"
 tet: tetum
 tg: tadzsik
 th: thai
-ti: tigrinja
+ti: tigrinya
 tig: "tigr\xE9"
 tiv: tiv
 tk: "t\xFCrkm\xE9n"
@@ -461,8 +468,8 @@ tlh: klingon
 tli: tlingit
 tmh: tamasek
 tn: "szecsu\xE1ni"
-to: tonga
-tog: nyasa tonga
+to: tongai
+tog: nyugati nyasza
 tpi: tok pisin
 tr: "t\xF6r\xF6k"
 trv: "tarok\xF3"
@@ -475,7 +482,7 @@ tw: twi
 twq: "szav\xE1k"
 ty: tahiti
 tyv: tuvai
-tzm: "k\xF6z\xE9p-marokk\xF3i tamazigt"
+tzm: "k\xF6z\xE9p-atlaszi tamazigt"
 udm: udmurt
 ug: ujgur
 uga: ugariti
@@ -497,8 +504,9 @@ war: "vara\xF3"
 was: "vas\xF3"
 wbp: warlpiri
 wo: volof
+wuu: "wu k\xEDnai"
 xal: "kalm\xFCk"
-xh: hosza
+xh: xhosza
 xog: szoga
 yao: "ja\xF3"
 yap: japi

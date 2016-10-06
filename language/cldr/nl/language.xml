@@ -93,10 +93,6 @@
     <name>Arabisch</name>
   </language>
   <language>
-    <code>ar_001</code>
-    <name>modern standaard Arabisch</name>
-  </language>
-  <language>
     <code>arc</code>
     <name>Aramees</name>
   </language>
@@ -421,6 +417,10 @@
     <name>Krim-Tataars</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>Seychellencreools</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>Tsjechisch</name>
   </language>
@@ -459,14 +459,6 @@
   <language>
     <code>de</code>
     <name>Duits</name>
-  </language>
-  <language>
-    <code>de_AT</code>
-    <name>Oostenrijks Duits</name>
-  </language>
-  <language>
-    <code>de_CH</code>
-    <name>Zwitsers Hoogduits</name>
   </language>
   <language>
     <code>del</code>
@@ -565,22 +557,6 @@
     <name>Engels</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>Australisch Engels</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>Canadees Engels</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>Brits Engels</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>Amerikaans Engels</name>
-  </language>
-  <language>
     <code>enm</code>
     <name>Middelengels</name>
   </language>
@@ -591,18 +567,6 @@
   <language>
     <code>es</code>
     <name>Spaans</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>Latijns-Amerikaans Spaans</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>Europees Spaans</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>Mexicaans Spaans</name>
   </language>
   <language>
     <code>esu</code>
@@ -667,14 +631,6 @@
   <language>
     <code>fr</code>
     <name>Frans</name>
-  </language>
-  <language>
-    <code>fr_CA</code>
-    <name>Canadees Frans</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>Zwitsers Frans</name>
   </language>
   <language>
     <code>frc</code>
@@ -1545,10 +1501,6 @@
     <name>Nederlands</name>
   </language>
   <language>
-    <code>nl_BE</code>
-    <name>Vlaams</name>
-  </language>
-  <language>
     <code>nmg</code>
     <name>Ngumba</name>
   </language>
@@ -1677,6 +1629,10 @@
     <name>Picardisch</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>Nigeriaans Pidgin</name>
+  </language>
+  <language>
     <code>pdc</code>
     <name>Pennsylvania-Duits</name>
   </language>
@@ -1731,14 +1687,6 @@
   <language>
     <code>pt</code>
     <name>Portugees</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>Braziliaans Portugees</name>
-  </language>
-  <language>
-    <code>pt_PT</code>
-    <name>Europees Portugees</name>
   </language>
   <language>
     <code>qu</code>
@@ -2059,10 +2007,6 @@
   <language>
     <code>swb</code>
     <name>Shimaore</name>
-  </language>
-  <language>
-    <code>swc</code>
-    <name>Congo Swahili</name>
   </language>
   <language>
     <code>syc</code>
@@ -2415,14 +2359,6 @@
   <language>
     <code>zh</code>
     <name>Chinees</name>
-  </language>
-  <language>
-    <code>zh_Hans</code>
-    <name>vereenvoudigd Chinees</name>
-  </language>
-  <language>
-    <code>zh_Hant</code>
-    <name>traditioneel Chinees</name>
   </language>
   <language>
     <code>zu</code>

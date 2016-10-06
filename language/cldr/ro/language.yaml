@@ -20,7 +20,7 @@ anp: angika
 ar: "arab\u0103"
 ar_001: "arab\u0103 standard modern\u0103"
 arc: "aramaic\u0103"
-arn: mapuche
+arn: "araucanian\u0103"
 arp: arapaho
 arw: arawak
 as: "asamez\u0103"
@@ -68,7 +68,7 @@ car: carib
 cay: cayuga
 cch: atsam
 ce: "cecen\u0103"
-ceb: cebuano
+ceb: "cebuan\u0103"
 cgg: chiga
 ch: chamorro
 chb: chibcha
@@ -80,11 +80,12 @@ cho: choctaw
 chp: chipewyan
 chr: cherokee
 chy: cheyenne
-ckb: "kurd\u0103 sorani"
+ckb: "kurd\u0103 central\u0103"
 co: "corsican\u0103"
 cop: "copt\u0103"
 cr: cree
 crh: "turc\u0103 crimeean\u0103"
+crs: "creol\u0103 francez\u0103 seselwa"
 cs: "ceh\u0103"
 csb: "ca\u0219ubian\u0103"
 cu: "slavon\u0103"
@@ -95,8 +96,7 @@ dak: dakota
 dar: dargwa
 dav: taita
 de: "german\u0103"
-de_AT: "german\u0103 austriac\u0103"
-de_CH: "german\u0103 standard elve\u021Bian\u0103"
+de_CH: "german\u0103 standard (Elve\u021Bia)"
 del: delaware
 den: slave
 dgr: dogrib
@@ -105,7 +105,7 @@ dje: zarma
 doi: dogri
 dsb: "sorab\u0103 de jos"
 dua: duala
-dum: "olandez\u0103 mijlocie"
+dum: "neerlandez\u0103 medie"
 dv: divehi
 dyo: jola-fonyi
 dyu: dyula
@@ -119,17 +119,10 @@ eka: ekajuk
 el: "greac\u0103"
 elx: "elamit\u0103"
 en: "englez\u0103"
-en_AU: "englez\u0103 australian\u0103"
-en_CA: "englez\u0103 canadian\u0103"
-en_GB: "englez\u0103 britanic\u0103"
-en_US: "englez\u0103 american\u0103"
-enm: "englez\u0103 mijlocie"
+enm: "englez\u0103 medie"
 eo: esperanto
 es: "spaniol\u0103"
-es_419: "spaniol\u0103 latino-american\u0103"
-es_ES: "spaniol\u0103 european\u0103"
-es_MX: "spaniol\u0103 mexican\u0103"
-et: "estonian\u0103"
+et: "eston\u0103"
 eu: "basc\u0103"
 ewo: ewondo
 fa: "persan\u0103"
@@ -142,9 +135,7 @@ fj: "fijian\u0103"
 fo: "faroez\u0103"
 fon: fon
 fr: "francez\u0103"
-fr_CA: "francez\u0103 canadian\u0103"
-fr_CH: "francez\u0103 elve\u021Bian\u0103"
-frm: "francez\u0103 mijlocie"
+frm: "francez\u0103 medie"
 fro: "francez\u0103 veche"
 frr: "frizon\u0103 nordic\u0103"
 frs: "frizon\u0103 oriental\u0103"
@@ -153,27 +144,29 @@ fy: "frizon\u0103 occidental\u0103"
 ga: "irlandez\u0103"
 gaa: ga
 gag: "g\u0103g\u0103uz\u0103"
+gan: "chinez\u0103 gan"
 gay: gayo
 gba: gbaya
 gd: "gaelic\u0103 sco\u021Bian\u0103"
 gez: geez
 gil: "gilbertin\u0103"
 gl: "galician\u0103"
-gmh: "german\u0103 mijlocie \xEEnalt\u0103"
+gmh: "german\u0103 \xEEnalt\u0103 medie"
 gn: guarani
-goh: "german\u0103 veche \xEEnalt\u0103"
+goh: "german\u0103 \xEEnalt\u0103 veche"
 gon: gondi
 gor: gorontalo
 got: "gotic\u0103"
 grb: grebo
 grc: "greac\u0103 veche"
-gsw: "german\u0103 elve\u021Bian\u0103"
+gsw: "german\u0103 (Elve\u021Bia)"
 gu: gujarati
 guz: gusii
 gv: manx
 gwi: "gwich\u02BCin"
 ha: hausa
 hai: haida
+hak: "chinez\u0103 hakka"
 haw: "hawaiian\u0103"
 he: "ebraic\u0103"
 hi: hindi
@@ -183,6 +176,7 @@ hmn: hmong
 ho: hiri motu
 hr: "croat\u0103"
 hsb: "sorab\u0103 de sus"
+hsn: "chinez\u0103 xiang"
 ht: "haitian\u0103"
 hu: "maghiar\u0103"
 hup: hupa
@@ -224,7 +218,7 @@ kea: kabuverdianu
 kfo: koro
 kg: "congolez\u0103"
 kha: khasi
-kho: "limbp khotanez\u0103"
+kho: "khotanez\u0103"
 khq: koyra chiini
 ki: kikuyu
 kj: kuanyama
@@ -275,7 +269,7 @@ lua: luba-lulua
 lui: luiseno
 lun: lunda
 luo: luo
-lus: lusahi
+lus: mizo
 luy: luyia
 lv: "leton\u0103"
 mad: "madurez\u0103"
@@ -292,7 +286,7 @@ men: mende
 mer: meru
 mfe: morisyen
 mg: "malga\u0219\u0103"
-mga: "irlandez\u0103 mijlocie"
+mga: "irlandez\u0103 medie"
 mgh: makhuwa-meetto
 mgo: "meta\u2019"
 mh: "marshallez\u0103"
@@ -303,22 +297,23 @@ mk: "macedonean\u0103"
 ml: malayalam
 mn: "mongol\u0103"
 mnc: "manciurian\u0103"
-mni: manipur
+mni: manipuri
 moh: mohawk
 mos: mossi
 mr: marathi
 ms: "malaez\u0103"
 mt: "maltez\u0103"
 mua: mundang
-mul: limbi multiple
+mul: mai multe limbi
 mus: creek
 mwl: "mirandez\u0103"
 mwr: marwari
-my: "birmanez\u0103"
+my: "birman\u0103"
 mye: myene
 myv: erzya
 mzn: mazanderani
 na: nauru
+nan: "chinez\u0103 min nan"
 nap: "napolitan\u0103"
 naq: nama
 nb: "norvegian\u0103 bokm\xE5l"
@@ -362,16 +357,16 @@ pal: pahlavi
 pam: pampanga
 pap: papiamento
 pau: "palauan\u0103"
+pcm: pidgin nigerian
 peo: "persan\u0103 veche"
 phn: "fenician\u0103"
 pi: pali
 pl: "polonez\u0103"
 pon: "pohnpeian\u0103"
+prg: "prusac\u0103"
 pro: "provensal\u0103 veche"
 ps: "pa\u0219tun\u0103"
 pt: "portughez\u0103"
-pt_BR: "portughez\u0103 brazilian\u0103"
-pt_PT: "portughez\u0103 european\u0103"
 qu: quechua
 quc: "quich\xE9"
 raj: rajasthani
@@ -413,7 +408,7 @@ sh: "s\xE2rbo-croat\u0103"
 shi: tachelhit
 shn: shan
 shu: "arab\u0103 ciadian\u0103"
-si: "singhalez\u0103"
+si: "singalez\u0103"
 sid: sidamo
 sk: "slovac\u0103"
 sl: "sloven\u0103"
@@ -439,8 +434,8 @@ sus: susu
 sux: "sumerian\u0103"
 sv: "suedez\u0103"
 sw: swahili
+sw_CD: swahili (R.D. Congo)
 swb: "comorez\u0103"
-swc: swahili Congo
 syc: "siriac\u0103 clasic\u0103"
 syr: "siriac\u0103"
 ta: "tamil\u0103"
@@ -461,7 +456,7 @@ tlh: "klingonian\u0103"
 tli: tlingit
 tmh: tamashek
 tn: setswana
-to: tonga
+to: "tongan\u0103"
 tog: nyasa tonga
 tpi: tok pisin
 tr: "turc\u0103"
@@ -488,15 +483,16 @@ vai: vai
 ve: venda
 vi: "vietnamez\u0103"
 vo: volapuk
-vot: votic
+vot: "votic\u0103"
 vun: vunjo
 wa: "valon\u0103"
 wae: walser
-wal: walamo
+wal: wolaita
 war: waray
 was: washo
 wbp: warlpiri
 wo: wolof
+wuu: "chinez\u0103 wu"
 xal: "calmuc\u0103"
 xh: xhosa
 xog: soga
@@ -513,7 +509,6 @@ zbl: simboluri Bilss
 zen: zenaga
 zgh: "tamazight standard marocan\u0103"
 zh: "chinez\u0103"
-zh_Hans: "chinez\u0103 simplificat\u0103"
 zh_Hant: "chinez\u0103 tradi\u021Bional\u0103"
 zu: zulu
 zun: zuni

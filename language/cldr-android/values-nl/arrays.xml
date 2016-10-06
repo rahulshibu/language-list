@@ -48,8 +48,6 @@
     <item>Angika</item>
     <!-- ar - Arabic -->
     <item>Arabisch</item>
-    <!-- ar_001 - Modern Standard Arabic -->
-    <item>modern standaard Arabisch</item>
     <!-- arc - Aramaic -->
     <item>Aramees</item>
     <!-- arn - Mapuche -->
@@ -134,7 +132,7 @@
     <item>Siksika</item>
     <!-- bm - Bambara -->
     <item>Bambara</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>Bengaals</item>
     <!-- bo - Tibetan -->
     <item>Tibetaans</item>
@@ -212,6 +210,8 @@
     <item>Cree</item>
     <!-- crh - Crimean Turkish -->
     <item>Krim-Tataars</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>Seychellencreools</item>
     <!-- cs - Czech -->
     <item>Tsjechisch</item>
     <!-- csb - Kashubian -->
@@ -232,10 +232,6 @@
     <item>Taita</item>
     <!-- de - German -->
     <item>Duits</item>
-    <!-- de_AT - Austrian German -->
-    <item>Oostenrijks Duits</item>
-    <!-- de_CH - Swiss High German -->
-    <item>Zwitsers Hoogduits</item>
     <!-- del - Delaware -->
     <item>Delaware</item>
     <!-- den - Slave -->
@@ -284,26 +280,12 @@
     <item>Elamitisch</item>
     <!-- en - English -->
     <item>Engels</item>
-    <!-- en_AU - Australian English -->
-    <item>Australisch Engels</item>
-    <!-- en_CA - Canadian English -->
-    <item>Canadees Engels</item>
-    <!-- en_GB - British English -->
-    <item>Brits Engels</item>
-    <!-- en_US - American English -->
-    <item>Amerikaans Engels</item>
     <!-- enm - Middle English -->
     <item>Middelengels</item>
     <!-- eo - Esperanto -->
     <item>Esperanto</item>
     <!-- es - Spanish -->
     <item>Spaans</item>
-    <!-- es_419 - Latin American Spanish -->
-    <item>Latijns-Amerikaans Spaans</item>
-    <!-- es_ES - European Spanish -->
-    <item>Europees Spaans</item>
-    <!-- es_MX - Mexican Spanish -->
-    <item>Mexicaans Spaans</item>
     <!-- esu - Central Yupik -->
     <item>Yupik</item>
     <!-- et - Estonian -->
@@ -336,10 +318,6 @@
     <item>Fon</item>
     <!-- fr - French -->
     <item>Frans</item>
-    <!-- fr_CA - Canadian French -->
-    <item>Canadees Frans</item>
-    <!-- fr_CH - Swiss French -->
-    <item>Zwitsers Frans</item>
     <!-- frc - Cajun French -->
     <item>Cajun-Frans</item>
     <!-- frm - Middle French -->
@@ -700,7 +678,7 @@
     <item>Marshallees</item>
     <!-- mi - Maori -->
     <item>Maori</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>Mi’kmaq</item>
     <!-- min - Minangkabau -->
     <item>Minangkabau</item>
@@ -728,7 +706,7 @@
     <item>Maltees</item>
     <!-- mua - Mundang -->
     <item>Mundang</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>Meerdere talen</item>
     <!-- mus - Creek -->
     <item>Creek</item>
@@ -774,8 +752,6 @@
     <item>Ao Naga</item>
     <!-- nl - Dutch -->
     <item>Nederlands</item>
-    <!-- nl_BE - Flemish -->
-    <item>Vlaams</item>
     <!-- nmg - Kwasio -->
     <item>Ngumba</item>
     <!-- nn - Norwegian Nynorsk -->
@@ -818,7 +794,7 @@
     <item>Ojibwa</item>
     <!-- om - Oromo -->
     <item>Afaan Oromo</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>Odia</item>
     <!-- os - Ossetic -->
     <item>Ossetisch</item>
@@ -840,6 +816,8 @@
     <item>Palaus</item>
     <!-- pcd - Picard -->
     <item>Picardisch</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Nigeriaans Pidgin</item>
     <!-- pdc - Pennsylvania German -->
     <item>Pennsylvania-Duits</item>
     <!-- pdt - Plautdietsch -->
@@ -868,10 +846,6 @@
     <item>Pasjtoe</item>
     <!-- pt - Portuguese -->
     <item>Portugees</item>
-    <!-- pt_BR - Brazilian Portuguese -->
-    <item>Braziliaans Portugees</item>
-    <!-- pt_PT - European Portuguese -->
-    <item>Europees Portugees</item>
     <!-- qu - Quechua -->
     <item>Quechua</item>
     <!-- quc - Kʼicheʼ -->
@@ -1032,8 +1006,6 @@
     <item>Swahili</item>
     <!-- swb - Comorian -->
     <item>Shimaore</item>
-    <!-- swc - Congo Swahili -->
-    <item>Congo Swahili</item>
     <!-- syc - Classical Syriac -->
     <item>Klassiek Syrisch</item>
     <!-- syr - Syriac -->
@@ -1128,7 +1100,7 @@
     <item>Oekraïens</item>
     <!-- umb - Umbundu -->
     <item>Umbundu</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>onbekende taal</item>
     <!-- ur - Urdu -->
     <item>Urdu</item>
@@ -1210,10 +1182,6 @@
     <item>Standaard Marokkaanse Tamazight</item>
     <!-- zh - Chinese -->
     <item>Chinees</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>vereenvoudigd Chinees</item>
-    <!-- zh_Hant - Traditional Chinese -->
-    <item>traditioneel Chinees</item>
     <!-- zu - Zulu -->
     <item>Zoeloe</item>
     <!-- zun - Zuni -->

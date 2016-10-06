@@ -1,19 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>ady</code>
+    <name>adygué</name>
+  </language>
+  <language>
+    <code>ang</code>
+    <name>vieil anglais</name>
+  </language>
+  <language>
     <code>arn</code>
     <name>araukan</name>
+  </language>
+  <language>
+    <code>az</code>
+    <name>azerbaïdjanais</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>bena</name>
+  </language>
+  <language>
+    <code>bik</code>
+    <name>bicol</name>
+  </language>
+  <language>
+    <code>byn</code>
+    <name>bilen</name>
+  </language>
+  <language>
+    <code>byv</code>
+    <name>medumba</name>
+  </language>
+  <language>
+    <code>chg</code>
+    <name>tchagatay</name>
+  </language>
+  <language>
+    <code>chn</code>
+    <name>chinook</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>kurde central</name>
+  </language>
+  <language>
+    <code>cr</code>
+    <name>cri</name>
+  </language>
+  <language>
+    <code>den</code>
+    <name>slave</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>tlicho</name>
+  </language>
+  <language>
+    <code>esu</code>
+    <name>yupik central</name>
+  </language>
+  <language>
+    <code>ewo</code>
+    <name>ewondo</name>
+  </language>
+  <language>
+    <code>frc</code>
+    <name>cajun</name>
+  </language>
+  <language>
+    <code>frp</code>
+    <name>franco-provençal</name>
+  </language>
+  <language>
+    <code>gbz</code>
+    <name>dari</name>
+  </language>
+  <language>
+    <code>goh</code>
+    <name>vieux haut-allemand</name>
+  </language>
+  <language>
+    <code>gu</code>
+    <name>gujarati</name>
+  </language>
+  <language>
+    <code>ilo</code>
+    <name>ilocano</name>
+  </language>
+  <language>
+    <code>kbd</code>
+    <name>kabarde</name>
+  </language>
+  <language>
+    <code>ken</code>
+    <name>kenyang</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>kalaallisut</name>
+  </language>
+  <language>
+    <code>ksh</code>
+    <name>kölsch</name>
+  </language>
+  <language>
+    <code>liv</code>
+    <name>live</name>
   </language>
   <language>
     <code>luo</code>
     <name>luo</name>
   </language>
   <language>
+    <code>lzh</code>
+    <name>chinois classique</name>
+  </language>
+  <language>
     <code>mgo</code>
-    <name>Meta’</name>
+    <name>meta’</name>
+  </language>
+  <language>
+    <code>mwr</code>
+    <name>marwari</name>
+  </language>
+  <language>
+    <code>mwv</code>
+    <name>mentawai</name>
   </language>
   <language>
     <code>nds</code>
     <name>bas allemand</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>bas saxon</name>
+  </language>
+  <language>
+    <code>njo</code>
+    <name>ao naga</name>
+  </language>
+  <language>
+    <code>nwc</code>
+    <name>newari classique</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>nkole</name>
+  </language>
+  <language>
+    <code>or</code>
+    <name>odia</name>
+  </language>
+  <language>
+    <code>pau</code>
+    <name>palauan</name>
+  </language>
+  <language>
+    <code>pdc</code>
+    <name>allemand de Pennsylvanie</name>
+  </language>
+  <language>
+    <code>pdt</code>
+    <name>bas allemand mennonite</name>
+  </language>
+  <language>
+    <code>peo</code>
+    <name>vieux perse</name>
+  </language>
+  <language>
+    <code>pfl</code>
+    <name>palatin</name>
+  </language>
+  <language>
+    <code>pro</code>
+    <name>ancien occitan</name>
+  </language>
+  <language>
+    <code>rar</code>
+    <name>rarotonga</name>
+  </language>
+  <language>
+    <code>rup</code>
+    <name>aroumain</name>
+  </language>
+  <language>
+    <code>sat</code>
+    <name>santali</name>
+  </language>
+  <language>
+    <code>sdh</code>
+    <name>kurde méridional</name>
+  </language>
+  <language>
+    <code>se</code>
+    <name>same du Nord</name>
+  </language>
+  <language>
+    <code>sei</code>
+    <name>seri</name>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>sango</name>
+  </language>
+  <language>
+    <code>sga</code>
+    <name>vieil irlandais</name>
+  </language>
+  <language>
+    <code>sly</code>
+    <name>selayar</name>
+  </language>
+  <language>
+    <code>sma</code>
+    <name>same du Sud</name>
+  </language>
+  <language>
+    <code>smj</code>
+    <name>same de Lule</name>
+  </language>
+  <language>
+    <code>sms</code>
+    <name>same skolt</name>
+  </language>
+  <language>
+    <code>stq</code>
+    <name>frison de Saterland</name>
+  </language>
+  <language>
+    <code>sus</code>
+    <name>sosso</name>
+  </language>
+  <language>
+    <code>sw_CD</code>
+    <name>swahili congolais</name>
+  </language>
+  <language>
+    <code>tru</code>
+    <name>turoyo</name>
+  </language>
+  <language>
+    <code>tyv</code>
+    <name>touvain</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>tamazight</name>
+  </language>
+  <language>
+    <code>vo</code>
+    <name>volapük</name>
   </language>
 </languages>

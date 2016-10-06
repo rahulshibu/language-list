@@ -23,7 +23,7 @@ anp: angika
 ar: arabski
 ar_001: "wsp\xF3\u0142czesny arabski"
 arc: aramejski
-arn: "arauka\u0144ski"
+arn: mapudungun
 aro: araona
 arp: arapaho
 arq: algierski arabski
@@ -38,12 +38,12 @@ av: awarski
 avk: kotava
 awa: awadhi
 ay: ajmara
-az: azerski
+az: "azerbejd\u017Ca\u0144ski"
 ba: baszkirski
 bal: "belud\u017Ci"
 ban: balijski
 bar: bawarski
-bas: basa
+bas: basaa
 bax: bamum
 bbc: batak toba
 bbj: ghomala
@@ -73,39 +73,40 @@ bra: "brad\u017A"
 brh: brahui
 brx: bodo
 bs: "bo\u015Bniacki"
-bss: akose
+bss: akoose
 bua: buriacki
-bug: "bugi\u0144ski"
+bug: bugijski
 bum: bulu
 byn: blin
 byv: medumba
 ca: "katalo\u0144ski"
 cad: kaddo
-car: karibi
+car: karaibski
 cay: kajuga
 cch: atsam
 ce: "czecze\u0144ski"
 ceb: cebuano
 cgg: chiga
-ch: chamorro
+ch: czamorro
 chb: czibcza
 chg: czagatajski
-chk: truk
+chk: chuuk
 chm: maryjski
-chn: "\u017Cargon Chinook"
-cho: choctaw
-chp: chipewyan
+chn: "\u017Cargon czinucki"
+cho: czoktawski
+chp: "czipewia\u0144ski"
 chr: czirokeski
-chy: "j\u0119zyk Czejen\xF3w"
+chy: "czeje\u0144ski"
 ckb: sorani
 co: "korsyka\u0144ski"
 cop: koptyjski
 cps: capiznon
 cr: kri
-crh: krymski turecki
+crh: krymskotatarski
+crs: kreolski seszelski
 cs: czeski
 csb: kaszubski
-cu: "staro-cerkiewno-s\u0142owia\u0144ski"
+cu: "cerkiewnos\u0142owia\u0144ski"
 cv: czuwaski
 cy: walijski
 da: "du\u0144ski"
@@ -127,14 +128,14 @@ dua: duala
 dum: "\u015Bredniowieczny niderlandzki"
 dv: malediwski
 dyo: diola
-dyu: dyula
+dyu: diula
 dz: dzongkha
 dzg: dazaga
 ebu: embu
 ee: ewe
 efi: efik
 egl: emilijski
-egy: "staro\u017Cytny egipski"
+egy: staroegipski
 eka: ekajuk
 el: grecki
 elx: elamicki
@@ -167,13 +168,13 @@ fon: fon
 fr: francuski
 fr_CA: kanadyjski francuski
 fr_CH: szwajcarski francuski
-frc: cajun
+frc: "caju\u0144ski"
 frm: "\u015Bredniofrancuski"
 fro: starofrancuski
 frp: franko-prowansalski
 frr: "p\xF3\u0142nocnofryzyjski"
-frs: fryzyjski wschodni
-fur: friulijski
+frs: wschodniofryzyjski
+fur: friulski
 fy: zachodniofryzyjski
 ga: irlandzki
 gaa: ga
@@ -197,7 +198,7 @@ got: gocki
 grb: grebo
 grc: starogrecki
 gsw: szwajcarski niemiecki
-gu: "gud\u017Aaracki"
+gu: "gud\u017Carati"
 guc: "way\xFAu"
 gur: frafra
 guz: gusii
@@ -210,20 +211,20 @@ haw: hawajski
 he: hebrajski
 hi: hindi
 hif: "hindi fid\u017Cyjskie"
-hil: hiligajnon
+hil: hiligaynon
 hit: hetycki
-hmn: hmongijski
+hmn: hmong
 ho: hiri motu
 hr: chorwacki
 hsb: "g\xF3rno\u0142u\u017Cycki"
 hsn: xiang
-ht: "haita\u0144ski"
+ht: "kreolski haita\u0144ski"
 hu: "w\u0119gierski"
 hup: hupa
 hy: "ormia\u0144ski"
 hz: herero
 ia: interlingua
-iba: ibanag
+iba: iban
 ibb: ibibio
 id: indonezyjski
 ie: interlingue
@@ -242,7 +243,7 @@ jam: jamajski
 jbo: lojban
 jgo: ngombe
 jmc: machame
-jpr: judeoperski
+jpr: judeo-perski
 jrb: judeoarabski
 jut: jutlandzki
 jv: jawajski
@@ -264,7 +265,7 @@ kg: kongo
 kgp: kaingang
 kha: khasi
 kho: "chota\u0144ski"
-khq: koyra chini
+khq: koyra chiini
 khw: khowar
 ki: kikuju
 kiu: "kirmand\u017Cki"
@@ -306,7 +307,7 @@ lb: luksemburski
 lez: lezgijski
 lfn: Lingua Franca Nova
 lg: ganda
-li: limburgijski
+li: limburski
 lij: liguryjski
 liv: liwski
 lkt: lakota
@@ -323,7 +324,7 @@ lua: luba-lulua
 lui: luiseno
 lun: lunda
 luo: luo
-lus: lushai
+lus: mizo
 luy: luhya
 lv: "\u0142otewski"
 lzh: "chi\u0144ski klasyczny"
@@ -336,7 +337,7 @@ mak: makasar
 man: mandingo
 mas: masajski
 mde: maba
-mdf: moksha
+mdf: moksza
 mdr: mandar
 men: mende
 mer: meru
@@ -345,15 +346,15 @@ mg: malgaski
 mga: "\u015Brednioirlandzki"
 mgh: makua
 mgo: meta
-mh: marshall
+mh: marszalski
 mi: maoryjski
-mic: micmac
+mic: mikmak
 min: minangkabu
 mk: "macedo\u0144ski"
 ml: malajalam
 mn: mongolski
 mnc: manchu
-mni: manipuryjski
+mni: manipuri
 moh: mohawk
 mos: mossi
 mr: marathi
@@ -362,13 +363,13 @@ ms: malajski
 mt: "malta\u0144ski"
 mua: mundang
 mul: "wiele j\u0119zyk\xF3w"
-mus: creek
-mwl: mirandese
+mus: krik
+mwl: mirandyjski
 mwr: marwari
 mwv: mentawai
 my: "birma\u0144ski"
 mye: myene
-myv: erzya
+myv: erzja
 mzn: "mazandera\u0144ski"
 na: nauru
 nan: "minna\u0144ski"
@@ -377,6 +378,7 @@ naq: nama
 nb: "norweski (bokm\xE5l)"
 nd: "ndebele p\xF3\u0142nocny"
 nds: dolnoniemiecki
+nds_NL: "dolnosakso\u0144ski"
 ne: nepalski
 new: newarski
 ng: ndonga
@@ -403,9 +405,9 @@ nym: niamwezi
 nyn: nyankole
 nyo: nyoro
 nzi: nzema
-oc: prowansalski
+oc: "oksyta\u0144ski"
 oj: "od\u017Cibwa"
-om: oromski
+om: oromo
 or: orija
 os: osetyjski
 osa: osage
@@ -417,6 +419,7 @@ pam: pampango
 pap: papiamento
 pau: palau
 pcd: pikardyjski
+pcm: "pid\u017Cyn nigeryjski"
 pdc: "pensylwa\u0144ski"
 pdt: plautdietsch
 peo: staroperski
@@ -435,7 +438,7 @@ pt_BR: brazylijski portugalski
 pt_PT: europejski portugalski
 qu: keczua
 quc: kicze
-qug: "chimborazo g\xF3rski keczua"
+qug: "keczua g\xF3rski (Chimborazo)"
 raj: "rad\u017Aasthani"
 rap: rapanui
 rar: rarotonga
@@ -467,11 +470,11 @@ sba: ngambay
 sbp: sangu
 sc: "sardy\u0144ski"
 scn: sycylijski
-sco: szkocki
+sco: scots
 sd: sindhi
 sdc: sassarski
 sdh: "po\u0142udniowokurdyjski"
-se: "lapo\u0144ski p\xF3\u0142nocny"
+se: "p\xF3\u0142nocnolapo\u0144ski"
 see: seneka
 seh: sena
 sei: seri
@@ -482,7 +485,7 @@ sga: staroirlandzki
 sgs: "\u017Cmudzki"
 sh: serbsko-chorwacki
 shi: tashelhiyt
-shn: shan
+shn: szan
 shu: arabski (Czad)
 si: syngaleski
 sid: sidamo
@@ -491,11 +494,11 @@ sl: "s\u0142owe\u0144ski"
 sli: "dolno\u015Bl\u0105ski"
 sly: selayar
 sm: "samoa\u0144ski"
-sma: "lapo\u0144ski po\u0142udniowy"
-smj: "lapo\u0144ski Lule"
-smn: "lapo\u0144ski Inari"
-sms: "lapo\u0144ski Skolt"
-sn: szona
+sma: "po\u0142udniowolapo\u0144ski"
+smj: lule
+smn: inari
+sms: skolt
+sn: shona
 snk: soninke
 so: somalijski
 sog: sogdyjski
@@ -503,7 +506,7 @@ sq: "alba\u0144ski"
 sr: serbski
 srn: sranan tongo
 srr: serer
-ss: siswati
+ss: suazi
 ssy: saho
 st: "sotho po\u0142udniowy"
 stq: fryzyjski saterlandzki
@@ -513,8 +516,8 @@ sus: susu
 sux: sumeryjski
 sv: szwedzki
 sw: suahili
+sw_CD: kongijski suahili
 swb: komoryjski
-swc: kongijski suahili
 syc: syriacki
 syr: syryjski
 szl: "\u015Bl\u0105ski"
@@ -556,7 +559,7 @@ tw: twi
 twq: tasawaq
 ty: "tahita\u0144ski"
 tyv: "tuwi\u0144ski"
-tzm: "centralnomaroka\u0144ski tamazight"
+tzm: "tamazight (Atlas \u015Arodkowy)"
 udm: udmurcki
 ug: ujgurski
 uga: ugarycki
@@ -572,16 +575,16 @@ vep: wepski
 vi: wietnamski
 vls: zachodnioflamandzki
 vmf: "me\u0144ski franko\u0144ski"
-vo: volapuk
+vo: wolapik
 vot: wotiacki
 vro: "v\xF5ro"
 vun: vunjo
 wa: "walo\u0144ski"
 wae: walser
-wal: walamo
+wal: wolayta
 war: waraj
 was: washo
-wbp: Warlpiri
+wbp: warlpiri
 wo: wolof
 wuu: wu
 xal: "ka\u0142mucki"
@@ -594,7 +597,7 @@ yav: yangben
 ybb: yemba
 yi: jidysz
 yo: joruba
-yrl: nhengatu
+yrl: nheengatu
 yue: "kanto\u0144ski"
 za: czuang
 zap: zapotecki
@@ -603,8 +606,8 @@ zea: zelandzki
 zen: zenaga
 zgh: "standardowy maroka\u0144ski tamazight"
 zh: "chi\u0144ski"
-zh_Hans: "chi\u0144ski (uproszczony)"
-zh_Hant: "chi\u0144ski (tradycyjny)"
+zh_Hans: "chi\u0144ski uproszczony"
+zh_Hant: "chi\u0144ski tradycyjny"
 zu: zulu
 zun: zuni
 zxx: "brak tre\u015Bci o charakterze j\u0119zykowym"

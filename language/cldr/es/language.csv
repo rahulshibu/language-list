@@ -3,7 +3,7 @@ ab,abjasio
 ace,acehnés
 ach,acoli
 ada,adangme
-ady,adigeo
+ady,adigué
 ae,avéstico
 af,afrikáans
 afh,afrihili
@@ -33,8 +33,8 @@ az,azerbaiyano
 ba,baskir
 bal,baluchi
 ban,balinés
-bas,basa
-bax,bamun
+bas,basaa
+bax,bamún
 bbj,ghomala
 be,bielorruso
 bej,beja
@@ -43,7 +43,7 @@ bez,bena
 bfd,bafut
 bg,búlgaro
 bgn,baluchi occidental
-bho,bhojpuri
+bho,bhoyapurí
 bi,bislama
 bik,bicol
 bin,bini
@@ -57,7 +57,7 @@ bra,braj
 brx,bodo
 bs,bosnio
 bss,akoose
-bua,buriat
+bua,buriato
 bug,buginés
 bum,bulu
 byn,blin
@@ -85,6 +85,7 @@ co,corso
 cop,copto
 cr,cree
 crh,tártaro de Crimea
+crs,criollo seychelense
 cs,checo
 csb,casubio
 cu,eslavo eclesiástico
@@ -105,7 +106,7 @@ dje,zarma
 doi,dogri
 dsb,bajo sorbio
 dua,duala
-dum,neerlandés medieval
+dum,neerlandés medio
 dv,divehi
 dyo,jola-fonyi
 dyu,diula
@@ -123,7 +124,7 @@ en_AU,inglés australiano
 en_CA,inglés canadiense
 en_GB,inglés británico
 en_US,inglés estadounidense
-enm,inglés medieval
+enm,inglés medio
 eo,esperanto
 es,español
 es_419,español latinoamericano
@@ -144,7 +145,7 @@ fon,fon
 fr,francés
 fr_CA,francés canadiense
 fr_CH,francés suizo
-frm,francés medieval
+frm,francés medio
 fro,francés antiguo
 frr,frisón septentrional
 frs,frisón oriental
@@ -153,27 +154,29 @@ fy,frisón occidental
 ga,irlandés
 gaa,ga
 gag,gagauzo
+gan,chino gan
 gay,gayo
 gba,gbaya
 gd,gaélico escocés
 gez,geez
 gil,gilbertés
 gl,gallego
-gmh,alemán de la alta edad media
+gmh,alto alemán medio
 gn,guaraní
-goh,alemán de la alta edad antigua
+goh,alto alemán antiguo
 gon,gondi
 gor,gorontalo
 got,gótico
 grb,grebo
 grc,griego antiguo
 gsw,alemán suizo
-gu,gujarati
+gu,guyaratí
 guz,gusii
 gv,manés
 gwi,kutchin
 ha,hausa
 hai,haida
+hak,chino hakka
 haw,hawaiano
 he,hebreo
 hi,hindi
@@ -183,7 +186,8 @@ hmn,hmong
 ho,hiri motu
 hr,croata
 hsb,alto sorbio
-ht,haitiano
+hsn,chino xiang
+ht,criollo haitiano
 hu,húngaro
 hup,hupa
 hy,armenio
@@ -265,7 +269,7 @@ lg,ganda
 li,limburgués
 lkt,lakota
 ln,lingala
-lo,laosiano
+lo,lao
 lol,mongo
 loz,lozi
 lrc,lorí septentrional
@@ -275,7 +279,7 @@ lua,luba-lulua
 lui,luiseño
 lun,lunda
 luo,luo
-lus,lushai
+lus,mizo
 luy,luyia
 lv,letón
 mad,madurés
@@ -292,7 +296,7 @@ men,mende
 mer,meru
 mfe,criollo mauriciano
 mg,malgache
-mga,irlandés medieval
+mga,irlandés medio
 mgh,makhuwa-meetto
 mgo,meta’
 mh,marshalés
@@ -310,7 +314,7 @@ mr,maratí
 ms,malayo
 mt,maltés
 mua,mundang
-mul,lenguas múltiples
+mul,varios idiomas
 mus,creek
 mwl,mirandés
 mwr,marwari
@@ -319,11 +323,13 @@ mye,myene
 myv,erzya
 mzn,mazandaraní
 na,nauruano
+nan,chino min nan
 nap,napolitano
 naq,nama
 nb,noruego bokmal
 nd,ndebele septentrional
 nds,bajo alemán
+nds_NL,bajo sajón
 ne,nepalí
 new,newari
 ng,ndonga
@@ -339,7 +345,7 @@ nog,nogai
 non,nórdico antiguo
 nqo,n’ko
 nr,ndebele meridional
-nso,sotho septentrional
+nso,sesotho septentrional
 nus,nuer
 nv,navajo
 nwc,newari clásico
@@ -361,11 +367,13 @@ pal,pahlavi
 pam,pampanga
 pap,papiamento
 pau,palauano
+pcm,pidgin de Nigeria
 peo,persa antiguo
 phn,fenicio
 pi,pali
 pl,polaco
 pon,pohnpeiano
+prg,prusiano
 pro,provenzal antiguo
 ps,pastún
 pt,portugués
@@ -376,8 +384,8 @@ quc,quiché
 raj,rajasthani
 rap,rapanui
 rar,rarotongano
-rm,retorrománico
-rn,kiroundi
+rm,romanche
+rn,kirundi
 ro,rumano
 ro_MD,moldavo
 rof,rombo
@@ -429,7 +437,7 @@ sq,albanés
 sr,serbio
 srn,sranan tongo
 srr,serer
-ss,siswati
+ss,suazi
 ssy,saho
 st,sesotho meridional
 su,sundanés
@@ -438,8 +446,8 @@ sus,susu
 sux,sumerio
 sv,sueco
 sw,suajili
+sw_CD,suajili del Congo
 swb,comorense
-swc,suajili del Congo
 syc,siríaco clásico
 syr,siriaco
 ta,tamil
@@ -459,7 +467,7 @@ tl,tagalo
 tlh,klingon
 tli,tlingit
 tmh,tamashek
-tn,setchwana
+tn,setsuana
 to,tongano
 tog,tonga del Nyasa
 tpi,tok pisin
@@ -474,7 +482,7 @@ tw,twi
 twq,tasawaq
 ty,tahitiano
 tyv,tuviniano
-tzm,tamazight del Marruecos Central
+tzm,tamazight del Atlas Central
 udm,udmurt
 ug,uigur
 uga,ugarítico
@@ -491,11 +499,12 @@ vot,vótico
 vun,vunjo
 wa,valón
 wae,walser
-wal,walamo
+wal,wolayta
 war,waray
 was,washo
 wbp,warlpiri
-wo,wolof
+wo,wólof
+wuu,chino wu
 xal,kalmyk
 xh,xhosa
 xog,soga
@@ -503,7 +512,7 @@ yao,yao
 yap,yapés
 yav,yangben
 ybb,yemba
-yi,yídish
+yi,yidis
 yo,yoruba
 yue,cantonés
 za,zhuang
@@ -515,6 +524,6 @@ zh,chino
 zh_Hans,chino simplificado
 zh_Hant,chino tradicional
 zu,zulú
-zun,zuni
+zun,zuñi
 zxx,sin contenido lingüístico
 zza,zazaki

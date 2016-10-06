@@ -2,7 +2,11 @@
 <languages>
   <language>
     <code>af</code>
-    <name>africânder</name>
+    <name>africanês</name>
+  </language>
+  <language>
+    <code>ang</code>
+    <name>inglês antigo</name>
   </language>
   <language>
     <code>ar_001</code>
@@ -13,16 +17,16 @@
     <name>mapuche</name>
   </language>
   <language>
-    <code>az_Arab</code>
-    <name>azeri meridional</name>
-  </language>
-  <language>
     <code>bax</code>
     <name>bamun</name>
   </language>
   <language>
     <code>bbj</code>
     <name>ghomala</name>
+  </language>
+  <language>
+    <code>bua</code>
+    <name>buriat</name>
   </language>
   <language>
     <code>chn</code>
@@ -33,6 +37,10 @@
     <name>sorani curdo</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>francês crioulo seselwa</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>checo</name>
   </language>
@@ -41,8 +49,12 @@
     <name>chuvash</name>
   </language>
   <language>
-    <code>dsb</code>
-    <name>baixo sórabio</name>
+    <code>de_AT</code>
+    <name>alemão austríaco</name>
+  </language>
+  <language>
+    <code>de_CH</code>
+    <name>alto alemão suíço</name>
   </language>
   <language>
     <code>ee</code>
@@ -53,12 +65,28 @@
     <name>egípcio clássico</name>
   </language>
   <language>
+    <code>en_AU</code>
+    <name>inglês australiano</name>
+  </language>
+  <language>
     <code>en_CA</code>
     <name>inglês canadiano</name>
   </language>
   <language>
-    <code>enm</code>
-    <name>inglês medieval</name>
+    <code>en_GB</code>
+    <name>inglês britânico</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>inglês americano</name>
+  </language>
+  <language>
+    <code>es_419</code>
+    <name>espanhol latino-americano</name>
+  </language>
+  <language>
+    <code>es_ES</code>
+    <name>espanhol europeu</name>
   </language>
   <language>
     <code>et</code>
@@ -69,8 +97,12 @@
     <name>francês canadiano</name>
   </language>
   <language>
-    <code>frm</code>
-    <name>francês medieval</name>
+    <code>fr_CH</code>
+    <name>francês suíço</name>
+  </language>
+  <language>
+    <code>fro</code>
+    <name>francês antigo</name>
   </language>
   <language>
     <code>frs</code>
@@ -81,12 +113,16 @@
     <name>frísico ocidental</name>
   </language>
   <language>
-    <code>gmh</code>
-    <name>alemão medieval alto</name>
+    <code>goh</code>
+    <name>alemão alto antigo</name>
   </language>
   <language>
     <code>grc</code>
     <name>grego clássico</name>
+  </language>
+  <language>
+    <code>gsw</code>
+    <name>alemão suíço</name>
   </language>
   <language>
     <code>ha</code>
@@ -97,10 +133,6 @@
     <name>hindi</name>
   </language>
   <language>
-    <code>hsb</code>
-    <name>alto sórabio</name>
-  </language>
-  <language>
     <code>hy</code>
     <name>arménio</name>
   </language>
@@ -109,12 +141,12 @@
     <name>igbo</name>
   </language>
   <language>
-    <code>kea</code>
-    <name>cabo-verdiano</name>
+    <code>kbd</code>
+    <name>cabardiano</name>
   </language>
   <language>
-    <code>kg</code>
-    <name>conguês</name>
+    <code>kea</code>
+    <name>crioulo cabo-verdiano</name>
   </language>
   <language>
     <code>kn</code>
@@ -137,10 +169,6 @@
     <name>luo</name>
   </language>
   <language>
-    <code>mga</code>
-    <name>irlandês, medieval</name>
-  </language>
-  <language>
     <code>mk</code>
     <name>macedónio</name>
   </language>
@@ -157,28 +185,60 @@
     <name>baixo-alemão</name>
   </language>
   <language>
+    <code>nds_NL</code>
+    <name>baixo-saxão</name>
+  </language>
+  <language>
     <code>nn</code>
     <name>norueguês nynorsk</name>
   </language>
   <language>
+    <code>non</code>
+    <name>nórdico antigo</name>
+  </language>
+  <language>
     <code>oc</code>
-    <name>provençal</name>
+    <name>occitano</name>
   </language>
   <language>
     <code>os</code>
     <name>ossético</name>
   </language>
   <language>
+    <code>pag</code>
+    <name>língua pangasinesa</name>
+  </language>
+  <language>
+    <code>peo</code>
+    <name>persa antigo</name>
+  </language>
+  <language>
     <code>pl</code>
     <name>polaco</name>
+  </language>
+  <language>
+    <code>pon</code>
+    <name>língua pohnpeica</name>
+  </language>
+  <language>
+    <code>pro</code>
+    <name>provençal antigo</name>
   </language>
   <language>
     <code>ps</code>
     <name>pastó</name>
   </language>
   <language>
-    <code>rom</code>
-    <name>romanês</name>
+    <code>pt_BR</code>
+    <name>português do Brasil</name>
+  </language>
+  <language>
+    <code>pt_PT</code>
+    <name>português europeu</name>
+  </language>
+  <language>
+    <code>raj</code>
+    <name>rajastanês</name>
   </language>
   <language>
     <code>root</code>
@@ -193,28 +253,28 @@
     <name>sakha</name>
   </language>
   <language>
-    <code>shu</code>
-    <name>árabe do Chade</name>
+    <code>se</code>
+    <name>sami do norte</name>
   </language>
   <language>
-    <code>smj</code>
-    <name>lule sami</name>
+    <code>sga</code>
+    <name>irlandês antigo</name>
+  </language>
+  <language>
+    <code>shu</code>
+    <name>árabe do Chade</name>
   </language>
   <language>
     <code>smn</code>
     <name>inari sami</name>
   </language>
   <language>
-    <code>sms</code>
-    <name>skolt sami</name>
+    <code>ti</code>
+    <name>tigrínia</name>
   </language>
   <language>
     <code>tk</code>
     <name>turcomano</name>
-  </language>
-  <language>
-    <code>tl</code>
-    <name>tagalogue</name>
   </language>
   <language>
     <code>to</code>
@@ -227,5 +287,9 @@
   <language>
     <code>xog</code>
     <name>soga</name>
+  </language>
+  <language>
+    <code>yo</code>
+    <name>ioruba</name>
   </language>
 </languages>

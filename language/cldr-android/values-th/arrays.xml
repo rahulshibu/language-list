@@ -117,7 +117,7 @@
     <!-- bg - Bulgarian -->
     <item>บัลแกเรีย</item>
     <!-- bgn - Western Balochi -->
-    <item>บาลูจิตะวันออก</item>
+    <item>บาลูจิตะวันตก</item>
     <!-- bho - Bhojpuri -->
     <item>โภชปุรี</item>
     <!-- bi - Bislama -->
@@ -134,7 +134,7 @@
     <item>สิกสิกา</item>
     <!-- bm - Bambara -->
     <item>บัมบารา</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>เบงกาลี</item>
     <!-- bo - Tibetan -->
     <item>ทิเบต</item>
@@ -212,6 +212,8 @@
     <item>ครี</item>
     <!-- crh - Crimean Turkish -->
     <item>ตุรกีไครเมีย</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>ครีโอลเซเซลส์ฝรั่งเศส</item>
     <!-- cs - Czech -->
     <item>เช็ก</item>
     <!-- csb - Kashubian -->
@@ -363,7 +365,7 @@
     <!-- gag - Gagauz -->
     <item>กากาอุซ</item>
     <!-- gan - Gan Chinese -->
-    <item>จีนกาน</item>
+    <item>จีนกั้น</item>
     <!-- gay - Gayo -->
     <item>กาโย</item>
     <!-- gba - Gbaya -->
@@ -700,7 +702,7 @@
     <item>มาร์แชลลิส</item>
     <!-- mi - Maori -->
     <item>เมารี</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>มิกแมก</item>
     <!-- min - Minangkabau -->
     <item>มีนังกาเบา</item>
@@ -728,7 +730,7 @@
     <item>มอลตา</item>
     <!-- mua - Mundang -->
     <item>มันดัง</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>หลายภาษา</item>
     <!-- mus - Creek -->
     <item>ครีก</item>
@@ -820,7 +822,7 @@
     <item>โอจิบวา</item>
     <!-- om - Oromo -->
     <item>โอโรโม</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>โอริยา</item>
     <!-- os - Ossetic -->
     <item>ออสเซเตีย</item>
@@ -842,6 +844,8 @@
     <item>ปาเลา</item>
     <!-- pcd - Picard -->
     <item>ปิการ์</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>พิดจิน</item>
     <!-- pdc - Pennsylvania German -->
     <item>เยอรมันเพนซิลเวเนีย</item>
     <!-- pdt - Plautdietsch -->
@@ -1034,10 +1038,10 @@
     <item>สวีเดน</item>
     <!-- sw - Swahili -->
     <item>สวาฮีลี</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>สวาฮีลี-คองโก</item>
     <!-- swb - Comorian -->
     <item>โคเมอเรียน</item>
-    <!-- swc - Congo Swahili -->
-    <item>สวาฮีลี-คองโก</item>
     <!-- syc - Classical Syriac -->
     <item>ซีเรียแบบดั้งเดิม</item>
     <!-- syr - Syriac -->
@@ -1099,7 +1103,7 @@
     <!-- trv - Taroko -->
     <item>ทาโรโก</item>
     <!-- ts - Tsonga -->
-    <item>ซิิตซองกา</item>
+    <item>ซิตซองกา</item>
     <!-- tsd - Tsakonian -->
     <item>ซาโคเนีย</item>
     <!-- tsi - Tsimshian -->
@@ -1132,7 +1136,7 @@
     <item>ยูเครน</item>
     <!-- umb - Umbundu -->
     <item>อุมบุนดู</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>ภาษาที่ไม่รู้จัก</item>
     <!-- ur - Urdu -->
     <item>อูรดู</item>

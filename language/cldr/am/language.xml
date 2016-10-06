@@ -61,6 +61,10 @@
     <name>አልዩት</name>
   </language>
   <language>
+    <code>alt</code>
+    <name>ደቡባዊ አልታይ</name>
+  </language>
+  <language>
     <code>am</code>
     <name>አማርኛ</name>
   </language>
@@ -221,6 +225,10 @@
     <name>ባንጃር</name>
   </language>
   <language>
+    <code>bla</code>
+    <name>ሲክሲካ</name>
+  </language>
+  <language>
     <code>bm</code>
     <name>ባምባርኛ</name>
   </language>
@@ -329,6 +337,10 @@
     <name>ቹክስ</name>
   </language>
   <language>
+    <code>chm</code>
+    <name>ማሪ</name>
+  </language>
+  <language>
     <code>chn</code>
     <name>ቺኑክ ጃርጎን</name>
   </language>
@@ -371,6 +383,10 @@
   <language>
     <code>crh</code>
     <name>ክሪሚያን ተርኪሽ</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>ሰሰላዊ ክሬኦሊ ፈረንሳይኛ</name>
   </language>
   <language>
     <code>cs</code>
@@ -485,6 +501,10 @@
     <name>የጥንታዊ ግብጽኛ</name>
   </language>
   <language>
+    <code>eka</code>
+    <name>ኤካጁክ</name>
+  </language>
+  <language>
     <code>el</code>
     <name>ግሪክኛ</name>
   </language>
@@ -541,8 +561,16 @@
     <name>ባስክኛ</name>
   </language>
   <language>
+    <code>ewo</code>
+    <name>ኤዎንዶ</name>
+  </language>
+  <language>
     <code>fa</code>
     <name>ፐርሺያኛ</name>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>ፉላህ</name>
   </language>
   <language>
     <code>fi</code>
@@ -559,6 +587,10 @@
   <language>
     <code>fo</code>
     <name>ፋሮኛ</name>
+  </language>
+  <language>
+    <code>fon</code>
+    <name>ፎን</name>
   </language>
   <language>
     <code>fr</code>
@@ -581,6 +613,10 @@
     <name>አርፒታን</name>
   </language>
   <language>
+    <code>fur</code>
+    <name>ፍሩሊያን</name>
+  </language>
+  <language>
     <code>fy</code>
     <name>የምዕራብ ፍሪስኛ</name>
   </language>
@@ -597,12 +633,20 @@
     <name>ጋጉዝኛ</name>
   </language>
   <language>
+    <code>gan</code>
+    <name>ጋን ቻይንኛ</name>
+  </language>
+  <language>
     <code>gd</code>
-    <name>እስኮትስ ጌልክኛ</name>
+    <name>የስኮቲሽ ጌልክኛ</name>
   </language>
   <language>
     <code>gez</code>
     <name>ግዕዝኛ</name>
+  </language>
+  <language>
+    <code>gil</code>
+    <name>ጅልበርትስ</name>
   </language>
   <language>
     <code>gl</code>
@@ -611,6 +655,10 @@
   <language>
     <code>gn</code>
     <name>ጓራኒኛ</name>
+  </language>
+  <language>
+    <code>gor</code>
+    <name>ጎሮንታሎ</name>
   </language>
   <language>
     <code>grc</code>
@@ -633,8 +681,16 @@
     <name>ማንክስኛ</name>
   </language>
   <language>
+    <code>gwi</code>
+    <name>ግዊቺን</name>
+  </language>
+  <language>
     <code>ha</code>
     <name>ሃውሳኛ</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>ሃካ ቻይንኛ</name>
   </language>
   <language>
     <code>haw</code>
@@ -649,12 +705,24 @@
     <name>ሒንዱኛ</name>
   </language>
   <language>
+    <code>hil</code>
+    <name>ሂሊጋይኖን</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>ህሞንግ</name>
+  </language>
+  <language>
     <code>hr</code>
     <name>ክሮሽያንኛ</name>
   </language>
   <language>
     <code>hsb</code>
     <name>የላይኛው ሶርቢያንኛ</name>
+  </language>
+  <language>
+    <code>hsn</code>
+    <name>ዢያንግ ቻይንኛ</name>
   </language>
   <language>
     <code>ht</code>
@@ -665,12 +733,28 @@
     <name>ሀንጋሪኛ</name>
   </language>
   <language>
+    <code>hup</code>
+    <name>ሁፓ</name>
+  </language>
+  <language>
     <code>hy</code>
     <name>አርመናዊ</name>
   </language>
   <language>
+    <code>hz</code>
+    <name>ሄሬሮ</name>
+  </language>
+  <language>
     <code>ia</code>
     <name>ኢንቴርሊንጓ</name>
+  </language>
+  <language>
+    <code>iba</code>
+    <name>ኢባን</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>ኢቢቦ</name>
   </language>
   <language>
     <code>id</code>
@@ -693,6 +777,18 @@
     <name>እኑፒያቅኛ</name>
   </language>
   <language>
+    <code>ilo</code>
+    <name>ኢሎኮ</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>ኢንጉሽ</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>ኢዶ</name>
+  </language>
+  <language>
     <code>is</code>
     <name>አይስላንድኛ</name>
   </language>
@@ -707,6 +803,10 @@
   <language>
     <code>ja</code>
     <name>ጃፓንኛ</name>
+  </language>
+  <language>
+    <code>jbo</code>
+    <name>ሎጅባን</name>
   </language>
   <language>
     <code>jgo</code>
@@ -729,8 +829,24 @@
     <name>ካብይል</name>
   </language>
   <language>
+    <code>kac</code>
+    <name>ካቺን</name>
+  </language>
+  <language>
+    <code>kaj</code>
+    <name>ካጅ</name>
+  </language>
+  <language>
     <code>kam</code>
     <name>ካምባ</name>
+  </language>
+  <language>
+    <code>kbd</code>
+    <name>ካባርዲያን</name>
+  </language>
+  <language>
+    <code>kcg</code>
+    <name>ታያፕ</name>
   </language>
   <language>
     <code>kde</code>
@@ -741,8 +857,16 @@
     <name>ካቡቨርዲያኑ</name>
   </language>
   <language>
+    <code>kfo</code>
+    <name>ኮሮ</name>
+  </language>
+  <language>
     <code>kg</code>
     <name>ኮንጎኛ</name>
+  </language>
+  <language>
+    <code>kha</code>
+    <name>ክሃሲ</name>
   </language>
   <language>
     <code>khq</code>
@@ -753,8 +877,16 @@
     <name>ኪኩዩ</name>
   </language>
   <language>
+    <code>kj</code>
+    <name>ኩንያማ</name>
+  </language>
+  <language>
     <code>kk</code>
     <name>ካዛክኛ</name>
+  </language>
+  <language>
+    <code>kkj</code>
+    <name>ካኮ</name>
   </language>
   <language>
     <code>kl</code>
@@ -766,7 +898,11 @@
   </language>
   <language>
     <code>km</code>
-    <name>ክመርኛ ማእከላዊ</name>
+    <name>ክህመርኛ</name>
+  </language>
+  <language>
+    <code>kmb</code>
+    <name>ኪምቡንዱ</name>
   </language>
   <language>
     <code>kn</code>
@@ -782,7 +918,27 @@
   </language>
   <language>
     <code>kok</code>
-    <name>ኮካኒ</name>
+    <name>ኮንካኒ</name>
+  </language>
+  <language>
+    <code>kpe</code>
+    <name>ክፔሌ</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>ካኑሪ</name>
+  </language>
+  <language>
+    <code>krc</code>
+    <name>ካራቻይ-ባልካር</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>ካረሊኛ</name>
+  </language>
+  <language>
+    <code>kru</code>
+    <name>ኩሩክ</name>
   </language>
   <language>
     <code>ks</code>
@@ -805,6 +961,14 @@
     <name>ኩርድሽኛ</name>
   </language>
   <language>
+    <code>kum</code>
+    <name>ኩማይክ</name>
+  </language>
+  <language>
+    <code>kv</code>
+    <name>ኮሚ</name>
+  </language>
+  <language>
     <code>kw</code>
     <name>ኮርኒሽ</name>
   </language>
@@ -817,6 +981,10 @@
     <name>ላቲንኛ</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>ላዲኖ</name>
+  </language>
+  <language>
     <code>lag</code>
     <name>ላንጊ</name>
   </language>
@@ -825,8 +993,16 @@
     <name>ሉክዘምበርገርኛ</name>
   </language>
   <language>
+    <code>lez</code>
+    <name>ሌዝጊያን</name>
+  </language>
+  <language>
     <code>lg</code>
     <name>ጋንዳኛ</name>
+  </language>
+  <language>
+    <code>li</code>
+    <name>ሊምቡርጊሽ</name>
   </language>
   <language>
     <code>lkt</code>
@@ -838,7 +1014,7 @@
   </language>
   <language>
     <code>lo</code>
-    <name>ላውስኛ</name>
+    <name>ላኦስኛ</name>
   </language>
   <language>
     <code>loz</code>
@@ -861,8 +1037,16 @@
     <name>ሉባ-ሉሏ</name>
   </language>
   <language>
+    <code>lun</code>
+    <name>ሉንዳ</name>
+  </language>
+  <language>
     <code>luo</code>
     <name>ሉኦ</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>ሚዞ</name>
   </language>
   <language>
     <code>luy</code>
@@ -873,8 +1057,32 @@
     <name>ላትቪያን</name>
   </language>
   <language>
+    <code>mad</code>
+    <name>ማዱረስ</name>
+  </language>
+  <language>
+    <code>mag</code>
+    <name>ማጋሂ</name>
+  </language>
+  <language>
+    <code>mai</code>
+    <name>ማይተሊ</name>
+  </language>
+  <language>
+    <code>mak</code>
+    <name>ማካሳር</name>
+  </language>
+  <language>
     <code>mas</code>
     <name>ማሳይ</name>
+  </language>
+  <language>
+    <code>mdf</code>
+    <name>ሞክሻ</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>ሜንዴ</name>
   </language>
   <language>
     <code>mer</code>
@@ -897,8 +1105,20 @@
     <name>ሜታ</name>
   </language>
   <language>
+    <code>mh</code>
+    <name>ማርሻሌዝኛ</name>
+  </language>
+  <language>
     <code>mi</code>
-    <name>ማዮሪኛ</name>
+    <name>ማኦሪኛ</name>
+  </language>
+  <language>
+    <code>mic</code>
+    <name>ሚክማክ</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>ሚናንግካባኡ</name>
   </language>
   <language>
     <code>mk</code>
@@ -913,8 +1133,16 @@
     <name>ሞንጎላዊኛ</name>
   </language>
   <language>
+    <code>mni</code>
+    <name>ማኒፑሪ</name>
+  </language>
+  <language>
     <code>moh</code>
     <name>ሞሃውክ</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>ሞሲ</name>
   </language>
   <language>
     <code>mr</code>
@@ -933,12 +1161,24 @@
     <name>ሙንዳንግ</name>
   </language>
   <language>
+    <code>mul</code>
+    <name>ባለብዙ ቋንቋዎች</name>
+  </language>
+  <language>
     <code>mus</code>
     <name>ክሪክ</name>
   </language>
   <language>
+    <code>mwl</code>
+    <name>ሚራንዴዝኛ</name>
+  </language>
+  <language>
     <code>my</code>
     <name>ቡርማኛ</name>
+  </language>
+  <language>
+    <code>myv</code>
+    <name>ኤርዝያ</name>
   </language>
   <language>
     <code>mzn</code>
@@ -947,6 +1187,14 @@
   <language>
     <code>na</code>
     <name>ናኡሩ</name>
+  </language>
+  <language>
+    <code>nan</code>
+    <name>ሚን ኛን ቻይንኛ</name>
+  </language>
+  <language>
+    <code>nap</code>
+    <name>ኒአፖሊታን</name>
   </language>
   <language>
     <code>naq</code>
@@ -973,6 +1221,22 @@
     <name>ኔፓሊኛ</name>
   </language>
   <language>
+    <code>new</code>
+    <name>ነዋሪ</name>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>ንዶንጋ</name>
+  </language>
+  <language>
+    <code>nia</code>
+    <name>ኒአስ</name>
+  </language>
+  <language>
+    <code>niu</code>
+    <name>ኒዩአንኛ</name>
+  </language>
+  <language>
     <code>njo</code>
     <name>ኦ ናጋ</name>
   </language>
@@ -993,12 +1257,24 @@
     <name>የኖርዌይ ናይኖርስክ</name>
   </language>
   <language>
+    <code>nnh</code>
+    <name>ኒጊምቡን</name>
+  </language>
+  <language>
     <code>no</code>
     <name>ኖርዌጂያን</name>
   </language>
   <language>
+    <code>nog</code>
+    <name>ኖጋይ</name>
+  </language>
+  <language>
     <code>nqo</code>
     <name>ንኮ</name>
+  </language>
+  <language>
+    <code>nr</code>
+    <name>ደቡብ ንደቤሌ</name>
   </language>
   <language>
     <code>nso</code>
@@ -1007,6 +1283,10 @@
   <language>
     <code>nus</code>
     <name>ኑዌር</name>
+  </language>
+  <language>
+    <code>nv</code>
+    <name>ናቫጆ</name>
   </language>
   <language>
     <code>nwc</code>
@@ -1030,7 +1310,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>ኦሪያኛ</name>
+    <name>ኦዲያኛ</name>
   </language>
   <language>
     <code>os</code>
@@ -1041,8 +1321,32 @@
     <name>ፑንጃብኛ</name>
   </language>
   <language>
+    <code>pag</code>
+    <name>ፓንጋሲናንኛ</name>
+  </language>
+  <language>
+    <code>pam</code>
+    <name>ፓምፓንጋ</name>
+  </language>
+  <language>
+    <code>pap</code>
+    <name>ፓፒአሜንቶ</name>
+  </language>
+  <language>
+    <code>pau</code>
+    <name>ፓላኡአን</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>የናይጄሪያ ፒጂን</name>
+  </language>
+  <language>
     <code>pl</code>
     <name>ፖሊሽኛ</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>ፐሩሳንኛ</name>
   </language>
   <language>
     <code>ps</code>
@@ -1073,6 +1377,14 @@
     <name>ቺምቦራዞ ሃይላንድ ኩቹዋ</name>
   </language>
   <language>
+    <code>rap</code>
+    <name>ራፓኑኢ</name>
+  </language>
+  <language>
+    <code>rar</code>
+    <name>ራሮቶንጋ</name>
+  </language>
+  <language>
     <code>rm</code>
     <name>ሮማንሽ</name>
   </language>
@@ -1086,11 +1398,15 @@
   </language>
   <language>
     <code>ro_MD</code>
-    <name>ሞልዳቫዊና</name>
+    <name>ሞልዳቪያንኛ</name>
   </language>
   <language>
     <code>rof</code>
     <name>ሮምቦ</name>
+  </language>
+  <language>
+    <code>root</code>
+    <name>ሩት</name>
   </language>
   <language>
     <code>ru</code>
@@ -1113,12 +1429,40 @@
     <name>ሳንስክሪትኛ</name>
   </language>
   <language>
+    <code>sad</code>
+    <name>ሳንዳዌ</name>
+  </language>
+  <language>
+    <code>sah</code>
+    <name>ሳክሃ</name>
+  </language>
+  <language>
     <code>saq</code>
     <name>ሳምቡሩ</name>
   </language>
   <language>
+    <code>sat</code>
+    <name>ሳንታሊ</name>
+  </language>
+  <language>
+    <code>sba</code>
+    <name>ንጋምባይ</name>
+  </language>
+  <language>
     <code>sbp</code>
     <name>ሳንጉ</name>
+  </language>
+  <language>
+    <code>sc</code>
+    <name>ሳርዲንያንኛ</name>
+  </language>
+  <language>
+    <code>scn</code>
+    <name>ሲሲሊያንኛ</name>
+  </language>
+  <language>
+    <code>sco</code>
+    <name>ስኮትስ</name>
   </language>
   <language>
     <code>sd</code>
@@ -1126,7 +1470,7 @@
   </language>
   <language>
     <code>sdh</code>
-    <name>ደቡባዊ ኩዲሽ</name>
+    <name>ደቡባዊ ኩርዲሽ</name>
   </language>
   <language>
     <code>se</code>
@@ -1151,6 +1495,10 @@
   <language>
     <code>shi</code>
     <name>ታቼልሂት</name>
+  </language>
+  <language>
+    <code>shn</code>
+    <name>ሻን</name>
   </language>
   <language>
     <code>shu</code>
@@ -1197,28 +1545,44 @@
     <name>ሾናኛ</name>
   </language>
   <language>
+    <code>snk</code>
+    <name>ሶኒንኬ</name>
+  </language>
+  <language>
     <code>so</code>
     <name>ሱማልኛ</name>
   </language>
   <language>
     <code>sq</code>
-    <name>ልቤኒኛ</name>
+    <name>አልባንያንኛ</name>
   </language>
   <language>
     <code>sr</code>
     <name>ሰርቢኛ</name>
   </language>
   <language>
+    <code>srn</code>
+    <name>ስራናን ቶንጎ</name>
+  </language>
+  <language>
     <code>ss</code>
     <name>ስዋቲኛ</name>
   </language>
   <language>
+    <code>ssy</code>
+    <name>ሳሆኛ</name>
+  </language>
+  <language>
     <code>st</code>
-    <name>ሶዞኛ</name>
+    <name>ደቡባዊ ሶቶ</name>
   </language>
   <language>
     <code>su</code>
     <name>ሱዳንኛ</name>
+  </language>
+  <language>
+    <code>suk</code>
+    <name>ሱኩማ</name>
   </language>
   <language>
     <code>sv</code>
@@ -1229,16 +1593,20 @@
     <name>ስዋሂሊኛ</name>
   </language>
   <language>
+    <code>sw_CD</code>
+    <name>ኮንጎ ስዋሂሊ</name>
+  </language>
+  <language>
     <code>swb</code>
     <name>ኮሞሪያን</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>ኮንጎ ስዋሂሊ</name>
-  </language>
-  <language>
     <code>syc</code>
     <name>ክላሲክ ኔይራ</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>ሲሪያክ</name>
   </language>
   <language>
     <code>ta</code>
@@ -1247,6 +1615,10 @@
   <language>
     <code>te</code>
     <name>ተሉጉኛ</name>
+  </language>
+  <language>
+    <code>tem</code>
+    <name>ቲምኔ</name>
   </language>
   <language>
     <code>teo</code>
@@ -1274,7 +1646,7 @@
   </language>
   <language>
     <code>tk</code>
-    <name>ቱርክመንኛ</name>
+    <name>ቱርክሜንኛ</name>
   </language>
   <language>
     <code>tl</code>
@@ -1301,6 +1673,10 @@
     <name>ቱርክኛ</name>
   </language>
   <language>
+    <code>trv</code>
+    <name>ታሮኮ</name>
+  </language>
+  <language>
     <code>ts</code>
     <name>ጾንጋኛ</name>
   </language>
@@ -1311,6 +1687,10 @@
   <language>
     <code>tum</code>
     <name>ቱምቡካ</name>
+  </language>
+  <language>
+    <code>tvl</code>
+    <name>ቱቫሉ</name>
   </language>
   <language>
     <code>tw</code>
@@ -1325,8 +1705,16 @@
     <name>ታሂታንኛ</name>
   </language>
   <language>
+    <code>tyv</code>
+    <name>ቱቪንያንኛ</name>
+  </language>
+  <language>
     <code>tzm</code>
     <name>መካከለኛ አትላስ ታማዚግት</name>
+  </language>
+  <language>
+    <code>udm</code>
+    <name>ኡድሙርት</name>
   </language>
   <language>
     <code>ug</code>
@@ -1335,6 +1723,10 @@
   <language>
     <code>uk</code>
     <name>ዩክሬንኛ</name>
+  </language>
+  <language>
+    <code>umb</code>
+    <name>ኡምቡንዱ</name>
   </language>
   <language>
     <code>und</code>
@@ -1358,7 +1750,7 @@
   </language>
   <language>
     <code>vi</code>
-    <name>ቪትናምኛ</name>
+    <name>ቪየትናምኛ</name>
   </language>
   <language>
     <code>vo</code>
@@ -1369,6 +1761,22 @@
     <name>ቩንጆ</name>
   </language>
   <language>
+    <code>wa</code>
+    <name>ዋሎን</name>
+  </language>
+  <language>
+    <code>wae</code>
+    <name>ዋልሰር</name>
+  </language>
+  <language>
+    <code>wal</code>
+    <name>ወላይትኛ</name>
+  </language>
+  <language>
+    <code>war</code>
+    <name>ዋራይ</name>
+  </language>
+  <language>
     <code>wbp</code>
     <name>ዋርልፒሪ</name>
   </language>
@@ -1377,12 +1785,28 @@
     <name>ዎሎፍኛ</name>
   </language>
   <language>
+    <code>wuu</code>
+    <name>ዉ ቻይንኛ</name>
+  </language>
+  <language>
+    <code>xal</code>
+    <name>ካልማይክ</name>
+  </language>
+  <language>
     <code>xh</code>
     <name>ዞሳኛ</name>
   </language>
   <language>
     <code>xog</code>
     <name>ሶጋ</name>
+  </language>
+  <language>
+    <code>yav</code>
+    <name>ያንግቤንኛ</name>
+  </language>
+  <language>
+    <code>ybb</code>
+    <name>የምባ</name>
   </language>
   <language>
     <code>yi</code>
@@ -1425,7 +1849,15 @@
     <name>ዙሉኛ</name>
   </language>
   <language>
+    <code>zun</code>
+    <name>ዙኒ</name>
+  </language>
+  <language>
     <code>zxx</code>
     <name>ቋንቋዊ ይዘት አይደለም</name>
+  </language>
+  <language>
+    <code>zza</code>
+    <name>ዛዛ</name>
   </language>
 </languages>

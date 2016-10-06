@@ -98,7 +98,7 @@
   </language>
   <language>
     <code>arn</code>
-    <name>Araukan</name>
+    <name>Mapuche</name>
   </language>
   <language>
     <code>arp</code>
@@ -106,7 +106,7 @@
   </language>
   <language>
     <code>arq</code>
-    <name>Arab Algeria</name>
+    <name>Arab Aljazair</name>
   </language>
   <language>
     <code>arw</code>
@@ -134,7 +134,7 @@
   </language>
   <language>
     <code>ast</code>
-    <name>Astur</name>
+    <name>Asturia</name>
   </language>
   <language>
     <code>av</code>
@@ -150,7 +150,7 @@
   </language>
   <language>
     <code>az</code>
-    <name>Azerbaijan</name>
+    <name>Azerbaijani</name>
   </language>
   <language>
     <code>ba</code>
@@ -322,7 +322,7 @@
   </language>
   <language>
     <code>ceb</code>
-    <name>Sebuano</name>
+    <name>Cebuano</name>
   </language>
   <language>
     <code>cgg</code>
@@ -387,6 +387,10 @@
   <language>
     <code>crh</code>
     <name>Tatar Krimea</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>Seselwa Kreol Prancis</name>
   </language>
   <language>
     <code>cs</code>
@@ -466,7 +470,7 @@
   </language>
   <language>
     <code>dum</code>
-    <name>Belanda Tengah</name>
+    <name>Belanda Abad Pertengahan</name>
   </language>
   <language>
     <code>dv</code>
@@ -521,6 +525,10 @@
     <name>Inggris</name>
   </language>
   <language>
+    <code>en_GB</code>
+    <name>Inggris (Inggris)</name>
+  </language>
+  <language>
     <code>enm</code>
     <name>Inggris Abad Pertengahan</name>
   </language>
@@ -533,16 +541,8 @@
     <name>Spanyol</name>
   </language>
   <language>
-    <code>es_419</code>
-    <name>Spanyol Amerika Latin</name>
-  </language>
-  <language>
     <code>es_ES</code>
     <name>Spanyol (Eropa)</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>Spanyol Meksiko</name>
   </language>
   <language>
     <code>et</code>
@@ -550,7 +550,7 @@
   </language>
   <language>
     <code>eu</code>
-    <name>Bask</name>
+    <name>Basque</name>
   </language>
   <language>
     <code>ewo</code>
@@ -586,7 +586,7 @@
   </language>
   <language>
     <code>fo</code>
-    <name>Faro</name>
+    <name>Faroe</name>
   </language>
   <language>
     <code>fon</code>
@@ -686,7 +686,7 @@
   </language>
   <language>
     <code>got</code>
-    <name>Gothik</name>
+    <name>Gotik</name>
   </language>
   <language>
     <code>grb</code>
@@ -702,7 +702,7 @@
   </language>
   <language>
     <code>gu</code>
-    <name>Gujarati</name>
+    <name>Gujarat</name>
   </language>
   <language>
     <code>guz</code>
@@ -766,7 +766,7 @@
   </language>
   <language>
     <code>ht</code>
-    <name>Haiti</name>
+    <name>Kreol Haiti</name>
   </language>
   <language>
     <code>hu</code>
@@ -1226,7 +1226,7 @@
   </language>
   <language>
     <code>mgo</code>
-    <name>meta’</name>
+    <name>Meta’</name>
   </language>
   <language>
     <code>mh</code>
@@ -1310,7 +1310,7 @@
   </language>
   <language>
     <code>my</code>
-    <name>Myanmar</name>
+    <name>Burma</name>
   </language>
   <language>
     <code>mye</code>
@@ -1493,6 +1493,10 @@
     <name>Palau</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>Pidgin Nigeria</name>
+  </language>
+  <language>
     <code>pdc</code>
     <name>Jerman Pennsylvania</name>
   </language>
@@ -1515,6 +1519,10 @@
   <language>
     <code>pon</code>
     <name>Pohnpeia</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>Prusia</name>
   </language>
   <language>
     <code>pro</code>
@@ -1590,7 +1598,7 @@
   </language>
   <language>
     <code>rup</code>
-    <name>Makedo-Rumania</name>
+    <name>Aromania</name>
   </language>
   <language>
     <code>rw</code>
@@ -1722,7 +1730,7 @@
   </language>
   <language>
     <code>sli</code>
-    <name>Silesia Bawah</name>
+    <name>Silesia Rendah</name>
   </language>
   <language>
     <code>sly</code>
@@ -1817,12 +1825,12 @@
     <name>Swahili</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>Komoria</name>
+    <code>sw_CD</code>
+    <name>Kongo Swahili</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>Kongo Swahili</name>
+    <code>swb</code>
+    <name>Komoria</name>
   </language>
   <language>
     <code>syc</code>
@@ -2130,15 +2138,15 @@
   </language>
   <language>
     <code>zh</code>
-    <name>China</name>
+    <name>Tionghoa</name>
   </language>
   <language>
     <code>zh_Hans</code>
-    <name>China (Aksara Sederhana)</name>
+    <name>Tionghoa (Aksara Sederhana)</name>
   </language>
   <language>
     <code>zh_Hant</code>
-    <name>China (Aksara Tradisional)</name>
+    <name>Tionghoa (Aksara Tradisional)</name>
   </language>
   <language>
     <code>zu</code>

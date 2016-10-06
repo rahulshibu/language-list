@@ -78,7 +78,7 @@ bua: bouriate
 bug: bugi
 bum: boulou
 byn: blin
-byv: medumba
+byv: "m\xE9dumba"
 ca: catalan
 cad: caddo
 car: caribe
@@ -103,6 +103,7 @@ cop: copte
 cps: capiznon
 cr: cree
 crh: "turc de Crim\xE9e"
+crs: "cr\xE9ole seychellois"
 cs: "tch\xE8que"
 csb: kachoube
 cu: "slavon d\u2019\xE9glise"
@@ -116,7 +117,7 @@ de: allemand
 de_AT: allemand autrichien
 de_CH: allemand suisse
 del: delaware
-den: slavey
+den: esclave
 dgr: dogrib
 din: dinka
 dje: zarma
@@ -132,10 +133,10 @@ dz: dzongkha
 dzg: dazaga
 ebu: embou
 ee: "\xE9w\xE9"
-efi: efik
+efi: "\xE9fik"
 egl: "\xE9milien"
 egy: "\xE9gyptien ancien"
-eka: ekajuk
+eka: "\xE9kadjouk"
 el: grec
 elx: "\xE9lamite"
 en: anglais
@@ -146,9 +147,6 @@ en_US: "anglais am\xE9ricain"
 enm: moyen anglais
 eo: "esp\xE9ranto"
 es: espagnol
-es_419: "espagnol latino-am\xE9ricain"
-es_ES: "espagnol europ\xE9en"
-es_MX: espagnol mexicain
 esu: youpik central
 et: estonien
 eu: basque
@@ -170,7 +168,7 @@ fr_CH: "fran\xE7ais suisse"
 frc: "fran\xE7ais cadien"
 frm: "moyen fran\xE7ais"
 fro: "ancien fran\xE7ais"
-frp: "franco-proven\xE7al"
+frp: "francoproven\xE7al"
 frr: frison du Nord
 frs: frison oriental
 fur: frioulan
@@ -184,7 +182,7 @@ gba: gbaya
 gbz: dari zoroastrien
 gd: "ga\xE9lique \xE9cossais"
 gez: "gu\xE8ze"
-gil: gilbertais
+gil: gilbertin
 gl: galicien
 glk: gilaki
 gmh: moyen haut-allemand
@@ -193,15 +191,15 @@ goh: ancien haut allemand
 gom: konkani de Goa
 gon: gondi
 gor: gorontalo
-got: gotique
+got: gothique
 grb: grebo
 grc: grec ancien
 gsw: suisse allemand
-gu: gujarati
+gu: goudjerati
 guc: wayuu
 gur: gurenne
 guz: gusii
-gv: manx
+gv: mannois
 gwi: "gwich\u02BCin"
 ha: haoussa
 hai: haida
@@ -241,7 +239,7 @@ ja: japonais
 jam: "cr\xE9ole jama\xEFcain"
 jbo: lojban
 jgo: ngomba
-jmc: machame
+jmc: "matcham\xE9"
 jpr: "jud\xE9o-persan"
 jrb: "jud\xE9o-arabe"
 jut: jute
@@ -256,9 +254,9 @@ kaw: kawi
 kbd: kabardin
 kbl: kanembou
 kcg: tyap
-kde: makonde
+kde: "makond\xE9"
 kea: capverdien
-ken: kenyang
+ken: "k\xE9nyang"
 kfo: koro
 kg: kongo
 kgp: caingangue
@@ -268,25 +266,25 @@ khq: koyra chiini
 khw: khowar
 ki: kikuyu
 kiu: kirmanjki
-kj: kuanyama
+kj: kouanyama
 kk: kazakh
 kkj: kako
 kl: groenlandais
-kln: kalenjin
+kln: kalendjin
 km: khmer
-kmb: kiMboundou
+kmb: kimboundou
 kn: kannada
 ko: "cor\xE9en"
 koi: komi-permiak
 kok: konkani
-kos: kusaien
+kos: "kosra\xE9en"
 kpe: "kpell\xE9"
 kr: kanouri
 krc: "karatcha\xEF balkar"
 kri: krio
 krj: kinaray-a
 krl: "car\xE9lien"
-kru: kurukh
+kru: kouroukh
 ks: kashmiri
 ksb: chambala
 ksf: bafia
@@ -320,32 +318,32 @@ lt: lituanien
 ltg: latgalien
 lu: luba-katanga
 lua: luba-lulua
-lui: luiseno
+lui: "luise\xF1o"
 lun: lunda
 luo: luo
-lus: lushai
-luy: oluluyia
+lus: "lusha\xEF"
+luy: luhya
 lv: letton
 lzh: "chinois litt\xE9raire"
 lzz: laze
-mad: madurais
+mad: madourais
 maf: mafa
 mag: magahi
 mai: maithili
 mak: makassar
 man: mandingue
-mas: masai
+mas: "massa\xEF"
 mde: maba
 mdf: moksa
 mdr: mandar
 men: "mend\xE9"
-mer: merou
+mer: "m\xE9rou"
 mfe: "cr\xE9ole mauricien"
 mg: malgache
 mga: moyen irlandais
 mgh: makhuwa-meetto
 mgo: "m\xE9ta\u2019"
-mh: marshall
+mh: marshallais
 mi: maori
 mic: micmac
 min: minangkabau
@@ -360,7 +358,7 @@ mr: marathe
 mrj: mari occidental
 ms: malais
 mt: maltais
-mua: mundang
+mua: moundang
 mul: multilingue
 mus: creek
 mwl: mirandais
@@ -382,8 +380,8 @@ ne: "n\xE9palais"
 new: newari
 ng: ndonga
 nia: nias
-niu: "niu\xE9"
-njo: ao naga
+niu: "niu\xE9en"
+njo: Ao
 nl: "n\xE9erlandais"
 nl_BE: flamand
 nmg: kwasio
@@ -418,7 +416,8 @@ pam: pampangan
 pap: papiamento
 pau: palau
 pcd: picard
-pdc: allemand de Pennsylvanie
+pcm: "pidgin nig\xE9rian"
+pdc: pennsilfaanisch
 pdt: bas-prussien
 peo: persan ancien
 pfl: allemand palatin
@@ -441,13 +440,13 @@ raj: rajasthani
 rap: rapanui
 rar: rarotongien
 rgn: romagnol
-rif: riffain
+rif: rifain
 rm: romanche
 rn: roundi
 ro: roumain
 ro_MD: moldave
 rof: rombo
-rom: tzigane
+rom: romani
 root: racine
 rtm: rotuman
 ru: russe
@@ -460,7 +459,7 @@ sa: sanskrit
 sad: sandawe
 sah: iakoute
 sam: "aram\xE9en samaritain"
-saq: samburu
+saq: sambourou
 sas: sasak
 sat: santal
 saz: saurashtra
@@ -474,7 +473,7 @@ sdc: sarde sassarais
 sdh: kurde du Sud
 se: sami du Nord
 see: seneca
-seh: sena
+seh: cisena
 sei: "s\xE9ri"
 sel: selkoupe
 ses: koyraboro senni
@@ -490,7 +489,7 @@ sid: sidamo
 sk: slovaque
 sl: "slov\xE8ne"
 sli: "bas-sil\xE9sien"
-sly: selayar
+sly: "s\xE9layar"
 sm: samoan
 sma: sami du Sud
 smj: sami de Lule
@@ -506,16 +505,16 @@ srn: sranan tongo
 srr: "s\xE9r\xE8re"
 ss: swati
 ssy: saho
-st: sesotho
-stq: frison de Saterland
+st: sotho du Sud
+stq: saterlandais
 su: soundanais
-suk: sukuma
+suk: soukouma
 sus: soussou
 sux: "sum\xE9rien"
 sv: "su\xE9dois"
 sw: swahili
+sw_CD: swahili du Congo
 swb: comorien
-swc: swahili du Congo
 syc: syriaque classique
 syr: syriaque
 szl: "sil\xE9sien"
@@ -533,7 +532,7 @@ tig: "tigr\xE9"
 tiv: tiv
 tk: "turkm\xE8ne"
 tkl: tokelau
-tkr: tsakhur
+tkr: tsakhour
 tl: tagalog
 tlh: klingon
 tli: tlingit
@@ -544,25 +543,25 @@ to: tonguien
 tog: tonga nyasa
 tpi: tok pisin
 tr: turc
-tru: turoyo
+tru: touroyo
 trv: taroko
 ts: tsonga
 tsd: tsakonien
 tsi: tsimshian
 tt: tatar
 ttt: tati caucasien
-tum: tumbuka
+tum: toumbouka
 tvl: tuvalu
 tw: twi
 twq: tasawaq
 ty: tahitien
 tyv: touva
-tzm: tamazight
+tzm: tamazight du Maroc central
 udm: oudmourte
 ug: "ou\xEFghour"
 uga: ougaritique
 uk: ukrainien
-umb: umbundu
+umb: oumboundou
 und: "langue ind\xE9termin\xE9e"
 ur: ourdou
 uz: ouzbek
@@ -607,6 +606,6 @@ zh: chinois
 zh_Hans: "chinois simplifi\xE9"
 zh_Hant: chinois traditionnel
 zu: zoulou
-zun: zuni
+zun: "zu\xF1i"
 zxx: sans contenu linguistique
 zza: zazaki

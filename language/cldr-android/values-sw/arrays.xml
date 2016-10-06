@@ -2,20 +2,38 @@
 <resources>
   <!-- Swahili (sw) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>Kiafar</item>
     <!-- ab - Abkhazian -->
     <item>Kiabkhazi</item>
+    <!-- ace - Achinese -->
+    <item>Kiacheni</item>
     <!-- ach - Acoli -->
     <item>Kiakoli</item>
+    <!-- ada - Adangme -->
+    <item>Kiadangme</item>
+    <!-- ady - Adyghe -->
+    <item>Kiadyghe</item>
     <!-- af - Afrikaans -->
     <item>Kiafrikana</item>
     <!-- agq - Aghem -->
     <item>Kiaghem</item>
+    <!-- ain - Ainu -->
+    <item>Kiainu</item>
     <!-- ak - Akan -->
     <item>Kiakani</item>
+    <!-- ale - Aleut -->
+    <item>Kialeut</item>
+    <!-- alt - Southern Altai -->
+    <item>Kialtai</item>
     <!-- am - Amharic -->
     <item>Kiamhari</item>
+    <!-- an - Aragonese -->
+    <item>Kiaragoni</item>
     <!-- ang - Old English -->
     <item>Kiingereza cha Kale</item>
+    <!-- anp - Angika -->
+    <item>Kiangika</item>
     <!-- ar - Arabic -->
     <item>Kiarabu</item>
     <!-- ar_001 - Modern Standard Arabic -->
@@ -24,20 +42,30 @@
     <item>Kiaramu</item>
     <!-- arn - Mapuche -->
     <item>Kimapuche</item>
+    <!-- arp - Arapaho -->
+    <item>Kiarapaho</item>
     <!-- arq - Algerian Arabic -->
-    <item>Kiarabu cha Kialjeria</item>
+    <item>Kiarabu cha Algeria</item>
     <!-- arz - Egyptian Arabic -->
     <item>Kiarabu cha Misri</item>
     <!-- as - Assamese -->
     <item>Kiassam</item>
     <!-- asa - Asu -->
     <item>Kiasu</item>
+    <!-- ast - Asturian -->
+    <item>Kiasturia</item>
+    <!-- av - Avaric -->
+    <item>Kiavari</item>
+    <!-- awa - Awadhi -->
+    <item>Kiawadhi</item>
     <!-- ay - Aymara -->
-    <item>Kiaimara</item>
+    <item>Kiaymara</item>
     <!-- az - Azerbaijani -->
-    <item>Kiazabajani</item>
+    <item>Kiazerbaijani</item>
     <!-- ba - Bashkir -->
     <item>Kibashkir</item>
+    <!-- ban - Balinese -->
+    <item>Kibali</item>
     <!-- bas - Basaa -->
     <item>Kibasaa</item>
     <!-- bax - Bamun -->
@@ -58,11 +86,19 @@
     <item>Kibulgaria</item>
     <!-- bgn - Western Balochi -->
     <item>Kibalochi cha Magharibi</item>
+    <!-- bho - Bhojpuri -->
+    <item>Kibhojpuri</item>
+    <!-- bi - Bislama -->
+    <item>Kibislama</item>
+    <!-- bin - Bini -->
+    <item>Kibini</item>
     <!-- bkm - Kom -->
     <item>Kikom</item>
+    <!-- bla - Siksika -->
+    <item>Kisiksika</item>
     <!-- bm - Bambara -->
     <item>Kibambara</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>Kibengali</item>
     <!-- bo - Tibetan -->
     <item>Kitibeti</item>
@@ -72,36 +108,62 @@
     <item>Kibodo</item>
     <!-- bs - Bosnian -->
     <item>Kibosnia</item>
+    <!-- bug - Buginese -->
+    <item>Lugha ya Buginese</item>
     <!-- bum - Bulu -->
     <item>Kibulu</item>
+    <!-- byn - Blin -->
+    <item>Kiblin</item>
     <!-- byv - Medumba -->
     <item>Kimedumba</item>
     <!-- ca - Catalan -->
     <item>Kikatalani</item>
     <!-- ce - Chechen -->
     <item>Kichechenia</item>
+    <!-- ceb - Cebuano -->
+    <item>Kichebuano</item>
     <!-- cgg - Chiga -->
     <item>Kichiga</item>
+    <!-- ch - Chamorro -->
+    <item>Kichamorro</item>
+    <!-- chk - Chuukese -->
+    <item>Kichukisi</item>
+    <!-- chm - Mari -->
+    <item>Kimari</item>
+    <!-- cho - Choctaw -->
+    <item>Kichoktao</item>
     <!-- chr - Cherokee -->
     <item>Kicherokee</item>
+    <!-- chy - Cheyenne -->
+    <item>Kicheyeni</item>
     <!-- ckb - Central Kurdish -->
     <item>Kikurdi cha Sorani</item>
     <!-- co - Corsican -->
     <item>Kikosikani</item>
     <!-- cop - Coptic -->
     <item>Kikhufti</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>Krioli ya Shelisheli</item>
     <!-- cs - Czech -->
     <item>Kicheki</item>
+    <!-- cu - Church Slavic -->
+    <item>Kislovakia cha Church</item>
     <!-- cv - Chuvash -->
     <item>Kichuvash</item>
     <!-- cy - Welsh -->
     <item>Kiwelisi</item>
     <!-- da - Danish -->
     <item>Kidenmaki</item>
+    <!-- dak - Dakota -->
+    <item>Kidakota</item>
+    <!-- dar - Dargwa -->
+    <item>Kidaragwa</item>
     <!-- dav - Taita -->
     <item>Kitaita</item>
     <!-- de - German -->
     <item>Kijerumani</item>
+    <!-- dgr - Dogrib -->
+    <item>Kidogrib</item>
     <!-- dje - Zarma -->
     <item>Kizarma</item>
     <!-- dsb - Lower Sorbian -->
@@ -116,6 +178,8 @@
     <item>Kijula</item>
     <!-- dz - Dzongkha -->
     <item>Kizongkha</item>
+    <!-- dzg - Dazaga -->
+    <item>Kidazaga</item>
     <!-- ebu - Embu -->
     <item>Kiembu</item>
     <!-- ee - Ewe -->
@@ -130,10 +194,16 @@
     <item>Kigiriki</item>
     <!-- en - English -->
     <item>Kiingereza</item>
+    <!-- en_CA - Canadian English -->
+    <item>Kiingereza (Canada)</item>
     <!-- eo - Esperanto -->
     <item>Kiesperanto</item>
     <!-- es - Spanish -->
     <item>Kihispania</item>
+    <!-- es_ES - European Spanish -->
+    <item>Kihispania (Uhispania)</item>
+    <!-- es_MX - Mexican Spanish -->
+    <item>Kihispania (Mexico)</item>
     <!-- et - Estonian -->
     <item>Kiestonia</item>
     <!-- eu - Basque -->
@@ -143,7 +213,7 @@
     <!-- fa - Persian -->
     <item>Kiajemi</item>
     <!-- ff - Fulah -->
-    <item>Kifulfulde</item>
+    <item>Kifula</item>
     <!-- fi - Finnish -->
     <item>Kifini</item>
     <!-- fil - Filipino -->
@@ -156,12 +226,16 @@
     <item>Kifon</item>
     <!-- fr - French -->
     <item>Kifaransa</item>
+    <!-- fr_CA - Canadian French -->
+    <item>Kifaransa (Canada)</item>
     <!-- fro - Old French -->
     <item>Kifaransa cha Kale</item>
     <!-- frr - Northern Frisian -->
     <item>Kifrisia cha Kaskazini</item>
     <!-- frs - Eastern Frisian -->
     <item>Kifrisia cha Mashariki</item>
+    <!-- fur - Friulian -->
+    <item>Kifriulian</item>
     <!-- fy - Western Frisian -->
     <item>Kifrisia cha Magharibi</item>
     <!-- ga - Irish -->
@@ -169,17 +243,21 @@
     <!-- gaa - Ga -->
     <item>Kiga</item>
     <!-- gag - Gagauz -->
-    <item>Kigagauzi</item>
+    <item>Kigagauz</item>
     <!-- gba - Gbaya -->
     <item>Kigbaya</item>
     <!-- gd - Scottish Gaelic -->
     <item>Kigaeli cha Uskoti</item>
     <!-- gez - Geez -->
     <item>Kige’ez</item>
+    <!-- gil - Gilbertese -->
+    <item>Kikiribati</item>
     <!-- gl - Galician -->
     <item>Kigalisi</item>
     <!-- gn - Guarani -->
     <item>Kiguarani</item>
+    <!-- gor - Gorontalo -->
+    <item>Kigorontalo</item>
     <!-- grc - Ancient Greek -->
     <item>Kiyunani</item>
     <!-- gsw - Swiss German -->
@@ -190,6 +268,8 @@
     <item>Kikisii</item>
     <!-- gv - Manx -->
     <item>Kimanx</item>
+    <!-- gwi - Gwichʼin -->
+    <item>Gwichʼin</item>
     <!-- ha - Hausa -->
     <item>Kihausa</item>
     <!-- haw - Hawaiian -->
@@ -198,22 +278,30 @@
     <item>Kiebrania</item>
     <!-- hi - Hindi -->
     <item>Kihindi</item>
+    <!-- hil - Hiligaynon -->
+    <item>Kihiligaynon</item>
     <!-- hit - Hittite -->
     <item>Kihiti</item>
+    <!-- hmn - Hmong -->
+    <item>Kihmong</item>
     <!-- hr - Croatian -->
-    <item>Kroeshia</item>
+    <item>Kikroeshia</item>
     <!-- hsb - Upper Sorbian -->
-    <item>hsb</item>
+    <item>Kisobia cha Ukanda wa Juu</item>
     <!-- ht - Haitian Creole -->
     <item>Kihaiti</item>
     <!-- hu - Hungarian -->
-    <item>Kihungari</item>
+    <item>Kihangari</item>
+    <!-- hup - Hupa -->
+    <item>Hupa</item>
     <!-- hy - Armenian -->
     <item>Kiarmenia</item>
     <!-- hz - Herero -->
     <item>Kiherero</item>
     <!-- ia - Interlingua -->
     <item>Kiintalingua</item>
+    <!-- iba - Iban -->
+    <item>Kiiban</item>
     <!-- ibb - Ibibio -->
     <item>Kiibibio</item>
     <!-- id - Indonesian -->
@@ -224,6 +312,12 @@
     <item>Kiigbo</item>
     <!-- ii - Sichuan Yi -->
     <item>Sichuan Yi</item>
+    <!-- ilo - Iloko -->
+    <item>Kiilocano</item>
+    <!-- inh - Ingush -->
+    <item>Ingush</item>
+    <!-- io - Ido -->
+    <item>Kiido</item>
     <!-- is - Icelandic -->
     <item>Kiaisilandi</item>
     <!-- it - Italian -->
@@ -232,6 +326,8 @@
     <item>Kiinuktitut</item>
     <!-- ja - Japanese -->
     <item>Kijapani</item>
+    <!-- jbo - Lojban -->
+    <item>Lojban</item>
     <!-- jgo - Ngomba -->
     <item>Kingomba</item>
     <!-- jmc - Machame -->
@@ -242,10 +338,18 @@
     <item>Kijojia</item>
     <!-- kab - Kabyle -->
     <item>Kikabylia</item>
+    <!-- kac - Kachin -->
+    <item>Kachin</item>
+    <!-- kaj - Jju -->
+    <item>Kijju</item>
     <!-- kam - Kamba -->
     <item>Kikamba</item>
+    <!-- kbd - Kabardian -->
+    <item>Kikabardian</item>
     <!-- kbl - Kanembu -->
     <item>Kikanembu</item>
+    <!-- kcg - Tyap -->
+    <item>Kityap</item>
     <!-- kde - Makonde -->
     <item>Kimakonde</item>
     <!-- kea - Kabuverdianu -->
@@ -254,16 +358,18 @@
     <item>Kikoro</item>
     <!-- kg - Kongo -->
     <item>Kikongo</item>
+    <!-- kha - Khasi -->
+    <item>Kikhasi</item>
     <!-- khq - Koyra Chiini -->
-    <item>Kikoyra Chiini</item>
+    <item>Koyra Chiini</item>
     <!-- ki - Kikuyu -->
     <item>Kikikuyu</item>
     <!-- kj - Kuanyama -->
     <item>Kikwanyama</item>
     <!-- kk - Kazakh -->
-    <item>Kikazaki</item>
+    <item>Kikazakh</item>
     <!-- kkj - Kako -->
-    <item>Kikako</item>
+    <item>Lugha ya Kako</item>
     <!-- kl - Kalaallisut -->
     <item>Kikalaallisut</item>
     <!-- kln - Kalenjin -->
@@ -277,35 +383,53 @@
     <!-- ko - Korean -->
     <item>Kikorea</item>
     <!-- koi - Komi-Permyak -->
-    <item>Kikomipermyak</item>
+    <item>Kikomi-Permyak</item>
     <!-- kok - Konkani -->
     <item>Kikonkani</item>
+    <!-- kpe - Kpelle -->
+    <item>Kikpelle</item>
     <!-- kr - Kanuri -->
     <item>Kikanuri</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>Kikarachay-Balkar</item>
+    <!-- krl - Karelian -->
+    <item>Karjala</item>
+    <!-- kru - Kurukh -->
+    <item>Kurukh</item>
     <!-- ks - Kashmiri -->
     <item>Kikashmiri</item>
     <!-- ksb - Shambala -->
     <item>Kisambaa</item>
     <!-- ksf - Bafia -->
     <item>Kibafia</item>
+    <!-- ksh - Colognian -->
+    <item>Kicologne</item>
     <!-- ku - Kurdish -->
     <item>Kikurdi</item>
+    <!-- kum - Kumyk -->
+    <item>Kumyk</item>
     <!-- kv - Komi -->
     <item>Kikomi</item>
     <!-- kw - Cornish -->
     <item>Kikorni</item>
     <!-- ky - Kyrgyz -->
-    <item>Kikirigizi</item>
+    <item>Kikyrgyz</item>
     <!-- la - Latin -->
     <item>Kilatini</item>
+    <!-- lad - Ladino -->
+    <item>Kiladino</item>
     <!-- lag - Langi -->
     <item>Kirangi</item>
     <!-- lam - Lamba -->
-    <item>Chilamba</item>
+    <item>Lamba</item>
     <!-- lb - Luxembourgish -->
     <item>Kilasembagi</item>
+    <!-- lez - Lezghian -->
+    <item>Kilezighian</item>
     <!-- lg - Ganda -->
     <item>Kiganda</item>
+    <!-- li - Limburgish -->
+    <item>Limburgish</item>
     <!-- lkt - Lakota -->
     <item>Kilakota</item>
     <!-- ln - Lingala -->
@@ -328,18 +452,28 @@
     <item>Kilunda</item>
     <!-- luo - Luo -->
     <item>Kijaluo</item>
+    <!-- lus - Mizo -->
+    <item>Kimizo</item>
     <!-- luy - Luyia -->
     <item>Kiluhya</item>
     <!-- lv - Latvian -->
     <item>Kilatvia</item>
+    <!-- mad - Madurese -->
+    <item>Kimadura</item>
     <!-- maf - Mafa -->
     <item>Kimafa</item>
     <!-- mag - Magahi -->
     <item>Kimagahi</item>
+    <!-- mai - Maithili -->
+    <item>Kimaithili</item>
+    <!-- mak - Makasar -->
+    <item>Kimakasar</item>
     <!-- mas - Masai -->
     <item>Kimaasai</item>
     <!-- mde - Maba -->
     <item>Kimaba</item>
+    <!-- mdf - Moksha -->
+    <item>Lugha ya Moksha</item>
     <!-- men - Mende -->
     <item>Kimende</item>
     <!-- mer - Meru -->
@@ -347,59 +481,87 @@
     <!-- mfe - Morisyen -->
     <item>Kimoriseni</item>
     <!-- mg - Malagasy -->
-    <item>Malagasi</item>
+    <item>Kimalagasi</item>
     <!-- mgh - Makhuwa-Meetto -->
     <item>Kimakhuwa-Meetto</item>
     <!-- mgo - Metaʼ -->
     <item>Kimeta</item>
+    <!-- mh - Marshallese -->
+    <item>Kimashale</item>
     <!-- mi - Maori -->
     <item>Kimaori</item>
+    <!-- mic - Mi'kmaq -->
+    <item>Mi’kmaq</item>
+    <!-- min - Minangkabau -->
+    <item>Kiminangkabau</item>
     <!-- mk - Macedonian -->
-    <item>Kimasedonia</item>
+    <item>Kimacedonia</item>
     <!-- ml - Malayalam -->
     <item>Kimalayalam</item>
     <!-- mn - Mongolian -->
     <item>Kimongolia</item>
+    <!-- mni - Manipuri -->
+    <item>Kimanipuri</item>
     <!-- moh - Mohawk -->
-    <item>Kimohoki</item>
+    <item>Lugha ya Mohawk</item>
     <!-- mos - Mossi -->
     <item>Kimoore</item>
     <!-- mr - Marathi -->
     <item>Kimarathi</item>
     <!-- ms - Malay -->
-    <item>Kimalesia</item>
+    <item>Kimalei</item>
     <!-- mt - Maltese -->
     <item>Kimalta</item>
     <!-- mua - Mundang -->
     <item>Kimundang</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>Lugha Nyingi</item>
+    <!-- mus - Creek -->
+    <item>Kikriki</item>
+    <!-- mwl - Mirandese -->
+    <item>Kimirandi</item>
     <!-- my - Burmese -->
     <item>Kiburma</item>
+    <!-- myv - Erzya -->
+    <item>Kierzya</item>
     <!-- mzn - Mazanderani -->
     <item>Kimazanderani</item>
+    <!-- na - Nauru -->
+    <item>Kinauru</item>
+    <!-- nap - Neapolitan -->
+    <item>Kinapoli</item>
     <!-- naq - Nama -->
     <item>Kinama</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>Kibokmal cha Norwe</item>
+    <item>Kinorwe cha Bokmål</item>
     <!-- nd - North Ndebele -->
     <item>Kindebele cha Kaskazini</item>
     <!-- nds - Low German -->
-    <item>nds</item>
+    <item>Kisaksoni</item>
     <!-- ne - Nepali -->
     <item>Kinepali</item>
     <!-- new - Newari -->
     <item>Kinewari</item>
     <!-- ng - Ndonga -->
     <item>Kindonga</item>
+    <!-- nia - Nias -->
+    <item>Kiniasi</item>
+    <!-- niu - Niuean -->
+    <item>Kiniuea</item>
     <!-- nl - Dutch -->
     <item>Kiholanzi</item>
+    <!-- nl_BE - Flemish -->
+    <item>Kiflemi</item>
     <!-- nmg - Kwasio -->
     <item>Kikwasio</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>Kinorwe Kipya</item>
+    <item>Kinorwe cha Nynorsk</item>
+    <!-- nnh - Ngiemboon -->
+    <item>Lugha ya Ngiemboon</item>
     <!-- no - Norwegian -->
     <item>Kinorwe</item>
+    <!-- nog - Nogai -->
+    <item>Kinogai</item>
     <!-- nqo - N’Ko -->
     <item>N’Ko</item>
     <!-- nr - South Ndebele -->
@@ -408,6 +570,8 @@
     <item>Kisotho cha Kaskazini</item>
     <!-- nus - Nuer -->
     <item>Kinuer</item>
+    <!-- nv - Navajo -->
+    <item>Kinavajo</item>
     <!-- nwc - Classical Newari -->
     <item>Kinewari cha kale</item>
     <!-- ny - Nyanja -->
@@ -424,20 +588,34 @@
     <item>Kiokitani</item>
     <!-- om - Oromo -->
     <item>Kioromo</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>Kioriya</item>
     <!-- os - Ossetic -->
     <item>Kiosetia</item>
     <!-- pa - Punjabi -->
     <item>Kipunjabi</item>
+    <!-- pag - Pangasinan -->
+    <item>Kipangasinan</item>
+    <!-- pam - Pampanga -->
+    <item>Kipampanga</item>
+    <!-- pap - Papiamento -->
+    <item>Kipapiamento</item>
+    <!-- pau - Palauan -->
+    <item>Kipalau</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>Pijini ya Nigeria</item>
     <!-- peo - Old Persian -->
     <item>Kiajemi cha Kale</item>
     <!-- pl - Polish -->
     <item>Kipolandi</item>
+    <!-- prg - Prussian -->
+    <item>Kiprussia</item>
     <!-- ps - Pashto -->
     <item>Kipashto</item>
     <!-- pt - Portuguese -->
     <item>Kireno</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>Kireno (Brazil)</item>
     <!-- qu - Quechua -->
     <item>Kiquechua</item>
     <!-- quc - Kʼicheʼ -->
@@ -445,7 +623,7 @@
     <!-- rap - Rapanui -->
     <item>Kirapanui</item>
     <!-- rar - Rarotongan -->
-    <item>Kiraratonga</item>
+    <item>Kirarotonga</item>
     <!-- rm - Romansh -->
     <item>Kiromanshi</item>
     <!-- rn - Rundi -->
@@ -454,22 +632,38 @@
     <item>Kiromania</item>
     <!-- rof - Rombo -->
     <item>Kirombo</item>
+    <!-- root - Root -->
+    <item>Root</item>
     <!-- ru - Russian -->
     <item>Kirusi</item>
+    <!-- rup - Aromanian -->
+    <item>Kiaromania</item>
     <!-- rw - Kinyarwanda -->
     <item>Kinyarwanda</item>
     <!-- rwk - Rwa -->
-    <item>Kirwo</item>
+    <item>Kirwa</item>
     <!-- sa - Sanskrit -->
     <item>Kisanskriti</item>
     <!-- sad - Sandawe -->
     <item>Kisandawe</item>
+    <!-- sah - Sakha -->
+    <item>Kisakha</item>
     <!-- sam - Samaritan Aramaic -->
     <item>Kiaramu cha Wasamaria</item>
     <!-- saq - Samburu -->
     <item>Kisamburu</item>
+    <!-- sat - Santali -->
+    <item>Kisantali</item>
+    <!-- sba - Ngambay -->
+    <item>Kingambay</item>
     <!-- sbp - Sangu -->
     <item>Kisangu</item>
+    <!-- sc - Sardinian -->
+    <item>Kisardinia</item>
+    <!-- scn - Sicilian -->
+    <item>Kisicilia</item>
+    <!-- sco - Scots -->
+    <item>Kiskoti</item>
     <!-- sd - Sindhi -->
     <item>Kisindhi</item>
     <!-- sdh - Southern Kurdish -->
@@ -486,8 +680,10 @@
     <item>Kiserbia-kroeshia</item>
     <!-- shi - Tachelhit -->
     <item>Kitachelhit</item>
+    <!-- shn - Shan -->
+    <item>Kishan</item>
     <!-- shu - Chadian Arabic -->
-    <item>Kiarabu cha Chadi</item>
+    <item>Kiarabu cha Chad</item>
     <!-- si - Sinhala -->
     <item>Kisinhala</item>
     <!-- sk - Slovak -->
@@ -514,12 +710,14 @@
     <item>Kialbania</item>
     <!-- sr - Serbian -->
     <item>Kiserbia</item>
+    <!-- srn - Sranan Tongo -->
+    <item>Lugha ya Sranan Tongo</item>
     <!-- ss - Swati -->
     <item>Kiswati</item>
     <!-- ssy - Saho -->
     <item>Kisaho</item>
     <!-- st - Southern Sotho -->
-    <item>Kisotho cha Kusini</item>
+    <item>Kisotho</item>
     <!-- su - Sundanese -->
     <item>Kisunda</item>
     <!-- suk - Sukuma -->
@@ -530,10 +728,12 @@
     <item>Kiswidi</item>
     <!-- sw - Swahili -->
     <item>Kiswahili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>Kingwana</item>
     <!-- swb - Comorian -->
     <item>Shikomor</item>
-    <!-- swc - Congo Swahili -->
-    <item>Kingwana</item>
+    <!-- syr - Syriac -->
+    <item>Lugha ya Syriac</item>
     <!-- ta - Tamil -->
     <item>Kitamil</item>
     <!-- te - Telugu -->
@@ -550,6 +750,8 @@
     <item>Kitailandi</item>
     <!-- ti - Tigrinya -->
     <item>Kitigrinya</item>
+    <!-- tig - Tigre -->
+    <item>Kitigre</item>
     <!-- tk - Turkmen -->
     <item>Kiturukimeni</item>
     <!-- tlh - Klingon -->
@@ -562,25 +764,35 @@
     <item>Kitokpisin</item>
     <!-- tr - Turkish -->
     <item>Kituruki</item>
+    <!-- trv - Taroko -->
+    <item>Kitaroko</item>
     <!-- ts - Tsonga -->
     <item>Kitsonga</item>
     <!-- tt - Tatar -->
     <item>Kitatari</item>
     <!-- tum - Tumbuka -->
     <item>Kitumbuka</item>
+    <!-- tvl - Tuvalu -->
+    <item>Kituvalu</item>
     <!-- tw - Twi -->
-    <item>Kitwi</item>
+    <item>Twi</item>
     <!-- twq - Tasawaq -->
     <item>Kitasawaq</item>
     <!-- ty - Tahitian -->
     <item>Kitahiti</item>
+    <!-- tyv - Tuvinian -->
+    <item>Kituva</item>
     <!-- tzm - Central Atlas Tamazight -->
     <item>Central Atlas Tamazight</item>
+    <!-- udm - Udmurt -->
+    <item>Udmurt</item>
     <!-- ug - Uyghur -->
     <item>Kiuyghur</item>
     <!-- uk - Ukrainian -->
-    <item>Kiukrania</item>
-    <!-- und - Unknown Language -->
+    <item>Kiukraine</item>
+    <!-- umb - Umbundu -->
+    <item>Umbundu</item>
+    <!-- und - Unknown language -->
     <item>Lugha Isiyojulikana</item>
     <!-- ur - Urdu -->
     <item>Kiurdu</item>
@@ -592,26 +804,42 @@
     <item>Kivenda</item>
     <!-- vi - Vietnamese -->
     <item>Kivietinamu</item>
+    <!-- vo - Volapük -->
+    <item>Kivolapük</item>
     <!-- vun - Vunjo -->
     <item>Kivunjo</item>
+    <!-- wa - Walloon -->
+    <item>Walloon</item>
+    <!-- wae - Walser -->
+    <item>Walser</item>
+    <!-- wal - Wolaytta -->
+    <item>Kiwolaytta</item>
+    <!-- war - Waray -->
+    <item>Kiwaray</item>
     <!-- wbp - Warlpiri -->
     <item>Kiwarlpiri</item>
     <!-- wo - Wolof -->
-    <item>Kiwolofu</item>
+    <item>Lugha ya Wolof</item>
+    <!-- xal - Kalmyk -->
+    <item>Kikalmyk</item>
     <!-- xh - Xhosa -->
     <item>Kixhosa</item>
     <!-- xog - Soga -->
     <item>Kisoga</item>
     <!-- yao - Yao -->
     <item>Kiyao</item>
+    <!-- yav - Yangben -->
+    <item>Kiyangben</item>
     <!-- ybb - Yemba -->
     <item>Kiyemba</item>
     <!-- yi - Yiddish -->
-    <item>Kiyidi</item>
+    <item>Kiyiddi</item>
     <!-- yo - Yoruba -->
     <item>Kiyoruba</item>
+    <!-- yue - Cantonese -->
+    <item>Kikantoni</item>
     <!-- zgh - Standard Moroccan Tamazight -->
-    <item>Tamaziti Msingi ya Kimoroko</item>
+    <item>Tamaziti Sanifu ya Kimoroko</item>
     <!-- zh - Chinese -->
     <item>Kichina</item>
     <!-- zh_Hans - Simplified Chinese -->
@@ -620,7 +848,11 @@
     <item>Kichina cha Jadi</item>
     <!-- zu - Zulu -->
     <item>Kizulu</item>
+    <!-- zun - Zuni -->
+    <item>Kizuni</item>
     <!-- zxx - No linguistic content -->
     <item>Hakuna maudhui ya lugha</item>
+    <!-- zza - Zaza -->
+    <item>Kizaza</item>
   </string-array>
 </resources>

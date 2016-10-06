@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>阿法爾文</name>
+  </language>
+  <language>
     <code>az</code>
     <name>阿塞拜疆文</name>
   </language>
@@ -25,12 +29,24 @@
     <name>加泰隆尼亞文</name>
   </language>
   <language>
+    <code>crh</code>
+    <name>克里米亞韃靼文</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>塞舌爾克里奧爾法文</name>
+  </language>
+  <language>
     <code>de_AT</code>
     <name>奧地利德文</name>
   </language>
   <language>
     <code>de_CH</code>
     <name>瑞士德語</name>
+  </language>
+  <language>
+    <code>den</code>
+    <name>斯拉夫文</name>
   </language>
   <language>
     <code>en_AU</code>
@@ -73,12 +89,24 @@
     <name>瑞士法文</name>
   </language>
   <language>
+    <code>gil</code>
+    <name>吉爾伯特文</name>
+  </language>
+  <language>
     <code>gl</code>
     <name>加里西亞文</name>
   </language>
   <language>
     <code>gsw</code>
     <name>瑞士德文</name>
+  </language>
+  <language>
+    <code>hi</code>
+    <name>印度文</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>苗語</name>
   </language>
   <language>
     <code>hr</code>
@@ -89,20 +117,32 @@
     <name>意大利文</name>
   </language>
   <language>
+    <code>jpr</code>
+    <name>猶太波斯文</name>
+  </language>
+  <language>
     <code>ka</code>
     <name>格魯吉亞文</name>
+  </language>
+  <language>
+    <code>kiu</code>
+    <name>扎扎其文</name>
   </language>
   <language>
     <code>kn</code>
     <name>坎納達文</name>
   </language>
   <language>
+    <code>kri</code>
+    <name>克裡奧爾文</name>
+  </language>
+  <language>
     <code>lo</code>
     <name>老撾文</name>
   </language>
   <language>
-    <code>lol</code>
-    <name>蒙古語</name>
+    <code>luo</code>
+    <name>盧歐文</name>
   </language>
   <language>
     <code>mfe</code>
@@ -125,12 +165,20 @@
     <name>荷蘭低地德文</name>
   </language>
   <language>
+    <code>nl_BE</code>
+    <name>比利時荷蘭文</name>
+  </language>
+  <language>
     <code>nqo</code>
     <name>西非書面語言（N’ko）</name>
   </language>
   <language>
     <code>or</code>
     <name>奧里雅文</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>尼日利亞皮欽文</name>
   </language>
   <language>
     <code>pt_BR</code>
@@ -145,6 +193,10 @@
     <name>摩爾多瓦羅馬尼亞文</name>
   </language>
   <language>
+    <code>rup</code>
+    <name>阿羅馬尼亞語</name>
+  </language>
+  <language>
     <code>rw</code>
     <name>盧旺達文</name>
   </language>
@@ -157,10 +209,6 @@
     <name>斯洛文尼亞文</name>
   </language>
   <language>
-    <code>smn</code>
-    <name>伊納里薩米文</name>
-  </language>
-  <language>
     <code>sn</code>
     <name>修納文</name>
   </language>
@@ -169,8 +217,12 @@
     <name>索馬里文</name>
   </language>
   <language>
-    <code>swc</code>
+    <code>sw_CD</code>
     <name>剛果史瓦希里文</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>敍利亞文</name>
   </language>
   <language>
     <code>ta</code>
@@ -187,6 +239,10 @@
   <language>
     <code>wbp</code>
     <name>瓦爾皮里文</name>
+  </language>
+  <language>
+    <code>yue</code>
+    <name>廣東話</name>
   </language>
   <language>
     <code>zgh</code>

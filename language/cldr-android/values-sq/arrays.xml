@@ -2,30 +2,62 @@
 <resources>
   <!-- Albanian (sq) -->
   <string-array name="languages_all">
+    <!-- aa - Afar -->
+    <item>afarisht</item>
     <!-- ab - Abkhazian -->
     <item>abkazisht</item>
+    <!-- ace - Achinese -->
+    <item>akinezisht</item>
+    <!-- ada - Adangme -->
+    <item>andangmeisht</item>
+    <!-- ady - Adyghe -->
+    <item>adigisht</item>
     <!-- af - Afrikaans -->
     <item>afrikanisht</item>
     <!-- agq - Aghem -->
     <item>agemisht</item>
+    <!-- ain - Ainu -->
+    <item>ajnuisht</item>
     <!-- ak - Akan -->
     <item>akanisht</item>
+    <!-- ale - Aleut -->
+    <item>aleutisht</item>
+    <!-- alt - Southern Altai -->
+    <item>altaishte jugore</item>
     <!-- am - Amharic -->
-    <item>amarikisht</item>
+    <item>amarisht</item>
+    <!-- an - Aragonese -->
+    <item>aragonezisht</item>
+    <!-- anp - Angika -->
+    <item>angikisht</item>
     <!-- ar - Arabic -->
     <item>arabisht</item>
     <!-- ar_001 - Modern Standard Arabic -->
     <item>arabishte standarde moderne</item>
     <!-- arn - Mapuche -->
     <item>mapuçisht</item>
+    <!-- arp - Arapaho -->
+    <item>arapahoisht</item>
     <!-- as - Assamese -->
     <item>asamezisht</item>
     <!-- asa - Asu -->
     <item>asuisht</item>
+    <!-- ast - Asturian -->
+    <item>asturisht</item>
+    <!-- av - Avaric -->
+    <item>avarikisht</item>
+    <!-- awa - Awadhi -->
+    <item>auadhisht</item>
+    <!-- ay - Aymara -->
+    <item>ajmarisht</item>
     <!-- az - Azerbaijani -->
     <item>azerbajxhanisht</item>
     <!-- ba - Bashkir -->
     <item>bashkirisht</item>
+    <!-- ban - Balinese -->
+    <item>balinezisht</item>
+    <!-- bas - Basaa -->
+    <item>basaisht</item>
     <!-- be - Belarusian -->
     <item>bjellorusisht</item>
     <!-- bem - Bemba -->
@@ -36,9 +68,17 @@
     <item>bullgarisht</item>
     <!-- bgn - Western Balochi -->
     <item>balokishte perëndimore</item>
+    <!-- bho - Bhojpuri -->
+    <item>boxhpurisht</item>
+    <!-- bi - Bislama -->
+    <item>bislamisht</item>
+    <!-- bin - Bini -->
+    <item>binisht</item>
+    <!-- bla - Siksika -->
+    <item>siksikaisht</item>
     <!-- bm - Bambara -->
     <item>bambarisht</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>bengalisht</item>
     <!-- bo - Tibetan -->
     <item>tibetisht</item>
@@ -48,48 +88,82 @@
     <item>bodoisht</item>
     <!-- bs - Bosnian -->
     <item>boshnjakisht</item>
+    <!-- bug - Buginese -->
+    <item>buginezisht</item>
+    <!-- byn - Blin -->
+    <item>blinisht</item>
     <!-- ca - Catalan -->
     <item>katalonisht</item>
     <!-- ce - Chechen -->
     <item>çeçenisht</item>
+    <!-- ceb - Cebuano -->
+    <item>sebuanisht</item>
     <!-- cgg - Chiga -->
     <item>çigisht</item>
+    <!-- ch - Chamorro -->
+    <item>kamoroisht</item>
+    <!-- chk - Chuukese -->
+    <item>çukezisht</item>
+    <!-- chm - Mari -->
+    <item>marisht</item>
+    <!-- cho - Choctaw -->
+    <item>çoktauisht</item>
     <!-- chr - Cherokee -->
     <item>çerokisht</item>
+    <!-- chy - Cheyenne -->
+    <item>çejenisht</item>
     <!-- ckb - Central Kurdish -->
-    <item>kurdishte sorani</item>
+    <item>kurdishte qendrore</item>
     <!-- co - Corsican -->
-    <item>korsikanisht</item>
+    <item>korsikisht</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>frëngjishte kreole seselve</item>
     <!-- cs - Czech -->
     <item>çekisht</item>
+    <!-- cu - Church Slavic -->
+    <item>sllavishte kishe</item>
     <!-- cv - Chuvash -->
     <item>çuvashisht</item>
     <!-- cy - Welsh -->
     <item>uellsisht</item>
     <!-- da - Danish -->
     <item>danisht</item>
+    <!-- dak - Dakota -->
+    <item>dakotisht</item>
+    <!-- dar - Dargwa -->
+    <item>darguaisht</item>
     <!-- dav - Taita -->
-    <item>taitisht</item>
+    <item>tajtaisht</item>
     <!-- de - German -->
     <item>gjermanisht</item>
     <!-- de_AT - Austrian German -->
     <item>gjermanishte austriake</item>
     <!-- de_CH - Swiss High German -->
     <item>gjermanishte zvicerane (dialekti i Alpeve)</item>
+    <!-- dgr - Dogrib -->
+    <item>dogribisht</item>
     <!-- dje - Zarma -->
-    <item>zarmisht</item>
+    <item>zarmaisht</item>
     <!-- dsb - Lower Sorbian -->
     <item>sorbishte e poshtme</item>
     <!-- dua - Duala -->
     <item>dualaisht</item>
+    <!-- dv - Divehi -->
+    <item>divehisht</item>
     <!-- dyo - Jola-Fonyi -->
     <item>xhulafonjisht</item>
     <!-- dz - Dzongkha -->
     <item>xhongaisht</item>
+    <!-- dzg - Dazaga -->
+    <item>dazagauisht</item>
     <!-- ebu - Embu -->
     <item>embuisht</item>
     <!-- ee - Ewe -->
-    <item>juisht</item>
+    <item>eveisht</item>
+    <!-- efi - Efik -->
+    <item>efikisht</item>
+    <!-- eka - Ekajuk -->
+    <item>ekajukisht</item>
     <!-- el - Greek -->
     <item>greqisht</item>
     <!-- en - English -->
@@ -116,34 +190,50 @@
     <item>estonisht</item>
     <!-- eu - Basque -->
     <item>baskisht</item>
+    <!-- ewo - Ewondo -->
+    <item>euondoisht</item>
     <!-- fa - Persian -->
     <item>persisht</item>
+    <!-- ff - Fulah -->
+    <item>fulaisht</item>
     <!-- fi - Finnish -->
     <item>finlandisht</item>
     <!-- fil - Filipino -->
-    <item>filipinase</item>
+    <item>filipinisht</item>
     <!-- fj - Fijian -->
     <item>fixhianisht</item>
     <!-- fo - Faroese -->
     <item>faroisht</item>
+    <!-- fon - Fon -->
+    <item>fonisht</item>
     <!-- fr - French -->
     <item>frëngjisht</item>
     <!-- fr_CA - Canadian French -->
     <item>frëngjishte kanadeze</item>
     <!-- fr_CH - Swiss French -->
     <item>frëngjishte zvicerane</item>
+    <!-- fur - Friulian -->
+    <item>friulianisht</item>
     <!-- fy - Western Frisian -->
-    <item>frizianisht</item>
+    <item>frizianishte perëndimore</item>
     <!-- ga - Irish -->
     <item>irlandisht</item>
+    <!-- gaa - Ga -->
+    <item>gaisht</item>
     <!-- gag - Gagauz -->
     <item>gagauzisht</item>
     <!-- gd - Scottish Gaelic -->
-    <item>Galisht</item>
+    <item>galishte skoceze</item>
+    <!-- gez - Geez -->
+    <item>gizisht</item>
+    <!-- gil - Gilbertese -->
+    <item>gilbertazisht</item>
     <!-- gl - Galician -->
-    <item>galike</item>
+    <item>galicisht</item>
     <!-- gn - Guarani -->
     <item>guaranisht</item>
+    <!-- gor - Gorontalo -->
+    <item>gorontaloisht</item>
     <!-- gsw - Swiss German -->
     <item>gjermanishte zvicerane</item>
     <!-- gu - Gujarati -->
@@ -152,34 +242,54 @@
     <item>gusisht</item>
     <!-- gv - Manx -->
     <item>manksisht</item>
+    <!-- gwi - Gwichʼin -->
+    <item>guiçinisht</item>
     <!-- ha - Hausa -->
     <item>hausisht</item>
     <!-- haw - Hawaiian -->
-    <item>huajanisht</item>
+    <item>havaisht</item>
     <!-- he - Hebrew -->
     <item>hebraisht</item>
     <!-- hi - Hindi -->
     <item>indisht</item>
+    <!-- hil - Hiligaynon -->
+    <item>hiligajnonisht</item>
+    <!-- hmn - Hmong -->
+    <item>hmongisht</item>
     <!-- hr - Croatian -->
     <item>kroatisht</item>
     <!-- hsb - Upper Sorbian -->
-    <item>sorbiane e sipërme</item>
+    <item>sorbishte e sipërme</item>
     <!-- ht - Haitian Creole -->
-    <item>haitianisht</item>
+    <item>haitisht</item>
     <!-- hu - Hungarian -->
     <item>hungarisht</item>
+    <!-- hup - Hupa -->
+    <item>hupaisht</item>
     <!-- hy - Armenian -->
     <item>armenisht</item>
+    <!-- hz - Herero -->
+    <item>hereroisht</item>
     <!-- ia - Interlingua -->
-    <item>Interlingua</item>
+    <item>interlingua</item>
+    <!-- iba - Iban -->
+    <item>ibanisht</item>
+    <!-- ibb - Ibibio -->
+    <item>ibibioisht</item>
     <!-- id - Indonesian -->
     <item>indonezisht</item>
     <!-- ie - Interlingue -->
-    <item>Gjuha nderkombtare</item>
+    <item>gjuha oksidentale</item>
     <!-- ig - Igbo -->
     <item>igboisht</item>
     <!-- ii - Sichuan Yi -->
     <item>sishuanisht</item>
+    <!-- ilo - Iloko -->
+    <item>ilokoisht</item>
+    <!-- inh - Ingush -->
+    <item>ingushisht</item>
+    <!-- io - Ido -->
+    <item>idoisht</item>
     <!-- is - Icelandic -->
     <item>islandisht</item>
     <!-- it - Italian -->
@@ -188,6 +298,8 @@
     <item>inuktitutisht</item>
     <!-- ja - Japanese -->
     <item>japonisht</item>
+    <!-- jbo - Lojban -->
+    <item>lojbanisht</item>
     <!-- jgo - Ngomba -->
     <item>ngombisht</item>
     <!-- jmc - Machame -->
@@ -198,92 +310,162 @@
     <item>gjeorgjisht</item>
     <!-- kab - Kabyle -->
     <item>kabilisht</item>
+    <!-- kac - Kachin -->
+    <item>kaçinisht</item>
+    <!-- kaj - Jju -->
+    <item>kajeisht</item>
     <!-- kam - Kamba -->
     <item>kambaisht</item>
+    <!-- kbd - Kabardian -->
+    <item>kabardianisht</item>
+    <!-- kcg - Tyap -->
+    <item>tjapisht</item>
     <!-- kde - Makonde -->
     <item>makondisht</item>
     <!-- kea - Kabuverdianu -->
-    <item>kabuverdianisht</item>
+    <item>kreolishte e Kepit të Gjelbër</item>
+    <!-- kfo - Koro -->
+    <item>koroisht</item>
+    <!-- kha - Khasi -->
+    <item>kasisht</item>
     <!-- khq - Koyra Chiini -->
     <item>kojraçinisht</item>
     <!-- ki - Kikuyu -->
     <item>kikujuisht</item>
+    <!-- kj - Kuanyama -->
+    <item>kuanjamaisht</item>
     <!-- kk - Kazakh -->
     <item>kazakisht</item>
+    <!-- kkj - Kako -->
+    <item>kakoisht</item>
     <!-- kl - Kalaallisut -->
     <item>kalalisutisht</item>
     <!-- kln - Kalenjin -->
-    <item>kalenjinisht</item>
+    <item>kalenxhinisht</item>
     <!-- km - Khmer -->
-    <item>kmere</item>
+    <item>kmerisht</item>
+    <!-- kmb - Kimbundu -->
+    <item>kimbunduisht</item>
     <!-- kn - Kannada -->
-    <item>kanade</item>
+    <item>kanadisht</item>
     <!-- ko - Korean -->
     <item>koreanisht</item>
     <!-- koi - Komi-Permyak -->
-    <item>komishte permiake</item>
+    <item>komi-parmjakisht</item>
     <!-- kok - Konkani -->
     <item>konkanisht</item>
+    <!-- kpe - Kpelle -->
+    <item>kpeleisht</item>
+    <!-- kr - Kanuri -->
+    <item>kanurisht</item>
+    <!-- krc - Karachay-Balkar -->
+    <item>karaçaj-balkarisht</item>
+    <!-- krl - Karelian -->
+    <item>karelianisht</item>
+    <!-- kru - Kurukh -->
+    <item>kurukisht</item>
     <!-- ks - Kashmiri -->
-    <item>kashmire</item>
+    <item>kashmirisht</item>
     <!-- ksb - Shambala -->
     <item>shambalisht</item>
     <!-- ksf - Bafia -->
     <item>bafianisht</item>
+    <!-- ksh - Colognian -->
+    <item>këlnisht</item>
     <!-- ku - Kurdish -->
-    <item>kurde</item>
+    <item>kurdisht</item>
+    <!-- kum - Kumyk -->
+    <item>kumikisht</item>
+    <!-- kv - Komi -->
+    <item>komisht</item>
     <!-- kw - Cornish -->
-    <item>kornishisht</item>
+    <item>kornisht</item>
     <!-- ky - Kyrgyz -->
     <item>kirgizisht</item>
     <!-- la - Latin -->
     <item>latinisht</item>
+    <!-- lad - Ladino -->
+    <item>ladinoisht</item>
     <!-- lag - Langi -->
     <item>langisht</item>
     <!-- lb - Luxembourgish -->
-    <item>luksemburgase</item>
+    <item>luksemburgisht</item>
+    <!-- lez - Lezghian -->
+    <item>lezgianisht</item>
     <!-- lg - Ganda -->
-    <item>gandisht</item>
+    <item>gandaisht</item>
+    <!-- li - Limburgish -->
+    <item>limburgisht</item>
     <!-- lkt - Lakota -->
     <item>lakotisht</item>
     <!-- ln - Lingala -->
     <item>lingalisht</item>
     <!-- lo - Lao -->
     <item>laosisht</item>
+    <!-- loz - Lozi -->
+    <item>lozisht</item>
     <!-- lrc - Northern Luri -->
     <item>lurishte veriore</item>
     <!-- lt - Lithuanian -->
     <item>lituanisht</item>
     <!-- lu - Luba-Katanga -->
-    <item>lubakatangisht</item>
+    <item>luba-katangaisht</item>
+    <!-- lua - Luba-Lulua -->
+    <item>luba-luluaisht</item>
+    <!-- lun - Lunda -->
+    <item>lundaisht</item>
     <!-- luo - Luo -->
     <item>luoisht</item>
+    <!-- lus - Mizo -->
+    <item>mizoisht</item>
     <!-- luy - Luyia -->
     <item>lujaisht</item>
     <!-- lv - Latvian -->
     <item>letonisht</item>
+    <!-- mad - Madurese -->
+    <item>madurezisht</item>
+    <!-- mag - Magahi -->
+    <item>magaisht</item>
+    <!-- mai - Maithili -->
+    <item>maitilisht</item>
+    <!-- mak - Makasar -->
+    <item>makasarisht</item>
     <!-- mas - Masai -->
     <item>masaisht</item>
+    <!-- mdf - Moksha -->
+    <item>mokshaisht</item>
+    <!-- men - Mende -->
+    <item>mendisht</item>
     <!-- mer - Meru -->
     <item>meruisht</item>
     <!-- mfe - Morisyen -->
-    <item>norisjene</item>
+    <item>morisjenisht</item>
     <!-- mg - Malagasy -->
     <item>malagezisht</item>
     <!-- mgh - Makhuwa-Meetto -->
-    <item>makuamitoisht</item>
+    <item>makua-mitoisht</item>
     <!-- mgo - Metaʼ -->
     <item>metaisht</item>
+    <!-- mh - Marshallese -->
+    <item>marshallisht</item>
     <!-- mi - Maori -->
     <item>maorisht</item>
+    <!-- mic - Mi'kmaq -->
+    <item>mikmakisht</item>
+    <!-- min - Minangkabau -->
+    <item>minangkabauisht</item>
     <!-- mk - Macedonian -->
     <item>maqedonisht</item>
     <!-- ml - Malayalam -->
     <item>malajalamisht</item>
     <!-- mn - Mongolian -->
     <item>mongolisht</item>
+    <!-- mni - Manipuri -->
+    <item>manipurisht</item>
     <!-- moh - Mohawk -->
-    <item>mohaukisht</item>
+    <item>mohokisht</item>
+    <!-- mos - Mossi -->
+    <item>mosisht</item>
     <!-- mr - Marathi -->
     <item>maratisht</item>
     <!-- ms - Malay -->
@@ -291,15 +473,27 @@
     <!-- mt - Maltese -->
     <item>maltisht</item>
     <!-- mua - Mundang -->
-    <item>mundagishte</item>
+    <item>mundangisht</item>
+    <!-- mul - Multiple languages -->
+    <item>gjuhë të shumëfishta</item>
+    <!-- mus - Creek -->
+    <item>krikisht</item>
+    <!-- mwl - Mirandese -->
+    <item>mirandisht</item>
     <!-- my - Burmese -->
     <item>birmanisht</item>
+    <!-- myv - Erzya -->
+    <item>erzjaisht</item>
     <!-- mzn - Mazanderani -->
     <item>mazanderanisht</item>
+    <!-- na - Nauru -->
+    <item>nauruisht</item>
+    <!-- nap - Neapolitan -->
+    <item>napoletanisht</item>
     <!-- naq - Nama -->
-    <item>namaishte</item>
+    <item>namaisht</item>
     <!-- nb - Norwegian Bokmål -->
-    <item>bokmalishte norvegjeze</item>
+    <item>norvegjishte letrare</item>
     <!-- nd - North Ndebele -->
     <item>ndebelishte veriore</item>
     <!-- nds - Low German -->
@@ -308,6 +502,14 @@
     <item>gjermanishte saksone e vendeve të ulëta</item>
     <!-- ne - Nepali -->
     <item>nepalisht</item>
+    <!-- new - Newari -->
+    <item>neuarisht</item>
+    <!-- ng - Ndonga -->
+    <item>ndongaisht</item>
+    <!-- nia - Nias -->
+    <item>niasisht</item>
+    <!-- niu - Niuean -->
+    <item>niueanisht</item>
     <!-- nl - Dutch -->
     <item>holandisht</item>
     <!-- nl_BE - Flemish -->
@@ -315,25 +517,51 @@
     <!-- nmg - Kwasio -->
     <item>kuasisht</item>
     <!-- nn - Norwegian Nynorsk -->
-    <item>ninorske norvegjeze</item>
+    <item>norvegjishte nynorsk</item>
+    <!-- nnh - Ngiemboon -->
+    <item>ngiembunisht</item>
     <!-- no - Norwegian -->
-    <item>Norvegjisht</item>
+    <item>norvegjisht</item>
+    <!-- nog - Nogai -->
+    <item>nogajisht</item>
     <!-- nqo - N’Ko -->
     <item>nkoisht</item>
+    <!-- nr - South Ndebele -->
+    <item>ndebelishte jugore</item>
+    <!-- nso - Northern Sotho -->
+    <item>sotoishte veriore</item>
     <!-- nus - Nuer -->
     <item>nuerisht</item>
+    <!-- nv - Navajo -->
+    <item>navahoisht</item>
+    <!-- ny - Nyanja -->
+    <item>nianjisht</item>
     <!-- nyn - Nyankole -->
     <item>niankolisht</item>
     <!-- oc - Occitan -->
-    <item>Oksitanisht</item>
+    <item>oksitanisht</item>
     <!-- om - Oromo -->
     <item>oromoisht</item>
-    <!-- or - Oriya -->
-    <item>orijaisht</item>
+    <!-- or - Odia -->
+    <item>odisht</item>
+    <!-- os - Ossetic -->
+    <item>osetisht</item>
     <!-- pa - Punjabi -->
     <item>panxhabisht</item>
+    <!-- pag - Pangasinan -->
+    <item>pangasinanisht</item>
+    <!-- pam - Pampanga -->
+    <item>pampangaisht</item>
+    <!-- pap - Papiamento -->
+    <item>papiamentisht</item>
+    <!-- pau - Palauan -->
+    <item>paluanisht</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>pixhinishte nigeriane</item>
     <!-- pl - Polish -->
     <item>polonisht</item>
+    <!-- prg - Prussian -->
+    <item>prusisht</item>
     <!-- ps - Pashto -->
     <item>pashtoisht</item>
     <!-- pt - Portuguese -->
@@ -346,28 +574,50 @@
     <item>keçuaisht</item>
     <!-- quc - Kʼicheʼ -->
     <item>kiçeisht</item>
+    <!-- rap - Rapanui -->
+    <item>rapanuisht</item>
+    <!-- rar - Rarotongan -->
+    <item>rarontonganisht</item>
     <!-- rm - Romansh -->
-    <item>rome</item>
+    <item>retoromanisht</item>
     <!-- rn - Rundi -->
     <item>rundisht</item>
     <!-- ro - Romanian -->
     <item>rumanisht</item>
     <!-- ro_MD - Moldavian -->
-    <item>moldavishte</item>
+    <item>moldavisht</item>
     <!-- rof - Rombo -->
-    <item>romboishte</item>
+    <item>romboisht</item>
+    <!-- root - Root -->
+    <item>rutisht</item>
     <!-- ru - Russian -->
     <item>rusisht</item>
+    <!-- rup - Aromanian -->
+    <item>arumune</item>
     <!-- rw - Kinyarwanda -->
     <item>kiniaruandisht</item>
     <!-- rwk - Rwa -->
     <item>ruaisht</item>
     <!-- sa - Sanskrit -->
     <item>sanskritisht</item>
+    <!-- sad - Sandawe -->
+    <item>sandauisht</item>
+    <!-- sah - Sakha -->
+    <item>sakaisht</item>
     <!-- saq - Samburu -->
     <item>samburisht</item>
+    <!-- sat - Santali -->
+    <item>santalisht</item>
+    <!-- sba - Ngambay -->
+    <item>ngambajisht</item>
     <!-- sbp - Sangu -->
     <item>sanguisht</item>
+    <!-- sc - Sardinian -->
+    <item>sardenjisht</item>
+    <!-- scn - Sicilian -->
+    <item>siçilianisht</item>
+    <!-- sco - Scots -->
+    <item>skotisht</item>
     <!-- sd - Sindhi -->
     <item>sindisht</item>
     <!-- sdh - Southern Kurdish -->
@@ -375,114 +625,178 @@
     <!-- se - Northern Sami -->
     <item>samishte veriore</item>
     <!-- seh - Sena -->
-    <item>senaishte</item>
+    <item>senaisht</item>
     <!-- ses - Koyraboro Senni -->
     <item>senishte kojrabore</item>
     <!-- sg - Sango -->
     <item>sangoisht</item>
     <!-- sh - Serbo-Croatian -->
-    <item>Serbo-Kroatisht</item>
+    <item>serbo-kroatisht</item>
     <!-- shi - Tachelhit -->
     <item>taçelitisht</item>
+    <!-- shn - Shan -->
+    <item>shanisht</item>
     <!-- si - Sinhala -->
     <item>sinhalisht</item>
     <!-- sk - Slovak -->
     <item>sllovakisht</item>
     <!-- sl - Slovenian -->
     <item>sllovenisht</item>
+    <!-- sm - Samoan -->
+    <item>samoanisht</item>
     <!-- sma - Southern Sami -->
     <item>samishte jugore</item>
     <!-- smj - Lule Sami -->
-    <item>samishte luleje</item>
+    <item>samishte lule</item>
     <!-- smn - Inari Sami -->
-    <item>samishte inarie</item>
+    <item>samishte inari</item>
     <!-- sms - Skolt Sami -->
-    <item>samishte skolte</item>
+    <item>samishte skolti</item>
     <!-- sn - Shona -->
     <item>shonisht</item>
+    <!-- snk - Soninke -->
+    <item>soninkisht</item>
     <!-- so - Somali -->
     <item>somalisht</item>
     <!-- sq - Albanian -->
     <item>shqip</item>
     <!-- sr - Serbian -->
     <item>serbisht</item>
+    <!-- srn - Sranan Tongo -->
+    <item>srananisht (sranantongoisht)</item>
+    <!-- ss - Swati -->
+    <item>suatisht</item>
+    <!-- ssy - Saho -->
+    <item>sahoisht</item>
     <!-- st - Southern Sotho -->
-    <item>Sesotho</item>
+    <item>sotoishte jugore</item>
     <!-- su - Sundanese -->
     <item>sundanisht</item>
+    <!-- suk - Sukuma -->
+    <item>sukumaisht</item>
     <!-- sv - Swedish -->
     <item>suedisht</item>
     <!-- sw - Swahili -->
     <item>suahilisht</item>
-    <!-- swc - Congo Swahili -->
+    <!-- sw_CD - Congo Swahili -->
     <item>suahilishte kongoje</item>
+    <!-- swb - Comorian -->
+    <item>kamorianisht</item>
+    <!-- syr - Syriac -->
+    <item>siriakisht</item>
     <!-- ta - Tamil -->
-    <item>tamile</item>
+    <item>tamilisht</item>
     <!-- te - Telugu -->
-    <item>teluge</item>
+    <item>teluguisht</item>
+    <!-- tem - Timne -->
+    <item>timneisht</item>
     <!-- teo - Teso -->
-    <item>tezoisht</item>
+    <item>tesoisht</item>
+    <!-- tet - Tetum -->
+    <item>tetumisht</item>
     <!-- tg - Tajik -->
     <item>taxhikisht</item>
     <!-- th - Thai -->
     <item>tajlandisht</item>
     <!-- ti - Tigrinya -->
-    <item>tigrinje</item>
+    <item>tigrinjaisht</item>
+    <!-- tig - Tigre -->
+    <item>tigreisht</item>
     <!-- tk - Turkmen -->
     <item>turkmenisht</item>
     <!-- tlh - Klingon -->
-    <item>Klingon</item>
+    <item>klingonisht</item>
+    <!-- tn - Tswana -->
+    <item>cuanaisht</item>
     <!-- to - Tongan -->
     <item>tonganisht</item>
+    <!-- tpi - Tok Pisin -->
+    <item>pisinishte toku</item>
     <!-- tr - Turkish -->
     <item>turqisht</item>
+    <!-- trv - Taroko -->
+    <item>torokoisht</item>
+    <!-- ts - Tsonga -->
+    <item>congaisht</item>
     <!-- tt - Tatar -->
     <item>tatarisht</item>
+    <!-- tum - Tumbuka -->
+    <item>tumbukaisht</item>
+    <!-- tvl - Tuvalu -->
+    <item>tuvaluisht</item>
     <!-- tw - Twi -->
-    <item>Twi</item>
+    <item>tuisht</item>
     <!-- twq - Tasawaq -->
-    <item>tasaukisht</item>
+    <item>tasavakisht</item>
+    <!-- ty - Tahitian -->
+    <item>tahitisht</item>
+    <!-- tyv - Tuvinian -->
+    <item>tuvinianisht</item>
     <!-- tzm - Central Atlas Tamazight -->
     <item>tamaziatishte atlase qendrore</item>
+    <!-- udm - Udmurt -->
+    <item>udmurtisht</item>
     <!-- ug - Uyghur -->
-    <item>ujgure</item>
+    <item>ujgurisht</item>
     <!-- uk - Ukrainian -->
     <item>ukrainisht</item>
-    <!-- und - Unknown Language -->
+    <!-- umb - Umbundu -->
+    <item>umbunduisht</item>
+    <!-- und - Unknown language -->
     <item>e panjohur</item>
     <!-- ur - Urdu -->
-    <item>urdu</item>
+    <item>urduisht</item>
     <!-- uz - Uzbek -->
-    <item>uzbeke</item>
+    <item>uzbekisht</item>
     <!-- vai - Vai -->
     <item>vaisht</item>
+    <!-- ve - Venda -->
+    <item>vendaisht</item>
     <!-- vi - Vietnamese -->
     <item>vietnamisht</item>
+    <!-- vo - Volapük -->
+    <item>volapykisht</item>
     <!-- vun - Vunjo -->
-    <item>vunjisht</item>
+    <item>vunxhoisht</item>
+    <!-- wa - Walloon -->
+    <item>ualunisht</item>
+    <!-- wae - Walser -->
+    <item>ualserisht</item>
+    <!-- wal - Wolaytta -->
+    <item>ulajtaisht</item>
+    <!-- war - Waray -->
+    <item>uarajisht</item>
     <!-- wbp - Warlpiri -->
-    <item>uarlipirisht</item>
+    <item>uarlpirisht</item>
     <!-- wo - Wolof -->
     <item>ulufisht</item>
+    <!-- xal - Kalmyk -->
+    <item>kalmikisht</item>
     <!-- xh - Xhosa -->
-    <item>xhozaisht</item>
+    <item>kosaisht</item>
     <!-- xog - Soga -->
     <item>sogisht</item>
+    <!-- yav - Yangben -->
+    <item>jangbenisht</item>
+    <!-- ybb - Yemba -->
+    <item>jembaisht</item>
     <!-- yi - Yiddish -->
-    <item>Jiden</item>
+    <item>jidisht</item>
     <!-- yo - Yoruba -->
-    <item>jorubisht</item>
+    <item>jorubaisht</item>
+    <!-- yue - Cantonese -->
+    <item>kantonezisht</item>
     <!-- zgh - Standard Moroccan Tamazight -->
-    <item>tamazishte standarde marokene</item>
+    <item>tamaziatishte standarde marokene</item>
     <!-- zh - Chinese -->
     <item>kinezisht</item>
-    <!-- zh_Hans - Simplified Chinese -->
-    <item>kinezishte e thjeshtuar</item>
-    <!-- zh_Hant - Traditional Chinese -->
-    <item>kinezishte tradicionale</item>
     <!-- zu - Zulu -->
     <item>zuluisht</item>
+    <!-- zun - Zuni -->
+    <item>zunisht</item>
     <!-- zxx - No linguistic content -->
     <item>nuk ka përmbajtje gjuhësore</item>
+    <!-- zza - Zaza -->
+    <item>zazaisht</item>
   </string-array>
 </resources>

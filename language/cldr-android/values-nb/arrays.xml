@@ -13,7 +13,7 @@
     <!-- ada - Adangme -->
     <item>adangme</item>
     <!-- ady - Adyghe -->
-    <item>adyghe</item>
+    <item>adygeisk</item>
     <!-- ae - Avestan -->
     <item>avestisk</item>
     <!-- aeb - Tunisian Arabic -->
@@ -49,11 +49,11 @@
     <!-- ar - Arabic -->
     <item>arabisk</item>
     <!-- ar_001 - Modern Standard Arabic -->
-    <item>moderne standard arabisk</item>
+    <item>moderne standardarabisk</item>
     <!-- arc - Aramaic -->
     <item>arameisk</item>
     <!-- arn - Mapuche -->
-    <item>araukansk</item>
+    <item>mapudungun</item>
     <!-- aro - Araona -->
     <item>araona</item>
     <!-- arp - Arapaho -->
@@ -67,7 +67,7 @@
     <!-- arz - Egyptian Arabic -->
     <item>egyptisk arabisk</item>
     <!-- as - Assamese -->
-    <item>assamisk</item>
+    <item>assamesisk</item>
     <!-- asa - Asu -->
     <item>asu</item>
     <!-- ase - American Sign Language -->
@@ -79,7 +79,7 @@
     <!-- avk - Kotava -->
     <item>kotava</item>
     <!-- awa - Awadhi -->
-    <item>awadhi</item>
+    <item>avadhi</item>
     <!-- ay - Aymara -->
     <item>aymara</item>
     <!-- az - Azerbaijani -->
@@ -93,7 +93,7 @@
     <!-- bar - Bavarian -->
     <item>bairisk</item>
     <!-- bas - Basaa -->
-    <item>basa</item>
+    <item>basaa</item>
     <!-- bax - Bamun -->
     <item>bamun</item>
     <!-- bbc - Batak Toba -->
@@ -134,7 +134,7 @@
     <item>siksika</item>
     <!-- bm - Bambara -->
     <item>bambara</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>bengali</item>
     <!-- bo - Tibetan -->
     <item>tibetansk</item>
@@ -155,7 +155,7 @@
     <!-- bss - Akoose -->
     <item>akose</item>
     <!-- bua - Buriat -->
-    <item>buriat</item>
+    <item>burjatisk</item>
     <!-- bug - Buginese -->
     <item>buginesisk</item>
     <!-- bum - Bulu -->
@@ -185,7 +185,7 @@
     <!-- chb - Chibcha -->
     <item>chibcha</item>
     <!-- chg - Chagatai -->
-    <item>chagatai</item>
+    <item>tsjagatai</item>
     <!-- chk - Chuukese -->
     <item>chuukesisk</item>
     <!-- chm - Mari -->
@@ -212,6 +212,8 @@
     <item>cree</item>
     <!-- crh - Crimean Turkish -->
     <item>krimtatarisk</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>seselwa</item>
     <!-- cs - Czech -->
     <item>tsjekkisk</item>
     <!-- csb - Kashubian -->
@@ -232,14 +234,10 @@
     <item>taita</item>
     <!-- de - German -->
     <item>tysk</item>
-    <!-- de_AT - Austrian German -->
-    <item>østerriksk tysk</item>
-    <!-- de_CH - Swiss High German -->
-    <item>sveitsisk høytysk</item>
     <!-- del - Delaware -->
     <item>delaware</item>
     <!-- den - Slave -->
-    <item>slavisk</item>
+    <item>slavey</item>
     <!-- dgr - Dogrib -->
     <item>dogrib</item>
     <!-- din - Dinka -->
@@ -257,7 +255,7 @@
     <!-- dum - Middle Dutch -->
     <item>mellomnederlandsk</item>
     <!-- dv - Divehi -->
-    <item>divehi</item>
+    <item>dhivehi</item>
     <!-- dyo - Jola-Fonyi -->
     <item>jola-fonyi</item>
     <!-- dyu - Dyula -->
@@ -284,26 +282,12 @@
     <item>elamittisk</item>
     <!-- en - English -->
     <item>engelsk</item>
-    <!-- en_AU - Australian English -->
-    <item>australsk engelsk</item>
-    <!-- en_CA - Canadian English -->
-    <item>canadisk engelsk</item>
-    <!-- en_GB - British English -->
-    <item>britisk engelsk</item>
-    <!-- en_US - American English -->
-    <item>amerikansk engelsk</item>
     <!-- enm - Middle English -->
     <item>mellomengelsk</item>
     <!-- eo - Esperanto -->
     <item>esperanto</item>
     <!-- es - Spanish -->
     <item>spansk</item>
-    <!-- es_419 - Latin American Spanish -->
-    <item>latinamerikansk spansk</item>
-    <!-- es_ES - European Spanish -->
-    <item>europeisk spansk</item>
-    <!-- es_MX - Mexican Spanish -->
-    <item>meksikansk spansk</item>
     <!-- esu - Central Yupik -->
     <item>sentralyupik</item>
     <!-- et - Estonian -->
@@ -321,11 +305,11 @@
     <!-- fat - Fanti -->
     <item>fanti</item>
     <!-- ff - Fulah -->
-    <item>fulani</item>
+    <item>fulfulde</item>
     <!-- fi - Finnish -->
     <item>finsk</item>
     <!-- fil - Filipino -->
-    <item>filippinsk</item>
+    <item>filipino</item>
     <!-- fit - Tornedalen Finnish -->
     <item>tornedalsfinsk</item>
     <!-- fj - Fijian -->
@@ -336,12 +320,8 @@
     <item>fon</item>
     <!-- fr - French -->
     <item>fransk</item>
-    <!-- fr_CA - Canadian French -->
-    <item>canadisk fransk</item>
-    <!-- fr_CH - Swiss French -->
-    <item>sveitsisk fransk</item>
     <!-- frc - Cajun French -->
-    <item>kajunfransk</item>
+    <item>cajunfransk</item>
     <!-- frm - Middle French -->
     <item>mellomfransk</item>
     <!-- fro - Old French -->
@@ -371,9 +351,9 @@
     <!-- gbz - Zoroastrian Dari -->
     <item>zoroastrisk dari</item>
     <!-- gd - Scottish Gaelic -->
-    <item>skotsk gælisk</item>
+    <item>skotsk-gælisk</item>
     <!-- gez - Geez -->
-    <item>ges</item>
+    <item>geez</item>
     <!-- gil - Gilbertese -->
     <item>kiribatisk</item>
     <!-- gl - Galician -->
@@ -477,7 +457,7 @@
     <!-- it - Italian -->
     <item>italiensk</item>
     <!-- iu - Inuktitut -->
-    <item>inuktitut</item>
+    <item>inuittisk</item>
     <!-- izh - Ingrian -->
     <item>ingrisk</item>
     <!-- ja - Japanese -->
@@ -571,7 +551,7 @@
     <!-- kr - Kanuri -->
     <item>kanuri</item>
     <!-- krc - Karachay-Balkar -->
-    <item>karachay-balkar</item>
+    <item>karatsjajbalkarsk</item>
     <!-- kri - Krio -->
     <item>krio</item>
     <!-- krj - Kinaray-a -->
@@ -591,7 +571,7 @@
     <!-- ku - Kurdish -->
     <item>kurdisk</item>
     <!-- kum - Kumyk -->
-    <item>kumyk</item>
+    <item>kumykisk</item>
     <!-- kut - Kutenai -->
     <item>kutenai</item>
     <!-- kv - Komi -->
@@ -613,13 +593,13 @@
     <!-- lb - Luxembourgish -->
     <item>luxemburgsk</item>
     <!-- lez - Lezghian -->
-    <item>lezghian</item>
+    <item>lesgisk</item>
     <!-- lfn - Lingua Franca Nova -->
     <item>lingua franca nova</item>
     <!-- lg - Ganda -->
     <item>ganda</item>
     <!-- li - Limburgish -->
-    <item>limburgisk</item>
+    <item>limburgsk</item>
     <!-- lij - Ligurian -->
     <item>ligurisk</item>
     <!-- liv - Livonian -->
@@ -679,7 +659,7 @@
     <!-- mde - Maba -->
     <item>maba</item>
     <!-- mdf - Moksha -->
-    <item>moksha</item>
+    <item>moksja</item>
     <!-- mdr - Mandar -->
     <item>mandar</item>
     <!-- men - Mende -->
@@ -700,7 +680,7 @@
     <item>marshallesisk</item>
     <!-- mi - Maori -->
     <item>maori</item>
-    <!-- mic - Micmac -->
+    <!-- mic - Mi'kmaq -->
     <item>micmac</item>
     <!-- min - Minangkabau -->
     <item>minangkabau</item>
@@ -728,7 +708,7 @@
     <item>maltesisk</item>
     <!-- mua - Mundang -->
     <item>mundang</item>
-    <!-- mul - Multiple Languages -->
+    <!-- mul - Multiple languages -->
     <item>flere språk</item>
     <!-- mus - Creek -->
     <item>creek</item>
@@ -743,7 +723,7 @@
     <!-- mye - Myene -->
     <item>myene</item>
     <!-- myv - Erzya -->
-    <item>erzya</item>
+    <item>erzia</item>
     <!-- mzn - Mazanderani -->
     <item>mazandarani</item>
     <!-- na - Nauru -->
@@ -787,7 +767,7 @@
     <!-- no - Norwegian -->
     <item>norsk</item>
     <!-- nog - Nogai -->
-    <item>nogai</item>
+    <item>nogaisk</item>
     <!-- non - Old Norse -->
     <item>gammelnorsk</item>
     <!-- nov - Novial -->
@@ -820,7 +800,7 @@
     <item>ojibwa</item>
     <!-- om - Oromo -->
     <item>oromo</item>
-    <!-- or - Oriya -->
+    <!-- or - Odia -->
     <item>oriya</item>
     <!-- os - Ossetic -->
     <item>ossetisk</item>
@@ -842,6 +822,8 @@
     <item>palauisk</item>
     <!-- pcd - Picard -->
     <item>pikardisk</item>
+    <!-- pcm - Nigerian Pidgin -->
+    <item>nigeriansk pidginspråk</item>
     <!-- pdc - Pennsylvania German -->
     <item>pennsylvaniatysk</item>
     <!-- pdt - Plautdietsch -->
@@ -870,10 +852,6 @@
     <item>pashto</item>
     <!-- pt - Portuguese -->
     <item>portugisisk</item>
-    <!-- pt_BR - Brazilian Portuguese -->
-    <item>brasiliansk portugisisk</item>
-    <!-- pt_PT - European Portuguese -->
-    <item>europeisk portugisisk</item>
     <!-- qu - Quechua -->
     <item>quechua</item>
     <!-- quc - Kʼicheʼ -->
@@ -923,7 +901,7 @@
     <!-- sad - Sandawe -->
     <item>sandawe</item>
     <!-- sah - Sakha -->
-    <item>jakutsk</item>
+    <item>jakutisk</item>
     <!-- sam - Samaritan Aramaic -->
     <item>samaritansk arameisk</item>
     <!-- saq - Samburu -->
@@ -939,7 +917,7 @@
     <!-- sbp - Sangu -->
     <item>sangu</item>
     <!-- sc - Sardinian -->
-    <item>sardinsk</item>
+    <item>sardisk</item>
     <!-- scn - Sicilian -->
     <item>siciliansk</item>
     <!-- sco - Scots -->
@@ -947,7 +925,7 @@
     <!-- sd - Sindhi -->
     <item>sindhi</item>
     <!-- sdc - Sassarese Sardinian -->
-    <item>sassarisk sardinsk</item>
+    <item>sassaresisk sardisk</item>
     <!-- sdh - Southern Kurdish -->
     <item>sørkurdisk</item>
     <!-- se - Northern Sami -->
@@ -975,7 +953,7 @@
     <!-- shn - Shan -->
     <item>shan</item>
     <!-- shu - Chadian Arabic -->
-    <item>Tsjad-arabisk</item>
+    <item>tsjadisk arabisk</item>
     <!-- si - Sinhala -->
     <item>singalesisk</item>
     <!-- sid - Sidamo -->
@@ -1011,7 +989,7 @@
     <!-- sr - Serbian -->
     <item>serbisk</item>
     <!-- srn - Sranan Tongo -->
-    <item>sranan tongo</item>
+    <item>sranan</item>
     <!-- srr - Serer -->
     <item>serer</item>
     <!-- ss - Swati -->
@@ -1034,14 +1012,14 @@
     <item>svensk</item>
     <!-- sw - Swahili -->
     <item>swahili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>kongolesisk swahili</item>
     <!-- swb - Comorian -->
     <item>komorisk</item>
-    <!-- swc - Congo Swahili -->
-    <item>kongolesisk swahili</item>
     <!-- syc - Classical Syriac -->
     <item>klassisk syrisk</item>
     <!-- syr - Syriac -->
-    <item>syrisk</item>
+    <item>gammelsyrisk</item>
     <!-- szl - Silesian -->
     <item>schlesisk</item>
     <!-- ta - Tamil -->
@@ -1071,7 +1049,7 @@
     <!-- tk - Turkmen -->
     <item>turkmensk</item>
     <!-- tkl - Tokelau -->
-    <item>tokelau</item>
+    <item>tokelauisk</item>
     <!-- tkr - Tsakhur -->
     <item>tsakhursk</item>
     <!-- tl - Tagalog -->
@@ -1081,7 +1059,7 @@
     <!-- tli - Tlingit -->
     <item>tlingit</item>
     <!-- tly - Talysh -->
-    <item>talysh</item>
+    <item>talysj</item>
     <!-- tmh - Tamashek -->
     <item>tamasjek</item>
     <!-- tn - Tswana -->
@@ -1111,7 +1089,7 @@
     <!-- tum - Tumbuka -->
     <item>tumbuka</item>
     <!-- tvl - Tuvalu -->
-    <item>tuvalu</item>
+    <item>tuvalsk</item>
     <!-- tw - Twi -->
     <item>twi</item>
     <!-- twq - Tasawaq -->
@@ -1119,11 +1097,11 @@
     <!-- ty - Tahitian -->
     <item>tahitisk</item>
     <!-- tyv - Tuvinian -->
-    <item>tuvinisk</item>
+    <item>tuvinsk</item>
     <!-- tzm - Central Atlas Tamazight -->
     <item>sentralmarokkansk tamazight</item>
     <!-- udm - Udmurt -->
-    <item>udmurt</item>
+    <item>udmurtisk</item>
     <!-- ug - Uyghur -->
     <item>uigurisk</item>
     <!-- uga - Ugaritic -->
@@ -1132,7 +1110,7 @@
     <item>ukrainsk</item>
     <!-- umb - Umbundu -->
     <item>umbundu</item>
-    <!-- und - Unknown Language -->
+    <!-- und - Unknown language -->
     <item>ukjent språk</item>
     <!-- ur - Urdu -->
     <item>urdu</item>
@@ -1163,11 +1141,11 @@
     <!-- wa - Walloon -->
     <item>vallonsk</item>
     <!-- wae - Walser -->
-    <item>walser</item>
+    <item>walsertysk</item>
     <!-- wal - Wolaytta -->
-    <item>walamo</item>
+    <item>wolaytta</item>
     <!-- war - Waray -->
-    <item>waray</item>
+    <item>waray-waray</item>
     <!-- was - Washo -->
     <item>washo</item>
     <!-- wbp - Warlpiri -->
@@ -1177,7 +1155,7 @@
     <!-- wuu - Wu Chinese -->
     <item>wu</item>
     <!-- xal - Kalmyk -->
-    <item>kalmyk</item>
+    <item>kalmukkisk</item>
     <!-- xh - Xhosa -->
     <item>xhosa</item>
     <!-- xmf - Mingrelian -->
@@ -1203,7 +1181,7 @@
     <!-- za - Zhuang -->
     <item>zhuang</item>
     <!-- zap - Zapotec -->
-    <item>zapotec</item>
+    <item>zapotekisk</item>
     <!-- zbl - Blissymbols -->
     <item>blissymboler</item>
     <!-- zea - Zeelandic -->
@@ -1225,6 +1203,6 @@
     <!-- zxx - No linguistic content -->
     <item>uten språklig innhold</item>
     <!-- zza - Zaza -->
-    <item>zaza</item>
+    <item>zazaisk</item>
   </string-array>
 </resources>

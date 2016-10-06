@@ -14,7 +14,7 @@
   </language>
   <language>
     <code>ach</code>
-    <name>ակոլերեն</name>
+    <name>աչոլի</name>
   </language>
   <language>
     <code>ada</code>
@@ -42,19 +42,35 @@
   </language>
   <language>
     <code>ak</code>
-    <name>աքաներեն</name>
+    <name>աքան</name>
   </language>
   <language>
     <code>akk</code>
     <name>աքքադերեն</name>
   </language>
   <language>
+    <code>ale</code>
+    <name>ալեութերեն</name>
+  </language>
+  <language>
+    <code>alt</code>
+    <name>հարավային ալթայերեն</name>
+  </language>
+  <language>
     <code>am</code>
     <name>ամհարերեն</name>
   </language>
   <language>
+    <code>an</code>
+    <name>արագոներեն</name>
+  </language>
+  <language>
     <code>ang</code>
     <name>հին անգլերեն</name>
+  </language>
+  <language>
+    <code>anp</code>
+    <name>անգիկա</name>
   </language>
   <language>
     <code>ar</code>
@@ -62,7 +78,7 @@
   </language>
   <language>
     <code>ar_001</code>
-    <name>ժամանակակից ստանդարտ արաբերեն</name>
+    <name>արդի ընդհանուր արաբերեն</name>
   </language>
   <language>
     <code>arc</code>
@@ -71,6 +87,10 @@
   <language>
     <code>arn</code>
     <name>մապուչի</name>
+  </language>
+  <language>
+    <code>arp</code>
+    <name>արապահո</name>
   </language>
   <language>
     <code>arq</code>
@@ -97,12 +117,32 @@
     <name>աստուրերեն</name>
   </language>
   <language>
+    <code>av</code>
+    <name>ավարերեն</name>
+  </language>
+  <language>
+    <code>awa</code>
+    <name>ավադհի</name>
+  </language>
+  <language>
+    <code>ay</code>
+    <name>այմարա</name>
+  </language>
+  <language>
     <code>az</code>
     <name>ադրբեջաներեն</name>
   </language>
   <language>
     <code>ba</code>
     <name>բաշկիրերեն</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>բալիերեն</name>
+  </language>
+  <language>
+    <code>bas</code>
+    <name>բասաա</name>
   </language>
   <language>
     <code>be</code>
@@ -122,7 +162,23 @@
   </language>
   <language>
     <code>bgn</code>
-    <name>արևմտյան բելոչի</name>
+    <name>արևմտաբելուջիերեն</name>
+  </language>
+  <language>
+    <code>bho</code>
+    <name>բհոպուրի</name>
+  </language>
+  <language>
+    <code>bi</code>
+    <name>բիսլամա</name>
+  </language>
+  <language>
+    <code>bin</code>
+    <name>բինի</name>
+  </language>
+  <language>
+    <code>bla</code>
+    <name>սիկսիկա</name>
   </language>
   <language>
     <code>bm</code>
@@ -150,7 +206,15 @@
   </language>
   <language>
     <code>bss</code>
-    <name>աքուզերեն</name>
+    <name>աքուզ</name>
+  </language>
+  <language>
+    <code>bug</code>
+    <name>բուգիերեն</name>
+  </language>
+  <language>
+    <code>byn</code>
+    <name>բիլին</name>
   </language>
   <language>
     <code>ca</code>
@@ -169,12 +233,32 @@
     <name>չիգա</name>
   </language>
   <language>
+    <code>ch</code>
+    <name>չամոռո</name>
+  </language>
+  <language>
+    <code>chk</code>
+    <name>տրուկերեն</name>
+  </language>
+  <language>
+    <code>chm</code>
+    <name>մարի</name>
+  </language>
+  <language>
+    <code>cho</code>
+    <name>չոկտո</name>
+  </language>
+  <language>
     <code>chr</code>
-    <name>շերոկի</name>
+    <name>չերոկի</name>
+  </language>
+  <language>
+    <code>chy</code>
+    <name>շայեն</name>
   </language>
   <language>
     <code>ckb</code>
-    <name>սորանի (քրդերեն)</name>
+    <name>սորանի քրդերեն</name>
   </language>
   <language>
     <code>co</code>
@@ -189,8 +273,16 @@
     <name>ղրիմյան թուրքերեն</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>սեյշելյան խառնակերտ ֆրանսերեն</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>չեխերեն</name>
+  </language>
+  <language>
+    <code>cu</code>
+    <name>եկեղեցական սլավոներեն</name>
   </language>
   <language>
     <code>cv</code>
@@ -203,6 +295,14 @@
   <language>
     <code>da</code>
     <name>դանիերեն</name>
+  </language>
+  <language>
+    <code>dak</code>
+    <name>դակոտա</name>
+  </language>
+  <language>
+    <code>dar</code>
+    <name>դարգիներեն</name>
   </language>
   <language>
     <code>dav</code>
@@ -218,7 +318,11 @@
   </language>
   <language>
     <code>de_CH</code>
-    <name>շվեյցարական բարձր գերմաներեն</name>
+    <name>շվեյցարական վերին գերմաներեն</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>դոգրիբ</name>
   </language>
   <language>
     <code>dje</code>
@@ -226,11 +330,15 @@
   </language>
   <language>
     <code>dsb</code>
-    <name>ստորին սորբիերեն</name>
+    <name>ստորին սորբերեն</name>
   </language>
   <language>
     <code>dua</code>
     <name>դուալա</name>
+  </language>
+  <language>
+    <code>dv</code>
+    <name>մալդիվերեն</name>
   </language>
   <language>
     <code>dyo</code>
@@ -239,6 +347,10 @@
   <language>
     <code>dz</code>
     <name>ջոնգքհա</name>
+  </language>
+  <language>
+    <code>dzg</code>
+    <name>դազագա</name>
   </language>
   <language>
     <code>ebu</code>
@@ -250,11 +362,15 @@
   </language>
   <language>
     <code>efi</code>
-    <name>էֆիկերեն</name>
+    <name>էֆիկ</name>
   </language>
   <language>
     <code>egy</code>
     <name>հին եգիպտերեն</name>
+  </language>
+  <language>
+    <code>eka</code>
+    <name>էկաջուկ</name>
   </language>
   <language>
     <code>el</code>
@@ -290,7 +406,7 @@
   </language>
   <language>
     <code>es_419</code>
-    <name>լատինաամերիկյան իսպաներեն</name>
+    <name>լատինամերիկյան իսպաներեն</name>
   </language>
   <language>
     <code>es_ES</code>
@@ -309,8 +425,16 @@
     <name>բասկերեն</name>
   </language>
   <language>
+    <code>ewo</code>
+    <name>էվոնդո</name>
+  </language>
+  <language>
     <code>fa</code>
     <name>պարսկերեն</name>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>ֆուլահ</name>
   </language>
   <language>
     <code>fi</code>
@@ -334,7 +458,7 @@
   </language>
   <language>
     <code>fon</code>
-    <name>ֆոներեն</name>
+    <name>ֆոն</name>
   </language>
   <language>
     <code>fr</code>
@@ -354,7 +478,7 @@
   </language>
   <language>
     <code>frs</code>
-    <name>արևելյան ֆրիզերեն</name>
+    <name>արևելաֆրիզերեն</name>
   </language>
   <language>
     <code>fur</code>
@@ -362,7 +486,7 @@
   </language>
   <language>
     <code>fy</code>
-    <name>արևմտյան ֆրիզերեն</name>
+    <name>արևմտաֆրիզերեն</name>
   </language>
   <language>
     <code>ga</code>
@@ -370,7 +494,7 @@
   </language>
   <language>
     <code>gaa</code>
-    <name>գաերեն</name>
+    <name>գայերեն</name>
   </language>
   <language>
     <code>gag</code>
@@ -382,7 +506,15 @@
   </language>
   <language>
     <code>gd</code>
-    <name>Գաելյան Շոտլանդերեն</name>
+    <name>գաելերեն</name>
+  </language>
+  <language>
+    <code>gez</code>
+    <name>գեեզ</name>
+  </language>
+  <language>
+    <code>gil</code>
+    <name>կիրիբատի</name>
   </language>
   <language>
     <code>gl</code>
@@ -394,7 +526,11 @@
   </language>
   <language>
     <code>goh</code>
-    <name>հին բարձր գերմաներեն</name>
+    <name>հին վերին գերմաներեն</name>
+  </language>
+  <language>
+    <code>gor</code>
+    <name>գորոնտալո</name>
   </language>
   <language>
     <code>got</code>
@@ -414,7 +550,7 @@
   </language>
   <language>
     <code>guc</code>
-    <name>վայու</name>
+    <name>վայուու</name>
   </language>
   <language>
     <code>guz</code>
@@ -423,6 +559,10 @@
   <language>
     <code>gv</code>
     <name>մեներեն</name>
+  </language>
+  <language>
+    <code>gwi</code>
+    <name>գվիչին</name>
   </language>
   <language>
     <code>ha</code>
@@ -441,12 +581,20 @@
     <name>հինդի</name>
   </language>
   <language>
+    <code>hil</code>
+    <name>հիլիգայնոն</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>հմոնգ</name>
+  </language>
+  <language>
     <code>hr</code>
     <name>խորվաթերեն</name>
   </language>
   <language>
     <code>hsb</code>
-    <name>վերին սորբիերեն</name>
+    <name>վերին սորբերեն</name>
   </language>
   <language>
     <code>hsn</code>
@@ -454,19 +602,35 @@
   </language>
   <language>
     <code>ht</code>
-    <name>հաիթերեն</name>
+    <name>խառնակերտ հայիթերեն</name>
   </language>
   <language>
     <code>hu</code>
     <name>հունգարերեն</name>
   </language>
   <language>
+    <code>hup</code>
+    <name>հուպա</name>
+  </language>
+  <language>
     <code>hy</code>
     <name>հայերեն</name>
   </language>
   <language>
+    <code>hz</code>
+    <name>հերերո</name>
+  </language>
+  <language>
     <code>ia</code>
-    <name>Ինտերլինգուա</name>
+    <name>ինտերլինգուա</name>
+  </language>
+  <language>
+    <code>iba</code>
+    <name>իբաներեն</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>իբիբիո</name>
   </language>
   <language>
     <code>id</code>
@@ -474,7 +638,7 @@
   </language>
   <language>
     <code>ie</code>
-    <name>Ինտերլինգ</name>
+    <name>ինտերլինգուե</name>
   </language>
   <language>
     <code>ig</code>
@@ -482,7 +646,19 @@
   </language>
   <language>
     <code>ii</code>
-    <name>սիխուան յի</name>
+    <name>սիչուան</name>
+  </language>
+  <language>
+    <code>ilo</code>
+    <name>իլոկերեն</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>ինգուշերեն</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>իդո</name>
   </language>
   <language>
     <code>is</code>
@@ -499,6 +675,10 @@
   <language>
     <code>ja</code>
     <name>ճապոներեն</name>
+  </language>
+  <language>
+    <code>jbo</code>
+    <name>լոժբան</name>
   </language>
   <language>
     <code>jgo</code>
@@ -521,8 +701,20 @@
     <name>կաբիլերեն</name>
   </language>
   <language>
+    <code>kac</code>
+    <name>կաչիներեն</name>
+  </language>
+  <language>
+    <code>kaj</code>
+    <name>ջյու</name>
+  </language>
+  <language>
     <code>kam</code>
     <name>կամբա</name>
+  </language>
+  <language>
+    <code>kbd</code>
+    <name>կաբարդերեն</name>
   </language>
   <language>
     <code>kcg</code>
@@ -534,7 +726,15 @@
   </language>
   <language>
     <code>kea</code>
-    <name>կուբավերդիանու</name>
+    <name>կաբուվերդյանու</name>
+  </language>
+  <language>
+    <code>kfo</code>
+    <name>կորո</name>
+  </language>
+  <language>
+    <code>kha</code>
+    <name>կխասի</name>
   </language>
   <language>
     <code>khq</code>
@@ -545,8 +745,16 @@
     <name>կիկույու</name>
   </language>
   <language>
+    <code>kj</code>
+    <name>կուանյամա</name>
+  </language>
+  <language>
     <code>kk</code>
     <name>ղազախերեն</name>
+  </language>
+  <language>
+    <code>kkj</code>
+    <name>կակո</name>
   </language>
   <language>
     <code>kl</code>
@@ -561,6 +769,10 @@
     <name>քմերերեն</name>
   </language>
   <language>
+    <code>kmb</code>
+    <name>կիմբունդու</name>
+  </language>
+  <language>
     <code>kn</code>
     <name>կաննադա</name>
   </language>
@@ -570,11 +782,31 @@
   </language>
   <language>
     <code>koi</code>
-    <name>կոմի-պերմյակ</name>
+    <name>պերմյակ կոմիերեն</name>
   </language>
   <language>
     <code>kok</code>
     <name>կոնկանի</name>
+  </language>
+  <language>
+    <code>kpe</code>
+    <name>կպելլեերեն</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>կանուրի</name>
+  </language>
+  <language>
+    <code>krc</code>
+    <name>կարաչայ-բալկարերեն</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>կարելերեն</name>
+  </language>
+  <language>
+    <code>kru</code>
+    <name>կուրուխ</name>
   </language>
   <language>
     <code>ks</code>
@@ -589,8 +821,20 @@
     <name>բաֆիա</name>
   </language>
   <language>
+    <code>ksh</code>
+    <name>քյոլներեն</name>
+  </language>
+  <language>
     <code>ku</code>
     <name>քրդերեն</name>
+  </language>
+  <language>
+    <code>kum</code>
+    <name>կումիկերեն</name>
+  </language>
+  <language>
+    <code>kv</code>
+    <name>կոմիերեն</name>
   </language>
   <language>
     <code>kw</code>
@@ -605,6 +849,10 @@
     <name>լատիներեն</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>լադինո</name>
+  </language>
+  <language>
     <code>lag</code>
     <name>լանգի</name>
   </language>
@@ -613,8 +861,16 @@
     <name>լյուքսեմբուրգերեն</name>
   </language>
   <language>
+    <code>lez</code>
+    <name>լեզգիերեն</name>
+  </language>
+  <language>
     <code>lg</code>
     <name>գանդա</name>
+  </language>
+  <language>
+    <code>li</code>
+    <name>լիմբուրգերեն</name>
   </language>
   <language>
     <code>lkt</code>
@@ -629,6 +885,10 @@
     <name>լաոսերեն</name>
   </language>
   <language>
+    <code>loz</code>
+    <name>լոզի</name>
+  </language>
+  <language>
     <code>lrc</code>
     <name>հյուսիսային լուրիերեն</name>
   </language>
@@ -641,8 +901,20 @@
     <name>լուբա-կատանգա</name>
   </language>
   <language>
+    <code>lua</code>
+    <name>լուբա-լուլուա</name>
+  </language>
+  <language>
+    <code>lun</code>
+    <name>լունդա</name>
+  </language>
+  <language>
     <code>luo</code>
     <name>լուո</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>միզո</name>
   </language>
   <language>
     <code>luy</code>
@@ -653,8 +925,32 @@
     <name>լատվիերեն</name>
   </language>
   <language>
+    <code>mad</code>
+    <name>մադուրերեն</name>
+  </language>
+  <language>
+    <code>mag</code>
+    <name>մագահի</name>
+  </language>
+  <language>
+    <code>mai</code>
+    <name>մայթիլի</name>
+  </language>
+  <language>
+    <code>mak</code>
+    <name>մակասարերեն</name>
+  </language>
+  <language>
     <code>mas</code>
     <name>մասաի</name>
+  </language>
+  <language>
+    <code>mdf</code>
+    <name>մոկշայերեն</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>մենդե</name>
   </language>
   <language>
     <code>mer</code>
@@ -666,7 +962,7 @@
   </language>
   <language>
     <code>mg</code>
-    <name>մալագասերեն</name>
+    <name>մալգաշերեն</name>
   </language>
   <language>
     <code>mgh</code>
@@ -677,8 +973,20 @@
     <name>մետա</name>
   </language>
   <language>
+    <code>mh</code>
+    <name>մարշալերեն</name>
+  </language>
+  <language>
     <code>mi</code>
     <name>մաորի</name>
+  </language>
+  <language>
+    <code>mic</code>
+    <name>միկմակ</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>մինանգկաբաու</name>
   </language>
   <language>
     <code>mk</code>
@@ -693,8 +1001,16 @@
     <name>մոնղոլերեն</name>
   </language>
   <language>
+    <code>mni</code>
+    <name>մանիպուրի</name>
+  </language>
+  <language>
     <code>moh</code>
     <name>մոհավք</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>մոսսի</name>
   </language>
   <language>
     <code>mr</code>
@@ -702,7 +1018,7 @@
   </language>
   <language>
     <code>mrj</code>
-    <name>արևմտյան մարիերեն</name>
+    <name>արևմտամարիերեն</name>
   </language>
   <language>
     <code>ms</code>
@@ -710,19 +1026,43 @@
   </language>
   <language>
     <code>mt</code>
-    <name>մալթերեն</name>
+    <name>մալթայերեն</name>
   </language>
   <language>
     <code>mua</code>
     <name>մունդանգ</name>
   </language>
   <language>
+    <code>mul</code>
+    <name>բազմալեզու</name>
+  </language>
+  <language>
+    <code>mus</code>
+    <name>կրիկ</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>միրանդերեն</name>
+  </language>
+  <language>
     <code>my</code>
     <name>բիրմայերեն</name>
   </language>
   <language>
+    <code>myv</code>
+    <name>էրզյա</name>
+  </language>
+  <language>
     <code>mzn</code>
     <name>մազանդարաներեն</name>
+  </language>
+  <language>
+    <code>na</code>
+    <name>նաուրու</name>
+  </language>
+  <language>
+    <code>nap</code>
+    <name>նեապոլերեն</name>
   </language>
   <language>
     <code>naq</code>
@@ -737,8 +1077,28 @@
     <name>հյուսիսային նդեբելե</name>
   </language>
   <language>
+    <code>nds_NL</code>
+    <name>ստորին սաքսոներեն</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>նեպալերեն</name>
+  </language>
+  <language>
+    <code>new</code>
+    <name>նեվարերեն</name>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>նդոնգա</name>
+  </language>
+  <language>
+    <code>nia</code>
+    <name>նիասերեն</name>
+  </language>
+  <language>
+    <code>niu</code>
+    <name>նիուերեն</name>
   </language>
   <language>
     <code>nl</code>
@@ -757,8 +1117,16 @@
     <name>նորվեգերեն նյունորսկ</name>
   </language>
   <language>
+    <code>nnh</code>
+    <name>նգիեմբուն</name>
+  </language>
+  <language>
     <code>no</code>
-    <name>Նորվեգերեն</name>
+    <name>նորվեգերեն</name>
+  </language>
+  <language>
+    <code>nog</code>
+    <name>նոգայերեն</name>
   </language>
   <language>
     <code>non</code>
@@ -769,8 +1137,24 @@
     <name>նկո</name>
   </language>
   <language>
+    <code>nr</code>
+    <name>հարավային նդեբելե</name>
+  </language>
+  <language>
+    <code>nso</code>
+    <name>հյուսիսային սոթո</name>
+  </language>
+  <language>
     <code>nus</code>
     <name>նուեր</name>
+  </language>
+  <language>
+    <code>nv</code>
+    <name>նավախո</name>
+  </language>
+  <language>
+    <code>ny</code>
+    <name>նյանջա</name>
   </language>
   <language>
     <code>nyn</code>
@@ -778,7 +1162,7 @@
   </language>
   <language>
     <code>oc</code>
-    <name>ակվիտաներեն</name>
+    <name>օքսիտաներեն</name>
   </language>
   <language>
     <code>oj</code>
@@ -798,7 +1182,7 @@
   </language>
   <language>
     <code>osa</code>
-    <name>օսեյջի</name>
+    <name>օսեյջ</name>
   </language>
   <language>
     <code>ota</code>
@@ -818,11 +1202,11 @@
   </language>
   <language>
     <code>pam</code>
-    <name>պանպանգաերեն</name>
+    <name>պամպանգաերեն</name>
   </language>
   <language>
     <code>pap</code>
-    <name>պապիամենտո</name>
+    <name>պապյամենտու</name>
   </language>
   <language>
     <code>pau</code>
@@ -831,6 +1215,10 @@
   <language>
     <code>pcd</code>
     <name>պիկարդերեն</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>նիգերյան կրեոլերեն</name>
   </language>
   <language>
     <code>pdc</code>
@@ -846,7 +1234,7 @@
   </language>
   <language>
     <code>pfl</code>
-    <name>պալանտինների գերմաներեն</name>
+    <name>պալատինյան գերմաներեն</name>
   </language>
   <language>
     <code>phn</code>
@@ -866,7 +1254,7 @@
   </language>
   <language>
     <code>pnt</code>
-    <name>պոնտիկերեն</name>
+    <name>պոնտերեն</name>
   </language>
   <language>
     <code>pon</code>
@@ -878,7 +1266,7 @@
   </language>
   <language>
     <code>pro</code>
-    <name>հին պրովենսիալ</name>
+    <name>հին պրովանսերեն</name>
   </language>
   <language>
     <code>ps</code>
@@ -898,11 +1286,11 @@
   </language>
   <language>
     <code>qu</code>
-    <name>քեչուա</name>
+    <name>կեչուա</name>
   </language>
   <language>
     <code>quc</code>
-    <name>կիչե</name>
+    <name>քիչե</name>
   </language>
   <language>
     <code>raj</code>
@@ -914,7 +1302,7 @@
   </language>
   <language>
     <code>rar</code>
-    <name>ռարոտոնգան</name>
+    <name>ռարոտոնգաներեն</name>
   </language>
   <language>
     <code>rgn</code>
@@ -974,7 +1362,7 @@
   </language>
   <language>
     <code>rw</code>
-    <name>քինյարվանդա</name>
+    <name>կինյառուանդա</name>
   </language>
   <language>
     <code>rwk</code>
@@ -985,12 +1373,40 @@
     <name>սանսկրիտ</name>
   </language>
   <language>
+    <code>sad</code>
+    <name>սանդավե</name>
+  </language>
+  <language>
+    <code>sah</code>
+    <name>յակուտերեն</name>
+  </language>
+  <language>
     <code>saq</code>
     <name>սամբուրու</name>
   </language>
   <language>
+    <code>sat</code>
+    <name>սանտալի</name>
+  </language>
+  <language>
+    <code>sba</code>
+    <name>նգամբայ</name>
+  </language>
+  <language>
     <code>sbp</code>
     <name>սանգու</name>
+  </language>
+  <language>
+    <code>sc</code>
+    <name>սարդիներեն</name>
+  </language>
+  <language>
+    <code>scn</code>
+    <name>սիցիլիերեն</name>
+  </language>
+  <language>
+    <code>sco</code>
+    <name>շոտլանդերեն</name>
   </language>
   <language>
     <code>sd</code>
@@ -1002,7 +1418,7 @@
   </language>
   <language>
     <code>se</code>
-    <name>հյուսիսային սամի</name>
+    <name>հյուսիսային սաամի</name>
   </language>
   <language>
     <code>seh</code>
@@ -1022,11 +1438,15 @@
   </language>
   <language>
     <code>sh</code>
-    <name>Սերբա-Խորվաթերեն</name>
+    <name>սերբա-խորվաթերեն</name>
   </language>
   <language>
     <code>shi</code>
     <name>տաշելհիթ</name>
+  </language>
+  <language>
+    <code>shn</code>
+    <name>շաներեն</name>
   </language>
   <language>
     <code>si</code>
@@ -1041,24 +1461,32 @@
     <name>սլովեներեն</name>
   </language>
   <language>
+    <code>sm</code>
+    <name>սամոաերեն</name>
+  </language>
+  <language>
     <code>sma</code>
-    <name>հարավային սամի</name>
+    <name>հարավային սաամերեն</name>
   </language>
   <language>
     <code>smj</code>
-    <name>լուլե սամի</name>
+    <name>լուլե սաամի</name>
   </language>
   <language>
     <code>smn</code>
-    <name>ինարի սամի</name>
+    <name>ինարի սաամերեն</name>
   </language>
   <language>
     <code>sms</code>
-    <name>սկոլտ սամի</name>
+    <name>սկոլտ սաամերեն</name>
   </language>
   <language>
     <code>sn</code>
     <name>շոնա</name>
+  </language>
+  <language>
+    <code>snk</code>
+    <name>սոնինկե</name>
   </language>
   <language>
     <code>so</code>
@@ -1073,12 +1501,28 @@
     <name>սերբերեն</name>
   </language>
   <language>
+    <code>srn</code>
+    <name>սրանան տոնգո</name>
+  </language>
+  <language>
+    <code>ss</code>
+    <name>սվազերեն</name>
+  </language>
+  <language>
+    <code>ssy</code>
+    <name>սահոերեն</name>
+  </language>
+  <language>
     <code>st</code>
-    <name>հյուսիսային սոտո</name>
+    <name>հարավային սոթո</name>
   </language>
   <language>
     <code>su</code>
     <name>սունդաներեն</name>
+  </language>
+  <language>
+    <code>suk</code>
+    <name>սուկումա</name>
   </language>
   <language>
     <code>sv</code>
@@ -1089,8 +1533,16 @@
     <name>սուահիլի</name>
   </language>
   <language>
-    <code>swc</code>
+    <code>sw_CD</code>
     <name>կոնգոյի սուահիլի</name>
+  </language>
+  <language>
+    <code>swb</code>
+    <name>կոմորերեն</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>ասորերեն</name>
   </language>
   <language>
     <code>ta</code>
@@ -1106,7 +1558,7 @@
   </language>
   <language>
     <code>tem</code>
-    <name>տիմնե</name>
+    <name>տեմնե</name>
   </language>
   <language>
     <code>teo</code>
@@ -1118,7 +1570,7 @@
   </language>
   <language>
     <code>tet</code>
-    <name>թեթում</name>
+    <name>տետում</name>
   </language>
   <language>
     <code>tg</code>
@@ -1130,7 +1582,7 @@
   </language>
   <language>
     <code>ti</code>
-    <name>թիգրինիա</name>
+    <name>տիգրինյա</name>
   </language>
   <language>
     <code>tig</code>
@@ -1158,7 +1610,7 @@
   </language>
   <language>
     <code>tlh</code>
-    <name>Կլինգոն</name>
+    <name>կլինգոն</name>
   </language>
   <language>
     <code>tli</code>
@@ -1238,7 +1690,7 @@
   </language>
   <language>
     <code>tzm</code>
-    <name>կենտրոնատլասյան թամազիխտ</name>
+    <name>կենտրոնատլասյան թամազիղտ</name>
   </language>
   <language>
     <code>udm</code>
@@ -1282,11 +1734,11 @@
   </language>
   <language>
     <code>vec</code>
-    <name>վենետիկերեն</name>
+    <name>վենետերեն</name>
   </language>
   <language>
     <code>vep</code>
-    <name>վեպսկերեն</name>
+    <name>վեպսերեն</name>
   </language>
   <language>
     <code>vi</code>
@@ -1294,7 +1746,7 @@
   </language>
   <language>
     <code>vls</code>
-    <name>արևմտյան ֆլամադերեն</name>
+    <name>արևմտաֆլամանդերեն</name>
   </language>
   <language>
     <code>vo</code>
@@ -1345,8 +1797,12 @@
     <name>վու չինարեն</name>
   </language>
   <language>
+    <code>xal</code>
+    <name>կալմիկերեն</name>
+  </language>
+  <language>
     <code>xh</code>
-    <name>քսոզա</name>
+    <name>քոսա</name>
   </language>
   <language>
     <code>xog</code>
@@ -1358,7 +1814,7 @@
   </language>
   <language>
     <code>yap</code>
-    <name>յապսկերեն</name>
+    <name>յափերեն</name>
   </language>
   <language>
     <code>yav</code>
@@ -1366,7 +1822,7 @@
   </language>
   <language>
     <code>ybb</code>
-    <name>յեմբաերեն</name>
+    <name>եմբա</name>
   </language>
   <language>
     <code>yi</code>
@@ -1375,6 +1831,10 @@
   <language>
     <code>yo</code>
     <name>յորուբա</name>
+  </language>
+  <language>
+    <code>yue</code>
+    <name>կանտոներեն</name>
   </language>
   <language>
     <code>za</code>
@@ -1394,7 +1854,7 @@
   </language>
   <language>
     <code>zgh</code>
-    <name>ստանդարտ մարոկական թամազիղտ</name>
+    <name>ընդհանուր մարոկյան թամազիղտ</name>
   </language>
   <language>
     <code>zh</code>
@@ -1410,7 +1870,7 @@
   </language>
   <language>
     <code>zu</code>
-    <name>զուլուսերեն</name>
+    <name>զուլուերեն</name>
   </language>
   <language>
     <code>zun</code>

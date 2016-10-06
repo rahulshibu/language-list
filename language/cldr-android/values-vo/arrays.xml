@@ -2,17 +2,27 @@
 <resources>
   <!-- Volapük (vo) -->
   <string-array name="languages_all">
+    <!-- de - German -->
+    <item>Deutänapük</item>
     <!-- en - English -->
     <item>Linglänapük</item>
     <!-- eo - Esperanto -->
     <item>Sperantapük</item>
     <!-- es - Spanish -->
     <item>Spanyänapük</item>
+    <!-- fr - French -->
+    <item>Fransänapük</item>
+    <!-- it - Italian -->
+    <item>Litaliyänapük</item>
+    <!-- ja - Japanese -->
+    <item>Yapänapük</item>
     <!-- pt - Portuguese -->
     <item>Portugänapük</item>
     <!-- ru - Russian -->
     <item>Rusänapük</item>
     <!-- vo - Volapük -->
     <item>Volapük</item>
+    <!-- zh - Chinese -->
+    <item>Tsyinänapük</item>
   </string-array>
 </resources>

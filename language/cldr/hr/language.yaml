@@ -1,16 +1,16 @@
 aa: afarski
 ab: abhaski
-ace: achinese
-ach: acoli
+ace: "a\u010Dinski"
+ach: "a\u010Doli"
 ada: adangme
 ady: adigejski
-ae: avestan
+ae: "avesti\u010Dki"
 af: afrikaans
 afh: afrihili
 agq: aghem
-ain: ainu
+ain: ainuski
 ak: akanski
-akk: akkadian
+akk: akadski
 ale: aleutski
 alt: "ju\u017Eni altai"
 am: amharski
@@ -20,20 +20,20 @@ anp: angika
 ar: arapski
 ar_001: moderni standardni arapski
 arc: aramejski
-arn: araukanski
+arn: mapuche
 arp: arapaho
-arw: arawak
+arw: "arava\u010Dki"
 as: asamski
 asa: asu
 ast: asturijski
 av: avarski
 awa: awadhi
-ay: aymara
+ay: ajmarski
 az: "azerbajd\u017Eanski"
 az_Arab: "ju\u017Enoazerbajd\u017Eanski"
 ba: "ba\u0161kirski"
-bal: baluchi
-ban: balinezijski
+bal: "belu\u010Dki"
+ban: balijski
 bas: basa
 bax: bamunski
 bbj: ghomala
@@ -46,19 +46,19 @@ bg: bugarski
 bgn: "zapadnobalud\u017Eijski"
 bho: bhojpuri
 bi: bislama
-bik: bikol
+bik: bikolski
 bin: bini
 bkm: kom
 bla: siksika
 bm: bambara
-bn: bengalski
-bo: tibetanski
+bn: bangla
+bo: tibetski
 br: bretonski
 bra: braj
 brx: bodo
 bs: bosanski
 bss: akoose
-bua: buriat
+bua: burjatski
 bug: buginski
 bum: bulu
 byn: blin
@@ -72,24 +72,25 @@ ce: "\u010De\u010Denski"
 ceb: cebuano
 cgg: chiga
 ch: chamorro
-chb: chibcha
-chg: chagatai
+chb: "\u010Dib\u010Da"
+chg: "\u010Dagatajski"
 chk: chuukese
-chm: mari
+chm: marijski
 chn: "chinook \u017Eargon"
 cho: choctaw
 chp: chipewyan
-chr: "\u010Deroki"
+chr: "\u010Derokijski"
 chy: "\u010Dejenski"
 ckb: soranski kurdski
 co: "korzi\u010Dki"
 cop: koptski
 cr: cree
 crh: krimski turski
+crs: "sej\u0161elski kreolski"
 cs: "\u010De\u0161ki"
 csb: "ka\u0161upski"
 cu: crkvenoslavenski
-cv: chuvash
+cv: "\u010Duva\u0161ki"
 cy: "vel\u0161ki"
 da: danski
 dak: dakota jezik
@@ -104,9 +105,9 @@ dgr: dogrib
 din: dinka
 dje: zarma
 doi: dogri
-dsb: "lu\u017Ei\u010Dkosrpski"
+dsb: "donjolu\u017Ei\u010Dki"
 dua: duala
-dum: nizozemski, srednji
+dum: srednjonizozemski
 dv: divehi
 dyo: jola-fonyi
 dyu: dyula
@@ -124,7 +125,7 @@ en_AU: australski engleski
 en_CA: kanadski engleski
 en_GB: britanski engleski
 en_US: "ameri\u010Dki engleski"
-enm: engleski, srednji
+enm: srednjoengleski
 eo: esperanto
 es: "\u0161panjolski"
 es_419: "latinoameri\u010Dki \u0161panjolski"
@@ -136,36 +137,37 @@ ewo: ewondo
 fa: perzijski
 fan: fang
 fat: fanti
-ff: fulah
+ff: fula
 fi: finski
-fil: filipino
+fil: filipinski
 fj: "fid\u017Eijski"
 fo: ferojski
 fon: fon
 fr: francuski
 fr_CA: kanadski francuski
 fr_CH: "\u0161vicarski francuski"
-frm: francuski, srednji
+frm: srednjofrancuski
 fro: starofrancuski
 frr: sjevernofrizijski
 frs: "isto\u010Dnofrizijski"
-fur: friulski
+fur: furlanski
 fy: zapadnofrizijski
 ga: irski
 gaa: ga
 gag: gagauski
+gan: gan kineski
 gay: gayo
 gba: gbaya
-gd: "\u0161kotski-galski"
-gez: staroetiopski
+gd: "\u0161kotski gaelski"
+gez: geez
 gil: gilbertski
 gl: galicijski
-gmh: "njema\u010Dki, srednji visoki"
-gn: guarani
-goh: "staronjema\u010Dki, visoki"
+gmh: "srednjogornjonjema\u010Dki"
+gn: gvaranski
+goh: "starovisokonjema\u010Dki"
 gon: gondi
 gor: gorontalo
-got: gothic
+got: gotski
 grb: grebo
 grc: "starogr\u010Dki"
 gsw: "\u0161vicarski njema\u010Dki"
@@ -175,16 +177,18 @@ gv: manski
 gwi: "gwich\u2019in"
 ha: hausa
 hai: haidi
+hak: hakka kineski
 haw: havajski
 he: hebrejski
 hi: hindski
-hil: hiligaynon
+hil: hiligaynonski
 hit: hetitski
 hmn: hmong
 ho: hiri motu
 hr: hrvatski
 hsb: "gornjolu\u017Ei\u010Dki"
-ht: kreolski
+hsn: xiang kineski
+ht: "hai\u0107anski kreolski"
 hu: "ma\u0111arski"
 hup: hupa
 hy: armenski
@@ -213,11 +217,11 @@ jv: javanski
 ka: gruzijski
 kaa: kara-kalpak
 kab: kabilski
-kac: kachin
+kac: "ka\u010Dinski"
 kaj: kaje
 kam: kamba
 kaw: kawi
-kbd: kabardian
+kbd: kabardinski
 kbl: kanembu
 kcg: tyap
 kde: makonde
@@ -235,9 +239,9 @@ kl: kalaallisut
 kln: kalenjin
 km: kmerski
 kmb: kimbundu
-kn: kannadski
+kn: "karnata\u010Dki"
 ko: korejski
-koi: komski ili permski
+koi: komi-permski
 kok: konkani
 kos: naurski
 kpe: kpelle
@@ -254,7 +258,7 @@ kum: kumyk
 kut: kutenai
 kv: komi
 kw: kornski
-ky: "kirgi\u0161ki"
+ky: kirgiski
 la: latinski
 lad: ladino
 lag: langi
@@ -263,7 +267,7 @@ lam: lamba
 lb: "luksembur\u0161ki"
 lez: "lezgi\u0161ki"
 lg: ganda
-li: limburgish
+li: "limbur\u0161ki"
 lkt: lakota
 ln: lingala
 lo: laoski
@@ -293,7 +297,7 @@ men: mende
 mer: meru
 mfe: mauricijski kreolski
 mg: "malga\u0161ki"
-mga: irski, srednji
+mga: srednjoirski
 mgh: makhuwa-meetto
 mgo: "meta\u2019"
 mh: "mar\u0161alski"
@@ -305,7 +309,7 @@ ml: malajalamski
 mn: mongolski
 mnc: "mand\u017Eurski"
 mni: manipurski
-moh: mohawk
+moh: mohok
 mos: mossi
 mr: marathski
 ms: malajski
@@ -320,9 +324,10 @@ mye: myene
 myv: mordvinski
 mzn: mazanderanski
 na: nauru
+nan: min nan kineski
 nap: napolitanski
 naq: nama
-nb: "knji\u017Eevni norve\u0161ki"
+nb: "norve\u0161ki bokm\xE5l"
 nd: sjeverni ndebele
 nds: "donjonjema\u010Dki"
 nds_NL: donjosaksonski
@@ -334,18 +339,18 @@ niu: niujski
 nl: nizozemski
 nl_BE: flamanski
 nmg: kwasio
-nn: "novonorve\u0161ki"
+nn: "norve\u0161ki nynorsk"
 nnh: ngiemboon
 'no': "norve\u0161ki"
 nog: nogajski
 non: "staronorve\u0161ki"
 nqo: "n\u2019ko"
 nr: "ju\u017Eni ndebele"
-nso: sjeverni sotho
-nus: nuer
+nso: sjeverni sotski
+nus: nuerski
 nv: navajo
 nwc: "klasi\u010Dni newari"
-ny: nyanja
+ny: "njand\u017Ea"
 nym: nyamwezi
 nyn: nyankole
 nyo: nyoro
@@ -363,22 +368,24 @@ pal: pahlavi
 pam: pampanga
 pap: papiamento
 pau: palauanski
+pcm: "nigerijski pid\u017Ein"
 peo: staroperzijski
 phn: "feni\u010Dki"
 pi: pali
 pl: poljski
 pon: pohnpeian
+prg: pruski
 pro: staroprovansalski
-ps: "pa\u0161tu"
+ps: "pa\u0161tunski"
 pt: portugalski
 pt_BR: brazilski portugalski
 pt_PT: europski portugalski
-qu: "ke\u010Dua"
+qu: "ke\u010Duanski"
 quc: "ki\u010De"
 raj: rajasthani
 rap: rapa nui
 rar: "raroton\u0161ki"
-rm: "roman\u0161"
+rm: retoromanski
 rn: rundi
 ro: rumunjski
 ro_MD: moldavski
@@ -395,15 +402,15 @@ sah: jakutski
 sam: samarijanski aramejski
 saq: samburu
 sas: sasak
-sat: santali
+sat: santalski
 sba: ngambay
 sbp: sangu
 sc: sardski
 scn: sicilijski
 sco: "\u0161kotski"
-sd: sindhi
+sd: sindski
 sdh: "ju\u017Enokurdski"
-se: "ju\u017Eni sami"
+se: sjeverni sami
 see: seneca
 seh: sena
 sel: selkupski
@@ -419,7 +426,7 @@ sid: sidamo
 sk: "slova\u010Dki"
 sl: slovenski
 sm: samoanski
-sma: sjeverni sami
+sma: "ju\u017Eni sami"
 smj: lule sami
 smn: inari sami
 sms: skolt sami
@@ -440,12 +447,12 @@ sus: susu
 sux: sumerski
 sv: "\u0161vedski"
 sw: svahili
+sw_CD: kongoanski svahili
 swb: komorski
-swc: kongoanski swahili
 syc: "klasi\u010Dni sirski"
 syr: sirijski
 ta: tamilski
-te: telugu
+te: "telu\u0161ki"
 tem: temne
 teo: teso
 ter: tereno
@@ -460,7 +467,7 @@ tkl: tokelaunski
 tl: tagalog
 tlh: klingonski
 tli: tlingit
-tmh: tamashek
+tmh: "tama\u0161e\u010Dki"
 tn: cvana
 to: tonganski
 tog: nyasa tonga
@@ -475,8 +482,8 @@ tvl: tuvaluanski
 tw: twi
 twq: tasawaq
 ty: "tahi\u0107anski"
-tyv: tuvinian
-tzm: marokanski tamazight
+tyv: tuvinski
+tzm: "tama\u0161ek (Srednji Atlas)"
 udm: udmurtski
 ug: ujgurski
 uga: ugaritski
@@ -489,15 +496,16 @@ vai: vai
 ve: venda
 vi: vijetnamski
 vo: "volap\xFCk"
-vot: votic
+vot: votski
 vun: vunjo
 wa: valonski
-wae: walser
+wae: walserski
 wal: walamo
 war: waray
 was: washo
 wbp: warlpiri
-wo: wolof
+wo: volof
+wuu: wu kineski
 xal: kalmyk
 xh: xhosa
 xog: soga
@@ -506,13 +514,13 @@ yap: japski
 yav: yangben
 ybb: yemba
 yi: "jidi\u0161"
-yo: joruba
+yo: jorupski
 yue: kantonski
 za: zhuang
-zap: zapotec
-zbl: blissymbols
+zap: "zapote\u010Dki"
+zbl: Blissovi simboli
 zen: zenaga
-zgh: standardni marokanski tamazight
+zgh: "standardni marokanski tama\u0161ek"
 zh: kineski
 zh_Hans: kineski (pojednostavljeni)
 zh_Hant: kineski (tradicionalni)

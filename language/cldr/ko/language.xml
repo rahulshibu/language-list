@@ -22,7 +22,7 @@
   </language>
   <language>
     <code>ady</code>
-    <name>아닥헤어</name>
+    <name>아디게어</name>
   </language>
   <language>
     <code>ae</code>
@@ -38,7 +38,7 @@
   </language>
   <language>
     <code>afh</code>
-    <name>아프리히리어</name>
+    <name>아프리힐리어</name>
   </language>
   <language>
     <code>agq</code>
@@ -330,7 +330,7 @@
   </language>
   <language>
     <code>chn</code>
-    <name>치누크어와 영어 프랑스어의 혼성어</name>
+    <name>치누크 자곤</name>
   </language>
   <language>
     <code>cho</code>
@@ -367,6 +367,10 @@
   <language>
     <code>crh</code>
     <name>크리민 터키어; 크리민 타타르어</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>세이셸 크리올 프랑스어</name>
   </language>
   <language>
     <code>cs</code>
@@ -482,7 +486,7 @@
   </language>
   <language>
     <code>egy</code>
-    <name>이집트어 (고대)</name>
+    <name>고대 이집트어</name>
   </language>
   <language>
     <code>eka</code>
@@ -506,7 +510,7 @@
   </language>
   <language>
     <code>enm</code>
-    <name>영어, 중세</name>
+    <name>중세 영어</name>
   </language>
   <language>
     <code>eo</code>
@@ -578,7 +582,7 @@
   </language>
   <language>
     <code>frr</code>
-    <name>북부 프리슬란드어</name>
+    <name>북부 프리지아어</name>
   </language>
   <language>
     <code>frs</code>
@@ -586,11 +590,11 @@
   </language>
   <language>
     <code>fur</code>
-    <name>프리우리안어</name>
+    <name>프리울리어</name>
   </language>
   <language>
     <code>fy</code>
-    <name>서프리지아어</name>
+    <name>서부 프리지아어</name>
   </language>
   <language>
     <code>ga</code>
@@ -603,6 +607,10 @@
   <language>
     <code>gag</code>
     <name>가가우스어</name>
+  </language>
+  <language>
+    <code>gan</code>
+    <name>간어</name>
   </language>
   <language>
     <code>gay</code>
@@ -670,7 +678,7 @@
   </language>
   <language>
     <code>grc</code>
-    <name>그리스어, 고대</name>
+    <name>고대 그리스어</name>
   </language>
   <language>
     <code>gsw</code>
@@ -699,6 +707,10 @@
   <language>
     <code>hai</code>
     <name>하이다어</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>하카어</name>
   </language>
   <language>
     <code>haw</code>
@@ -741,6 +753,10 @@
     <name>고지 소르비아어</name>
   </language>
   <language>
+    <code>hsn</code>
+    <name>샹어</name>
+  </language>
+  <language>
     <code>ht</code>
     <name>아이티어</name>
   </language>
@@ -762,7 +778,7 @@
   </language>
   <language>
     <code>ia</code>
-    <name>인테르링구아 (국제보조어협회)</name>
+    <name>인터링구아</name>
   </language>
   <language>
     <code>iba</code>
@@ -942,7 +958,7 @@
   </language>
   <language>
     <code>km</code>
-    <name>캄보디아어</name>
+    <name>크메르어</name>
   </language>
   <language>
     <code>kmb</code>
@@ -1082,7 +1098,7 @@
   </language>
   <language>
     <code>lol</code>
-    <name>몽구어</name>
+    <name>몽고어</name>
   </language>
   <language>
     <code>loz</code>
@@ -1138,11 +1154,11 @@
   </language>
   <language>
     <code>mag</code>
-    <name>마가히</name>
+    <name>마가히어</name>
   </language>
   <language>
     <code>mai</code>
-    <name>마이틸리</name>
+    <name>마이틸리어</name>
   </language>
   <language>
     <code>mak</code>
@@ -1186,7 +1202,7 @@
   </language>
   <language>
     <code>mga</code>
-    <name>아일랜드어, 중세</name>
+    <name>중세 아일랜드어</name>
   </language>
   <language>
     <code>mgh</code>
@@ -1198,7 +1214,7 @@
   </language>
   <language>
     <code>mh</code>
-    <name>마셜제도어</name>
+    <name>마셜어</name>
   </language>
   <language>
     <code>mi</code>
@@ -1210,7 +1226,7 @@
   </language>
   <language>
     <code>min</code>
-    <name>미낭카바우</name>
+    <name>미낭카바우어</name>
   </language>
   <language>
     <code>mk</code>
@@ -1222,7 +1238,7 @@
   </language>
   <language>
     <code>mn</code>
-    <name>몽고어</name>
+    <name>몽골어</name>
   </language>
   <language>
     <code>mnc</code>
@@ -1297,6 +1313,10 @@
     <name>나우루어</name>
   </language>
   <language>
+    <code>nan</code>
+    <name>민난어</name>
+  </language>
+  <language>
     <code>nap</code>
     <name>나폴리어</name>
   </language>
@@ -1315,6 +1335,10 @@
   <language>
     <code>nds</code>
     <name>저지 독일어</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>저지 색슨어</name>
   </language>
   <language>
     <code>ne</code>
@@ -1366,7 +1390,7 @@
   </language>
   <language>
     <code>non</code>
-    <name>노르웨이, 고대</name>
+    <name>고대 노르웨이어</name>
   </language>
   <language>
     <code>nqo</code>
@@ -1378,7 +1402,7 @@
   </language>
   <language>
     <code>nso</code>
-    <name>소토어 (북부)</name>
+    <name>북부 소토어</name>
   </language>
   <language>
     <code>nus</code>
@@ -1390,11 +1414,11 @@
   </language>
   <language>
     <code>nwc</code>
-    <name>네와르어 (고전)</name>
+    <name>고전 네와르어</name>
   </language>
   <language>
     <code>ny</code>
-    <name>니안자어; 치츄어; 츄어</name>
+    <name>냔자어</name>
   </language>
   <language>
     <code>nym</code>
@@ -1418,7 +1442,7 @@
   </language>
   <language>
     <code>oj</code>
-    <name>오지브웨이어</name>
+    <name>오지브와어</name>
   </language>
   <language>
     <code>om</code>
@@ -1438,7 +1462,7 @@
   </language>
   <language>
     <code>ota</code>
-    <name>터키어, 오스만</name>
+    <name>오스만 터키어</name>
   </language>
   <language>
     <code>pa</code>
@@ -1462,7 +1486,11 @@
   </language>
   <language>
     <code>pau</code>
-    <name>파라우안어</name>
+    <name>팔라우어</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>나이지리아 피진어</name>
   </language>
   <language>
     <code>peo</code>
@@ -1487,6 +1515,10 @@
   <language>
     <code>pon</code>
     <name>폼페이어</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>프러시아어</name>
   </language>
   <language>
     <code>pro</code>
@@ -1578,7 +1610,7 @@
   </language>
   <language>
     <code>sah</code>
-    <name>야큐트어</name>
+    <name>야쿠트어</name>
   </language>
   <language>
     <code>sam</code>
@@ -1650,7 +1682,7 @@
   </language>
   <language>
     <code>sga</code>
-    <name>아일랜드, 고대</name>
+    <name>고대 아일랜드어</name>
   </language>
   <language>
     <code>sh</code>
@@ -1746,7 +1778,7 @@
   </language>
   <language>
     <code>st</code>
-    <name>소토어 (남부)</name>
+    <name>남부 소토어</name>
   </language>
   <language>
     <code>su</code>
@@ -1754,7 +1786,7 @@
   </language>
   <language>
     <code>suk</code>
-    <name>수쿠마족어</name>
+    <name>수쿠마어</name>
   </language>
   <language>
     <code>sus</code>
@@ -1773,16 +1805,16 @@
     <name>스와힐리어</name>
   </language>
   <language>
+    <code>sw_CD</code>
+    <name>콩고 스와힐리어</name>
+  </language>
+  <language>
     <code>swb</code>
     <name>코모로어</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>콩고 스와힐리어</name>
-  </language>
-  <language>
     <code>syc</code>
-    <name>시리아어 (고전)</name>
+    <name>고전 시리아어</name>
   </language>
   <language>
     <code>syr</code>
@@ -1830,7 +1862,7 @@
   </language>
   <language>
     <code>tiv</code>
-    <name>티비어</name>
+    <name>티브어</name>
   </language>
   <language>
     <code>tk</code>
@@ -1866,7 +1898,7 @@
   </language>
   <language>
     <code>tn</code>
-    <name>세츠와나어</name>
+    <name>츠와나어</name>
   </language>
   <language>
     <code>to</code>
@@ -1874,7 +1906,7 @@
   </language>
   <language>
     <code>tog</code>
-    <name>통가어 (니아살랜드)</name>
+    <name>니아사 통가어</name>
   </language>
   <language>
     <code>tpi</code>
@@ -1946,7 +1978,7 @@
   </language>
   <language>
     <code>umb</code>
-    <name>윤번두어</name>
+    <name>움분두어</name>
   </language>
   <language>
     <code>und</code>
@@ -1994,7 +2026,7 @@
   </language>
   <language>
     <code>wal</code>
-    <name>와라모어</name>
+    <name>월라이타어</name>
   </language>
   <language>
     <code>war</code>
@@ -2011,6 +2043,10 @@
   <language>
     <code>wo</code>
     <name>월로프어</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>우어</name>
   </language>
   <language>
     <code>xal</code>

@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>afarera</name>
+  </language>
+  <language>
     <code>ab</code>
     <name>abkhazera</name>
   </language>
   <language>
+    <code>ace</code>
+    <name>acehnera</name>
+  </language>
+  <language>
     <code>ach</code>
-    <name>Acholiera</name>
+    <name>acholiera</name>
+  </language>
+  <language>
+    <code>ada</code>
+    <name>adangmera</name>
+  </language>
+  <language>
+    <code>ady</code>
+    <name>adyghera</name>
   </language>
   <language>
     <code>af</code>
@@ -17,12 +33,32 @@
     <name>aghemera</name>
   </language>
   <language>
+    <code>ain</code>
+    <name>ainuera</name>
+  </language>
+  <language>
     <code>ak</code>
     <name>akanera</name>
   </language>
   <language>
+    <code>ale</code>
+    <name>aleutera</name>
+  </language>
+  <language>
+    <code>alt</code>
+    <name>hegoaldeko altaiera</name>
+  </language>
+  <language>
     <code>am</code>
     <name>amharera</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>aragoiera</name>
+  </language>
+  <language>
+    <code>anp</code>
+    <name>angikera</name>
   </language>
   <language>
     <code>ar</code>
@@ -37,12 +73,28 @@
     <name>maputxea</name>
   </language>
   <language>
+    <code>arp</code>
+    <name>arapahoa</name>
+  </language>
+  <language>
     <code>as</code>
     <name>assamera</name>
   </language>
   <language>
     <code>asa</code>
     <name>asua</name>
+  </language>
+  <language>
+    <code>ast</code>
+    <name>asturiera</name>
+  </language>
+  <language>
+    <code>av</code>
+    <name>avarera</name>
+  </language>
+  <language>
+    <code>awa</code>
+    <name>awadhiera</name>
   </language>
   <language>
     <code>ay</code>
@@ -55,6 +107,14 @@
   <language>
     <code>ba</code>
     <name>bashkirrera</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>baliera</name>
+  </language>
+  <language>
+    <code>bas</code>
+    <name>basaa</name>
   </language>
   <language>
     <code>be</code>
@@ -71,6 +131,22 @@
   <language>
     <code>bg</code>
     <name>bulgariera</name>
+  </language>
+  <language>
+    <code>bho</code>
+    <name>bhojpurera</name>
+  </language>
+  <language>
+    <code>bi</code>
+    <name>bislama</name>
+  </language>
+  <language>
+    <code>bin</code>
+    <name>edoera</name>
+  </language>
+  <language>
+    <code>bla</code>
+    <name>siksikera</name>
   </language>
   <language>
     <code>bm</code>
@@ -97,28 +173,76 @@
     <name>bosniera</name>
   </language>
   <language>
+    <code>bug</code>
+    <name>buginera</name>
+  </language>
+  <language>
+    <code>byn</code>
+    <name>bilena</name>
+  </language>
+  <language>
     <code>ca</code>
     <name>katalana</name>
+  </language>
+  <language>
+    <code>ce</code>
+    <name>txetxeniera</name>
+  </language>
+  <language>
+    <code>ceb</code>
+    <name>cebuera</name>
   </language>
   <language>
     <code>cgg</code>
     <name>chigera</name>
   </language>
   <language>
+    <code>ch</code>
+    <name>chamorrera</name>
+  </language>
+  <language>
+    <code>chk</code>
+    <name>chuukera</name>
+  </language>
+  <language>
+    <code>chm</code>
+    <name>mariera</name>
+  </language>
+  <language>
+    <code>cho</code>
+    <name>choctaw</name>
+  </language>
+  <language>
     <code>chr</code>
     <name>txerokiera</name>
   </language>
   <language>
+    <code>chy</code>
+    <name>cheyennera</name>
+  </language>
+  <language>
     <code>ckb</code>
-    <name>soraniera</name>
+    <name>sorania</name>
   </language>
   <language>
     <code>co</code>
     <name>korsikera</name>
   </language>
   <language>
+    <code>crs</code>
+    <name>seselwa frantses-kreolera</name>
+  </language>
+  <language>
     <code>cs</code>
     <name>txekiera</name>
+  </language>
+  <language>
+    <code>cu</code>
+    <name>Elizako eslaviera</name>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>chuvashera</name>
   </language>
   <language>
     <code>cy</code>
@@ -129,6 +253,14 @@
     <name>daniera</name>
   </language>
   <language>
+    <code>dak</code>
+    <name>dakotera</name>
+  </language>
+  <language>
+    <code>dar</code>
+    <name>dargvera</name>
+  </language>
+  <language>
     <code>dav</code>
     <name>taitera</name>
   </language>
@@ -137,8 +269,16 @@
     <name>alemana</name>
   </language>
   <language>
+    <code>de_AT</code>
+    <name>Austriako alemana</name>
+  </language>
+  <language>
     <code>de_CH</code>
     <name>aleman garaia (Suitza)</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>dogribera</name>
   </language>
   <language>
     <code>dje</code>
@@ -165,6 +305,10 @@
     <name>dzongkha</name>
   </language>
   <language>
+    <code>dzg</code>
+    <name>dazaga</name>
+  </language>
+  <language>
     <code>ebu</code>
     <name>embua</name>
   </language>
@@ -177,6 +321,10 @@
     <name>efikera</name>
   </language>
   <language>
+    <code>eka</code>
+    <name>akajuka</name>
+  </language>
+  <language>
     <code>el</code>
     <name>greziera</name>
   </language>
@@ -185,8 +333,20 @@
     <name>ingelesa</name>
   </language>
   <language>
+    <code>en_AU</code>
+    <name>Australiako ingelesa</name>
+  </language>
+  <language>
+    <code>en_CA</code>
+    <name>Kanadako ingelesa</name>
+  </language>
+  <language>
+    <code>en_GB</code>
+    <name>Britainia Handiko ingelesa</name>
+  </language>
+  <language>
     <code>en_US</code>
-    <name>ingelesa (AEB)</name>
+    <name>AEBko ingelesa</name>
   </language>
   <language>
     <code>eo</code>
@@ -197,8 +357,16 @@
     <name>espainiera</name>
   </language>
   <language>
+    <code>es_419</code>
+    <name>Latinoamerikako espainiera</name>
+  </language>
+  <language>
     <code>es_ES</code>
     <name>espainiera (Europa)</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>Mexikoko espainiera</name>
   </language>
   <language>
     <code>et</code>
@@ -209,8 +377,16 @@
     <name>euskara</name>
   </language>
   <language>
+    <code>ewo</code>
+    <name>ewondera</name>
+  </language>
+  <language>
     <code>fa</code>
     <name>persiera</name>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>fula</name>
   </language>
   <language>
     <code>fi</code>
@@ -229,8 +405,24 @@
     <name>faroera</name>
   </language>
   <language>
+    <code>fon</code>
+    <name>fona</name>
+  </language>
+  <language>
     <code>fr</code>
     <name>frantsesa</name>
+  </language>
+  <language>
+    <code>fr_CA</code>
+    <name>Kanadako frantsesa</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>Suitzako frantsesa</name>
+  </language>
+  <language>
+    <code>fur</code>
+    <name>friuliera</name>
   </language>
   <language>
     <code>fy</code>
@@ -242,7 +434,7 @@
   </language>
   <language>
     <code>gaa</code>
-    <name>Ga</name>
+    <name>ga</name>
   </language>
   <language>
     <code>gag</code>
@@ -253,12 +445,24 @@
     <name>eskoziako gaelikoa</name>
   </language>
   <language>
+    <code>gez</code>
+    <name>ge’ez</name>
+  </language>
+  <language>
+    <code>gil</code>
+    <name>gilbertera</name>
+  </language>
+  <language>
     <code>gl</code>
     <name>galiziera</name>
   </language>
   <language>
     <code>gn</code>
     <name>guaraniera</name>
+  </language>
+  <language>
+    <code>gor</code>
+    <name>gorontaloa</name>
   </language>
   <language>
     <code>gsw</code>
@@ -277,6 +481,10 @@
     <name>manxera</name>
   </language>
   <language>
+    <code>gwi</code>
+    <name>gwichʼin</name>
+  </language>
+  <language>
     <code>ha</code>
     <name>hausa</name>
   </language>
@@ -293,6 +501,14 @@
     <name>hindia</name>
   </language>
   <language>
+    <code>hil</code>
+    <name>hiligainona</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>hmong</name>
+  </language>
+  <language>
     <code>hr</code>
     <name>kroaziera</name>
   </language>
@@ -302,19 +518,35 @@
   </language>
   <language>
     <code>ht</code>
-    <name>haitiera</name>
+    <name>Haitiko kreolera</name>
   </language>
   <language>
     <code>hu</code>
     <name>hungariera</name>
   </language>
   <language>
+    <code>hup</code>
+    <name>hupera</name>
+  </language>
+  <language>
     <code>hy</code>
     <name>armeniera</name>
   </language>
   <language>
+    <code>hz</code>
+    <name>herera</name>
+  </language>
+  <language>
     <code>ia</code>
-    <name>Interlingua</name>
+    <name>interlingua</name>
+  </language>
+  <language>
+    <code>iba</code>
+    <name>ibanera</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>ibibioera</name>
   </language>
   <language>
     <code>id</code>
@@ -333,6 +565,18 @@
     <name>sichuan yia</name>
   </language>
   <language>
+    <code>ilo</code>
+    <name>ilokanera</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>ingushera</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>ido</name>
+  </language>
+  <language>
     <code>is</code>
     <name>islandiera</name>
   </language>
@@ -347,6 +591,10 @@
   <language>
     <code>ja</code>
     <name>japoniera</name>
+  </language>
+  <language>
+    <code>jbo</code>
+    <name>lojbanera</name>
   </language>
   <language>
     <code>jgo</code>
@@ -369,8 +617,24 @@
     <name>kabilera</name>
   </language>
   <language>
+    <code>kac</code>
+    <name>jingpoera</name>
+  </language>
+  <language>
+    <code>kaj</code>
+    <name>kaiji</name>
+  </language>
+  <language>
     <code>kam</code>
     <name>kambera</name>
+  </language>
+  <language>
+    <code>kbd</code>
+    <name>kabardiera</name>
+  </language>
+  <language>
+    <code>kcg</code>
+    <name>kataba</name>
   </language>
   <language>
     <code>kde</code>
@@ -381,8 +645,16 @@
     <name>Cabo Verdeko kreola</name>
   </language>
   <language>
+    <code>kfo</code>
+    <name>koroa</name>
+  </language>
+  <language>
     <code>kg</code>
-    <name>Kikongoa</name>
+    <name>kikongoa</name>
+  </language>
+  <language>
+    <code>kha</code>
+    <name>kashia</name>
   </language>
   <language>
     <code>khq</code>
@@ -393,8 +665,16 @@
     <name>kikuyuera</name>
   </language>
   <language>
+    <code>kj</code>
+    <name>kuanyama</name>
+  </language>
+  <language>
     <code>kk</code>
     <name>kazakhera</name>
+  </language>
+  <language>
+    <code>kkj</code>
+    <name>kakoa</name>
   </language>
   <language>
     <code>kl</code>
@@ -407,6 +687,10 @@
   <language>
     <code>km</code>
     <name>khemerera</name>
+  </language>
+  <language>
+    <code>kmb</code>
+    <name>kimbundua</name>
   </language>
   <language>
     <code>kn</code>
@@ -425,6 +709,26 @@
     <name>konkaniera</name>
   </language>
   <language>
+    <code>kpe</code>
+    <name>kpellea</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>kanuriera</name>
+  </language>
+  <language>
+    <code>krc</code>
+    <name>karachayera-balkarera</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>kareliera</name>
+  </language>
+  <language>
+    <code>kru</code>
+    <name>kurukhera</name>
+  </language>
+  <language>
     <code>ks</code>
     <name>kashmirera</name>
   </language>
@@ -437,8 +741,20 @@
     <name>bafiera</name>
   </language>
   <language>
+    <code>ksh</code>
+    <name>koloniera</name>
+  </language>
+  <language>
     <code>ku</code>
     <name>kurduera</name>
+  </language>
+  <language>
+    <code>kum</code>
+    <name>kumykera</name>
+  </language>
+  <language>
+    <code>kv</code>
+    <name>komiera</name>
   </language>
   <language>
     <code>kw</code>
@@ -453,6 +769,10 @@
     <name>latina</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>ladinera</name>
+  </language>
+  <language>
     <code>lag</code>
     <name>langiera</name>
   </language>
@@ -461,8 +781,16 @@
     <name>luxenburgera</name>
   </language>
   <language>
+    <code>lez</code>
+    <name>lezgiera</name>
+  </language>
+  <language>
     <code>lg</code>
     <name>gandera</name>
+  </language>
+  <language>
+    <code>li</code>
+    <name>limburgera</name>
   </language>
   <language>
     <code>lkt</code>
@@ -478,7 +806,11 @@
   </language>
   <language>
     <code>loz</code>
-    <name>Loziera</name>
+    <name>loziera</name>
+  </language>
+  <language>
+    <code>lrc</code>
+    <name>iparraldeko lurera</name>
   </language>
   <language>
     <code>lt</code>
@@ -490,11 +822,19 @@
   </language>
   <language>
     <code>lua</code>
-    <name>Luba-lulua</name>
+    <name>txilubera</name>
+  </language>
+  <language>
+    <code>lun</code>
+    <name>lundera</name>
   </language>
   <language>
     <code>luo</code>
     <name>luoera</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>mizoa</name>
   </language>
   <language>
     <code>luy</code>
@@ -505,8 +845,32 @@
     <name>letoniera</name>
   </language>
   <language>
+    <code>mad</code>
+    <name>madurera</name>
+  </language>
+  <language>
+    <code>mag</code>
+    <name>magahiera</name>
+  </language>
+  <language>
+    <code>mai</code>
+    <name>maithilera</name>
+  </language>
+  <language>
+    <code>mak</code>
+    <name>makasarera</name>
+  </language>
+  <language>
     <code>mas</code>
     <name>masaiera</name>
+  </language>
+  <language>
+    <code>mdf</code>
+    <name>mokxera</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>mendeera</name>
   </language>
   <language>
     <code>mer</code>
@@ -529,8 +893,20 @@
     <name>metera</name>
   </language>
   <language>
+    <code>mh</code>
+    <name>marshallera</name>
+  </language>
+  <language>
     <code>mi</code>
     <name>maoriera</name>
+  </language>
+  <language>
+    <code>mic</code>
+    <name>mikmakera</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>minangkabauera</name>
   </language>
   <language>
     <code>mk</code>
@@ -545,8 +921,16 @@
     <name>mongoliera</name>
   </language>
   <language>
+    <code>mni</code>
+    <name>manipurera</name>
+  </language>
+  <language>
     <code>moh</code>
     <name>mohawkera</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>moreera</name>
   </language>
   <language>
     <code>mr</code>
@@ -569,8 +953,32 @@
     <name>hizkuntza anitzak</name>
   </language>
   <language>
+    <code>mus</code>
+    <name>creera</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>mirandera</name>
+  </language>
+  <language>
     <code>my</code>
     <name>burmatarra</name>
+  </language>
+  <language>
+    <code>myv</code>
+    <name>erziera</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>mazandarandera</name>
+  </language>
+  <language>
+    <code>na</code>
+    <name>nauruera</name>
+  </language>
+  <language>
+    <code>nap</code>
+    <name>napoliera</name>
   </language>
   <language>
     <code>naq</code>
@@ -585,8 +993,28 @@
     <name>iparraldeko ndebeleera</name>
   </language>
   <language>
+    <code>nds_NL</code>
+    <name>behe-saxoiera</name>
+  </language>
+  <language>
     <code>ne</code>
     <name>nepalera</name>
+  </language>
+  <language>
+    <code>new</code>
+    <name>newarera</name>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>ndongera</name>
+  </language>
+  <language>
+    <code>nia</code>
+    <name>niasa</name>
+  </language>
+  <language>
+    <code>niu</code>
+    <name>niuera</name>
   </language>
   <language>
     <code>nl</code>
@@ -605,12 +1033,24 @@
     <name>nynorsk norvegiera</name>
   </language>
   <language>
+    <code>nnh</code>
+    <name>ngiemboonera</name>
+  </language>
+  <language>
     <code>no</code>
     <name>norvegiera</name>
   </language>
   <language>
+    <code>nog</code>
+    <name>nogaiera</name>
+  </language>
+  <language>
     <code>nqo</code>
     <name>n’koera</name>
+  </language>
+  <language>
+    <code>nr</code>
+    <name>hegoaldeko ndebelera</name>
   </language>
   <language>
     <code>nso</code>
@@ -619,6 +1059,10 @@
   <language>
     <code>nus</code>
     <name>nuerera</name>
+  </language>
+  <language>
+    <code>nv</code>
+    <name>navahoera</name>
   </language>
   <language>
     <code>ny</code>
@@ -630,7 +1074,7 @@
   </language>
   <language>
     <code>oc</code>
-    <name>Okzitaniera</name>
+    <name>okzitaniera</name>
   </language>
   <language>
     <code>om</code>
@@ -638,7 +1082,7 @@
   </language>
   <language>
     <code>or</code>
-    <name>oriyera</name>
+    <name>oriya</name>
   </language>
   <language>
     <code>os</code>
@@ -649,8 +1093,32 @@
     <name>punjabera</name>
   </language>
   <language>
+    <code>pag</code>
+    <name>pangasinanera</name>
+  </language>
+  <language>
+    <code>pam</code>
+    <name>pampangera</name>
+  </language>
+  <language>
+    <code>pap</code>
+    <name>papiamentoa</name>
+  </language>
+  <language>
+    <code>pau</code>
+    <name>palauera</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>Nigeriako pidgina</name>
+  </language>
+  <language>
     <code>pl</code>
     <name>poloniera</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>prusiera</name>
   </language>
   <language>
     <code>ps</code>
@@ -659,6 +1127,10 @@
   <language>
     <code>pt</code>
     <name>portugesa</name>
+  </language>
+  <language>
+    <code>pt_BR</code>
+    <name>Brasilgo portugesa</name>
   </language>
   <language>
     <code>pt_PT</code>
@@ -673,6 +1145,14 @@
     <name>k’iche’ra</name>
   </language>
   <language>
+    <code>rap</code>
+    <name>rapa nui</name>
+  </language>
+  <language>
+    <code>rar</code>
+    <name>rarotongera</name>
+  </language>
+  <language>
     <code>rm</code>
     <name>erromantxera</name>
   </language>
@@ -685,12 +1165,24 @@
     <name>errumaniera</name>
   </language>
   <language>
+    <code>ro_MD</code>
+    <name>moldaviera</name>
+  </language>
+  <language>
     <code>rof</code>
     <name>romboera</name>
   </language>
   <language>
+    <code>root</code>
+    <name>erroa</name>
+  </language>
+  <language>
     <code>ru</code>
     <name>errusiera</name>
+  </language>
+  <language>
+    <code>rup</code>
+    <name>aromania</name>
   </language>
   <language>
     <code>rw</code>
@@ -705,12 +1197,40 @@
     <name>sanskritoa</name>
   </language>
   <language>
+    <code>sad</code>
+    <name>sandawea</name>
+  </language>
+  <language>
+    <code>sah</code>
+    <name>sakhera</name>
+  </language>
+  <language>
     <code>saq</code>
     <name>samburuera</name>
   </language>
   <language>
+    <code>sat</code>
+    <name>santalera</name>
+  </language>
+  <language>
+    <code>sba</code>
+    <name>ngambayera</name>
+  </language>
+  <language>
     <code>sbp</code>
     <name>sanguera</name>
+  </language>
+  <language>
+    <code>sc</code>
+    <name>sardiniera</name>
+  </language>
+  <language>
+    <code>scn</code>
+    <name>siziliera</name>
+  </language>
+  <language>
+    <code>sco</code>
+    <name>eskoziera</name>
   </language>
   <language>
     <code>sd</code>
@@ -741,6 +1261,10 @@
     <name>tachelhita</name>
   </language>
   <language>
+    <code>shn</code>
+    <name>shanera</name>
+  </language>
+  <language>
     <code>si</code>
     <name>sinhala</name>
   </language>
@@ -762,19 +1286,23 @@
   </language>
   <language>
     <code>smj</code>
-    <name>Lule samiera</name>
+    <name>lule samiera</name>
   </language>
   <language>
     <code>smn</code>
-    <name>Inari samiera</name>
+    <name>inari-samiera</name>
   </language>
   <language>
     <code>sms</code>
-    <name>Skolt samiera</name>
+    <name>skolt samiera</name>
   </language>
   <language>
     <code>sn</code>
     <name>shonera</name>
+  </language>
+  <language>
+    <code>snk</code>
+    <name>soninkera</name>
   </language>
   <language>
     <code>so</code>
@@ -789,8 +1317,16 @@
     <name>serbiera</name>
   </language>
   <language>
+    <code>srn</code>
+    <name>srananera</name>
+  </language>
+  <language>
     <code>ss</code>
     <name>swatiera</name>
+  </language>
+  <language>
+    <code>ssy</code>
+    <name>sahoa</name>
   </language>
   <language>
     <code>st</code>
@@ -801,6 +1337,10 @@
     <name>sundanera</name>
   </language>
   <language>
+    <code>suk</code>
+    <name>sukumera</name>
+  </language>
+  <language>
     <code>sv</code>
     <name>suediera</name>
   </language>
@@ -809,8 +1349,16 @@
     <name>swahili</name>
   </language>
   <language>
-    <code>swc</code>
+    <code>sw_CD</code>
     <name>Kongoko swahilia</name>
+  </language>
+  <language>
+    <code>swb</code>
+    <name>komoreera</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>asiriera</name>
   </language>
   <language>
     <code>ta</code>
@@ -819,6 +1367,10 @@
   <language>
     <code>te</code>
     <name>teluguera</name>
+  </language>
+  <language>
+    <code>tem</code>
+    <name>temnea</name>
   </language>
   <language>
     <code>teo</code>
@@ -841,6 +1393,10 @@
     <name>tigriñera</name>
   </language>
   <language>
+    <code>tig</code>
+    <name>tigrea</name>
+  </language>
+  <language>
     <code>tk</code>
     <name>turkmeniera</name>
   </language>
@@ -850,7 +1406,7 @@
   </language>
   <language>
     <code>tlh</code>
-    <name>Klingonera</name>
+    <name>klingonera</name>
   </language>
   <language>
     <code>tn</code>
@@ -869,6 +1425,10 @@
     <name>turkiera</name>
   </language>
   <language>
+    <code>trv</code>
+    <name>tarokoa</name>
+  </language>
+  <language>
     <code>ts</code>
     <name>tsongera</name>
   </language>
@@ -878,7 +1438,11 @@
   </language>
   <language>
     <code>tum</code>
-    <name>Tumbukera</name>
+    <name>tumbukera</name>
+  </language>
+  <language>
+    <code>tvl</code>
+    <name>tuvaluera</name>
   </language>
   <language>
     <code>tw</code>
@@ -893,8 +1457,16 @@
     <name>tahitiera</name>
   </language>
   <language>
+    <code>tyv</code>
+    <name>tuvera</name>
+  </language>
+  <language>
     <code>tzm</code>
     <name>Maroko erdialdeko tamazighta</name>
+  </language>
+  <language>
+    <code>udm</code>
+    <name>udmurtera</name>
   </language>
   <language>
     <code>ug</code>
@@ -903,6 +1475,10 @@
   <language>
     <code>uk</code>
     <name>ukrainera</name>
+  </language>
+  <language>
+    <code>umb</code>
+    <name>umbunduera</name>
   </language>
   <language>
     <code>und</code>
@@ -929,12 +1505,36 @@
     <name>vietnamera</name>
   </language>
   <language>
+    <code>vo</code>
+    <name>volapüka</name>
+  </language>
+  <language>
     <code>vun</code>
     <name>vunjoa</name>
   </language>
   <language>
+    <code>wa</code>
+    <name>valoniera</name>
+  </language>
+  <language>
+    <code>wae</code>
+    <name>walserera</name>
+  </language>
+  <language>
+    <code>wal</code>
+    <name>welayta</name>
+  </language>
+  <language>
+    <code>war</code>
+    <name>samerera</name>
+  </language>
+  <language>
     <code>wo</code>
     <name>wolofera</name>
+  </language>
+  <language>
+    <code>xal</code>
+    <name>kalmykera</name>
   </language>
   <language>
     <code>xh</code>
@@ -945,12 +1545,24 @@
     <name>sogera</name>
   </language>
   <language>
+    <code>yav</code>
+    <name>jangbenera</name>
+  </language>
+  <language>
+    <code>ybb</code>
+    <name>yemba</name>
+  </language>
+  <language>
     <code>yi</code>
-    <name>Jiddisha</name>
+    <name>yiddisha</name>
   </language>
   <language>
     <code>yo</code>
     <name>yorubera</name>
+  </language>
+  <language>
+    <code>yue</code>
+    <name>kantonera</name>
   </language>
   <language>
     <code>zgh</code>
@@ -973,7 +1585,15 @@
     <name>zuluera</name>
   </language>
   <language>
+    <code>zun</code>
+    <name>zuñia</name>
+  </language>
+  <language>
     <code>zxx</code>
     <name>ez dago eduki linguistikorik</name>
+  </language>
+  <language>
+    <code>zza</code>
+    <name>zazakia</name>
   </language>
 </languages>

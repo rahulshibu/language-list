@@ -242,7 +242,7 @@
   </language>
   <language>
     <code>bua</code>
-    <name>buriat</name>
+    <name>buriato</name>
   </language>
   <language>
     <code>bug</code>
@@ -314,7 +314,7 @@
   </language>
   <language>
     <code>chn</code>
-    <name>chinook jargon</name>
+    <name>jargão Chinook</name>
   </language>
   <language>
     <code>cho</code>
@@ -351,6 +351,10 @@
   <language>
     <code>crh</code>
     <name>turco da Crimeia</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>crioulo francês seichelense</name>
   </language>
   <language>
     <code>cs</code>
@@ -393,12 +397,8 @@
     <name>alemão</name>
   </language>
   <language>
-    <code>de_AT</code>
-    <name>alemão austríaco</name>
-  </language>
-  <language>
     <code>de_CH</code>
-    <name>alto alemão suíço</name>
+    <name>alto alemão (Suíça)</name>
   </language>
   <language>
     <code>del</code>
@@ -426,7 +426,7 @@
   </language>
   <language>
     <code>dsb</code>
-    <name>sorábio baixo</name>
+    <name>baixo sorábio</name>
   </language>
   <language>
     <code>dua</code>
@@ -489,22 +489,6 @@
     <name>inglês</name>
   </language>
   <language>
-    <code>en_AU</code>
-    <name>inglês australiano</name>
-  </language>
-  <language>
-    <code>en_CA</code>
-    <name>inglês canadense</name>
-  </language>
-  <language>
-    <code>en_GB</code>
-    <name>inglês britânico</name>
-  </language>
-  <language>
-    <code>en_US</code>
-    <name>inglês americano</name>
-  </language>
-  <language>
     <code>enm</code>
     <name>inglês médio</name>
   </language>
@@ -515,18 +499,6 @@
   <language>
     <code>es</code>
     <name>espanhol</name>
-  </language>
-  <language>
-    <code>es_419</code>
-    <name>espanhol latino-americano</name>
-  </language>
-  <language>
-    <code>es_ES</code>
-    <name>espanhol europeu</name>
-  </language>
-  <language>
-    <code>es_MX</code>
-    <name>espanhol mexicano</name>
   </language>
   <language>
     <code>et</code>
@@ -581,14 +553,6 @@
     <name>francês</name>
   </language>
   <language>
-    <code>fr_CA</code>
-    <name>francês canadense</name>
-  </language>
-  <language>
-    <code>fr_CH</code>
-    <name>francês suíço</name>
-  </language>
-  <language>
     <code>frm</code>
     <name>francês médio</name>
   </language>
@@ -625,6 +589,10 @@
     <name>gagauz</name>
   </language>
   <language>
+    <code>gan</code>
+    <name>gan</name>
+  </language>
+  <language>
     <code>gay</code>
     <name>gayo</name>
   </language>
@@ -650,7 +618,7 @@
   </language>
   <language>
     <code>gmh</code>
-    <name>alemão médio-alto</name>
+    <name>alto alemão médio</name>
   </language>
   <language>
     <code>gn</code>
@@ -682,7 +650,7 @@
   </language>
   <language>
     <code>gsw</code>
-    <name>alemão suíço</name>
+    <name>alemão (Suíça)</name>
   </language>
   <language>
     <code>gu</code>
@@ -707,6 +675,10 @@
   <language>
     <code>hai</code>
     <name>haida</name>
+  </language>
+  <language>
+    <code>hak</code>
+    <name>hacá</name>
   </language>
   <language>
     <code>haw</code>
@@ -742,7 +714,11 @@
   </language>
   <language>
     <code>hsb</code>
-    <name>sorábio alto</name>
+    <name>alto sorábio</name>
+  </language>
+  <language>
+    <code>hsn</code>
+    <name>xiang</name>
   </language>
   <language>
     <code>ht</code>
@@ -982,7 +958,7 @@
   </language>
   <language>
     <code>krl</code>
-    <name>idioma carélio</name>
+    <name>carélio</name>
   </language>
   <language>
     <code>kru</code>
@@ -1254,7 +1230,7 @@
   </language>
   <language>
     <code>mul</code>
-    <name>idiomas múltiplos</name>
+    <name>múltiplos idiomas</name>
   </language>
   <language>
     <code>mus</code>
@@ -1289,6 +1265,10 @@
     <name>nauruano</name>
   </language>
   <language>
+    <code>nan</code>
+    <name>min nan</name>
+  </language>
+  <language>
     <code>nap</code>
     <name>napolitano</name>
   </language>
@@ -1310,7 +1290,7 @@
   </language>
   <language>
     <code>nds_NL</code>
-    <name>baixo-saxão</name>
+    <name>baixo saxão</name>
   </language>
   <language>
     <code>ne</code>
@@ -1426,7 +1406,7 @@
   </language>
   <language>
     <code>os</code>
-    <name>ossetic</name>
+    <name>osseto</name>
   </language>
   <language>
     <code>osa</code>
@@ -1461,6 +1441,10 @@
     <name>palauano</name>
   </language>
   <language>
+    <code>pcm</code>
+    <name>pidgin nigeriano</name>
+  </language>
+  <language>
     <code>peo</code>
     <name>persa arcaico</name>
   </language>
@@ -1478,7 +1462,11 @@
   </language>
   <language>
     <code>pon</code>
-    <name>pohnpeian</name>
+    <name>pohnpeiano</name>
+  </language>
+  <language>
+    <code>prg</code>
+    <name>prussiano</name>
   </language>
   <language>
     <code>pro</code>
@@ -1491,14 +1479,6 @@
   <language>
     <code>pt</code>
     <name>português</name>
-  </language>
-  <language>
-    <code>pt_BR</code>
-    <name>português do Brasil</name>
-  </language>
-  <language>
-    <code>pt_PT</code>
-    <name>português europeu</name>
   </language>
   <language>
     <code>qu</code>
@@ -1543,6 +1523,10 @@
   <language>
     <code>rom</code>
     <name>romani</name>
+  </language>
+  <language>
+    <code>root</code>
+    <name>raiz</name>
   </language>
   <language>
     <code>ru</code>
@@ -1606,7 +1590,7 @@
   </language>
   <language>
     <code>sco</code>
-    <name>escocês</name>
+    <name>scots</name>
   </language>
   <language>
     <code>sd</code>
@@ -1618,7 +1602,7 @@
   </language>
   <language>
     <code>se</code>
-    <name>sami do norte</name>
+    <name>sami setentrional</name>
   </language>
   <language>
     <code>see</code>
@@ -1722,7 +1706,7 @@
   </language>
   <language>
     <code>srn</code>
-    <name>idioma surinamês</name>
+    <name>surinamês</name>
   </language>
   <language>
     <code>srr</code>
@@ -1730,7 +1714,7 @@
   </language>
   <language>
     <code>ss</code>
-    <name>swati</name>
+    <name>suázi</name>
   </language>
   <language>
     <code>ssy</code>
@@ -1750,7 +1734,7 @@
   </language>
   <language>
     <code>sus</code>
-    <name>sosso</name>
+    <name>susu</name>
   </language>
   <language>
     <code>sux</code>
@@ -1765,12 +1749,12 @@
     <name>suaíli</name>
   </language>
   <language>
-    <code>swb</code>
-    <name>comoriano</name>
+    <code>sw_CD</code>
+    <name>suaíli do Congo</name>
   </language>
   <language>
-    <code>swc</code>
-    <name>suaíli do Congo</name>
+    <code>swb</code>
+    <name>comoriano</name>
   </language>
   <language>
     <code>syc</code>
@@ -1814,7 +1798,7 @@
   </language>
   <language>
     <code>ti</code>
-    <name>tigrínia</name>
+    <name>tigrínio</name>
   </language>
   <language>
     <code>tig</code>
@@ -1878,7 +1862,7 @@
   </language>
   <language>
     <code>tsi</code>
-    <name>tsimshian</name>
+    <name>tsimshiano</name>
   </language>
   <language>
     <code>tt</code>
@@ -1914,7 +1898,7 @@
   </language>
   <language>
     <code>udm</code>
-    <name>udmurt</name>
+    <name>udmurte</name>
   </language>
   <language>
     <code>ug</code>
@@ -1962,7 +1946,7 @@
   </language>
   <language>
     <code>vot</code>
-    <name>votic</name>
+    <name>vótico</name>
   </language>
   <language>
     <code>vun</code>
@@ -1978,7 +1962,7 @@
   </language>
   <language>
     <code>wal</code>
-    <name>walamo</name>
+    <name>wolaytta</name>
   </language>
   <language>
     <code>war</code>
@@ -1995,6 +1979,10 @@
   <language>
     <code>wo</code>
     <name>uólofe</name>
+  </language>
+  <language>
+    <code>wuu</code>
+    <name>wu</name>
   </language>
   <language>
     <code>xal</code>
@@ -2030,7 +2018,7 @@
   </language>
   <language>
     <code>yo</code>
-    <name>ioruba</name>
+    <name>iorubá</name>
   </language>
   <language>
     <code>yue</code>
@@ -2042,7 +2030,7 @@
   </language>
   <language>
     <code>zap</code>
-    <name>zapoteca</name>
+    <name>zapoteco</name>
   </language>
   <language>
     <code>zbl</code>

@@ -1,24 +1,232 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <language>
+    <code>aa</code>
+    <name>afar</name>
+  </language>
+  <language>
+    <code>ab</code>
+    <name>abhasiakielâ</name>
+  </language>
+  <language>
+    <code>ace</code>
+    <name>atšehkielâ</name>
+  </language>
+  <language>
+    <code>ada</code>
+    <name>adangme</name>
+  </language>
+  <language>
+    <code>ady</code>
+    <name>adyge</name>
+  </language>
+  <language>
+    <code>af</code>
+    <name>afrikaans</name>
+  </language>
+  <language>
+    <code>agq</code>
+    <name>aghem</name>
+  </language>
+  <language>
     <code>ain</code>
     <name>ainukielâ</name>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>akankielâ</name>
+  </language>
+  <language>
+    <code>ale</code>
+    <name>aleutkielâ</name>
+  </language>
+  <language>
+    <code>alt</code>
+    <name>maadâaltaikielâ</name>
+  </language>
+  <language>
+    <code>am</code>
+    <name>amharakielâ</name>
+  </language>
+  <language>
+    <code>an</code>
+    <name>aragoniakielâ</name>
+  </language>
+  <language>
+    <code>anp</code>
+    <name>angika</name>
   </language>
   <language>
     <code>ar</code>
     <name>arabiakielâ</name>
   </language>
   <language>
+    <code>ar_001</code>
+    <name>standard arabiakielâ</name>
+  </language>
+  <language>
+    <code>arn</code>
+    <name>mapudungun</name>
+  </language>
+  <language>
+    <code>arp</code>
+    <name>arapahokielâ</name>
+  </language>
+  <language>
+    <code>as</code>
+    <name>assamkielâ</name>
+  </language>
+  <language>
+    <code>asa</code>
+    <name>asukielâ</name>
+  </language>
+  <language>
+    <code>ast</code>
+    <name>asturiakielâ</name>
+  </language>
+  <language>
+    <code>av</code>
+    <name>avarkielâ</name>
+  </language>
+  <language>
+    <code>awa</code>
+    <name>awadhikielâ</name>
+  </language>
+  <language>
+    <code>ay</code>
+    <name>aymarakielâ</name>
+  </language>
+  <language>
+    <code>az</code>
+    <name>azerbaidžankielâ</name>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>baškirkielâ</name>
+  </language>
+  <language>
+    <code>ban</code>
+    <name>balikielâ</name>
+  </language>
+  <language>
+    <code>bas</code>
+    <name>basaakielâ</name>
+  </language>
+  <language>
     <code>be</code>
     <name>vielgisruošâkielâ</name>
+  </language>
+  <language>
+    <code>bem</code>
+    <name>bembakielâ</name>
+  </language>
+  <language>
+    <code>bez</code>
+    <name>benakielâ</name>
   </language>
   <language>
     <code>bg</code>
     <name>bulgariakielâ</name>
   </language>
   <language>
+    <code>bho</code>
+    <name>bhožpurikielâ</name>
+  </language>
+  <language>
+    <code>bi</code>
+    <name>bislama</name>
+  </language>
+  <language>
+    <code>bin</code>
+    <name>binikielâ</name>
+  </language>
+  <language>
+    <code>bla</code>
+    <name>siksikakielâ</name>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>bambarakielâ</name>
+  </language>
+  <language>
+    <code>bn</code>
+    <name>banglakielâ</name>
+  </language>
+  <language>
+    <code>bo</code>
+    <name>tiibetkielâ</name>
+  </language>
+  <language>
+    <code>br</code>
+    <name>bretonkielâ</name>
+  </language>
+  <language>
+    <code>brx</code>
+    <name>bodokielâ</name>
+  </language>
+  <language>
+    <code>bs</code>
+    <name>bosniakielâ</name>
+  </language>
+  <language>
+    <code>bug</code>
+    <name>bugikielâ</name>
+  </language>
+  <language>
+    <code>byn</code>
+    <name>blinkielâ</name>
+  </language>
+  <language>
+    <code>ca</code>
+    <name>katalankielâ</name>
+  </language>
+  <language>
+    <code>ce</code>
+    <name>tšetšenkielâ</name>
+  </language>
+  <language>
+    <code>ceb</code>
+    <name>cebuanokielâ</name>
+  </language>
+  <language>
+    <code>cgg</code>
+    <name>kigakielâ</name>
+  </language>
+  <language>
+    <code>ch</code>
+    <name>chamorrokielâ</name>
+  </language>
+  <language>
+    <code>chk</code>
+    <name>chuukkielâ</name>
+  </language>
+  <language>
     <code>chm</code>
     <name>marikielâ</name>
+  </language>
+  <language>
+    <code>cho</code>
+    <name>choctawkielâ</name>
+  </language>
+  <language>
+    <code>chr</code>
+    <name>cherokeekielâ</name>
+  </language>
+  <language>
+    <code>chy</code>
+    <name>cheyennekielâ</name>
+  </language>
+  <language>
+    <code>ckb</code>
+    <name>sorani kurdikielâ</name>
+  </language>
+  <language>
+    <code>co</code>
+    <name>korsikakielâ</name>
+  </language>
+  <language>
+    <code>crs</code>
+    <name>Seychellij kreoliranska</name>
   </language>
   <language>
     <code>cs</code>
@@ -29,8 +237,28 @@
     <name>kirkkoslaavi</name>
   </language>
   <language>
+    <code>cv</code>
+    <name>tšuvaskielâ</name>
+  </language>
+  <language>
+    <code>cy</code>
+    <name>kymrikielâ</name>
+  </language>
+  <language>
     <code>da</code>
     <name>tanskakielâ</name>
+  </language>
+  <language>
+    <code>dak</code>
+    <name>dakotakielâ</name>
+  </language>
+  <language>
+    <code>dar</code>
+    <name>dargikielâ</name>
+  </language>
+  <language>
+    <code>dav</code>
+    <name>taitakielâ</name>
   </language>
   <language>
     <code>de</code>
@@ -41,60 +269,300 @@
     <name>Nuorttâriijkâ saksakielâ</name>
   </language>
   <language>
+    <code>de_CH</code>
+    <name>Sveitsi pajesaksakielâ</name>
+  </language>
+  <language>
+    <code>dgr</code>
+    <name>dogribkielâ</name>
+  </language>
+  <language>
+    <code>dje</code>
+    <name>zarmakielâ</name>
+  </language>
+  <language>
+    <code>dsb</code>
+    <name>vyelisorbi</name>
+  </language>
+  <language>
+    <code>dua</code>
+    <name>dualakielâ</name>
+  </language>
+  <language>
+    <code>dv</code>
+    <name>divehikielâ</name>
+  </language>
+  <language>
+    <code>dyo</code>
+    <name>jola-fonyi</name>
+  </language>
+  <language>
+    <code>dz</code>
+    <name>Dzongkha</name>
+  </language>
+  <language>
+    <code>dzg</code>
+    <name>dazakielâ</name>
+  </language>
+  <language>
+    <code>ebu</code>
+    <name>embukielâ</name>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>ewekielâ</name>
+  </language>
+  <language>
+    <code>efi</code>
+    <name>efikkielâ</name>
+  </language>
+  <language>
+    <code>eka</code>
+    <name>ekajuk</name>
+  </language>
+  <language>
     <code>el</code>
     <name>kreikakielâ</name>
   </language>
   <language>
     <code>en</code>
-    <name>engâlâskielâ</name>
+    <name>eŋgâlâskielâ</name>
   </language>
   <language>
     <code>en_AU</code>
-    <name>Australia engâlâskielâ</name>
+    <name>Australia eŋgâlâskielâ</name>
   </language>
   <language>
     <code>en_CA</code>
-    <name>Kanada engâlâskielâ</name>
+    <name>Kanada eŋgâlâskielâ</name>
+  </language>
+  <language>
+    <code>en_GB</code>
+    <name>Britannia eŋgâlâskielâ</name>
+  </language>
+  <language>
+    <code>en_US</code>
+    <name>Amerika eŋgâlâskielâ</name>
+  </language>
+  <language>
+    <code>eo</code>
+    <name>esperantokielâ</name>
   </language>
   <language>
     <code>es</code>
     <name>espanjakielâ</name>
   </language>
   <language>
+    <code>es_419</code>
+    <name>Läättin-Amerika espanjakielâ</name>
+  </language>
+  <language>
+    <code>es_ES</code>
+    <name>Espanja espanjakielâ</name>
+  </language>
+  <language>
+    <code>es_MX</code>
+    <name>Meksiko espanjakielâ</name>
+  </language>
+  <language>
     <code>et</code>
     <name>eestikielâ</name>
+  </language>
+  <language>
+    <code>eu</code>
+    <name>baskikielâ</name>
+  </language>
+  <language>
+    <code>ewo</code>
+    <name>ewondokielâ</name>
+  </language>
+  <language>
+    <code>fa</code>
+    <name>persiakielâ</name>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>fulakielâ</name>
   </language>
   <language>
     <code>fi</code>
     <name>suomâkielâ</name>
   </language>
   <language>
+    <code>fil</code>
+    <name>filipinokielâ</name>
+  </language>
+  <language>
+    <code>fj</code>
+    <name>fidžikielâ</name>
+  </language>
+  <language>
+    <code>fo</code>
+    <name>fäärikielâ</name>
+  </language>
+  <language>
+    <code>fon</code>
+    <name>fonkielâ</name>
+  </language>
+  <language>
     <code>fr</code>
     <name>ranskakielâ</name>
+  </language>
+  <language>
+    <code>fr_CA</code>
+    <name>Kanada ranskakielâ</name>
+  </language>
+  <language>
+    <code>fr_CH</code>
+    <name>Sveitsi ranskakielâ</name>
+  </language>
+  <language>
+    <code>fur</code>
+    <name>friulikielâ</name>
+  </language>
+  <language>
+    <code>fy</code>
+    <name>viestârfriisi</name>
   </language>
   <language>
     <code>ga</code>
     <name>iirikielâ</name>
   </language>
   <language>
+    <code>gaa</code>
+    <name>gakielâ</name>
+  </language>
+  <language>
+    <code>gd</code>
+    <name>skottilâš gaelikielâ</name>
+  </language>
+  <language>
+    <code>gez</code>
+    <name>ge’ez</name>
+  </language>
+  <language>
+    <code>gil</code>
+    <name>kiribatikielâ</name>
+  </language>
+  <language>
+    <code>gl</code>
+    <name>galiciakielâ</name>
+  </language>
+  <language>
+    <code>gn</code>
+    <name>guaranikielâ</name>
+  </language>
+  <language>
+    <code>gor</code>
+    <name>gorontalokielâ</name>
+  </language>
+  <language>
     <code>grc</code>
-    <name>toovláškreikakielâ</name>
+    <name>toovláš kreikakielâ</name>
+  </language>
+  <language>
+    <code>gsw</code>
+    <name>Sveitsi saksakielâ</name>
+  </language>
+  <language>
+    <code>gu</code>
+    <name>gudžaratikielâ</name>
+  </language>
+  <language>
+    <code>guz</code>
+    <name>gusiikielâ</name>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>manks</name>
+  </language>
+  <language>
+    <code>gwi</code>
+    <name>gwich’inkielâ</name>
+  </language>
+  <language>
+    <code>ha</code>
+    <name>hausakielâ</name>
+  </language>
+  <language>
+    <code>haw</code>
+    <name>hawaijikielâ</name>
   </language>
   <language>
     <code>he</code>
     <name>hepreakielâ</name>
   </language>
   <language>
+    <code>hi</code>
+    <name>hindikielâ</name>
+  </language>
+  <language>
+    <code>hil</code>
+    <name>hiligainokielâ</name>
+  </language>
+  <language>
+    <code>hmn</code>
+    <name>hmongkielâ</name>
+  </language>
+  <language>
     <code>hr</code>
     <name>kroatiakielâ</name>
+  </language>
+  <language>
+    <code>hsb</code>
+    <name>pajesorbi</name>
+  </language>
+  <language>
+    <code>ht</code>
+    <name>Haiti kreoli</name>
   </language>
   <language>
     <code>hu</code>
     <name>uŋgarkielâ</name>
   </language>
   <language>
+    <code>hup</code>
+    <name>hupakielâ</name>
+  </language>
+  <language>
     <code>hy</code>
     <name>armeniakielâ</name>
+  </language>
+  <language>
+    <code>hz</code>
+    <name>hererokielâ</name>
+  </language>
+  <language>
+    <code>ia</code>
+    <name>interlingua</name>
+  </language>
+  <language>
+    <code>iba</code>
+    <name>ibankielâ</name>
+  </language>
+  <language>
+    <code>ibb</code>
+    <name>ibibiokielâ</name>
+  </language>
+  <language>
+    <code>id</code>
+    <name>indonesiakielâ</name>
+  </language>
+  <language>
+    <code>ig</code>
+    <name>igbokielâ</name>
+  </language>
+  <language>
+    <code>ilo</code>
+    <name>ilocano</name>
+  </language>
+  <language>
+    <code>inh</code>
+    <name>inguškielâ</name>
+  </language>
+  <language>
+    <code>io</code>
+    <name>ido</name>
   </language>
   <language>
     <code>is</code>
@@ -105,96 +573,696 @@
     <name>italiakielâ</name>
   </language>
   <language>
+    <code>iu</code>
+    <name>inuktitut</name>
+  </language>
+  <language>
     <code>ja</code>
     <name>jaapaankielâ</name>
+  </language>
+  <language>
+    <code>jbo</code>
+    <name>lojban</name>
+  </language>
+  <language>
+    <code>jgo</code>
+    <name>ngomba</name>
+  </language>
+  <language>
+    <code>jmc</code>
+    <name>machame</name>
+  </language>
+  <language>
+    <code>jv</code>
+    <name>jaavakielâ</name>
+  </language>
+  <language>
+    <code>ka</code>
+    <name>georgiakielâ</name>
+  </language>
+  <language>
+    <code>kab</code>
+    <name>kabylkielâ</name>
+  </language>
+  <language>
+    <code>kac</code>
+    <name>kachin</name>
+  </language>
+  <language>
+    <code>kaj</code>
+    <name>jju</name>
+  </language>
+  <language>
+    <code>kam</code>
+    <name>kambakielâ</name>
+  </language>
+  <language>
+    <code>kbd</code>
+    <name>kabardikielâ</name>
+  </language>
+  <language>
+    <code>kcg</code>
+    <name>tyap</name>
+  </language>
+  <language>
+    <code>kde</code>
+    <name>makonde</name>
+  </language>
+  <language>
+    <code>kea</code>
+    <name>Kap Verde kreoli</name>
+  </language>
+  <language>
+    <code>kfo</code>
+    <name>koro</name>
+  </language>
+  <language>
+    <code>kha</code>
+    <name>khasi</name>
+  </language>
+  <language>
+    <code>khq</code>
+    <name>koyra chiini</name>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>kikujukielâ</name>
+  </language>
+  <language>
+    <code>kj</code>
+    <name>kuanjama</name>
+  </language>
+  <language>
+    <code>kk</code>
+    <name>kazakkielâ</name>
+  </language>
+  <language>
+    <code>kkj</code>
+    <name>kako</name>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>kalaallisut</name>
+  </language>
+  <language>
+    <code>kln</code>
+    <name>kalenjikielâ</name>
+  </language>
+  <language>
+    <code>km</code>
+    <name>khmerkielâ</name>
+  </language>
+  <language>
+    <code>kmb</code>
+    <name>kimbundu</name>
+  </language>
+  <language>
+    <code>kn</code>
+    <name>kannada</name>
+  </language>
+  <language>
+    <code>ko</code>
+    <name>koreakielâ</name>
+  </language>
+  <language>
+    <code>kok</code>
+    <name>konkani</name>
+  </language>
+  <language>
+    <code>kpe</code>
+    <name>kpellekielâ</name>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>kanurikielâ</name>
+  </language>
+  <language>
+    <code>krc</code>
+    <name>karachai-balkarkielâ</name>
+  </language>
+  <language>
+    <code>krl</code>
+    <name>kärjilkielâ</name>
+  </language>
+  <language>
+    <code>kru</code>
+    <name>kurukhkielâ</name>
+  </language>
+  <language>
+    <code>ks</code>
+    <name>kashmirkielâ</name>
+  </language>
+  <language>
+    <code>ksb</code>
+    <name>shambala</name>
+  </language>
+  <language>
+    <code>ksf</code>
+    <name>bafia</name>
+  </language>
+  <language>
+    <code>ksh</code>
+    <name>kölnkielâ</name>
   </language>
   <language>
     <code>ku</code>
     <name>kurdikielâ</name>
   </language>
   <language>
+    <code>kum</code>
+    <name>kumykkielâ</name>
+  </language>
+  <language>
     <code>kv</code>
     <name>komikielâ</name>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>kornikielâ</name>
+  </language>
+  <language>
+    <code>ky</code>
+    <name>kirgiskielâ</name>
   </language>
   <language>
     <code>la</code>
     <name>läättinkielâ</name>
   </language>
   <language>
+    <code>lad</code>
+    <name>ladinokielâ</name>
+  </language>
+  <language>
+    <code>lag</code>
+    <name>langokielâ</name>
+  </language>
+  <language>
+    <code>lb</code>
+    <name>luxemburgkielâ</name>
+  </language>
+  <language>
+    <code>lez</code>
+    <name>lezgikielâ</name>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>luganda</name>
+  </language>
+  <language>
+    <code>li</code>
+    <name>limburgkielâ</name>
+  </language>
+  <language>
+    <code>lkt</code>
+    <name>lakotakielâ</name>
+  </language>
+  <language>
+    <code>ln</code>
+    <name>lingala</name>
+  </language>
+  <language>
+    <code>lo</code>
+    <name>laokielâ</name>
+  </language>
+  <language>
+    <code>loz</code>
+    <name>lozi</name>
+  </language>
+  <language>
+    <code>lrc</code>
+    <name>taveluri</name>
+  </language>
+  <language>
+    <code>lt</code>
+    <name>liettuakielâ</name>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>katangaluba</name>
+  </language>
+  <language>
+    <code>lua</code>
+    <name>lulualuba</name>
+  </language>
+  <language>
+    <code>lun</code>
+    <name>lunda</name>
+  </language>
+  <language>
+    <code>luo</code>
+    <name>luo</name>
+  </language>
+  <language>
+    <code>lus</code>
+    <name>lusai</name>
+  </language>
+  <language>
+    <code>luy</code>
+    <name>luhya</name>
+  </language>
+  <language>
     <code>lv</code>
     <name>latviakielâ</name>
   </language>
   <language>
+    <code>mad</code>
+    <name>madurakielâ</name>
+  </language>
+  <language>
+    <code>mag</code>
+    <name>magahi</name>
+  </language>
+  <language>
+    <code>mai</code>
+    <name>maithili</name>
+  </language>
+  <language>
+    <code>mak</code>
+    <name>makasar</name>
+  </language>
+  <language>
+    <code>mas</code>
+    <name>masaikielâ</name>
+  </language>
+  <language>
     <code>mdf</code>
-    <name>mokšâkielâ</name>
+    <name>mokšakielâ</name>
+  </language>
+  <language>
+    <code>men</code>
+    <name>mendekielâ</name>
+  </language>
+  <language>
+    <code>mer</code>
+    <name>merukielâ</name>
+  </language>
+  <language>
+    <code>mfe</code>
+    <name>morisyen</name>
+  </language>
+  <language>
+    <code>mg</code>
+    <name>malagaskielâ</name>
+  </language>
+  <language>
+    <code>mgh</code>
+    <name>makua-meetto</name>
+  </language>
+  <language>
+    <code>mgo</code>
+    <name>meta’</name>
+  </language>
+  <language>
+    <code>mh</code>
+    <name>marshallkielâ</name>
   </language>
   <language>
     <code>mi</code>
     <name>maorikielâ</name>
   </language>
   <language>
+    <code>mic</code>
+    <name>micmac</name>
+  </language>
+  <language>
+    <code>min</code>
+    <name>minangkabau</name>
+  </language>
+  <language>
     <code>mk</code>
     <name>makedoniakielâ</name>
+  </language>
+  <language>
+    <code>ml</code>
+    <name>malajam</name>
   </language>
   <language>
     <code>mn</code>
     <name>mongoliakielâ</name>
   </language>
   <language>
+    <code>mni</code>
+    <name>manipuri</name>
+  </language>
+  <language>
+    <code>moh</code>
+    <name>mohawkkielâ</name>
+  </language>
+  <language>
+    <code>mos</code>
+    <name>moore</name>
+  </language>
+  <language>
+    <code>mr</code>
+    <name>marathikielâ</name>
+  </language>
+  <language>
     <code>mrj</code>
-    <name>viestârmarikielâ</name>
+    <name>viestârmari</name>
+  </language>
+  <language>
+    <code>ms</code>
+    <name>malaiji</name>
+  </language>
+  <language>
+    <code>mt</code>
+    <name>maltakielâ</name>
+  </language>
+  <language>
+    <code>mua</code>
+    <name>mundang</name>
+  </language>
+  <language>
+    <code>mul</code>
+    <name>maŋgâ kielâ</name>
+  </language>
+  <language>
+    <code>mus</code>
+    <name>muskogeekielâ</name>
+  </language>
+  <language>
+    <code>mwl</code>
+    <name>mirandeskielâ</name>
+  </language>
+  <language>
+    <code>my</code>
+    <name>burmakielâ</name>
+  </language>
+  <language>
+    <code>myv</code>
+    <name>ersäkielâ</name>
+  </language>
+  <language>
+    <code>mzn</code>
+    <name>mazandarani</name>
+  </language>
+  <language>
+    <code>na</code>
+    <name>naurukielâ</name>
+  </language>
+  <language>
+    <code>nap</code>
+    <name>napolikielâ</name>
+  </language>
+  <language>
+    <code>naq</code>
+    <name>nama</name>
+  </language>
+  <language>
+    <code>nb</code>
+    <name>tárukielâ bokmål</name>
+  </language>
+  <language>
+    <code>nd</code>
+    <name>tave-nbedele</name>
+  </language>
+  <language>
+    <code>nds_NL</code>
+    <name>Vuáládâhenâmij saksakielâ</name>
   </language>
   <language>
     <code>ne</code>
-    <name>neepaalkielâ</name>
+    <name>nepalkielâ</name>
+  </language>
+  <language>
+    <code>new</code>
+    <name>newari</name>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>ndonga</name>
+  </language>
+  <language>
+    <code>nia</code>
+    <name>niaskielâ</name>
+  </language>
+  <language>
+    <code>niu</code>
+    <name>niuekielâ</name>
   </language>
   <language>
     <code>nl</code>
     <name>hollandkielâ</name>
   </language>
   <language>
+    <code>nl_BE</code>
+    <name>hollandkielâ (flaami)</name>
+  </language>
+  <language>
+    <code>nmg</code>
+    <name>kwasio</name>
+  </language>
+  <language>
     <code>nn</code>
     <name>tárukielâ nynorsk</name>
+  </language>
+  <language>
+    <code>nnh</code>
+    <name>ngiemboon</name>
   </language>
   <language>
     <code>no</code>
     <name>tárukielâ</name>
   </language>
   <language>
+    <code>nog</code>
+    <name>nogaikielâ</name>
+  </language>
+  <language>
     <code>non</code>
-    <name>toovláštárukielâ</name>
+    <name>toovláš tárukielâ</name>
+  </language>
+  <language>
+    <code>nqo</code>
+    <name>n’ko</name>
+  </language>
+  <language>
+    <code>nr</code>
+    <name>maadâ-nbedele</name>
+  </language>
+  <language>
+    <code>nso</code>
+    <name>tavesotho</name>
+  </language>
+  <language>
+    <code>nus</code>
+    <name>nuer</name>
+  </language>
+  <language>
+    <code>nv</code>
+    <name>navajokielâ</name>
+  </language>
+  <language>
+    <code>ny</code>
+    <name>njanža</name>
+  </language>
+  <language>
+    <code>nyn</code>
+    <name>nyankolekielâ</name>
+  </language>
+  <language>
+    <code>oc</code>
+    <name>oksitan</name>
+  </language>
+  <language>
+    <code>om</code>
+    <name>oromokielâ</name>
+  </language>
+  <language>
+    <code>or</code>
+    <name>orija</name>
+  </language>
+  <language>
+    <code>os</code>
+    <name>ossetkielâ</name>
+  </language>
+  <language>
+    <code>pa</code>
+    <name>pandžabi</name>
+  </language>
+  <language>
+    <code>pag</code>
+    <name>pangasinankielâ</name>
+  </language>
+  <language>
+    <code>pam</code>
+    <name>pampangakielâ</name>
+  </language>
+  <language>
+    <code>pap</code>
+    <name>papiamentu</name>
+  </language>
+  <language>
+    <code>pau</code>
+    <name>palaukielâ</name>
+  </language>
+  <language>
+    <code>pcm</code>
+    <name>Nigeria pidgin</name>
   </language>
   <language>
     <code>pl</code>
     <name>puolakielâ</name>
   </language>
   <language>
+    <code>prg</code>
+    <name>toovláš preussikielâ</name>
+  </language>
+  <language>
+    <code>ps</code>
+    <name>paštu</name>
+  </language>
+  <language>
     <code>pt</code>
     <name>portugalkielâ</name>
+  </language>
+  <language>
+    <code>pt_BR</code>
+    <name>Brasilia portugalkielâ</name>
+  </language>
+  <language>
+    <code>pt_PT</code>
+    <name>Portugal portugalkielâ</name>
+  </language>
+  <language>
+    <code>qu</code>
+    <name>quechua</name>
+  </language>
+  <language>
+    <code>quc</code>
+    <name>ki’che’</name>
+  </language>
+  <language>
+    <code>rap</code>
+    <name>rapanui</name>
+  </language>
+  <language>
+    <code>rar</code>
+    <name>rarotonga</name>
+  </language>
+  <language>
+    <code>rm</code>
+    <name>retoroomaankielâ</name>
+  </language>
+  <language>
+    <code>rn</code>
+    <name>rundi</name>
   </language>
   <language>
     <code>ro</code>
     <name>romaniakielâ</name>
   </language>
   <language>
+    <code>rof</code>
+    <name>rombo</name>
+  </language>
+  <language>
     <code>rom</code>
     <name>roomaankielâ</name>
+  </language>
+  <language>
+    <code>root</code>
+    <name>ruotâs</name>
   </language>
   <language>
     <code>ru</code>
     <name>ruošâkielâ</name>
   </language>
   <language>
+    <code>rup</code>
+    <name>aromaniakielâ</name>
+  </language>
+  <language>
+    <code>rw</code>
+    <name>ruandakielâ</name>
+  </language>
+  <language>
+    <code>rwk</code>
+    <name>rwa</name>
+  </language>
+  <language>
     <code>sa</code>
-    <name>sanskritkielâ</name>
+    <name>sanskrit</name>
+  </language>
+  <language>
+    <code>sad</code>
+    <name>sandawe</name>
+  </language>
+  <language>
+    <code>sah</code>
+    <name>jakutkielâ</name>
+  </language>
+  <language>
+    <code>saq</code>
+    <name>samburukielâ</name>
+  </language>
+  <language>
+    <code>sat</code>
+    <name>santalikielâ</name>
+  </language>
+  <language>
+    <code>sba</code>
+    <name>ngambay</name>
+  </language>
+  <language>
+    <code>sbp</code>
+    <name>sangu</name>
+  </language>
+  <language>
+    <code>sc</code>
+    <name>sardiniakielâ</name>
+  </language>
+  <language>
+    <code>scn</code>
+    <name>sisiliakielâ</name>
+  </language>
+  <language>
+    <code>sco</code>
+    <name>skootikielâ</name>
+  </language>
+  <language>
+    <code>sd</code>
+    <name>sindhi</name>
   </language>
   <language>
     <code>se</code>
-    <name>tavesämikielâ</name>
+    <name>tavekielâ</name>
+  </language>
+  <language>
+    <code>seh</code>
+    <name>sena</name>
+  </language>
+  <language>
+    <code>ses</code>
+    <name>koyraboro senni</name>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>sango</name>
+  </language>
+  <language>
+    <code>shi</code>
+    <name>tašelhit</name>
+  </language>
+  <language>
+    <code>shn</code>
+    <name>shankielâ</name>
+  </language>
+  <language>
+    <code>si</code>
+    <name>sinhala</name>
+  </language>
+  <language>
+    <code>sk</code>
+    <name>slovakiakielâ</name>
   </language>
   <language>
     <code>sl</code>
     <name>sloveniakielâ</name>
+  </language>
+  <language>
+    <code>sm</code>
+    <name>samoakielâ</name>
   </language>
   <language>
     <code>sma</code>
@@ -213,24 +1281,200 @@
     <name>nuorttâlâškielâ</name>
   </language>
   <language>
+    <code>sn</code>
+    <name>shona</name>
+  </language>
+  <language>
+    <code>snk</code>
+    <name>soninke</name>
+  </language>
+  <language>
+    <code>so</code>
+    <name>somalikielâ</name>
+  </language>
+  <language>
+    <code>sq</code>
+    <name>albaniakielâ</name>
+  </language>
+  <language>
     <code>sr</code>
     <name>serbiakielâ</name>
+  </language>
+  <language>
+    <code>srn</code>
+    <name>sranantongo</name>
+  </language>
+  <language>
+    <code>ss</code>
+    <name>swazikielâ</name>
+  </language>
+  <language>
+    <code>ssy</code>
+    <name>saho</name>
+  </language>
+  <language>
+    <code>st</code>
+    <name>maadâsotho</name>
+  </language>
+  <language>
+    <code>su</code>
+    <name>sundakielâ</name>
+  </language>
+  <language>
+    <code>suk</code>
+    <name>sukumakielâ</name>
   </language>
   <language>
     <code>sv</code>
     <name>ruotâkielâ</name>
   </language>
   <language>
+    <code>sw</code>
+    <name>swahilikielâ</name>
+  </language>
+  <language>
+    <code>sw_CD</code>
+    <name>Kongo swahilikielâ</name>
+  </language>
+  <language>
+    <code>swb</code>
+    <name>komorikielâ</name>
+  </language>
+  <language>
+    <code>syr</code>
+    <name>syyriakielâ</name>
+  </language>
+  <language>
+    <code>ta</code>
+    <name>tamilkielâ</name>
+  </language>
+  <language>
+    <code>te</code>
+    <name>telugu</name>
+  </language>
+  <language>
+    <code>tem</code>
+    <name>temnekielâ</name>
+  </language>
+  <language>
+    <code>teo</code>
+    <name>ateso</name>
+  </language>
+  <language>
+    <code>tet</code>
+    <name>tetum</name>
+  </language>
+  <language>
+    <code>tg</code>
+    <name>tadžikkielâ</name>
+  </language>
+  <language>
+    <code>th</code>
+    <name>thaikielâ</name>
+  </language>
+  <language>
+    <code>ti</code>
+    <name>tigrinyakielâ</name>
+  </language>
+  <language>
+    <code>tig</code>
+    <name>tigrekielâ</name>
+  </language>
+  <language>
+    <code>tk</code>
+    <name>turkmenkielâ</name>
+  </language>
+  <language>
+    <code>tlh</code>
+    <name>klingonkielâ</name>
+  </language>
+  <language>
+    <code>tn</code>
+    <name>tswanakielâ</name>
+  </language>
+  <language>
+    <code>to</code>
+    <name>tongakielâ</name>
+  </language>
+  <language>
+    <code>tpi</code>
+    <name>tok pisin</name>
+  </language>
+  <language>
     <code>tr</code>
-    <name>turkkikielâ</name>
+    <name>tuurkikielâ</name>
+  </language>
+  <language>
+    <code>trv</code>
+    <name>taroko</name>
+  </language>
+  <language>
+    <code>ts</code>
+    <name>tsongakielâ</name>
+  </language>
+  <language>
+    <code>tt</code>
+    <name>tatarkielâ</name>
+  </language>
+  <language>
+    <code>tum</code>
+    <name>tumbukakielâ</name>
+  </language>
+  <language>
+    <code>tvl</code>
+    <name>tuvalukielâ</name>
+  </language>
+  <language>
+    <code>twq</code>
+    <name>tasawaq</name>
+  </language>
+  <language>
+    <code>ty</code>
+    <name>tahitikielâ</name>
+  </language>
+  <language>
+    <code>tyv</code>
+    <name>tuvakielâ</name>
+  </language>
+  <language>
+    <code>tzm</code>
+    <name>Koskâatlas tamazight</name>
   </language>
   <language>
     <code>udm</code>
     <name>udmurtkielâ</name>
   </language>
   <language>
+    <code>ug</code>
+    <name>uigurkielâ</name>
+  </language>
+  <language>
     <code>uk</code>
     <name>ukrainakielâ</name>
+  </language>
+  <language>
+    <code>umb</code>
+    <name>umbundu</name>
+  </language>
+  <language>
+    <code>und</code>
+    <name>tubdâmettumis kielâ</name>
+  </language>
+  <language>
+    <code>ur</code>
+    <name>urdu</name>
+  </language>
+  <language>
+    <code>uz</code>
+    <name>uzbekkielâ</name>
+  </language>
+  <language>
+    <code>vai</code>
+    <name>vaikielâ</name>
+  </language>
+  <language>
+    <code>ve</code>
+    <name>vendakielâ</name>
   </language>
   <language>
     <code>vep</code>
@@ -241,12 +1485,72 @@
     <name>vietnamkielâ</name>
   </language>
   <language>
+    <code>vo</code>
+    <name>volapük</name>
+  </language>
+  <language>
+    <code>vun</code>
+    <name>vunjo</name>
+  </language>
+  <language>
+    <code>wa</code>
+    <name>walloonkielâ</name>
+  </language>
+  <language>
+    <code>wae</code>
+    <name>walliskielâ</name>
+  </language>
+  <language>
+    <code>wal</code>
+    <name>wolaitakielâ</name>
+  </language>
+  <language>
+    <code>war</code>
+    <name>waraykielâ</name>
+  </language>
+  <language>
+    <code>wo</code>
+    <name>wolofkielâ</name>
+  </language>
+  <language>
+    <code>xal</code>
+    <name>kalmukkielâ</name>
+  </language>
+  <language>
+    <code>xh</code>
+    <name>xhosakielâ</name>
+  </language>
+  <language>
+    <code>xog</code>
+    <name>soga</name>
+  </language>
+  <language>
+    <code>yav</code>
+    <name>yangben</name>
+  </language>
+  <language>
+    <code>ybb</code>
+    <name>yemba</name>
+  </language>
+  <language>
+    <code>yi</code>
+    <name>jiddish</name>
+  </language>
+  <language>
+    <code>yo</code>
+    <name>yorubakielâ</name>
+  </language>
+  <language>
     <code>yue</code>
-    <name>kantonkiinakielâ</name>
+    <name>kantonkielâ</name>
+  </language>
+  <language>
+    <code>zgh</code>
+    <name>standard tamazight</name>
   </language>
   <language>
     <code>zh</code>
-    <name>kiinakielâ</name>
+    <name>mandarinkiinakielâ</name>
   </language>
   <language>
     <code>zh_Hans</code>
@@ -255,5 +1559,21 @@
   <language>
     <code>zh_Hant</code>
     <name>ärbivuáválâš kiinakielâ</name>
+  </language>
+  <language>
+    <code>zu</code>
+    <name>zulukielâ</name>
+  </language>
+  <language>
+    <code>zun</code>
+    <name>zunikielâ</name>
+  </language>
+  <language>
+    <code>zxx</code>
+    <name>ij kielâlâš siskáldâs</name>
+  </language>
+  <language>
+    <code>zza</code>
+    <name>zazakielâ</name>
   </language>
 </languages>

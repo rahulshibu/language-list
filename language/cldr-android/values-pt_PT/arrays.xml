@@ -3,63 +3,79 @@
   <!-- European Portuguese (pt_PT) -->
   <string-array name="languages_all">
     <!-- af - Afrikaans -->
-    <item>africânder</item>
+    <item>africanês</item>
+    <!-- ang - Old English -->
+    <item>inglês antigo</item>
     <!-- ar_001 - Modern Standard Arabic -->
     <item>árabe moderno padrão</item>
     <!-- arn - Mapuche -->
     <item>mapuche</item>
-    <!-- az_Arab -->
-    <item>azeri meridional</item>
     <!-- bax - Bamun -->
     <item>bamun</item>
     <!-- bbj - Ghomala -->
     <item>ghomala</item>
+    <!-- bua - Buriat -->
+    <item>buriat</item>
     <!-- chn - Chinook Jargon -->
     <item>jargão chinook</item>
     <!-- ckb - Central Kurdish -->
     <item>sorani curdo</item>
+    <!-- crs - Seselwa Creole French -->
+    <item>francês crioulo seselwa</item>
     <!-- cs - Czech -->
     <item>checo</item>
     <!-- cv - Chuvash -->
     <item>chuvash</item>
-    <!-- dsb - Lower Sorbian -->
-    <item>baixo sórabio</item>
+    <!-- de_AT - Austrian German -->
+    <item>alemão austríaco</item>
+    <!-- de_CH - Swiss High German -->
+    <item>alto alemão suíço</item>
     <!-- ee - Ewe -->
     <item>ewe</item>
     <!-- egy - Ancient Egyptian -->
     <item>egípcio clássico</item>
+    <!-- en_AU - Australian English -->
+    <item>inglês australiano</item>
     <!-- en_CA - Canadian English -->
     <item>inglês canadiano</item>
-    <!-- enm - Middle English -->
-    <item>inglês medieval</item>
+    <!-- en_GB - British English -->
+    <item>inglês britânico</item>
+    <!-- en_US - American English -->
+    <item>inglês americano</item>
+    <!-- es_419 - Latin American Spanish -->
+    <item>espanhol latino-americano</item>
+    <!-- es_ES - European Spanish -->
+    <item>espanhol europeu</item>
     <!-- et - Estonian -->
     <item>estónio</item>
     <!-- fr_CA - Canadian French -->
     <item>francês canadiano</item>
-    <!-- frm - Middle French -->
-    <item>francês medieval</item>
+    <!-- fr_CH - Swiss French -->
+    <item>francês suíço</item>
+    <!-- fro - Old French -->
+    <item>francês antigo</item>
     <!-- frs - Eastern Frisian -->
     <item>frísio oriental</item>
     <!-- fy - Western Frisian -->
     <item>frísico ocidental</item>
-    <!-- gmh - Middle High German -->
-    <item>alemão medieval alto</item>
+    <!-- goh - Old High German -->
+    <item>alemão alto antigo</item>
     <!-- grc - Ancient Greek -->
     <item>grego clássico</item>
+    <!-- gsw - Swiss German -->
+    <item>alemão suíço</item>
     <!-- ha - Hausa -->
     <item>haúça</item>
     <!-- hi - Hindi -->
     <item>hindi</item>
-    <!-- hsb - Upper Sorbian -->
-    <item>alto sórabio</item>
     <!-- hy - Armenian -->
     <item>arménio</item>
     <!-- ig - Igbo -->
     <item>igbo</item>
+    <!-- kbd - Kabardian -->
+    <item>cabardiano</item>
     <!-- kea - Kabuverdianu -->
-    <item>cabo-verdiano</item>
-    <!-- kg - Kongo -->
-    <item>conguês</item>
+    <item>crioulo cabo-verdiano</item>
     <!-- kn - Kannada -->
     <item>canarim</item>
     <!-- lez - Lezghian -->
@@ -70,8 +86,6 @@
     <item>luri do norte</item>
     <!-- luo - Luo -->
     <item>luo</item>
-    <!-- mga - Middle Irish -->
-    <item>irlandês, medieval</item>
     <!-- mk - Macedonian -->
     <item>macedónio</item>
     <!-- moh - Mohawk -->
@@ -80,41 +94,59 @@
     <item>norueguês bokmål</item>
     <!-- nds - Low German -->
     <item>baixo-alemão</item>
+    <!-- nds_NL - Low Saxon -->
+    <item>baixo-saxão</item>
     <!-- nn - Norwegian Nynorsk -->
     <item>norueguês nynorsk</item>
+    <!-- non - Old Norse -->
+    <item>nórdico antigo</item>
     <!-- oc - Occitan -->
-    <item>provençal</item>
+    <item>occitano</item>
     <!-- os - Ossetic -->
     <item>ossético</item>
+    <!-- pag - Pangasinan -->
+    <item>língua pangasinesa</item>
+    <!-- peo - Old Persian -->
+    <item>persa antigo</item>
     <!-- pl - Polish -->
     <item>polaco</item>
+    <!-- pon - Pohnpeian -->
+    <item>língua pohnpeica</item>
+    <!-- pro - Old Provençal -->
+    <item>provençal antigo</item>
     <!-- ps - Pashto -->
     <item>pastó</item>
-    <!-- rom - Romany -->
-    <item>romanês</item>
+    <!-- pt_BR - Brazilian Portuguese -->
+    <item>português do Brasil</item>
+    <!-- pt_PT - European Portuguese -->
+    <item>português europeu</item>
+    <!-- raj - Rajasthani -->
+    <item>rajastanês</item>
     <!-- root - Root -->
     <item>root</item>
     <!-- rw - Kinyarwanda -->
     <item>kinyarwanda</item>
     <!-- sah - Sakha -->
     <item>sakha</item>
+    <!-- se - Northern Sami -->
+    <item>sami do norte</item>
+    <!-- sga - Old Irish -->
+    <item>irlandês antigo</item>
     <!-- shu - Chadian Arabic -->
     <item>árabe do Chade</item>
-    <!-- smj - Lule Sami -->
-    <item>lule sami</item>
     <!-- smn - Inari Sami -->
     <item>inari sami</item>
-    <!-- sms - Skolt Sami -->
-    <item>skolt sami</item>
+    <!-- ti - Tigrinya -->
+    <item>tigrínia</item>
     <!-- tk - Turkmen -->
     <item>turcomano</item>
-    <!-- tl - Tagalog -->
-    <item>tagalogue</item>
     <!-- to - Tongan -->
     <item>tonga</item>
     <!-- vai - Vai -->
     <item>vai</item>
     <!-- xog - Soga -->
     <item>soga</item>
+    <!-- yo - Yoruba -->
+    <item>ioruba</item>
   </string-array>
 </resources>

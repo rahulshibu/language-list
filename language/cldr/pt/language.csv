@@ -58,7 +58,7 @@ bra,braj
 brx,bodo
 bs,bósnio
 bss,akoose
-bua,buriat
+bua,buriato
 bug,buginês
 bum,bulu
 byn,blin
@@ -76,7 +76,7 @@ chb,chibcha
 chg,chagatai
 chk,chuukese
 chm,mari
-chn,chinook jargon
+chn,jargão Chinook
 cho,choctaw
 chp,chipewyan
 chr,cherokee
@@ -86,6 +86,7 @@ co,córsico
 cop,copta
 cr,cree
 crh,turco da Crimeia
+crs,crioulo francês seichelense
 cs,tcheco
 csb,kashubian
 cu,eslavo eclesiástico
@@ -96,15 +97,14 @@ dak,dacota
 dar,dargwa
 dav,taita
 de,alemão
-de_AT,alemão austríaco
-de_CH,alto alemão suíço
+de_CH,alto alemão (Suíça)
 del,delaware
 den,slave
 dgr,dogrib
 din,dinka
 dje,zarma
 doi,dogri
-dsb,sorábio baixo
+dsb,baixo sorábio
 dua,duala
 dum,holandês médio
 dv,divehi
@@ -120,16 +120,9 @@ eka,ekajuk
 el,grego
 elx,elamite
 en,inglês
-en_AU,inglês australiano
-en_CA,inglês canadense
-en_GB,inglês britânico
-en_US,inglês americano
 enm,inglês médio
 eo,esperanto
 es,espanhol
-es_419,espanhol latino-americano
-es_ES,espanhol europeu
-es_MX,espanhol mexicano
 et,estoniano
 eu,basco
 ewo,ewondo
@@ -143,8 +136,6 @@ fj,fijiano
 fo,feroês
 fon,fom
 fr,francês
-fr_CA,francês canadense
-fr_CH,francês suíço
 frm,francês médio
 fro,francês arcaico
 frr,frísio setentrional
@@ -154,13 +145,14 @@ fy,frísio ocidental
 ga,irlandês
 gaa,ga
 gag,gagauz
+gan,gan
 gay,gayo
 gba,gbaia
 gd,gaélico escocês
 gez,geez
 gil,gilbertês
 gl,galego
-gmh,alemão médio-alto
+gmh,alto alemão médio
 gn,guarani
 goh,alemão arcaico alto
 gon,gondi
@@ -168,13 +160,14 @@ gor,gorontalo
 got,gótico
 grb,grebo
 grc,grego arcaico
-gsw,alemão suíço
+gsw,alemão (Suíça)
 gu,guzerate
 guz,gusii
 gv,manx
 gwi,gwichʼin
 ha,hauçá
 hai,haida
+hak,hacá
 haw,havaiano
 he,hebraico
 hi,híndi
@@ -183,7 +176,8 @@ hit,hitita
 hmn,hmong
 ho,hiri motu
 hr,croata
-hsb,sorábio alto
+hsb,alto sorábio
+hsn,xiang
 ht,haitiano
 hu,húngaro
 hup,hupa
@@ -243,7 +237,7 @@ kos,kosraean
 kpe,kpelle
 kr,canúri
 krc,karachay-balkar
-krl,idioma carélio
+krl,carélio
 kru,kurukh
 ks,caxemira
 ksb,shambala
@@ -311,7 +305,7 @@ mr,marata
 ms,malaio
 mt,maltês
 mua,mundang
-mul,idiomas múltiplos
+mul,múltiplos idiomas
 mus,creek
 mwl,mirandês
 mwr,marwari
@@ -320,12 +314,13 @@ mye,myene
 myv,erzya
 mzn,mazandarani
 na,nauruano
+nan,min nan
 nap,napolitano
 naq,nama
 nb,bokmål norueguês
 nd,ndebele do norte
 nds,baixo alemão
-nds_NL,baixo-saxão
+nds_NL,baixo saxão
 ne,nepali
 new,newari
 ng,dongo
@@ -354,7 +349,7 @@ oc,occitânico
 oj,ojibwa
 om,oromo
 or,oriya
-os,ossetic
+os,osseto
 osa,osage
 ota,turco otomano
 pa,panjabi
@@ -363,16 +358,16 @@ pal,pálavi
 pam,pampanga
 pap,papiamento
 pau,palauano
+pcm,pidgin nigeriano
 peo,persa arcaico
 phn,fenício
 pi,páli
 pl,polonês
-pon,pohnpeian
+pon,pohnpeiano
+prg,prussiano
 pro,provençal arcaico
 ps,pashto
 pt,português
-pt_BR,português do Brasil
-pt_PT,português europeu
 qu,quíchua
 quc,quiché
 raj,rajastani
@@ -384,6 +379,7 @@ ro,romeno
 ro_MD,moldávio
 rof,rombo
 rom,romani
+root,raiz
 ru,russo
 rup,aromeno
 rw,quiniaruanda
@@ -399,10 +395,10 @@ sba,ngambay
 sbp,sangu
 sc,sardo
 scn,siciliano
-sco,escocês
+sco,scots
 sd,sindi
 sdh,curdo meridional
-se,sami do norte
+se,sami setentrional
 see,seneca
 seh,sena
 sel,selkup
@@ -428,19 +424,19 @@ so,somali
 sog,sogdiano
 sq,albanês
 sr,sérvio
-srn,idioma surinamês
+srn,surinamês
 srr,serere
-ss,swati
+ss,suázi
 ssy,saho
 st,soto do sul
 su,sundanês
 suk,sukuma
-sus,sosso
+sus,susu
 sux,sumério
 sv,sueco
 sw,suaíli
+sw_CD,suaíli do Congo
 swb,comoriano
-swc,suaíli do Congo
 syc,siríaco clássico
 syr,siríaco
 ta,tâmil
@@ -451,7 +447,7 @@ ter,tereno
 tet,tétum
 tg,tajique
 th,tailandês
-ti,tigrínia
+ti,tigrínio
 tig,tigré
 tiv,tiv
 tk,turcomeno
@@ -467,7 +463,7 @@ tpi,tok pisin
 tr,turco
 trv,taroko
 ts,tsonga
-tsi,tsimshian
+tsi,tsimshiano
 tt,tatar
 tum,tumbuka
 tvl,tuvaluano
@@ -476,7 +472,7 @@ twq,tasawaq
 ty,taitiano
 tyv,tuviniano
 tzm,tamazight do Atlas Central
-udm,udmurt
+udm,udmurte
 ug,uigur
 uga,ugarítico
 uk,ucraniano
@@ -488,15 +484,16 @@ vai,vai
 ve,venda
 vi,vietnamita
 vo,volapuque
-vot,votic
+vot,vótico
 vun,vunjo
 wa,valão
 wae,walser
-wal,walamo
+wal,wolaytta
 war,waray
 was,washo
 wbp,warlpiri
 wo,uólofe
+wuu,wu
 xal,kalmyk
 xh,xosa
 xog,lusoga
@@ -505,10 +502,10 @@ yap,yapese
 yav,yangben
 ybb,yemba
 yi,iídiche
-yo,ioruba
+yo,iorubá
 yue,cantonês
 za,zhuang
-zap,zapoteca
+zap,zapoteco
 zbl,símbolos blis
 zen,zenaga
 zgh,tamazight marroquino padrão

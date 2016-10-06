@@ -2,7 +2,59 @@
 <resources>
   <!-- Mexican Spanish (es_MX) -->
   <string-array name="languages_all">
+    <!-- ace - Achinese -->
+    <item>acehnés</item>
+    <!-- arp - Arapaho -->
+    <item>arapaho</item>
     <!-- ba - Bashkir -->
     <item>bashkir</item>
+    <!-- bas - Basaa -->
+    <item>basa</item>
+    <!-- bax - Bamun -->
+    <item>bamun</item>
+    <!-- bho - Bhojpuri -->
+    <item>bhojpuri</item>
+    <!-- dum - Middle Dutch -->
+    <item>neerlandés medieval</item>
+    <!-- enm - Middle English -->
+    <item>inglés medieval</item>
+    <!-- eu - Basque -->
+    <item>euskera</item>
+    <!-- frm - Middle French -->
+    <item>francés medieval</item>
+    <!-- gan - Gan Chinese -->
+    <item>gan (China)</item>
+    <!-- gmh - Middle High German -->
+    <item>alemán de la alta edad media</item>
+    <!-- grc - Ancient Greek -->
+    <item>griego antiguo</item>
+    <!-- hak - Hakka Chinese -->
+    <item>kejia (China)</item>
+    <!-- hsn - Xiang Chinese -->
+    <item>xiang (China)</item>
+    <!-- lo - Lao -->
+    <item>lao</item>
+    <!-- mga - Middle Irish -->
+    <item>irlandés medieval</item>
+    <!-- nan - Min Nan Chinese -->
+    <item>min nan (Chino)</item>
+    <!-- nso - Northern Sotho -->
+    <item>sotho septentrional</item>
+    <!-- pa - Punjabi -->
+    <item>punyabí</item>
+    <!-- rn - Rundi -->
+    <item>kiroundi</item>
+    <!-- shu - Chadian Arabic -->
+    <item>árabe chadiano</item>
+    <!-- ss - Swati -->
+    <item>siswati</item>
+    <!-- sw - Swahili -->
+    <item>suajili</item>
+    <!-- sw_CD - Congo Swahili -->
+    <item>suajili del Congo</item>
+    <!-- wo - Wolof -->
+    <item>wolof</item>
+    <!-- zgh - Standard Moroccan Tamazight -->
+    <item>tamazight marroquí estándar</item>
   </string-array>
 </resources>

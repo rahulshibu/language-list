@@ -3,7 +3,7 @@
   <!-- Kabuverdianu (kea) -->
   <string-array name="languages_all">
     <!-- ab - Abkhazian -->
-    <item>abkaziu</item>
+    <item>abkáziu</item>
     <!-- af - Afrikaans -->
     <item>afrikaner</item>
     <!-- agq - Aghem -->
@@ -11,11 +11,11 @@
     <!-- ak - Akan -->
     <item>akan</item>
     <!-- am - Amharic -->
-    <item>amariku</item>
+    <item>amáriku</item>
     <!-- ar - Arabic -->
-    <item>arabi</item>
+    <item>árabi</item>
     <!-- ar_001 - Modern Standard Arabic -->
-    <item>arabi mudernu</item>
+    <item>árabi mudernu</item>
     <!-- arn - Mapuche -->
     <item>araukanu</item>
     <!-- as - Assamese -->
@@ -38,7 +38,7 @@
     <item>búlgaru</item>
     <!-- bm - Bambara -->
     <item>bambara</item>
-    <!-- bn - Bengali -->
+    <!-- bn - Bangla -->
     <item>bengali</item>
     <!-- bo - Tibetan -->
     <item>tibetanu</item>
@@ -133,7 +133,7 @@
     <!-- fr_CH - Swiss French -->
     <item>franses suisu</item>
     <!-- fy - Western Frisian -->
-    <item>frisiu osidental</item>
+    <item>fríziu osidental</item>
     <!-- ga - Irish -->
     <item>irlandes</item>
     <!-- gag - Gagauz -->
@@ -143,7 +143,7 @@
     <!-- gn - Guarani -->
     <item>guarani</item>
     <!-- gsw - Swiss German -->
-    <item>alimãu di Suisa</item>
+    <item>alimãu suísu</item>
     <!-- gu - Gujarati -->
     <item>gujarati</item>
     <!-- guz - Gusii -->
@@ -243,13 +243,13 @@
     <!-- mi - Maori -->
     <item>maori</item>
     <!-- mk - Macedonian -->
-    <item>masedoniu</item>
+    <item>masedóniu</item>
     <!-- ml - Malayalam -->
     <item>malaialam</item>
     <!-- mr - Marathi -->
     <item>marati</item>
     <!-- ms - Malay -->
-    <item>malaiu</item>
+    <item>maláiu</item>
     <!-- mt - Maltese -->
     <item>maltes</item>
     <!-- my - Burmese -->
@@ -268,8 +268,8 @@
     <item>norueges nynorsk</item>
     <!-- om - Oromo -->
     <item>oromo</item>
-    <!-- or - Oriya -->
-    <item>oriya</item>
+    <!-- or - Odia -->
+    <item>odía</item>
     <!-- pa - Punjabi -->
     <item>pandjabi</item>
     <!-- pl - Polish -->
@@ -290,12 +290,14 @@
     <item>romanxi</item>
     <!-- ro - Romanian -->
     <item>rumenu</item>
+    <!-- ro_MD - Moldavian -->
+    <item>rumenu moldáviku</item>
     <!-- ru - Russian -->
     <item>rusu</item>
     <!-- rw - Kinyarwanda -->
     <item>kiniaruanda</item>
     <!-- sa - Sanskrit -->
-    <item>sanskritu</item>
+    <item>sánskritu</item>
     <!-- sd - Sindhi -->
     <item>sindi</item>
     <!-- ses - Koyraboro Senni -->
@@ -305,7 +307,7 @@
     <!-- sk - Slovak -->
     <item>slovaku</item>
     <!-- sl - Slovenian -->
-    <item>sloveniu</item>
+    <item>slovéniu</item>
     <!-- smn - Inari Sami -->
     <item>inari sami</item>
     <!-- so - Somali -->
@@ -320,14 +322,14 @@
     <item>sueku</item>
     <!-- sw - Swahili -->
     <item>suaíli</item>
-    <!-- swc - Congo Swahili -->
+    <!-- sw_CD - Congo Swahili -->
     <item>suaíli kongoles</item>
     <!-- ta - Tamil -->
     <item>tamil</item>
     <!-- te - Telugu -->
     <item>telugu</item>
     <!-- tg - Tajik -->
-    <item>tajik</item>
+    <item>tadjiki</item>
     <!-- th - Thai -->
     <item>tailandes</item>
     <!-- ti - Tigrinya -->
@@ -346,8 +348,8 @@
     <item>uigur</item>
     <!-- uk - Ukrainian -->
     <item>ukranianu</item>
-    <!-- und - Unknown Language -->
-    <item>lingua diskonxedu</item>
+    <!-- und - Unknown language -->
+    <item>língua diskonxedu</item>
     <!-- ur - Urdu -->
     <item>urdu</item>
     <!-- uz - Uzbek -->
@@ -369,6 +371,6 @@
     <!-- zu - Zulu -->
     <item>zulu</item>
     <!-- zxx - No linguistic content -->
-    <item>sem konteudo linguistiku</item>
+    <item>sen kontiudu linguístiku</item>
   </string-array>
 </resources>

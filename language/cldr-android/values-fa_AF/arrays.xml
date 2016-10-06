@@ -2,6 +2,18 @@
 <resources>
   <!-- Dari (fa_AF) -->
   <string-array name="languages_all">
+    <!-- ab - Abkhazian -->
+    <item>افریکانس</item>
+    <!-- as - Assamese -->
+    <item>اسامی</item>
+    <!-- az - Azerbaijani -->
+    <item>آذربایجانی</item>
+    <!-- ba - Bashkir -->
+    <item>باشقیری</item>
+    <!-- ckb - Central Kurdish -->
+    <item>کردی سورانی</item>
+    <!-- dv - Divehi -->
+    <item>مالدیوی</item>
     <!-- es - Spanish -->
     <item>هسپانوی</item>
     <!-- fi - Finnish -->
@@ -34,8 +46,12 @@
     <item>پولندی</item>
     <!-- pt - Portuguese -->
     <item>پرتگالی</item>
+    <!-- sq - Albanian -->
+    <item>البانیایی</item>
     <!-- sv - Swedish -->
     <item>سویدنی</item>
+    <!-- sw - Swahili -->
+    <item>سواحلی</item>
     <!-- tg - Tajik -->
     <item>تاجکی</item>
   </string-array>

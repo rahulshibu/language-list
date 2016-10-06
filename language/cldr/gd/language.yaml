@@ -15,6 +15,7 @@ akk: Acadais
 akz: Alabama
 ale: Aleutais
 aln: "Alb\xE0inis Ghegeach"
+alt: Altais Dheasach
 am: Amtharais
 an: Aragonais
 ang: Seann-Bheurla
@@ -22,7 +23,7 @@ anp: Angika
 ar: Arabais
 ar_001: Nuadh-Arabais Stannardach
 arc: Aramais
-arn: Mapuche
+arn: Mapudungun
 aro: Araona
 arp: Arapaho
 arq: Arabais Aildireach
@@ -62,7 +63,7 @@ bjn: Banjar
 bkm: Kom
 bla: Siksika
 bm: Bambara
-bn: Beangailis
+bn: Bangla
 bo: Tibeitis
 bpy: Bishnupriya
 bqi: Bakhtiari
@@ -95,13 +96,14 @@ cho: Choctaw
 chp: Chipewyan
 chr: Cherokee
 chy: Cheyenne
-ckb: "C\xF9rdais Soran\xEE"
+ckb: "C\xF9rdais Mheadhanach"
 co: Corsais
 cop: Coptais
 cps: Capiznon
 cr: Cree
 crh: Turcais Chriomach
-cs: Seacais
+crs: Seiseallais
+cs: Seicis
 csb: Caisiubais
 cu: "Sl\xE0bhais na h-Eaglaise"
 cv: Chuvash
@@ -248,6 +250,7 @@ kac: Kachin
 kaj: Jju
 kam: Kamba
 kaw: Kawi
+kbd: Cabardais
 kbl: Kanembu
 kcg: Tyap
 kde: Makonde
@@ -278,10 +281,12 @@ kr: Kanuri
 krc: Karachay-Balkar
 kri: Krio
 krj: Kinaray-a
+krl: Cairealais
 kru: Kurukh
 ks: Caismiris
 ksb: Shambala
 ksf: Bafia
+ksh: Gearmailtis Chologne
 ku: "C\xF9rdais"
 kum: Kumyk
 kut: Kutenai
@@ -294,6 +299,7 @@ lag: Langi
 lah: Lahnda
 lam: Lamba
 lb: Lugsamburgais
+lez: Leasgais
 lfn: Lingua Franca Nova
 lg: Ganda
 li: "C\xE0nan Limburg"
@@ -351,6 +357,7 @@ mt: Maltais
 mua: Mundang
 mul: "Iomadh c\xE0nan"
 mus: Creek
+mwl: Miorandais
 mwr: Marwari
 mwv: Mentawai
 my: Burmais
@@ -359,6 +366,7 @@ myv: Erzya
 mzn: Mazanderani
 na: Nabhru
 nan: Min Nan
+nap: Eadailtis Napoli
 naq: Nama
 nb: "Bokm\xE5l na Nirribhidh"
 nd: Ndebele Thuathach
@@ -381,11 +389,11 @@ non: Seann-Lochlannais
 nov: Novial
 nqo: "N\u2019Ko"
 nr: Ndebele Dheasach
-nso: Leasotais Thuathach
+nso: Sesotho sa Leboa
 nus: Nuer
 nv: Navajo
 nwc: Newari Chlasaigeach
-ny: Chichewa
+ny: Nyanja
 nym: Nyamwezi
 nyn: Nyankole
 nyo: Nyoro
@@ -401,9 +409,10 @@ pa: Panjabi
 pag: Pangasinan
 pal: Pahlavi
 pam: Pampanga
-pap: Papiamento
+pap: Papiamentu
 pau: Palabhais
 pcd: Picard
+pcm: "Beurla Nig\xE8iriach"
 pdc: Gearmailtis Phennsylvania
 pdt: Plautdietsch
 peo: Seann-Pheirsis
@@ -418,7 +427,7 @@ ps: Pashto
 pt: Portagailis
 pt_BR: Portagailis Bhraisileach
 pt_PT: "Portagailis E\xF2rpach"
-qu: Ceatsua
+qu: Quechua
 quc: "K\u2019iche\u2019"
 qug: "Quichua \xC0rd-t\xECr Chimborazo"
 raj: Rajasthani
@@ -435,11 +444,12 @@ root: Root
 ru: Ruisis
 rue: Rusyn
 rug: Roviana
+rup: Aromanais
 rw: Kinyarwanda
 rwk: Rwa
 sa: Sanskrit
 sad: Sandawe
-sah: Sachais
+sah: Sakha
 sam: Aramais Shamaritanach
 saq: Samburu
 sas: Sasak
@@ -484,15 +494,15 @@ srn: Sranan Tongo
 srr: Serer
 ss: Swati
 ssy: Saho
-st: Leasotach Dheasach
+st: Sesotho
 su: "C\xE0nan Sunda"
 suk: Sukuma
 sus: Susu
 sux: "C\xE0nan Sumer"
 sv: Suainis
 sw: Kiswahili
+sw_CD: Kiswahili na Congo
 swb: Comorais
-swc: Kiswahili na Congo
 syc: Suraidheac Chlasaigeach
 syr: Suraidheac
 ta: Taimilis
@@ -503,7 +513,7 @@ teo: Teso
 ter: "Ter\xEAna"
 tet: Tetum
 tg: Taidigis
-th: "T\xE0idh"
+th: "C\xE0nan nan T\xE0idh"
 ti: Tigrinya
 tig: Tigre
 tiv: Tiv
@@ -516,7 +526,7 @@ tli: Tlingit
 tly: Talysh
 tmh: Tamashek
 tn: Tswana
-to: Tongais
+to: Tonga
 tog: Nyasa Tonga
 tpi: Tok Pisin
 tr: Turcais
@@ -532,7 +542,7 @@ tw: Twi
 twq: Tasawaq
 ty: "C\xE0nan Tahiti"
 tyv: "C\xE0nan Tuva"
-tzm: Tamazight Meadhan na h-Atlas
+tzm: Tamazight an Atlais Mheadhanaich
 udm: Udmurt
 ug: "\xD9igiurais"
 uk: "Ucr\xE0inis"
@@ -564,7 +574,7 @@ yap: "C\xE0nan Yap"
 yav: Yangben
 ybb: Yemba
 yi: "I\xF9dhais"
-yo: Ioruba
+yo: Yoruba
 yrl: Nheengatu
 yue: Cantonais
 za: Zhuang
