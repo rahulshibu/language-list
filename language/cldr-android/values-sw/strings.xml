@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Swahili (sw) -->
+  <!-- aa - Afar -->
+  <string name="lang_aa">Kiafar</string>
+  <!-- ab - Abkhazian -->
+  <string name="lang_ab">Kiabkhazi</string>
+  <!-- ace - Achinese -->
+  <string name="lang_ace">Kiacheni</string>
+  <!-- ach - Acoli -->
+  <string name="lang_ach">Kiakoli</string>
+  <!-- ada - Adangme -->
+  <string name="lang_ada">Kiadangme</string>
+  <!-- ady - Adyghe -->
+  <string name="lang_ady">Kiadyghe</string>
+  <!-- af - Afrikaans -->
+  <string name="lang_af">Kiafrikana</string>
+  <!-- agq - Aghem -->
+  <string name="lang_agq">Kiaghem</string>
+  <!-- ain - Ainu -->
+  <string name="lang_ain">Kiainu</string>
+  <!-- ak - Akan -->
+  <string name="lang_ak">Kiakani</string>
+  <!-- ale - Aleut -->
+  <string name="lang_ale">Kialeut</string>
+  <!-- alt - Southern Altai -->
+  <string name="lang_alt">Kialtai</string>
+  <!-- am - Amharic -->
+  <string name="lang_am">Kiamhari</string>
+  <!-- an - Aragonese -->
+  <string name="lang_an">Kiaragoni</string>
+  <!-- ang - Old English -->
+  <string name="lang_ang">Kiingereza cha Kale</string>
+  <!-- anp - Angika -->
+  <string name="lang_anp">Kiangika</string>
+  <!-- ar - Arabic -->
+  <string name="lang_ar">Kiarabu</string>
+  <!-- ar_001 - Modern Standard Arabic -->
+  <string name="lang_ar_001">Kiarabu Sanifu cha Kisasa</string>
+  <!-- arc - Aramaic -->
+  <string name="lang_arc">Kiaramu</string>
+  <!-- arn - Mapuche -->
+  <string name="lang_arn">Kimapuche</string>
+  <!-- arp - Arapaho -->
+  <string name="lang_arp">Kiarapaho</string>
+  <!-- arq - Algerian Arabic -->
+  <string name="lang_arq">Kiarabu cha Algeria</string>
+  <!-- arz - Egyptian Arabic -->
+  <string name="lang_arz">Kiarabu cha Misri</string>
+  <!-- as - Assamese -->
+  <string name="lang_as">Kiassam</string>
+  <!-- asa - Asu -->
+  <string name="lang_asa">Kiasu</string>
+  <!-- ast - Asturian -->
+  <string name="lang_ast">Kiasturia</string>
+  <!-- av - Avaric -->
+  <string name="lang_av">Kiavari</string>
+  <!-- awa - Awadhi -->
+  <string name="lang_awa">Kiawadhi</string>
+  <!-- ay - Aymara -->
+  <string name="lang_ay">Kiaymara</string>
+  <!-- az - Azerbaijani -->
+  <string name="lang_az">Kiazerbaijani</string>
+  <!-- ba - Bashkir -->
+  <string name="lang_ba">Kibashkir</string>
+  <!-- ban - Balinese -->
+  <string name="lang_ban">Kibali</string>
+  <!-- bas - Basaa -->
+  <string name="lang_bas">Kibasaa</string>
+  <!-- bax - Bamun -->
+  <string name="lang_bax">Kibamun</string>
+  <!-- bbj - Ghomala -->
+  <string name="lang_bbj">Kighomala</string>
+  <!-- be - Belarusian -->
+  <string name="lang_be">Kibelarusi</string>
+  <!-- bej - Beja -->
+  <string name="lang_bej">Kibeja</string>
+  <!-- bem - Bemba -->
+  <string name="lang_bem">Kibemba</string>
+  <!-- bez - Bena -->
+  <string name="lang_bez">Kibena</string>
+  <!-- bfd - Bafut -->
+  <string name="lang_bfd">Kibafut</string>
+  <!-- bg - Bulgarian -->
+  <string name="lang_bg">Kibulgaria</string>
+  <!-- bgn - Western Balochi -->
+  <string name="lang_bgn">Kibalochi cha Magharibi</string>
+  <!-- bho - Bhojpuri -->
+  <string name="lang_bho">Kibhojpuri</string>
+  <!-- bi - Bislama -->
+  <string name="lang_bi">Kibislama</string>
+  <!-- bin - Bini -->
+  <string name="lang_bin">Kibini</string>
+  <!-- bkm - Kom -->
+  <string name="lang_bkm">Kikom</string>
+  <!-- bla - Siksika -->
+  <string name="lang_bla">Kisiksika</string>
+  <!-- bm - Bambara -->
+  <string name="lang_bm">Kibambara</string>
+  <!-- bn - Bangla -->
+  <string name="lang_bn">Kibengali</string>
+  <!-- bo - Tibetan -->
+  <string name="lang_bo">Kitibeti</string>
+  <!-- br - Breton -->
+  <string name="lang_br">Kibretoni</string>
+  <!-- brx - Bodo -->
+  <string name="lang_brx">Kibodo</string>
+  <!-- bs - Bosnian -->
+  <string name="lang_bs">Kibosnia</string>
+  <!-- bug - Buginese -->
+  <string name="lang_bug">Lugha ya Buginese</string>
+  <!-- bum - Bulu -->
+  <string name="lang_bum">Kibulu</string>
+  <!-- byn - Blin -->
+  <string name="lang_byn">Kiblin</string>
+  <!-- byv - Medumba -->
+  <string name="lang_byv">Kimedumba</string>
+  <!-- ca - Catalan -->
+  <string name="lang_ca">Kikatalani</string>
+  <!-- ce - Chechen -->
+  <string name="lang_ce">Kichechenia</string>
+  <!-- ceb - Cebuano -->
+  <string name="lang_ceb">Kichebuano</string>
+  <!-- cgg - Chiga -->
+  <string name="lang_cgg">Kichiga</string>
+  <!-- ch - Chamorro -->
+  <string name="lang_ch">Kichamorro</string>
+  <!-- chk - Chuukese -->
+  <string name="lang_chk">Kichukisi</string>
+  <!-- chm - Mari -->
+  <string name="lang_chm">Kimari</string>
+  <!-- cho - Choctaw -->
+  <string name="lang_cho">Kichoktao</string>
+  <!-- chr - Cherokee -->
+  <string name="lang_chr">Kicherokee</string>
+  <!-- chy - Cheyenne -->
+  <string name="lang_chy">Kicheyeni</string>
+  <!-- ckb - Central Kurdish -->
+  <string name="lang_ckb">Kikurdi cha Sorani</string>
+  <!-- co - Corsican -->
+  <string name="lang_co">Kikosikani</string>
+  <!-- cop - Coptic -->
+  <string name="lang_cop">Kikhufti</string>
+  <!-- crs - Seselwa Creole French -->
+  <string name="lang_crs">Krioli ya Shelisheli</string>
+  <!-- cs - Czech -->
+  <string name="lang_cs">Kicheki</string>
+  <!-- cu - Church Slavic -->
+  <string name="lang_cu">Kislovakia cha Church</string>
+  <!-- cv - Chuvash -->
+  <string name="lang_cv">Kichuvash</string>
+  <!-- cy - Welsh -->
+  <string name="lang_cy">Kiwelisi</string>
+  <!-- da - Danish -->
+  <string name="lang_da">Kidenmaki</string>
+  <!-- dak - Dakota -->
+  <string name="lang_dak">Kidakota</string>
+  <!-- dar - Dargwa -->
+  <string name="lang_dar">Kidaragwa</string>
+  <!-- dav - Taita -->
+  <string name="lang_dav">Kitaita</string>
+  <!-- de - German -->
+  <string name="lang_de">Kijerumani</string>
+  <!-- dgr - Dogrib -->
+  <string name="lang_dgr">Kidogrib</string>
+  <!-- dje - Zarma -->
+  <string name="lang_dje">Kizarma</string>
+  <!-- dsb - Lower Sorbian -->
+  <string name="lang_dsb">Kidolnoserbski</string>
+  <!-- dua - Duala -->
+  <string name="lang_dua">Kiduala</string>
+  <!-- dv - Divehi -->
+  <string name="lang_dv">Kidivehi</string>
+  <!-- dyo - Jola-Fonyi -->
+  <string name="lang_dyo">Kijola-Fonyi</string>
+  <!-- dyu - Dyula -->
+  <string name="lang_dyu">Kijula</string>
+  <!-- dz - Dzongkha -->
+  <string name="lang_dz">Kizongkha</string>
+  <!-- dzg - Dazaga -->
+  <string name="lang_dzg">Kidazaga</string>
+  <!-- ebu - Embu -->
+  <string name="lang_ebu">Kiembu</string>
+  <!-- ee - Ewe -->
+  <string name="lang_ee">Kiewe</string>
+  <!-- efi - Efik -->
+  <string name="lang_efi">Kiefiki</string>
+  <!-- egy - Ancient Egyptian -->
+  <string name="lang_egy">Kimisri</string>
+  <!-- eka - Ekajuk -->
+  <string name="lang_eka">Kiekajuk</string>
+  <!-- el - Greek -->
+  <string name="lang_el">Kigiriki</string>
+  <!-- en - English -->
+  <string name="lang_en">Kiingereza</string>
+  <!-- en_CA - Canadian English -->
+  <string name="lang_en_ca">Kiingereza (Canada)</string>
+  <!-- eo - Esperanto -->
+  <string name="lang_eo">Kiesperanto</string>
+  <!-- es - Spanish -->
+  <string name="lang_es">Kihispania</string>
+  <!-- es_ES - European Spanish -->
+  <string name="lang_es_es">Kihispania (Uhispania)</string>
+  <!-- es_MX - Mexican Spanish -->
+  <string name="lang_es_mx">Kihispania (Mexico)</string>
+  <!-- et - Estonian -->
+  <string name="lang_et">Kiestonia</string>
+  <!-- eu - Basque -->
+  <string name="lang_eu">Kibasque</string>
+  <!-- ewo - Ewondo -->
+  <string name="lang_ewo">Kiewondo</string>
+  <!-- fa - Persian -->
+  <string name="lang_fa">Kiajemi</string>
+  <!-- ff - Fulah -->
+  <string name="lang_ff">Kifula</string>
+  <!-- fi - Finnish -->
+  <string name="lang_fi">Kifini</string>
+  <!-- fil - Filipino -->
+  <string name="lang_fil">Kifilipino</string>
+  <!-- fj - Fijian -->
+  <string name="lang_fj">Kifiji</string>
+  <!-- fo - Faroese -->
+  <string name="lang_fo">Kifaroe</string>
+  <!-- fon - Fon -->
+  <string name="lang_fon">Kifon</string>
+  <!-- fr - French -->
+  <string name="lang_fr">Kifaransa</string>
+  <!-- fr_CA - Canadian French -->
+  <string name="lang_fr_ca">Kifaransa (Canada)</string>
+  <!-- fro - Old French -->
+  <string name="lang_fro">Kifaransa cha Kale</string>
+  <!-- frr - Northern Frisian -->
+  <string name="lang_frr">Kifrisia cha Kaskazini</string>
+  <!-- frs - Eastern Frisian -->
+  <string name="lang_frs">Kifrisia cha Mashariki</string>
+  <!-- fur - Friulian -->
+  <string name="lang_fur">Kifriulian</string>
+  <!-- fy - Western Frisian -->
+  <string name="lang_fy">Kifrisia cha Magharibi</string>
+  <!-- ga - Irish -->
+  <string name="lang_ga">Kiayalandi</string>
+  <!-- gaa - Ga -->
+  <string name="lang_gaa">Kiga</string>
+  <!-- gag - Gagauz -->
+  <string name="lang_gag">Kigagauz</string>
+  <!-- gba - Gbaya -->
+  <string name="lang_gba">Kigbaya</string>
+  <!-- gd - Scottish Gaelic -->
+  <string name="lang_gd">Kigaeli cha Uskoti</string>
+  <!-- gez - Geez -->
+  <string name="lang_gez">Kige’ez</string>
+  <!-- gil - Gilbertese -->
+  <string name="lang_gil">Kikiribati</string>
+  <!-- gl - Galician -->
+  <string name="lang_gl">Kigalisi</string>
+  <!-- gn - Guarani -->
+  <string name="lang_gn">Kiguarani</string>
+  <!-- gor - Gorontalo -->
+  <string name="lang_gor">Kigorontalo</string>
+  <!-- grc - Ancient Greek -->
+  <string name="lang_grc">Kiyunani</string>
+  <!-- gsw - Swiss German -->
+  <string name="lang_gsw">Kijerumani cha Uswisi</string>
+  <!-- gu - Gujarati -->
+  <string name="lang_gu">Kigujarati</string>
+  <!-- guz - Gusii -->
+  <string name="lang_guz">Kikisii</string>
+  <!-- gv - Manx -->
+  <string name="lang_gv">Kimanx</string>
+  <!-- gwi - Gwichʼin -->
+  <string name="lang_gwi">Gwichʼin</string>
+  <!-- ha - Hausa -->
+  <string name="lang_ha">Kihausa</string>
+  <!-- haw - Hawaiian -->
+  <string name="lang_haw">Kihawai</string>
+  <!-- he - Hebrew -->
+  <string name="lang_he">Kiebrania</string>
+  <!-- hi - Hindi -->
+  <string name="lang_hi">Kihindi</string>
+  <!-- hil - Hiligaynon -->
+  <string name="lang_hil">Kihiligaynon</string>
+  <!-- hit - Hittite -->
+  <string name="lang_hit">Kihiti</string>
+  <!-- hmn - Hmong -->
+  <string name="lang_hmn">Kihmong</string>
+  <!-- hr - Croatian -->
+  <string name="lang_hr">Kikroeshia</string>
+  <!-- hsb - Upper Sorbian -->
+  <string name="lang_hsb">Kisobia cha Ukanda wa Juu</string>
+  <!-- ht - Haitian Creole -->
+  <string name="lang_ht">Kihaiti</string>
+  <!-- hu - Hungarian -->
+  <string name="lang_hu">Kihangari</string>
+  <!-- hup - Hupa -->
+  <string name="lang_hup">Hupa</string>
+  <!-- hy - Armenian -->
+  <string name="lang_hy">Kiarmenia</string>
+  <!-- hz - Herero -->
+  <string name="lang_hz">Kiherero</string>
+  <!-- ia - Interlingua -->
+  <string name="lang_ia">Kiintalingua</string>
+  <!-- iba - Iban -->
+  <string name="lang_iba">Kiiban</string>
+  <!-- ibb - Ibibio -->
+  <string name="lang_ibb">Kiibibio</string>
+  <!-- id - Indonesian -->
+  <string name="lang_id">Kiindonesia</string>
+  <!-- ie - Interlingue -->
+  <string name="lang_ie">lugha ya kisayansi</string>
+  <!-- ig - Igbo -->
+  <string name="lang_ig">Kiigbo</string>
+  <!-- ii - Sichuan Yi -->
+  <string name="lang_ii">Sichuan Yi</string>
+  <!-- ilo - Iloko -->
+  <string name="lang_ilo">Kiilocano</string>
+  <!-- inh - Ingush -->
+  <string name="lang_inh">Ingush</string>
+  <!-- io - Ido -->
+  <string name="lang_io">Kiido</string>
+  <!-- is - Icelandic -->
+  <string name="lang_is">Kiaisilandi</string>
+  <!-- it - Italian -->
+  <string name="lang_it">Kiitaliano</string>
+  <!-- iu - Inuktitut -->
+  <string name="lang_iu">Kiinuktitut</string>
+  <!-- ja - Japanese -->
+  <string name="lang_ja">Kijapani</string>
+  <!-- jbo - Lojban -->
+  <string name="lang_jbo">Lojban</string>
+  <!-- jgo - Ngomba -->
+  <string name="lang_jgo">Kingomba</string>
+  <!-- jmc - Machame -->
+  <string name="lang_jmc">Kimachame</string>
+  <!-- jv - Javanese -->
+  <string name="lang_jv">Kijava</string>
+  <!-- ka - Georgian -->
+  <string name="lang_ka">Kijojia</string>
+  <!-- kab - Kabyle -->
+  <string name="lang_kab">Kikabylia</string>
+  <!-- kac - Kachin -->
+  <string name="lang_kac">Kachin</string>
+  <!-- kaj - Jju -->
+  <string name="lang_kaj">Kijju</string>
+  <!-- kam - Kamba -->
+  <string name="lang_kam">Kikamba</string>
+  <!-- kbd - Kabardian -->
+  <string name="lang_kbd">Kikabardian</string>
+  <!-- kbl - Kanembu -->
+  <string name="lang_kbl">Kikanembu</string>
+  <!-- kcg - Tyap -->
+  <string name="lang_kcg">Kityap</string>
+  <!-- kde - Makonde -->
+  <string name="lang_kde">Kimakonde</string>
+  <!-- kea - Kabuverdianu -->
+  <string name="lang_kea">Kikabuverdianu</string>
+  <!-- kfo - Koro -->
+  <string name="lang_kfo">Kikoro</string>
+  <!-- kg - Kongo -->
+  <string name="lang_kg">Kikongo</string>
+  <!-- kha - Khasi -->
+  <string name="lang_kha">Kikhasi</string>
+  <!-- khq - Koyra Chiini -->
+  <string name="lang_khq">Koyra Chiini</string>
+  <!-- ki - Kikuyu -->
+  <string name="lang_ki">Kikikuyu</string>
+  <!-- kj - Kuanyama -->
+  <string name="lang_kj">Kikwanyama</string>
+  <!-- kk - Kazakh -->
+  <string name="lang_kk">Kikazakh</string>
+  <!-- kkj - Kako -->
+  <string name="lang_kkj">Lugha ya Kako</string>
+  <!-- kl - Kalaallisut -->
+  <string name="lang_kl">Kikalaallisut</string>
+  <!-- kln - Kalenjin -->
+  <string name="lang_kln">Kikalenjin</string>
+  <!-- km - Khmer -->
+  <string name="lang_km">Kikambodia</string>
+  <!-- kmb - Kimbundu -->
+  <string name="lang_kmb">Kimbundu</string>
+  <!-- kn - Kannada -->
+  <string name="lang_kn">Kikannada</string>
+  <!-- ko - Korean -->
+  <string name="lang_ko">Kikorea</string>
+  <!-- koi - Komi-Permyak -->
+  <string name="lang_koi">Kikomi-Permyak</string>
+  <!-- kok - Konkani -->
+  <string name="lang_kok">Kikonkani</string>
+  <!-- kpe - Kpelle -->
+  <string name="lang_kpe">Kikpelle</string>
+  <!-- kr - Kanuri -->
+  <string name="lang_kr">Kikanuri</string>
+  <!-- krc - Karachay-Balkar -->
+  <string name="lang_krc">Kikarachay-Balkar</string>
+  <!-- krl - Karelian -->
+  <string name="lang_krl">Karjala</string>
+  <!-- kru - Kurukh -->
+  <string name="lang_kru">Kurukh</string>
+  <!-- ks - Kashmiri -->
+  <string name="lang_ks">Kikashmiri</string>
+  <!-- ksb - Shambala -->
+  <string name="lang_ksb">Kisambaa</string>
+  <!-- ksf - Bafia -->
+  <string name="lang_ksf">Kibafia</string>
+  <!-- ksh - Colognian -->
+  <string name="lang_ksh">Kicologne</string>
+  <!-- ku - Kurdish -->
+  <string name="lang_ku">Kikurdi</string>
+  <!-- kum - Kumyk -->
+  <string name="lang_kum">Kumyk</string>
+  <!-- kv - Komi -->
+  <string name="lang_kv">Kikomi</string>
+  <!-- kw - Cornish -->
+  <string name="lang_kw">Kikorni</string>
+  <!-- ky - Kyrgyz -->
+  <string name="lang_ky">Kikyrgyz</string>
+  <!-- la - Latin -->
+  <string name="lang_la">Kilatini</string>
+  <!-- lad - Ladino -->
+  <string name="lang_lad">Kiladino</string>
+  <!-- lag - Langi -->
+  <string name="lang_lag">Kirangi</string>
+  <!-- lam - Lamba -->
+  <string name="lang_lam">Lamba</string>
+  <!-- lb - Luxembourgish -->
+  <string name="lang_lb">Kilasembagi</string>
+  <!-- lez - Lezghian -->
+  <string name="lang_lez">Kilezighian</string>
+  <!-- lg - Ganda -->
+  <string name="lang_lg">Kiganda</string>
+  <!-- li - Limburgish -->
+  <string name="lang_li">Limburgish</string>
+  <!-- lkt - Lakota -->
+  <string name="lang_lkt">Kilakota</string>
+  <!-- ln - Lingala -->
+  <string name="lang_ln">Kilingala</string>
+  <!-- lo - Lao -->
+  <string name="lang_lo">Kilaosi</string>
+  <!-- lol - Mongo -->
+  <string name="lang_lol">Kimongo</string>
+  <!-- loz - Lozi -->
+  <string name="lang_loz">Kilozi</string>
+  <!-- lrc - Northern Luri -->
+  <string name="lang_lrc">Kiluri cha Kaskazini</string>
+  <!-- lt - Lithuanian -->
+  <string name="lang_lt">Kilithuania</string>
+  <!-- lu - Luba-Katanga -->
+  <string name="lang_lu">Kiluba-Katanga</string>
+  <!-- lua - Luba-Lulua -->
+  <string name="lang_lua">Kiluba-Lulua</string>
+  <!-- lun - Lunda -->
+  <string name="lang_lun">Kilunda</string>
+  <!-- luo - Luo -->
+  <string name="lang_luo">Kijaluo</string>
+  <!-- lus - Mizo -->
+  <string name="lang_lus">Kimizo</string>
+  <!-- luy - Luyia -->
+  <string name="lang_luy">Kiluhya</string>
+  <!-- lv - Latvian -->
+  <string name="lang_lv">Kilatvia</string>
+  <!-- mad - Madurese -->
+  <string name="lang_mad">Kimadura</string>
+  <!-- maf - Mafa -->
+  <string name="lang_maf">Kimafa</string>
+  <!-- mag - Magahi -->
+  <string name="lang_mag">Kimagahi</string>
+  <!-- mai - Maithili -->
+  <string name="lang_mai">Kimaithili</string>
+  <!-- mak - Makasar -->
+  <string name="lang_mak">Kimakasar</string>
+  <!-- mas - Masai -->
+  <string name="lang_mas">Kimaasai</string>
+  <!-- mde - Maba -->
+  <string name="lang_mde">Kimaba</string>
+  <!-- mdf - Moksha -->
+  <string name="lang_mdf">Lugha ya Moksha</string>
+  <!-- men - Mende -->
+  <string name="lang_men">Kimende</string>
+  <!-- mer - Meru -->
+  <string name="lang_mer">Kimeru</string>
+  <!-- mfe - Morisyen -->
+  <string name="lang_mfe">Kimoriseni</string>
+  <!-- mg - Malagasy -->
+  <string name="lang_mg">Kimalagasi</string>
+  <!-- mgh - Makhuwa-Meetto -->
+  <string name="lang_mgh">Kimakhuwa-Meetto</string>
+  <!-- mgo - Metaʼ -->
+  <string name="lang_mgo">Kimeta</string>
+  <!-- mh - Marshallese -->
+  <string name="lang_mh">Kimashale</string>
+  <!-- mi - Maori -->
+  <string name="lang_mi">Kimaori</string>
+  <!-- mic - Mi'kmaq -->
+  <string name="lang_mic">Mi’kmaq</string>
+  <!-- min - Minangkabau -->
+  <string name="lang_min">Kiminangkabau</string>
+  <!-- mk - Macedonian -->
+  <string name="lang_mk">Kimacedonia</string>
+  <!-- ml - Malayalam -->
+  <string name="lang_ml">Kimalayalam</string>
+  <!-- mn - Mongolian -->
+  <string name="lang_mn">Kimongolia</string>
+  <!-- mni - Manipuri -->
+  <string name="lang_mni">Kimanipuri</string>
+  <!-- moh - Mohawk -->
+  <string name="lang_moh">Lugha ya Mohawk</string>
+  <!-- mos - Mossi -->
+  <string name="lang_mos">Kimoore</string>
+  <!-- mr - Marathi -->
+  <string name="lang_mr">Kimarathi</string>
+  <!-- ms - Malay -->
+  <string name="lang_ms">Kimalei</string>
+  <!-- mt - Maltese -->
+  <string name="lang_mt">Kimalta</string>
+  <!-- mua - Mundang -->
+  <string name="lang_mua">Kimundang</string>
+  <!-- mul - Multiple languages -->
+  <string name="lang_mul">Lugha Nyingi</string>
+  <!-- mus - Creek -->
+  <string name="lang_mus">Kikriki</string>
+  <!-- mwl - Mirandese -->
+  <string name="lang_mwl">Kimirandi</string>
+  <!-- my - Burmese -->
+  <string name="lang_my">Kiburma</string>
+  <!-- myv - Erzya -->
+  <string name="lang_myv">Kierzya</string>
+  <!-- mzn - Mazanderani -->
+  <string name="lang_mzn">Kimazanderani</string>
+  <!-- na - Nauru -->
+  <string name="lang_na">Kinauru</string>
+  <!-- nap - Neapolitan -->
+  <string name="lang_nap">Kinapoli</string>
+  <!-- naq - Nama -->
+  <string name="lang_naq">Kinama</string>
+  <!-- nb - Norwegian Bokmål -->
+  <string name="lang_nb">Kinorwe cha Bokmål</string>
+  <!-- nd - North Ndebele -->
+  <string name="lang_nd">Kindebele cha Kaskazini</string>
+  <!-- nds - Low German -->
+  <string name="lang_nds">Kisaksoni</string>
+  <!-- ne - Nepali -->
+  <string name="lang_ne">Kinepali</string>
+  <!-- new - Newari -->
+  <string name="lang_new">Kinewari</string>
+  <!-- ng - Ndonga -->
+  <string name="lang_ng">Kindonga</string>
+  <!-- nia - Nias -->
+  <string name="lang_nia">Kiniasi</string>
+  <!-- niu - Niuean -->
+  <string name="lang_niu">Kiniuea</string>
+  <!-- nl - Dutch -->
+  <string name="lang_nl">Kiholanzi</string>
+  <!-- nl_BE - Flemish -->
+  <string name="lang_nl_be">Kiflemi</string>
+  <!-- nmg - Kwasio -->
+  <string name="lang_nmg">Kikwasio</string>
+  <!-- nn - Norwegian Nynorsk -->
+  <string name="lang_nn">Kinorwe cha Nynorsk</string>
+  <!-- nnh - Ngiemboon -->
+  <string name="lang_nnh">Lugha ya Ngiemboon</string>
+  <!-- no - Norwegian -->
+  <string name="lang_no">Kinorwe</string>
+  <!-- nog - Nogai -->
+  <string name="lang_nog">Kinogai</string>
+  <!-- nqo - N’Ko -->
+  <string name="lang_nqo">N’Ko</string>
+  <!-- nr - South Ndebele -->
+  <string name="lang_nr">Kindebele</string>
+  <!-- nso - Northern Sotho -->
+  <string name="lang_nso">Kisotho cha Kaskazini</string>
+  <!-- nus - Nuer -->
+  <string name="lang_nus">Kinuer</string>
+  <!-- nv - Navajo -->
+  <string name="lang_nv">Kinavajo</string>
+  <!-- nwc - Classical Newari -->
+  <string name="lang_nwc">Kinewari cha kale</string>
+  <!-- ny - Nyanja -->
+  <string name="lang_ny">Kinyanja</string>
+  <!-- nym - Nyamwezi -->
+  <string name="lang_nym">Kinyamwezi</string>
+  <!-- nyn - Nyankole -->
+  <string name="lang_nyn">Kinyankole</string>
+  <!-- nyo - Nyoro -->
+  <string name="lang_nyo">Kinyoro</string>
+  <!-- nzi - Nzima -->
+  <string name="lang_nzi">Kinzema</string>
+  <!-- oc - Occitan -->
+  <string name="lang_oc">Kiokitani</string>
+  <!-- om - Oromo -->
+  <string name="lang_om">Kioromo</string>
+  <!-- or - Odia -->
+  <string name="lang_or">Kioriya</string>
+  <!-- os - Ossetic -->
+  <string name="lang_os">Kiosetia</string>
+  <!-- pa - Punjabi -->
+  <string name="lang_pa">Kipunjabi</string>
+  <!-- pag - Pangasinan -->
+  <string name="lang_pag">Kipangasinan</string>
+  <!-- pam - Pampanga -->
+  <string name="lang_pam">Kipampanga</string>
+  <!-- pap - Papiamento -->
+  <string name="lang_pap">Kipapiamento</string>
+  <!-- pau - Palauan -->
+  <string name="lang_pau">Kipalau</string>
+  <!-- pcm - Nigerian Pidgin -->
+  <string name="lang_pcm">Pijini ya Nigeria</string>
+  <!-- peo - Old Persian -->
+  <string name="lang_peo">Kiajemi cha Kale</string>
+  <!-- pl - Polish -->
+  <string name="lang_pl">Kipolandi</string>
+  <!-- prg - Prussian -->
+  <string name="lang_prg">Kiprussia</string>
+  <!-- ps - Pashto -->
+  <string name="lang_ps">Kipashto</string>
+  <!-- pt - Portuguese -->
+  <string name="lang_pt">Kireno</string>
+  <!-- pt_BR - Brazilian Portuguese -->
+  <string name="lang_pt_br">Kireno (Brazil)</string>
+  <!-- qu - Quechua -->
+  <string name="lang_qu">Kiquechua</string>
+  <!-- quc - Kʼicheʼ -->
+  <string name="lang_quc">Kʼicheʼ</string>
+  <!-- rap - Rapanui -->
+  <string name="lang_rap">Kirapanui</string>
+  <!-- rar - Rarotongan -->
+  <string name="lang_rar">Kirarotonga</string>
+  <!-- rm - Romansh -->
+  <string name="lang_rm">Kiromanshi</string>
+  <!-- rn - Rundi -->
+  <string name="lang_rn">Kirundi</string>
+  <!-- ro - Romanian -->
+  <string name="lang_ro">Kiromania</string>
+  <!-- rof - Rombo -->
+  <string name="lang_rof">Kirombo</string>
+  <!-- root - Root -->
+  <string name="lang_root">Root</string>
+  <!-- ru - Russian -->
+  <string name="lang_ru">Kirusi</string>
+  <!-- rup - Aromanian -->
+  <string name="lang_rup">Kiaromania</string>
+  <!-- rw - Kinyarwanda -->
+  <string name="lang_rw">Kinyarwanda</string>
+  <!-- rwk - Rwa -->
+  <string name="lang_rwk">Kirwa</string>
+  <!-- sa - Sanskrit -->
+  <string name="lang_sa">Kisanskriti</string>
+  <!-- sad - Sandawe -->
+  <string name="lang_sad">Kisandawe</string>
+  <!-- sah - Sakha -->
+  <string name="lang_sah">Kisakha</string>
+  <!-- sam - Samaritan Aramaic -->
+  <string name="lang_sam">Kiaramu cha Wasamaria</string>
+  <!-- saq - Samburu -->
+  <string name="lang_saq">Kisamburu</string>
+  <!-- sat - Santali -->
+  <string name="lang_sat">Kisantali</string>
+  <!-- sba - Ngambay -->
+  <string name="lang_sba">Kingambay</string>
+  <!-- sbp - Sangu -->
+  <string name="lang_sbp">Kisangu</string>
+  <!-- sc - Sardinian -->
+  <string name="lang_sc">Kisardinia</string>
+  <!-- scn - Sicilian -->
+  <string name="lang_scn">Kisicilia</string>
+  <!-- sco - Scots -->
+  <string name="lang_sco">Kiskoti</string>
+  <!-- sd - Sindhi -->
+  <string name="lang_sd">Kisindhi</string>
+  <!-- sdh - Southern Kurdish -->
+  <string name="lang_sdh">Kikurdi cha Kusini</string>
+  <!-- se - Northern Sami -->
+  <string name="lang_se">Kisami cha Kaskazini</string>
+  <!-- seh - Sena -->
+  <string name="lang_seh">Kisena</string>
+  <!-- ses - Koyraboro Senni -->
+  <string name="lang_ses">Koyraboro Senni</string>
+  <!-- sg - Sango -->
+  <string name="lang_sg">Kisango</string>
+  <!-- sh - Serbo-Croatian -->
+  <string name="lang_sh">Kiserbia-kroeshia</string>
+  <!-- shi - Tachelhit -->
+  <string name="lang_shi">Kitachelhit</string>
+  <!-- shn - Shan -->
+  <string name="lang_shn">Kishan</string>
+  <!-- shu - Chadian Arabic -->
+  <string name="lang_shu">Kiarabu cha Chad</string>
+  <!-- si - Sinhala -->
+  <string name="lang_si">Kisinhala</string>
+  <!-- sk - Slovak -->
+  <string name="lang_sk">Kislovakia</string>
+  <!-- sl - Slovenian -->
+  <string name="lang_sl">Kislovenia</string>
+  <!-- sm - Samoan -->
+  <string name="lang_sm">Kisamoa</string>
+  <!-- sma - Southern Sami -->
+  <string name="lang_sma">Kisami cha Kusini</string>
+  <!-- smj - Lule Sami -->
+  <string name="lang_smj">Kisami cha Lule</string>
+  <!-- smn - Inari Sami -->
+  <string name="lang_smn">Kisami cha Inari</string>
+  <!-- sms - Skolt Sami -->
+  <string name="lang_sms">Kisami cha Skolt</string>
+  <!-- sn - Shona -->
+  <string name="lang_sn">Kishona</string>
+  <!-- snk - Soninke -->
+  <string name="lang_snk">Kisoninke</string>
+  <!-- so - Somali -->
+  <string name="lang_so">Kisomali</string>
+  <!-- sq - Albanian -->
+  <string name="lang_sq">Kialbania</string>
+  <!-- sr - Serbian -->
+  <string name="lang_sr">Kiserbia</string>
+  <!-- srn - Sranan Tongo -->
+  <string name="lang_srn">Lugha ya Sranan Tongo</string>
+  <!-- ss - Swati -->
+  <string name="lang_ss">Kiswati</string>
+  <!-- ssy - Saho -->
+  <string name="lang_ssy">Kisaho</string>
+  <!-- st - Southern Sotho -->
+  <string name="lang_st">Kisotho</string>
+  <!-- su - Sundanese -->
+  <string name="lang_su">Kisunda</string>
+  <!-- suk - Sukuma -->
+  <string name="lang_suk">Kisukuma</string>
+  <!-- sus - Susu -->
+  <string name="lang_sus">Kisusu</string>
+  <!-- sv - Swedish -->
+  <string name="lang_sv">Kiswidi</string>
+  <!-- sw - Swahili -->
+  <string name="lang_sw">Kiswahili</string>
+  <!-- sw_CD - Congo Swahili -->
+  <string name="lang_sw_cd">Kingwana</string>
+  <!-- swb - Comorian -->
+  <string name="lang_swb">Shikomor</string>
+  <!-- syr - Syriac -->
+  <string name="lang_syr">Lugha ya Syriac</string>
+  <!-- ta - Tamil -->
+  <string name="lang_ta">Kitamil</string>
+  <!-- te - Telugu -->
+  <string name="lang_te">Kitelugu</string>
+  <!-- tem - Timne -->
+  <string name="lang_tem">Kitemne</string>
+  <!-- teo - Teso -->
+  <string name="lang_teo">Kiteso</string>
+  <!-- tet - Tetum -->
+  <string name="lang_tet">Kitetum</string>
+  <!-- tg - Tajik -->
+  <string name="lang_tg">Kitajiki</string>
+  <!-- th - Thai -->
+  <string name="lang_th">Kitailandi</string>
+  <!-- ti - Tigrinya -->
+  <string name="lang_ti">Kitigrinya</string>
+  <!-- tig - Tigre -->
+  <string name="lang_tig">Kitigre</string>
+  <!-- tk - Turkmen -->
+  <string name="lang_tk">Kiturukimeni</string>
+  <!-- tlh - Klingon -->
+  <string name="lang_tlh">Kiklingoni</string>
+  <!-- tn - Tswana -->
+  <string name="lang_tn">Kitswana</string>
+  <!-- to - Tongan -->
+  <string name="lang_to">Kitonga</string>
+  <!-- tpi - Tok Pisin -->
+  <string name="lang_tpi">Kitokpisin</string>
+  <!-- tr - Turkish -->
+  <string name="lang_tr">Kituruki</string>
+  <!-- trv - Taroko -->
+  <string name="lang_trv">Kitaroko</string>
+  <!-- ts - Tsonga -->
+  <string name="lang_ts">Kitsonga</string>
+  <!-- tt - Tatar -->
+  <string name="lang_tt">Kitatari</string>
+  <!-- tum - Tumbuka -->
+  <string name="lang_tum">Kitumbuka</string>
+  <!-- tvl - Tuvalu -->
+  <string name="lang_tvl">Kituvalu</string>
+  <!-- tw - Twi -->
+  <string name="lang_tw">Twi</string>
+  <!-- twq - Tasawaq -->
+  <string name="lang_twq">Kitasawaq</string>
+  <!-- ty - Tahitian -->
+  <string name="lang_ty">Kitahiti</string>
+  <!-- tyv - Tuvinian -->
+  <string name="lang_tyv">Kituva</string>
+  <!-- tzm - Central Atlas Tamazight -->
+  <string name="lang_tzm">Central Atlas Tamazight</string>
+  <!-- udm - Udmurt -->
+  <string name="lang_udm">Udmurt</string>
+  <!-- ug - Uyghur -->
+  <string name="lang_ug">Kiuyghur</string>
+  <!-- uk - Ukrainian -->
+  <string name="lang_uk">Kiukraine</string>
+  <!-- umb - Umbundu -->
+  <string name="lang_umb">Umbundu</string>
+  <!-- und - Unknown language -->
+  <string name="lang_und">Lugha Isiyojulikana</string>
+  <!-- ur - Urdu -->
+  <string name="lang_ur">Kiurdu</string>
+  <!-- uz - Uzbek -->
+  <string name="lang_uz">Kiuzbeki</string>
+  <!-- vai - Vai -->
+  <string name="lang_vai">Kivai</string>
+  <!-- ve - Venda -->
+  <string name="lang_ve">Kivenda</string>
+  <!-- vi - Vietnamese -->
+  <string name="lang_vi">Kivietinamu</string>
+  <!-- vo - Volapük -->
+  <string name="lang_vo">Kivolapük</string>
+  <!-- vun - Vunjo -->
+  <string name="lang_vun">Kivunjo</string>
+  <!-- wa - Walloon -->
+  <string name="lang_wa">Walloon</string>
+  <!-- wae - Walser -->
+  <string name="lang_wae">Walser</string>
+  <!-- wal - Wolaytta -->
+  <string name="lang_wal">Kiwolaytta</string>
+  <!-- war - Waray -->
+  <string name="lang_war">Kiwaray</string>
+  <!-- wbp - Warlpiri -->
+  <string name="lang_wbp">Kiwarlpiri</string>
+  <!-- wo - Wolof -->
+  <string name="lang_wo">Lugha ya Wolof</string>
+  <!-- xal - Kalmyk -->
+  <string name="lang_xal">Kikalmyk</string>
+  <!-- xh - Xhosa -->
+  <string name="lang_xh">Kixhosa</string>
+  <!-- xog - Soga -->
+  <string name="lang_xog">Kisoga</string>
+  <!-- yao - Yao -->
+  <string name="lang_yao">Kiyao</string>
+  <!-- yav - Yangben -->
+  <string name="lang_yav">Kiyangben</string>
+  <!-- ybb - Yemba -->
+  <string name="lang_ybb">Kiyemba</string>
+  <!-- yi - Yiddish -->
+  <string name="lang_yi">Kiyiddi</string>
+  <!-- yo - Yoruba -->
+  <string name="lang_yo">Kiyoruba</string>
+  <!-- yue - Cantonese -->
+  <string name="lang_yue">Kikantoni</string>
+  <!-- zgh - Standard Moroccan Tamazight -->
+  <string name="lang_zgh">Tamaziti Sanifu ya Kimoroko</string>
+  <!-- zh - Chinese -->
+  <string name="lang_zh">Kichina</string>
+  <!-- zh_Hans - Simplified Chinese -->
+  <string name="lang_zh_hans">Kichina (Kilichorahisishwa)</string>
+  <!-- zh_Hant - Traditional Chinese -->
+  <string name="lang_zh_hant">Kichina cha Jadi</string>
+  <!-- zu - Zulu -->
+  <string name="lang_zu">Kizulu</string>
+  <!-- zun - Zuni -->
+  <string name="lang_zun">Kizuni</string>
+  <!-- zxx - No linguistic content -->
+  <string name="lang_zxx">Hakuna maudhui ya lugha</string>
+  <!-- zza - Zaza -->
+  <string name="lang_zza">Kizaza</string>
+</resources>

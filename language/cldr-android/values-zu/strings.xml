@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Zulu (zu) -->
+  <!-- aa - Afar -->
+  <string name="lang_aa">isi-Afar</string>
+  <!-- ab - Abkhazian -->
+  <string name="lang_ab">isi-Abkhazian</string>
+  <!-- ace - Achinese -->
+  <string name="lang_ace">isi-Achinese</string>
+  <!-- ach - Acoli -->
+  <string name="lang_ach">isi-Acoli</string>
+  <!-- ada - Adangme -->
+  <string name="lang_ada">isi-Adangme</string>
+  <!-- ady - Adyghe -->
+  <string name="lang_ady">isi-Adyghe</string>
+  <!-- af - Afrikaans -->
+  <string name="lang_af">i-Afrikaans</string>
+  <!-- agq - Aghem -->
+  <string name="lang_agq">isi-Aghem</string>
+  <!-- ain - Ainu -->
+  <string name="lang_ain">isi-Ainu</string>
+  <!-- ak - Akan -->
+  <string name="lang_ak">isi-Akan</string>
+  <!-- ale - Aleut -->
+  <string name="lang_ale">isi-Aleut</string>
+  <!-- alt - Southern Altai -->
+  <string name="lang_alt">i-Southern Altai</string>
+  <!-- am - Amharic -->
+  <string name="lang_am">isi-Amharic</string>
+  <!-- an - Aragonese -->
+  <string name="lang_an">isi-Aragonese</string>
+  <!-- anp - Angika -->
+  <string name="lang_anp">isi-Angika</string>
+  <!-- ar - Arabic -->
+  <string name="lang_ar">isi-Arabic</string>
+  <!-- ar_001 - Modern Standard Arabic -->
+  <string name="lang_ar_001">isi-Arabic esivamile sesimanje</string>
+  <!-- arn - Mapuche -->
+  <string name="lang_arn">isi-Mapuche</string>
+  <!-- arp - Arapaho -->
+  <string name="lang_arp">isi-Arapaho</string>
+  <!-- as - Assamese -->
+  <string name="lang_as">isi-Assamese</string>
+  <!-- asa - Asu -->
+  <string name="lang_asa">isi-Asu</string>
+  <!-- ast - Asturian -->
+  <string name="lang_ast">isi-Asturian</string>
+  <!-- av - Avaric -->
+  <string name="lang_av">isi-Avaric</string>
+  <!-- awa - Awadhi -->
+  <string name="lang_awa">isi-Awadhi</string>
+  <!-- ay - Aymara -->
+  <string name="lang_ay">isi-Aymara</string>
+  <!-- az - Azerbaijani -->
+  <string name="lang_az">isi-Azerbaijani</string>
+  <!-- ba - Bashkir -->
+  <string name="lang_ba">isi-Bashkir</string>
+  <!-- ban - Balinese -->
+  <string name="lang_ban">isi-Balinese</string>
+  <!-- bas - Basaa -->
+  <string name="lang_bas">isi-Basaa</string>
+  <!-- be - Belarusian -->
+  <string name="lang_be">isi-Belarusian</string>
+  <!-- bem - Bemba -->
+  <string name="lang_bem">isi-Bemba</string>
+  <!-- bez - Bena -->
+  <string name="lang_bez">isi-Bena</string>
+  <!-- bg - Bulgarian -->
+  <string name="lang_bg">isi-Bulgari</string>
+  <!-- bgn - Western Balochi -->
+  <string name="lang_bgn">isi-Western Balochi</string>
+  <!-- bho - Bhojpuri -->
+  <string name="lang_bho">isi-Bhojpuri</string>
+  <!-- bi - Bislama -->
+  <string name="lang_bi">i-Bislama</string>
+  <!-- bin - Bini -->
+  <string name="lang_bin">i-Bini</string>
+  <!-- bla - Siksika -->
+  <string name="lang_bla">i-Siksika</string>
+  <!-- bm - Bambara -->
+  <string name="lang_bm">isi-Bambara</string>
+  <!-- bn - Bangla -->
+  <string name="lang_bn">isi-Bengali</string>
+  <!-- bo - Tibetan -->
+  <string name="lang_bo">isi-Tibetan</string>
+  <!-- br - Breton -->
+  <string name="lang_br">isi-Breton</string>
+  <!-- brx - Bodo -->
+  <string name="lang_brx">isi-Bodo</string>
+  <!-- bs - Bosnian -->
+  <string name="lang_bs">isi-Bosnian</string>
+  <!-- bug - Buginese -->
+  <string name="lang_bug">isi-Buginese</string>
+  <!-- byn - Blin -->
+  <string name="lang_byn">i-Blin</string>
+  <!-- ca - Catalan -->
+  <string name="lang_ca">isi-Catalan</string>
+  <!-- ce - Chechen -->
+  <string name="lang_ce">isi-Chechen</string>
+  <!-- ceb - Cebuano -->
+  <string name="lang_ceb">isi-Cebuano</string>
+  <!-- cgg - Chiga -->
+  <string name="lang_cgg">isi-Chiga</string>
+  <!-- ch - Chamorro -->
+  <string name="lang_ch">isi-Chamorro</string>
+  <!-- chk - Chuukese -->
+  <string name="lang_chk">isi-Chuukese</string>
+  <!-- chm - Mari -->
+  <string name="lang_chm">isi-Mari</string>
+  <!-- cho - Choctaw -->
+  <string name="lang_cho">isi-Choctaw</string>
+  <!-- chr - Cherokee -->
+  <string name="lang_chr">isi-Cherokee</string>
+  <!-- chy - Cheyenne -->
+  <string name="lang_chy">isi-Cheyenne</string>
+  <!-- ckb - Central Kurdish -->
+  <string name="lang_ckb">isi-Central Kurdish</string>
+  <!-- co - Corsican -->
+  <string name="lang_co">isi-Corsican</string>
+  <!-- crs - Seselwa Creole French -->
+  <string name="lang_crs">i-Seselwa Creole French</string>
+  <!-- cs - Czech -->
+  <string name="lang_cs">isi-Czech</string>
+  <!-- cu - Church Slavic -->
+  <string name="lang_cu">isi-Church Slavic</string>
+  <!-- cv - Chuvash -->
+  <string name="lang_cv">isi-Chuvash</string>
+  <!-- cy - Welsh -->
+  <string name="lang_cy">isi-Welsh</string>
+  <!-- da - Danish -->
+  <string name="lang_da">isi-Danish</string>
+  <!-- dak - Dakota -->
+  <string name="lang_dak">isi-Dakota</string>
+  <!-- dar - Dargwa -->
+  <string name="lang_dar">isi-Dargwa</string>
+  <!-- dav - Taita -->
+  <string name="lang_dav">isi-Taita</string>
+  <!-- de - German -->
+  <string name="lang_de">isi-German</string>
+  <!-- de_AT - Austrian German -->
+  <string name="lang_de_at">isi-Austrian German</string>
+  <!-- de_CH - Swiss High German -->
+  <string name="lang_de_ch">i-Swiss High German</string>
+  <!-- dgr - Dogrib -->
+  <string name="lang_dgr">isi-Dogrib</string>
+  <!-- dje - Zarma -->
+  <string name="lang_dje">isi-Zarma</string>
+  <!-- dsb - Lower Sorbian -->
+  <string name="lang_dsb">isi-Lower Sorbian</string>
+  <!-- dua - Duala -->
+  <string name="lang_dua">isi-Duala</string>
+  <!-- dv - Divehi -->
+  <string name="lang_dv">isi-Divehi</string>
+  <!-- dyo - Jola-Fonyi -->
+  <string name="lang_dyo">isi-Jola-Fonyi</string>
+  <!-- dz - Dzongkha -->
+  <string name="lang_dz">isi-Dzongkha</string>
+  <!-- dzg - Dazaga -->
+  <string name="lang_dzg">isi-Dazaga</string>
+  <!-- ebu - Embu -->
+  <string name="lang_ebu">isi-Embu</string>
+  <!-- ee - Ewe -->
+  <string name="lang_ee">isi-Ewe</string>
+  <!-- efi - Efik -->
+  <string name="lang_efi">isi-Efik</string>
+  <!-- eka - Ekajuk -->
+  <string name="lang_eka">isi-Ekajuk</string>
+  <!-- el - Greek -->
+  <string name="lang_el">isi-Greek</string>
+  <!-- en - English -->
+  <string name="lang_en">i-English</string>
+  <!-- en_AU - Australian English -->
+  <string name="lang_en_au">isi-Austrillian English</string>
+  <!-- en_CA - Canadian English -->
+  <string name="lang_en_ca">i-Canadian English</string>
+  <!-- en_GB - British English -->
+  <string name="lang_en_gb">i-British English</string>
+  <!-- en_US - American English -->
+  <string name="lang_en_us">i-American English</string>
+  <!-- eo - Esperanto -->
+  <string name="lang_eo">isi-Esperanto</string>
+  <!-- es - Spanish -->
+  <string name="lang_es">isi-Spanish</string>
+  <!-- es_419 - Latin American Spanish -->
+  <string name="lang_es_419">isi-Latin American Spanish</string>
+  <!-- es_ES - European Spanish -->
+  <string name="lang_es_es">i-European Spanish</string>
+  <!-- es_MX - Mexican Spanish -->
+  <string name="lang_es_mx">i-Mexican Spanish</string>
+  <!-- et - Estonian -->
+  <string name="lang_et">isi-Estonia</string>
+  <!-- eu - Basque -->
+  <string name="lang_eu">isi-Basque</string>
+  <!-- ewo - Ewondo -->
+  <string name="lang_ewo">isi-Ewondo</string>
+  <!-- fa - Persian -->
+  <string name="lang_fa">isi-Persian</string>
+  <!-- ff - Fulah -->
+  <string name="lang_ff">isi-Fulah</string>
+  <!-- fi - Finnish -->
+  <string name="lang_fi">isi-Finnish</string>
+  <!-- fil - Filipino -->
+  <string name="lang_fil">isi-Filipino</string>
+  <!-- fj - Fijian -->
+  <string name="lang_fj">isi-Fijian</string>
+  <!-- fo - Faroese -->
+  <string name="lang_fo">isi-Faroese</string>
+  <!-- fon - Fon -->
+  <string name="lang_fon">isi-Fon</string>
+  <!-- fr - French -->
+  <string name="lang_fr">isi-French</string>
+  <!-- fr_CA - Canadian French -->
+  <string name="lang_fr_ca">i-Canadian French</string>
+  <!-- fr_CH - Swiss French -->
+  <string name="lang_fr_ch">i-Swiss French</string>
+  <!-- fur - Friulian -->
+  <string name="lang_fur">isi-Friulian</string>
+  <!-- fy - Western Frisian -->
+  <string name="lang_fy">isi-Western Frisian</string>
+  <!-- ga - Irish -->
+  <string name="lang_ga">isi-Irish</string>
+  <!-- gaa - Ga -->
+  <string name="lang_gaa">isi-Ga</string>
+  <!-- gag - Gagauz -->
+  <string name="lang_gag">isi-Gagauz</string>
+  <!-- gan - Gan Chinese -->
+  <string name="lang_gan">isi-Gan Chinese</string>
+  <!-- gd - Scottish Gaelic -->
+  <string name="lang_gd">i-Scottish Gaelic</string>
+  <!-- gez - Geez -->
+  <string name="lang_gez">isi-Geez</string>
+  <!-- gil - Gilbertese -->
+  <string name="lang_gil">isi-Gilbertese</string>
+  <!-- gl - Galician -->
+  <string name="lang_gl">isi-Galicia</string>
+  <!-- gn - Guarani -->
+  <string name="lang_gn">isi-Guarani</string>
+  <!-- gor - Gorontalo -->
+  <string name="lang_gor">isi-Gorontalo</string>
+  <!-- gsw - Swiss German -->
+  <string name="lang_gsw">isi-Swiss German</string>
+  <!-- gu - Gujarati -->
+  <string name="lang_gu">isi-Gujarati</string>
+  <!-- guz - Gusii -->
+  <string name="lang_guz">isi-Gusli</string>
+  <!-- gv - Manx -->
+  <string name="lang_gv">isi-Manx</string>
+  <!-- gwi - Gwichʼin -->
+  <string name="lang_gwi">isi-Gwichʼin</string>
+  <!-- ha - Hausa -->
+  <string name="lang_ha">isi-Hausa</string>
+  <!-- hak - Hakka Chinese -->
+  <string name="lang_hak">isi-Hakka Chinese</string>
+  <!-- haw - Hawaiian -->
+  <string name="lang_haw">isi-Hawaiian</string>
+  <!-- he - Hebrew -->
+  <string name="lang_he">isi-Hebrew</string>
+  <!-- hi - Hindi -->
+  <string name="lang_hi">isi-Hindi</string>
+  <!-- hil - Hiligaynon -->
+  <string name="lang_hil">isi-Hiligaynon</string>
+  <!-- hmn - Hmong -->
+  <string name="lang_hmn">isi-Hmong</string>
+  <!-- hr - Croatian -->
+  <string name="lang_hr">isi-Croatian</string>
+  <!-- hsb - Upper Sorbian -->
+  <string name="lang_hsb">isi-Upper Sorbian</string>
+  <!-- hsn - Xiang Chinese -->
+  <string name="lang_hsn">isi-Xiang Chinese</string>
+  <!-- ht - Haitian Creole -->
+  <string name="lang_ht">isi-Haitian</string>
+  <!-- hu - Hungarian -->
+  <string name="lang_hu">isi-Hungarian</string>
+  <!-- hup - Hupa -->
+  <string name="lang_hup">isi-Hupa</string>
+  <!-- hy - Armenian -->
+  <string name="lang_hy">isi-Armenia</string>
+  <!-- hz - Herero -->
+  <string name="lang_hz">isi-Herero</string>
+  <!-- ia - Interlingua -->
+  <string name="lang_ia">izilimi ezihlangene</string>
+  <!-- iba - Iban -->
+  <string name="lang_iba">isi-Iban</string>
+  <!-- ibb - Ibibio -->
+  <string name="lang_ibb">isi-Ibibio</string>
+  <!-- id - Indonesian -->
+  <string name="lang_id">isi-Indonesian</string>
+  <!-- ie - Interlingue -->
+  <string name="lang_ie">izimili</string>
+  <!-- ig - Igbo -->
+  <string name="lang_ig">isi-Igbo</string>
+  <!-- ii - Sichuan Yi -->
+  <string name="lang_ii">isi-Sichuan Yi</string>
+  <!-- ilo - Iloko -->
+  <string name="lang_ilo">isi-Iloko</string>
+  <!-- inh - Ingush -->
+  <string name="lang_inh">isi-Ingush</string>
+  <!-- io - Ido -->
+  <string name="lang_io">isi-Ido</string>
+  <!-- is - Icelandic -->
+  <string name="lang_is">isi-Icelandic</string>
+  <!-- it - Italian -->
+  <string name="lang_it">isi-Italian</string>
+  <!-- iu - Inuktitut -->
+  <string name="lang_iu">isi-Inuktitut</string>
+  <!-- ja - Japanese -->
+  <string name="lang_ja">isi-Japanese</string>
+  <!-- jbo - Lojban -->
+  <string name="lang_jbo">isi-Lojban</string>
+  <!-- jgo - Ngomba -->
+  <string name="lang_jgo">isi-Ngomba</string>
+  <!-- jmc - Machame -->
+  <string name="lang_jmc">isi-Machame</string>
+  <!-- jv - Javanese -->
+  <string name="lang_jv">isi-Javanese</string>
+  <!-- ka - Georgian -->
+  <string name="lang_ka">isi-Georgian</string>
+  <!-- kab - Kabyle -->
+  <string name="lang_kab">isi-Kabyle</string>
+  <!-- kac - Kachin -->
+  <string name="lang_kac">isi-Kachin</string>
+  <!-- kaj - Jju -->
+  <string name="lang_kaj">isi-Jju</string>
+  <!-- kam - Kamba -->
+  <string name="lang_kam">isi-Kamba</string>
+  <!-- kbd - Kabardian -->
+  <string name="lang_kbd">isi-Kabardian</string>
+  <!-- kcg - Tyap -->
+  <string name="lang_kcg">isi-Tyap</string>
+  <!-- kde - Makonde -->
+  <string name="lang_kde">isi-Makonde</string>
+  <!-- kea - Kabuverdianu -->
+  <string name="lang_kea">isi-Kabuverdianu</string>
+  <!-- kfo - Koro -->
+  <string name="lang_kfo">isi-Koro</string>
+  <!-- kg - Kongo -->
+  <string name="lang_kg">isi-Kongo</string>
+  <!-- kha - Khasi -->
+  <string name="lang_kha">isi-Khasi</string>
+  <!-- khq - Koyra Chiini -->
+  <string name="lang_khq">isi-Koyra Chiini</string>
+  <!-- ki - Kikuyu -->
+  <string name="lang_ki">isi-Kikuyu</string>
+  <!-- kj - Kuanyama -->
+  <string name="lang_kj">isi-Kuanyama</string>
+  <!-- kk - Kazakh -->
+  <string name="lang_kk">isi-Kazakh</string>
+  <!-- kkj - Kako -->
+  <string name="lang_kkj">isi-Kako</string>
+  <!-- kl - Kalaallisut -->
+  <string name="lang_kl">isi-Kalaallisut</string>
+  <!-- kln - Kalenjin -->
+  <string name="lang_kln">isi-Kalenjin</string>
+  <!-- km - Khmer -->
+  <string name="lang_km">isi-Khmer</string>
+  <!-- kmb - Kimbundu -->
+  <string name="lang_kmb">isi-Kimbundu</string>
+  <!-- kn - Kannada -->
+  <string name="lang_kn">isi-Kannada</string>
+  <!-- ko - Korean -->
+  <string name="lang_ko">isi-Korean</string>
+  <!-- koi - Komi-Permyak -->
+  <string name="lang_koi">isi-Komi-Permyak</string>
+  <!-- kok - Konkani -->
+  <string name="lang_kok">isi-Konkani</string>
+  <!-- kpe - Kpelle -->
+  <string name="lang_kpe">isi-Kpelle</string>
+  <!-- kr - Kanuri -->
+  <string name="lang_kr">isi-Kanuri</string>
+  <!-- krc - Karachay-Balkar -->
+  <string name="lang_krc">isi-Karachay-Balkar</string>
+  <!-- krl - Karelian -->
+  <string name="lang_krl">isi-Karelian</string>
+  <!-- kru - Kurukh -->
+  <string name="lang_kru">isi-Kurukh</string>
+  <!-- ks - Kashmiri -->
+  <string name="lang_ks">isi-Kashmiri</string>
+  <!-- ksb - Shambala -->
+  <string name="lang_ksb">isiShambala</string>
+  <!-- ksf - Bafia -->
+  <string name="lang_ksf">isi-Bafia</string>
+  <!-- ksh - Colognian -->
+  <string name="lang_ksh">isi-Colognian</string>
+  <!-- ku - Kurdish -->
+  <string name="lang_ku">isi-Kurdish</string>
+  <!-- kum - Kumyk -->
+  <string name="lang_kum">isi-Kumyk</string>
+  <!-- kv - Komi -->
+  <string name="lang_kv">isi-Komi</string>
+  <!-- kw - Cornish -->
+  <string name="lang_kw">isi-Cornish</string>
+  <!-- ky - Kyrgyz -->
+  <string name="lang_ky">isi-Kyrgyz</string>
+  <!-- la - Latin -->
+  <string name="lang_la">isi-Latin</string>
+  <!-- lad - Ladino -->
+  <string name="lang_lad">isi-Ladino</string>
+  <!-- lag - Langi -->
+  <string name="lang_lag">isi-Langi</string>
+  <!-- lb - Luxembourgish -->
+  <string name="lang_lb">isi-Luxembourgish</string>
+  <!-- lez - Lezghian -->
+  <string name="lang_lez">isi-Lezghian</string>
+  <!-- lg - Ganda -->
+  <string name="lang_lg">isi-Ganda</string>
+  <!-- li - Limburgish -->
+  <string name="lang_li">isi-Limburgish</string>
+  <!-- lkt - Lakota -->
+  <string name="lang_lkt">isi-Lakota</string>
+  <!-- ln - Lingala -->
+  <string name="lang_ln">isi-Lingala</string>
+  <!-- lo - Lao -->
+  <string name="lang_lo">i-Lao</string>
+  <!-- loz - Lozi -->
+  <string name="lang_loz">isi-Lozi</string>
+  <!-- lrc - Northern Luri -->
+  <string name="lang_lrc">isi-Northern Luri</string>
+  <!-- lt - Lithuanian -->
+  <string name="lang_lt">isi-Lithuanian</string>
+  <!-- lu - Luba-Katanga -->
+  <string name="lang_lu">isi-Luba-Katanga</string>
+  <!-- lua - Luba-Lulua -->
+  <string name="lang_lua">isi-Luba-Lulua</string>
+  <!-- lun - Lunda -->
+  <string name="lang_lun">isi-Lunda</string>
+  <!-- luo - Luo -->
+  <string name="lang_luo">isi-Luo</string>
+  <!-- lus - Mizo -->
+  <string name="lang_lus">isi-Mizo</string>
+  <!-- luy - Luyia -->
+  <string name="lang_luy">isi-Luyia</string>
+  <!-- lv - Latvian -->
+  <string name="lang_lv">isi-Latvian</string>
+  <!-- mad - Madurese -->
+  <string name="lang_mad">isi-Madurese</string>
+  <!-- mag - Magahi -->
+  <string name="lang_mag">isi-Magahi</string>
+  <!-- mai - Maithili -->
+  <string name="lang_mai">isi-Maithili</string>
+  <!-- mak - Makasar -->
+  <string name="lang_mak">isi-Makasar</string>
+  <!-- mas - Masai -->
+  <string name="lang_mas">isi-Masai</string>
+  <!-- mdf - Moksha -->
+  <string name="lang_mdf">isi-Moksha</string>
+  <!-- men - Mende -->
+  <string name="lang_men">isi-Mende</string>
+  <!-- mer - Meru -->
+  <string name="lang_mer">isi-Meru</string>
+  <!-- mfe - Morisyen -->
+  <string name="lang_mfe">isi-Morisyen</string>
+  <!-- mg - Malagasy -->
+  <string name="lang_mg">isi-Malagasy</string>
+  <!-- mgh - Makhuwa-Meetto -->
+  <string name="lang_mgh">isi-Makhuwa-Meetto</string>
+  <!-- mgo - Metaʼ -->
+  <string name="lang_mgo">isi-Meta’</string>
+  <!-- mh - Marshallese -->
+  <string name="lang_mh">isi-Marshallese</string>
+  <!-- mi - Maori -->
+  <string name="lang_mi">isi-Maori</string>
+  <!-- mic - Mi'kmaq -->
+  <string name="lang_mic">isi-Micmac</string>
+  <!-- min - Minangkabau -->
+  <string name="lang_min">isi-Minangkabau</string>
+  <!-- mk - Macedonian -->
+  <string name="lang_mk">isi-Macedonian</string>
+  <!-- ml - Malayalam -->
+  <string name="lang_ml">isi-Malayalam</string>
+  <!-- mn - Mongolian -->
+  <string name="lang_mn">isi-Mongolian</string>
+  <!-- mni - Manipuri -->
+  <string name="lang_mni">isi-Manipuri</string>
+  <!-- moh - Mohawk -->
+  <string name="lang_moh">isi-Mohawk</string>
+  <!-- mos - Mossi -->
+  <string name="lang_mos">isi-Mossi</string>
+  <!-- mr - Marathi -->
+  <string name="lang_mr">isi-Marathi</string>
+  <!-- ms - Malay -->
+  <string name="lang_ms">isi-Malay</string>
+  <!-- mt - Maltese -->
+  <string name="lang_mt">isi-Maltese</string>
+  <!-- mua - Mundang -->
+  <string name="lang_mua">isi-Mundang</string>
+  <!-- mul - Multiple languages -->
+  <string name="lang_mul">izilimi ezehlukene</string>
+  <!-- mus - Creek -->
+  <string name="lang_mus">isi-Creek</string>
+  <!-- mwl - Mirandese -->
+  <string name="lang_mwl">isi-Mirandese</string>
+  <!-- my - Burmese -->
+  <string name="lang_my">isi-Burmese</string>
+  <!-- myv - Erzya -->
+  <string name="lang_myv">isi-Erzya</string>
+  <!-- mzn - Mazanderani -->
+  <string name="lang_mzn">isi-Mazanderani</string>
+  <!-- na - Nauru -->
+  <string name="lang_na">isi-Nauru</string>
+  <!-- nan - Min Nan Chinese -->
+  <string name="lang_nan">isi-Min Nan Chinese</string>
+  <!-- nap - Neapolitan -->
+  <string name="lang_nap">isi-Neapolitan</string>
+  <!-- naq - Nama -->
+  <string name="lang_naq">isi-Nama</string>
+  <!-- nb - Norwegian Bokmål -->
+  <string name="lang_nb">isi-Norwegian Bokmål</string>
+  <!-- nd - North Ndebele -->
+  <string name="lang_nd">isi-North Ndebele</string>
+  <!-- nds - Low German -->
+  <string name="lang_nds">isi-Low German</string>
+  <!-- nds_NL - Low Saxon -->
+  <string name="lang_nds_nl">isi-Low Saxon</string>
+  <!-- ne - Nepali -->
+  <string name="lang_ne">isi-Nepali</string>
+  <!-- new - Newari -->
+  <string name="lang_new">isi-Newari</string>
+  <!-- ng - Ndonga -->
+  <string name="lang_ng">isi-Ndonga</string>
+  <!-- nia - Nias -->
+  <string name="lang_nia">isi-Nias</string>
+  <!-- niu - Niuean -->
+  <string name="lang_niu">isi-Niuean</string>
+  <!-- nl - Dutch -->
+  <string name="lang_nl">isi-Dutch</string>
+  <!-- nl_BE - Flemish -->
+  <string name="lang_nl_be">isi-Flemish</string>
+  <!-- nmg - Kwasio -->
+  <string name="lang_nmg">isi-Kwasio</string>
+  <!-- nn - Norwegian Nynorsk -->
+  <string name="lang_nn">i-Norwegian Nynorsk</string>
+  <!-- nnh - Ngiemboon -->
+  <string name="lang_nnh">isi-Ngiemboon</string>
+  <!-- no - Norwegian -->
+  <string name="lang_no">isi-Norwegian</string>
+  <!-- nog - Nogai -->
+  <string name="lang_nog">isi-Nogai</string>
+  <!-- nqo - N’Ko -->
+  <string name="lang_nqo">isi-N’Ko</string>
+  <!-- nr - South Ndebele -->
+  <string name="lang_nr">i-South Ndebele</string>
+  <!-- nso - Northern Sotho -->
+  <string name="lang_nso">isi-Northern Sotho</string>
+  <!-- nus - Nuer -->
+  <string name="lang_nus">isi-Nuer</string>
+  <!-- nv - Navajo -->
+  <string name="lang_nv">isi-Navajo</string>
+  <!-- ny - Nyanja -->
+  <string name="lang_ny">isi-Nyanja</string>
+  <!-- nyn - Nyankole -->
+  <string name="lang_nyn">isi-Nyankole</string>
+  <!-- oc - Occitan -->
+  <string name="lang_oc">isi-Occitan</string>
+  <!-- om - Oromo -->
+  <string name="lang_om">i-Oromo</string>
+  <!-- or - Odia -->
+  <string name="lang_or">isi-Odia</string>
+  <!-- os - Ossetic -->
+  <string name="lang_os">isi-Ossetic</string>
+  <!-- pa - Punjabi -->
+  <string name="lang_pa">isi-Punjabi</string>
+  <!-- pag - Pangasinan -->
+  <string name="lang_pag">isi-Pangasinan</string>
+  <!-- pam - Pampanga -->
+  <string name="lang_pam">isi-Pampanga</string>
+  <!-- pap - Papiamento -->
+  <string name="lang_pap">isi-Papiamento</string>
+  <!-- pau - Palauan -->
+  <string name="lang_pau">isi-Palauan</string>
+  <!-- pcm - Nigerian Pidgin -->
+  <string name="lang_pcm">isi-Nigerian Pidgin</string>
+  <!-- pl - Polish -->
+  <string name="lang_pl">isi-Polish</string>
+  <!-- prg - Prussian -->
+  <string name="lang_prg">isi-Prussian</string>
+  <!-- ps - Pashto -->
+  <string name="lang_ps">isi-Pashto</string>
+  <!-- pt - Portuguese -->
+  <string name="lang_pt">isi-Portuguese</string>
+  <!-- pt_BR - Brazilian Portuguese -->
+  <string name="lang_pt_br">isi-Brazillian Portuguese</string>
+  <!-- pt_PT - European Portuguese -->
+  <string name="lang_pt_pt">isi-European Portuguese</string>
+  <!-- qu - Quechua -->
+  <string name="lang_qu">isi-Quechua</string>
+  <!-- quc - Kʼicheʼ -->
+  <string name="lang_quc">isi-Kʼicheʼ</string>
+  <!-- rap - Rapanui -->
+  <string name="lang_rap">i-Rapanui</string>
+  <!-- rar - Rarotongan -->
+  <string name="lang_rar">i-Rarotongan</string>
+  <!-- rm - Romansh -->
+  <string name="lang_rm">isi-Romansh</string>
+  <!-- rn - Rundi -->
+  <string name="lang_rn">isi-Rundi</string>
+  <!-- ro - Romanian -->
+  <string name="lang_ro">isi-Romanian</string>
+  <!-- ro_MD - Moldavian -->
+  <string name="lang_ro_md">isi-Moldavian</string>
+  <!-- rof - Rombo -->
+  <string name="lang_rof">isi-Rombo</string>
+  <!-- root - Root -->
+  <string name="lang_root">i-Root</string>
+  <!-- ru - Russian -->
+  <string name="lang_ru">isi-Russian</string>
+  <!-- rup - Aromanian -->
+  <string name="lang_rup">isi-Aromanian</string>
+  <!-- rw - Kinyarwanda -->
+  <string name="lang_rw">isi-Kinyarwanda</string>
+  <!-- rwk - Rwa -->
+  <string name="lang_rwk">isi-Rwa</string>
+  <!-- sa - Sanskrit -->
+  <string name="lang_sa">isi-Sanskrit</string>
+  <!-- sad - Sandawe -->
+  <string name="lang_sad">i-Sandawe</string>
+  <!-- sah - Sakha -->
+  <string name="lang_sah">i-Sakha</string>
+  <!-- saq - Samburu -->
+  <string name="lang_saq">isi-Samburu</string>
+  <!-- sat - Santali -->
+  <string name="lang_sat">i-Santali</string>
+  <!-- sba - Ngambay -->
+  <string name="lang_sba">isi-Ngambay</string>
+  <!-- sbp - Sangu -->
+  <string name="lang_sbp">isi-Sangu</string>
+  <!-- sc - Sardinian -->
+  <string name="lang_sc">i-Sardinian</string>
+  <!-- scn - Sicilian -->
+  <string name="lang_scn">i-Sicilian</string>
+  <!-- sco - Scots -->
+  <string name="lang_sco">i-Scots</string>
+  <!-- sd - Sindhi -->
+  <string name="lang_sd">isi-Sindhi</string>
+  <!-- sdh - Southern Kurdish -->
+  <string name="lang_sdh">i-Southern Kurdish</string>
+  <!-- se - Northern Sami -->
+  <string name="lang_se">isi-Northern Sami</string>
+  <!-- seh - Sena -->
+  <string name="lang_seh">isi-Sena</string>
+  <!-- ses - Koyraboro Senni -->
+  <string name="lang_ses">isi-Koyraboro Senni</string>
+  <!-- sg - Sango -->
+  <string name="lang_sg">isi-Sango</string>
+  <!-- sh - Serbo-Croatian -->
+  <string name="lang_sh">isi-Serbo-Croatian</string>
+  <!-- shi - Tachelhit -->
+  <string name="lang_shi">isi-Tachelhit</string>
+  <!-- shn - Shan -->
+  <string name="lang_shn">i-Shan</string>
+  <!-- si - Sinhala -->
+  <string name="lang_si">i-Sinhala</string>
+  <!-- sk - Slovak -->
+  <string name="lang_sk">isi-Slovak</string>
+  <!-- sl - Slovenian -->
+  <string name="lang_sl">isi-Slovenian</string>
+  <!-- sm - Samoan -->
+  <string name="lang_sm">isi-Samoan</string>
+  <!-- sma - Southern Sami -->
+  <string name="lang_sma">i-Southern Sami</string>
+  <!-- smj - Lule Sami -->
+  <string name="lang_smj">isi-Lule Sami</string>
+  <!-- smn - Inari Sami -->
+  <string name="lang_smn">isi-Inari Sami</string>
+  <!-- sms - Skolt Sami -->
+  <string name="lang_sms">isi-Skolt Sami</string>
+  <!-- sn - Shona -->
+  <string name="lang_sn">isiShona</string>
+  <!-- snk - Soninke -->
+  <string name="lang_snk">i-Soninke</string>
+  <!-- so - Somali -->
+  <string name="lang_so">isi-Somali</string>
+  <!-- sq - Albanian -->
+  <string name="lang_sq">isi-Albania</string>
+  <!-- sr - Serbian -->
+  <string name="lang_sr">isi-Serbian</string>
+  <!-- srn - Sranan Tongo -->
+  <string name="lang_srn">i-Sranan Tongo</string>
+  <!-- ss - Swati -->
+  <string name="lang_ss">isiSwati</string>
+  <!-- ssy - Saho -->
+  <string name="lang_ssy">i-Saho</string>
+  <!-- st - Southern Sotho -->
+  <string name="lang_st">isiSuthu</string>
+  <!-- su - Sundanese -->
+  <string name="lang_su">isi-Sundanese</string>
+  <!-- suk - Sukuma -->
+  <string name="lang_suk">i-Sukuma</string>
+  <!-- sv - Swedish -->
+  <string name="lang_sv">isi-Swedish</string>
+  <!-- sw - Swahili -->
+  <string name="lang_sw">isiSwahili</string>
+  <!-- sw_CD - Congo Swahili -->
+  <string name="lang_sw_cd">isi-Congo Swahili</string>
+  <!-- swb - Comorian -->
+  <string name="lang_swb">isi-Comorian</string>
+  <!-- syr - Syriac -->
+  <string name="lang_syr">i-Syriac</string>
+  <!-- ta - Tamil -->
+  <string name="lang_ta">isi-Tamil</string>
+  <!-- te - Telugu -->
+  <string name="lang_te">isi-Telugu</string>
+  <!-- tem - Timne -->
+  <string name="lang_tem">isi-Timne</string>
+  <!-- teo - Teso -->
+  <string name="lang_teo">isi-Teso</string>
+  <!-- tet - Tetum -->
+  <string name="lang_tet">isi-Tetum</string>
+  <!-- tg - Tajik -->
+  <string name="lang_tg">isi-Tajik</string>
+  <!-- th - Thai -->
+  <string name="lang_th">isi-Thai</string>
+  <!-- ti - Tigrinya -->
+  <string name="lang_ti">isi-Tigrinya</string>
+  <!-- tig - Tigre -->
+  <string name="lang_tig">isi-Tigre</string>
+  <!-- tk - Turkmen -->
+  <string name="lang_tk">isi-Turkmen</string>
+  <!-- tlh - Klingon -->
+  <string name="lang_tlh">isi-Klingon</string>
+  <!-- tn - Tswana -->
+  <string name="lang_tn">isi-Tswana</string>
+  <!-- to - Tongan -->
+  <string name="lang_to">isi-Tongan</string>
+  <!-- tpi - Tok Pisin -->
+  <string name="lang_tpi">isi-Tok Pisin</string>
+  <!-- tr - Turkish -->
+  <string name="lang_tr">isi-Turkish</string>
+  <!-- trv - Taroko -->
+  <string name="lang_trv">isi-Taroko</string>
+  <!-- ts - Tsonga -->
+  <string name="lang_ts">isi-Tsonga</string>
+  <!-- tt - Tatar -->
+  <string name="lang_tt">isi-Tatar</string>
+  <!-- tum - Tumbuka -->
+  <string name="lang_tum">isi-Tumbuka</string>
+  <!-- tvl - Tuvalu -->
+  <string name="lang_tvl">isi-Tuvalu</string>
+  <!-- tw - Twi -->
+  <string name="lang_tw">isi-Twi</string>
+  <!-- twq - Tasawaq -->
+  <string name="lang_twq">isi-Tasawaq</string>
+  <!-- ty - Tahitian -->
+  <string name="lang_ty">isi-Tahitian</string>
+  <!-- tyv - Tuvinian -->
+  <string name="lang_tyv">isi-Tuvinian</string>
+  <!-- tzm - Central Atlas Tamazight -->
+  <string name="lang_tzm">isi-Central Atlas Tamazight</string>
+  <!-- udm - Udmurt -->
+  <string name="lang_udm">isi-Udmurt</string>
+  <!-- ug - Uyghur -->
+  <string name="lang_ug">isi-Uighur</string>
+  <!-- uk - Ukrainian -->
+  <string name="lang_uk">isi-Ukrainian</string>
+  <!-- umb - Umbundu -->
+  <string name="lang_umb">isi-Umbundu</string>
+  <!-- und - Unknown language -->
+  <string name="lang_und">ulimi olungaziwa</string>
+  <!-- ur - Urdu -->
+  <string name="lang_ur">isi-Urdu</string>
+  <!-- uz - Uzbek -->
+  <string name="lang_uz">isi-Uzbek</string>
+  <!-- vai - Vai -->
+  <string name="lang_vai">isi-Vai</string>
+  <!-- ve - Venda -->
+  <string name="lang_ve">isi-Venda</string>
+  <!-- vi - Vietnamese -->
+  <string name="lang_vi">isi-Vietnamese</string>
+  <!-- vo - Volapük -->
+  <string name="lang_vo">isi-Volapük</string>
+  <!-- vun - Vunjo -->
+  <string name="lang_vun">isiVunjo</string>
+  <!-- wa - Walloon -->
+  <string name="lang_wa">isi-Walloon</string>
+  <!-- wae - Walser -->
+  <string name="lang_wae">isi-Walser</string>
+  <!-- wal - Wolaytta -->
+  <string name="lang_wal">isi-Wolaytta</string>
+  <!-- war - Waray -->
+  <string name="lang_war">isi-Waray</string>
+  <!-- wbp - Warlpiri -->
+  <string name="lang_wbp">isi-Warlpiri</string>
+  <!-- wo - Wolof -->
+  <string name="lang_wo">isi-Wolof</string>
+  <!-- wuu - Wu Chinese -->
+  <string name="lang_wuu">isi-Wu Chinese</string>
+  <!-- xal - Kalmyk -->
+  <string name="lang_xal">isi-Kalmyk</string>
+  <!-- xh - Xhosa -->
+  <string name="lang_xh">isiXhosa</string>
+  <!-- xog - Soga -->
+  <string name="lang_xog">isi-Soga</string>
+  <!-- yav - Yangben -->
+  <string name="lang_yav">isi-Yangben</string>
+  <!-- ybb - Yemba -->
+  <string name="lang_ybb">isi-Yemba</string>
+  <!-- yi - Yiddish -->
+  <string name="lang_yi">isi-Yiddish</string>
+  <!-- yo - Yoruba -->
+  <string name="lang_yo">isi-Yoruba</string>
+  <!-- yue - Cantonese -->
+  <string name="lang_yue">isi-Cantonese</string>
+  <!-- zgh - Standard Moroccan Tamazight -->
+  <string name="lang_zgh">isi-Moroccan Tamazight esivamile</string>
+  <!-- zh - Chinese -->
+  <string name="lang_zh">isi-Chinese</string>
+  <!-- zh_Hans - Simplified Chinese -->
+  <string name="lang_zh_hans">isi-Chinese (esenziwe-lula)</string>
+  <!-- zh_Hant - Traditional Chinese -->
+  <string name="lang_zh_hant">isi-Chinese (Okosiko)</string>
+  <!-- zu - Zulu -->
+  <string name="lang_zu">isiZulu</string>
+  <!-- zun - Zuni -->
+  <string name="lang_zun">isi-Zuni</string>
+  <!-- zxx - No linguistic content -->
+  <string name="lang_zxx">akukho okuqukethwe kolimi</string>
+  <!-- zza - Zaza -->
+  <string name="lang_zza">isi-Zaza</string>
+</resources>

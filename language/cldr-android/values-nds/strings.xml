@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Low German (nds) -->
+  <!-- aa - Afar -->
+  <string name="lang_aa">Afar</string>
+  <!-- ab - Abkhazian -->
+  <string name="lang_ab">Abchaasch</string>
+  <!-- ace - Achinese -->
+  <string name="lang_ace">Aceh</string>
+  <!-- ach - Acoli -->
+  <string name="lang_ach">Acholi</string>
+  <!-- ada - Adangme -->
+  <string name="lang_ada">Adangme</string>
+  <!-- ady - Adyghe -->
+  <string name="lang_ady">Adygeisch</string>
+  <!-- ae - Avestan -->
+  <string name="lang_ae">Avestsch</string>
+  <!-- af - Afrikaans -->
+  <string name="lang_af">Afrikaans</string>
+  <!-- afh - Afrihili -->
+  <string name="lang_afh">Afrihili</string>
+  <!-- agq - Aghem -->
+  <string name="lang_agq">Aghem</string>
+  <!-- ain - Ainu -->
+  <string name="lang_ain">Ainu</string>
+  <!-- ak - Akan -->
+  <string name="lang_ak">Akan</string>
+  <!-- akk - Akkadian -->
+  <string name="lang_akk">Akkadsch</string>
+  <!-- ale - Aleut -->
+  <string name="lang_ale">Aleutsch</string>
+  <!-- alt - Southern Altai -->
+  <string name="lang_alt">Süüd-Altaisch</string>
+  <!-- am - Amharic -->
+  <string name="lang_am">Amhaarsch</string>
+  <!-- an - Aragonese -->
+  <string name="lang_an">Aragoneesch</string>
+  <!-- ang - Old English -->
+  <string name="lang_ang">Ooldengelsch</string>
+  <!-- anp - Angika -->
+  <string name="lang_anp">Angika</string>
+  <!-- ar - Arabic -->
+  <string name="lang_ar">Araabsch</string>
+  <!-- ar_001 - Modern Standard Arabic -->
+  <string name="lang_ar_001">Standardaraabsch</string>
+  <!-- arc - Aramaic -->
+  <string name="lang_arc">Aramääsch</string>
+  <!-- arn - Mapuche -->
+  <string name="lang_arn">Araukaansch</string>
+  <!-- arp - Arapaho -->
+  <string name="lang_arp">Arapaho</string>
+  <!-- arw - Arawak -->
+  <string name="lang_arw">Arawak-Spraken</string>
+  <!-- as - Assamese -->
+  <string name="lang_as">Assameesch</string>
+  <!-- ast - Asturian -->
+  <string name="lang_ast">Asturiaansch</string>
+  <!-- av - Avaric -->
+  <string name="lang_av">Awaarsch</string>
+  <!-- awa - Awadhi -->
+  <string name="lang_awa">Awadhi</string>
+  <!-- ay - Aymara -->
+  <string name="lang_ay">Aymara</string>
+  <!-- az - Azerbaijani -->
+  <string name="lang_az">Aserbaidschaansch</string>
+  <!-- ba - Bashkir -->
+  <string name="lang_ba">Baschkiersch</string>
+  <!-- bal - Baluchi -->
+  <string name="lang_bal">Belutschisch</string>
+  <!-- ban - Balinese -->
+  <string name="lang_ban">Balineesch</string>
+  <!-- bas - Basaa -->
+  <string name="lang_bas">Basaa</string>
+  <!-- be - Belarusian -->
+  <string name="lang_be">Wittruss’sch</string>
+  <!-- bej - Beja -->
+  <string name="lang_bej">Bedscha</string>
+  <!-- bem - Bemba -->
+  <string name="lang_bem">Bemba</string>
+  <!-- bg - Bulgarian -->
+  <string name="lang_bg">Bulgaarsch</string>
+  <!-- bho - Bhojpuri -->
+  <string name="lang_bho">Bhodschpuri</string>
+  <!-- bi - Bislama -->
+  <string name="lang_bi">Bislama</string>
+  <!-- bik - Bikol -->
+  <string name="lang_bik">Bikol</string>
+  <!-- bin - Bini -->
+  <string name="lang_bin">Bini</string>
+  <!-- bla - Siksika -->
+  <string name="lang_bla">Siksika</string>
+  <!-- bm - Bambara -->
+  <string name="lang_bm">Bambara</string>
+  <!-- bn - Bangla -->
+  <string name="lang_bn">Bengaalsch</string>
+  <!-- bo - Tibetan -->
+  <string name="lang_bo">Tibeetsch</string>
+  <!-- br - Breton -->
+  <string name="lang_br">Bretoonsch</string>
+  <!-- bra - Braj -->
+  <string name="lang_bra">Braj-Bhakha</string>
+  <!-- brx - Bodo -->
+  <string name="lang_brx">Bodo</string>
+  <!-- bs - Bosnian -->
+  <string name="lang_bs">Bosnisch</string>
+  <!-- bua - Buriat -->
+  <string name="lang_bua">Burjaatsch</string>
+  <!-- bug - Buginese -->
+  <string name="lang_bug">Bugineesch</string>
+  <!-- byn - Blin -->
+  <string name="lang_byn">Blin</string>
+  <!-- ca - Catalan -->
+  <string name="lang_ca">Katalaansch</string>
+  <!-- cad - Caddo -->
+  <string name="lang_cad">Caddo</string>
+  <!-- car - Carib -->
+  <string name="lang_car">Kariebsche Spraken</string>
+  <!-- cch - Atsam -->
+  <string name="lang_cch">Atsam</string>
+  <!-- ce - Chechen -->
+  <string name="lang_ce">Tschetscheensch</string>
+  <!-- ceb - Cebuano -->
+  <string name="lang_ceb">Cebuano</string>
+  <!-- ch - Chamorro -->
+  <string name="lang_ch">Chamorro</string>
+  <!-- chb - Chibcha -->
+  <string name="lang_chb">Chibcha-Spraken</string>
+  <!-- chg - Chagatai -->
+  <string name="lang_chg">Tschagataisch</string>
+  <!-- chk - Chuukese -->
+  <string name="lang_chk">Trukeesch</string>
+  <!-- chm - Mari -->
+  <string name="lang_chm">Mari</string>
+  <!-- chn - Chinook Jargon -->
+  <string name="lang_chn">Chinook</string>
+  <!-- cho - Choctaw -->
+  <string name="lang_cho">Choctaw</string>
+  <!-- chp - Chipewyan -->
+  <string name="lang_chp">Chipewyan</string>
+  <!-- chr - Cherokee -->
+  <string name="lang_chr">Cherokeesch</string>
+  <!-- chy - Cheyenne -->
+  <string name="lang_chy">Cheyenne</string>
+  <!-- ckb - Central Kurdish -->
+  <string name="lang_ckb">Zentraalkurdsch</string>
+  <!-- co - Corsican -->
+  <string name="lang_co">Koorssch</string>
+  <!-- cop - Coptic -->
+  <string name="lang_cop">Koptsch</string>
+  <!-- cr - Cree -->
+  <string name="lang_cr">Cree</string>
+  <!-- crh - Crimean Turkish -->
+  <string name="lang_crh">Krimtataarsch</string>
+  <!-- cs - Czech -->
+  <string name="lang_cs">Tschech’sch</string>
+  <!-- csb - Kashubian -->
+  <string name="lang_csb">Kaschuubsch</string>
+  <!-- cu - Church Slavic -->
+  <string name="lang_cu">Karkenslaavsch</string>
+  <!-- cv - Chuvash -->
+  <string name="lang_cv">Tschuwasch’sch</string>
+  <!-- cy - Welsh -->
+  <string name="lang_cy">Waliesch</string>
+  <!-- da - Danish -->
+  <string name="lang_da">Däänsch</string>
+  <!-- dak - Dakota -->
+  <string name="lang_dak">Dakota</string>
+  <!-- dar - Dargwa -->
+  <string name="lang_dar">Dargiensch</string>
+  <!-- de - German -->
+  <string name="lang_de">Hoochdüütsch</string>
+  <!-- de_AT - Austrian German -->
+  <string name="lang_de_at">Öösterrieksch Hoochdüütsch</string>
+  <!-- de_CH - Swiss High German -->
+  <string name="lang_de_ch">Swiezer Hoochdüütsch</string>
+  <!-- del - Delaware -->
+  <string name="lang_del">Delaware</string>
+  <!-- den - Slave -->
+  <string name="lang_den">Slave</string>
+  <!-- dgr - Dogrib -->
+  <string name="lang_dgr">Dogrib</string>
+  <!-- din - Dinka -->
+  <string name="lang_din">Dinka</string>
+  <!-- doi - Dogri -->
+  <string name="lang_doi">Dogri</string>
+  <!-- dsb - Lower Sorbian -->
+  <string name="lang_dsb">Neddersorbsch</string>
+  <!-- dua - Duala -->
+  <string name="lang_dua">Duala</string>
+  <!-- dum - Middle Dutch -->
+  <string name="lang_dum">Middelnedderlandsch</string>
+  <!-- dv - Divehi -->
+  <string name="lang_dv">Maledievsch</string>
+  <!-- dyu - Dyula -->
+  <string name="lang_dyu">Dyula</string>
+  <!-- dz - Dzongkha -->
+  <string name="lang_dz">Bhutaansch</string>
+  <!-- ee - Ewe -->
+  <string name="lang_ee">Ewe</string>
+  <!-- efi - Efik -->
+  <string name="lang_efi">Efik</string>
+  <!-- egy - Ancient Egyptian -->
+  <string name="lang_egy">Ägyptsch</string>
+  <!-- eka - Ekajuk -->
+  <string name="lang_eka">Ekajuk</string>
+  <!-- el - Greek -->
+  <string name="lang_el">Greeksch</string>
+  <!-- elx - Elamite -->
+  <string name="lang_elx">Elaamsch</string>
+  <!-- en - English -->
+  <string name="lang_en">Engelsch</string>
+  <!-- en_AU - Australian English -->
+  <string name="lang_en_au">Austraalsch Engelsch</string>
+  <!-- en_CA - Canadian English -->
+  <string name="lang_en_ca">Kanaadsch Engelsch</string>
+  <!-- en_GB - British English -->
+  <string name="lang_en_gb">Brietsch Engelsch</string>
+  <!-- en_US - American English -->
+  <string name="lang_en_us">Amerikaansch Engelsch</string>
+  <!-- enm - Middle English -->
+  <string name="lang_enm">Middelengelsch</string>
+  <!-- eo - Esperanto -->
+  <string name="lang_eo">Esperanto</string>
+  <!-- es - Spanish -->
+  <string name="lang_es">Spaansch</string>
+  <!-- es_419 - Latin American Spanish -->
+  <string name="lang_es_419">Latienamerikaansch Spaansch</string>
+  <!-- es_ES - European Spanish -->
+  <string name="lang_es_es">Ibeersch Spaansch</string>
+  <!-- es_MX - Mexican Spanish -->
+  <string name="lang_es_mx">Mexikaansch Spaansch</string>
+  <!-- et - Estonian -->
+  <string name="lang_et">Eestlannsch</string>
+  <!-- eu - Basque -->
+  <string name="lang_eu">Basksch</string>
+  <!-- ewo - Ewondo -->
+  <string name="lang_ewo">Ewondo</string>
+  <!-- fa - Persian -->
+  <string name="lang_fa">Pers’sch</string>
+  <!-- fan - Fang -->
+  <string name="lang_fan">Pangwe</string>
+  <!-- fat - Fanti -->
+  <string name="lang_fat">Fanti</string>
+  <!-- ff - Fulah -->
+  <string name="lang_ff">Ful</string>
+  <!-- fi - Finnish -->
+  <string name="lang_fi">Finnsch</string>
+  <!-- fil - Filipino -->
+  <string name="lang_fil">Philippiensch</string>
+  <!-- fj - Fijian -->
+  <string name="lang_fj">Fidschiaansch</string>
+  <!-- fo - Faroese -->
+  <string name="lang_fo">Färöösch</string>
+  <!-- fon - Fon -->
+  <string name="lang_fon">Fon</string>
+  <!-- fr - French -->
+  <string name="lang_fr">Franzöösch</string>
+  <!-- fr_CA - Canadian French -->
+  <string name="lang_fr_ca">Kanaadsch Franzöösch</string>
+  <!-- fr_CH - Swiss French -->
+  <string name="lang_fr_ch">Swiezer Franzöösch</string>
+  <!-- frm - Middle French -->
+  <string name="lang_frm">Middelfranzöösch</string>
+  <!-- fro - Old French -->
+  <string name="lang_fro">Ooldfranzöösch</string>
+  <!-- frr - Northern Frisian -->
+  <string name="lang_frr">Noordfreesch</string>
+  <!-- frs - Eastern Frisian -->
+  <string name="lang_frs">Saterfreesch</string>
+  <!-- fur - Friulian -->
+  <string name="lang_fur">Friuulsch</string>
+  <!-- fy - Western Frisian -->
+  <string name="lang_fy">Westfreesch</string>
+  <!-- ga - Irish -->
+  <string name="lang_ga">Iersch</string>
+  <!-- gaa - Ga -->
+  <string name="lang_gaa">Ga</string>
+  <!-- gay - Gayo -->
+  <string name="lang_gay">Gayo</string>
+  <!-- gba - Gbaya -->
+  <string name="lang_gba">Gbaya</string>
+  <!-- gd - Scottish Gaelic -->
+  <string name="lang_gd">Schottsch Gäälsch</string>
+  <!-- gez - Geez -->
+  <string name="lang_gez">Geez</string>
+  <!-- gil - Gilbertese -->
+  <string name="lang_gil">Gilberteesch</string>
+  <!-- gl - Galician -->
+  <string name="lang_gl">Galizsch</string>
+  <!-- gmh - Middle High German -->
+  <string name="lang_gmh">Middelhoochdüütsch</string>
+  <!-- gn - Guarani -->
+  <string name="lang_gn">Guarani</string>
+  <!-- goh - Old High German -->
+  <string name="lang_goh">Ooldhoochdüütsch</string>
+  <!-- gon - Gondi -->
+  <string name="lang_gon">Gondi</string>
+  <!-- gor - Gorontalo -->
+  <string name="lang_gor">Gorontalo</string>
+  <!-- got - Gothic -->
+  <string name="lang_got">Gootsch</string>
+  <!-- grb - Grebo -->
+  <string name="lang_grb">Grebo</string>
+  <!-- grc - Ancient Greek -->
+  <string name="lang_grc">Ooldgreeksch</string>
+  <!-- gsw - Swiss German -->
+  <string name="lang_gsw">Swiezerdüütsch</string>
+  <!-- gu - Gujarati -->
+  <string name="lang_gu">Gudscharati</string>
+  <!-- gv - Manx -->
+  <string name="lang_gv">Manx</string>
+  <!-- gwi - Gwichʼin -->
+  <string name="lang_gwi">Kutchin</string>
+  <!-- ha - Hausa -->
+  <string name="lang_ha">Haussa</string>
+  <!-- hai - Haida -->
+  <string name="lang_hai">Haida</string>
+  <!-- haw - Hawaiian -->
+  <string name="lang_haw">Hawaiiaansch</string>
+  <!-- he - Hebrew -->
+  <string name="lang_he">Hebrääsch</string>
+  <!-- hi - Hindi -->
+  <string name="lang_hi">Hindi</string>
+  <!-- hil - Hiligaynon -->
+  <string name="lang_hil">Hiligaynon</string>
+  <!-- hit - Hittite -->
+  <string name="lang_hit">Hethitsch</string>
+  <!-- hmn - Hmong -->
+  <string name="lang_hmn">Miao-Spraken</string>
+  <!-- ho - Hiri Motu -->
+  <string name="lang_ho">Hiri-Motu</string>
+  <!-- hr - Croatian -->
+  <string name="lang_hr">Kroaatsch</string>
+  <!-- hsb - Upper Sorbian -->
+  <string name="lang_hsb">Böversorbsch</string>
+  <!-- ht - Haitian Creole -->
+  <string name="lang_ht">Haitiaansch</string>
+  <!-- hu - Hungarian -->
+  <string name="lang_hu">Ungaarsch</string>
+  <!-- hup - Hupa -->
+  <string name="lang_hup">Hupa</string>
+  <!-- hy - Armenian -->
+  <string name="lang_hy">Armeensch</string>
+  <!-- hz - Herero -->
+  <string name="lang_hz">Herero</string>
+  <!-- ia - Interlingua -->
+  <string name="lang_ia">Interlingua</string>
+  <!-- iba - Iban -->
+  <string name="lang_iba">Iban</string>
+  <!-- id - Indonesian -->
+  <string name="lang_id">Indoneesch</string>
+  <!-- ie - Interlingue -->
+  <string name="lang_ie">Interlingue</string>
+  <!-- ig - Igbo -->
+  <string name="lang_ig">Igbo</string>
+  <!-- ii - Sichuan Yi -->
+  <string name="lang_ii">Sichuan Yi</string>
+  <!-- ik - Inupiaq -->
+  <string name="lang_ik">Inupiak</string>
+  <!-- ilo - Iloko -->
+  <string name="lang_ilo">Ilokano</string>
+  <!-- inh - Ingush -->
+  <string name="lang_inh">Ingusch’sch</string>
+  <!-- io - Ido -->
+  <string name="lang_io">Ido</string>
+  <!-- is - Icelandic -->
+  <string name="lang_is">Ieslannsch</string>
+  <!-- it - Italian -->
+  <string name="lang_it">Italieensch</string>
+  <!-- iu - Inuktitut -->
+  <string name="lang_iu">Inuktitut</string>
+  <!-- ja - Japanese -->
+  <string name="lang_ja">Japaansch</string>
+  <!-- jbo - Lojban -->
+  <string name="lang_jbo">Lojban</string>
+  <!-- jpr - Judeo-Persian -->
+  <string name="lang_jpr">Jöödsch-Pers’sch</string>
+  <!-- jrb - Judeo-Arabic -->
+  <string name="lang_jrb">Jöödsch-Araabsch</string>
+  <!-- jv - Javanese -->
+  <string name="lang_jv">Javaansch</string>
+  <!-- ka - Georgian -->
+  <string name="lang_ka">Georgsch</string>
+  <!-- kaa - Kara-Kalpak -->
+  <string name="lang_kaa">Karakalpaksch</string>
+  <!-- kab - Kabyle -->
+  <string name="lang_kab">Kabyylsch</string>
+  <!-- kac - Kachin -->
+  <string name="lang_kac">Kachin</string>
+  <!-- kaj - Jju -->
+  <string name="lang_kaj">Jju</string>
+  <!-- kam - Kamba -->
+  <string name="lang_kam">Kamba</string>
+  <!-- kaw - Kawi -->
+  <string name="lang_kaw">Kawi</string>
+  <!-- kbd - Kabardian -->
+  <string name="lang_kbd">Kabardiensch</string>
+  <!-- kcg - Tyap -->
+  <string name="lang_kcg">Tyap</string>
+  <!-- kfo - Koro -->
+  <string name="lang_kfo">Koro</string>
+  <!-- kg - Kongo -->
+  <string name="lang_kg">Kongo</string>
+  <!-- kha - Khasi -->
+  <string name="lang_kha">Khasi</string>
+  <!-- kho - Khotanese -->
+  <string name="lang_kho">Saaksch</string>
+  <!-- ki - Kikuyu -->
+  <string name="lang_ki">Kikuyu</string>
+  <!-- kj - Kuanyama -->
+  <string name="lang_kj">Kwanyama</string>
+  <!-- kk - Kazakh -->
+  <string name="lang_kk">Kasach’sch</string>
+  <!-- kl - Kalaallisut -->
+  <string name="lang_kl">Gröönlannsch</string>
+  <!-- km - Khmer -->
+  <string name="lang_km">Kambodschaansch</string>
+  <!-- kmb - Kimbundu -->
+  <string name="lang_kmb">Kimbundu</string>
+  <!-- kn - Kannada -->
+  <string name="lang_kn">Kannada</string>
+  <!-- ko - Korean -->
+  <string name="lang_ko">Koreaansch</string>
+  <!-- koi - Komi-Permyak -->
+  <string name="lang_koi">Komipermjaksch</string>
+  <!-- kok - Konkani -->
+  <string name="lang_kok">Konkani</string>
+  <!-- kos - Kosraean -->
+  <string name="lang_kos">Kosraeaansch</string>
+  <!-- kpe - Kpelle -->
+  <string name="lang_kpe">Kpelle</string>
+  <!-- kr - Kanuri -->
+  <string name="lang_kr">Kanuursch</string>
+  <!-- krc - Karachay-Balkar -->
+  <string name="lang_krc">Karatschaisch-Balkaarsch</string>
+  <!-- krl - Karelian -->
+  <string name="lang_krl">Kareelsch</string>
+  <!-- kru - Kurukh -->
+  <string name="lang_kru">Oraon</string>
+  <!-- ks - Kashmiri -->
+  <string name="lang_ks">Kaschmiersch</string>
+  <!-- ku - Kurdish -->
+  <string name="lang_ku">Kurdsch</string>
+  <!-- kum - Kumyk -->
+  <string name="lang_kum">Kumücksch</string>
+  <!-- kut - Kutenai -->
+  <string name="lang_kut">Kutenai</string>
+  <!-- kv - Komi -->
+  <string name="lang_kv">Komi</string>
+  <!-- kw - Cornish -->
+  <string name="lang_kw">Koornsch</string>
+  <!-- ky - Kyrgyz -->
+  <string name="lang_ky">Kirgiesch</string>
+  <!-- la - Latin -->
+  <string name="lang_la">Latiensch</string>
+  <!-- lad - Ladino -->
+  <string name="lang_lad">Ladiensch</string>
+  <!-- lah - Lahnda -->
+  <string name="lang_lah">Lahnda</string>
+  <!-- lam - Lamba -->
+  <string name="lang_lam">Lamba</string>
+  <!-- lb - Luxembourgish -->
+  <string name="lang_lb">Luxemborgsch</string>
+  <!-- lez - Lezghian -->
+  <string name="lang_lez">Lesgisch</string>
+  <!-- lg - Ganda -->
+  <string name="lang_lg">Luganda</string>
+  <!-- li - Limburgish -->
+  <string name="lang_li">Limborgsch</string>
+  <!-- ln - Lingala -->
+  <string name="lang_ln">Lingala</string>
+  <!-- lo - Lao -->
+  <string name="lang_lo">Laootsch</string>
+  <!-- lol - Mongo -->
+  <string name="lang_lol">Mongo</string>
+  <!-- loz - Lozi -->
+  <string name="lang_loz">Rotse</string>
+  <!-- lt - Lithuanian -->
+  <string name="lang_lt">Litausch</string>
+  <!-- lu - Luba-Katanga -->
+  <string name="lang_lu">Luba</string>
+  <!-- lua - Luba-Lulua -->
+  <string name="lang_lua">Luba-Lulua</string>
+  <!-- lui - Luiseno -->
+  <string name="lang_lui">Luiseno</string>
+  <!-- lun - Lunda -->
+  <string name="lang_lun">Lunda</string>
+  <!-- luo - Luo -->
+  <string name="lang_luo">Luo</string>
+  <!-- lus - Mizo -->
+  <string name="lang_lus">Lushai</string>
+  <!-- lv - Latvian -->
+  <string name="lang_lv">Lettsch</string>
+  <!-- mad - Madurese -->
+  <string name="lang_mad">Madureesch</string>
+  <!-- mag - Magahi -->
+  <string name="lang_mag">Magahi</string>
+  <!-- mai - Maithili -->
+  <string name="lang_mai">Maithili</string>
+  <!-- mak - Makasar -->
+  <string name="lang_mak">Makassarsch</string>
+  <!-- man - Mandingo -->
+  <string name="lang_man">Manding</string>
+  <!-- mas - Masai -->
+  <string name="lang_mas">Massai</string>
+  <!-- mdf - Moksha -->
+  <string name="lang_mdf">Mokscha</string>
+  <!-- mdr - Mandar -->
+  <string name="lang_mdr">Mandareesch</string>
+  <!-- men - Mende -->
+  <string name="lang_men">Mende</string>
+  <!-- mg - Malagasy -->
+  <string name="lang_mg">Madagassisch</string>
+  <!-- mga - Middle Irish -->
+  <string name="lang_mga">Middeliersch</string>
+  <!-- mh - Marshallese -->
+  <string name="lang_mh">Marschalleesch</string>
+  <!-- mi - Maori -->
+  <string name="lang_mi">Maori</string>
+  <!-- mic - Mi'kmaq -->
+  <string name="lang_mic">Micmac</string>
+  <!-- min - Minangkabau -->
+  <string name="lang_min">Minangkabau</string>
+  <!-- mk - Macedonian -->
+  <string name="lang_mk">Mazedoonsch</string>
+  <!-- ml - Malayalam -->
+  <string name="lang_ml">Malayalam</string>
+  <!-- mn - Mongolian -->
+  <string name="lang_mn">Mongoolsch</string>
+  <!-- mnc - Manchu -->
+  <string name="lang_mnc">Mandschuursch</string>
+  <!-- mni - Manipuri -->
+  <string name="lang_mni">Manipuri</string>
+  <!-- moh - Mohawk -->
+  <string name="lang_moh">Mohawk</string>
+  <!-- mos - Mossi -->
+  <string name="lang_mos">Mossi</string>
+  <!-- mr - Marathi -->
+  <string name="lang_mr">Marathi</string>
+  <!-- ms - Malay -->
+  <string name="lang_ms">Malaisch</string>
+  <!-- mt - Maltese -->
+  <string name="lang_mt">Malteesch</string>
+  <!-- mul - Multiple languages -->
+  <string name="lang_mul">Mehrsprakig</string>
+  <!-- mus - Creek -->
+  <string name="lang_mus">Muskogee-Spraken</string>
+  <!-- mwl - Mirandese -->
+  <string name="lang_mwl">Mirandeesch</string>
+  <!-- mwr - Marwari -->
+  <string name="lang_mwr">Marwari</string>
+  <!-- my - Burmese -->
+  <string name="lang_my">Birmaansch</string>
+  <!-- myv - Erzya -->
+  <string name="lang_myv">Erzya</string>
+  <!-- na - Nauru -->
+  <string name="lang_na">Nauruusch</string>
+  <!-- nap - Neapolitan -->
+  <string name="lang_nap">Neapolitaansch</string>
+  <!-- nb - Norwegian Bokmål -->
+  <string name="lang_nb">Norweegsch Bokmål</string>
+  <!-- nd - North Ndebele -->
+  <string name="lang_nd">Noord-Ndebele</string>
+  <!-- nds - Low German -->
+  <string name="lang_nds">Neddersass’sch</string>
+  <!-- ne - Nepali -->
+  <string name="lang_ne">Nepaleesch</string>
+  <!-- new - Newari -->
+  <string name="lang_new">Newari</string>
+  <!-- ng - Ndonga -->
+  <string name="lang_ng">Ndonga</string>
+  <!-- nia - Nias -->
+  <string name="lang_nia">Nias</string>
+  <!-- niu - Niuean -->
+  <string name="lang_niu">Niue</string>
+  <!-- nl - Dutch -->
+  <string name="lang_nl">Nedderlandsch</string>
+  <!-- nl_BE - Flemish -->
+  <string name="lang_nl_be">Fläämsch</string>
+  <!-- nn - Norwegian Nynorsk -->
+  <string name="lang_nn">Norweegsch Nynorsk</string>
+  <!-- no - Norwegian -->
+  <string name="lang_no">Norweegsch</string>
+  <!-- nog - Nogai -->
+  <string name="lang_nog">Nogai</string>
+  <!-- non - Old Norse -->
+  <string name="lang_non">Ooldnoorsch</string>
+  <!-- nqo - N’Ko -->
+  <string name="lang_nqo">N’Ko</string>
+  <!-- nr - South Ndebele -->
+  <string name="lang_nr">Süüd-Ndebele</string>
+  <!-- nso - Northern Sotho -->
+  <string name="lang_nso">Noord-Sotho</string>
+  <!-- nv - Navajo -->
+  <string name="lang_nv">Navajo</string>
+  <!-- nwc - Classical Newari -->
+  <string name="lang_nwc">Oold-Newari</string>
+  <!-- ny - Nyanja -->
+  <string name="lang_ny">Nyanja</string>
+  <!-- nym - Nyamwezi -->
+  <string name="lang_nym">Nyamwezi</string>
+  <!-- nyn - Nyankole -->
+  <string name="lang_nyn">Nyankole</string>
+  <!-- nyo - Nyoro -->
+  <string name="lang_nyo">Nyoro</string>
+  <!-- nzi - Nzima -->
+  <string name="lang_nzi">Nzima</string>
+  <!-- oc - Occitan -->
+  <string name="lang_oc">Okzitaansch</string>
+  <!-- oj - Ojibwa -->
+  <string name="lang_oj">Ojibwa</string>
+  <!-- om - Oromo -->
+  <string name="lang_om">Oromo</string>
+  <!-- or - Odia -->
+  <string name="lang_or">Orija</string>
+  <!-- os - Ossetic -->
+  <string name="lang_os">Ossetsch</string>
+  <!-- osa - Osage -->
+  <string name="lang_osa">Osage</string>
+  <!-- ota - Ottoman Turkish -->
+  <string name="lang_ota">Osmaansch</string>
+  <!-- pa - Punjabi -->
+  <string name="lang_pa">Pandschaabsch</string>
+  <!-- pag - Pangasinan -->
+  <string name="lang_pag">Pangasinan</string>
+  <!-- pal - Pahlavi -->
+  <string name="lang_pal">Middelpers’sch</string>
+  <!-- pam - Pampanga -->
+  <string name="lang_pam">Pampanggan</string>
+  <!-- pap - Papiamento -->
+  <string name="lang_pap">Papiamento</string>
+  <!-- pau - Palauan -->
+  <string name="lang_pau">Palausch</string>
+  <!-- peo - Old Persian -->
+  <string name="lang_peo">Ooldpers’sch</string>
+  <!-- phn - Phoenician -->
+  <string name="lang_phn">Phönieksch</string>
+  <!-- pi - Pali -->
+  <string name="lang_pi">Pali</string>
+  <!-- pl - Polish -->
+  <string name="lang_pl">Poolsch</string>
+  <!-- pon - Pohnpeian -->
+  <string name="lang_pon">Ponapeaansch</string>
+  <!-- pro - Old Provençal -->
+  <string name="lang_pro">Ooldprovenzaalsch</string>
+  <!-- ps - Pashto -->
+  <string name="lang_ps">Paschtu</string>
+  <!-- pt - Portuguese -->
+  <string name="lang_pt">Portugeesch</string>
+  <!-- pt_BR - Brazilian Portuguese -->
+  <string name="lang_pt_br">Brasiliaansch Portugeesch</string>
+  <!-- pt_PT - European Portuguese -->
+  <string name="lang_pt_pt">Ibeersch Portugeesch</string>
+  <!-- qu - Quechua -->
+  <string name="lang_qu">Quechua</string>
+  <!-- raj - Rajasthani -->
+  <string name="lang_raj">Rajasthani</string>
+  <!-- rap - Rapanui -->
+  <string name="lang_rap">Oosterinsel-Spraak</string>
+  <!-- rar - Rarotongan -->
+  <string name="lang_rar">Rarotongaansch</string>
+  <!-- rm - Romansh -->
+  <string name="lang_rm">Rätoromaansch</string>
+  <!-- rn - Rundi -->
+  <string name="lang_rn">Rundi</string>
+  <!-- ro - Romanian -->
+  <string name="lang_ro">Rumäänsch</string>
+  <!-- ro_MD - Moldavian -->
+  <string name="lang_ro_md">Moldaawsch</string>
+  <!-- rom - Romany -->
+  <string name="lang_rom">Romani</string>
+  <!-- root - Root -->
+  <string name="lang_root">Wortel</string>
+  <!-- ru - Russian -->
+  <string name="lang_ru">Russ’sch</string>
+  <!-- rup - Aromanian -->
+  <string name="lang_rup">Aromuunsch</string>
+  <!-- rw - Kinyarwanda -->
+  <string name="lang_rw">Ruandsch</string>
+  <!-- sa - Sanskrit -->
+  <string name="lang_sa">Sanskrit</string>
+  <!-- sad - Sandawe -->
+  <string name="lang_sad">Sandawe</string>
+  <!-- sah - Sakha -->
+  <string name="lang_sah">Jakuutsch</string>
+  <!-- sam - Samaritan Aramaic -->
+  <string name="lang_sam">Samaritaansch</string>
+  <!-- sas - Sasak -->
+  <string name="lang_sas">Sasak</string>
+  <!-- sat - Santali -->
+  <string name="lang_sat">Santali</string>
+  <!-- sc - Sardinian -->
+  <string name="lang_sc">Sardsch</string>
+  <!-- scn - Sicilian -->
+  <string name="lang_scn">Siziliaansch</string>
+  <!-- sco - Scots -->
+  <string name="lang_sco">Schottsch</string>
+  <!-- sd - Sindhi -->
+  <string name="lang_sd">Sindhi</string>
+  <!-- se - Northern Sami -->
+  <string name="lang_se">Noord-Saamsch</string>
+  <!-- sel - Selkup -->
+  <string name="lang_sel">Selkupsch</string>
+  <!-- sg - Sango -->
+  <string name="lang_sg">Sango</string>
+  <!-- sga - Old Irish -->
+  <string name="lang_sga">Oold-Iersch</string>
+  <!-- shn - Shan -->
+  <string name="lang_shn">Schan</string>
+  <!-- si - Sinhala -->
+  <string name="lang_si">Singhaleesch</string>
+  <!-- sid - Sidamo -->
+  <string name="lang_sid">Sidamo</string>
+  <!-- sk - Slovak -->
+  <string name="lang_sk">Slowaaksch</string>
+  <!-- sl - Slovenian -->
+  <string name="lang_sl">Sloweensch</string>
+  <!-- sm - Samoan -->
+  <string name="lang_sm">Samoaansch</string>
+  <!-- sma - Southern Sami -->
+  <string name="lang_sma">Süüd-Lappsch</string>
+  <!-- smj - Lule Sami -->
+  <string name="lang_smj">Lule-Lappsch</string>
+  <!-- smn - Inari Sami -->
+  <string name="lang_smn">Inari-Lappsch</string>
+  <!-- sms - Skolt Sami -->
+  <string name="lang_sms">Skolt-Lappsch</string>
+  <!-- sn - Shona -->
+  <string name="lang_sn">Schona</string>
+  <!-- snk - Soninke -->
+  <string name="lang_snk">Soninke</string>
+  <!-- so - Somali -->
+  <string name="lang_so">Somaalsch</string>
+  <!-- sog - Sogdien -->
+  <string name="lang_sog">Sogdisch</string>
+  <!-- sq - Albanian -->
+  <string name="lang_sq">Albaansch</string>
+  <!-- sr - Serbian -->
+  <string name="lang_sr">Serbsch</string>
+  <!-- srn - Sranan Tongo -->
+  <string name="lang_srn">Surinaamsch</string>
+  <!-- srr - Serer -->
+  <string name="lang_srr">Serer</string>
+  <!-- ss - Swati -->
+  <string name="lang_ss">Swazi</string>
+  <!-- st - Southern Sotho -->
+  <string name="lang_st">Süüd-Sotho</string>
+  <!-- su - Sundanese -->
+  <string name="lang_su">Sundaneesch</string>
+  <!-- suk - Sukuma -->
+  <string name="lang_suk">Sukuma</string>
+  <!-- sus - Susu -->
+  <string name="lang_sus">Susu</string>
+  <!-- sux - Sumerian -->
+  <string name="lang_sux">Sumersch</string>
+  <!-- sv - Swedish -->
+  <string name="lang_sv">Sweedsch</string>
+  <!-- sw - Swahili -->
+  <string name="lang_sw">Suaheli</string>
+  <!-- syc - Classical Syriac -->
+  <string name="lang_syc">Oold-Syyrsch</string>
+  <!-- syr - Syriac -->
+  <string name="lang_syr">Syyrsch</string>
+  <!-- ta - Tamil -->
+  <string name="lang_ta">Tamilsch</string>
+  <!-- te - Telugu -->
+  <string name="lang_te">Telugu</string>
+  <!-- tem - Timne -->
+  <string name="lang_tem">Temne</string>
+  <!-- ter - Tereno -->
+  <string name="lang_ter">Tereno</string>
+  <!-- tet - Tetum -->
+  <string name="lang_tet">Tetum</string>
+  <!-- tg - Tajik -->
+  <string name="lang_tg">Tadschiksch</string>
+  <!-- th - Thai -->
+  <string name="lang_th">Thailannsch</string>
+  <!-- ti - Tigrinya -->
+  <string name="lang_ti">Tigrinja</string>
+  <!-- tig - Tigre -->
+  <string name="lang_tig">Tigre</string>
+  <!-- tiv - Tiv -->
+  <string name="lang_tiv">Tiv</string>
+  <!-- tk - Turkmen -->
+  <string name="lang_tk">Turkmeensch</string>
+  <!-- tkl - Tokelau -->
+  <string name="lang_tkl">Tokelausch</string>
+  <!-- tl - Tagalog -->
+  <string name="lang_tl">Tagalog</string>
+  <!-- tlh - Klingon -->
+  <string name="lang_tlh">Klingoonsch</string>
+  <!-- tli - Tlingit -->
+  <string name="lang_tli">Tlingit</string>
+  <!-- tmh - Tamashek -->
+  <string name="lang_tmh">Tamaschek</string>
+  <!-- tn - Tswana -->
+  <string name="lang_tn">Tswana</string>
+  <!-- to - Tongan -->
+  <string name="lang_to">Tongaasch</string>
+  <!-- tog - Nyasa Tonga -->
+  <string name="lang_tog">Tonga (Nyasa)</string>
+  <!-- tpi - Tok Pisin -->
+  <string name="lang_tpi">Tok Pisin</string>
+  <!-- tr - Turkish -->
+  <string name="lang_tr">Törksch</string>
+  <!-- ts - Tsonga -->
+  <string name="lang_ts">Tsonga</string>
+  <!-- tsi - Tsimshian -->
+  <string name="lang_tsi">Tsimshian</string>
+  <!-- tt - Tatar -->
+  <string name="lang_tt">Tataarsch</string>
+  <!-- tum - Tumbuka -->
+  <string name="lang_tum">Tumbuka</string>
+  <!-- tvl - Tuvalu -->
+  <string name="lang_tvl">Elliceaansch</string>
+  <!-- tw - Twi -->
+  <string name="lang_tw">Twi</string>
+  <!-- ty - Tahitian -->
+  <string name="lang_ty">Tahitsch</string>
+  <!-- tyv - Tuvinian -->
+  <string name="lang_tyv">Tuwinsch</string>
+  <!-- udm - Udmurt -->
+  <string name="lang_udm">Udmurtsch</string>
+  <!-- ug - Uyghur -->
+  <string name="lang_ug">Uiguursch</string>
+  <!-- uga - Ugaritic -->
+  <string name="lang_uga">Ugaritsch</string>
+  <!-- uk - Ukrainian -->
+  <string name="lang_uk">Ukrainsch</string>
+  <!-- umb - Umbundu -->
+  <string name="lang_umb">Mbundu</string>
+  <!-- und - Unknown language -->
+  <string name="lang_und">Nich begäng Spraak</string>
+  <!-- ur - Urdu -->
+  <string name="lang_ur">Urdu</string>
+  <!-- uz - Uzbek -->
+  <string name="lang_uz">Usbeeksch</string>
+  <!-- vai - Vai -->
+  <string name="lang_vai">Vai</string>
+  <!-- ve - Venda -->
+  <string name="lang_ve">Venda</string>
+  <!-- vi - Vietnamese -->
+  <string name="lang_vi">Vietnameesch</string>
+  <!-- vo - Volapük -->
+  <string name="lang_vo">Volapük</string>
+  <!-- vot - Votic -->
+  <string name="lang_vot">Wootsch</string>
+  <!-- wa - Walloon -->
+  <string name="lang_wa">Walloonsch</string>
+  <!-- wal - Wolaytta -->
+  <string name="lang_wal">Walamo</string>
+  <!-- war - Waray -->
+  <string name="lang_war">Waray</string>
+  <!-- was - Washo -->
+  <string name="lang_was">Washo</string>
+  <!-- wo - Wolof -->
+  <string name="lang_wo">Wolof</string>
+  <!-- xal - Kalmyk -->
+  <string name="lang_xal">Kalmücksch</string>
+  <!-- xh - Xhosa -->
+  <string name="lang_xh">Xhosa</string>
+  <!-- yao - Yao -->
+  <string name="lang_yao">Yao</string>
+  <!-- yap - Yapese -->
+  <string name="lang_yap">Yapeesch</string>
+  <!-- yi - Yiddish -->
+  <string name="lang_yi">Jiddisch</string>
+  <!-- yo - Yoruba -->
+  <string name="lang_yo">Yoruba</string>
+  <!-- za - Zhuang -->
+  <string name="lang_za">Zhuang</string>
+  <!-- zap - Zapotec -->
+  <string name="lang_zap">Zapoteeksch</string>
+  <!-- zbl - Blissymbols -->
+  <string name="lang_zbl">Bliss-Symbolen</string>
+  <!-- zen - Zenaga -->
+  <string name="lang_zen">Zenaga</string>
+  <!-- zh - Chinese -->
+  <string name="lang_zh">Chineesch</string>
+  <!-- zh_Hans - Simplified Chinese -->
+  <string name="lang_zh_hans">Vereenfacht Chineesch</string>
+  <!-- zh_Hant - Traditional Chinese -->
+  <string name="lang_zh_hant">Traditschonell Chineesch</string>
+  <!-- zu - Zulu -->
+  <string name="lang_zu">Zulu</string>
+  <!-- zun - Zuni -->
+  <string name="lang_zun">Zuni</string>
+  <!-- zxx - No linguistic content -->
+  <string name="lang_zxx">Keen Spraakinhold</string>
+  <!-- zza - Zaza -->
+  <string name="lang_zza">Zaza</string>
+</resources>

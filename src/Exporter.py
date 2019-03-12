@@ -42,15 +42,15 @@ class ExportAndroidXML(Exporter):
                            "../" + source + "-android/values-" + k)
         if not os.path.exists(dir):
           os.makedirs(dir)
-        with open(dir + "/arrays.xml", "w") as f:
+        with open(dir + "/strings.xml", "w") as f:
           top = Element('resources')
           if k in english_pairs.keys():
             top_comment = ElementTree.Comment(' ' + english_pairs[k].decode('utf-8') + ' (' + k + ') ')
           else:
             top_comment = ElementTree.Comment(' ' + k + ' ')
           top.append(top_comment)
-          child = SubElement(top, 'string-array')          
-          child.attrib['name'] = 'languages_all'
+          #child = SubElement(top, 'string-array') 
+          #child.attrib['name'] = 'languages_all'
           
           if '*' not in COVERAGE_LIST:
             # Iterate through only those codes in COVERAGE_LIST
@@ -59,8 +59,8 @@ class ExportAndroidXML(Exporter):
                 comment = ElementTree.Comment(' ' + lang_code + ' - ' + english_pairs[lang_code].decode('utf-8') + ' ')
               else:
                 comment = ElementTree.Comment(' ' + lang_code + ' ')
-              child.append(comment)
-              entry = SubElement(child, 'item')
+              top.append(comment)
+              entry = SubElement(top, 'item')
               if lang_code in v.keys():
                 entry.text = v[lang_code].decode('utf-8')
               else:
@@ -72,9 +72,10 @@ class ExportAndroidXML(Exporter):
                 comment = ElementTree.Comment(' ' + lang_code + ' - ' + english_pairs[lang_code].decode('utf-8') + ' ')
               else:
                 comment = ElementTree.Comment(' ' + lang_code + ' ')
-              child.append(comment)
-              entry = SubElement(child, 'item')
+              top.append(comment)
+              entry = SubElement(top, 'string')
               entry.text = lang_name.decode('utf-8')
+              entry.set('name', 'lang_' + lang_code.lower())
           f.write(self.prettify(top))
   
   def prettify(self, elem):

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Irish (ga) -->
+  <!-- aa - Afar -->
+  <string name="lang_aa">Afáiris</string>
+  <!-- ab - Abkhazian -->
+  <string name="lang_ab">Abcáisis</string>
+  <!-- ady - Adyghe -->
+  <string name="lang_ady">Adaigéis</string>
+  <!-- ae - Avestan -->
+  <string name="lang_ae">Aivéistis</string>
+  <!-- af - Afrikaans -->
+  <string name="lang_af">Afracáinis</string>
+  <!-- ain - Ainu -->
+  <string name="lang_ain">Aidhniúis</string>
+  <!-- ak - Akan -->
+  <string name="lang_ak">Acáinis</string>
+  <!-- akk - Akkadian -->
+  <string name="lang_akk">Acáidis</string>
+  <!-- am - Amharic -->
+  <string name="lang_am">Amáiris</string>
+  <!-- an - Aragonese -->
+  <string name="lang_an">Aragóinis</string>
+  <!-- ang - Old English -->
+  <string name="lang_ang">Sean-Bhéarla</string>
+  <!-- ar - Arabic -->
+  <string name="lang_ar">Araibis</string>
+  <!-- ar_001 - Modern Standard Arabic -->
+  <string name="lang_ar_001">Araibis Chaighdeánach</string>
+  <!-- arc - Aramaic -->
+  <string name="lang_arc">Aramais</string>
+  <!-- arn - Mapuche -->
+  <string name="lang_arn">Mapúitsis</string>
+  <!-- as - Assamese -->
+  <string name="lang_as">Asaimis</string>
+  <!-- ast - Asturian -->
+  <string name="lang_ast">Astúiris</string>
+  <!-- av - Avaric -->
+  <string name="lang_av">Aváiris</string>
+  <!-- ay - Aymara -->
+  <string name="lang_ay">Aidhmiris</string>
+  <!-- az - Azerbaijani -->
+  <string name="lang_az">Asarbaiseáinis</string>
+  <!-- ba - Bashkir -->
+  <string name="lang_ba">Baiscíris</string>
+  <!-- ban - Balinese -->
+  <string name="lang_ban">Bailís</string>
+  <!-- bar - Bavarian -->
+  <string name="lang_bar">Baváiris</string>
+  <!-- be - Belarusian -->
+  <string name="lang_be">Bealarúisis</string>
+  <!-- bem - Bemba -->
+  <string name="lang_bem">Beimbis</string>
+  <!-- bg - Bulgarian -->
+  <string name="lang_bg">Bulgáiris</string>
+  <!-- bi - Bislama -->
+  <string name="lang_bi">Bioslaimis</string>
+  <!-- bn - Bangla -->
+  <string name="lang_bn">Beangáilis</string>
+  <!-- bo - Tibetan -->
+  <string name="lang_bo">Tibéidis</string>
+  <!-- br - Breton -->
+  <string name="lang_br">Briotáinis</string>
+  <!-- bs - Bosnian -->
+  <string name="lang_bs">Boisnis</string>
+  <!-- bua - Buriat -->
+  <string name="lang_bua">Buiriáitis</string>
+  <!-- bug - Buginese -->
+  <string name="lang_bug">Buiginis</string>
+  <!-- ca - Catalan -->
+  <string name="lang_ca">Catalóinis</string>
+  <!-- ce - Chechen -->
+  <string name="lang_ce">Seisnis</string>
+  <!-- ceb - Cebuano -->
+  <string name="lang_ceb">Seabúáinis</string>
+  <!-- ch - Chamorro -->
+  <string name="lang_ch">Seamóiris</string>
+  <!-- chm - Mari -->
+  <string name="lang_chm">Mairis</string>
+  <!-- chr - Cherokee -->
+  <string name="lang_chr">Seiricis</string>
+  <!-- co - Corsican -->
+  <string name="lang_co">Corsaicis</string>
+  <!-- cop - Coptic -->
+  <string name="lang_cop">Coptais</string>
+  <!-- cr - Cree -->
+  <string name="lang_cr">Craís</string>
+  <!-- cs - Czech -->
+  <string name="lang_cs">Seicis</string>
+  <!-- csb - Kashubian -->
+  <string name="lang_csb">Caisiúibis</string>
+  <!-- cu - Church Slavic -->
+  <string name="lang_cu">Slavais na hEaglaise</string>
+  <!-- cv - Chuvash -->
+  <string name="lang_cv">Suvaisis</string>
+  <!-- cy - Welsh -->
+  <string name="lang_cy">Breatnais</string>
+  <!-- da - Danish -->
+  <string name="lang_da">Danmhairgis</string>
+  <!-- dav - Taita -->
+  <string name="lang_dav">Taita</string>
+  <!-- de - German -->
+  <string name="lang_de">Gearmáinis</string>
+  <!-- de_AT - Austrian German -->
+  <string name="lang_de_at">Gearmáinis Ostarach</string>
+  <!-- de_CH - Swiss High German -->
+  <string name="lang_de_ch">Ard-Ghearmáinis Eilvéiseach</string>
+  <!-- dje - Zarma -->
+  <string name="lang_dje">Zarmais</string>
+  <!-- dsb - Lower Sorbian -->
+  <string name="lang_dsb">Sorbais Íochtarach</string>
+  <!-- dum - Middle Dutch -->
+  <string name="lang_dum">Meán-Ollainnis</string>
+  <!-- dv - Divehi -->
+  <string name="lang_dv">Divéihis</string>
+  <!-- dz - Dzongkha -->
+  <string name="lang_dz">Seoinicis</string>
+  <!-- egy - Ancient Egyptian -->
+  <string name="lang_egy">Sean-Éigiptis</string>
+  <!-- el - Greek -->
+  <string name="lang_el">Gréigis</string>
+  <!-- en - English -->
+  <string name="lang_en">Béarla</string>
+  <!-- en_AU - Australian English -->
+  <string name="lang_en_au">Béarla Astrálach</string>
+  <!-- en_CA - Canadian English -->
+  <string name="lang_en_ca">Béarla Ceanadach</string>
+  <!-- en_GB - British English -->
+  <string name="lang_en_gb">Béarla Briotanach</string>
+  <!-- en_US - American English -->
+  <string name="lang_en_us">Béarla Meiriceánach</string>
+  <!-- enm - Middle English -->
+  <string name="lang_enm">Meán-Bhéarla</string>
+  <!-- eo - Esperanto -->
+  <string name="lang_eo">Esperanto</string>
+  <!-- es - Spanish -->
+  <string name="lang_es">Spáinnis</string>
+  <!-- es_419 - Latin American Spanish -->
+  <string name="lang_es_419">Spáinnis Mheiriceá Laidinigh</string>
+  <!-- es_ES - European Spanish -->
+  <string name="lang_es_es">Spáinnis Eorpach</string>
+  <!-- es_MX - Mexican Spanish -->
+  <string name="lang_es_mx">Spáinnis Mheicsiceach</string>
+  <!-- et - Estonian -->
+  <string name="lang_et">Eastóinis</string>
+  <!-- eu - Basque -->
+  <string name="lang_eu">Bascais</string>
+  <!-- fa - Persian -->
+  <string name="lang_fa">Peirsis</string>
+  <!-- ff - Fulah -->
+  <string name="lang_ff">Fuláinis</string>
+  <!-- fi - Finnish -->
+  <string name="lang_fi">Fionlainnis</string>
+  <!-- fil - Filipino -->
+  <string name="lang_fil">Filipínis</string>
+  <!-- fj - Fijian -->
+  <string name="lang_fj">Fidsis</string>
+  <!-- fo - Faroese -->
+  <string name="lang_fo">Faróis</string>
+  <!-- fr - French -->
+  <string name="lang_fr">Fraincis</string>
+  <!-- fr_CA - Canadian French -->
+  <string name="lang_fr_ca">Fraincis Cheanadach</string>
+  <!-- fr_CH - Swiss French -->
+  <string name="lang_fr_ch">Fraincis Eilvéiseach</string>
+  <!-- frm - Middle French -->
+  <string name="lang_frm">Meán-Fhraincis</string>
+  <!-- fro - Old French -->
+  <string name="lang_fro">Sean-Fhraincis</string>
+  <!-- frr - Northern Frisian -->
+  <string name="lang_frr">Freaslainnis an Tuaiscirt</string>
+  <!-- fur - Friulian -->
+  <string name="lang_fur">Friúilis</string>
+  <!-- fy - Western Frisian -->
+  <string name="lang_fy">Freaslainnis Iartharach</string>
+  <!-- ga - Irish -->
+  <string name="lang_ga">Gaeilge</string>
+  <!-- gd - Scottish Gaelic -->
+  <string name="lang_gd">Gaeilge na hAlban</string>
+  <!-- gez - Geez -->
+  <string name="lang_gez">Aetóipis</string>
+  <!-- gl - Galician -->
+  <string name="lang_gl">Gailísis</string>
+  <!-- gmh - Middle High German -->
+  <string name="lang_gmh">Meán-Ard-Ghearmáinis</string>
+  <!-- gn - Guarani -->
+  <string name="lang_gn">Guaráinis</string>
+  <!-- goh - Old High German -->
+  <string name="lang_goh">Sean-Ard-Ghearmáinis</string>
+  <!-- grc - Ancient Greek -->
+  <string name="lang_grc">Sean-Ghréigis</string>
+  <!-- gsw - Swiss German -->
+  <string name="lang_gsw">Gearmáinis Eilvéiseach</string>
+  <!-- gu - Gujarati -->
+  <string name="lang_gu">Gúisearáitis</string>
+  <!-- guc - Wayuu -->
+  <string name="lang_guc">Uaúis</string>
+  <!-- gv - Manx -->
+  <string name="lang_gv">Manainnis</string>
+  <!-- ha - Hausa -->
+  <string name="lang_ha">Hásais</string>
+  <!-- hak - Hakka Chinese -->
+  <string name="lang_hak">Haicéis</string>
+  <!-- haw - Hawaiian -->
+  <string name="lang_haw">Haváis</string>
+  <!-- he - Hebrew -->
+  <string name="lang_he">Eabhrais</string>
+  <!-- hi - Hindi -->
+  <string name="lang_hi">Hiondúis</string>
+  <!-- hif - Fiji Hindi -->
+  <string name="lang_hif">Hiondúis Fhidsí</string>
+  <!-- hil - Hiligaynon -->
+  <string name="lang_hil">Hilgeanóinis</string>
+  <!-- hit - Hittite -->
+  <string name="lang_hit">Hitis</string>
+  <!-- hmn - Hmong -->
+  <string name="lang_hmn">Mongais</string>
+  <!-- ho - Hiri Motu -->
+  <string name="lang_ho">Motúis Hírí</string>
+  <!-- hr - Croatian -->
+  <string name="lang_hr">Cróitis</string>
+  <!-- hsb - Upper Sorbian -->
+  <string name="lang_hsb">Sorbais Uachtarach</string>
+  <!-- ht - Haitian Creole -->
+  <string name="lang_ht">Criól Háítíoch</string>
+  <!-- hu - Hungarian -->
+  <string name="lang_hu">Ungáiris</string>
+  <!-- hup - Hupa -->
+  <string name="lang_hup">Húipis</string>
+  <!-- hy - Armenian -->
+  <string name="lang_hy">Airméinis</string>
+  <!-- hz - Herero -->
+  <string name="lang_hz">Heiréiris</string>
+  <!-- ia - Interlingua -->
+  <string name="lang_ia">Interlingua</string>
+  <!-- ibb - Ibibio -->
+  <string name="lang_ibb">Ibibis</string>
+  <!-- id - Indonesian -->
+  <string name="lang_id">Indinéisis</string>
+  <!-- ie - Interlingue -->
+  <string name="lang_ie">Interlingue</string>
+  <!-- ig - Igbo -->
+  <string name="lang_ig">Íogbóis</string>
+  <!-- ik - Inupiaq -->
+  <string name="lang_ik">Iniúipiaicis</string>
+  <!-- inh - Ingush -->
+  <string name="lang_inh">Iongúis</string>
+  <!-- io - Ido -->
+  <string name="lang_io">Ido</string>
+  <!-- is - Icelandic -->
+  <string name="lang_is">Íoslainnis</string>
+  <!-- it - Italian -->
+  <string name="lang_it">Iodáilis</string>
+  <!-- iu - Inuktitut -->
+  <string name="lang_iu">Ionúitis</string>
+  <!-- ja - Japanese -->
+  <string name="lang_ja">Seapáinis</string>
+  <!-- jbo - Lojban -->
+  <string name="lang_jbo">Lojban</string>
+  <!-- jut - Jutish -->
+  <string name="lang_jut">Iútlainnis</string>
+  <!-- jv - Javanese -->
+  <string name="lang_jv">Iáivis</string>
+  <!-- ka - Georgian -->
+  <string name="lang_ka">Seoirsis</string>
+  <!-- kaa - Kara-Kalpak -->
+  <string name="lang_kaa">Cara-Chalpáis</string>
+  <!-- kg - Kongo -->
+  <string name="lang_kg">Congóis</string>
+  <!-- ki - Kikuyu -->
+  <string name="lang_ki">Ciocúis</string>
+  <!-- kj - Kuanyama -->
+  <string name="lang_kj">Cuainiáimis</string>
+  <!-- kk - Kazakh -->
+  <string name="lang_kk">Casaicis</string>
+  <!-- kl - Kalaallisut -->
+  <string name="lang_kl">Kalaallisut</string>
+  <!-- km - Khmer -->
+  <string name="lang_km">Ciméiris</string>
+  <!-- kn - Kannada -->
+  <string name="lang_kn">Cannadais</string>
+  <!-- ko - Korean -->
+  <string name="lang_ko">Cóiréis</string>
+  <!-- kok - Konkani -->
+  <string name="lang_kok">Concáinis</string>
+  <!-- kr - Kanuri -->
+  <string name="lang_kr">Canúiris</string>
+  <!-- krl - Karelian -->
+  <string name="lang_krl">Cairéilis</string>
+  <!-- kru - Kurukh -->
+  <string name="lang_kru">Curúicis</string>
+  <!-- ks - Kashmiri -->
+  <string name="lang_ks">Caismíris</string>
+  <!-- ku - Kurdish -->
+  <string name="lang_ku">Coirdis</string>
+  <!-- kv - Komi -->
+  <string name="lang_kv">Coimis</string>
+  <!-- kw - Cornish -->
+  <string name="lang_kw">Coirnis</string>
+  <!-- ky - Kyrgyz -->
+  <string name="lang_ky">Cirgisis</string>
+  <!-- la - Latin -->
+  <string name="lang_la">Laidin</string>
+  <!-- lad - Ladino -->
+  <string name="lang_lad">Laidínis</string>
+  <!-- lah - Lahnda -->
+  <string name="lang_lah">Puinseáibis Iartharach</string>
+  <!-- lb - Luxembourgish -->
+  <string name="lang_lb">Lucsambuirgis</string>
+  <!-- lg - Ganda -->
+  <string name="lang_lg">Lugandais</string>
+  <!-- lij - Ligurian -->
+  <string name="lang_lij">Liogúiris</string>
+  <!-- liv - Livonian -->
+  <string name="lang_liv">Liovóinis</string>
+  <!-- lmo - Lombard -->
+  <string name="lang_lmo">Lombairdis</string>
+  <!-- ln - Lingala -->
+  <string name="lang_ln">Liongáilis</string>
+  <!-- lo - Lao -->
+  <string name="lang_lo">Laoisis</string>
+  <!-- lt - Lithuanian -->
+  <string name="lang_lt">Liotuáinis</string>
+  <!-- lu - Luba-Katanga -->
+  <string name="lang_lu">Lúba-Cataingis</string>
+  <!-- lv - Latvian -->
+  <string name="lang_lv">Laitvis</string>
+  <!-- men - Mende -->
+  <string name="lang_men">Meindis</string>
+  <!-- mg - Malagasy -->
+  <string name="lang_mg">Malagáisis</string>
+  <!-- mga - Middle Irish -->
+  <string name="lang_mga">Meán-Ghaeilge</string>
+  <!-- mh - Marshallese -->
+  <string name="lang_mh">Mairsillis</string>
+  <!-- mi - Maori -->
+  <string name="lang_mi">Maorais</string>
+  <!-- mk - Macedonian -->
+  <string name="lang_mk">Macadóinis</string>
+  <!-- ml - Malayalam -->
+  <string name="lang_ml">Mailéalaimis</string>
+  <!-- mn - Mongolian -->
+  <string name="lang_mn">Mongóilis</string>
+  <!-- mni - Manipuri -->
+  <string name="lang_mni">Manapúiris</string>
+  <!-- moh - Mohawk -->
+  <string name="lang_moh">Móháicis</string>
+  <!-- mr - Marathi -->
+  <string name="lang_mr">Maraitis</string>
+  <!-- mrj - Western Mari -->
+  <string name="lang_mrj">Mairis Iartharach</string>
+  <!-- ms - Malay -->
+  <string name="lang_ms">Malaeis</string>
+  <!-- mt - Maltese -->
+  <string name="lang_mt">Máltais</string>
+  <!-- mul - Multiple languages -->
+  <string name="lang_mul">Ilteangacha</string>
+  <!-- mwl - Mirandese -->
+  <string name="lang_mwl">Mioraindéis</string>
+  <!-- mwr - Marwari -->
+  <string name="lang_mwr">Marmhairis</string>
+  <!-- my - Burmese -->
+  <string name="lang_my">Burmais</string>
+  <!-- na - Nauru -->
+  <string name="lang_na">Nárúis</string>
+  <!-- nb - Norwegian Bokmål -->
+  <string name="lang_nb">Ioruais Bokmål</string>
+  <!-- nd - North Ndebele -->
+  <string name="lang_nd">Ndeibéilis an Tuaiscirt</string>
+  <!-- nds - Low German -->
+  <string name="lang_nds">Gearmáinis Íochtarach</string>
+  <!-- nds_NL - Low Saxon -->
+  <string name="lang_nds_nl">Sacsainis Íochtarach</string>
+  <!-- ne - Nepali -->
+  <string name="lang_ne">Neipeailis</string>
+  <!-- ng - Ndonga -->
+  <string name="lang_ng">Ndongais</string>
+  <!-- niu - Niuean -->
+  <string name="lang_niu">Níobhais</string>
+  <!-- nl - Dutch -->
+  <string name="lang_nl">Ollainnis</string>
+  <!-- nl_BE - Flemish -->
+  <string name="lang_nl_be">Pléimeannais</string>
+  <!-- nn - Norwegian Nynorsk -->
+  <string name="lang_nn">Nua-Ioruais</string>
+  <!-- no - Norwegian -->
+  <string name="lang_no">Ioruais</string>
+  <!-- non - Old Norse -->
+  <string name="lang_non">Sean-Lochlainnis</string>
+  <!-- nr - South Ndebele -->
+  <string name="lang_nr">Ndeibéilis an Deiscirt</string>
+  <!-- nso - Northern Sotho -->
+  <string name="lang_nso">Sútúis an Tuaiscirt</string>
+  <!-- nv - Navajo -->
+  <string name="lang_nv">Navachóis</string>
+  <!-- ny - Nyanja -->
+  <string name="lang_ny">Siséivis</string>
+  <!-- oc - Occitan -->
+  <string name="lang_oc">Ocsatáinis</string>
+  <!-- oj - Ojibwa -->
+  <string name="lang_oj">Óisibis</string>
+  <!-- om - Oromo -->
+  <string name="lang_om">Oraimis</string>
+  <!-- or - Odia -->
+  <string name="lang_or">Oirísis</string>
+  <!-- os - Ossetic -->
+  <string name="lang_os">Oiséitis</string>
+  <!-- pa - Punjabi -->
+  <string name="lang_pa">Puinseáibis</string>
+  <!-- peo - Old Persian -->
+  <string name="lang_peo">Sean-Pheirsis</string>
+  <!-- pi - Pali -->
+  <string name="lang_pi">Páilis</string>
+  <!-- pl - Polish -->
+  <string name="lang_pl">Polainnis</string>
+  <!-- prg - Prussian -->
+  <string name="lang_prg">Prúisis</string>
+  <!-- ps - Pashto -->
+  <string name="lang_ps">Paistis</string>
+  <!-- pt - Portuguese -->
+  <string name="lang_pt">Portaingéilis</string>
+  <!-- pt_BR - Brazilian Portuguese -->
+  <string name="lang_pt_br">Portaingéilis na Brasaíle</string>
+  <!-- pt_PT - European Portuguese -->
+  <string name="lang_pt_pt">Portaingéilis Ibéarach</string>
+  <!-- qu - Quechua -->
+  <string name="lang_qu">Ceatsuais</string>
+  <!-- quc - Kʼicheʼ -->
+  <string name="lang_quc">Cuitséis</string>
+  <!-- rm - Romansh -->
+  <string name="lang_rm">Rómainis</string>
+  <!-- rn - Rundi -->
+  <string name="lang_rn">Rúindis</string>
+  <!-- ro - Romanian -->
+  <string name="lang_ro">Rómáinis</string>
+  <!-- ro_MD - Moldavian -->
+  <string name="lang_ro_md">Moldáivis</string>
+  <!-- rom - Romany -->
+  <string name="lang_rom">Romainis</string>
+  <!-- ru - Russian -->
+  <string name="lang_ru">Rúisis</string>
+  <!-- rup - Aromanian -->
+  <string name="lang_rup">Arómáinis</string>
+  <!-- rw - Kinyarwanda -->
+  <string name="lang_rw">Ciniaruaindis</string>
+  <!-- sa - Sanskrit -->
+  <string name="lang_sa">Sanscrait</string>
+  <!-- sah - Sakha -->
+  <string name="lang_sah">Sachais</string>
+  <!-- sam - Samaritan Aramaic -->
+  <string name="lang_sam">Aramais Shamárach</string>
+  <!-- sat - Santali -->
+  <string name="lang_sat">Santáilis</string>
+  <!-- sc - Sardinian -->
+  <string name="lang_sc">Sairdínis</string>
+  <!-- scn - Sicilian -->
+  <string name="lang_scn">Sicilis</string>
+  <!-- sco - Scots -->
+  <string name="lang_sco">Albainis</string>
+  <!-- sd - Sindhi -->
+  <string name="lang_sd">Sindis</string>
+  <!-- se - Northern Sami -->
+  <string name="lang_se">Sáimis Thuaidh</string>
+  <!-- sg - Sango -->
+  <string name="lang_sg">Sangóis</string>
+  <!-- sga - Old Irish -->
+  <string name="lang_sga">Sean-Ghaeilge</string>
+  <!-- sh - Serbo-Croatian -->
+  <string name="lang_sh">Seirbea-Chróitis</string>
+  <!-- shi - Tachelhit -->
+  <string name="lang_shi">Tachelhit</string>
+  <!-- si - Sinhala -->
+  <string name="lang_si">Siolóinis</string>
+  <!-- sk - Slovak -->
+  <string name="lang_sk">Slóvaicis</string>
+  <!-- sl - Slovenian -->
+  <string name="lang_sl">Slóivéinis</string>
+  <!-- sm - Samoan -->
+  <string name="lang_sm">Samóis</string>
+  <!-- smj - Lule Sami -->
+  <string name="lang_smj">Sáimis Lule</string>
+  <!-- sn - Shona -->
+  <string name="lang_sn">Seoinis</string>
+  <!-- so - Somali -->
+  <string name="lang_so">Somáilis</string>
+  <!-- sog - Sogdien -->
+  <string name="lang_sog">Sogdánais</string>
+  <!-- sq - Albanian -->
+  <string name="lang_sq">Albáinis</string>
+  <!-- sr - Serbian -->
+  <string name="lang_sr">Seirbis</string>
+  <!-- ss - Swati -->
+  <string name="lang_ss">Suaisis</string>
+  <!-- st - Southern Sotho -->
+  <string name="lang_st">Seasóitis</string>
+  <!-- su - Sundanese -->
+  <string name="lang_su">Sundais</string>
+  <!-- sux - Sumerian -->
+  <string name="lang_sux">Suiméiris</string>
+  <!-- sv - Swedish -->
+  <string name="lang_sv">Sualainnis</string>
+  <!-- sw - Swahili -->
+  <string name="lang_sw">Svahaílis</string>
+  <!-- sw_CD - Congo Swahili -->
+  <string name="lang_sw_cd">Svahaílis an Chongó</string>
+  <!-- syr - Syriac -->
+  <string name="lang_syr">Siricis</string>
+  <!-- szl - Silesian -->
+  <string name="lang_szl">Siléisis</string>
+  <!-- ta - Tamil -->
+  <string name="lang_ta">Tamailis</string>
+  <!-- te - Telugu -->
+  <string name="lang_te">Teileagúis</string>
+  <!-- tg - Tajik -->
+  <string name="lang_tg">Táidsícis</string>
+  <!-- th - Thai -->
+  <string name="lang_th">Téalainnis</string>
+  <!-- ti - Tigrinya -->
+  <string name="lang_ti">Tigrinis</string>
+  <!-- tk - Turkmen -->
+  <string name="lang_tk">Tuircméinis</string>
+  <!-- tl - Tagalog -->
+  <string name="lang_tl">Tagálaigis</string>
+  <!-- tlh - Klingon -->
+  <string name="lang_tlh">Klingon</string>
+  <!-- tn - Tswana -->
+  <string name="lang_tn">Suáinis</string>
+  <!-- to - Tongan -->
+  <string name="lang_to">Tongais</string>
+  <!-- tr - Turkish -->
+  <string name="lang_tr">Tuircis</string>
+  <!-- ts - Tsonga -->
+  <string name="lang_ts">Songais</string>
+  <!-- tt - Tatar -->
+  <string name="lang_tt">Tatairis</string>
+  <!-- tw - Twi -->
+  <string name="lang_tw">Tíbhis</string>
+  <!-- ty - Tahitian -->
+  <string name="lang_ty">Taihítis</string>
+  <!-- udm - Udmurt -->
+  <string name="lang_udm">Udmairtis</string>
+  <!-- ug - Uyghur -->
+  <string name="lang_ug">Uigiúiris</string>
+  <!-- uk - Ukrainian -->
+  <string name="lang_uk">Úcráinis</string>
+  <!-- und - Unknown language -->
+  <string name="lang_und">Teanga Anaithnid</string>
+  <!-- ur - Urdu -->
+  <string name="lang_ur">Urdúis</string>
+  <!-- uz - Uzbek -->
+  <string name="lang_uz">Úisbéiceastáinis</string>
+  <!-- ve - Venda -->
+  <string name="lang_ve">Veindis</string>
+  <!-- vec - Venetian -->
+  <string name="lang_vec">Veinéisis</string>
+  <!-- vi - Vietnamese -->
+  <string name="lang_vi">Vítneaimis</string>
+  <!-- vls - West Flemish -->
+  <string name="lang_vls">Pléimeannais Iartharach</string>
+  <!-- vo - Volapük -->
+  <string name="lang_vo">Volapük</string>
+  <!-- wa - Walloon -->
+  <string name="lang_wa">Vallúnais</string>
+  <!-- wo - Wolof -->
+  <string name="lang_wo">Volaifis</string>
+  <!-- xal - Kalmyk -->
+  <string name="lang_xal">Cailmícis</string>
+  <!-- xh - Xhosa -->
+  <string name="lang_xh">Cóisis</string>
+  <!-- yi - Yiddish -->
+  <string name="lang_yi">Giúdais</string>
+  <!-- yo - Yoruba -->
+  <string name="lang_yo">Iarúibis</string>
+  <!-- yue - Cantonese -->
+  <string name="lang_yue">Cantainis</string>
+  <!-- za - Zhuang -->
+  <string name="lang_za">Siuáingis</string>
+  <!-- zea - Zeelandic -->
+  <string name="lang_zea">Séalainnis</string>
+  <!-- zh - Chinese -->
+  <string name="lang_zh">Sínis</string>
+  <!-- zh_Hans - Simplified Chinese -->
+  <string name="lang_zh_hans">Sínis Shimplithe</string>
+  <!-- zh_Hant - Traditional Chinese -->
+  <string name="lang_zh_hant">Sínis Thraidisiúnta</string>
+  <!-- zu - Zulu -->
+  <string name="lang_zu">Súlúis</string>
+  <!-- zun - Zuni -->
+  <string name="lang_zun">Zúinis</string>
+  <!-- zxx - No linguistic content -->
+  <string name="lang_zxx">Gan ábhar teangeolaíoch</string>
+</resources>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Mazanderani (mzn) -->
+  <!-- ab - Abkhazian -->
+  <string name="lang_ab">آبخازی</string>
+  <!-- af - Afrikaans -->
+  <string name="lang_af">آفریکانس</string>
+  <!-- agq - Aghem -->
+  <string name="lang_agq">آقم</string>
+  <!-- ak - Akan -->
+  <string name="lang_ak">آکان</string>
+  <!-- am - Amharic -->
+  <string name="lang_am">امهری</string>
+  <!-- ar - Arabic -->
+  <string name="lang_ar">عربی</string>
+  <!-- ar_001 - Modern Standard Arabic -->
+  <string name="lang_ar_001">مدرن استاندارد عربی</string>
+  <!-- arn - Mapuche -->
+  <string name="lang_arn">ماپوچه</string>
+  <!-- as - Assamese -->
+  <string name="lang_as">آسامی</string>
+  <!-- asa - Asu -->
+  <string name="lang_asa">آسو</string>
+  <!-- az - Azerbaijani -->
+  <string name="lang_az">آذری ِترکی</string>
+  <!-- az_Arab -->
+  <string name="lang_az_arab">جنوبی آذری ترکی</string>
+  <!-- ba - Bashkir -->
+  <string name="lang_ba">باشقیری</string>
+  <!-- be - Belarusian -->
+  <string name="lang_be">بلاروسی</string>
+  <!-- bem - Bemba -->
+  <string name="lang_bem">بمبایی</string>
+  <!-- bez - Bena -->
+  <string name="lang_bez">بنایی</string>
+  <!-- bg - Bulgarian -->
+  <string name="lang_bg">بلغاری</string>
+  <!-- bgn - Western Balochi -->
+  <string name="lang_bgn">غربی بلوچی</string>
+  <!-- bm - Bambara -->
+  <string name="lang_bm">بامبارایی</string>
+  <!-- bn - Bangla -->
+  <string name="lang_bn">بنگالی</string>
+  <!-- bo - Tibetan -->
+  <string name="lang_bo">تبتی</string>
+  <!-- br - Breton -->
+  <string name="lang_br">برِتونی</string>
+  <!-- brx - Bodo -->
+  <string name="lang_brx">بدویی</string>
+  <!-- bs - Bosnian -->
+  <string name="lang_bs">بوسنیایی</string>
+  <!-- ca - Catalan -->
+  <string name="lang_ca">کاتالونی</string>
+  <!-- ce - Chechen -->
+  <string name="lang_ce">چچنی</string>
+  <!-- cgg - Chiga -->
+  <string name="lang_cgg">چیگا</string>
+  <!-- chr - Cherokee -->
+  <string name="lang_chr">چروکیایی</string>
+  <!-- ckb - Central Kurdish -->
+  <string name="lang_ckb">میونی کوردی</string>
+  <!-- co - Corsican -->
+  <string name="lang_co">کورسیکان</string>
+  <!-- cs - Czech -->
+  <string name="lang_cs">چکی</string>
+  <!-- cv - Chuvash -->
+  <string name="lang_cv">چوواشی</string>
+  <!-- cy - Welsh -->
+  <string name="lang_cy">ولزی</string>
+  <!-- da - Danish -->
+  <string name="lang_da">دانمارکی</string>
+  <!-- dav - Taita -->
+  <string name="lang_dav">تایتا</string>
+  <!-- de - German -->
+  <string name="lang_de">آلمانی</string>
+  <!-- de_AT - Austrian German -->
+  <string name="lang_de_at">اتریش ِآلمانی</string>
+  <!-- de_CH - Swiss High German -->
+  <string name="lang_de_ch">سوییس ِآلمانی</string>
+  <!-- dje - Zarma -->
+  <string name="lang_dje">زارمایی</string>
+  <!-- dsb - Lower Sorbian -->
+  <string name="lang_dsb">پایین صربی</string>
+  <!-- dua - Duala -->
+  <string name="lang_dua">دوئالایی</string>
+  <!-- dyo - Jola-Fonyi -->
+  <string name="lang_dyo">جولا-فونی</string>
+  <!-- dz - Dzongkha -->
+  <string name="lang_dz">دزونگخا</string>
+  <!-- ebu - Embu -->
+  <string name="lang_ebu">امبو</string>
+  <!-- ee - Ewe -->
+  <string name="lang_ee">اوه‌یی</string>
+  <!-- el - Greek -->
+  <string name="lang_el">یونانی</string>
+  <!-- en - English -->
+  <string name="lang_en">انگلیسی</string>
+  <!-- en_AU - Australian English -->
+  <string name="lang_en_au">استرالیای ِانگلیسی</string>
+  <!-- en_CA - Canadian English -->
+  <string name="lang_en_ca">کانادای ِانگلیسی</string>
+  <!-- en_GB - British English -->
+  <string name="lang_en_gb">بریتیش انگلیسی</string>
+  <!-- en_US - American English -->
+  <string name="lang_en_us">امریکن انگلیسی</string>
+  <!-- eo - Esperanto -->
+  <string name="lang_eo">اسپرانتو</string>
+  <!-- es - Spanish -->
+  <string name="lang_es">ایسپانیولی</string>
+  <!-- es_419 - Latin American Spanish -->
+  <string name="lang_es_419">جنوبی آمریکای ِایسپانیولی</string>
+  <!-- es_ES - European Spanish -->
+  <string name="lang_es_es">اروپای ِایسپانیولی</string>
+  <!-- es_MX - Mexican Spanish -->
+  <string name="lang_es_mx">مکزیک ِایسپانیولی</string>
+  <!-- et - Estonian -->
+  <string name="lang_et">استونیایی</string>
+  <!-- eu - Basque -->
+  <string name="lang_eu">باسکی</string>
+  <!-- fa - Persian -->
+  <string name="lang_fa">فارسی</string>
+  <!-- fi - Finnish -->
+  <string name="lang_fi">فینیش</string>
+  <!-- fil - Filipino -->
+  <string name="lang_fil">فیلیپینو</string>
+  <!-- fj - Fijian -->
+  <string name="lang_fj">فیجیایی</string>
+  <!-- fo - Faroese -->
+  <string name="lang_fo">فارویی</string>
+  <!-- fr - French -->
+  <string name="lang_fr">فرانسوی</string>
+  <!-- fr_CA - Canadian French -->
+  <string name="lang_fr_ca">کانادای ِفرانسوی</string>
+  <!-- fr_CH - Swiss French -->
+  <string name="lang_fr_ch">سوییس ِفرانسوی</string>
+  <!-- fy - Western Frisian -->
+  <string name="lang_fy">غربی فیریزی</string>
+  <!-- ga - Irish -->
+  <string name="lang_ga">ایریش</string>
+  <!-- gag - Gagauz -->
+  <string name="lang_gag">گاگائوزی</string>
+  <!-- gl - Galician -->
+  <string name="lang_gl">گالیک</string>
+  <!-- gn - Guarani -->
+  <string name="lang_gn">گورانی</string>
+  <!-- gsw - Swiss German -->
+  <string name="lang_gsw">سوییس آلمانی</string>
+  <!-- gu - Gujarati -->
+  <string name="lang_gu">گجراتی</string>
+  <!-- guz - Gusii -->
+  <string name="lang_guz">گوسی</string>
+  <!-- gv - Manx -->
+  <string name="lang_gv">مانکس</string>
+  <!-- ha - Hausa -->
+  <string name="lang_ha">هوسا</string>
+  <!-- haw - Hawaiian -->
+  <string name="lang_haw">هاواییایی</string>
+  <!-- he - Hebrew -->
+  <string name="lang_he">عبری</string>
+  <!-- hi - Hindi -->
+  <string name="lang_hi">هندی</string>
+  <!-- hr - Croatian -->
+  <string name="lang_hr">کرواتی</string>
+  <!-- hsb - Upper Sorbian -->
+  <string name="lang_hsb">بالایی صربی</string>
+  <!-- ht - Haitian Creole -->
+  <string name="lang_ht">هائتیایی</string>
+  <!-- hu - Hungarian -->
+  <string name="lang_hu">مجاری</string>
+  <!-- hy - Armenian -->
+  <string name="lang_hy">ارمنی</string>
+  <!-- id - Indonesian -->
+  <string name="lang_id">اندونزیایی</string>
+  <!-- ig - Igbo -->
+  <string name="lang_ig">ایگبو</string>
+  <!-- ii - Sichuan Yi -->
+  <string name="lang_ii">سیچوئان یی</string>
+  <!-- is - Icelandic -->
+  <string name="lang_is">ایسلندی</string>
+  <!-- it - Italian -->
+  <string name="lang_it">ایتالیایی</string>
+  <!-- iu - Inuktitut -->
+  <string name="lang_iu">انوکتیتوت</string>
+  <!-- ja - Japanese -->
+  <string name="lang_ja">جاپونی</string>
+  <!-- jgo - Ngomba -->
+  <string name="lang_jgo">نگومبا</string>
+  <!-- jmc - Machame -->
+  <string name="lang_jmc">ماچامه</string>
+  <!-- jv - Javanese -->
+  <string name="lang_jv">جاوایی</string>
+  <!-- ka - Georgian -->
+  <string name="lang_ka">گرجی</string>
+  <!-- kab - Kabyle -->
+  <string name="lang_kab">قبایلی</string>
+  <!-- kam - Kamba -->
+  <string name="lang_kam">کامبایی</string>
+  <!-- kde - Makonde -->
+  <string name="lang_kde">ماکونده</string>
+  <!-- kea - Kabuverdianu -->
+  <string name="lang_kea">کیپ وُردی</string>
+  <!-- khq - Koyra Chiini -->
+  <string name="lang_khq">کویرا چیینی</string>
+  <!-- ki - Kikuyu -->
+  <string name="lang_ki">کیکویو</string>
+  <!-- kk - Kazakh -->
+  <string name="lang_kk">قزاقی</string>
+  <!-- kl - Kalaallisut -->
+  <string name="lang_kl">کالائلیسوت</string>
+  <!-- kln - Kalenjin -->
+  <string name="lang_kln">کالنجین</string>
+  <!-- km - Khmer -->
+  <string name="lang_km">خمری</string>
+  <!-- kn - Kannada -->
+  <string name="lang_kn">کانّادا</string>
+  <!-- ko - Korean -->
+  <string name="lang_ko">کُره‌یی</string>
+  <!-- koi - Komi-Permyak -->
+  <string name="lang_koi">کومی-پرمیاک</string>
+  <!-- kok - Konkani -->
+  <string name="lang_kok">کونکانی</string>
+  <!-- ks - Kashmiri -->
+  <string name="lang_ks">کشمیری</string>
+  <!-- ksb - Shambala -->
+  <string name="lang_ksb">شامبالا</string>
+  <!-- ksf - Bafia -->
+  <string name="lang_ksf">بافیایی</string>
+  <!-- ku - Kurdish -->
+  <string name="lang_ku">کوردی</string>
+  <!-- kw - Cornish -->
+  <string name="lang_kw">کورنیش</string>
+  <!-- ky - Kyrgyz -->
+  <string name="lang_ky">قرقیزی</string>
+  <!-- la - Latin -->
+  <string name="lang_la">لاتین</string>
+  <!-- lag - Langi -->
+  <string name="lang_lag">لانگی</string>
+  <!-- lb - Luxembourgish -->
+  <string name="lang_lb">لوکزامبورگی</string>
+  <!-- lg - Ganda -->
+  <string name="lang_lg">گاندا</string>
+  <!-- lkt - Lakota -->
+  <string name="lang_lkt">لاکوتا</string>
+  <!-- ln - Lingala -->
+  <string name="lang_ln">لینگالا</string>
+  <!-- lo - Lao -->
+  <string name="lang_lo">لائویی</string>
+  <!-- lrc - Northern Luri -->
+  <string name="lang_lrc">شمالی لُری</string>
+  <!-- lt - Lithuanian -->
+  <string name="lang_lt">لتونیایی</string>
+  <!-- lu - Luba-Katanga -->
+  <string name="lang_lu">لوبا-کاتانگا</string>
+  <!-- luo - Luo -->
+  <string name="lang_luo">لوئو</string>
+  <!-- luy - Luyia -->
+  <string name="lang_luy">لوییا</string>
+  <!-- lv - Latvian -->
+  <string name="lang_lv">لاتویایی</string>
+  <!-- mas - Masai -->
+  <string name="lang_mas">ماسایی</string>
+  <!-- mer - Meru -->
+  <string name="lang_mer">مِرویی</string>
+  <!-- mfe - Morisyen -->
+  <string name="lang_mfe">موریسین</string>
+  <!-- mg - Malagasy -->
+  <string name="lang_mg">مالاگاسی</string>
+  <!-- mgh - Makhuwa-Meetto -->
+  <string name="lang_mgh">ماخوئا-میتو</string>
+  <!-- mgo - Metaʼ -->
+  <string name="lang_mgo">مِتاء</string>
+  <!-- mi - Maori -->
+  <string name="lang_mi">مائوری</string>
+  <!-- mk - Macedonian -->
+  <string name="lang_mk">مقدونی</string>
+  <!-- ml - Malayalam -->
+  <string name="lang_ml">مالایالام</string>
+  <!-- mn - Mongolian -->
+  <string name="lang_mn">مغولی</string>
+  <!-- moh - Mohawk -->
+  <string name="lang_moh">موهاک</string>
+  <!-- mr - Marathi -->
+  <string name="lang_mr">ماراتی</string>
+  <!-- ms - Malay -->
+  <string name="lang_ms">مالایی</string>
+  <!-- mt - Maltese -->
+  <string name="lang_mt">مالتی</string>
+  <!-- mua - Mundang -->
+  <string name="lang_mua">موندانگ</string>
+  <!-- my - Burmese -->
+  <string name="lang_my">برمه‌یی</string>
+  <!-- mzn - Mazanderani -->
+  <string name="lang_mzn">مازرونی</string>
+  <!-- naq - Nama -->
+  <string name="lang_naq">ناما</string>
+  <!-- nb - Norwegian Bokmål -->
+  <string name="lang_nb">نروژی بوکمال</string>
+  <!-- nd - North Ndebele -->
+  <string name="lang_nd">شمالی ندبله</string>
+  <!-- nds - Low German -->
+  <string name="lang_nds">پایین آلمانی</string>
+  <!-- nds_NL - Low Saxon -->
+  <string name="lang_nds_nl">پایین ساکسونی</string>
+  <!-- ne - Nepali -->
+  <string name="lang_ne">نپالی</string>
+  <!-- nl - Dutch -->
+  <string name="lang_nl">هلندی</string>
+  <!-- nl_BE - Flemish -->
+  <string name="lang_nl_be">فلمیش</string>
+  <!-- nmg - Kwasio -->
+  <string name="lang_nmg">کوئاسیو</string>
+  <!-- nn - Norwegian Nynorsk -->
+  <string name="lang_nn">نروژی نینورسک</string>
+  <!-- nqo - N’Ko -->
+  <string name="lang_nqo">نئکو</string>
+  <!-- nus - Nuer -->
+  <string name="lang_nus">نوئر</string>
+  <!-- nyn - Nyankole -->
+  <string name="lang_nyn">نیانکوله</string>
+  <!-- om - Oromo -->
+  <string name="lang_om">اورومو</string>
+  <!-- or - Odia -->
+  <string name="lang_or">اوریا</string>
+  <!-- pa - Punjabi -->
+  <string name="lang_pa">پنجابی</string>
+  <!-- pl - Polish -->
+  <string name="lang_pl">لهستونی</string>
+  <!-- ps - Pashto -->
+  <string name="lang_ps">پشتو</string>
+  <!-- pt - Portuguese -->
+  <string name="lang_pt">پرتغالی</string>
+  <!-- pt_BR - Brazilian Portuguese -->
+  <string name="lang_pt_br">برزیل ِپرتغالی</string>
+  <!-- pt_PT - European Portuguese -->
+  <string name="lang_pt_pt">اروپای ِپرتغالی</string>
+  <!-- qu - Quechua -->
+  <string name="lang_qu">قوئچوئا</string>
+  <!-- quc - Kʼicheʼ -->
+  <string name="lang_quc">کئیچه‌ئی</string>
+  <!-- rm - Romansh -->
+  <string name="lang_rm">رومانش</string>
+  <!-- rn - Rundi -->
+  <string name="lang_rn">روندی</string>
+  <!-- ro - Romanian -->
+  <string name="lang_ro">رومانیایی</string>
+  <!-- ro_MD - Moldavian -->
+  <string name="lang_ro_md">مولداوی</string>
+  <!-- rof - Rombo -->
+  <string name="lang_rof">رومبو</string>
+  <!-- ru - Russian -->
+  <string name="lang_ru">روسی</string>
+  <!-- rw - Kinyarwanda -->
+  <string name="lang_rw">کنیاروآندایی</string>
+  <!-- rwk - Rwa -->
+  <string name="lang_rwk">روآیی</string>
+  <!-- sa - Sanskrit -->
+  <string name="lang_sa">سانسکریت</string>
+  <!-- saq - Samburu -->
+  <string name="lang_saq">سامبورو</string>
+  <!-- sbp - Sangu -->
+  <string name="lang_sbp">سانگوو</string>
+  <!-- sd - Sindhi -->
+  <string name="lang_sd">سندی</string>
+  <!-- sdh - Southern Kurdish -->
+  <string name="lang_sdh">جنوبی کردی</string>
+  <!-- se - Northern Sami -->
+  <string name="lang_se">شمالی سامی</string>
+  <!-- seh - Sena -->
+  <string name="lang_seh">سِنایی</string>
+  <!-- ses - Koyraboro Senni -->
+  <string name="lang_ses">کویرابورا سنی</string>
+  <!-- sg - Sango -->
+  <string name="lang_sg">سانگو</string>
+  <!-- shi - Tachelhit -->
+  <string name="lang_shi">تاچلهیت</string>
+  <!-- si - Sinhala -->
+  <string name="lang_si">سینهالا</string>
+  <!-- sk - Slovak -->
+  <string name="lang_sk">اسلواکی</string>
+  <!-- sl - Slovenian -->
+  <string name="lang_sl">اسلوونیایی</string>
+  <!-- sma - Southern Sami -->
+  <string name="lang_sma">جنوبی سامی</string>
+  <!-- smj - Lule Sami -->
+  <string name="lang_smj">لوله سامی</string>
+  <!-- smn - Inari Sami -->
+  <string name="lang_smn">ایناری سامی</string>
+  <!-- sms - Skolt Sami -->
+  <string name="lang_sms">سکولت سامی</string>
+  <!-- sn - Shona -->
+  <string name="lang_sn">شونا</string>
+  <!-- so - Somali -->
+  <string name="lang_so">سومالیایی</string>
+  <!-- sq - Albanian -->
+  <string name="lang_sq">آلبانیایی</string>
+  <!-- sr - Serbian -->
+  <string name="lang_sr">صربی</string>
+  <!-- su - Sundanese -->
+  <string name="lang_su">سوندانسی</string>
+  <!-- sv - Swedish -->
+  <string name="lang_sv">سوئدی</string>
+  <!-- sw - Swahili -->
+  <string name="lang_sw">سواحیلی</string>
+  <!-- sw_CD - Congo Swahili -->
+  <string name="lang_sw_cd">کنگو سواحیلی</string>
+  <!-- ta - Tamil -->
+  <string name="lang_ta">تامیلی</string>
+  <!-- te - Telugu -->
+  <string name="lang_te">تلوگویی</string>
+  <!-- teo - Teso -->
+  <string name="lang_teo">تسویی</string>
+  <!-- tg - Tajik -->
+  <string name="lang_tg">تاجیکی</string>
+  <!-- th - Thai -->
+  <string name="lang_th">تایی</string>
+  <!-- ti - Tigrinya -->
+  <string name="lang_ti">تیگرینیایی</string>
+  <!-- tk - Turkmen -->
+  <string name="lang_tk">ترکمونی</string>
+  <!-- to - Tongan -->
+  <string name="lang_to">تونگانی</string>
+  <!-- tr - Turkish -->
+  <string name="lang_tr">ترکی</string>
+  <!-- tt - Tatar -->
+  <string name="lang_tt">تاتاری</string>
+  <!-- twq - Tasawaq -->
+  <string name="lang_twq">تاساواقی</string>
+  <!-- tzm - Central Atlas Tamazight -->
+  <string name="lang_tzm">میونی اطلس تامزیقی</string>
+  <!-- ug - Uyghur -->
+  <string name="lang_ug">ئوغوری</string>
+  <!-- uk - Ukrainian -->
+  <string name="lang_uk">اوکراینی</string>
+  <!-- und - Unknown language -->
+  <string name="lang_und">نشناسی‌یه زوون</string>
+  <!-- ur - Urdu -->
+  <string name="lang_ur">اردو</string>
+  <!-- uz - Uzbek -->
+  <string name="lang_uz">ازبکی</string>
+  <!-- vai - Vai -->
+  <string name="lang_vai">وایی</string>
+  <!-- vi - Vietnamese -->
+  <string name="lang_vi">ویتنامی</string>
+  <!-- vun - Vunjo -->
+  <string name="lang_vun">وونجویی</string>
+  <!-- wbp - Warlpiri -->
+  <string name="lang_wbp">والرپیری</string>
+  <!-- wo - Wolof -->
+  <string name="lang_wo">وولفی</string>
+  <!-- xh - Xhosa -->
+  <string name="lang_xh">خوسا</string>
+  <!-- xog - Soga -->
+  <string name="lang_xog">سوگا</string>
+  <!-- yo - Yoruba -->
+  <string name="lang_yo">یوروبا</string>
+  <!-- zgh - Standard Moroccan Tamazight -->
+  <string name="lang_zgh">مراکش ِاستاندارد ِتامازیقتی</string>
+  <!-- zh - Chinese -->
+  <string name="lang_zh">چینی</string>
+  <!-- zh_Hans - Simplified Chinese -->
+  <string name="lang_zh_hans">ساده چینی</string>
+  <!-- zh_Hant - Traditional Chinese -->
+  <string name="lang_zh_hant">سنتی چینی</string>
+  <!-- zu - Zulu -->
+  <string name="lang_zu">زولو</string>
+  <!-- zxx - No linguistic content -->
+  <string name="lang_zxx">این زوون بشناسی‌یه نیّه</string>
+</resources>
